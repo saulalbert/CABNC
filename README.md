@@ -14,8 +14,8 @@ Transcriptions are made using [Jeffersonian CA transcription conventions](http:/
 To use or contribute to these transcripts:
 
 1. download and install [CLAN](http://childes.psy.cmu.edu/clan/),
-2. download the correspondingly titled audio file from the Audio BNC [AudioBNC site](http://www.phon.ox.ac.uk/AudioBNC#Access),
-3. transcribe new files or refine existing transcripts.
+2. download the correspondingly titled audio file from the [Audio BNC site](http://www.phon.ox.ac.uk/AudioBNC#Access),
+3. transcribe and push new files or refine existing transcripts using CLAN.
 
 ## BNC Data and Usage
 

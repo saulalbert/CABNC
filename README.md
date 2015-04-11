@@ -37,8 +37,8 @@ it already roughly transcribed, with audio recordings of sufficient quality for
 automated phonetic transcriptions, and full Praat TextGrid files aligning audio
 to transcriptions are available for the entire corpus. There are also
 comprehensive wordclass and part-of-speech tag annotations. Within the overall
-BNC corpus, this project focuses on a subcorpus of more the most naturalistic,
-informally structured conversations. These include 152 rough transcripts of
+BNC corpus, this project focuses on a subcorpus of more naturalistic,
+conversations from informal contexts. These include 152 rough transcripts of
 audio files, labelled by the original BNC transcribers with the following tags:
 
 * Overall category: Demographically sampled (subjects carrying audio recorders around)

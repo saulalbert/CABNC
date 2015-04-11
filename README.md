@@ -1,7 +1,7 @@
 # CABNC transcription project
 
 ## Outline
-A detailed conversation analytic transcriptions of naturalistic conversations from a subcorpus of the [British National Corpus](http://www.natcorp.ox.ac.uk/) amounting to around 4.2 million words.
+A detailed conversation analytic transcription of naturalistic conversations from a subcorpus of the [British National Corpus](http://www.natcorp.ox.ac.uk/) amounting to around 4.2 million words.
 
 ## Accessing and using CABNC data
 

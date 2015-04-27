@@ -1,7 +1,7 @@
 # CABNC transcription project
 
 ## Outline
-A detailed conversation analytic transcriptions of naturalistic conversations from a subcorpus of the [British National Corpus](http://www.natcorp.ox.ac.uk/) amounting to around 4.2 million words.
+A detailed conversation analytic transcription of naturalistic conversations from a subcorpus of the [British National Corpus](http://www.natcorp.ox.ac.uk/) amounting to around 4.2 million words.
 
 ## Accessing and using CABNC data
 
@@ -14,8 +14,8 @@ Transcriptions are made using [Jeffersonian CA transcription conventions](http:/
 To use or contribute to these transcripts:
 
 1. download and install [CLAN](http://childes.psy.cmu.edu/clan/),
-2. download the correspondingly titled audio file from the Audio BNC [AudioBNC site](http://www.phon.ox.ac.uk/AudioBNC#Access),
-3. transcribe new files or refine existing transcripts.
+2. download the correspondingly titled audio file from the [Audio BNC site](http://www.phon.ox.ac.uk/AudioBNC#Access),
+3. transcribe and push new files or refine existing transcripts using CLAN.
 
 ## BNC Data and Usage
 
@@ -37,8 +37,8 @@ it already roughly transcribed, with audio recordings of sufficient quality for
 automated phonetic transcriptions, and full Praat TextGrid files aligning audio
 to transcriptions are available for the entire corpus. There are also
 comprehensive wordclass and part-of-speech tag annotations. Within the overall
-BNC corpus, this project focuses on a subcorpus of more the most naturalistic,
-informally structured conversations. These include 152 rough transcripts of
+BNC corpus, this project focuses on a subcorpus of more naturalistic,
+conversations from informal contexts. These include 152 rough transcripts of
 audio files, labelled by the original BNC transcribers with the following tags:
 
 * Overall category: Demographically sampled (subjects carrying audio recorders around)
@@ -51,5 +51,6 @@ There are 4,228,314 words in this subcorpus.
 
 ## Rights and Usage Information
 
-* BNC spoken audio recordings were created or collected from other sources by Longman Dictionaries for the British National Corpus Consortium. Their usage is governed by the [terms of the original recording permissions agreement](http://www.natcorp.ox.ac.uk/corpus/permletters.html#spoken1) with the contributors, which requires that they can only be "used for scientific study and publication by writers of dictionaries and educational material and language researchers". Furthermore, **by downloading any of the audio recordings, you agree** to the terms in section 2, 6, 7 and 9 of [the BNC User Licence (available here)](http://www.natcorp.ox.ac.uk/docs/licence.pdf), the audio recordings being understood to be among the "spoken texts" included in the "BNC Texts". The supporting annotation and transcription files are Copyright © 2011 The University of Oxford, and are made publicly available under a Creative Commons Attribution License ([details here](http://creativecommons.org/licenses/by/3.0/))
+* All files are publicly available under a Creative Commons Attribution License ([details here](http://creativecommons.org/licenses/by/3.0/))
+* BNC spoken audio recordings were created or collected from other sources by Longman Dictionaries for the British National Corpus Consortium. Their usage is governed by the [terms of the original recording permissions agreement](http://www.natcorp.ox.ac.uk/corpus/permletters.html#spoken1) with the contributors, which requires that they can only be "used for scientific study and publication by writers of dictionaries and educational material and language researchers". 
 * John Coleman, Ladan Baghai-Ravary, John Pybus, and Sergio Grau (2012) Audio BNC: the audio edition of the Spoken British National Corpus. Phonetics Laboratory, University of Oxford. [http://www.phon.ox.ac.uk/AudioBNC](http://www.phon.ox.ac.uk/AudioBNC).

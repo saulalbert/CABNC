@@ -1,66 +1,253 @@
-@Font:	Win95:CAfont:-13:0
+@Font:	Win95:CAfont:-15:0
 @UTF8
+@UTF
 @Begin
 @Languages:	eng
 @Participants:	CHR Chris Adult, NOR Norrine Adult
-@Options:		CA
+@Options:	CA
 @ID:	eng|AudioBNC|CHR||male|||Adult|||
 @ID:	eng|AudioBNC|NOR||female|||Adult|||
-@Media:		021A-C0897X0020XX-AAZZP0, audio
+@Media:	021A-C0897X0020XX-AAZZP0, audio
 @Transcriber:	Saul Albert
-@Comment:	CABNC
-
-
-Chris	304	Mm.
-
-Norrine	305	than decry them.
-
-306	Run them down.
-
-Chris	307	Mm. <pause dur="30">
-
-Norrine	308	The lupin's coming out.
-
-Chris	309	Oh yes so it is.
-
-310	We've got two more down there, which are looking very healthy. <pause dur="8"> <unclear>
-
-Norrine	311	I have offered to Lizzie to make bean salad for her wedding reception, or Brian's wedding
-
-Chris	312	Oh good.
-
-Norrine	313	cos Lizzie's doing the catering.
-
-314	<pause> Erm with the help of David's mother.
-
-
-http://bnc.phon.ox.ac.uk/data/021A-C0897X0020XX-AAZZP0.wav?t=1801.2725,1899.9925
-*NOR:	I've realised no::̲w (.) it's a̲c̲t̲u̲ally meant for wearing:̲
-	(.) outsi̲:̲:̲de. <but it's got a bit of sh̲a̲:̲:ping °here° (.)
-	°<can you see?°
-	(1.8)
-*CHR:	Oh I see what you me:̲an y̲e̲:s y̲e̲s.≈
-*NOR:	≈Uh:m, (.) but whether that-
+@Comment:	CABNC / 11 (Tape 002011)
+@Comment:	Selection rationale: Originally selected for clothes talk.
+*CHR:	S̲u̲r̲e̲. 6144_6832
+	(0.4) 6672_7392
+*CHR:	Have you tried them on al↓r̲e̲a̲d̲y.≈ 7168_8352
+*NOR:	≈N↑ot yet. 8272_8928
+	(0.7) 8735_15679
+*CHR:	tk. ↑I: li̲:ke the ↓look of it ve:̲ry m̲:̲uch. 15583_16799
+	(5.6) 16684_21164
+*NOR:	°°OAhhh (look at these buttons.°°). 21164_23148
+	(7.5) 22444_30252
+*CHR:	°It looks like >button holes< with the staples aren't they. ° 29676_31852
+*NOR:	°We:̲ll that's probly cos they're ne::w (.) isn't it.°≈ 31788_34476
+*CHR:	≈°Hmh° 34348_35180
+	(5.3) 34860_40172
+*NOR:	°Something's pressed h⌈o l e ⌉s for the::re°≈ 40108_42476
+*CHR:	                      ⌊°°Hm°°⌋
+*CHR:	≈>↑↑Hmh< f̲:its n↓icely d↑oesn't ↓it. 41900_43884
+	(1.4)
+*NOR:	>>°°G↑ood look.°°<<
+*CHR:	D'you li:ke it? 45228_46188
+	(0.5)
+*NOR:	Well I'm asking y̲o̲u̲ at the minute? 46124_47532
+*CHR:	Y̲e̲s̲ I li:̲ke ↓it (.) I ⌈l̲i̲k̲e̲ it. 47596_49132
+*NOR:		              ⌊You do̲::̲:̲ you th⌈ink   ⌉ it fits
+*CHR:	                                       ⌊°H↑mh°⌋
+*NOR:	alri:̲:̲ght ⌈an- 48684_50284
+*CHR:	          ⌊>>IT e- ititit<< seems to me to fit (.) p↑e̲:̲rfect⌈ly. 49900_52524
+*NOR:	                                                            ⌊And the
+	c̲o̲l̲o̲u̲r̲'s not too dra̲::̲b? 52012_54060
+*CHR:	>↑I: don't think the colour's< ⌈ D R ⌉A:̲:̲b at ↑a̲:ll≈ 53420_55276
+*NOR:	                               ⌊°Hhm°⌋
+*NOR:	≈⌈°An the lo-°⌉
+*CHR:	 ⌊I think the ⌋colou:̲r's >eh< f↑a:b.≈ 55020_56364
+*NOR:	≈Ri:̲:̲ght? 56108_56940
+	(0.9) 56684_57836
+*CHR:	Looks (.) just fine to me̲::̲?≈ 57836_59052
+*NOR:	≈Y↑es (.) ri̲:̲:ght ⌈I'll- (.)⌉ slip on the o::ther o:ne? 58860_61548
+*CHR:	                  ⌊>°Ye:̲hs°<⌋  59820_60396
+	(0.6) 61203_61843
+*CHR:	°°Yus°° I li̲::̲ke it. 61804_62764
+*NOR:	°Goo̲:d°. 62739_63507
+	(1.2) 63443_64595
+*NOR:	It wa̲s̲n̲'t (.) too expensive. (.) >thirty pounds< twenty nine
+	ninety fi::ve or something? 64595_69011
+*CHR:	G̲o̲:̲o̲d. 68819_69715
+*NOR:	°Um::° (.) Which isn't a bad pr̲i̲c̲e̲. 69523_72147
+*CHR:	∙HH d'you try- did you try any of them o̲n̲ in Ma::̲rks? 71763_74067
+*NOR:	No::.≈ 73811_74707
+*CHR:	≈°°Neh°° 74259_75219
+	(3.9) 74835_78739
+*CHR:	What's the mate::̲rial >of ↓that one.< 78611_79827
+	(0.8) 79699_80531
+*NOR:	I ↑don't ↓know. 80531_81363
+	(1.0)
+*NOR:	°°No hold on°° ∙hh
+	(1.3) 82707_83987
+*NOR:	Now t̲h̲↑̲i̲s̲ o̲::̲ne (0.7) I've realised no::̲w (.) it's
+	a̲c̲t̲u̲ally meant for wearing:̲(.) outsi̲:̲:̲de. <cos it's got a
+	bit of sh̲a̲:̲:ping °↓here° (.)°<can you see̲::̲?° 84029_94525
+	(1.8) 93373_95165
+*CHR:	Oh I see what you me:̲an y̲e̲:s (.) y̲e̲s.≈ 94973_96829
+*NOR:	≈↑Uh::m, (.) but whether that- 96445_98813
 	(0.6)
-*CHR:	But the n̲e̲⌈ck-
-*NOR:	          ⌊You couldn't wear it outside with t̲h̲i̲⌈s̲- (.) skirt on
+*CHR:	But the n̲e̲⌈ck- 98429_99581
+*NOR:	          ⌊You couldn't wear it outside with t̲h̲i̲⌈s̲-(.)skirt o:̲n? 99069_102333
 *CHR:	                                                ⌊Ou- OUT OUT O̲r̲
-	↓i̲n̲:̲ presumably with shaping. 99348_103371
-	(1.5)
-*NOR:	°Presumably::° >HEre- look the here-< e̲c̲ho:es of-
-	(2.0)
-*CHR:	What do you mean?
-*NOR:	The- co̲l̲l̲ar has this p̲o̲i̲n̲t̲ at the bottom in the styling.≈
+	↓i̲n̲:̲ presumably with shaping. 100925_103549
+	(1.6) 103165_104701
+*NOR:	°Presumably::° >HEre- look the here-< e̲c̲ho:es of- 104701_107517
+	(2.2) 107069_109220
+*CHR:	>What do you me:an?< 109220_109796
+*NOR:	The- co̲l̲l̲ar has this p̲o̲i̲n̲t̲ at the bottom in the styling.≈ 109732_113508
 *CHR:	≈O̲h̲ ̲I̲ ̲s̲e̲̲e̲:. (.) O:h >yes yes:< >yes yes< I- I d̲o̲ see
-	what you mean yah °yu⌈h°.
-*NOR:	                     ⌊And also it's cut shorter at the ba̲::̲ck.
-
-Chris	970	<-|-> <unclear> <-|-> sort of waistcoaty in fact.
-
-Norrine	971	<unclear> .
-
-Chris	972	Well it looks fine tucked in like that.
-
-Norrine	973	I mean there's not much of it to tuck in.
-
-http://bnc.phon.ox.ac.uk/data/021A-C0897X0020XX-AAZZP0.wav?t=101.0525,133.7425
+	what you mean yah °yu⌈h°. 112740_116068
+*NOR:	                     ⌊And al⌈s o   ⌉it's cut shorter at the ba̲::̲ck? 115876_120548
+*CHR:	                            ⌊°Yup,°⌋ 116644_117284
+	(2.5) 118956_120492
+*NOR:	>To be 'wa⌈::re that (all ar'- 120620_123628
+*CHR:	          ⌊Yeh sort of (becomes-) 121196_122732
+*CHR:	Sort of w̲a̲i̲s̲t̲c̲oaty: (.) effect. 122412_124780
+	(0.8) 123756_124524
+*NOR:	T'be wo:rn on top of a straight ski:̲:rt or something ∙hh um, 124460_128300
+	(2.3)
+*CHR:	Well it looks fine tucked in like that.
+*NOR:	I mean there's not much of it to tuck in.... You know sort of
+*CHR:	Well that looks very smart as it is.
+*NOR:	But you couldn't wear it out on this particular blouse
+*CHR:	Well ca w
+*NOR:	because of the belt.If you wore the erm
+*CHR:	Well try it.
+*NOR:	If you.I will.You think that the colours go and
+*CHR:	I think the colours go very well indeed.I mean it doesn't pick up precisely the same colour but that in there
+*NOR: ...]
+*CHR:	Yes it is.Yes it is.Yes.But it clashes very well indeed.Why can't you wear it out like that?
+*NOR:	Because you destroy the blouse, the the way that the belt ...]
+*CHR:	Well that doesn't matter if you've got your, if you've got your jack your jackety effect then haven't you?
+*NOR:	I suppose you could, if you were going to wear it like that, you could take the belt right off.
+*CHR:	Well you don't have to.
+*NOR:	Well no but you, it, it, it's quite a heavy belt and if it, if it's holding, if it's giving point to it.
+*CHR:	Yes.And that would make it a, an even cooler outfit wouldn't it?
+*NOR:	Yes.Because I have got this ... ...] ... this ... this creamy shirt.Erm ... which I saw again in Marks this year ... which you could wear tucked in with a belt.
+*CHR:	Yes.Yes.But that one is, is genuinely versatile.Looks just as good tucked in as
+*NOR:	Yes.As I say the problem with the tucking in on that one is there's not quite such a lot of length.So when you do this you might come out.
+*CHR:	It'd start pulling out, yes.
+*NOR:	Erm and I don't think it looks good hanging out because it's, you, you paying in the skirt and the belt and that.And it's a bit silly to wear er a permanent arrangement.But this shirt could be worn with the skirt, couldn't it?
+*CHR:	Definitely.
+*NOR:	I mean the colour's just as, it's not quite as strong.
+*CHR:	...] the colour's pretty neutral isn't it?
+*NOR:	But I mean it does pick up.
+*CHR:	Yes.Yes I think the skirt's gonna be very useful actually.
+*NOR:	Er ...] good skirt whether ...] .
+*CHR:	Well I hope you will.I like it.
+*NOR: ...]
+*CHR:	It's the wrong green I think.The actual skirt, the skirt's a blueyer green.But you've got two blouses to wear with it, that's alright.You've got this other white one as well.
+*NOR:	...] white one.That's a short, that's your shirt.
+*CHR:	That's mine is it?Mm.
+*NOR:	They're very good, that's the white one.
+*CHR:	Yes.I would have thought
+*NOR:	This white one might ...] the cream one.
+*CHR:	Well so you've got four blouses ...] .
+*NOR:	Which is the fourth?
+*CHR:	Well the one you just said is a bit old now.
+*NOR:	Oh yeah but that's white again isn't it?
+*CHR:	Yes.No I think they're all worth ...] and I think that's an attractive top as well.I think you should have that.
+*NOR:	Well erm.What else ...] .
+*CHR:	I don't know ...] .It's it's it's a possible winter or cooler
+*NOR:	No it's not.
+*CHR:	weather skirt.With a jumper or cardigan.
+*NOR:	No it's not....] cooler, warmer weather and it's got short sleeves you know.I don't really erm ...] .
+*CHR:	 laugh]
+*NOR:	That's wrong for that.This has got a stain on it.
+*CHR:	That's a nuisance.It would be perfectly acceptable otherwise.
+*NOR:	Yes and we've got big crease marks on there.
+*CHR:	Let's have a look.
+*NOR:	There.... I know it's there.I know it was last year I was really annoyed.
+*CHR:	Put the light on.... . Well if we can't see it, it doesn't matter even if it is there.N'est pas?
+*NOR:	Well you certainly can't see it.Which is ...] cos there was this big round grease mark.It was very ...] but maybe I got it out.But I suppose that ... might erm
+*CHR:	Don't you think they go well together?
+*NOR:	work.Those colours are not too dark are they?
+*CHR:	 ...]
+*NOR:	They're not perfect but they would do ...] .Oh what about this?... Mind you this skirt is only casual.And that's a rather sort of formal blouse.No that's wrong....] wrong.
+*CHR:	Oddly enough I mean it's so far away from the yellow I would say it isn't wrong.
+*NOR:	Oh it is wrong.It's not, it's not the same as this at all.That's sort of brilliant
+*CHR:	That, that's a hot pattern and colour isn't it?
+*NOR:	That's a brilliant yellow, yes.And this one's erm a sort of golder.And that wouldn't do.But that's colours go with that ...] .
+*CHR:	Mhm.
+*NOR:	Those are the only ...] .And I'll keep this blue skirt ...] stain, quite smart.
+*CHR:	Yes.
+*NOR:	...] .And I'll keep the dress.And I'll think about the shirt.I like it with the skirt.What I might do is go back to Marks.If they have one thing in that colour they may have another one.
+*CHR:	In what colour?We were chatting.
+*NOR:	The gold ...]
+*CHR:	Are you, are you thinking of that because it's a bit too formal or something?
+*NOR:	No just because it hasn't got the length for tucking in.
+*CHR:	Oh, yes.
+*NOR:	And I don't like these that pull out when you ...]
+*CHR:	Well at least if it pulls out it looks alright.... It was interesting in the pub last night.There were quite a lot of enthusiastic er ... audience but er they were mostly grey beards like me.Yes.Oh yes well apparently they normally have a sort of rhythm and blues or something on a, on a Thursday.Er or soul or something of that sort, which er ... you know there were loads of youngsters in the pub.Not under age youngsters I was pleased to see.But er ... there were a goodly proportion of people who were really enjoying the er, the track.
+*NOR:	I'm sorry I didn't feel up to going.
+*CHR:	Yeah.Well we've got plenty of other, I've got the list....] opportunities to go and hear them again.He's a funny character though.
+*NOR:	Who?Who's a funny character?
+*CHR:	, who runs it.
+*NOR:	...] .... He seems to have a very popular pub there.
+*CHR:	Oh, who runs the band sorry, runs the band.
+*NOR:	Oh, who runs the band.
+*CHR:	Yeah, it, it's a new interim landlord at the Crown. ...
+*NOR:	What happened to the old one?
+*CHR:	Oh, they move on.Erm you know he found another pub.Sometimes they move from being managers to being licence, erm erm tenants, I mean
+*NOR: ...]
+*CHR:	when they're running their own business.
+*NOR:	A bigger pub?
+*CHR:	Perhaps but I mean the Crown is quite a big pub.
+*NOR:	...] more opportunities.
+*CHR:	Quite a big pub.It's a, with its own kitchens and what have you.I should think you could make a good living there if you wanted to.And there have been long term er landlords there.
+*NOR: ...]
+*CHR:	Sorry?
+*NOR: ...]
+*CHR:	Mm.Well I'll go and shower now.... Snoopy was off in a rush wasn't she?
+*NOR:	Well she was going on the train.
+*CHR:	Didn't realize she was going quite so early but I suppose it's hardly early anyway now.
+*NOR:	What time does Lynda come in these days?
+*CHR:	Half past nineish.
+*NOR:	I wonder if she'll change her time because of half term and she won't have to be ... taking her daughter to nursery school today, half past one.
+*CHR:	She may be.Yes, yes she may be.Yep.
+*NOR:	...] isn't it? ...] bridesmaid's dress.There's nothing the right colour at all.
+*CHR:	Oh how annoying.
+*NOR:	I'll have to go into that little ... Auntie Pat's Textiles or whatever it's called in the afternoon.
+*CHR:	You don't want to leave it to Veronica?
+*NOR:	Veronica doesn't want, want to do the shopping bit of it.
+*CHR:	No.
+*NOR:	I don't blame her either.
+*CHR:	laugh] yes, it's certainly improving a bit
+*NOR:	I know she hasn't left all her customers.
+*CHR:	Oh quite, quite.Does she have any other suggestions of shops for the linings?
+*NOR:	...] .Well John Lewis probably will have it but that means ... burdening Suzannah with it.At a time when she's busy with her exams.It also means sorting out the cash.
+*CHR:	How interested is she in the preparation of this dress?
+*NOR:	Oh she's interested alright. ...
+*CHR:	Interested enough to be enthusiastic and do the right thing?
+*NOR:	Well she, she also ...]
+*CHR:	Did she?
+*NOR:	but she is ... preoccupied at the moment with her exams and in a way I'm glad.I didn't want to ... send her material hunting if she could be doing something useful at college.
+*CHR:	Yes, yes fair enough.Anyway, O K
+*NOR:	Karen's given her an extra job from ... ...]
+*CHR:	Is she?
+*NOR:	...] going in on Monday when she doesn't normally.
+*CHR:	Half past ten, right.
+*NOR: ...]
+*CHR:	Well given that then, in that case she still can't ring the bank to find out what, how much she's now got in the account.
+*NOR:	Can't she?Why not?
+*CHR:	Well she can do, but she can't do it from home.That's all.She won't be home....] will she?
+*NOR:	Banks open at nine don't they?I mean, not to the public but the office is.
+*CHR:	Yes.Anyway she's the one who 's ...] find out
+*NOR:	I mean anyway she'll be home again.
+*CHR:	Will she?
+*NOR:	She's only going for one class.
+*CHR:	Mm.
+*NOR:	I mean she'll be home ...] after lunch I imagine.
+*CHR:	Yes.... Did you do anything about those tranquillisers?
+*NOR:	What ...] ?
+*CHR:	Lynda's got some, for Simon.For his driving test.
+*NOR:	I mentioned it to ...]
+*CHR:	Homeopathic ones.
+*NOR:	Well that's the kind I was after.Erm, I mentioned it to Suzannah.And she wasn't averse to the idea.But she said she doesn't need them for Monday because it's only when she takes the tests she gets in a panic not when she's ... she said she can do it in the practice classes.
+*CHR:	Right.
+*NOR:	What she needs, lots of practice with different, not all on one man like before
+*CHR:	Yes.
+*NOR:	but a new person each time ...] skill
+*CHR:	I, I doubt whether she's been properly taught on the subject quite frankly.
+*NOR:	I mean other girls have passed.
+*CHR:	Yes, yes.
+*NOR:	And she likes Karen.Very much.
+*CHR:	Her teacher for ...] ?
+*NOR:	Yes.
+*CHR:	Oh, I
+*NOR:	She's a young girl.
+*CHR:	Really?
+*NOR:	And she likes her very much and erm ... I told you she ...] by chance ...] .
+*CHR:	Yes, indeed.
+*NOR:	And she spoke very highly of Suzannah.
+*CHR:	Oh.
+*NOR:	And said what a nice girl she was and what a good student and ...
+	Suzannah said oh that's cos I won that make up competition.
+*CHR:	laugh] Right, I should get on.

@@ -1,4 +1,4 @@
-@Font:	Win95:CAfont:-15:0
+@Font:	CAfont:13:0
 @UTF8
 @UTF
 @Begin
@@ -125,9 +125,12 @@
 *CHR:	                            ⌊°°I don't- (.) I think its-°° (.)
 	Hmm? 190436_192548
 *NOR:	You could take the belt right o::ff. 192564_194324
-	(0.6)
-*CHR:	Well you don't ha̲v̲e̲ ↓to.≈
-*NOR:	Well no but you, it, it, it's quite a heavy belt and if it, if it's holding, if it's giving point to it.
+	(0.6) 194067_194723
+*CHR:	Well you don't ha̲v̲e̲ ↓to.≈ 194723_195379
+*NOR:	≈Well no but yo::u (.) it- you've- it's a bit- qui̲:te a he̲a̲v̲y̲
+	↓belt and ⌈if it's if y- >IF it's h̲o̲:̲l̲d̲ing if it's giving a
+*CHR:		  ⌊No:: it's-   (.)   °oh that's nice°   hm    (ye:h)
+*NOR:	p̲o̲i̲nt to i:̲t
 *CHR:	Yes.And that would make it a, an even cooler outfit wouldn't it?
 *NOR:	Yes.Because I have got this ... ...] ... this ... this creamy shirt.Erm ... which I saw again in Marks this year ... which you could wear tucked in with a belt.
 *CHR:	Yes.Yes.But that one is, is genuinely versatile.Looks just as good tucked in as

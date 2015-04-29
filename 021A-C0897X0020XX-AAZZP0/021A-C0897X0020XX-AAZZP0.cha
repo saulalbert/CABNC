@@ -1,4 +1,4 @@
-@Font:	CAfont:13:0
+@Font:	Win95:CAfont:-15:0
 @UTF8
 @UTF
 @Begin
@@ -140,28 +140,67 @@
 *CHR:	⌊(°Hmhm°)
 	(0.6) 209946_210522
 *NOR:	(            ) 210267_212251
-	shirt.Erm ... which I saw again in Marks this year ... which you
-	could wear tucked in with a belt.
-*CHR:	Yes.Yes.But that one is, is genuinely versatile.Looks just as good tucked in as
-*NOR:	Yes.As I say the problem with the tucking in on that one is there's not quite such a lot of length.So when you do this you might come out.
-*CHR:	It'd start pulling out, yes.
-*NOR:	Erm and I don't think it looks good hanging out because it's, you, you paying in the skirt and the belt and that.And it's a bit silly to wear er a permanent arrangement.But this shirt could be worn with the skirt, couldn't it?
-*CHR:	Definitely.d
-*NOR:	I mean the colour's just as, it's not quite as strong.
-*CHR:	...] the colour's pretty neutral isn't it?
-*NOR:	But I mean it does pick up.
-*CHR:	Yes.Yes I think the skirt's gonna be very useful actually.
-*NOR:	Er ...] good skirt whether ...] .
-*CHR:	Well I hope you will.I like it.
-*NOR: ...]
-*CHR:	It's the wrong green I think.The actual skirt, the skirt's a blueyer green.But you've got two blouses to wear with it, that's alright.You've got this other white one as well.
-*NOR:	...] white one.That's a short, that's your shirt.
-*CHR:	That's mine is it?Mm.
-*NOR:	They're very good, that's the white one.
-*CHR:	Yes.I would have thought
-*NOR:	This white one might ...] the cream one.
-*CHR:	Well so you've got four blouses ...] .
-*NOR:	Which is the fourth?
+	(4.7) 212602_217333
+*NOR:	This cre:̲amy ⌈shi::rt. 216917_218325
+*CHR:	             ⌊Ye̲::s. °I should thi-°≈ 217797_219381
+*NOR:	≈E̲r̲:m (2.8) which I saw again in Ma:rks th↑is ↓ye:ar 219411_224755
+	(6.8) 224771_231523
+*NOR:	Which you could wear tucked in (0.6) ⌈with a⌉be::lt?≈ 231523_234915
+*CHR:	                                     ⌊°Yes.°⌋ 233379_234019
+*NOR:	≈°Y↑es.° B̲u̲t̲ th- but t̲h̲a̲:̲t̲ one is is ge̲n̲uinely
+	ve̲r̲sat↓ile. (.) <it looks just as good tucked in °as⌈:: as::° 234339_240387
+*NOR:	                                                    ⌊°Y̲e̲s̲.°  as I
+	s̲a̲y̲ the pr↑oblem with the tucking ↓in on that one is there's-
+	>there's< not quite such a lot of l̲e̲n̲g̲t̲h̲. <so ⌈when⌉ you do
+*CHR:	                                              ⌊hmm ⌋ 243817_245161
+*NOR:	this yo⌈u might come o̲::̲ut. 239497_246281
+*CHR:	       ⌊It's going to p- start pulling o̲u̲t̲ °ye:s.°≈ 244969_248905
+*NOR:	≈Er:m (.) and I d↑o̲:̲n̲'t think it looks good t- (.) hanging o̲:ut.
+	because it- it- you'll you paying in the ski̲::̲rt and the be̲:lt
+	and tha:̲t? 246784_253760
+*CHR:	Hmmh. 253728_254272
+*NOR:	And it's a bit s̲i̲l̲l̲y̲ to wear eh (.) >>as a<< permanent
+	arr̲a̲n̲g̲e̲ment. 253984_257600
+*CHR:	H:̲mm. 257600_258464
+*NOR:	But th↑i̲s̲ shi̲::̲rt (.) could be worn with the ski:̲rt c↑ouldn't
+	i:t. 258336_261824
+	(1.8)
+*CHR:	>De̲f̲↑inite↓ly.< 263200_263936
+*NOR:	I mean the >colour is just as-< (.) it's not⌈ quite as str̲o̲::̲ng. 263840_266816
+*CHR:	                                           ⌊>Think that looks-<
+	<that's pretty n̲e̲u̲tral i:̲sn't it. 265344_270112
+*NOR:	>But I< mea:̲::n <it does pick up. hh 267366_269254
+*CHR:	°Yes° °°Yes°° I think the s̲k̲i̲r̲t̲'̲s̲ going t'be very u:̲:̲seful
+	↓actually? 269254_272102
+	(1.6) 272070_273670
+*NOR:	°°It's very (.) t- a::h°° °perhaps it w̲o̲u̲l̲d̲ be a good ski̲:rt.
+	<a̲l̲t̲h̲o̲ugh I (>>also like<<) yellow blo::u⌈se? 273510_278950
+*CHR:	                                         ⌊W̲e̲l̲l̲ I ho:̲:pe you
+	w̲i̲::̲l̲l̲? I li:̲k̲e it. 278566_280742
+	(1.7)
+*NOR:	(°Keep o̲::̲ne (.) without only:̲ (.) that shirt?°) 282131_284979
+	(1.7) 284563_286291
+*CHR:	Mm:it's the wrong gr↓ee:̲n I think? 286227_288051
+	(1.0) 287443_288435
+*NOR:	°Ye:⌈s° (.) it  i :s°⌉ 288435_289971
+*CHR:	    ⌊⁎Ehh::ehh:⁎ yeh: ⌋it's:: th- the skirt's a b̲l̲u̲e̲y̲e̲r̲ (.)
+	green. 289011_291289
+*NOR:	°°Ya:h.°° 291321_291737
+	(1.3) 291641_292985
+*CHR:	Bu:̲t you've got ↓t̲w̲o̲ blouses to wear with ↑it so ↓that's
+	alright i:̲sn't it? (.) you've got- is that a w̲h̲i̲t̲e̲ one as
+	we̲::̲ll? 292601_298457
+*NOR:	Huh- eh I h̲o̲p̲e̲ there's a ↓white one:̲? that's a short- <that's
+	y̲o̲:̲u̲r̲⌈ shi:rt.⌉ 297625_301561
+*CHR:	     ⌊That's m̲⌋i̲:̲n̲e̲ is it? °Ye̲:⌈:hs°. 300345_302617
+*NOR:	                               ⌊T̲̲h̲e̲r̲e̲ <t̲h̲e̲r̲e̲ ↓look
+	th↑at's the wh↓ite one:̲ ⌈with ⌉s- the sh̲o̲u̲l̲der on?≈ 301459_304051
+*CHR:	                        ⌊Ye:s.⌋ 302867_303347
+*CHR:	I̲:̲: would have thou:̲ght that >was goin-< 303827_304851
+*NOR:	<°Look° THIS ↓white one li:̲ke this c̲r̲e̲:̲a̲m̲ one:.≈ 303859_306611
+*CHR:	≈>°Whull°< >>doesn't matte:̲r<< <so you've got f̲o̲u̲r̲ b̲l̲o̲:uses
+	even if one of them's a bi⌈t o̲:̲ld. 306355_309587
+*NOR:	                          ⌊Which is the f̲o̲:̲:urth. 308595_309779
 *CHR:	Well the one you just said is a bit old now.
 *NOR:	Oh yeah but that's white again isn't it?
 *CHR:	Yes.No I think they're all worth ...] and I think that's an attractive top as well.I think you should have that.

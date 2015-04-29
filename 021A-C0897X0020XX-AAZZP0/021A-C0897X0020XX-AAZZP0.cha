@@ -1,15 +1,16 @@
 @Font:	Win95:CAfont:-15:0
 @UTF8
-@UTF
 @Begin
 @Languages:	eng
 @Participants:	CHR Chris Adult, NOR Norrine Adult
+@ID:	eng|AudioBNC|CHR|~51;|male|||Adult||PS05X|
+@ID:	eng|AudioBNC|NOR|~54;|female|Ag4||Adult||PS101|
+@UTF
+@Begin
 @Options:	CA
-@ID:	eng|AudioBNC|CHR||male|||Adult|||
-@ID:	eng|AudioBNC|NOR||female|||Adult|||
 @Media:	021A-C0897X0020XX-AAZZP0, audio
 @Transcriber:	Saul Albert
-@Comment:	CABNC / 11 (Tape 002011)
+@Comment:	CABNC / 11 (Tape 002011) / BNC Text KBK
 @Comment:	Selection rationale: Originally selected for clothes talk.
 *CHR:	S̲u̲r̲e̲. 6144_6832
 	(0.4) 6672_7392

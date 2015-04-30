@@ -1,4 +1,4 @@
-@Font:	CAfont:13:0
+@Font:	Win95:CAfont:-15:0
 @UTF8
 @Begin
 @Languages:	eng
@@ -255,15 +255,37 @@
 	(0.9) 418283_419211
 *CHR:	>°Go⌈ well toge⌉ther°< 419003_419851
 *NOR:	    ⌊For wo:̲rk?⌋ 419051_419883
-*NOR:	work.Those colours are not too dark are they?
-*CHR:	 ...]
-*NOR:	They're not perfect but they would do ...] .Oh what about this?... Mind you this skirt is only casual.And that's a rather sort of formal blouse.No that's wrong....] wrong.
-*CHR:	Oddly enough I mean it's so far away from the yellow I would say it isn't wrong.
-*NOR:	Oh it is wrong.It's not, it's not the same as this at all.That's sort of brilliant
-*CHR:	That, that's a hot pattern and colour isn't it?
-*NOR:	That's a brilliant yellow, yes.And this one's erm a sort of golder.And that wouldn't do.But that's colours go with that ...] .
-*CHR:	Mhm.
-*NOR:	Those are the only ...] .And I'll keep this blue skirt ...] stain, quite smart.
+	(1.8) 419896_421736
+⌈NOR:	Those co⌈lours⌉ are- (.) ⌈n o t  t̲ ̲o̲ ̲o̲  b a : d. they're no- 421656_424114
+*CHR:	        ⌊Hmm̲? ⌋          ⌊(hm) no problem the̲::̲re?
+*NOR:	p̲e̲r̲fect but they're (>°not too ba:d.°<) 423554_425186
+	(1.3) 425010_426338
+*NOR:	Oh̲:: what about thi̲::̲s? 426338_427602
+	(2.4) 427360_429712
+*NOR:	Mi:nd you thi:̲s skirt is only c̲a̲s̲ual,≈ 429680_431936
+*CHR:	≈°°Hwuhh it mightn't be°°≈ 431760_433984
+*NOR:	≈>Iwa-< and t̲h̲a̲t̲'s a ra:ther sort of (.) formal
+	b̲l̲o̲::̲u̲s̲e̲? 432848_435616
+	(1.1) 435632_436720
+*NOR:	No̲:: that's wr↓o̲:̲n̲g̲ (.) the:̲: ye:̲llow's wrong 436640_439680
+	(0.8) 439642_440554
+*CHR:	∙Hhcl O̲d̲d̲l̲y̲ e̲n̲↓̲o̲u̲g̲h̲ >I mean< it's so far awa̲y̲ from the
+	yellow I'd- I would say it i:̲sn't ↓w̲r̲o̲n̲g̲,≈ 440554_444154
+*NOR:	≈Oh it ↑is w⌈r↓o̲n̲g̲. It's not- it's n̲o̲t̲ the same as this at 443818_446506
+*CHR:	            ⌊EHhm:̲? 444421_445029
+	a̲:̲:̲l̲l̲. ∙HH T̲H̲a̲t̲'s sort of b̲r̲i̲l̲⌈l̲iant. 446469_448533
+*CHR:	                              ⌊No that- that's a h̲o̲T̲ (.) 448037_449326
+*NOR:	⌈That's a br̲i̲l̲l̲iant yellow ye::s  449294_451838
+*CHR:	⌊↓Pattern and colour i̲s̲n̲'̲t̲ it. 449870_451198
+*NOR:	<And this one's erm: a sort of g̲o̲l̲d̲e̲n̲. 451166_454174
+*CHR:	Mh:m. (.) m⌈mh 453234_454210
+*NOR:	           ⌊And that won't do::? <but t̲h̲a̲t̲'̲s̲ the colours that
+	go with °that other shirt°. 454139_457627
+*CHR:	Mhm? 457627_458267
+*NOR:	T̲h̲↑̲o̲:̲s̲e̲ are the o̲n̲ly skirts I'm (sure abo̲:ut) 458267_460699
+*CHR:	>Mhm?< 460539_461627
+	.And I'll
+	keep this blue skirt ...] stain, quite smart.
 *CHR:	Yes.
 *NOR:	...] .And I'll keep the dress.And I'll think about the shirt.I like it with the skirt.What I might do is go back to Marks.If they have one thing in that colour they may have another one.
 *CHR:	In what colour?We were chatting.

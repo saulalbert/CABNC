@@ -52,5 +52,6 @@ There are 4,228,314 words in this subcorpus.
 ## Rights and Usage Information
 
 * All files are publicly available under a Creative Commons Attribution License ([details here](http://creativecommons.org/licenses/by/3.0/))
+* Please cite use of these transcriptions as: Saul Albert (2015) CABNC: the Jeffersonian transcription of the Spoken British National Corpus. [https://saulalbert.github.io/CABNC/](https://saulalbert.github.io/CABNC/).
 * BNC spoken audio recordings were created or collected from other sources by Longman Dictionaries for the British National Corpus Consortium. Their usage is governed by the [terms of the original recording permissions agreement](http://www.natcorp.ox.ac.uk/corpus/permletters.html#spoken1) with the contributors, which requires that they can only be "used for scientific study and publication by writers of dictionaries and educational material and language researchers". 
 * John Coleman, Ladan Baghai-Ravary, John Pybus, and Sergio Grau (2012) Audio BNC: the audio edition of the Spoken British National Corpus. Phonetics Laboratory, University of Oxford. [http://www.phon.ox.ac.uk/AudioBNC](http://www.phon.ox.ac.uk/AudioBNC).

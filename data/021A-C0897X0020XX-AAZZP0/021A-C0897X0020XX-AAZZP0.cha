@@ -15,8 +15,8 @@
 @Comment:	BNC transcripts available at:
 @Comment:	http://bnc.phon.ox.ac.uk/transcripts-html/KBK.html
 @Comment:	Selection: originally selected for featuring clothes talk.
-	[% com Music] 0_2384
-	[% com Tape 002011 started] 2544_3168
+	[% Music] 0_2384
+	[% Tape 002011 started] 2544_3168
 *NOR:	(Alright.) 3312_4016
 	(2.4) 3952_6384
 *CHR:	S̲u̲r̲e̲. 6144_6832
@@ -143,7 +143,7 @@
 *CHR:	Ye:̲s. ∙hh An- an- that would make it >a-a a-< a even
 	c̲o̲o̲:̲:ler ↓outfit wo:̲uldn't it.≈ 201349_204997
 *NOR:	≈°Ye::s.° (.) but I h↑ave got this- 204884_207060
-	(1.4) [% com Clattering of clothes hangers] 206932_208404
+	(1.4) [% Clattering of clothes hangers] 206932_208404
 *NOR:	⌈(°'S alri_::_ht?°) (.) this:: shi̲::̲rt 208148_210260
 *CHR:	⌊(°Hmhm°)
 	(0.6) 209946_210522
@@ -343,8 +343,8 @@
 *NOR:	                                 ⌊Who̲:. 563803_564571
 	(1.3) 564619_565947
 *NOR:	Who's a funny char(acter) 565915_566699
-	[% com Deleted name] 566730_567642
-*CHR:	[% com Name] who r̲u̲n̲s̲ it. 566746_568746
+	[% Deleted name] 566730_567642
+*CHR:	[% Name] who r̲u̲n̲s̲ it. 566746_568746
 	(0.6) 568714_569322
 *NOR:	°Ri:̲lly.° 569386_570122
 *CHR:	°°Ye::s.°° 570138_570746
@@ -524,10 +524,10 @@
 *CHR:	MHHa HA Hha- ∙hh Hah hah hah hah ∙Hchh ∙hhh 843794_847154
 	(0.9) 846915_847891
 *CHR:	R̲↑i̲̲g̲h̲t̲ I should get on::, 847843_849571
-	(13.2) [% com Tape 002011 stopped] 848923_861995
-	[% com Tape 002002 started] 861492_861844
+	(13.2) [% Tape 002011 stopped] 848923_861995
+	[% Tape 002002 started] 861492_861844
 *CHR:	∬Gosh∬ L̲y̲n̲da wasn't h̲e̲r̲e̲ yester>day< when er ∙Hhhhhh
-	°people arrived° [% com sneeze] 861826_868498
+	°people arrived° [% sneeze] 861826_868498
 	(1.2) 867728_868976
 *CHR:	Curry? 868864_869264
 	(0.8) 869184_870000
@@ -612,8 +612,8 @@
 	(7.6) 1052004_1059560
 *CHR:	∬H̲e̲l̲l̲o̲ ̲d̲e̲:̲a̲r̲∬ 1059560_1060488
 	(17.6) 1060392_1077918
-	[% com Tape 002002 stopped] 1077838_1078670
-*CHR:	[% com Tape 002003 started] 1077718_1079510
+	[% Tape 002002 stopped] 1077838_1078670
+*CHR:	[% Tape 002003 started] 1077718_1079510
 	(5.0) 1078758_1083798
 *CHR:	Ch∙hh I've never s̲↑e̲e̲n̲ such a ↓dry grapefuit.
 	(0.8) 1085654_1086454
@@ -639,7 +639,7 @@
 	take it BACK I didn't take that chICKen back to Safeway:s if you
 	remember? 1116128_1120528
 *NOR:	Which chicken was tha:t.
-*CHR:	TCHA [% com sneeze] <the one that s̲m̲e̲l̲t̲.
+*CHR:	TCHA [% sneeze] <the one that s̲m̲e̲l̲t̲.
 	(2.2) 1122939_1125115
 *NOR:	↑Did y̲:ou compl↑ai̲::̲n? 1125083_1126267
 	(1.2) 1125995_1127275
@@ -665,14 +665,14 @@
 *CHR:	∙hhh WELL it's INC̲R̲E̲dible how little ma̲::̲il and there's nothing
 	on fax or telex ei:̲ther. 1162876_1167820
 *NOR:	They're all on holiday perhaps having half te::rm (.) or something? 1167663_1172091
-	[% com Kitchen disposal noise] 1172027_1173227
+	[% Kitchen disposal noise] 1172027_1173227
 *NOR:	°Gosh° 1173019_1173835
 *CHR:	This is n̲o̲t̲ n̲i̲:̲c̲e̲. 1173915_1175179
 	(1.5) 1174907_1176363
 *NOR:	Looks rev↑o:lti̲::ng. 1176395_1177851
 *CHR:	Hmm. (.) well. 1177808_1178736
 *NOR:	(On that colour) we'll⌈ take it ba:ck. 1178768_1180624
-*CHR:	                      ⌊[% com burp?] °I'm sorry.° (.) (>>it's em<<) 1179472_1181488
+*CHR:	                      ⌊[% burp?] °I'm sorry.° (.) (>>it's em<<) 1179472_1181488
 *NOR:	I'll pu:̲t it in a ba::g an- and (wait) until tom̲o̲r̲row when I
 	go̲::, 1181748_1185636
 *CHR:	Re̲a̲l̲l̲y̲ not- (.) ↓good. 1185588_1187172
@@ -690,6 +690,6 @@
 *NOR:	W̲h̲e̲:̲:re is this g̲r̲a̲p̲e̲⌈(fruit) 1210948_1212356
 *CHR:	                     ⌊I: have it. 1212132_1212820
 	(23.6) 1212814_1236387
-	[% com Tape 002003 not stopped]
-	[% com Tape 002004 starts] 1235974_1236182
+	[% Tape 002003 not stopped]
+	[% Tape 002004 starts] 1235974_1236182
 @End

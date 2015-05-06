@@ -1,37 +1,234 @@
-@Font:	Win95:CAfont:-13:0
+@Font:	CAfont:13:0
 @UTF8
 @Begin
 @Languages:	eng
-@Participants:	CHR Chris Adult, NOR Norrine Adult
-@Options:		CA
-@ID:	eng|AudioBNC|CHR||male|||Adult|||
-@ID:	eng|AudioBNC|NOR||female|||Adult|||
-@Media:		021A-C0897X0023XX-ABZZP0, audio
+@Participants:	CHR Chris Adult, NOR Norrine Adult, LYN Lynda Adult, TON Tony Adult
+@Options:	CA, heritage
+@ID:	eng|AudioBNC|CHR|~51;|male|Ag4||Adult||PS05X|
+@ID:	eng|AudioBNC|NOR|~54;|female|Ag4||Adult||PS101|
+@ID:	eng|AudioBNC|LYN|~44;|female|Ag3||Adult||PS102|
+@ID:	eng|AudioBNC|TON|~60+;|male|Ag5||Adult||PS106|
+@Media:	021A-C0897X0023XX-ABZZP0, audio
 @Transcriber:	Saul Albert
-@Comment:	CABNC
-	Chris	3032	Well fifty pence a year, I think I might even be able to afford to belong to it.
-
-Norrine		<unclear>
-
-Chris	3033	Sorry.
-
-Norrine	3034	What river would that be?
-
-Chris	3035	Would be Kidbrook I suppose would it?
-
-Norrine	3036	<unclear> .
-
-Chris	3037	Oh yes, yes.
-
-3038	Fine looking bird, is that a female?
-
-Norrine	3039	A female usually very <unclear> , but, I don't know, it looks a young bird to me.
-
-Chris	3040	Good colouring anyway.
-
-Norrine	3041	You <unclear> <yawn> excuse me looking old fashion <unclear> , it's not like black bird or <unclear> .
-
-Norrine	3042	I need something for that other tub now, I'm thinking of
-lobelia around the edge.
-
-	http://bnc.phon.ox.ac.uk/data/021A-C0897X0023XX-ABZZP0.wav?t=1652.0825,1837.3725
+@Comment:	Audio available at:
+@Comment:	http://bnc.phon.ox.ac.uk/data/021A-C0897X0023XX-ABZZP0.wav
+@Comment:	BNC transcripts available at:
+@Comment:	http://bnc.phon.ox.ac.uk/transcripts-html/KBK.html
+@Comment:	Selection: first selected for oh-prefaced responses.
+	[% Tape 81 002315 started]
+*NOR:	Are you ready Chris?
+*CHR:	Any second now. Leave it all till Monday Lynda, it's been a long hard week.
+	[% Tape	82 002316 started]
+*NOR:	Why is that?
+*TON:	[...] Yes, yes, are we? Are we going to [...] right.
+*NOR:	O K, yes, we'll do that.
+*CHR:	Mrs er ...
+*NOR:	Bye bye Lynda.
+*LYN:	Bye.
+*NOR:	Long way to walk today.
+*TON:	[...] saying she's spoke to you about some development plan or
+	something I ... she said shall I bring it round to you, I said no
+	I'll ask [...] .
+*CHR:	Yeah, quite right, eh Dillis has let planning permission [...] .
+*TON:	I know she has and er ...
+*CHR:	And she's a re-applied.
+*TON:	Yeah. Is that all it's about?
+*CHR:	That's all it's about, a far as I'm concerned can sort out the problem.
+*TON:	[laugh] but er
+*CHR:	Ha, ha, ha, ha.
+*TON:	Something about some development plan, then she says, ah, she
+	didn't like how the houses were laid out because one was behind the
+	other, but I saw the plan last time and, and, and it didn't look
+	quite bad.
+*NOR:	Seems alright, yes.
+*CHR:	It ... it ... it's a problem isn't it?
+*TON:	Oh yeah.
+*CHR:	Yes, come on Emma.
+*NOR:	[...]
+*CHR:	In the car here dear. Yes come on. Good dog, in you go, right, thanks Tony bye. [car starting]
+*NOR:	Tony's amazing [...] .
+*CHR:	Yes, yes, it's sort of, all a bit naked isn't it?
+*NOR:	You have to clear up behind the tree bit. I don't think I'd like the idea [...] .
+*CHR:	Yes.
+*NOR:	I don't want to argue with [...] .
+*CHR:	Well as I stop by for training, look for something along our side if we choose is there?
+*NOR:	Well there is really, [...] not [...] and then we [...] the unfriendly.
+*CHR:	Yeah, right, O K.
+*NOR:	I'd like to get, the reason I wanted to come here and go in my car
+*CHR:	Oh, sorry.
+*NOR:	It's alright, we'll go in your car.
+*CHR:	Yes.
+*NOR:	was because I want to go via Mottingham before I go to [...] and buy a small plant.
+*CHR:	Ah, erm.
+*NOR:	And I saw them, well I think they're alright, I've got to look at them more closely, well I'd like to a, yes we are going darling, you're very excited. There Emma.
+*CHR:	Don't know who that lady, [...] looking lady who waved at me is?
+*NOR:	Have you seen Betty around lately?
+*CHR:	Betty ?
+*NOR:	Yes.
+*CHR:	No I haven't in the last couple of days, she was around [...]
+*NOR:	What, only in the last couple of days?
+*CHR:	Yes.
+*NOR:	That's nothing.
+*CHR:	Er we're going to [...] Mottingham's centre aren't we? Gardening centre.
+*NOR:	No, it's not a gardening centre, it's a shop [...] .
+*CHR:	Oh whereabouts?
+*NOR:	In the shopping parade, I'll show you where it is.
+*CHR:	Oh I see, right oh. Yes
+*NOR:	They have place that Rosemary mentioned, it's only opened on Saturdays.
+*CHR:	Yes.
+	[% Tape	83 002316 started]
+*NOR:	But erm, Liz is getting hassle from her insurance company about her claim on her new door.
+*CHR:	Oh yes.
+*NOR:	No what happened?
+*CHR:	No I don't remember your telling me.
+*NOR:	When Suzannah went down there, [...] from last, she was strap strapping Layla into the back seat
+*CHR:	Mhm.
+*NOR:	for Liz, while Liz went into the house to get something, and someone came down Hurst Road, misjudged it, and scrapped the car door, bashed Lizzie's side and scraped along side of her car, as she drove past [...] .
+*CHR:	Yes.
+*NOR:	And it meant a respray on her car and a new door for Lizzie's car, sit down.
+*CHR:	Right.
+*NOR:	And Jim said she was going far too fast, took up all three car lengths, parked cars to stop.
+*CHR:	Phew.
+*NOR:	And, and obviously she was going to [...] .
+*CHR:	Yes.
+*NOR:	And [...] happened, opened the door any wider, cos she was still strapping the child in. Of which she had been doing as Liz left the car.
+*CHR:	Yes. Was Suzannah hurt?
+*NOR:	No, she wasn't, only the car door.
+*CHR:	Yes.
+*NOR:	But now Lizzie's insurance company have said they'll do what they can for her, but as she had opened the door into the oncoming traffic, probably was her fault.
+*CHR:	And this took place in Hurst Road? I mean ...
+*NOR:	Yes.
+*CHR:	tha ... that's a bit of a nonsense to my mind.
+*NOR:	Well exactly, I mean there's double parking in a single line and the lady [...] weary.
+*CHR:	You can't move at more than about fifteen miles an hour maximum down Hurst Road anyway can you?
+*NOR:	[...] Anyway, Liz is a bit annoyed because she doesn't want to lose her no claims bonus.
+*CHR:	Absolutely. Absolutely right, yes.
+*NOR:	And I feel in a way slightly responsible that it was Suzannah.
+*CHR:	Well I don't suppose Suzannah was doing anything she shouldn't have been.
+*NOR:	No she wasn't, but even so, you know, I said that to Liz, Liz said oh it's not, it's nothing to do with your responsibility. E ... even so she has to pay the first something or other you, as one does in a claim
+*CHR:	Yes.
+*NOR:	towards the new door.
+*CHR:	Yes.
+*NOR:	She said I've paid that, that's not a hassle or, anyway she's paid it, she's said that's not a hassle, but er, I thought well maybe I [...] some money, I don't know, what do you normally pay on these things, twenty five, twenty six?
+*CHR:	Oh its variable.
+*NOR:	But it does, so, she said she hasn't got an up to date highway code knows anything about it about taking repair in narrow street [...] . Well I found a couple of possible useful quotes of the highway code.
+*CHR:	Mm. Good.
+*NOR:	I, I'm going to [...] ...
+*CHR:	[...] if you like.
+*NOR:	Well she, I gave her the ... the clause number thing.
+*CHR:	Right ...
+*NOR:	[...] should be fighting for her on this not giving way [...]
+*CHR:	Well I mean, who's her broker?
+*NOR:	She doesn't have one you see.
+*CHR:	Oh, she should use Jeffrey hasn't she?
+*NOR:	No, she didn't say. She feels that they're not really interested as long as, you know
+*CHR:	Well I wouldn't, I, I would recommend that you tell
+	her to contact Jeffrey, say will you take this on for me please, and
+	ca ... carry my car insurance for me in future.
+	[% Tape	84 002318 started]
+*NOR:	[...] by prescription [...] .
+*CHR:	For anything?
+*NOR:	Well for all the [...] .
+*CHR:	Yes.
+*NOR:	Geraniums for one forty five each there, dear.
+*CHR:	Incredibly expensive, yes.
+*NOR:	[...] .
+*CHR:	These aren't [...]
+	[% Tape	85 002319 started]
+*CHR:	Right, do you want to go to the garden centre at Mottingham?
+*NOR:	Where's the garden centre?
+*CHR:	Other end of Mottingham Lane.
+*NOR:	[...]
+*CHR:	Oh thank you, yes.
+*NOR:	[...]
+*CHR:	Oh hang on a minute [...] my wallet.
+*NOR:	I've got some money.
+*CHR:	I've only got three [...] thank you.
+*NOR:	[...]
+*CHR:	Yeah, thanks.
+	[% Tape	86 002320 started]
+*CHR:	Thank you guv, care to pay for it?
+*NOR:	Yes I've paid for it [...] . Have to have [...] .
+*CHR:	I didn't get anything.
+*NOR:	[...]
+*CHR:	No. They ... they've got a free nylon bag in, in those where they [...] .
+*NOR:	[...]
+*CHR:	Right, shall we get in the car then?
+	[% Tape	87 002321 started]
+*NOR:	I don't think they make they make those [...] any more, nobody seemed to have one yesterday
+*CHR:	Really? Mm.
+*NOR:	In Bromley, [...] .
+*CHR:	Alright now.
+*NOR:	Alright [...] .
+*CHR:	Thank you.
+*NOR:	Are you good dog [...] , are you good dog? She is [...] .
+*CHR:	We want to go back up again don't we?
+*NOR:	We can go down to that one, oh no we don't, no you're right, we want to go back up again [...] . Unless we go from this end, yes you can go.
+*CHR:	It doesn't really go through, does it?
+*NOR:	Oh [...] , I don't mean that road, no.
+*CHR:	There it is the end look.
+*NOR:	Found it, yes that's right. You got to go [...] .
+*CHR:	Aha.
+*NOR:	We have to then drive round again to get home. You can get into Mottingham when [...] there.
+*CHR:	[...] [laugh]
+*NOR:	Or you can go in there.
+*CHR:	We do that well.
+	[% 88 (Tape 002322)]
+*NOR:	Oh, you had a good day today?
+*CHR:	[...]
+*NOR:	Mm.
+*CHR:	[...] bring a, I knew there was something else I had to bring fabric [...] .
+*NOR:	Did you get the library books back?
+*CHR:	Not really warm is it?
+*NOR:	It isn't warm at all.
+	[% 89 (Tape 002323)]
+*NOR:	Suzannah said that she might be going up tomorrow evening.
+*CHR:	Aha.
+*NOR:	Not definitely.
+*CHR:	Right.
+	[% 90 (Tape 002324)]
+*NOR:	There's [...] fallen tree in the park.
+*CHR:	[...] . Relatively recently.
+*NOR:	[...] . They seemed to keep [...] .
+*CHR:	Yeah ... yeah it's fascinating to think why that particular tree actually keeled over, and all the others around, it's no bigger than the others is it?
+*NOR:	[...] don't know [...] .
+*CHR:	Well look at the size of it's trunk.
+*NOR:	It might have been [...] .
+*CHR:	It might have been, yeah, just a [...] one.
+	[% 91 (Tape 002325)]
+*NOR:	She waits all day for this, it's the best bit, this and supper.
+*CHR:	[laugh] . It's not supper time yet Digger.
+*NOR:	Yeah [...] . Use up all in the fridge
+*CHR:	Has you got lots of bits left over?
+*NOR:	before I go shopping . Well I got some [...] . Things [...] never come and they have [...] .
+*CHR:	Aha.
+*NOR:	[...] fridge require ... [...] .
+*CHR:	Yes.
+*NOR:	[...]
+*CHR:	Yes, she's very disheartening the way she picks at it I should think. Very disagreeable that's for sure.
+*NOR:	Besides [...] .
+*CHR:	Yes I like it, fish pie or something.
+	[% 92 (Tape 002326)]
+*NOR:	Quite incredible.
+*CHR:	Cos of me.
+*NOR:	It's not [...] .
+*CHR:	[...]
+*NOR:	[...]
+*CHR:	No we're not in the woods proper here. This is [...] woods.
+*NOR:	[...]
+	[% 93 (Tape 002327)]
+*CHR:	Must investigate this Mottingham garden club.
+*NOR:	I think it [...] .
+*CHR:	Well fifty pence a year, I think I might even be able to afford to belong to it.
+	[% 94 (Tape 002328)]
+*NOR:	[...]
+*CHR:	Sorry.
+*NOR:	What river would that be?
+*CHR:	Would be Kidbrook I suppose would it?
+*NOR:	[...] .
+*CHR:	Oh yes, yes. Fine looking bird, is that a female?
+*NOR:	A female usually very [...] , but, I don't know, it looks a young bird to me.
+*CHR:	Good colouring anyway.
+*NOR:	You [...] [yawn] excuse me looking old fashion [...] , it's not like
+	black bird or [...] .
+@End

@@ -1,30 +1,53 @@
 # CABNC transcription project
 
 ## Outline
-A detailed conversation analytic transcription of naturalistic conversations from a subcorpus of the [British National Corpus](http://www.natcorp.ox.ac.uk/) amounting to around 4.2 million words.
+
+The CABNC corpus is a open-licensed, detailed conversation analytic
+re-transcription of naturalistic conversations from a subcorpus of the [British
+National Corpus](http://www.natcorp.ox.ac.uk/) amounting to around 4.2 million
+words in 1436 separate conversations.
+
+The project aims to produce transcripts usable for both computational and
+detailed qualitative analysis. If you are a CA transcriptionist and you use the
+data, please make sure you re-submit your updated transcripts to help improve
+the corpus over time.
 
 ## Accessing and using CABNC data
 
-The names of folders and files in the CABNC project correspond to the names of original tapes and audio file names from the [Audio BNC](http://www.phon.ox.ac.uk/AudioBNC).
+### Using transcripts
 
-## Using / contributing transcripts
+* You can browse the latest versions of individual CABNC transcripts as [CHAT-CA files here](https://github.com/saulalbert/CABNC/tree/master/data/cabnc_chat), and the latest stable release of CABNC can be [downloaded as an archive here](https://github.com/saulalbert/CABNC/blob/master/packages/cabnc_subcorpus_chat.tar.gz?raw=true).
+* The corresponding audio files for each transcript can be downloaded from the [Audio BNC project’s list of urls](http://bnc.phon.ox.ac.uk/filelist-wav.txt).
 
-Transcriptions are made using [Jeffersonian CA transcription conventions](http://homepages.lboro.ac.uk/~ssca1/notation.htm), and the CHAT CA file formats and transcription symbols provided by the [CLAN](http://childes.psy.cmu.edu/clan/) transcription system.
+To edit transcripts in [CLAN](http://childes.psy.cmu.edu/clan/), place both the
+transcript .cha file and the audio .wav file in the same directory. Check the
+[CLAN manual](http://childes.psy.cmu.edu/manuals/CLAN.pdf) for details of how
+to use the CLAN editor.
+
+### Contributing transcripts
+
+Transcriptions are made using [Jeffersonian CA transcription
+conventions](http://homepages.lboro.ac.uk/~ssca1/notation.htm), and the CHAT-CA
+file format and transcription symbols provided by the
+[CLAN](http://childes.psy.cmu.edu/clan/) transcription system.
+
+A [guideline for transcribers is currently being
+devised](https://github.com/saulalbert/CABNC/wiki/CHAT-CA-lite) to help with
+standardisation - the guidelines adhere as closely as possible to current
+standards in CA without sacrificing machine readability.
 
 To use or contribute to these transcripts:
 
 1. download and install [CLAN](http://childes.psy.cmu.edu/clan/),
-2. download the rough [cabnc_chat files](https://github.com/saulalbert/CABNC/tree/master/data/cabnc_chat) you wish to transcribe,
-2. download the corresponding audio file from the [Audio BNC site](http://www.phon.ox.ac.uk/AudioBNC#Access),
+2. download the [corresponding audio file](http://bnc.phon.ox.ac.uk/filelist-wav.txt) from the [Audio BNC site](http://www.phon.ox.ac.uk/AudioBNC#Access),
 3. improve existing transcripts with CLAN, then submit them to the CABNC project for inclusion.
 
-## BNC Data and Usage
+## Underlying BNC Data and Usage Rights
 
-### Accessing BNC data
+### Accessing original BNC data
 
 The data on which this project builds is available here:
 
-* The latest version of the CABNC transcripts can be [downloaded as an archive](https://github.com/saulalbert/CABNC/blob/master/packages/cabnc_subcorpus_chat.tar.gz?raw=true).
 * The original [Audio BNC transcripts are available in HTML format](http://bnc.phon.ox.ac.uk/transcripts-html/) via the AudioBNC 
 * Audio data and Praat TextGrid are available on the Oxford Phonetics Institute [AudioBNC site](http://www.phon.ox.ac.uk/AudioBNC#Access).
 

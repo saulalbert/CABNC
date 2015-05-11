@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"><!-- This stylesheet converts a BNC text into CHAT-CA 'heritage' file for re-transcription -->
+<?xml version="1.0" encoding="utf-8"?><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
+
+<!-- This stylesheet converts a BNC XML text into a CHAT-CA file for re-transcription -->
+
 <xsl:output encoding="utf-8" method="text" indent="no"/>
 <xsl:key match="setting" name="setTable" use="@n"/>
 <xsl:key match="recording" name="recTable" use="@n"/>

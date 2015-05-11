@@ -14,8 +14,9 @@ Transcriptions are made using [Jeffersonian CA transcription conventions](http:/
 To use or contribute to these transcripts:
 
 1. download and install [CLAN](http://childes.psy.cmu.edu/clan/),
-2. download the correspondingly titled audio file from the [Audio BNC site](http://www.phon.ox.ac.uk/AudioBNC#Access),
-3. transcribe and push new files or refine existing transcripts using CLAN.
+2. download the rough [cabnc_chat files](https://github.com/saulalbert/CABNC/tree/master/data/cabnc_chat) you wish to transcribe,
+2. download the corresponding audio file from the [Audio BNC site](http://www.phon.ox.ac.uk/AudioBNC#Access),
+3. improve existing transcripts with CLAN, then submit them to the CABNC project for inclusion.
 
 ## BNC Data and Usage
 
@@ -23,7 +24,8 @@ To use or contribute to these transcripts:
 
 The data on which this project builds is available here:
 
-* Full [BNC transcripts are available in HTML format](http://bnc.phon.ox.ac.uk/transcripts-html/) via the AudioBNC 
+* The latest version of the CABNC transcripts can be [downloaded as an archive](https://github.com/saulalbert/CABNC/blob/master/packages/cabnc_subcorpus_chat.tar.gz?raw=true).
+* The original [Audio BNC transcripts are available in HTML format](http://bnc.phon.ox.ac.uk/transcripts-html/) via the AudioBNC 
 * Audio data and Praat TextGrid are available on the Oxford Phonetics Institute [AudioBNC site](http://www.phon.ox.ac.uk/AudioBNC#Access).
 
 If you want to perform complex searches on BNC data:

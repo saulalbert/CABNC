@@ -1,36 +1,36 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-04-03:  
 @Location:	  home  
-@Situation:	  child minding  
-@Media: 021A-C0897X0690XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  child minding   
+@Media:	021A-C0897X0690XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	ANN Ann self, JAM James husband, MAT Matthew friend
-@ID: eng|AudioBNC|ANN|~53;| |f|Ag4| |registered childminder||PS14B|
-@ID: eng|AudioBNC|JAM|~57;| |m|Ag4| |charge nurse|husband|PS14C|
-@ID: eng|AudioBNC|MAT|~8;| |m|Ag0| |student|friend|PS14F|
+@Options:	CA
+@ID:	eng|AudioBNC|ANN|53;|||||registered childminder||PS14B|
+@ID:	eng|AudioBNC|JAM|57;|||||charge nurse|husband|PS14C|
+@ID:	eng|AudioBNC|MAT|8;|||||student|friend|PS14F|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0690XX-AAZZP0.wav
 @Comment:	conversation #1 (Tape 069001)
-*ANN:	Hello Matthew.
-*MAT:	Hello.
-*ANN:	How was your grandma?
-*MAT:	Erm   (.) she's getting better.
-*ANN:	Mm?
-*MAT:	She's getting better.
-*ANN:	Did you go to see the river yesterday?
-*MAT:	No.
-*ANN:	Oh.We did, didn't we?
-*JAM:	It was okay.
-*ANN:	Yes.
-*JAM:	And it had gone down hadn't it?
-*ANN:	Yes.It had gone down a lot though.Has anyone listened to erm   (.) what was it, Radio Newcastle?
-*MAT:	Yes.It's on.The   (        ) 's on.
-*ANN:	You've listened to it?
-*MAT:	No.I've not listened to it.
-*ANN:	Oh.We see Mrs  as we came out of school. (.) It was at the school yesterday, rather.And er   (.) she said that one of them was drying out nicely. (.) What's happened to my voice this morning? ((clears throat))  (.) Can I turn it down a little bit please James? (.) James?
-*JAM:	What?
-*ANN:	Can I turn it down a little bit please?
+*ANN:	Hello Matthew. 
+*MAT:	Hello. 
+*ANN:	How was your grandma? 
+*MAT:	Erm   (.) she's getting better. 
+*ANN:	Mm? 
+*MAT:	She's getting better. 
+*ANN:	Did you go to see the river yesterday? 
+*MAT:	No. 
+*ANN:	Oh. We did, didn't we? 
+*JAM:	It was okay. 
+*ANN:	Yes. 
+*JAM:	And it had gone down hadn't it? 
+*ANN:	Yes. It had gone down a lot though. Has anyone listened to erm   (6.0) what was it, Radio Newcastle? 
+*MAT:	Yes. It's on. The   (  ) 's on. 
+*ANN:	You've listened to it? 
+*MAT:	No. I've not listened to it. 
+*ANN:	Oh. We see Mrs   as we came out of school.  (6.0) It was at the school yesterday, rather. And er   (.) she said that one of them was drying out nicely.  (6.0) What's happened to my voice this morning?  ((clears throat))  (12.0) Can I turn it down a little bit please James?  (6.0) James? 
+*JAM:	What? 
+*ANN:	Can I turn it down a little bit please? 
 @End

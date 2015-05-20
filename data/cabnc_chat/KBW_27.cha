@@ -1,63 +1,63 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-16:  
 @Location:	  home  
-@Situation:	  piano lesson  
-@Media: 021A-C0897X0225XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  piano lesson   
+@Media:	021A-C0897X0225XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	DOR Dorothy self, JAN Jane friend, DAW Dawn friend
-@ID: eng|AudioBNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
-@ID: eng|AudioBNC|JAN|~24;| |f|Ag1| |teacher|friend|PS0XJ|
-@ID: eng|AudioBNC|DAW|~30;| |f|Ag2| |housewife|friend|PS0XK|
+@Options:	CA
+@ID:	eng|AudioBNC|DOR|34;|||||teacher (pt)||PS087|
+@ID:	eng|AudioBNC|JAN|24;|||||teacher|friend|PS0XJ|
+@ID:	eng|AudioBNC|DAW|30;|||||housewife|friend|PS0XK|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0225XX-ABZZP0.wav
 @Comment:	conversation #27 (Tape 022506)
-*DAW:	Take that book off her quick.
-*JAN:	 (        ) piano lesson.
-*DAW:	Yes.
-*JAN:	Oh enjoy your piano lesson.
-*DAW:	Yeah.
+*DAW:	Take that  book off her quick. 
+*JAN:	  (  ) piano lesson. 
+*DAW:	Yes. 
+*JAN:	Oh enjoy your piano lesson. 
+*DAW:	Yeah. 
 *DOR:	 ((laugh)) 
-*JAN:	But don't enjoy the   (.) no   ((laugh)) yes 
-*DOR:	Oops.
-*JAN:	I'll just go.
+*JAN:	But don't enjoy the   (.) no   ((laugh))  yes   
+*DOR:	 Oops. 
+*JAN:	I'll just go. 
+*DAW:	  ((laugh))  
+*DOR:	 At least not just now. 
+*JAN:	Right-y-o. 
+*DOR:	Are you in a car?  Where have you put it? 
+*JAN:	 I   (  )  yes. Up there a bit. 
+*DOR:	It's rather cluttered with cars isn't it? 
+*DAW:	Yeah it's a bit  
+*JAN:	Yes it was a bit.  (.) Just a little bit. 
+*DOR:	 Right. 
+*JAN:	 Good.  I'll see you another  day. 
+*DOR:	 Thursday.  Thankyou for calling. 
+*JAN:	Alright. 
+*DOR:	Bye. 
+*JAN:	Bubye. Have a nice day tomorrow. 
+*DOR:	Oh yeah.  ((laugh))  (.)  ((laugh)) We might get this piano lesson done soon. 
+*DAW:	Not to worry. 
+*DOR:	What with one thing and another. So far we've not been   (.) it's not been like this has it? 
+*DAW:	No. 
+*DOR:	Until today. So that's pretty good going. 
+*DAW:	Mm. 
+*DOR:	Just put it down. Right 
+*DAW:	Ooh. 
+*DOR:	Shall we start with the butterfly? 
+*DAW:	 (  ) 
+*DOR:	Again. 
+*DAW:	Again. 
+*DOR:	I just want to check your fingers.  ((laugh)) As I wasn't watching first time round. And this time instead of speeding it up so we're   (.) whooshing off like a   ((laughing)) like a bee   (.)  okay . 
+*DAW:	 I thought we were going on  a bit. Going  (  ) . We'll go a bit slower shall we? 
+*DOR:	We'll go a little, trifle slower but rather than no it's not so much a trifle slower as   (.) steadily. If we're gonna set off fast then we carry on  fast. 
+*DAW:	 Fast.  If you're gonna start slow stay   (.)  (  ) .  Right. 
+*DOR:	 But  also there's a word here and it says 
+*DAW:	 ((whispering)) Ooh lightly . 
+*DOR:	lightly. That means do not thump on the piano.  ((laughing)) Right? Butterfly, okay. 
 *DAW:	 ((laugh)) 
-*DOR:	At least not just now.
-*JAN:	Right-y-o.
-*DOR:	Are you in a car?Where have you put it?
-*JAN:	I   (        ) yes.Up there a bit.
-*DOR:	It's rather cluttered with cars isn't it?
-*DAW:	Yeah it's a bit 
-*JAN:	Yes it was a bit. (.) Just a little bit.
-*DOR:	Right.
-*JAN:	Good.I'll see you another day.
-*DOR:	Thursday.Thankyou for calling.
-*JAN:	Alright.
-*DOR:	Bye.
-*JAN:	Bubye.Have a nice day tomorrow.
-*DOR:	Oh yeah. ((laugh))  (.)  ((laugh)) We might get this piano lesson done soon.
-*DAW:	Not to worry.
-*DOR:	What with one thing and another.So far we've not been   (.) it's not been like this has it?
-*DAW:	No.
-*DOR:	Until today.So that's pretty good going.
-*DAW:	Mm.
-*DOR:	Just put it down.Right
-*DAW:	Ooh.
-*DOR:	Shall we start with the butterfly?
-*DAW:	 (        ) 
-*DOR:	Again.
-*DAW:	Again.
-*DOR:	I just want to check your fingers. ((laugh)) As I wasn't watching first time round.And this time instead of speeding it up so we're   (.) whooshing off like a   [laughing] like a bee   (.) okay  [] .
-*DAW:	I thought we were going on a bit.Going  (        ) .We'll go a bit slower shall we?
-*DOR:	We'll go a little, trifle slower but rather than no it's not so much a trifle slower as   (.) steadily.If we're gonna set off fast then we carry on fast.
-*DAW:	Fast.If you're gonna start slow stay   (.)  (        ) .Right.
-*DOR:	But also there's a word here and it says
-*DAW:	 [whispering] Ooh lightly  [] .
-*DOR:	lightly.That means do not thump on the piano. [laughing] Right? [] Butterfly, okay.
-*DAW:	 ((laugh)) 
-*DOR:	Just let me switch this thing off cos they don't want to hear our piano lesson do they?
-*DAW:	Oh no, I don't think so.
-*DOR:	And I don't think we want
+*DOR:	Just let me switch this thing off cos they don't want to hear our piano lesson do they? 
+*DAW:	Oh no, I don't think so. 
+*DOR:	And I don't think we want 
 @End

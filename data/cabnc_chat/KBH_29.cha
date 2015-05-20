@@ -1,84 +1,84 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-03:  
 @Location:	  home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0042XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0042XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CAR Carole self, JOE Joelle employee, ADA Adam husband, CHA Charlotte daughter
-@ID: eng|AudioBNC|CAR|~36;| |f|Ag3| |administrator (pt)||PS05B|
-@ID: eng|AudioBNC|JOE|~18;| |f|Ag1| |au pair|employee|PS05C|
-@ID: eng|AudioBNC|ADA|~36;| |m|Ag3| |textile agent|husband|PS05D|
-@ID: eng|AudioBNC|CHA|~2;| |f|Ag0| |pre-school|daughter|PS05E|
+@Options:	CA
+@ID:	eng|AudioBNC|CAR|36;|||||administrator (pt)||PS05B|
+@ID:	eng|AudioBNC|JOE|18;|||||au pair|employee|PS05C|
+@ID:	eng|AudioBNC|ADA|36;|||||textile agent|husband|PS05D|
+@ID:	eng|AudioBNC|CHA|2;|||||pre-school|daughter|PS05E|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0042XX-AAZZP0.wav
 @Comment:	conversation #29 (Tape 004202)
-*ADA:	Do you want daddy to talk to you?
-*CAR:	Oh, look at her face.
-*ADA:	Put that lip away.
+*ADA:	Do you want daddy to talk to you? 
+*CAR:	Oh, look at her face. 
+*ADA:	Put that lip away. 
 *CAR:	 ((laugh)) 
-*ADA:	Poor cat  (        ) .
+*ADA:	Poor cat  (  ) . 
 *CHA:	 ((laugh)) 
-*CAR:	You've had a nice afternoon haven't you?
-*ADA:	Oh, (        ) .
+*CAR:	You've had a nice afternoon haven't you? 
+*ADA:	Oh, (  ) . 
 *CHA:	 ((laugh)) 
-*ADA:	You think it's funny don't you?
-*CAR:	Tell your daddy what you've been doing this afternoon.
-*ADA:	What you been doing today?
-*CHA:	Erm
-*CAR:	Where did you go?
-*CHA:	Erm, (        ) Park, I went whoop  (        ) .
-*ADA:	Did you?
-*CAR:	Silly car  (        ) .
-*CHA:	Yeah  (        ) .
-*CAR:	Where else did you go?
-*ADA:	Went in a car in   (        ) did you?
-*CHA:	Yeah.
-*CAR:	Where else did you go my darling?Where did you go and take half an hour over choosing your books?
-*ADA:	Oh.
-*CAR:	Where did you go?
-*CHA:	 (        ) 
-*CAR:	I think somebody's in a silly mood. ((laugh)) 
-*ADA:	Did you go to your library?
-*CHA:	Yes. ((laugh)) And a  (        ) , and I want   (        ) .
-*ADA:	Did you find lots of nice books?
-*CHA:	No, I  (        ) .
-*ADA:	Go find the books and show me.
-*CAR:	They're in the kitchen darling.
-*ADA:	Show me your books.
-*CHA:	I don't know  (        ) .
-*CAR:	They're in the kitchen, Joelle will give them to you if you go and ask.
-*ADA:	Go and find your books and show them to daddy, come on.
-*CHA:	Yes.I got it  (.) 
-*CAR:	Oh you've been to   (        ) have you?
-*ADA:	Mm, did you  (        ) .
-*CAR:	Sweetheart I wouldn't of known what to buy.Is the leader just a leader or are there several different types?
-*ADA:	Well as it happens, this  (        ) .
-*CAR:	Your  (.) 
-*ADA:	This, do this.
-*CAR:	Do what?
-*ADA:	 (        ) 
-*CHA:	I want Polos.
-*CAR:	Well you can go on wanting you've just had a biscuit piglet.
-*CHA:	I wanna eat it, I want Polos.
-*CAR:	Charlotte please no tantrums.
-*CHA:	I want Polos.
-*CAR:	In a minute love   (.)  (        ) , what? (        ) .
-*CAR:	I wasn't thinking about that, I was thinking about the way you were walking  (.) 
-*ADA:	 (        ) 
-*CAR:	Are you talking to yourself? ((baby gurgling))
-*ADA:	 (        ) 
-*CAR:	So you're going to have to go poppet.
-*ADA:	Mm, no.
-*JOE:	You ask your mum.
-*CAR:	Can't you have, can't you find a book?
-*CHA:	Can I have Polo?
-*JOE:	Can she have Polo?
-*ADA:	Sorry.
-*CAR:	Yes, alright.
-*JOE:	Where, where are they?
-*CAR:	They're in the larder on the shelf right in front of you, about nose height, or somebody's nose height, I don't know which   (        ) or not, but they're right in the middle of the shelf.
-*ADA:	They're taking the piss.
+*ADA:	You think it's funny don't you? 
+*CAR:	Tell your daddy what you've been doing this afternoon. 
+*ADA:	What you been doing today? 
+*CHA:	Erm 
+*CAR:	Where did you go? 
+*CHA:	Erm, (  ) Park, I went whoop  (  ) . 
+*ADA:	Did you? 
+*CAR:	Silly car  (  ) . 
+*CHA:	Yeah  (  ) . 
+*CAR:	 Where else did you go? 
+*ADA:	 Went in a car in    (  ) did you? 
+*CHA:	Yeah. 
+*CAR:	Where else did you go my darling? Where did you go and take half an hour over choosing your books? 
+*ADA:	Oh. 
+*CAR:	Where did you go? 
+*CHA:	 (  ) 
+*CAR:	I think somebody's in a silly mood. ((laugh))  
+*ADA:	Did you go to your library? 
+*CHA:	Yes.  ((laugh)) And a  (  ) , and I want    (  )  . 
+*ADA:	 Did you find  lots of nice books? 
+*CHA:	No, I  (  ) . 
+*ADA:	Go find the books and show me. 
+*CAR:	They're in the kitchen darling. 
+*ADA:	Show me your books. 
+*CHA:	I don't know  (  ) . 
+*CAR:	They're in the kitchen, Joelle will give them to you if  you go and ask. 
+*ADA:	 Go and find your books  and show them to daddy, come on. 
+*CHA:	Yes. I got it  (10.0)  
+*CAR:	Oh you've been to   (  ) have you? 
+*ADA:	Mm, did you  (  ) . 
+*CAR:	Sweetheart I wouldn't of known what to buy. Is the leader just a leader or are there several different types? 
+*ADA:	Well as it happens, this  (  ) . 
+*CAR:	Your  (10.0)  
+*ADA:	This, do this. 
+*CAR:	Do what? 
+*ADA:	 (  ) 
+*CHA:	I want Polos. 
+*CAR:	Well you can go on wanting you've just had a biscuit piglet. 
+*CHA:	I wanna eat it, I want Polos. 
+*CAR:	Charlotte please no tantrums. 
+*CHA:	I want Polos. 
+*CAR:	In a minute love   (10.0)  (  ) , what? (  ) . 
+*CAR:	I wasn't thinking about that, I was thinking about the way you were walking  (.)  
+*ADA:	 (  ) 
+*CAR:	Are you talking to yourself? ((baby gurgling)) 
+*ADA:	 (  ) 
+*CAR:	So you're going to have to go poppet. 
+*ADA:	Mm, no. 
+*JOE:	You ask your mum. 
+*CAR:	Can't you have, can't you find a book? 
+*CHA:	Can I have Polo? 
+*JOE:	Can she have Polo? 
+*ADA:	Sorry. 
+*CAR:	Yes, alright. 
+*JOE:	Where, where are they? 
+*CAR:	They're in the larder on the shelf right in front of you, about nose height, or somebody's nose height, I don't know which   (  ) or not, but they're right in the middle of the shelf. 
+*ADA:	They're taking the piss. 
 @End

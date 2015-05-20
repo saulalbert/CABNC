@@ -1,61 +1,61 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 tap dancing school 
-@Situation:	Unspecified
-@Media: 021A-C0897X0050XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0050XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter, UNK Unknown Unknown None ?, UNK Unknown Unknown None ?
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
-@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6ST|
-@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6T9|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6ST|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6T9|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0050XX-ABZZP0.wav
 @Comment:	conversation #56 (Tape 005010)
-*NON:	Well done, perfect day out.
-*HEL:	Yes, ((laugh)) .
-*NON:	It's very good.
-*HEL:	There you are, there you are.
-*NON:	Very good.
-*HEL:	Yeah.Have you got any of the tee shirts, that they were.
-*NON:	I think we have yes.
-*HEL:	Are, did you want one to wear?
-*CLA:	 (        ) .
-*HEL:	Pardon.
-*CLA:	Yes, I'll have one.
-*HEL:	No I think you can have a white one.
-*NON:	Do you want a white or a red one?
-*HEL:	White one I think do you?
-*CLA:	Yes please.
-*NON:	 (        ) small.
-*HEL:	Oh yes I'd should think she's only small.
-*NON:	Uhum.When does she start her other class?
-*HEL:	I think that's quite big enough for you, don't you?
-*NON:	Think  (        ) .
-*HEL:	Yes I don't think we could manage any.
-*NON:	You don't want it, do you want small, you wouldn't want a small would you ?
-*HEL:	No, no no that should be fine.
-*NON:	Have a small medium?No.Small tee shirt in white one for a small child isn't it?There we go.Small adult.The child's are very small.
-*HEL:	Ah well one to fit this one.
-*NON:	Eh she looking in the large child? (        ) because they shrink a bit in the wash.
-*HEL:	They can wear these for tap can't they?
-*NON:	That's a large child, they wear the red   (        ) they wear red for tap.That's a large child.
-*HEL:	Yes, I think's that probably better.
-*NON:	But they usually wear a vest with it and  (        ) .
-*HEL:	I think you'll have to have a red.Do you mind a red? (        ) .
-*CLA:	Alright.Do you like a red one?
-*HEL:	Please.
-*CLA:	Right, how much do we owe you for, sorry about that.
-*NON:	Uhum, children's one, five pounds. (        ) .
-*HEL:	Oh that's a.
-*NON:	Yeah, (        )  (.) 
-*HEL:	Lovely, oh sorry, I haven't got a five.
-*NON:	Uhum.
-*HEL:	There you are   (.) Oh thanks very much, sorry about that, right, you will be smart won't you?
-*NON:	Uhum  (        ) .
-*HEL:	Eh large child I think, is it, can't tell.
-*NON:	Yes, large child.There you are.Right, pardon.Well a small child will be too small for you I think, yeah.
+*NON:	Well done, perfect day out. 
+*HEL:	Yes, ((laugh)) . 
+*NON:	It's very good. 
+*HEL:	There you are, there you are. 
+*NON:	Very good. 
+*HEL:	Yeah. Have you got any of the tee shirts, that they were. 
+*NON:	I think we have yes. 
+*HEL:	Are, did you want one to wear? 
+*CLA:	 (  ) . 
+*HEL:	Pardon. 
+*CLA:	Yes, I'll have one. 
+*HEL:	No I think you can have a white one. 
+*NON:	Do you want a white or a red one? 
+*HEL:	White one I think do you? 
+*CLA:	Yes please. 
+*NON:	 (  ) small. 
+*HEL:	Oh yes I'd should think she's only small. 
+*NON:	Uhum. When does she start her other class? 
+*HEL:	I think that's quite big enough for you, don't you? 
+*NON:	Think  (  ) . 
+*HEL:	Yes I don't think we could manage any. 
+*NON:	You don't want it, do you want small, you wouldn't want a small  would you  ? 
+*HEL:	 No, no  no that should be fine. 
+*NON:	Have a small medium? No. Small tee shirt in white one for a small child isn't it? There we go. Small adult. The child's are very small. 
+*HEL:	Ah well one to fit this one. 
+*NON:	Eh she looking in the large child? (  ) because they shrink a bit in the wash. 
+*HEL:	They can wear these for tap can't they? 
+*NON:	That's a large child, they wear the red   (  ) they wear red for tap. That's a large child. 
+*HEL:	Yes, I think's that probably better. 
+*NON:	But they usually wear a vest with it and  (  ) . 
+*HEL:	I think you'll have to have a red. Do you mind a red? (  ) . 
+*CLA:	Alright. Do you like a red one? 
+*HEL:	Please. 
+*CLA:	Right, how much do we owe you for, sorry about that. 
+*NON:	Uhum, children's one, five pounds. (  ) . 
+*HEL:	Oh that's a. 
+*NON:	Yeah, (  )  (5.0)  
+*HEL:	Lovely, oh sorry, I haven't got a five. 
+*NON:	Uhum. 
+*HEL:	There you are   (10.0) Oh thanks very much, sorry about that, right, you will be smart won't you? 
+*NON:	Uhum  (  ) . 
+*HEL:	Eh large child I think, is it, can't tell. 
+*NON:	Yes, large child. There you are. Right, pardon. Well a small child will be too small for you I think, yeah. 
 @End

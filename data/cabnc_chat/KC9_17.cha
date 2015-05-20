@@ -1,56 +1,56 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-30:  
 @Location:	 Shops 
-@Situation:	 shopping 
-@Media: 021A-C0897X0141XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 shopping  
+@Media:	021A-C0897X0141XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , GIN Ginny self, DIN Dinda daughter
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|GIN|~65;| |f|Ag5| |housewife||PS0CG|
-@ID: eng|AudioBNC|DIN|~25;| |f|Ag2| |customs controller|daughter|PS0CJ|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|GIN|65;|||||housewife||PS0CG|
+@ID:	eng|AudioBNC|DIN|25;|||||customs controller|daughter|PS0CJ|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0141XX-ABZZP0.wav
 @Comment:	conversation #17 (Tape 014106)
-*GIN:	Came out the end of last month didn't it?Or the middle of this month .
-*DIN:	No this month .
-*UNK:	I got my  (        ) .
-*DIN:	 (        ) .
-*GIN:	Oh it's got lot's of animals in this one  (.) 
-*DIN:	 (        ) .
-*GIN:	 [reading]  (        ) things that happened to them while they were making the African Queen and, they've turned into a story  [] .
-*DIN:	Mm, I think we should get something a little less heavy.
-*GIN:	A little less heavy? (.) Ah.
-*DIN:	 (        ) up there so that must be the  (        ) .
-*UNK:	 (        )  (        ) .
-*GIN:	Well if you ask they might have some just brought back.Can you get it down to read it?
-*DIN:	No, it's  (        ) .
-*GIN:	It's stuck there.
-*DIN:	That's stuck there  (        ) . (        ) .
-*UNK:	Oh no, (        )  (.) 
-*GIN:	It's sort of rather plain cream on the back  (.) 
-*DIN:	Well done mum, (        ) .
-*GIN:	No sweetheart.
-*DIN:	Well why did it fall off then?
-*GIN:	Oh honestly I didn't touch it, I didn't
-*UNK:	 (        ) .
-*GIN:	 (        ) .
-*UNK:	Erm.
-*DIN:	 (        )  ((laugh)) I've been mucked up, mucked it up completely now.
-*GIN:	I didn't done anything honestly I didn't.
-*DIN:	Got a nail?
-*GIN:	Oh I see they stick into the felt.
-*DIN:	Not very well .
-*GIN:	They've got all things on the back.
-*DIN:	Oh that's    (        )  (.) it's like, oh sorry.
-*GIN:	 ((laugh)) .
-*DIN:	Don't touch any more   (        ) tape.
-*GIN:	Look.
-*DIN:	Oh it's  (        ) .
-*GIN:	Well I, I wouldn't mind watching that, yes I, no I wouldn't I'd think it's silly, told you once I saw at the   (        ) I couldn't, this doesn't want to stay up this double sided tape.
-*DIN:	 (        ) , you go  (        ) .I   (        ) comedy don't you?
-*GIN:	 (        ) .
-*DIN:	I wonder if they've got, what was that one with Leslie Neilson, the good one, Naked Gun, that's funny, (        ) is that.
+*GIN:	Came out the end of last month didn't it? Or the  middle of this month  . 
+*DIN:	 No this month  . 
+*UNK:	I got my  (  ) . 
+*DIN:	 (  ) . 
+*GIN:	Oh it's got lot's of animals in this one  (14.0)  
+*DIN:	 (  ) . 
+*GIN:	 ((reading))  (  ) things that happened to them while they were making the African Queen and, they've turned into a story . 
+*DIN:	Mm, I think we should get something a little less heavy. 
+*GIN:	A little less heavy?  (5.0) Ah. 
+*DIN:	  (  ) up there  so that must be the  (  ) . 
+*UNK:	  (  )   (  ) . 
+*GIN:	Well if you ask they might have some just brought back. Can you get it down to read it? 
+*DIN:	No, it's  (  ) . 
+*GIN:	It's stuck there. 
+*DIN:	That's stuck there  (  ) . (  ) . 
+*UNK:	Oh no, (  )  (.)  
+*GIN:	It's sort of rather plain cream on the back  (.)  
+*DIN:	Well done mum, (  ) . 
+*GIN:	No sweetheart. 
+*DIN:	Well why did it fall off then? 
+*GIN:	Oh honestly  I didn't touch it, I didn't 
+*UNK:	  (  )  . 
+*GIN:	 (  ) . 
+*UNK:	Erm. 
+*DIN:	 (  )  ((laugh)) I've been mucked up, mucked it up completely now. 
+*GIN:	I didn't done anything honestly I didn't. 
+*DIN:	Got a nail? 
+*GIN:	Oh I see they stick into the felt. 
+*DIN:	 Not very well  . 
+*GIN:	 They've got  all things on the back. 
+*DIN:	Oh that's    (  )  (.) it's like, oh sorry. 
+*GIN:	 ((laugh)) . 
+*DIN:	Don't touch any more   (  ) tape. 
+*GIN:	Look. 
+*DIN:	Oh it's  (  ) . 
+*GIN:	Well I, I wouldn't mind watching that, yes I, no I wouldn't I'd think it's silly, told you once I saw at  the   (  ) I  couldn't, this doesn't want to stay up this double sided tape. 
+*DIN:	  (  )  , you go  (  ) . I   (  ) comedy don't you? 
+*GIN:	 (  ) . 
+*DIN:	I wonder if they've got, what was that one with Leslie Neilson, the good one, Naked Gun, that's funny, (  ) is that. 
 @End

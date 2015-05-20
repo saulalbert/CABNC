@@ -1,21 +1,21 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0024XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0024XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0024XX-AAZZP0.wav
 @Comment:	conversation #106 (Tape 002406)
-*CHR:	Yes Christine was happy enough.All is well down in Devon.Steven and his numerous family are still on the canal's somewhere having a hol .Did you enjoy that little nonsense.Do they go too, Snoopy, or not?
-*NOR:	 (        ) 
-*CHR:	Yes, yes, yes, yes.
-*NOR:	 (        ) darling.
-*CHR:	Too good.
+*CHR:	Yes Christine was happy enough. All is well down in Devon. Steven and his numerous family are still on the canal's somewhere having a hol  . Did you enjoy that little nonsense. Do they go too, Snoopy, or not? 
+*NOR:	 (  ) 
+*CHR:	Yes, yes, yes, yes. 
+*NOR:	 (  ) darling. 
+*CHR:	Too good. 
 @End

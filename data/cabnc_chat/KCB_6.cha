@@ -1,21 +1,21 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-22:  
 @Location:	  in car  
-@Situation:	  travelling from Wimborne to Throop  
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  travelling from Wimborne to Throop   
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	GRA Graeme self, ANN Ann wife
-@ID: eng|AudioBNC|GRA|~62;| |m|Ag5| |company secretary||PS0DX|
-@ID: eng|AudioBNC|ANN|~58;| |f|Ag4| |housewife|wife|PS0DY|
+@Options:	CA
+@ID:	eng|AudioBNC|GRA|62;|||||company secretary||PS0DX|
+@ID:	eng|AudioBNC|ANN|58;|||||housewife|wife|PS0DY|
 @Comment:	conversation #6 (Tape 043006)
-*GRA:	Er er er
-*ANN:	There, where are   (        ) you in?
-*GRA:	I'm on the wrong road aren't I?
-*ANN:	I don't know!
-*GRA:	Yes I am.Don't want to go to Ringwood or Woodchester do we?Not really.Can't get there, this road has taken us out of our way hasn't it?We'll have to do a little   (.) pas de deux here and turn the car around. (.) The number of times I come off this roundabout onto the wrong road, it's
-*ANN:	It's alwa it's always the same isn't it?
-*GRA:	It's just one of my habits I think. (.) We want the Hampreston   (        ) Road.
+*GRA:	Er er er 
+*ANN:	There, where are   (  ) you in? 
+*GRA:	I'm on the wrong road aren't I? 
+*ANN:	I don't know! 
+*GRA:	Yes I am. Don't want to go to Ringwood or Woodchester do we? Not really. Can't get there, this road has taken us out of our way hasn't it? We'll have to do a little   (.) pas de deux here and turn the car around.  (22.0) The number of times I come off this roundabout onto the wrong road, it's 
+*ANN:	It's alwa  it's always the same  isn't it? 
+*GRA:	 It's just  one of my habits I think.  (6.0) We want the Hampreston   (  ) Road. 
 @End

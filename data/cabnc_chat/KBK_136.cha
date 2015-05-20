@@ -1,24 +1,24 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0026XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0026XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0026XX-AAZZP0.wav
 @Comment:	conversation #136 (Tape 002605)
-*CHR:	Not a lot of people in the park.Where'd they go?
-*NOR:	I'm not surprised. (        ) in the park.
-*CHR:	Whoops, bad luck, your toe?
-*NOR:	Oh   (        ) dear, (        ) hurt me.
-*CHR:	Why won't you go to the chiropodist.
-*NOR:	Because I keep bumping them it's got nothing to do with the chiropodist.
-*CHR:	I can get you some army boots.
-*NOR:	Bumped my toe this morning. (        ) .
+*CHR:	Not a lot of people in the park. Where'd they go? 
+*NOR:	I'm not surprised.  (  ) in the park. 
+*CHR:	Whoops, bad luck, your toe? 
+*NOR:	Oh   (  ) dear, (  ) hurt me. 
+*CHR:	Why won't you go to the chiropodist. 
+*NOR:	Because I keep bumping them it's got nothing to do with the chiropodist. 
+*CHR:	I can get you some army boots. 
+*NOR:	Bumped my toe this morning. (  ) . 
 @End

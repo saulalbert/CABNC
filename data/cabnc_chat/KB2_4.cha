@@ -1,87 +1,87 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
-@Date:	1992-01-31:    having a cup of tea  
-@Media: 021A-C0897X0610XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
+@Date:	1992-01-31:    having a cup of tea   
+@Media:	021A-C0897X0610XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , ALE Alec self, JOY Joyce wife
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|ALE|~68;| |m|Ag5| |retired||PS01T|
-@ID: eng|AudioBNC|JOY|~63;| |f|Ag5| |retired|wife|PS01V|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|ALE|68;|||||retired||PS01T|
+@ID:	eng|AudioBNC|JOY|63;|||||retired|wife|PS01V|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0610XX-ABZZP0.wav
 @Comment:	conversation #5 (Tape 061005)
-*JOY:	I'm not envious of their heating
-*ALE:	Eh?
-*JOY:	I'm not envious of their heating   (.) freezing in their hall, isn't much, you can nearly see the
-*GRO:	 (        ) 
-*JOY:	outside through their door and all cold's coming in, it's worse than our door
-*ALE:	Mm
-*JOY:	it is. (.) She's right though about Annie, Annie will just have what she wants
-*ALE:	Yeah, mm
-*JOY:	if she's refused about having something she'll set
-*GRO:	 (        ) 
-*JOY:	she'll get it by hook or by crook, that's on the, wonder she's not in jail though for not paying   (.) I heard how many time, how much she's borrowed over Christmas, for at, for, for er, what they call it as well you know er, what they call it Beverley her daughter
-*ALE:	Mm
-*JOY:	you know, she's only got two daughters and one of them, one of them's a hairdresser. (.) 
-*GRO:	 (        ) 
-*JOY:	a taste  (.) 
-*GRO:	 (        ) 
-*ALE:	do you, I
-*GRO:	 (        )  (.) 
-*JOY:	I've got  (.) 
-*GRO:	 (        )  (.) 
-*JOY:	What?
-*ALE:	Pass me end piece
-*JOY:	Mm?
-*ALE:	pass me end piece
-*JOY:	You want it all?
-*ALE:	No end piece
-*JOY:	Oh, don't you want that bit?
-*ALE:	No, prefer the crust bit
-*JOY:	Do you? (.) You don't really miss them much do you?
-*ALE:	Eh?
-*JOY:	Don't miss them much?
-*ALE:	No
-*GRO:	 (        ) 
-*JOY:	eh if I know it were gonna be that quick I wouldn't of put that other one in freezer  (.) 
-*GRO:	 (        ) 
-*ALE:	were you?
-*JOY:	Oh no
-*ALE:	Make a change
-*JOY:	I'm not gonna take it out again, I know what it's gonna be like this one freeze it and re-thaw it don't you? (.) Oh God whatever's that? (.) 
-*GRO:	 (        )  (.) 
-*JOY:	Are they off then?
-*ALE:	Mm?
-*JOY:	Have they gone?Are they stampeded?
-*ALE:	Mm  (.) 
-*GRO:	 (        )  (.) 
-*JOY:	How would she be able to blow that
-*GRO:	 (        )  (.)  (        ) 
-*ALE:	mm  (.) 
-*GRO:	 (        ) 
-*JOY:	mm
-*ALE:	do reverse and make it bigger  (.) 
-*JOY:	Got a bit of paper
-*GRO:	 (        ) 
-*ALE:	mm  (.) 
-*JOY:	Not making that noise
-*GRO:	 (        ) 
-*JOY:	that margarine take it up on Kwiksave
-*GRO:	 (        )  (.) 
-*JOY:	That's
-*GRO:	 (        ) 
-*JOY:	that's alright int it?
-*ALE:	Mm
-*JOY:	No that's Stewart Grainger, who's the other one?
-*GRO:	 (        ) 
-*JOY:	yeah, oh is it Robert Taylor?
-*ALE:	Who?
-*JOY:	It's not Robert Taylor is it?Might be  (.) 
-*GRO:	 (        ) 
-*JOY:	should be done
-*ALE:	Well I'll have a look
-*GRO:	 (        ) 
-*JOY:	that's today's paper that.
+*JOY:	I'm not envious of their heating 
+*ALE:	Eh? 
+*JOY:	I'm not envious of their heating   (.) freezing in their hall, isn't much, you can nearly see the 
+*GRO:	 (  ) 
+*JOY:	outside through their door and all cold's coming in, it's worse than our door 
+*ALE:	Mm 
+*JOY:	it is.  (.) She's right though about Annie, Annie will just have what she wants 
+*ALE:	Yeah, mm 
+*JOY:	if she's refused about having something she'll set 
+*GRO:	 (  ) 
+*JOY:	she'll get it by hook or by crook, that's on the, wonder she's not in jail though for not paying   (.) I heard how many time, how much she's borrowed over Christmas, for at, for, for er, what they call it as well you know er, what they call it Beverley her daughter 
+*ALE:	Mm 
+*JOY:	you know, she's only got two daughters and one of them, one of them's a hairdresser. (12.0)  
+*GRO:	 (  ) 
+*JOY:	a taste  (.)  
+*GRO:	 (  ) 
+*ALE:	do you, I 
+*GRO:	 (  )  (.) 
+*JOY:	I've got  (6.0)  
+*GRO:	 (  )  (.) 
+*JOY:	What? 
+*ALE:	Pass me end piece 
+*JOY:	Mm? 
+*ALE:	pass me end piece 
+*JOY:	You want it all? 
+*ALE:	No end piece 
+*JOY:	Oh, don't you want that bit? 
+*ALE:	No, prefer the crust bit 
+*JOY:	Do you?  (.) You don't really miss them much do you? 
+*ALE:	Eh? 
+*JOY:	Don't miss them much? 
+*ALE:	No 
+*GRO:	 (  ) 
+*JOY:	eh if I know it were gonna be that quick I wouldn't of put that other one in freezer  (.)  
+*GRO:	 (  ) 
+*ALE:	were you? 
+*JOY:	Oh no 
+*ALE:	Make a change 
+*JOY:	I'm not gonna take it out again, I know what it's gonna be like this one freeze it and re-thaw it don't you?  (.) Oh God whatever's that? (.)  
+*GRO:	 (  )  (8.0) 
+*JOY:	Are they off then? 
+*ALE:	Mm? 
+*JOY:	Have they gone? Are they stampeded? 
+*ALE:	Mm  (.)  
+*GRO:	 (  )  (11.0) 
+*JOY:	How would she be able to blow that 
+*GRO:	 (  )  (.)  (  ) 
+*ALE:	mm  (.)  
+*GRO:	 (  ) 
+*JOY:	mm 
+*ALE:	do reverse and make it bigger  (22.0)  
+*JOY:	Got a bit of paper 
+*GRO:	 (  ) 
+*ALE:	mm  (6.0)  
+*JOY:	Not making that noise 
+*GRO:	 (  ) 
+*JOY:	that margarine take it up on Kwiksave 
+*GRO:	 (  )  (.) 
+*JOY:	That's 
+*GRO:	 (  ) 
+*JOY:	that's alright int it? 
+*ALE:	Mm 
+*JOY:	No that's Stewart Grainger, who's the other one? 
+*GRO:	 (  ) 
+*JOY:	yeah, oh is it Robert Taylor? 
+*ALE:	Who? 
+*JOY:	It's not Robert Taylor is it? Might be  (.)  
+*GRO:	 (  ) 
+*JOY:	should be done 
+*ALE:	Well I'll have a look 
+*GRO:	 (  ) 
+*JOY:	that's today's paper that. 
 @End

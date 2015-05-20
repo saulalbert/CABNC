@@ -1,87 +1,87 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-28:  
 @Location:	  Home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0091XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0091XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , BET Betty self, GOO Googie friend, ROS Rose friend, WEN Wendy friend, JUL Julie friend, MAG Maggie neighbour
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|BET|~57;| |f|Ag4| |housewife||PS04B|
-@ID: eng|AudioBNC|GOO|~76;| |f|Ag5| |housewife|friend|PS04C|
-@ID: eng|AudioBNC|ROS|~64;| |f|Ag5| |housewife|friend|PS04D|
-@ID: eng|AudioBNC|WEN|~33;| |f|Ag2| |housewife|friend|PS04E|
-@ID: eng|AudioBNC|JUL|~25;| |f|Ag2| |production worker|friend|PS04F|
-@ID: eng|AudioBNC|MAG|~32;| |f|Ag2| |shop assistant|neighbour|PS04G|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|BET|57;|||||housewife||PS04B|
+@ID:	eng|AudioBNC|GOO|76;|||||housewife|friend|PS04C|
+@ID:	eng|AudioBNC|ROS|64;|||||housewife|friend|PS04D|
+@ID:	eng|AudioBNC|WEN|33;|||||housewife|friend|PS04E|
+@ID:	eng|AudioBNC|JUL|25;|||||production worker|friend|PS04F|
+@ID:	eng|AudioBNC|MAG|32;|||||shop assistant|neighbour|PS04G|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0091XX-AAZZP0.wav
 @Comment:	conversation #1 (Tape 009101)
-*JUL:	I don't know they said that no names are mentioned
-*BET:	No
-*WEN:	She takes all them tapes away and Bet's name's not put on there.
-*MAG:	No one 's names are on there 
-*ROS:	No one 's names are on there.
-*GOO:	She's got to write down
-*ROS:	What  (        ) 
-*JUL:	She's got to write down    (        )  ((laugh))  ((clapping))
-*ROS:	Mm.Have I got to fill all this out now?
-*JUL:	Bet's got to fill out who she's talking to and what they are to her   (        ) 
-*BET:	 (        ) 
-*ROS:	You're her mother Grandmother. ((laugh)) 
-*UNK:	 (        ) 
-*JUL:	When you're sixty   (        ) oh Rose had it  (        ) 
-*MAG:	She got a shock
-*JUL:	She got to put down every day look there's a sample for a week
-*BET:	For a week.
-*JUL:	Look there's a sample look.She's got to put the  (        ) 
-*WEN:	She'll have to bring it over her coffee in the morning.
-*JUL:	The person's age   (.) male or female.And what else is it?
-*BET:	Oh what action they are and what what's that?Oh relation they are stranger or colleague.
-*JUL:	Have you been swearing Rose?
-*WEN:	No I haven't said a word.
-*GOO:	Oh she's all right then?
-*MAG:	No.
-*JUL:	Colleague.That's colleague like we're friends. (        )  ((laugh)) 
-*WEN:	Friends and neighbours?
-*JUL:	Yeah.Friends and neighbours.Yeah.I thought she'd be on that one five minutes I'll see what 
-*WEN:	Well that's where what it is.She's got to put on she's got to put you're a granny or 
-*JUL:	If I'd done that if I'd done that   (        ) be worse you don't use bad language but he'd be he's he'd be 
-*WEN:	He'd do it all the more would he?
-*JUL:	He's he's well
-*MAG:	He'd do it all the more.
-*JUL:	Be serious he can't be serious.
-*BET:	No.
-*JUL:	But I didn't let   (        ) although there won't be nothing on there so it don't matter do it?
-*BET:	No.
-*JUL:	Because we're very quiet when we're on our own
+*JUL:	I don't know they said that no names are mentioned 
+*BET:	No 
+*WEN:	She takes all them tapes away and Bet's name's not put on there. 
+*MAG:	 No one 's names are on there   
+*ROS:	 No one 's names are on there. 
+*GOO:	She's got to write down 
+*ROS:	What  (  )  
+*JUL:	She's got to write down    (  )  ((laugh))  ((clapping)) 
+*ROS:	Mm. Have I got to fill all this out now? 
+*JUL:	Bet's got to fill out who she's talking to and what they are to her    (  )   
+*BET:	  (  )  
+*ROS:	You're her mother Grandmother. ((laugh))  
+*UNK:	 (  ) 
+*JUL:	When you're sixty   (  ) oh Rose had it  (  )  
+*MAG:	She got a shock 
+*JUL:	She got to put down every day look there's a sample for a week 
+*BET:	For a week. 
+*JUL:	Look there's a sample look. She's got to put the  (  )  
+*WEN:	She'll have to bring it over her coffee in the morning. 
+*JUL:	The person's age   (.) male or female. And what else is it? 
+*BET:	Oh what action they are and what what's that? Oh relation they are stranger or colleague. 
+*JUL:	Have you been swearing Rose? 
+*WEN:	No I haven't said a word. 
+*GOO:	Oh she's all right then? 
+*MAG:	No. 
+*JUL:	Colleague. That's colleague like we're friends. (  )  ((laugh))  
+*WEN:	Friends and neighbours? 
+*JUL:	Yeah. Friends and neighbours. Yeah. I thought she'd be on that one five minutes  I'll see what   
+*WEN:	 Well that's  where what it is. She's got to put on she's got to put  you're a granny or   
+*JUL:	 If I'd done  that if I'd done that   (  ) be worse you don't use bad language but he'd be  he's he'd be   
+*WEN:	 He'd do it  all the more would he? 
+*JUL:	He's he's well 
+*MAG:	He'd do it all the more. 
+*JUL:	Be serious he can't be serious. 
+*BET:	No. 
+*JUL:	But I didn't let   (  ) although there won't be nothing on there so it don't matter do it? 
+*BET:	No. 
+*JUL:	Because we're very quiet when we're on our own 
 *UNK:	 ((laugh)) 
-*UNK:	Oh ah!
-*ROS:	Oh I bet they're not!
-*WEN:	Oh it's all right.They have fun.
-*ROS:	 (        ) language with the  (        ) 
-*JUL:	I should be I should bloody go very carefully  (        ) 
-*WEN:	This morning Betty
-*BET:	Oh!
-*WEN:	 (        ) coffee
+*UNK:	Oh ah! 
+*ROS:	Oh I bet they're not! 
+*WEN:	Oh it's all right. They have fun. 
+*ROS:	 (  ) language with the  (  )  
+*JUL:	I should be I should bloody go very carefully  (  )  
+*WEN:	This morning Betty 
+*BET:	Oh! 
+*WEN:	 (  ) coffee 
 *UNK:	 ((laugh)) 
-*UNK:	 (        ) 
-*JUL:	Oh we'll have a bleeding laugh at that.Don't say nothing before Joe comes in, don't say nothing.
+*UNK:	 (  ) 
+*JUL:	Oh we'll have a bleeding laugh at that. Don't say nothing before Joe comes in, don't say nothing. 
 *UNK:	 ((laugh)) 
-*JUL:	Do you know what you got on there now?
-*ROS:	Yeah.
+*JUL:	Do you know what you got on there now? 
+*ROS:	Yeah. 
 *UNK:	 ((laugh)) 
-*JUL:	We've got to be silent  (        ) 
-*WEN:	We've got her doing  (        ) 
-*JUL:	I'd be wishing I'll Christmas birthday coming  (        ) 
+*JUL:	We've got to be silent  (  )  
+*WEN:	We've got her doing  (  )  
+*JUL:	I'd be wishing I'll Christmas birthday coming  (  )  
 *UNK:	 ((laugh)) 
-*ROS:	How long does that tape last?
-*GOO:	 (        ) five minutes  ((laugh)) 
-*WEN:	Oh have you got to change the tape then or?
-*JUL:	I'll just turn it over.
-*UNK:	 (        ) 
-*ROS:	Turn it off then.
-*JUL:	Oh yes.You can hear yourself now but where  (        ) 
+*ROS:	How long does that tape last? 
+*GOO:	 (  ) five minutes  ((laugh))  
+*WEN:	Oh have you got to change the tape then or? 
+*JUL:	I'll just turn it over. 
+*UNK:	 (  ) 
+*ROS:	Turn it off then. 
+*JUL:	Oh yes. You can hear yourself now but where  (  )  
 @End

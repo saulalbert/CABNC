@@ -1,63 +1,63 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-01-12:  
 @Location:	  at home  
-@Situation:	  preparing breakfast  
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  preparing breakfast   
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	ART Arthur self, EVE Evelyn wife
-@ID: eng|AudioBNC|ART|~82;| |m|Ag5| |retired (precision engineer)||PS03S|
-@ID: eng|AudioBNC|EVE|~75;| |f|Ag5| |retired|wife|PS03T|
+@Options:	CA
+@ID:	eng|AudioBNC|ART|82;|||||retired (precision engineer)||PS03S|
+@ID:	eng|AudioBNC|EVE|75;|||||retired|wife|PS03T|
 @Comment:	conversation #13 (Tape 049205)
-*EVE:	That's going.
-*ART:	Oh mhm.
-*EVE:	We seem to have er  (.) 
-*ART:	Seems to have  (        ) 
-*EVE:	That bit.
-*ART:	What will you be doing today then?
-*EVE:	Well as it's foggy I don't think we can go out.
-*ART:	No. (.) 
-*EVE:	It's a pity we didn't go yesterday   (        ) 
-*ART:	Course we was gonna show Tom and Madge the, that er   (.) aerial view of the house.
-*EVE:	Oh well we've got plenty of time for that.
-*ART:	Time for that, mm, besides it, there might be a lot of salt about.
-*EVE:	Ooh you get obsessed with salt you do.
-*ART:	Well it's not that,i it's so they   (.) they like to get rid of it for the summer and i if there's a   (.) sign of a bit of frost out they all come, shoving it onto the road and rotting everybody's cars.
-*EVE:	Has it froze the water to last night?
-*ART:	No it's s spitting with rain.
-*EVE:	Is it?Mm.
-*ART:	Just like, well more like fog really.
-*EVE:	Well do you know what, I forgot to take the chicken out of the fridge last night so   (.) we can't have dinner so
-*ART:	Oh dear.
-*EVE:	too early.
-*ART:	Put it in the stove, that'll thaw it.
-*EVE:	 [laughing] Don't be silly   [] it is thaw nearly thawed anyway, it won't, I'll do it right away I've just remembered.
-*ART:	Well must we have chicken?
-*EVE:	Yes I haven't got anything else except t tins, and you don't want tins on a Sunday do you?
-*ART:	Best bread and dripping.
-*EVE:	 [laughing] Ooh ooh where's   [] the dripping coming from? (.) 
-*ART:	The butchers.Yeah I used to like their pork er dripping. (.) I used to like Cocklin's pork dripping   (        ) 
-*EVE:	N not for breakfast.Anyway what are you going to have?
-*ART:	Burnt chicken 
-*EVE:	 (        ) no I'm talking now 
-*ART:	chicken fricassee
-*EVE:	I'm not talking, that's silly.
-*ART:	er lightly done kippers on one side.
-*EVE:	Ooh.Now, boiled or poached or  (        ) ?
-*ART:	Boiled will do. (.) 
-*EVE:	I think er Tom and Jackie were alright last night weren't they?
-*ART:	What, do you mean  (        ) ?
-*EVE:	Yes, I think so.They didn't seem to object.
-*ART:	No. (.) 
-*EVE:	 ((cough))  (.) Did you  (        ) ? (.) 
-*ART:	We could have a banana souffle  (        ) 
-*EVE:	Well we, we couldn't, don't be silly.No I said what are you going to do t this morning?
-*ART:	 (        ) 
-*EVE:	Are you going to do some more t put some more snaps in the album?
-*ART:	Well it depends on you, if you're not going out it's
-*EVE:	We ca we can't go out in this weather, this frost. (.) Fog I mean.
-*ART:	There's er one of the pigeons   (        ) I shall have to go and put some seed down.
-*EVE:	Well you'd better go and feed them then.
+*EVE:	That's going. 
+*ART:	Oh mhm. 
+*EVE:	We seem to have er  (.)  
+*ART:	Seems to have  (  )  
+*EVE:	That bit. 
+*ART:	What will you be doing today then? 
+*EVE:	Well as it's foggy I don't think we can go out. 
+*ART:	No. (.)  
+*EVE:	It's a pity we didn't go yesterday    (  )   
+*ART:	 Course we was  gonna show Tom and Madge the, that er   (.) aerial view of the house. 
+*EVE:	Oh well we've got plenty of time  for that. 
+*ART:	 Time  for that, mm, besides it, there might be a lot of salt about. 
+*EVE:	Ooh you get obsessed with salt  you do. 
+*ART:	 Well it's  not that,i  it's so they   (.) they like to get rid of it for the summer and i  if there's a   (.) sign of a bit of frost out they all come, shoving it onto the road and rotting everybody's cars. 
+*EVE:	Has it froze the water to   last night? 
+*ART:	 No  it's s  spitting with rain. 
+*EVE:	Is it? Mm. 
+*ART:	Just like, well more like fog really. 
+*EVE:	Well do you know what, I forgot to take the chicken out of the fridge last night so   (.) we can't have dinner so 
+*ART:	Oh dear. 
+*EVE:	too early. 
+*ART:	Put it in the stove, that'll thaw it. 
+*EVE:	 ((laughing)) Don't be silly  it is thaw  nearly thawed anyway, it won't, I'll do it right away I've just remembered. 
+*ART:	Well must we have chicken? 
+*EVE:	Yes I haven't got anything else except t  tins, and you don't want tins on a  Sunday do you? 
+*ART:	 Best bread and  dripping. 
+*EVE:	 ((laughing)) Ooh ooh where's  the dripping coming from? (.)  
+*ART:	The butchers. Yeah I used to like their pork er dripping.  (.) I used to like Cocklin's pork dripping    (  )   
+*EVE:	 N  not for  breakfast. Anyway what are you going to have? 
+*ART:	Burnt  chicken   
+*EVE:	  (  )  no I'm talking  now   
+*ART:	 chicken  fricassee 
+*EVE:	I'm not talking, that's silly. 
+*ART:	er lightly done kippers on one side. 
+*EVE:	Ooh. Now, boiled or poached or  (  ) ? 
+*ART:	Boiled will do. (.)  
+*EVE:	I think er Tom and Jackie were alright last night weren't they? 
+*ART:	What, do you mean  (  ) ? 
+*EVE:	Yes, I think so. They didn't seem to object. 
+*ART:	No. (.)  
+*EVE:	 ((cough))  (.) Did you  (  ) ? (.)  
+*ART:	We could have a banana souffle  (  )  
+*EVE:	Well we, we couldn't, don't be silly. No I said what are you going to do t  this morning? 
+*ART:	 (  ) 
+*EVE:	Are you going to do some more t  put some more snaps in the album? 
+*ART:	Well it depends on you, if you're not going out it's 
+*EVE:	We ca  we can't go out in this weather, this frost.  (.) Fog I mean. 
+*ART:	There's er one of the pigeons   (  ) I shall have to go and  put some seed down. 
+*EVE:	 Well you'd better go and feed  them then. 
 @End

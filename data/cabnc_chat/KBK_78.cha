@@ -1,40 +1,40 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0023XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0023XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, LYN Lynda colleague
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|LYN|~44;| |f|Ag3| |export assistant|colleague|PS102|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|LYN|44;|||||export assistant|colleague|PS102|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0023XX-AAZZP0.wav
 @Comment:	conversation #78 (Tape 002312)
-*CHR:	Right.
-*LYN:	 (        ) 
-*CHR:	Yes please.Super.
-*LYN:	 (        ) 
-*CHR:	I didn't even write that one in the enquiry book, I'll do it now, now the values come down a bit. ((laugh)) 
-*LYN:	Yeah.
-*CHR:	Gosh, twelve orders are made out of it.Can't recall when we last had as many as that.
-*LYN:	No.Even  (        ) . ((laugh)) 
-*CHR:	 ((laugh)) Well we'll except a  (.) 
-*LYN:	Where's he going wrong?I thought I was superstition and not writing in the  (        ) .
-*CHR:	Yes, yes I think you could be well be right there Lynda.You think it's superstition do you?
-*LYN:	 (        ) 
-*CHR:	Yes.
-*LYN:	 ((laugh))  (        ) 
-*CHR:	Yes I'm sorry to have   (.) 
-*LYN:	Not wishing to waste the ink. ((laugh)) 
-*CHR:	We're, we're six thousand seven hundred pounds short of last year's total.
-*LYN:	Six thousand, that's one  (        ) .Now, do what do we consider  (        ) ?
-*CHR:	Yes, I   (.) I want you to add another five percent.
-*LYN:	Yeah.
-*CHR:	 ((laugh)) Well the average is nudging fifty thousand a month Lynda.
-*LYN:	 (        ) .All we got to do is keep it up, till the contact in  (        ) .
+*CHR:	Right. 
+*LYN:	 (  ) 
+*CHR:	Yes please. Super. 
+*LYN:	 (  ) 
+*CHR:	I didn't even write that one in the enquiry book, I'll do it now, now the values come down a bit. ((laugh))  
+*LYN:	Yeah. 
+*CHR:	Gosh, twelve orders are made out of it. Can't recall when we last had as many as that. 
+*LYN:	No. Even  (  ) . ((laugh))  
+*CHR:	 ((laugh)) Well we'll except a  (.)  
+*LYN:	Where's he going wrong? I thought I was superstition and not writing in the  (  ) . 
+*CHR:	Yes, yes I think you could be well be right there Lynda. You think it's superstition do you? 
+*LYN:	 (  ) 
+*CHR:	Yes. 
+*LYN:	 ((laugh))  (  ) 
+*CHR:	Yes I'm sorry  to have   (.)   
+*LYN:	 Not wishing to waste  the ink. ((laugh))  
+*CHR:	We're, we're six thousand seven hundred pounds short of last year's total. 
+*LYN:	Six thousand, that's one  (  ) . Now, do what do we consider  (  ) ? 
+*CHR:	Yes, I   (.) I want you to add another five percent. 
+*LYN:	Yeah. 
+*CHR:	 ((laugh)) Well the average is nudging fifty thousand a month Lynda. 
+*LYN:	 (  ) . All we got to do is keep it up, till the contact in  (  ) . 
 *CHR:	 ((laugh)) 
-*LYN:	 (        ) 
+*LYN:	 (  ) 
 @End

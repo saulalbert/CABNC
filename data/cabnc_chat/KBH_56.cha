@@ -1,60 +1,60 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-04:  
 @Location:	  home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0043XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0043XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CAR Carole self, JOE Joelle employee, ADA Adam husband
-@ID: eng|AudioBNC|CAR|~36;| |f|Ag3| |administrator (pt)||PS05B|
-@ID: eng|AudioBNC|JOE|~18;| |f|Ag1| |au pair|employee|PS05C|
-@ID: eng|AudioBNC|ADA|~36;| |m|Ag3| |textile agent|husband|PS05D|
+@Options:	CA
+@ID:	eng|AudioBNC|CAR|36;|||||administrator (pt)||PS05B|
+@ID:	eng|AudioBNC|JOE|18;|||||au pair|employee|PS05C|
+@ID:	eng|AudioBNC|ADA|36;|||||textile agent|husband|PS05D|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0043XX-ABZZP0.wav
 @Comment:	conversation #56 (Tape 004312)
-*JOE:	So I said, I said to her oh god you, you be lucky cos if you've done that aha, and he, come back  (        ) .
+*JOE:	So I said, I said to her oh god you, you be lucky cos if you've done that aha, and he, come back  (  ) . 
 *ADA:	 ((laugh)) 
-*JOE:	 ((laugh)) She said you better not forget you're employed, you are not in here on holiday, she said you   (        ) your, your boss, your boss must say that to you
-*ADA:	Mhm.
-*JOE:	not you.
-*ADA:	What she say?
-*JOE:	She said we are not employed, we are  (        ) , so I said oh, what's the difference, you pay for that, you've been paid for that, I said  (        ) , because I promise you can, you can go  (        ) .I  (        ) .
-*ADA:	What a funny girl.She's crazy, she's crazy.
-*JOE:	She, I think she get, she thinks she can have
-*ADA:	Sounds like she's looking for a holiday.Mm, yeah, sounds like she's looking for a paid holiday.
-*JOE:	Paid holiday.
-*ADA:	Yeah.
-*JOE:	I'd be astonished.
-*ADA:	I'll tell you the, some people take advantage of au pairs, no doubt about it.
-*JOE:	 (        ) 
-*ADA:	I mean you remember I told you about my cousin, mm, now he is not somebody I'd recommend an au pair, au pair to work
-*JOE:	I don't, I don't.
-*ADA:	cos he
-*JOE:	I don't think his sort of   (        ) by work.
-*ADA:	Yeah.
-*JOE:	She can go out for with some friends eh, every time she wants.
-*ADA:	Mm.
-*JOE:	So I don't think that  (        ) .
-*ADA:	Mm.
-*JOE:	I don't think  (        ) .
-*ADA:	But has she got children to look after or not?
-*JOE:	I think she quite nice with children.I don't want send her here.
-*ADA:	No.
-*JOE:	I don't think, think it a good idea really.
-*ADA:	I'll tell you what, what I don't need is somebody with an attitude problem.
-*JOE:	What, what's that?
-*ADA:	Somebody who has eh, er, a special type of attitude, you know, thinks in a particular way.
-*CAR:	Aversion to work. ((laugh)) 
-*ADA:	Because you're right, as soon as they make noises like that, I'll shall say there is the door, get on the other side of it, I haven't got time for it.
-*JOE:	No, but the way she said that to me I thinks  (        ) .
-*ADA:	I am astonished, surprised is a better word.
-*JOE:	And I am  (        ) , take some  (        ) .
-*ADA:	Hm. ((laugh)) Don't think she, we appreciate that.
-*JOE:	I'm sure.
-*ADA:	 (        ) 
-*JOE:	That's not your problem is it?
-*ADA:	No. ((laugh)) 
-*JOE:	telephone ringing I don't suppose Brian would want to come, do you want to come tomorrow morning? (        ) how are you?Good, good, eh I just wanted to find
+*JOE:	 ((laugh)) She said you better not forget you're employed, you are not in here on holiday, she said you   (  ) your, your boss, your boss must say that to you 
+*ADA:	Mhm. 
+*JOE:	not you. 
+*ADA:	What she say? 
+*JOE:	She said we are not employed, we are  (  ) , so I said oh, what's the difference, you pay for that, you've been paid for that, I said  (  ) , because I promise you can, you can go  (  ) . I  (  ) . 
+*ADA:	What a funny girl. She's crazy, she's crazy. 
+*JOE:	She, I think she get, she thinks she can have 
+*ADA:	Sounds like she's looking for a holiday. Mm, yeah, sounds like she's looking for a paid holiday. 
+*JOE:	Paid holiday. 
+*ADA:	Yeah. 
+*JOE:	I'd be astonished. 
+*ADA:	I'll tell you the, some people take advantage of au pairs, no doubt about it. 
+*JOE:	 (  ) 
+*ADA:	I mean you remember I told you about my cousin, mm, now he is not somebody I'd recommend an au pair, au pair to work 
+*JOE:	I don't, I don't. 
+*ADA:	cos he 
+*JOE:	I don't think his sort of   (  ) by work. 
+*ADA:	Yeah. 
+*JOE:	She can go out for with some friends eh, every time she wants. 
+*ADA:	Mm. 
+*JOE:	So I don't think that  (  ) . 
+*ADA:	Mm. 
+*JOE:	I don't think  (  ) . 
+*ADA:	But has she got children to look after or not? 
+*JOE:	I think she quite nice with children. I don't want send her here. 
+*ADA:	No. 
+*JOE:	I don't think, think it a good idea really. 
+*ADA:	I'll tell you what, what I don't need is somebody with an attitude problem. 
+*JOE:	What, what's that? 
+*ADA:	Somebody who has eh, er, a special type of attitude, you know, thinks in a particular way. 
+*CAR:	Aversion to work. ((laugh))  
+*ADA:	Because you're right, as soon as they make noises like that, I'll shall say there is the door, get on the other side of it, I haven't got time for it. 
+*JOE:	No, but the way she said that to me I thinks  (  ) . 
+*ADA:	I am astonished, surprised is a better word. 
+*JOE:	And I am  (  ) , take some  (  ) . 
+*ADA:	Hm.  ((laugh)) Don't think she, we appreciate that. 
+*JOE:	I'm sure. 
+*ADA:	 (  ) 
+*JOE:	That's not your problem is it? 
+*ADA:	No. ((laugh))  
+*JOE:	telephone ringing I don't suppose Brian would want to come, do you want to come tomorrow morning? (  ) how are you? Good, good, eh I just wanted to find 
 @End

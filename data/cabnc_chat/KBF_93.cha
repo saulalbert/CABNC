@@ -1,48 +1,48 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-04:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0159XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0159XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BRE Brenda self, LEE Lee son
-@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
-@ID: eng|AudioBNC|LEE|~15;| |m|Ag1| |student (state secondary)|son|PS04W|
+@Options:	CA
+@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
+@ID:	eng|AudioBNC|LEE|15;|||||student (state secondary)|son|PS04W|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0159XX-ABZZP0.wav
 @Comment:	conversation #97 (Tape 015908)
-*BRE:	So maybe he's playing with Tom all day today?
-*LEE:	Not    (.)  ((cough)) been a boring day really.I went to sleep so 
-*BRE:	What you been doing then? (.) You asleep when dad come in?
-*LEE:	No I was awake at   (.) just before one.
-*BRE:	You asleep when he was here?
-*LEE:	Yeah.
-*BRE:	Well didn't he wake you up?
-*LEE:	No. (.) Because he went out and he kept, when he went   (.) to do his exercises.
-*BRE:	Where was you then?Upstairs?
-*LEE:	When?
-*BRE:	Asleep?
-*LEE:	Yeah.
-*BRE:	What, not on the couch?
-*LEE:	No cos he was doing his exercises.
-*BRE:	Yeah? (.) But I left you on the couch.
-*LEE:	Yeah I weren't asleep on the couch though.
-*BRE:	Oh did you?
-*LEE:	No, I said I wasn't asleep.
-*BRE:	Oh.You were just resting then.Then you went upstairs did you?
-*LEE:	When   (.) no.When dad went to do his exercises I did.
-*BRE:	Oh I see.
-*LEE:	Cos he wanted to do them in here.
-*BRE:	And then you woke up about one o'clock?
-*LEE:	Mhm.
-*BRE:	How long did he come in then after I phoned? (.) 
-*LEE:	Dunno.Don't know what time you phoned.
-*BRE:	About ten past one.
-*LEE:	 ((cough)) Dunno.Might have even been in then.Oh no 
-*BRE:	Did you have your 
-*LEE:	he weren't actually in then.
-*BRE:	No he weren't.He said he'd gone  (        ) .
-*LEE:	Yeah. (        ) got in about half an hour after you phoned.
+*BRE:	So maybe he's playing with Tom all day today? 
+*LEE:	Not    (.)  ((cough)) been a boring day really.  I went to sleep so   
+*BRE:	 What you been doing then?   (.) You asleep when dad come in? 
+*LEE:	No I was awake at   (.) just before one. 
+*BRE:	You asleep when he was here? 
+*LEE:	Yeah. 
+*BRE:	Well didn't he wake you up? 
+*LEE:	No.  (.) Because he went out and he kept, when he went   (.) to do his exercises. 
+*BRE:	Where was you then? Upstairs? 
+*LEE:	When? 
+*BRE:	Asleep? 
+*LEE:	Yeah. 
+*BRE:	What, not on the couch? 
+*LEE:	No cos he was doing his exercises. 
+*BRE:	Yeah?  (.) But I left you on the couch. 
+*LEE:	Yeah I weren't asleep on the couch though. 
+*BRE:	Oh did you? 
+*LEE:	No, I said I wasn't asleep. 
+*BRE:	Oh. You were just resting then. Then you went upstairs did you? 
+*LEE:	When   (.) no. When dad went to do his exercises I did. 
+*BRE:	Oh I see. 
+*LEE:	Cos he wanted to do them in here. 
+*BRE:	And then you woke up about one o'clock? 
+*LEE:	Mhm. 
+*BRE:	How long did he come in then after I phoned? (.)  
+*LEE:	Dunno. Don't know what time you phoned. 
+*BRE:	About ten past one. 
+*LEE:	 ((cough)) Dunno. Might have even been in then.  Oh no   
+*BRE:	 Did you have your   
+*LEE:	he weren't actually in then. 
+*BRE:	No he weren't. He said he'd gone  (  ) . 
+*LEE:	Yeah.  (  ) got in about half an hour after you phoned. 
 @End

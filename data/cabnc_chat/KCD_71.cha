@@ -1,61 +1,61 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0051XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0051XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
-@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
+@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0051XX-ABZZP0.wav
 @Comment:	conversation #71 (Tape 005112)
-*AMY:	I'll drink the rest, in a minute.
-*HEL:	Well try and drink it cos, you drink a bit, it'll bring this temperature down.You haven't got much of a temperature, but it's just slightly up.Slightly warm.
-*AMY:	 (        ) 
-*HEL:	It makes you feel very lethargic  (        ) .
-*AMY:	Yes.
-*HEL:	Miserable doesn't it, temperature.Oh shame as you've just got your tennis racket, I thought you'd be out in the garden   (        ) around.I'm just glad we aren't going, I mean we could easily of had to go tonight.You'd feel just like going up to London wont you?
-*AMY:	Mm.
-*HEL:	Hope you're better next week   (.) Just put a bit of wallpaper up in your bedroom, then you can.Don't like seeing  (        ) .
-*AMY:	Mm.
-*HEL:	You didn't seem too bad this morning.
-*AMY:	Put  (        ) .
-*CLA:	Mum.
-*HEL:	So does she go anywhere near these B and Q or Homebase, (        ) .
-*AMY:	What?
-*HEL:	B and Q and Homebase.Yes, I knew you were better on, you   (        ) up Thursday night didn't you?Then you were alright yesterday, you were alright going round Bromley, you didn't really seem to have any awful after effects did you?
-*AMY:	Mm.
-*HEL:	Thought you'd recovered  (.) 
-*AMY:	It's a nice  (        ) .
-*HEL:	 (        ) 
-*AMY:	I can't keep anything up. (        ) .
-*HEL:	 (        ) you've got this catarrh, haven't you?
-*AMY:	Mm, (        ) .
-*HEL:	Well if you don't get better at the beginning of the week, we'll have to take you and eh, get you some antibiotics, cos I don't want you ill.
-*AMY:	What happens if I am ill at the Isle of Wight like this?
-*CLA:	Ready.
-*HEL:	Well I don't think, I don't know, somebody will stay at the hotel with you I expect.
-*AMY:	 (        ) 
-*HEL:	Well hopefully you'll be alright. ((cough)) You've just all seemed you've got rather catarrhed haven't we?I mean I've got it as well.Mm, I didn't feel very well on Tuesday or Thursday.
-*AMY:	 (        ) .Feel better tomorrow and be ill on Monday.
-*HEL:	Hope not.
-*AMY:	No.
-*HEL:	Well I mean it ought to have gone by next week, but be alright.If you're not better by sort of Tuesday, Wednesday we'll have to go to the doctor's   (.) get you some antibiotics.
-*AMY:	How do you have antibiotics, in water?
-*HEL:	Yes, if, well sometimes it's medicine.The norm it's medicine.
-*AMY:	Oh.Do you feel O K?
-*HEL:	Yeah, I feel a bit lethargic, but don't feel like doing a lot, but
-*AMY:	 (        ) wanted to do  (        ) .
-*HEL:	Yeah, I don't feel like going to London Zoo or anything.Mm or anything strenuous, but otherwise I feel alright.
-*AMY:	Why don't you  (        ) ?
-*HEL:	I don't know, you're sort of half dozing aren't you?
-*AMY:	Mm.
-*HEL:	Have another little bit of your drink, Amy will you come and read a bit of your book to me?
-*CLA:	Pardon?
-*HEL:	Can you read a bit of your book?
+*AMY:	I'll drink the rest, in a minute. 
+*HEL:	Well try and drink it cos, you drink a bit, it'll bring this temperature down. You haven't got much of a temperature, but it's just slightly up. Slightly warm. 
+*AMY:	 (  ) 
+*HEL:	It makes you feel very lethargic  (  ) . 
+*AMY:	Yes. 
+*HEL:	Miserable doesn't it, temperature. Oh shame as you've just got your tennis racket, I thought you'd be out in the garden   (  ) around. I'm just glad we aren't going, I mean we could easily of had to go tonight. You'd feel just like going up to London wont you? 
+*AMY:	Mm. 
+*HEL:	Hope you're better next week   (10.0) Just put a bit of wallpaper up in your bedroom, then you can. Don't like seeing  (  ) . 
+*AMY:	Mm. 
+*HEL:	You didn't seem too bad this morning. 
+*AMY:	Put   (  ) . 
+*CLA:	 Mum. 
+*HEL:	So does she go anywhere near these B and Q or Homebase, (  ) . 
+*AMY:	What? 
+*HEL:	B and Q and Homebase. Yes, I knew you were better on, you   (  ) up Thursday night didn't you? Then you were alright yesterday, you were alright going round Bromley, you didn't really seem to have any awful after effects did you? 
+*AMY:	Mm. 
+*HEL:	Thought you'd recovered  (.)  
+*AMY:	It's a nice  (  ) . 
+*HEL:	 (  ) 
+*AMY:	I can't keep anything up. (  ) . 
+*HEL:	 (  ) you've got this catarrh, haven't you? 
+*AMY:	Mm, (  ) . 
+*HEL:	Well if you don't get better at the beginning of the week, we'll have to take you and eh, get you some antibiotics, cos I don't want you ill. 
+*AMY:	What happens if I am ill at the Isle of Wight like this? 
+*CLA:	Ready. 
+*HEL:	Well I don't think, I don't know, somebody will stay at the hotel with you I expect. 
+*AMY:	 (  ) 
+*HEL:	Well hopefully you'll be alright.  ((cough)) You've just all seemed you've got rather catarrhed haven't we? I mean I've got it as well. Mm, I didn't feel very well on Tuesday or Thursday. 
+*AMY:	 (  ) . Feel better tomorrow and be ill on Monday. 
+*HEL:	Hope not. 
+*AMY:	No. 
+*HEL:	Well I mean it ought to have gone by next week, but be alright. If you're not better by sort of Tuesday, Wednesday we'll have to go to the doctor's   (.) get you some antibiotics. 
+*AMY:	How do you have antibiotics, in water? 
+*HEL:	Yes, if, well sometimes it's medicine. The norm it's medicine. 
+*AMY:	Oh. Do you feel O K? 
+*HEL:	Yeah, I feel a bit lethargic, but don't feel like doing a lot, but 
+*AMY:	 (  ) wanted to do  (  ) . 
+*HEL:	Yeah, I don't feel like going to London Zoo or anything. Mm or anything strenuous, but otherwise I feel alright. 
+*AMY:	Why don't you  (  ) ? 
+*HEL:	I don't know, you're sort of half dozing aren't you? 
+*AMY:	Mm. 
+*HEL:	Have another little bit of your drink, Amy will you come and read a bit of your book to me? 
+*CLA:	Pardon? 
+*HEL:	Can you read a bit of your book? 
 @End

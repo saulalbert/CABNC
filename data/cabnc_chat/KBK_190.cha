@@ -1,22 +1,22 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0028XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0028XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, SUS Susan employee
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|SUS|~30;| |f|Ag2| |cleaner|employee|PS103|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|SUS|30;|||||cleaner|employee|PS103|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0028XX-ABZZP0.wav
 @Comment:	conversation #190 (Tape 002813)
-*CHR:	Was it exciting in the shop today?
-*SUS:	 (        ) 
-*CHR:	I had a chip incidentally fallen off your plate.They're rather good weren't they?
-*SUS:	Yeah they were nice.
-*CHR:	Mm   (.) What you going to do with Sam tonight?
-*SUS:	 (        ) 
+*CHR:	Was it exciting in the shop today? 
+*SUS:	 (  ) 
+*CHR:	I had a chip incidentally fallen off your plate. They're rather good weren't they? 
+*SUS:	Yeah they were nice. 
+*CHR:	Mm   (.) What you going to do with Sam tonight? 
+*SUS:	 (  ) 
 @End

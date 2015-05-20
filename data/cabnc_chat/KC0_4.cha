@@ -1,43 +1,43 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-22:  
 @Location:	  out  
-@Situation:	  shopping  
-@Media: 021A-C0897X0333XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  shopping   
+@Media:	021A-C0897X0333XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	ENI Enid self, PAM Pam friend
-@ID: eng|AudioBNC|ENI|~70;| |f|Ag5| |housewife||PS08Y|
-@ID: eng|AudioBNC|PAM|~46;| |f|Ag4| |shop assistant|friend|PS094|
+@Options:	CA
+@ID:	eng|AudioBNC|ENI|70;|||||housewife||PS08Y|
+@ID:	eng|AudioBNC|PAM|46;|||||shop assistant|friend|PS094|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0333XX-ABZZP0.wav
 @Comment:	conversation #4 (Tape 033304)
-*ENI:	Butter please thank 
-*PAM:	Mam?
-*ENI:	you?Thank you, and I think the only other thing I need is erm   (.) you haven't a small caster sugar have you?
-*PAM:	No, only that big
-*ENI:	Just the one we , er, I'll take that one then 
-*PAM:	Mhm.
-*ENI:	thank you.
-*PAM:	Thank you.
-*ENI:	And unless I'm being stupid I think that's   (.) really all I need this morning.
-*PAM:	Mm.
-*ENI:	I've got veg.
-*PAM:	One eighty two.Thank you.
-*ENI:	Say it again for me, Pam?
-*PAM:	One eighty two.
-*ENI:	Thank you. (.) I haven't got the two is that alri , are you alright for change?
-*PAM:	Yes, yes.Thank you. (.) Thanks very much.
-*ENI:	Thank you.Thanks very much.
-*PAM:	Lovely, thank you.
-*ENI:	I'm glad you're keeping your door shut because really
-*PAM:	It's a bitter wind today 
-*ENI:	Oh!
-*PAM:	isn't it?
-*ENI:	Terrific wind today, yes it is!
-*PAM:	Yes, it is!
-*ENI:	Bye bye just now!
-*PAM:	Thank you, bye bye!
-*ENI:	Sorry!
+*ENI:	Butter please  thank   
+*PAM:	 Mam? 
+*ENI:	you? Thank you, and I think the only other thing I need is erm   (.) you haven't a small caster sugar have you? 
+*PAM:	No, only that big 
+*ENI:	Just the one we  , er, I'll take that one  then   
+*PAM:	 Mhm. 
+*ENI:	thank you. 
+*PAM:	Thank you. 
+*ENI:	And unless I'm being stupid I think that's   (.) really all I need this morning. 
+*PAM:	Mm. 
+*ENI:	I've got veg. 
+*PAM:	One eighty two. Thank you. 
+*ENI:	Say it again for me, Pam? 
+*PAM:	 One  eighty two. 
+*ENI:	Thank you.  (6.0) I haven't got the two is that alri  , are you alright for change? 
+*PAM:	 Yes, yes.  Thank you.  (10.0) Thanks very much. 
+*ENI:	Thank you. Thanks very much. 
+*PAM:	Lovely, thank you. 
+*ENI:	 I'm glad  you're keeping your door shut because really 
+*PAM:	It's a bitter wind  today   
+*ENI:	 Oh! 
+*PAM:	isn't it? 
+*ENI:	Terrific wind  today, yes it is! 
+*PAM:	 Yes, it is! 
+*ENI:	Bye bye just now! 
+*PAM:	Thank you, bye bye! 
+*ENI:	Sorry! 
 @End

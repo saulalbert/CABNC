@@ -1,18 +1,18 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-30:  
 @Location:	 home 
-@Situation:	Unspecified
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	ANT Anthony self, CHR Chris wife
-@ID: eng|AudioBNC|ANT|~62;| |m|Ag5| |retired||PS1DA|
-@ID: eng|AudioBNC|CHR|~61;| |f|Ag5| |housewife|wife|PS1DB|
+@Options:	CA
+@ID:	eng|AudioBNC|ANT|62;|||||retired||PS1DA|
+@ID:	eng|AudioBNC|CHR|61;|||||housewife|wife|PS1DB|
 @Comment:	conversation #11 (Tape 009911)
-*CHR:	I didn't put it over there anyway.
-*ANT:	Eh?
-*CHR:	I didn't put it over there anyway.
-*ANT:	No. (.)  ((banging))That's what I said.Miles away.
+*CHR:	I didn't put it over there anyway. 
+*ANT:	Eh? 
+*CHR:	I didn't put it over there anyway. 
+*ANT:	No.  (.)  ((banging))That's what I said. Miles away. 
 @End

@@ -1,63 +1,63 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
-@Date:	1992-02-27:   servicing televisions 
-@Media: 021A-C0897X0410XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
+@Date:	1992-02-27:   servicing televisions  
+@Media:	021A-C0897X0410XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , FRA Frank self, STE Steve colleague
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|FRA|~50;| |m|Ag4| |tv engineer||PS09E|
-@ID: eng|AudioBNC|STE|~44;| |m|Ag3| |salesman|colleague|PS09G|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|FRA|50;|||||tv engineer||PS09E|
+@ID:	eng|AudioBNC|STE|44;|||||salesman|colleague|PS09G|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0410XX-AAZZP0.wav
 @Comment:	conversation #23 (Tape 041003)
-*FRA:	You don't know what's on channel one do you, at the moment?Off hand?
-*STE:	Er, I'm not sure.
-*FRA:	I can't tell with these   (.) blooming things!
-*STE:	No I dunno.I'm just a   (.) all tuned in but I don't know what's on one.
-*FRA:	Oh!
-*STE:	Er   (.) er
-*FRA:	Er, no!
-*STE:	Well got   (.) double frequencies shouldn't you?Oh I dunno, got it?
-*FRA:	No.
-*STE:	No it won't will it? (        ) mark is it?
-*FRA:	Yeah.See I've got one, I can see, cos that frequency's funny on this   (        ) 
-*STE:	Go on to I T V, maybe that tells you on there.When you're on the right one.
-*FRA:	That's I T, channel three then isn't it?I suppose.
-*STE:	Yeah.Th  (.) it tells you automatically then what station you're on does it?
-*FRA:	Yeah.
-*STE:	Tune on to the next one then you'll be able to tell then.
-*UNK:	I usually cre 
-*FRA:	Mm, it's going up.
-*STE:	Four one three two innit?
-*FRA:	Yeah.Four one three two.
-*STE:	That's four   (.) that's one.
-*FRA:	Oh I see, just carries on 
-*STE:	Well 
-*FRA:	through! (.) Don't it?Yeah. (.)  (        )  (.) Just cha programme search innit, that was, I expect?And nothing tune   (.) four
-*STE:	Four for four.
-*FRA:	cos that might not be what   (.) and it's up there then, perhaps, I dunno! (.) Suppose it must be mustn't it?I'm just wondering
-*STE:	Well I go through one of these and see what's on there.Have a look.
-*FRA:	Forget what programmes are what on there!
-*STE:	Try these stops and  (        ) .That's four then.
-*FRA:	Ah, that is four with the  (        ) .
-*STE:	Oh that is the one with the
-*FRA:	Yeah.
-*STE:	 (        ) 
-*FRA:	So is one or two?
-*STE:	Yeah , that's the one!
-*FRA:	Yeah.
-*STE:	Well that'll work, (        ) .
-*FRA:	Yeah, getting it going, it's
-*STE:	Oh!
-*FRA:	it wouldn't tune in, it was something to do with this   (.) arrangement up here.So, right that should
-*STE:	Yeah they did work alright, they
-*FRA:	Which one's that?
-*STE:	 (        ) 
-*FRA:	Oh yeah!Mm.
-*STE:	I got another set, I've got   (        ) just got going.
-*FRA:	Yeah, it's probably the erm   (.) ace head you know on the side?
-*STE:	Oh yeah.
-*FRA:	On the other si 
+*FRA:	You don't know what's on channel one do you, at the moment? Off hand? 
+*STE:	Er, I'm not sure. 
+*FRA:	I can't tell with these   (.) blooming things! 
+*STE:	No I dunno. I'm just a   (.) all tuned in but I don't know what's on one. 
+*FRA:	Oh! 
+*STE:	Er   (.) er 
+*FRA:	Er, no! 
+*STE:	 Well  got   (.) double frequencies shouldn't you? Oh I dunno, got it? 
+*FRA:	No. 
+*STE:	No it won't will it? (  ) mark is it? 
+*FRA:	Yeah. See I've got one, I can see, cos that frequency's funny on this    (  )   
+*STE:	 Go on to  I T V, maybe that tells you on there. When you're on the right one. 
+*FRA:	That's I T, channel three then isn't it? I suppose. 
+*STE:	Yeah. Th   (.) it tells you automatically then what station you're on does it? 
+*FRA:	Yeah. 
+*STE:	Tune on to the next one then you'll be able to tell then. 
+*UNK:	I usually cre   
+*FRA:	Mm, it's going up. 
+*STE:	Four one three two innit? 
+*FRA:	Yeah. Four one three two. 
+*STE:	That's four   (.) that's one. 
+*FRA:	Oh I see, just carries  on   
+*STE:	 Well   
+*FRA:	through!  (.) Don't it? Yeah.  (6.0)  (  )  (10.0) Just cha  programme search innit, that was, I expect? And nothing tune   (.) four 
+*STE:	Four for four. 
+*FRA:	cos that might not be what   (.) and it's up there then, perhaps, I dunno!  (7.0) Suppose it must be mustn't it? I'm just wondering 
+*STE:	Well I go through one of these and see what's on there. Have a look. 
+*FRA:	Forget what programmes are what on there! 
+*STE:	Try these stops and  (  ) . That's four then. 
+*FRA:	Ah, that is four with the  (  ) . 
+*STE:	Oh that is the one with the 
+*FRA:	Yeah. 
+*STE:	 (  ) 
+*FRA:	So is one or  two? 
+*STE:	 Yeah  , that's the one! 
+*FRA:	Yeah. 
+*STE:	Well that'll work, (  ) . 
+*FRA:	Yeah, getting it going, it's 
+*STE:	Oh! 
+*FRA:	it wouldn't tune in, it was something to do with this   (.) arrangement up here. So, right that should 
+*STE:	Yeah they did work alright, they 
+*FRA:	Which one's that? 
+*STE:	 (  ) 
+*FRA:	Oh yeah! Mm. 
+*STE:	I got another set, I've got   (  ) just got going. 
+*FRA:	Yeah, it's probably the erm   (.) ace head you know on the side? 
+*STE:	Oh yeah. 
+*FRA:	On the other si   
 @End

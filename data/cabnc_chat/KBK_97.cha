@@ -1,62 +1,62 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0023XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0023XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0023XX-ABZZP0.wav
 @Comment:	conversation #97 (Tape 002331)
-*CHR:	Thank you, now er.
-*NOR:	You're a   (        ) girl aren't you, (        ) 
-*CHR:	No I've got nothing else to be doing at this moment.
-*NOR:	Been up the library.
-*CHR:	Good.
-*NOR:	More books for the half term.
-*CHR:	Good.
-*NOR:	Just six weeks till the end of term because I've got my books for six weeks and they've used, date stamped in them is the last day of term can't be bad can it?
-*CHR:	No it can't, it'll be nice to see the back of them, (        ) .
-*NOR:	I think of the vast amount of work I've got planned for six weeks, makes me wish it was about ten.
-*CHR:	I'm glad it's not.
+*CHR:	Thank you, now er. 
+*NOR:	You're a   (  ) girl aren't you, (  )  
+*CHR:	No I've got nothing else to be doing at this moment. 
+*NOR:	Been up the library. 
+*CHR:	Good. 
+*NOR:	More books for the half term. 
+*CHR:	Good. 
+*NOR:	Just six weeks till the end of term because I've got my books for six weeks and they've used, date stamped in them is the last day of term can't be bad can it? 
+*CHR:	No it can't, it'll be nice to see the back of them, (  ) . 
+*NOR:	I think of the vast amount of work I've got planned for six weeks, makes me wish it was about ten. 
+*CHR:	I'm glad it's not. 
 *NOR:	 ((laugh)) 
-*CHR:	You'll be working twenty four hours a day for those six weeks as it is.
-*NOR:	 (        ) .Have a lavish party   (        ) instead of a  (.) 
-*CHR:	July twenty seventh.
-*NOR:	June.
-*CHR:	What are you going to celebrate then?
-*NOR:	That all my reports will be done.
+*CHR:	You'll be working twenty four hours a day for those six weeks as it is. 
+*NOR:	 (  ) . Have a lavish party   (  ) instead of a  (.)  
+*CHR:	July twenty seventh. 
+*NOR:	June. 
+*CHR:	What are you going to celebrate then? 
+*NOR:	That all my reports will be done. 
 *CHR:	 ((laugh)) 
-*NOR:	Then that's all I've got to do is my records then.
-*CHR:	Who you going to invite to the lunch party?
-*NOR:	 (        ) 
-*CHR:	Anybody else completed their reports?
-*NOR:	What on all the staff you mean?
-*CHR:	Did I tell you, I mentioned to er Ray about Phil  and he remembered him.
-*NOR:	Yes I think you did.
-*CHR:	Some conference in Eastbourne, or whatever.
-*NOR:	You ought to remember him from Becksley, surely  (        ) 
-*CHR:	Well they didn't teach in the same place, so why should they?
-*NOR:	True.
-*CHR:	Erm, I mean, they, they met occasionally, but er, no particular reason to remember.I had quite a good chat with Ray the other day, yes, eh.
-*NOR:	Paul looks better, I seen him rushing down the road at great speed to catch the train, not looking as white as he was a few months ago.
-*CHR:	Really?
-*NOR:	In fact he's getting over his illness. ((clock ticking))
-*CHR:	Do you think it was genuine?
-*NOR:	What do you mean by that?Did I, do I think  (        ) ?
-*CHR:	Yes.
-*NOR:	Oh why should he do that?
-*CHR:	Well, (        ) .I mean it's one of those things, that eh
-*NOR:	Why on earth should he want to  (        ) , they're only going to sell for his own work if he doesn't.
-*CHR:	Yes.It really is a bit odd the way those two bits of the wood do not connect.
-*NOR:	Do, have you   (        ) somewhere.
-*CHR:	Well, the green chain walk went up in through, into the houses.
-*NOR:	 (        ) 
-*CHR:	So eh, I doubt that it does.
-*NOR:	 (        ) .Have to look on a map.Thick dog you are Digger.
+*NOR:	Then that's all I've got to do is my records then. 
+*CHR:	Who you going to invite to the lunch party? 
+*NOR:	 (  ) 
+*CHR:	Anybody else completed their reports? 
+*NOR:	What on all the staff you mean? 
+*CHR:	Did I tell you, I mentioned to er Ray about Phil   and he remembered him. 
+*NOR:	Yes I think  you did. 
+*CHR:	 Some conference  in Eastbourne, or whatever. 
+*NOR:	You ought to remember him from Becksley, surely  (  )  
+*CHR:	Well they didn't teach in the same place, so why should they? 
+*NOR:	True. 
+*CHR:	Erm, I mean, they, they met occasionally, but er, no particular reason to remember. I had quite a good chat with Ray the other day, yes, eh. 
+*NOR:	Paul looks better, I seen him rushing down the road at great speed to catch the train, not looking as white as he was a few months ago. 
+*CHR:	Really? 
+*NOR:	In fact he's getting over his illness. ((clock ticking)) 
+*CHR:	Do you think it was genuine? 
+*NOR:	What do you mean by that? Did I, do I think  (  ) ? 
+*CHR:	Yes. 
+*NOR:	Oh why should he do that? 
+*CHR:	Well, (  ) . I mean it's one of those things, that eh 
+*NOR:	Why on earth should he want to  (  ) , they're only going to sell for his own work if he doesn't. 
+*CHR:	Yes. It really is a bit odd the way those two bits of the wood do not connect. 
+*NOR:	Do, have you   (  ) somewhere. 
+*CHR:	Well, the green chain walk went up in through, into the houses. 
+*NOR:	 (  ) 
+*CHR:	So eh, I  doubt that it does. 
+*NOR:	  (  )  . Have to look on a map. Thick dog you are Digger. 
 @End

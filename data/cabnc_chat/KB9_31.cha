@@ -1,52 +1,52 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-07:  
 @Location:	  at work  
-@Situation:	  working  
-@Media: 021A-C0897X0624XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  working   
+@Media:	021A-C0897X0624XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , ANN Annette self
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|ANN|~44;| |f|Ag3| |administrative assistant||PS1CX|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|ANN|44;|||||administrative assistant||PS1CX|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0624XX-ABZZP0.wav
 @Comment:	conversation #31 (Tape 062403)
-*TER:	Hiya smiler!How you doing? (.) Eh?What you doing smiler? (.) We picked up Mark last night on way home.
-*ANN:	Mark?
-*TER:	You know that young friend  (        ) ?
-*ANN:	Oh did you?
-*TER:	Yeah.Going back to her car but
-*ANN:	Oh!
-*TER:	Alan was likely   [laughing] in for a treat  [] ?
-*ANN:	Was he?Actually, we'd had erm   (.) er Clive in yesterday hadn't we?And he was saying 
-*TER:	Who?
-*ANN:	to Neil, Clive.Er 
-*TER:	Ah!Yeah.Aye.
-*ANN:	and he was saying to Neil that erm   (.) they don't know whether they're gonna keep him on or not
-*TER:	 (        ) 
-*ANN:	and it's a shame because he's, he's a grafter, you know?
-*TER:	Yeah, he is.The only thing is he   (.) he needs educating.You know, he hasn't been   (.) shown.
-*ANN:	He's not been taught.He's just been 
-*TER:	Oh he hasn't!
-*ANN:	left to it.
-*TER:	No.He's never been
-*ANN:	Yeah, it's a shame innit?
-*ANN:	 (        )  (.) You're on.
-*TRA:	I think I   (        ) switching hands I didn't like that one.
-*ANN:	What you doing? (.) That last one?
-*TER:	Yeah, still not playing  (        ) .
-*TRA:	 (        ) 
-*ANN:	What you doing?
-*TRA:	Getting  (        ) .
-*ANN:	 ((laugh)) 
-*ANN:	 ((laugh))  (.) Come on then!Let's go down to see granddad.See how he's doing. ((baby talk))
-*TER:	Oh!
+*TER:	Hiya smiler! How you doing?  (12.0) Eh? What you doing smiler?  (11.0) We picked up Mark last night on way home. 
+*ANN:	 Mark? 
+*TER:	 You  know that young friend  (  ) ? 
+*ANN:	Oh did you? 
+*TER:	Yeah. Going back to her car but 
+*ANN:	Oh! 
+*TER:	Alan was likely   ((laughing)) in for a treat ? 
+*ANN:	Was he? Actually, we'd had erm   (.) er Clive in yesterday hadn't we? And he was  saying   
+*TER:	 Who? 
+*ANN:	to Neil, Clive.  Er   
+*TER:	 Ah!  Yeah. Aye. 
+*ANN:	and he was saying to Neil that erm   (.) they don't know whether they're gonna keep him on or not 
+*TER:	 (  ) 
+*ANN:	and it's a shame because he's, he's a grafter, you know? 
+*TER:	Yeah, he is. The only thing is he   (.) he needs educating. You know, he hasn't been   (.)  shown. 
+*ANN:	 He's  not been taught.  He's just been   
+*TER:	 Oh he hasn't! 
+*ANN:	left to it. 
+*TER:	No. He's never been 
+*ANN:	Yeah, it's a shame innit? 
+*ANN:	 (  )  (.) You're on. 
+*TRA:	I think I   (  ) switching hands I didn't like that one. 
+*ANN:	What you doing?  (8.0) That last one? 
+*TER:	Yeah, still not playing  (  ) . 
+*TRA:	 (  ) 
+*ANN:	What you doing? 
+*TRA:	Getting   (  ) . 
+*ANN:	  ((laugh))  
+*ANN:	 ((laugh))  (.) Come on then! Let's go down to see granddad. See how he's doing. ((baby talk)) 
+*TER:	Oh! 
 *UNK:	 ((whistling))  ((music))
-*ANN:	Go see granddad. (.) Go see granddad.What th granddad's doing.Let's look.Let's look   (.) down here. (.) Ooh!Steady! ((baby talk))What's he doing?
-*UNK:	Urgh!Gonna eat all dirt!
-*ANN:	Go on and give him a kiss.
-*UNK:	What you gonna play?
-*ANN:	 ((laugh))  (.) He's down there. (.) Neil.
+*ANN:	Go see granddad.  (31.0) Go see granddad. What th  granddad's doing. Let's look. Let's look   (.) down here.  (7.0) Ooh! Steady!  ((baby talk))What's he doing? 
+*UNK:	Urgh! Gonna eat all dirt! 
+*ANN:	Go on and give him a kiss. 
+*UNK:	What you gonna play? 
+*ANN:	 ((laugh))  (20.0) He's down there.  (7.0) Neil. 
 @End

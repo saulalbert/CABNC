@@ -1,39 +1,39 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-20:  
 @Location:	  in car  
-@Situation:	  going to grandma  
-@Media: 021A-C0897X0232XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  going to grandma   
+@Media:	021A-C0897X0232XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	DOR Dorothy self, TIM Tim son, MAR Marjorie mother
-@ID: eng|AudioBNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
-@ID: eng|AudioBNC|TIM|~3;| |m|Ag0| |student (private pre)|son|PS088|
-@ID: eng|AudioBNC|MAR|~70;| |f|Ag5| |retired|mother|PS0XR|
+@Options:	CA
+@ID:	eng|AudioBNC|DOR|34;|||||teacher (pt)||PS087|
+@ID:	eng|AudioBNC|TIM|3;|||||student (private pre)|son|PS088|
+@ID:	eng|AudioBNC|MAR|70;|||||retired|mother|PS0XR|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0232XX-AAZZP0.wav
 @Comment:	conversation #57 (Tape 023203)
-*DOR:	I wouldn't like to say what they're doing. (.) 
-*MAR:	Look at that one, he's on his back.
-*DOR:	Is one of them a drake then?Must be.
-*MAR:	Yes.
-*DOR:	Which one's which?
-*MAR:	Well he's got a little  (        ) .That one's on the other's back. ((laugh)) Oh I say!
+*DOR:	I wouldn't like to say what they're doing. (.)  
+*MAR:	Look at that one, he's on his back. 
+*DOR:	 Is one of them a drake  then? Must be. 
+*MAR:	Yes. 
+*DOR:	Which one's which? 
+*MAR:	Well he's got a little  (  ) . That one's on the other's back.  ((laugh)) Oh I say! 
 *TIM:	 ((laugh)) 
-*DOR:	Oh they might   (.) they're coming for a swim now look. (.) Ooh just gonna have a drink.Are you going to pop in there, go for a swim?
-*TIM:	Come on.In there. (.) In.
-*DOR:	Going to have a swim?Oh   (.) yes, there we go.
-*MAR:	Yes, he's doing what you told him.
+*DOR:	Oh they might   (.) they're coming for a swim now look.  (.) Ooh just gonna have a drink. Are you going to pop in there, go for a swim? 
+*TIM:	Come on. In there.  (.) In. 
+*DOR:	Going to have a swim? Oh   (.)  yes, there we go. 
+*MAR:	 Yes, he's doing what  you told him. 
 *TIM:	 ((laugh))  (.) 
-*MAR:	Nice isn't it?Come on.Let's get in the car then.
-*DOR:	Lovely aren't they?Come on then.
-*TIM:	No.Think these ones gonna go in.
-*DOR:	Well I think we'd better leave them just to do what they like, cos I expect Gwen wants to get on with her dinner now.
-*MAR:	Yeah, and I want to go and get 
-*DOR:	We need to go home.
-*MAR:	I'm going to get some lunch at grandma's.
-*DOR:	Going to grandma's house for our lunch now.Have you had a nice morning at nursery? (.) Mind that road.Wait at the gates. (.) Stop there, wait.Good boy. (.) Have you shown grandma your new shoes?
-*TIM:	No. (.) 
-*DOR:	Oh. (.) Mind, cos there's a car coming Tim.
+*MAR:	Nice  isn't it? Come on. Let's get in the car then. 
+*DOR:	 Lovely aren't they? Come on then. 
+*TIM:	No. Think these ones gonna go in. 
+*DOR:	Well I think we'd better leave them just to do what they like, cos I expect Gwen wants to get on with her dinner now. 
+*MAR:	Yeah, and I want to  go and get   
+*DOR:	 We need to go home. 
+*MAR:	I'm going to get some lunch at grandma's. 
+*DOR:	Going to grandma's house for our lunch now. Have you had a nice morning at nursery?  (.) Mind that road. Wait at the gates.  (.) Stop there, wait. Good boy.  (.) Have you shown grandma your new shoes? 
+*TIM:	No. (.)  
+*DOR:	Oh.  (.) Mind, cos there's a car coming Tim. 
 @End

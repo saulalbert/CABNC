@@ -1,21 +1,21 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0052XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0052XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, UNK Unknown Unknown None ?
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6ST|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6ST|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0052XX-AAZZP0.wav
 @Comment:	conversation #78 (Tape 005205)
-*HEL:	 (        ) have we got the   (.) we haven't got the thing to draw a straight line have we?Is that.
-*NON:	That's in the, that's in the box in the corner.
-*HEL:	What in that bluey   (.) what the box   (.) a box or uhum in your little cupboard.
-*NON:	Hm in the kitchen cupboard.
-*HEL:	Yeah.
+*HEL:	 (  ) have we got the   (.) we haven't got the thing to draw a straight line have we? Is that. 
+*NON:	That's in the, that's in the box in the corner. 
+*HEL:	What in that bluey   (.) what the box   (.) a box or uhum in your little cupboard. 
+*NON:	Hm in the kitchen cupboard. 
+*HEL:	Yeah. 
 @End

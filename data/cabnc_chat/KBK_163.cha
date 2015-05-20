@@ -1,38 +1,38 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 Croquet club 
-@Situation:	 playing croquet 
-@Media: 021A-C0897X0027XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 playing croquet  
+@Media:	021A-C0897X0027XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, DAV David neighbour
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|DAV|~45;| |m|Ag4| |property manager|neighbour|PS107|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|DAV|45;|||||property manager|neighbour|PS107|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0027XX-ABZZP0.wav
 @Comment:	conversation #163 (Tape 002711)
-*DAV:	The difficulty of this shot is trying to, trying  (        ) .
-*CHR:	You've got to get it to absolutely 
-*DAV:	You, I would normally if you're my opponent, I would say, Chris would you like to come and watch this shot?
-*CHR:	I see, yes.
-*DAV:	So that you could, if you're sitting over there, and I take the shot it's not fair on you cos you don't know.
-*CHR:	Yes.
-*DAV:	So what I've got to do is to try and get down to that, but do I actually stop the mallet dead when it, as it hits the blue, because if, I don't wanna move the blue ball, but, if, if I was to play it like that it would be an obvious crush   (        ) the ball into the mallet.
-*CHR:	Yes , yes.
-*DAV:	I mean, there again, you're seeing these players doing it, when you say  (        ) , oh what  (        ) , and you know they don't call somebody over to have a look at  (        ) .Don't have to say 
-*CHR:	Yes, yes.
-*DAV:	would you like to come and putt the shot  (        ) 
-*CHR:	Right, right.
-*DAV:	Erm, you can usually tell by the  (        ) .
-*CHR:	No.
-*DAV:	It's only the one  (        ) .
-*CHR:	Indeed, indeed, yes.
-*DAV:	That's why I told you the difference, you can't really
-*CHR:	Yes.
-*DAV:	 (        ) 
-*CHR:	Shall I put my clip on there?
-*DAV:	Yes you should.
-*CHR:	Right.
+*DAV:	The difficulty of this shot is trying to, trying  (  ) . 
+*CHR:	 You've got to get it to absolutely   
+*DAV:	 You, I would normally if you're my  opponent, I would say, Chris would you like to come and watch this shot? 
+*CHR:	I see, yes. 
+*DAV:	So that you could, if you're sitting over there, and I take the shot it's not fair on you cos you don't know. 
+*CHR:	Yes. 
+*DAV:	So what I've got to do is to try and get down to that, but do I actually stop the mallet dead when it, as it hits the blue, because if, I don't wanna move the blue ball, but, if, if I was to play it like that it would be an obvious crush    (  ) the ball into the mallet. 
+*CHR:	 Yes  , yes. 
+*DAV:	I mean, there again, you're seeing these players doing it, when you say  (  ) , oh what  (  ) , and you know they don't call somebody over to have a look at  (  ) . Don't have to  say   
+*CHR:	 Yes, yes. 
+*DAV:	would you like to come and putt the shot  (  )  
+*CHR:	Right, right. 
+*DAV:	Erm, you can usually tell by the  (  ) . 
+*CHR:	No. 
+*DAV:	It's only the one  (  ) . 
+*CHR:	Indeed, indeed, yes. 
+*DAV:	That's why I told you the difference, you can't really 
+*CHR:	Yes. 
+*DAV:	 (  ) 
+*CHR:	Shall I put my clip on there? 
+*DAV:	Yes you should. 
+*CHR:	Right. 
 @End

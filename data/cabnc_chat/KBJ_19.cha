@@ -1,26 +1,26 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-01-15:  
 @Location:	 at home 
-@Situation:	 breakfast time 
-@Media: 021A-C0897X0521XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 breakfast time  
+@Media:	021A-C0897X0521XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CAR Carol self, EMM Emma daughter
-@ID: eng|AudioBNC|CAR|~44;| |f|Ag3| |courier||PS1DP|
-@ID: eng|AudioBNC|EMM|~11;| |f|Ag0| |student (state secondary)|daughter|PS1DR|
+@Options:	CA
+@ID:	eng|AudioBNC|CAR|44;|||||courier||PS1DP|
+@ID:	eng|AudioBNC|EMM|11;|||||student (state secondary)|daughter|PS1DR|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0521XX-AAZZP0.wav
 @Comment:	conversation #19 (Tape 052103)
-*CAR:	That'll do.
+*CAR:	That'll do. 
 *EMM:	 ((humming)) 
-*CAR:	I want some lipstick.Where's my   (.) I'm putting my lipstick on while I'm waiting for that to take. (.) 
-*EMM:	Where's he gone?
-*CAR:	You're alright for time aren't you?
-*EMM:	I suppose so. (.)  ((humming)) 
-*CAR:	And I forgot to put my earrings on!
-*EMM:	It's ju  (.) it's melting my   (        ) more than it is yours.
-*CAR:	What?I know. ((laugh))  (.) Expect you to sulk.It's just up there on top of this. ((machinery noise)) (.) Haven't got the key to go round there once   (.) so, I'll put that on and I've got a nightie.
-*EMM:	 (        ) 
+*CAR:	I want some lipstick. Where's my   (.) I'm putting my lipstick on while I'm waiting for that to take. (6.0)  
+*EMM:	Where's he gone? 
+*CAR:	You're alright for time aren't you? 
+*EMM:	I suppose so. (.)  ((humming))  
+*CAR:	And I forgot to put my earrings on! 
+*EMM:	It's ju   (.) it's melting my   (  ) more than it is yours. 
+*CAR:	What? I know.  ((laugh))  (7.0) Expect you to sulk. It's just up there on top of this.  ((machinery noise)) (14.0) Haven't got the key to go round there once   (.) so, I'll put that on and I've got a nightie. 
+*EMM:	 (  ) 
 @End

@@ -1,85 +1,85 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-01:  
 @Location:	  Home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0091XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0091XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , BET Betty self, JUL Julie friend, SAL Sally daughter
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|BET|~57;| |f|Ag4| |housewife||PS04B|
-@ID: eng|AudioBNC|JUL|~25;| |f|Ag2| |production worker|friend|PS04F|
-@ID: eng|AudioBNC|SAL|~23;| |f|Ag1| |production worker|daughter|PS04H|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|BET|57;|||||housewife||PS04B|
+@ID:	eng|AudioBNC|JUL|25;|||||production worker|friend|PS04F|
+@ID:	eng|AudioBNC|SAL|23;|||||production worker|daughter|PS04H|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0091XX-ABZZP0.wav
 @Comment:	conversation #7 (Tape 009107)
-*JUL:	He likes me.
-*BET:	 (        )  (.) she asked him yesterday   (        )  (.) 
-*SAL:	 (        ) 
-*BET:	I thought she was lovely. (.)  (        ) I quite agree with her she said.Oh she  (        ) .
-*UNK:	Who?
-*BET:	Rita.
-*SAL:	That Rita.
-*BET:	Rita.Rita.I was calling her Nan Wendy was calling her my love  was calling her Gran and she loved it.
-*SAL:	 (        ) 
-*BET:	Yeah  (.) 
-*SAL:	called her Gran and  was calling her Mum.
-*BET:	And I was calling her Mrs .
-*JUL:	Who?
-*BET:	Mrs . (.) 
-*SAL:	She likes you though.
-*BET:	Not half.
-*SAL:	Send her a Christmas card.You sent her one last year and the year before isn't it?
-*BET:	 (        ) Oh. (.)  (        )  (        )  ((cough)) 
-*BET:	Oh shit I mustn't swear tonight.
-*SAL:	No not allowed to swear tonight.
-*BET:	Definitely not allowed to swear tonight so don't do it.
-*SAL:	No.If you're not
-*UNK:	 ((belch)) Excuse me.
-*BET:	I should damn well think so too.
-*SAL:	 (        )  ((laugh)) 
-*JUL:	 (        ) not allowed to swear.
-*SAL:	You doing one more? (        ) 
-*SAL:	No don't you're on tape.
-*BET:	 [whispering] Oh don't do that  [] .
-*JUL:	What for? (        ) bloody survey I've worked on.
-*JUL:	There ain't a tape in there.
-*SAL:	There is.
-*JUL:	There ain't.
-*SAL:	There's a tape
-*JUL:	There is not a tape in there.
-*UNK:	Excuse me excuse me.
-*SAL:	You've seen it did you?
-*JUL:	What's it hiding behind there for?
-*UNK:	So you wouldn't see it.
-*SAL:	So you wouldn't see it and it's running and there's a mike there.
-*JUL:	What did you put that in there for?
-*SAL:	Eh?
-*JUL:	Stupid  (        ) 
-*SAL:	So everybody's natural.Obviously people come in and don't know it's there and  (        ) 
-*JUL:	Well they put that all on tape now?
-*BET:	Yeah.
-*SAL:	Don't worry about it. (.)  (        ) 
-*BET:	 (        ) Forty five minutes each side it runs.I don't know how many tapes.I'm just going to   (        ) next Friday.And I've just got a twenty five pound voucher for Marks and Spencer.
-*JUL:	Ah I knew there was a catch.
-*BET:	Well that's something.I need some  (        ) .
-*SAL:	Well you've got all that on tape now?
-*BET:	Yeah I don't care.It's the truth.
-*JUL:	 (        ) is it?
+*JUL:	He likes me. 
+*BET:	 (  )  (.) she asked him yesterday   (  )  (8.0)  
+*SAL:	 (  ) 
+*BET:	I thought she was lovely.  (.)  (  ) I quite agree with her she said. Oh she  (  ) . 
+*UNK:	Who? 
+*BET:	Rita. 
+*SAL:	That Rita. 
+*BET:	Rita. Rita. I was calling her Nan Wendy was calling her my love   was calling her Gran and she loved it. 
+*SAL:	 (  ) 
+*BET:	Yeah  (.)  
+*SAL:	 called her Gran and   was calling her Mum. 
+*BET:	And I was calling her Mrs  . 
+*JUL:	Who? 
+*BET:	Mrs  . (10.0)  
+*SAL:	She likes you though. 
+*BET:	Not half. 
+*SAL:	Send her a Christmas card. You sent her one last year and the year before isn't it? 
+*BET:	 (  ) Oh. (12.0)  (  )  (  )  ((cough))  
+*BET:	Oh shit I mustn't swear tonight. 
+*SAL:	No not allowed to swear tonight. 
+*BET:	Definitely not allowed to swear tonight so don't do it. 
+*SAL:	No. If you're not 
+*UNK:	 ((belch)) Excuse me. 
+*BET:	I should damn well think so too. 
+*SAL:	 (  )  ((laugh)) 
+*JUL:	 (  ) not allowed to swear. 
+*SAL:	You doing one more? (  )  
+*SAL:	No don't you're on tape. 
+*BET:	 ((whispering)) Oh don't do that . 
+*JUL:	What for? (  ) bloody survey I've worked on. 
+*JUL:	There ain't a tape in there. 
+*SAL:	There is. 
+*JUL:	There ain't. 
+*SAL:	There's a tape 
+*JUL:	There is not a tape in there. 
+*UNK:	Excuse me excuse me. 
+*SAL:	You've seen it did you? 
+*JUL:	What's it hiding behind there for? 
+*UNK:	So you wouldn't see it. 
+*SAL:	So you wouldn't see it and it's running and there's a mike there. 
+*JUL:	What did you put that in there for? 
+*SAL:	Eh? 
+*JUL:	Stupid  (  )  
+*SAL:	So everybody's natural. Obviously people come in and don't know it's there and  (  )  
+*JUL:	Well they put that all on tape now? 
+*BET:	Yeah. 
+*SAL:	Don't worry about it. (.)   (  )   
+*BET:	  (  )  Forty five minutes each side it runs. I don't know how many tapes. I'm just going to   (  ) next Friday. And I've just got a twenty five pound voucher for Marks and Spencer. 
+*JUL:	Ah I knew there was a catch. 
+*BET:	Well that's something. I need some  (  ) . 
+*SAL:	Well you've got all that on tape now? 
+*BET:	Yeah I don't care. It's the truth. 
+*JUL:	 (  ) is it? 
 *SAL:	 ((laugh)) 
-*BET:	Yes I know I don't  (        ) 
-*SAL:	She listens to herself.
-*BET:	 (        ) she's frightened to death. (        ) 
-*BET:	Father's, Ju this bread isn't very nice is it?
-*SAL:	 (        )  [singing]  (        )  []  ((whistling)) 
-*BET:	Oh she missed the programmes  (        ) 
-*BET:	Have you got no shop card Sally?
-*SAL:	It's up there  (        ) .
-*BET:	 (        ) 
-*SAL:	 (        ) not a good enough job so she's finishing it off  (        ) 
-*BET:	Oh I  (        ) 
-*SAL:	It's half past eight we'd better chase it up.
-*BET:	 (        ) myself.
+*BET:	Yes I know I don't  (  )  
+*SAL:	She listens to herself. 
+*BET:	 (  ) she's frightened to death. (  )  
+*BET:	Father's, Ju this bread isn't very nice is it? 
+*SAL:	 (  )  ((singing))  (  )  ((whistling)) 
+*BET:	Oh she missed the programmes  (  )  
+*BET:	Have you got no shop card Sally? 
+*SAL:	It's up there  (  ) . 
+*BET:	 (  ) 
+*SAL:	 (  ) not a good enough job so she's finishing it off  (  )  
+*BET:	Oh I  (  )  
+*SAL:	It's half past eight we'd better chase it up. 
+*BET:	 (  ) myself. 
 @End

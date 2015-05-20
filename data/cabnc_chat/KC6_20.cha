@@ -1,43 +1,43 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-01-16:  
 @Location:	 Home 
-@Situation:	 Preparing to go to work 
-@Media: 021A-C0897X0563XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 Preparing to go to work  
+@Media:	021A-C0897X0563XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	GAV Gavin self, SUE Sue fiancÃ©e
-@ID: eng|AudioBNC|GAV|~25;| |m|Ag2| |photographer||PS0BA|
-@ID: eng|AudioBNC|SUE|~24;| |f|Ag1| |sales assistant|fiancÃ©e|PS0BB|
+@Options:	CA
+@ID:	eng|AudioBNC|GAV|25;|||||photographer||PS0BA|
+@ID:	eng|AudioBNC|SUE|24;|||||sales assistant|fiancÃ©e|PS0BB|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0563XX-AAZZP0.wav
 @Comment:	conversation #20 (Tape 056303)
-*UNK:	Don't start again now then. (.) Otherwise you'll, I'm gonna take you over my knee and smack you!
-*SUE:	 (        ) 
-*GAV:	Eh?
-*SUE:	Will you?Oh dear!
-*GAV:	Yes.
-*SUE:	 ((humming))  (.) Alright.My cake feels a bit hard.Oh a new one!
-*GAV:	Right?
-*SUE:	Yep.Pick the post up?
-*GAV:	Yep.
-*SUE:	Where is it?
-*GAV:	What?
-*SUE:	Where is it?
-*GAV:	Well go and get it.
-*SUE:	Up here?
-*GAV:	Okay.
-*SUE:	Ooh!Ooh!Ooh!
-*GAV:	Do you wanna post it later? (.) Hello.Hello! (.) What's wrong?
-*SUE:	I've got a pain in my, well not a pain, it's just an ache. (.) For just a minute I got    (.)  (        ) gone deaf.All this pain inside.
-*GAV:	Well let it worry about it babe, I have, get them quite often.
-*SUE:	But you're not a woman.Men don't get   (        ) there.
-*GAV:	They have heart attacks though.
-*SUE:	I'll give you one!
-*GAV:	What?
-*SUE:	I could give you one.
-*GAV:	You what?
-*SUE:	Said, I could give you one.I don't mean a heart attack.
-*GAV:	 [laughing] Gonna say  [] !
+*UNK:	Don't start again now then.  (9.0) Otherwise you'll, I'm gonna take you over my knee and smack you! 
+*SUE:	 (  ) 
+*GAV:	Eh? 
+*SUE:	Will you? Oh dear! 
+*GAV:	Yes. 
+*SUE:	 ((humming))  (.) Alright. My cake feels a bit hard. Oh a new one! 
+*GAV:	Right? 
+*SUE:	Yep. Pick the post up? 
+*GAV:	Yep. 
+*SUE:	Where is it? 
+*GAV:	What? 
+*SUE:	Where is it? 
+*GAV:	Well go and get it. 
+*SUE:	Up here? 
+*GAV:	Okay. 
+*SUE:	Ooh! Ooh! Ooh! 
+*GAV:	Do you wanna post it later?  (6.0) Hello. Hello!  (10.0) What's wrong? 
+*SUE:	I've got a pain in my, well not a pain, it's just an ache.  (6.0) For just a minute I got    (.)  (  ) gone deaf. All this pain inside. 
+*GAV:	Well let it worry about it babe, I have, get them quite often. 
+*SUE:	But you're not a woman. Men don't get   (  ) there. 
+*GAV:	They have heart attacks though. 
+*SUE:	I'll give you one! 
+*GAV:	What? 
+*SUE:	I could give you one. 
+*GAV:	You what? 
+*SUE:	Said, I could give you one. I don't mean a heart attack. 
+*GAV:	 ((laughing)) Gonna say ! 
 @End

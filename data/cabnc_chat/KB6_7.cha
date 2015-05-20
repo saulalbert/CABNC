@@ -1,164 +1,164 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-06:  
 @Location:	 Home 
-@Situation:	 Having hair cut 
-@Media: 021A-C0897X0113XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 Having hair cut  
+@Media:	021A-C0897X0113XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , ANG Angela self, SUE Sue friend, BEN Ben son
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|ANG|~29;| |f|Ag2| |out work (pt)||PS029|
-@ID: eng|AudioBNC|SUE|~29;| |f|Ag2| |hairdresser|friend|PS02E|
-@ID: eng|AudioBNC|BEN|~3;| |m|Ag0| |student (state pre)|son|PS02F|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|ANG|29;|||||out work (pt)||PS029|
+@ID:	eng|AudioBNC|SUE|29;|||||hairdresser|friend|PS02E|
+@ID:	eng|AudioBNC|BEN|3;|||||student (state pre)|son|PS02F|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0113XX-ABZZP0.wav
 @Comment:	conversation #7 (Tape 011307)
-*SUE:	Not only that I've gotta fit in like the children as well.Well Clare was off yesterday.
-*ANG:	Yeah.
-*SUE:	With a cold and whatever. (.) And   (.) and er   (.) Katie was off the day before with something and    (.)  (        ) just managed to get to school that day.They were all, both off last week.
-*ANG:	Mm.
-*SUE:	But my mum's pretty good you know what I mean she   (.) as long as I can arrange it round her she'll arrange her arrangements around me sort of thing.
-*ANG:	Yeah.
-*SUE:	But if they're sick I mean there's no way I can take them to anybody's house.
-*ANG:	No.
-*SUE:	They're not ill enough to be staying in bed.Otherwise I'd have to cancel altogether.
-*ANG:	Yeah.
-*SUE:	And I thinks to myself well I might as well be going out earning money if they're   (.) not in bed.
-*ANG:	No.
-*BEN:	Ah
-*ANG:	Have you gotta have him today or not?
-*SUE:	No.Katie I took out of school   (        ) and then she went back again.
-*ANG:	Oh. (.)  (        ) 
-*SUE:	Oh yeah there, there's some people I wouldn't take them to.Do you know what I mean.
-*ANG:	Yeah, I know what you mean. (.)  (        )  ((laugh)) I'm so starving.
-*SUE:	Do you have a breakfast?
-*ANG:	No.
-*SUE:	Oh. (.) 
-*ANG:	Yeah   (        ) a sandwich   (        ) in a minute.
-*SUE:	How the hell do you keep so slim.I've completely cut out   (        ) 
-*ANG:	Well we've been rushing around haven't we?
-*SUE:	Haven't got time to think about food.
-*ANG:	No. (.) Been here there and everywhere, you know what I mean?
-*SUE:	Yeah.
-*ANG:	 (        )  (.) How did Ann have her hair cut then?
-*SUE:	She had it cut into the neck.
-*ANG:	Yeah.
-*SUE:	Well   (.) to start off with she had it just trimmed at the neck.
-*ANG:	 [laughing] Yeah  [] 
-*SUE:	Right?Just took the ends off
-*ANG:	Yeah.
-*SUE:	without thinning it out, thinning it out at all.And then she wanted me to sort of layer it in which would look better cos she wanted to keep the fringe longer. (        ) 
-*ANG:	Yeah.
-*SUE:	So she's actually sort of had it
-*ANG:	Cut into the neck.
-*SUE:	cut into the neck but it's sort of brushed back  (        ) 
-*ANG:	Yeah.
-*SUE:	Looks better. (.) But she don't have her st , her hair cut sort of every sort   (        ) six weeks.But she ought to.
-*ANG:	Yes, true. (.) Soon as my perm's   (.)  (        ) 
-*UNK:	 (        ) Eh? ((laugh)) 
-*ANG:	Start again Sue.
-*SUE:	Yeah.
-*ANG:	Right go on then.
-*SUE:	The woman was lucky she had a perm in then this morning?
-*ANG:	Who?
-*SUE:	 (        ) chemist  (        ) 
-*ANG:	Yeah, yeah. (.) 
-*BEN:	 (        ) 
-*SUE:	He's   (        ) isn't he?
-*ANG:	 (        ) 
-*BEN:	 (        ) 
-*ANG:	What?
-*BEN:	 (        ) 
-*SUE:	How old's this one then?
-*ANG:	Three. (.) Just.
-*SUE:	He's too young to go to nursery then is he?
-*ANG:	Yeah.They won't take him till next summer. (.) Will they Ben?No. (.) So it'll be   (        ) quite   (        ) the top Sue.
-*SUE:	Right.
-*ANG:	Alright?
-*SUE:	Yeah.
-*ANG:	 (        ) the top the better
-*SUE:	Right.
-*ANG:	 (        ) no no no no
-*SUE:	You've already had a disaster in the month   (        ) didn't you?
-*ANG:	Yeah  (        ) 
-*BEN:	You're a hairdresser.
-*SUE:	You what?
-*ANG:	She's a hairdresser.
-*SUE:	I'm a hairdresser, yeah.
-*ANG:	Does people's hair like mummy's.Makes me look tidy occasionally. (        ) 
-*BEN:	Sue why are you doing that?
-*ANG:	No no.Not having it cut. (.) Zoe goes to me why don't you have it all chopped off  (        ) 
+*SUE:	Not only that I've gotta fit in like the children as well. Well Clare was off yesterday. 
+*ANG:	Yeah. 
+*SUE:	With a cold and whatever.  (.) And   (.) and er   (.) Katie was off the day before with something and    (.)  (  ) just managed to get to school that day. They were all, both off last week. 
+*ANG:	Mm. 
+*SUE:	But my mum's pretty good you know what I mean she   (.) as long as I can arrange it round her she'll arrange her arrangements around me sort of thing. 
+*ANG:	Yeah. 
+*SUE:	But if they're sick I mean there's no way I can take them to anybody's house. 
+*ANG:	No. 
+*SUE:	They're not ill enough to be staying in bed. Otherwise I'd have to cancel altogether. 
+*ANG:	Yeah. 
+*SUE:	And I thinks to myself well I might as well be going out earning money if they're   (.) not in bed. 
+*ANG:	No. 
+*BEN:	Ah 
+*ANG:	Have you gotta have him today or not? 
+*SUE:	No. Katie I took out of school   (  ) and then she went back again. 
+*ANG:	Oh. (.)  (  )  
+*SUE:	Oh yeah there, there's some people I wouldn't take them to. Do you know what I mean. 
+*ANG:	Yeah, I know what you mean.  (.)  (  )  ((laugh)) I'm so starving. 
+*SUE:	Do you have a breakfast? 
+*ANG:	No. 
+*SUE:	Oh. (8.0)  
+*ANG:	Yeah   (  ) a sandwich   (  ) in a minute. 
+*SUE:	How the hell do you keep so slim. I've completely cut out    (  )   
+*ANG:	 Well we've been  rushing around haven't we? 
+*SUE:	Haven't got time to think about food. 
+*ANG:	No.  (.) Been here there and everywhere, you know what I mean? 
+*SUE:	Yeah. 
+*ANG:	 (  )  (.) How did Ann have her hair cut then? 
+*SUE:	She had it cut into the neck. 
+*ANG:	Yeah. 
+*SUE:	Well   (.) to start off with she had it just trimmed at the neck. 
+*ANG:	 ((laughing)) Yeah  
+*SUE:	Right? Just took the ends off 
+*ANG:	Yeah. 
+*SUE:	without thinning it out, thinning it out at all. And then she wanted me to sort of layer it in which would look better cos she wanted to keep the fringe longer. (  )  
+*ANG:	Yeah. 
+*SUE:	So she's actually sort of had it 
+*ANG:	Cut into the neck. 
+*SUE:	cut into the neck but it's sort of brushed back  (  )  
+*ANG:	Yeah. 
+*SUE:	Looks better.  (.) But she don't have her st  , her hair cut sort of every sort   (  ) six weeks. But she ought to. 
+*ANG:	Yes, true.  (.) Soon as my perm's   (.)  (  )  
+*UNK:	 (  ) Eh? ((laugh))  
+*ANG:	Start again Sue. 
+*SUE:	Yeah. 
+*ANG:	Right go on then. 
+*SUE:	The woman was lucky she had a perm in then this morning? 
+*ANG:	Who? 
+*SUE:	 (  ) chemist  (  )  
+*ANG:	Yeah, yeah. (.)  
+*BEN:	 (  ) 
+*SUE:	He's   (  ) isn't he? 
+*ANG:	 (  ) 
+*BEN:	 (  ) 
+*ANG:	What? 
+*BEN:	 (  ) 
+*SUE:	How old's this one then? 
+*ANG:	Three.  (.) Just. 
+*SUE:	He's too young to go to nursery then is he? 
+*ANG:	Yeah. They won't take him till next summer.  (.) Will they Ben? No.  (.) So it'll be   (  ) quite   (  ) the top Sue. 
+*SUE:	Right. 
+*ANG:	Alright? 
+*SUE:	Yeah. 
+*ANG:	 (  ) the top the better 
+*SUE:	Right. 
+*ANG:	 (  ) no no no no 
+*SUE:	You've already had a disaster in the month   (  ) didn't you? 
+*ANG:	Yeah  (  )  
+*BEN:	You're a hairdresser. 
+*SUE:	You what? 
+*ANG:	She's a hairdresser. 
+*SUE:	I'm a hairdresser, yeah. 
+*ANG:	Does people's hair like mummy's. Makes me look tidy occasionally. (  )   
+*BEN:	 Sue why are you doing that? 
+*ANG:	No no. Not having it cut.  (.) Zoe goes to me why don't you have it all chopped off  (  )  
 *SUE:	 ((laugh)) 
-*ANG:	Oh I said cos the perm's coming out, shut up. (.) Someone gave me a microwave oven this morning   (.) for nothing.
-*SUE:	Yeah?
-*ANG:	She rung me up and asked me did I want a microwave oven?
-*SUE:	Yeah.
-*ANG:	I says   (.) no she says have you got one I says no but I was gonna say Ange has cos I thought she wanted to defrost something.
-*SUE:	Yeah.
-*ANG:	And she said well our mother's   (.) got one you can have.She, she said you can have it.I said no I'll buy it off her she said no our mother don't want no money.So I spoke to her mum.And she said no you have it my love.I've just bought a new one and you can have it. (.) So I gotta go round and get it.
-*SUE:	Who's this then?
-*ANG:	Zoe.You know Zoe?
-*SUE:	Oh yeah.
-*ANG:	Her mum. (.) giving   (        ) a microwave oven for nowt.I thought that's alright.
-*SUE:	They're ever so handy.
-*ANG:	 (        ) I thought.Well I was gonna buy one, but what's the point?
-*SUE:	Well   (        )  ((laugh)) 
-*ANG:	Yeah.
-*SUE:	When you gotta pick it up then?
-*ANG:	Some time today or tomorrow.I don't know.
-*SUE:	Yeah? (.) You're friendly with Zoe are you?
-*ANG:	Yeah. (.) Yeah I used to go to playgroup when er   (.) she used to take Adam and our, I used to take our Lee up.
-*SUE:	Yeah. (.) 
-*ANG:	Yeah I don't want a lot off the back mind Sue, then it can grow.
-*SUE:	No.I ain't cut any off the back at all.
-*ANG:	 (        ) 
-*SUE:	I'm just taking the ends off the
-*ANG:	It's a bit knotty innit, at the ends?
-*SUE:	Yeah.
-*ANG:	I think half of that was the highlights see? (.) Innit?
-*SUE:	 ((laugh)) Yeah.Who did, who did your highlights?
-*ANG:	Erm   (        ) Zana.
-*SUE:	Who?
-*ANG:	Like when Angie said, (        ) 
+*ANG:	Oh I said cos the perm's coming out, shut up.  (.) Someone gave me a microwave oven this morning   (.) for nothing. 
+*SUE:	Yeah? 
+*ANG:	She rung me up and asked me did I want a microwave oven? 
+*SUE:	Yeah. 
+*ANG:	I says   (.) no she says have you got one I says no but I was gonna say Ange has cos I thought she wanted to defrost something. 
+*SUE:	Yeah. 
+*ANG:	And she said well our mother's   (.) got one you can have. She, she said you can have it. I said no I'll buy it off her she said no our mother don't want no money. So I spoke to her mum. And she said no you have it my love. I've just bought a new one and you can have it.  (.)  So I gotta go round and get it. 
+*SUE:	 Who's this then? 
+*ANG:	Zoe. You know Zoe? 
+*SUE:	Oh yeah. 
+*ANG:	Her mum.  (.) giving   (  ) a microwave oven for nowt. I thought that's alright. 
+*SUE:	They're ever so handy. 
+*ANG:	 (  ) I thought. Well I was gonna buy one, but what's the point? 
+*SUE:	Well   (  )  ((laugh))  
+*ANG:	Yeah. 
+*SUE:	When you gotta pick it up then? 
+*ANG:	Some time today or tomorrow.  I don't know. 
+*SUE:	 Yeah?   (.) You're friendly with Zoe are you? 
+*ANG:	Yeah.  (.) Yeah I used to go to playgroup when er   (.) she used to take Adam and our, I used to take our Lee up. 
+*SUE:	Yeah. (.)  
+*ANG:	Yeah I don't want a lot off the back mind Sue, then it can grow. 
+*SUE:	 No.  I ain't cut any off the back  at all. 
+*ANG:	  (  )  
+*SUE:	I'm just taking the ends off the 
+*ANG:	It's a bit knotty innit, at the ends? 
+*SUE:	Yeah. 
+*ANG:	I think half of that was the highlights see?  (.) Innit? 
+*SUE:	 ((laugh)) Yeah. Who did, who did your highlights? 
+*ANG:	Erm   (  ) Zana. 
+*SUE:	Who? 
+*ANG:	Like when Angie said, (  )  
 *SUE:	 ((laugh)) 
-*ANG:	 [laughing] You ought to have seen her when she looked in the mirror  [] .She went argh.
+*ANG:	 ((laughing)) You ought to have seen her when she looked in the mirror . She went argh. 
 *SUE:	 ((laugh)) 
-*ANG:	 [laughing] I said quick we'll get a toner on, we'll get a toner  [] . (        ) fine now.She said I got, she said to me Sue I want a lot, all over.
-*SUE:	Yeah.
-*ANG:	So I thought right.That's how she wants it so I done a lot.When she took the hat off she went erm   (.) erm   (.) erm   (.) I don't think I wanted that many! (.) 
-*SUE:	Mm. (.) I got used, I got used to it now.
-*ANG:	Yeah.When you first seen it though.I thought   (.) bloody hell.
+*ANG:	 ((laughing)) I said quick we'll get a toner on, we'll get a toner .  (  ) fine now. She said I got, she said to me Sue I want a lot, all over. 
+*SUE:	Yeah. 
+*ANG:	So I thought right. That's how she wants it so I done a lot. When she took the hat off she went erm   (.) erm   (.) erm   (.) I don't think I wanted that many! (.)  
+*SUE:	Mm.  (.) I got used, I got used to it now. 
+*ANG:	Yeah. When you first seen it though. I thought   (.) bloody hell. 
+*SUE:	  ((laugh))  
+*ANG:	 I said   (.) it looks really nice Ange I said.  ((laughing))  (.) I said it looks lov  , I said what we'll do I said   (.) we'll rush down the road   (.) and we'll get a tint. I said it, I think it suits you.  
+*SUE:	Oh dear. 
+*ANG:	Well what can you say? When you just    (.)   (  )   
+*SUE:	  (  )  nothing you can do. Nothing at all you can do. 
+*ANG:	I thought ooh. I was going    (  )   
+*SUE:	 And you don't know  the   (  ) colour until you've actually washed it off anyway. 
+*ANG:	Yeah. 
+*SUE:	I mean I ha  , I hate doing them. 
+*ANG:	Ooh.  (.) Mhm. 
+*SUE:	Right. 
+*ANG:	 (  )  ((laugh)) 
+*SUE:	Yeah. 
+*ANG:	Do you want a sandwich now, Sue? 
+*SUE:	No. 
+*ANG:	Sure? 
+*SUE:	No   (.) I'll have one in erm 
+*ANG:	In a minute. 
+*SUE:	When you've done. 
+*ANG:	Alright. 
+*BEN:	Mum. 
+*ANG:	Mm? 
+*BEN:	I    (  )   
+*ANG:	 Don't tell me. 
+*BEN:	Look. 
+*ANG:	What? 
+*BEN:	I do a poo. 
+*ANG:	Oh  (  )  
 *SUE:	 ((laugh)) 
-*ANG:	I said   (.) it looks really nice Ange I said. [laughing]  (.) I said it looks lov , I said what we'll do I said   (.) we'll rush down the road   (.) and we'll get a tint.I said it, I think it suits you. [] 
-*SUE:	Oh dear.
-*ANG:	Well what can you say?When you just    (.)  (        ) 
-*SUE:	 (        ) nothing you can do.Nothing at all you can do.
-*ANG:	I thought ooh.I was going   (        ) 
-*SUE:	And you don't know the   (        ) colour until you've actually washed it off anyway.
-*ANG:	Yeah.
-*SUE:	I mean I ha , I hate doing them.
-*ANG:	Ooh. (.) Mhm.
-*SUE:	Right.
-*ANG:	 (        )  ((laugh)) 
-*SUE:	Yeah.
-*ANG:	Do you want a sandwich now, Sue?
-*SUE:	No.
-*ANG:	Sure?
-*SUE:	No   (.) I'll have one in erm
-*ANG:	In a minute.
-*SUE:	When you've done.
-*ANG:	Alright.
-*BEN:	Mum.
-*ANG:	Mm?
-*BEN:	I   (        ) 
-*ANG:	Don't tell me.
-*BEN:	Look.
-*ANG:	What?
-*BEN:	I do a poo.
-*ANG:	Oh  (        ) 
-*SUE:	 ((laugh)) 
-*ANG:	 (        )  ((laugh)) 
-*SUE:	 [laughing] What a morning. [] 
+*ANG:	 (  )  ((laugh)) 
+*SUE:	 ((laughing)) What a morning. 
 @End

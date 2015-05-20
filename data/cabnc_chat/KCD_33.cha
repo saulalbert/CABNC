@@ -1,64 +1,64 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 shopping 
-@Situation:	Unspecified
-@Media: 021A-C0897X0048XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0048XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
-@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
+@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0048XX-ABZZP0.wav
 @Comment:	conversation #33 (Tape 004820)
-*CLA:	Only goes up to a certain height.Here, about up to here now.
-*HEL:	Oh that's it the way it spreads out and then you can't see it. (        )  (        ) .
-*HEL:	Do you take the back pack round with you these day. (        ) Yes.
-*HEL:	What you finished your work have you?
-*AMY:	Not all of it.
-*HEL:	Nearly or yes you have.Nearly .
-*AMY:	Got  (        ) .
-*HEL:	Did you manage that one radius of a circle?
-*AMY:	I  (        ) .
-*HEL:	What can choose choice   (.) oh you do them from that paper you mean .
-*AMY:	No, we've got two tests .And I did, I've done one test and I'll do the other one tomorrow.
-*HEL:	Right, well don't forget.
-*CLA:	Ouch.
-*HEL:	I'm sorry it is a bit hot, they've got hula hoops in there.
-*CLA:	Yeah. (        ) now.
-*HEL:	Sshhh don't shout.
-*CLA:	 (        ) and I   (        ) .
-*AMY:	 (        ) .
-*HEL:	Yes, alright but.
-*CLA:	 (        ) with it.
-*HEL:	Well couldn't, could she, could she just go back one page and let's us see what it was she wants.
-*AMY:	It wasn't one page .
-*CLA:	I want   (        ) .
-*HEL:	I think I've got listen I really don't think you need argue over it.
-*CLA:	 (        ) .
-*AMY:	No  (        ) .
-*CLA:	No.
-*HEL:	Stop it, I've got two now stop it.
-*CLA:	Taken it away from me.
-*HEL:	Goodness me, are you both so young that you can't even share any thing?I would have thought you both grown out of those things any way.
-*AMY:	 (        ) .
-*CLA:	There, that's good.
-*HEL:	That's play mobile.We didn't actually have much play mobile when I, when I went and looked.
-*CLA:	We haven't got all that, we haven't got that.
-*HEL:	You don't play with your play mobile.
-*CLA:	Think   (        ) just like looking.The boat, you can't use it much because erm they every thing, they don't give you any thing do they?And they don't give you any singles.
-*HEL:	No.
-*CLA:	Do they?
-*HEL:	No.
-*CLA:	And I have to   (        ) down the water.
-*HEL:	You'd better write one to Christine as well.
-*AMY:	 (        ) .
-*HEL:	Uhum that little Polly Pocket.
-*AMY:	Oh yeah.
-*HEL:	And those  (        ) .Don't forget.
-*CLA:	Flower making. (        ) that's a good page cos there's the collage   (        )  (.) 
-*HEL:	 ((clears throat)) .
+*CLA:	Only goes up to a certain height. Here, about up to here now. 
+*HEL:	Oh that's it the way it spreads out and then you can't see it. (  )  (  ) . 
+*HEL:	Do you take the back pack round with you these day.  (  ) Yes. 
+*HEL:	What you finished your work have you? 
+*AMY:	Not all of it. 
+*HEL:	Nearly or yes you have.  Nearly  . 
+*AMY:	 Got   (  ) . 
+*HEL:	Did you manage that one radius of a circle? 
+*AMY:	I  (  ) . 
+*HEL:	What can choose choice   (.) oh you do them from  that paper you mean  . 
+*AMY:	 No, we've got two tests  . And I did, I've done one test and I'll do the other one tomorrow. 
+*HEL:	Right, well don't forget. 
+*CLA:	Ouch. 
+*HEL:	I'm sorry it is a bit hot, they've got hula hoops in there. 
+*CLA:	Yeah.  (  ) now. 
+*HEL:	Sshhh don't shout. 
+*CLA:	 (  ) and I    (  )  . 
+*AMY:	  (  )  . 
+*HEL:	Yes, alright but. 
+*CLA:	 (  ) with it. 
+*HEL:	Well couldn't, could she, could she just go back one page and let's us see what it was she wants. 
+*AMY:	 It wasn't one page  . 
+*CLA:	 I want   (  )  . 
+*HEL:	 I think I've got  listen I really don't think you need argue over it. 
+*CLA:	 (  ) . 
+*AMY:	No  (  ) . 
+*CLA:	No. 
+*HEL:	Stop it, I've got two now stop it. 
+*CLA:	Taken it away from me. 
+*HEL:	Goodness me, are you both so young that you can't even share any thing? I would have thought you both grown out of those things any way. 
+*AMY:	 (  ) . 
+*CLA:	There, that's good. 
+*HEL:	That's play mobile. We didn't actually have much play mobile when I, when I went and looked. 
+*CLA:	We haven't got all that, we haven't got that. 
+*HEL:	You don't play with your play mobile. 
+*CLA:	Think   (  ) just like looking. The boat, you can't use it much because erm they every thing, they don't give you any thing do they? And they don't give you any singles. 
+*HEL:	No. 
+*CLA:	Do they? 
+*HEL:	No. 
+*CLA:	And I have to   (  ) down the water. 
+*HEL:	You'd better write one to Christine as well. 
+*AMY:	 (  ) . 
+*HEL:	Uhum that little Polly Pocket. 
+*AMY:	Oh yeah. 
+*HEL:	And those  (  ) . Don't forget. 
+*CLA:	Flower making.  (  ) that's a good page cos there's the collage   (  )  (5.0)  
+*HEL:	 ((clears throat)) . 
 @End

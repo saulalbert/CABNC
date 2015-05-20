@@ -1,39 +1,39 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-04-03:  
 @Location:	  home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0702XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0702XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	ANN Ann self, JAM James husband
-@ID: eng|AudioBNC|ANN|~53;| |f|Ag4| |registered childminder||PS14B|
-@ID: eng|AudioBNC|JAM|~57;| |m|Ag4| |charge nurse|husband|PS14C|
+@Options:	CA
+@ID:	eng|AudioBNC|ANN|53;|||||registered childminder||PS14B|
+@ID:	eng|AudioBNC|JAM|57;|||||charge nurse|husband|PS14C|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0702XX-AAZZP0.wav
 @Comment:	conversation #27 (Tape 070203)
-*ANN:	Right, money   (.) money, money, money, there's my money   (.) and that   (.) what else do I need?,I can't think   (.) I need those
-*JAM:	Do you want anything recording or are you alright? (.) 
-*ANN:	I'll be back by ten past seven, erm what else do I need?
-*JAM:	if there's nothing you want recording what do you want me to do with the dinner? (.) 
-*ANN:	erm   (.) just keep turning
-*JAM:	okay
-*ANN:	right, I'll just put me money in my pocket but I've still got 
-*JAM:	but I have to bring am to put it on?
-*ANN:	what?
-*JAM:	at seven o'clock?
-*ANN:	you can if you like, erm, what else do I need? oh heck is that the time   (.) er
-*JAM:	I don't know what you need now, you've got your mat, you've got your money, you've got your coat 
-*ANN:	oh I know 
-*JAM:	you've got your socks 
-*ANN:	pad and me pen   (.) I've got me what?
-*JAM:	you've got your money, you've got your mat, you've got your coat and you've got your socks
-*ANN:	I should hope so, I've got me socks on me feet
-*JAM:	so what more do you need?
-*ANN:	nothing   (.) got some tissues
-*JAM:	pardon?
-*ANN:	I've got some tissues in my pocket, er, right, I'm going then, see you later, bye
-*JAM:	right, ta la  (.) 
-*ANN:	right
+*ANN:	Right, money   (.) money, money, money, there's my money   (.) and that   (.) what else do I need?, I can't think   (.) I need those 
+*JAM:	Do you want anything recording or are you alright? (.)  
+*ANN:	I'll be back by ten past seven, erm  what else do I need? 
+*JAM:	 if there's nothing you want recording  what do you want me to do with the dinner? (.)  
+*ANN:	erm   (.) just keep turning 
+*JAM:	okay 
+*ANN:	right, I'll just put me money in my pocket  but I've still got   
+*JAM:	 but I have to bring  am to put it on? 
+*ANN:	what? 
+*JAM:	at seven o'clock? 
+*ANN:	you can if you like, erm, what else do I need? oh heck is that the time   (.) er 
+*JAM:	I don't know what you need now, you've got your mat, you've got your money, you've got  your coat   
+*ANN:	 oh I know   
+*JAM:	you've got your  socks   
+*ANN:	 pad  and me pen   (9.0) I've got me what? 
+*JAM:	you've got your money, you've got your mat, you've got your coat and you've got your socks 
+*ANN:	I should hope so, I've got me socks on me feet 
+*JAM:	so what more do you need? 
+*ANN:	nothing   (.) got some tissues 
+*JAM:	pardon? 
+*ANN:	I've got some tissues in my pocket, er, right, I'm going then, see you later, bye 
+*JAM:	right, ta la  (.)  
+*ANN:	right 
 @End

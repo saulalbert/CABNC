@@ -1,35 +1,35 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 restaurant 
-@Situation:	Unspecified
-@Media: 021A-C0897X0029XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0029XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0029XX-AAZZP0.wav
 @Comment:	conversation #200 (Tape 002908)
-*CHR:	Golly it'd be interesting to know what they'd make of this tape for the next couple of hours.
-*NOR:	 (        ) 
-*CHR:	Yes indeed.
-*NOR:	Was it at work  (        ) 
-*CHR:	Where it works?
-*NOR:	David find it   (        ) being there?
-*CHR:	No.No he said he forgot about it quite quickly.
-*NOR:	Are you going to play it back or listen to it?
-*CHR:	I beg your pardon?
-*NOR:	Are you going to play it back or listen to it?
-*CHR:	Which one?
-*NOR:	The tapes.
-*CHR:	All of them?I haven't got a player for two full days in which to do it.
-*NOR:	 (        ) 
-*CHR:	No. (        )  (.) I must tape number ten no it takes an hour and a half on tape number ten.That's fifteen hours.
-*NOR:	Play it at work.
-*CHR:	Well you can if you'd like to but I'm not going to.
-*NOR:	I remember   (        )  (.) 
-*CHR:	Thank you.May we have the bill?
+*CHR:	Golly it'd be interesting to know what they'd make of this tape for the next couple of hours. 
+*NOR:	 (  ) 
+*CHR:	Yes indeed. 
+*NOR:	Was it at work  (  )  
+*CHR:	Where it works? 
+*NOR:	David find it   (  ) being there? 
+*CHR:	No. No he said he forgot about it quite quickly. 
+*NOR:	Are you going to play it back or listen to it? 
+*CHR:	I beg your pardon? 
+*NOR:	Are you going to play it back or listen to it? 
+*CHR:	Which one? 
+*NOR:	The tapes. 
+*CHR:	All of them? I haven't got a player for two full days in which to do it. 
+*NOR:	 (  ) 
+*CHR:	No.  (  )  (.) I must tape number ten no it takes an hour and a half on tape number ten. That's fifteen hours. 
+*NOR:	Play it at work. 
+*CHR:	Well you can if you'd like to but I'm not going to. 
+*NOR:	I remember   (  )  (.)  
+*CHR:	Thank you. May we have the bill? 
 @End

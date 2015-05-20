@@ -1,58 +1,58 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-16:  
 @Location:	  home  
-@Situation:	  dad coming home  
-@Media: 021A-C0897X0225XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  dad coming home   
+@Media:	021A-C0897X0225XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	DOR Dorothy self, TIM Tim son, CHR Christopher son, AND Andrew husband
-@ID: eng|AudioBNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
-@ID: eng|AudioBNC|TIM|~3;| |m|Ag0| |student (private pre)|son|PS088|
-@ID: eng|AudioBNC|CHR|~5;| |m|Ag0| |student (state primary)|son|PS089|
-@ID: eng|AudioBNC|AND|~36;| |m|Ag3| |purchasing manager|husband|PS08A|
+@Options:	CA
+@ID:	eng|AudioBNC|DOR|34;|||||teacher (pt)||PS087|
+@ID:	eng|AudioBNC|TIM|3;|||||student (private pre)|son|PS088|
+@ID:	eng|AudioBNC|CHR|5;|||||student (state primary)|son|PS089|
+@ID:	eng|AudioBNC|AND|36;|||||purchasing manager|husband|PS08A|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0225XX-AAZZP0.wav
 @Comment:	conversation #23 (Tape 022502)
-*AND:	Hello.How are we?
-*DOR:	Oh we're all well.
-*AND:	Still all in the land of the living.
-*DOR:	Yes they're definitely erm   (.) alright now.Sunshine over there 'll be going to school tomorrow, no problem. (.) 
-*AND:	Have you had a quiet day today? [laughing] He looks very quiet at the moment  [] .
-*TIM:	Mummy   (        ) 
-*DOR:	 [laughing] Well it does at the moment but  [] 
+*AND:	Hello. How are we? 
+*DOR:	Oh we're all well. 
+*AND:	Still all in the land of the living. 
+*DOR:	Yes they're definitely erm   (.) alright now. Sunshine over there 'll be going to school tomorrow, no problem. (.)  
+*AND:	Have you had a quiet day today?  ((laughing)) He looks very quiet at the moment . 
+*TIM:	Mummy    (  )   
+*DOR:	  ((laughing)) Well it does  at the moment but  
 *AND:	 ((laugh)) 
-*TIM:	Oh   (        ) mummy 
-*DOR:	he's not been quiet all day.
-*TIM:	daddy  (        ) 
-*AND:	Hello hello hello.
-*TIM:	Mummy.Tim.
-*AND:	Hello.Hello hello hello.
-*TIM:	It's not   (        ) 
-*AND:	Are we here?Are we living?
-*DOR:	He's probably tired by now I should think. (.) 
-*CHR:	 (        ) window cleaner  (        ) 
-*AND:	Is it?
-*DOR:	He read that to me daddy.He was very good.
-*AND:	Did you?
-*DOR:	He'll have to read it to you next.Thought we'd have a reading session so we had a reading book and we had some maths.
-*CHR:	But it's not really one because it's a fire engine one cos 
-*TIM:	Mum is   (.) is the tea ready?
-*CHR:	there's a fire engine   (        ) 
-*DOR:	Yes the tea is ready.
-*AND:	 (        ) next are we?
-*DOR:	You need to wee so perhaps when daddy goes up to 
-*AND:	Right.
-*DOR:	get changed.
-*TIM:	I need a wee.
-*DOR:	Yeah.
-*AND:	You need to wee?Right, do you want to come with me?
-*DOR:	You go with daddy cos he's going up there anyway.
-*AND:	Yeah, I'm going upstairs.
-*TIM:	Whoops. (.) Oh!I've fallen on the stairs.
-*AND:	I know. (.) Who's gonna get upstairs first?
-*DOR:	Shall I start dishing it out?I mean it's that   (.) that 
-*AND:	Erm   (.) two minutes 
-*DOR:	near to being ready.Two minutes.
+*TIM:	Oh    (  ) mummy   
+*DOR:	 he's not been  quiet all day. 
+*TIM:	daddy  (  )  
+*AND:	Hello hello hello. 
+*TIM:	Mummy. Tim. 
+*AND:	Hello. Hello hello hello. 
+*TIM:	It's not    (  )   
+*AND:	 Are we  here? Are we living? 
+*DOR:	He's probably tired by now I should think. (.)  
+*CHR:	 (  ) window cleaner  (  )  
+*AND:	 Is it? 
+*DOR:	 He read  that to me daddy. He was  very good. 
+*AND:	 Did you? 
+*DOR:	He'll have to read it to you next. Thought we'd have a reading session so  we had a reading book and we had some maths. 
+*CHR:	 But it's not really one because it's  a  fire engine one cos   
+*TIM:	 Mum is   (.) is the tea ready? 
+*CHR:	there's a  fire engine   (  )   
+*DOR:	 Yes the tea  is ready. 
+*AND:	 (  ) next are we? 
+*DOR:	You need to wee so perhaps when daddy goes up to  
+*AND:	Right. 
+*DOR:	 get changed. 
+*TIM:	 I need a  wee. 
+*DOR:	Yeah. 
+*AND:	You need to wee? Right, do you want to come with me? 
+*DOR:	You go with daddy cos he's going up there anyway. 
+*AND:	Yeah, I'm going upstairs. 
+*TIM:	Whoops.  (.) Oh! I've fallen on the stairs. 
+*AND:	I know.  (.) Who's gonna get upstairs first? 
+*DOR:	Shall I start dishing it out? I mean it's  that   (.) that   
+*AND:	 Erm   (.) two minutes   
+*DOR:	near to being ready. Two minutes. 
 @End

@@ -1,32 +1,32 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	  home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0040XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0040XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CAR Carole self, CHA Charlotte daughter, PAT Pat mother
-@ID: eng|AudioBNC|CAR|~36;| |f|Ag3| |administrator (pt)||PS05B|
-@ID: eng|AudioBNC|CHA|~2;| |f|Ag0| |pre-school|daughter|PS05E|
-@ID: eng|AudioBNC|PAT|~60+;| |f|Ag5| |retired|mother|PS05J|
+@Options:	CA
+@ID:	eng|AudioBNC|CAR|36;|||||administrator (pt)||PS05B|
+@ID:	eng|AudioBNC|CHA|2;|||||pre-school|daughter|PS05E|
+@ID:	eng|AudioBNC|PAT|60+;|||||retired|mother|PS05J|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0040XX-AAZZP0.wav
 @Comment:	conversation #13 (Tape 004005)
-*CHA:	One per loo, mm.
-*CAR:	Quick can you pa pass behind me please Charlotte.
-*PAT:	There's a good girl   (.) I've got the shopping, don't make a noise.
-*CHA:	Oh it's alright we don't have to be silent. ((laugh))  (.) Hey wait a minute love, just a minute.
-*PAT:	Charlotte, that's it then you can take yours in there   (.) can't you?
-*CAR:	 (        ) 
-*CHA:	There we are.
-*PAT:	There you go.
-*CHA:	I just hope she'll sleep for a little while.
-*PAT:	Yes, perhaps she will.
-*CHA:	Put the kettle on.
-*PAT:	 (        ) 
-*CHA:	I don't think so.
-*PAT:	No   (.) no Charlotte don't do 
-*CHA:	No don't go in there Charlotte please.
+*CHA:	One per loo, mm. 
+*CAR:	Quick can you pa  pass behind me please Charlotte. 
+*PAT:	There's a good girl   (.) I've got the shopping, don't make a noise. 
+*CHA:	Oh it's alright we don't have to be silent.  ((laugh))  (.) Hey wait a minute love, just a minute. 
+*PAT:	Charlotte, that's it then you can take yours in there   (.) can't you? 
+*CAR:	 (  ) 
+*CHA:	There we are. 
+*PAT:	There you go. 
+*CHA:	I just hope she'll sleep for a little while. 
+*PAT:	Yes, perhaps she will. 
+*CHA:	Put the kettle on. 
+*PAT:	 (  ) 
+*CHA:	I don't think so. 
+*PAT:	No   (.) no Charlotte  don't do   
+*CHA:	 No  don't go in there Charlotte please. 
 @End

@@ -1,71 +1,71 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 restaurant 
-@Situation:	Unspecified
-@Media: 021A-C0897X0029XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0029XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0029XX-AAZZP0.wav
 @Comment:	conversation #197 (Tape 002905)
-*CHR:	What do you fancy drinking?
-*NOR:	I'm for a lager   (        ) I think a lager  (        ) 
-*CHR:	Yes yes I agree.I prefer it.
-*NOR:	Lemon chicken   (        )  (.) 
-*CHR:	Lemon chicken stuffed mushrooms.Singapore noodles we enjoyed.
-*NOR:	 (        ) 
-*CHR:	Yes I'm sure they were Singapore noodles.
-*NOR:	We'll have noodles not rice certainly.Where are these stuffed mushrooms?I can't see them.
-*CHR:	Can't remember what they were stuffed with can you?
-*NOR:	 (        ) 
-*CHR:	And bean bean sprouts   (        ) we had too.
-*NOR:	 (        ) and stuffed mushrooms  (        ) 
-*CHR:	Oh yes.
-*NOR:	Don't let's have bean sprouts.
-*CHR:	Alright we won't have bean sprouts.How about we have Chinese mushrooms with bamboo shoots?
-*NOR:	 (        ) 
-*CHR:	Seasonal Chinese vegetable with prawns.How about that?
-*NOR:	 (        ) prawns with stuffed mushrooms.Would you like something first?
-*CHR:	Not first but what will   (.) you'll have a lager?
-*NOR:	I'll have a lager.
-*CHR:	May we have two lagers please?So we shall have lemon chicken, stuffed mushrooms, we had something else didn't we last time?
-*NOR:	We may have had bean sprouts with noodles.
-*CHR:	We had bean sprouts last time yes.
-*NOR:	Yes but I don't like bean sprouts.
-*CHR:	Right.But you enjoyed the noodles.
-*NOR:	Yes. (        ) 
-*CHR:	But there was something else that we had.
-*NOR:	What we had something more than just the bean sprouts?
-*CHR:	We had we certainly had lemon chicken stuffed mushrooms,
-*NOR:	And noodles.
-*CHR:	and noodles.
-*NOR:	We had something like bean sprouts last time  (.) 
-*CHR:	Yes I think we did but we also had something else.
-*NOR:	 (        ) 
-*CHR:	Yes we did.
-*NOR:	 (        ) 
-*CHR:	What would you like to have start with?
-*NOR:	What do you want?
-*CHR:	Wan Ton soup.
-*NOR:	What with vegetables, I suppose. (        )  (.) 
-*CHR:	Oh we won't have either of them then.Have some Wan Ton soup  (        ) .
-*NOR:	What is Wan Ton soup?
-*CHR:	All sorts of bits in it.
-*NOR:	What do you mean by that?
-*CHR:	Or do you fancy   (        ) I can't remember.It's a long long time since I had it.
-*NOR:	 (        ) 
-*CHR:	We'd have mixed appetites   (        ) if you'd given it any thought.How about having  (.) 
-*NOR:	Are we thinking about how romantic  (        ) 
-*CHR:	Or why not a Dim Sum?Which is a classic Chinese.
-*NOR:	But we've never had that here.
-*CHR:	You had that let's start with Dim Sum.Now over here we are short of one
-*NOR:	Or have some vegetables.
-*CHR:	Alright.Alright.
-*NOR:	 (        ) 
-*CHR:	No.
+*CHR:	What do you fancy drinking? 
+*NOR:	I'm for a lager   (  ) I think a lager  (  )  
+*CHR:	Yes yes I agree. I prefer it. 
+*NOR:	Lemon chicken   (  )  (.)  
+*CHR:	Lemon chicken stuffed mushrooms. Singapore noodles we enjoyed. 
+*NOR:	 (  ) 
+*CHR:	Yes I'm sure they were Singapore noodles. 
+*NOR:	We'll have noodles not rice certainly. Where are these stuffed mushrooms? I can't see them. 
+*CHR:	Can't remember what they were stuffed with can you? 
+*NOR:	 (  ) 
+*CHR:	And bean bean sprouts   (  ) we had too. 
+*NOR:	 (  ) and stuffed mushrooms  (  )  
+*CHR:	Oh yes. 
+*NOR:	Don't let's have bean sprouts. 
+*CHR:	Alright we won't have bean sprouts. How about we have Chinese mushrooms with bamboo shoots? 
+*NOR:	 (  ) 
+*CHR:	Seasonal Chinese vegetable with prawns. How about that? 
+*NOR:	 (  ) prawns with stuffed mushrooms. Would you like something first? 
+*CHR:	Not first but what will   (.) you'll have a lager? 
+*NOR:	I'll have a lager. 
+*CHR:	May we have two lagers please? So we shall have lemon chicken, stuffed mushrooms, we had something else didn't we last time? 
+*NOR:	We may have had bean sprouts with noodles. 
+*CHR:	We had bean sprouts last time yes. 
+*NOR:	Yes but I don't like bean sprouts. 
+*CHR:	Right. But you enjoyed the noodles. 
+*NOR:	Yes. (  )  
+*CHR:	But there was something else that we had. 
+*NOR:	What we had something more than just the bean sprouts? 
+*CHR:	We had we certainly had lemon chicken stuffed mushrooms, 
+*NOR:	And noodles. 
+*CHR:	and noodles. 
+*NOR:	We had something like bean sprouts last time  (.)  
+*CHR:	Yes I think we did but we also had something else. 
+*NOR:	 (  ) 
+*CHR:	Yes we did. 
+*NOR:	 (  ) 
+*CHR:	What would you like to have start with? 
+*NOR:	What do you want? 
+*CHR:	Wan Ton soup. 
+*NOR:	What with vegetables, I suppose. (  )  (.)  
+*CHR:	Oh we won't have either of them then. Have some Wan Ton soup  (  ) . 
+*NOR:	What is Wan Ton soup? 
+*CHR:	All sorts of bits in it. 
+*NOR:	What do you mean by that? 
+*CHR:	Or do you fancy   (  ) I can't remember. It's a long long time since I had it. 
+*NOR:	 (  ) 
+*CHR:	We'd have mixed appetites   (  ) if you'd given it any thought. How about having  (.)  
+*NOR:	Are we thinking about how romantic  (  )  
+*CHR:	Or why not a Dim Sum? Which is a classic Chinese. 
+*NOR:	But we've never had that here. 
+*CHR:	You had that let's start with Dim Sum. Now over here we are short of one 
+*NOR:	Or have some vegetables. 
+*CHR:	Alright. Alright. 
+*NOR:	 (  ) 
+*CHR:	No. 
 @End

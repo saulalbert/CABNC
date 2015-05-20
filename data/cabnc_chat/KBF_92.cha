@@ -1,26 +1,26 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-04:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0159XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0159XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BRE Brenda self, LEE Lee son
-@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
-@ID: eng|AudioBNC|LEE|~15;| |m|Ag1| |student (state secondary)|son|PS04W|
+@Options:	CA
+@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
+@ID:	eng|AudioBNC|LEE|15;|||||student (state secondary)|son|PS04W|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0159XX-ABZZP0.wav
 @Comment:	conversation #96 (Tape 015907)
-*BRE:	You done any revision today?
-*LEE:	Not really, no.
-*BRE:	Ooh.You must try and get down to it tomorrow Lee.
-*LEE:	Yeah.
-*BRE:	If you ask James though if there's anything you need to know. (.) Or anything you need for Monday he could let him kn , he could let you know.
-*LEE:	Mm.
-*BRE:	Cos they won't stand   (.) if you sort of say oh well I was away last week they won't   (.) take that as an excuse.
-*LEE:	Yeah but   (.) there's nothing else that I need. (.) I've got everything.
-*BRE:	And what about that maths then?Did he give you that? (.) And Italian thing?
+*BRE:	You done any revision today? 
+*LEE:	Not really, no. 
+*BRE:	Ooh. You must try and get down to it tomorrow Lee. 
+*LEE:	Yeah. 
+*BRE:	If you ask James though if there's anything you need to know.  (.) Or anything you need for Monday he could let him kn  , he could let you know. 
+*LEE:	Mm. 
+*BRE:	Cos they won't stand   (.) if you sort of say oh well I was away last week they won't   (.) take that as an excuse. 
+*LEE:	Yeah but   (.) there's nothing else that I need.  (.) I've got everything. 
+*BRE:	And what about that maths then? Did he give you that?  (.) And Italian thing? 
 *LEE:	 ((cough)) 
 @End

@@ -1,51 +1,51 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 Croquet club 
-@Situation:	 playing croquet 
-@Media: 021A-C0897X0028XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 playing croquet  
+@Media:	021A-C0897X0028XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, DAV David neighbour
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|DAV|~45;| |m|Ag4| |property manager|neighbour|PS107|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|DAV|45;|||||property manager|neighbour|PS107|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0028XX-AAZZP0.wav
 @Comment:	conversation #178 (Tape 002801)
-*CHR:	It's the best thing of course so   (.) It's a very weird thing to be doing really isn't it?
-*DAV:	 (        ) You can leave it there if you want even though it's the ladies  (        ) 
-*CHR:	Yeah.Thank you
-*DAV:	 (        ) club house just to the left.
-*CHR:	Right.There's certainly a fancy er club house there isn't it?What's what's this fancy building here David?
-*CHR:	Squash.
-*DAV:	Oh!Is it?Right.
-*CHR:	 (        ) 
-*DAV:	Aha.
-*CHR:	 (        )  (.) why we can't get on there, on the door
-*CHR:	Yes   (.) fine.
-*DAV:	Yes there's quite a   (.) lay out in the main building.
-*CHR:	Right
-*DAV:	Croquet and squash.Bowls down the side  (        ) 
-*CHR:	Oh yes.
-*DAV:	It used to be about the best bowling green in the in this part of the country.
-*CHR:	Did it really?Yes.Only the one tennis court?
-*DAV:	No there's one there there's one here.
-*CHR:	Oh yes.
-*DAV:	Over there that's   (.) behind me that's  (.) 
-*CHR:	Oh yes, yes.
-*DAV:	I am not sure whether it's those certainly where you can see the right players  (        ) .Eileen's husband is the leading light in the bowls.
-*CHR:	Oh is he?Really?And is that ah er another cricket team altogether or what?Club altogether?
-*DAV:	That's another club.Yes.This is the   (        ) club  (        ) 
-*CHR:	Right.Yes.
-*DAV:	I think he he had a heart attack recently. (        ) I think he is off of it now but I think he must be quite a leading light
-*CHR:	Yes yes.
-*DAV:	 (        ) speak to David .
-*CHR:	Oh was he?
-*DAV:	 (        ) 
-*CHR:	 ((laugh)) Yes.Oh!Oh!Yes yes indeed now, now I'm there and there aren't I?
-*DAV:	Now if you were using this this is what we would do.It's probably   (        ) erm, yeah I think you'd probably have a shot at your yellow.Doesn't matter if you go off because you could come up behind it
-*CHR:	Mmm mmm
-*CHR:	and   (        ) it once
-*DAV:	Yes yes.Fine.
+*CHR:	It's the best thing of course so   (.) It's a very weird thing to be doing really isn't it? 
+*DAV:	 (  ) You can leave it there if you want even though it's the ladies  (  )  
+*CHR:	Yeah. Thank you 
+*DAV:	 (  ) club house just to the left. 
+*CHR:	Right. There's certainly a fancy er club house there isn't it? What's what's this fancy building here David? 
+*CHR:	Squash. 
+*DAV:	Oh! Is it? Right. 
+*CHR:	 (  ) 
+*DAV:	Aha. 
+*CHR:	 (  )  (.) why we can't get on there, on the door 
+*CHR:	Yes   (.) fine. 
+*DAV:	Yes there's quite a   (.) lay out in the main building. 
+*CHR:	Right 
+*DAV:	Croquet and squash. Bowls down the side  (  )  
+*CHR:	Oh yes. 
+*DAV:	It used to be about the best bowling green in the in this part of the country. 
+*CHR:	Did it really? Yes. Only the one tennis court? 
+*DAV:	No there's one there there's one here. 
+*CHR:	Oh yes. 
+*DAV:	Over there that's   (.) behind me that's  (.)  
+*CHR:	Oh yes, yes. 
+*DAV:	I am not sure whether it's those certainly where you can see the right players  (  ) . Eileen's husband is the leading light in the bowls. 
+*CHR:	Oh is he? Really? And is that ah er another cricket team altogether or what? Club altogether? 
+*DAV:	That's another club. Yes. This is the   (  ) club  (  )  
+*CHR:	Right. Yes. 
+*DAV:	I think he he had a heart attack recently.  (  ) I think he is off of it now but I think he must be quite a leading light 
+*CHR:	Yes yes. 
+*DAV:	 (  ) speak to David  . 
+*CHR:	Oh was he? 
+*DAV:	 (  ) 
+*CHR:	 ((laugh)) Yes. Oh! Oh! Yes yes indeed now, now I'm there and there aren't I? 
+*DAV:	Now if you were using this this is what we would do. It's probably   (  ) erm, yeah I think you'd probably have a shot at your yellow. Doesn't matter if you go off because you could come up behind it 
+*CHR:	Mmm mmm 
+*CHR:	and   (  ) it once 
+*DAV:	Yes yes. Fine. 
 @End

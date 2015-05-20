@@ -1,49 +1,49 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-30:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0154XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0154XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BRE Brenda self, JEA Jean friend
-@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
-@ID: eng|AudioBNC|JEA|~62;| |f|Ag5| |housewife|friend|PS04Y|
+@Options:	CA
+@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
+@ID:	eng|AudioBNC|JEA|62;|||||housewife|friend|PS04Y|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0154XX-ABZZP0.wav
 @Comment:	conversation #48 (Tape 015404)
-*BRE:	But you can't, you can't say well I'm gonna go there and I'm gonna go there.You've got to 
-*JEA:	You can't er you can't.I I must say Brenda, all this knocks years off my age.Because it's so funny.I'm old, I know I'm old and I can't do all the things that I used to be able to do.But by golly I'm living as though I were a young woman.All the   (.) erm imponderables, I mean when you're young you don't know quite where you're going to be or what you're going to do.
-*BRE:	Mm.No.
-*JEA:	And I've got this   (.) with Neil.The moment I get er   (.) over Christmas, I'm going to be finding out   (.) where are the training courses.
-*BRE:	That's it.Cos people, I mean now I mean you can't sort of even think about that till mid January   (.) or later.Because thing is
-*JEA:	Mm.
-*BRE:	really between now and sort of Christmas   (.) everybody's interested in Christmas.
-*JEA:	Of course they are.They've got to be.
-*BRE:	There's nothing else going on.
-*JEA:	They've got no option poor devils. ((laugh)) 
-*BRE:	That's right.There's just nothing, nothing else   (.) I'm gonna get a bath otherwise we'll sit here chatting all morning.And 
-*JEA:	How strange
-*BRE:	we'll be, we've gotta be out by half past nine.
-*JEA:	Yes.
-*BRE:	It's fresh out there.
-*JEA:	It's lovely isn't it?Oh isn't this nice.Oh I do like this.Oh I like those flowers. (.) 
-*BRE:	Where's that?
-*JEA:	Here.
-*BRE:	Oh it was    (.)  (        ) bought it from the   (.) Christmas, two ninety nine from  (        ) .
-*JEA:	Oh  (        ) 
-*BRE:	Two ninety nine.Yeah.
-*JEA:	 (        ) still around.Keeping my eyes open for that sort of thing.
-*BRE:	Well what about this then?You haven't seen this.
-*JEA:	Ah!Where did you get that from?
-*BRE:	Ikea.
-*JEA:	 (        ) 
-*BRE:	I didn't get it.Me auntie got it up there and when she got up there   (.) they were selling them for nineteen pounds.Nineteen pounds!And I said it was just what I wanted.
-*JEA:	I'd love to go to Ikea.
-*BRE:	I've got, oh.I'll get that catalogue.
-*JEA:	Mm.
-*BRE:	I'll give it to you now.
-*JEA:	Mm.When I've got dressed   (.) and tidied up I'll have a look at it.
-*BRE:	Right.I'll go and have a bath then.
+*BRE:	But you can't, you can't say well I'm gonna go there and  I'm gonna go there. You've got to   
+*JEA:	 You can't er you can't.  I I must say Brenda, all this knocks years off my age. Because it's so funny. I'm old, I know I'm old and I can't do all the things that I used to be able to do. But by golly I'm living as though I were a young woman. All the   (.) erm imponderables, I mean when you're young you don't know quite where you're going to be or what you're going to do. 
+*BRE:	Mm. No. 
+*JEA:	And I've got this   (.) with Neil. The moment I get er   (.) over Christmas, I'm going to be finding out   (.) where are the training courses. 
+*BRE:	That's it. Cos people, I mean now I mean you can't sort of even think about that till mid January   (.) or later. Because thing is 
+*JEA:	Mm. 
+*BRE:	really between now and sort of Christmas   (.) everybody's interested in Christmas. 
+*JEA:	Of course they are.  They've got to be. 
+*BRE:	 There's nothing else going on. 
+*JEA:	They've got no option poor devils. ((laugh))  
+*BRE:	That's right. There's just nothing, nothing else   (.) I'm gonna get a bath otherwise we'll sit here chatting all morning.  And   
+*JEA:	 How  strange 
+*BRE:	we'll be, we've gotta be out by half past nine. 
+*JEA:	Yes. 
+*BRE:	It's fresh out there. 
+*JEA:	It's lovely isn't it? Oh isn't this nice. Oh I do like this. Oh I like those flowers. (.)  
+*BRE:	Where's that? 
+*JEA:	Here. 
+*BRE:	Oh it was    (.)  (  ) bought it from the   (.) Christmas, two ninety nine from  (  ) . 
+*JEA:	Oh  (  )  
+*BRE:	Two ninety nine. Yeah. 
+*JEA:	 (  ) still around. Keeping my eyes open for that sort of thing. 
+*BRE:	Well what about this then? You haven't seen this. 
+*JEA:	Ah! Where did you get that from? 
+*BRE:	Ikea. 
+*JEA:	 (  ) 
+*BRE:	I didn't get it. Me auntie got it up there and when she got up there   (.) they were selling them for nineteen pounds. Nineteen pounds! And I said it was just what I wanted. 
+*JEA:	I'd love to go to Ikea. 
+*BRE:	I've got, oh. I'll get that catalogue. 
+*JEA:	Mm. 
+*BRE:	I'll give it to you now. 
+*JEA:	Mm. When I've got dressed   (.) and tidied up I'll have a look at it. 
+*BRE:	Right. I'll go and have a bath then. 
 @End

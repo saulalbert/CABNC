@@ -1,92 +1,92 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-05:  
 @Location:	 The Lion Inn 
-@Situation:	Unspecified
-@Media: 021A-C0897X0066XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0066XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , FRE Fred self
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|FRE|~78;| |m|Ag5| |retired||PS1E4|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|FRE|78;|||||retired||PS1E4|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0066XX-ABZZP0.wav
 @Comment:	conversation #25 (Tape 006611)
-*NON:	 ((cough)) did you go in the pub on your way up?
-*FRE:	In the what?
-*NON:	Pub Forester's.
-*FRE:	Oh, oh, I did have a quick one in there yes.
-*NON:	 (        ) .
-*FRE:	No.
-*NON:	 (        ) .
-*FRE:	No.
-*NON:	Hm.
-*FRE:	No he wasn't in there, well it's only about what.
-*NON:	I no, but I, quite often his, his waiting outside for the opening time .
-*FRE:	It be , oh no he wasn't in there, well I didn't see him any way.
-*NON:	 (        )  (.) Saturday.
-*FRE:	Yeah.
-*NON:	Oh it was about quarter past eleven, went in there first, because on a Saturday the taxi can't park along there.
-*FRE:	No not there.
-*NON:	You've got, started this was name haven't you? (        ) car park.
-*FRE:	Oh yeah, definitely  (        ) .
-*NON:	 (        ) . (        ) cor he said your early, I said yes, so are you by the looks of it  (        ) , got a fiver and you've had that much out of it.
-*FRE:	 ((laugh)) .How, how old's Alan any way?
-*NON:	Oh round about sixty.
-*FRE:	Oh, he doesn't, he doesn't qualify  ((laugh)) .
-*NON:	No.
-*FRE:	 ((laugh)) .
-*UNK:	 ((laugh)) .
-*NON:	He's not a pensioner, his on Social Security and also he got another   (        ) his got two   (        ) his getting ever so I don't know  (        ) .
-*FRE:	No.
-*NON:	His pension's went up  (        ) .
-*FRE:	 (        ) .
-*NON:	So his got one, I noticed he has two books the other day.
-*FRE:	Hm.
-*NON:	He had a week owing, but mine went up, then up just as my other book finished, so.
-*UNK:	How do you   (        ) to send the difference?
-*FRE:	Well mine went up and I had to pay twenty five per cent, that's   (        ) didn't I? ((laugh)) . Oh, there's no justice in this world is there?
-*UNK:	Quite right.
-*FRE:	Not at all.
-*UNK:	You make it all, you make it all just  (        ) .
-*FRE:	Ever, you know.
-*NON:	Well I don't know what's going to happen.I haven't had a reply back yet, but I don't ask, there tell me, wrote last week.
-*FRE:	Oh I suppose, I, I.
-*NON:	The exact date.
-*FRE:	At my age, I should think myself lucky I have to pay Income Tax  ((laugh)) , I don't think I'm like it, no, no it's, no it's true.
-*NON:	No, they wrote and ask you for the exact date of day I started getting ability allowance.
-*FRE:	Oh yeah.
-*NON:	So   (.) so if they can assess my partner on  (        ) .
-*FRE:	Shall I come and live with you Kath and you can claim constant attendance allowance  ((laugh)) .
-*UNK:	 ((laugh)) .Steady on.
-*NON:	Yeah I know you   (        ) you was always going to help me out.
-*FRE:	What.
-*NON:	Always use to sulk  (        ) . (        ) .
-*NON:	He said to me after, he said, oh you will be disgusted with himself, I wouldn't believe  (        ) .
-*FRE:	 ((laugh)) .
-*NON:	 (        ) .
-*FRE:	Oh that was dodgy  ((laugh)) .
-*NON:	 (        ) .
-*FRE:	Oh you're not talking about the ehm, you not, you not talking about the old club down, ehm.
-*NON:	 (        ) .
-*FRE:	 (        ) , oh god, oh that was a right old club, the  (        ) , oh god, the number of times I've got michaelled in there.
-*NON:	 (        ) .
-*FRE:	God that was a, that was a  (        ) ..
-*NON:	 (        ) .
-*FRE:	Hey, that was a hell of a club wasn't it, the  (        ) .
-*NON:	Well, I only went there once, once with you I think.
-*FRE:	Yeah.
-*NON:	Probably twice, ehm  (        ) , Sid took me there once .
-*FRE:	I took Joyce there a couple of times.
-*NON:	Sid took  (        ) .
-*FRE:	Yeah, yeah, yeah, good.
-*NON:	 (        ) .
-*FRE:	 (        ) .
-*UNK:	That was a   (        ) weren't he?
-*FRE:	Got  (        ) .
-*NON:	I didn't remember much  (        ) .
-*FRE:	Who?
-*NON:	I use to sit there and smoke and   (        ) use to too, then suddenly you woke up   (        )  ((laugh)) .
-*FRE:	But I didn't drink much, did I?
+*NON:	 ((cough)) did you go in the pub on your way up? 
+*FRE:	In the what? 
+*NON:	Pub Forester's. 
+*FRE:	Oh, oh, I did have a quick one in there yes. 
+*NON:	 (  ) . 
+*FRE:	No. 
+*NON:	 (  ) . 
+*FRE:	No. 
+*NON:	Hm. 
+*FRE:	No he wasn't in there, well it's only about what. 
+*NON:	I no, but I, quite often his, his waiting outside  for the opening time  . 
+*FRE:	 It be  , oh no he wasn't in there, well I didn't see him any way. 
+*NON:	 (  )  (.) Saturday. 
+*FRE:	Yeah. 
+*NON:	Oh it was about quarter past eleven, went in there first, because on a Saturday the taxi can't park along there. 
+*FRE:	No not there. 
+*NON:	You've got, started this was name haven't you? (  ) car park. 
+*FRE:	Oh yeah, definitely  (  ) . 
+*NON:	 (  ) .  (  ) cor he said your early, I said yes, so are you by the looks of it  (  ) , got a fiver and you've had that much out of it. 
+*FRE:	 ((laugh)) . How, how old's Alan any way? 
+*NON:	Oh round about sixty. 
+*FRE:	Oh, he doesn't, he doesn't qualify  ((laugh)) . 
+*NON:	No. 
+*FRE:	 ((laugh)) . 
+*UNK:	 ((laugh)) . 
+*NON:	He's not a pensioner, his on Social Security and also he got another   (  ) his got two   (  ) his getting ever so I don't know  (  ) . 
+*FRE:	No. 
+*NON:	His pension's went up  (  ) . 
+*FRE:	 (  ) . 
+*NON:	So his got one, I noticed he has two books the other day. 
+*FRE:	Hm. 
+*NON:	He had a week owing, but mine went up, then up just as my other book finished, so. 
+*UNK:	How do you   (  ) to send the difference? 
+*FRE:	Well mine went up and I had to pay twenty five per cent, that's   (  ) didn't I?  ((laugh)) . Oh, there's no justice in this world is there? 
+*UNK:	Quite right. 
+*FRE:	Not at all. 
+*UNK:	You make it all, you make it all just  (  ) . 
+*FRE:	Ever, you know. 
+*NON:	Well I don't know what's going to happen. I haven't had a reply back yet, but I don't ask, there tell me, wrote last week. 
+*FRE:	Oh I suppose, I, I. 
+*NON:	The exact date. 
+*FRE:	At my age, I should think myself lucky I have to pay Income Tax  ((laugh)) , I don't think I'm like it, no, no it's, no it's true. 
+*NON:	No, they wrote and ask you for the exact date of day I started getting ability allowance. 
+*FRE:	Oh yeah. 
+*NON:	So   (.) so if they can assess my partner on  (  ) . 
+*FRE:	Shall I come and live with you Kath and you can claim constant attendance allowance  ((laugh)) . 
+*UNK:	 ((laugh)) . Steady on. 
+*NON:	Yeah I know you   (  ) you was always going to help me out. 
+*FRE:	What. 
+*NON:	Always use to sulk  (  ) . (  ) . 
+*NON:	He said to me after, he said, oh you will be disgusted with himself, I wouldn't believe  (  ) . 
+*FRE:	 ((laugh)) . 
+*NON:	 (  ) . 
+*FRE:	Oh that was dodgy  ((laugh)) . 
+*NON:	 (  ) . 
+*FRE:	Oh you're not talking about the ehm, you not, you not talking about the old club down, ehm. 
+*NON:	 (  ) . 
+*FRE:	 (  ) , oh god, oh that was a right old club, the  (  ) , oh god, the number of times I've got michaelled in there. 
+*NON:	 (  ) . 
+*FRE:	God that was a, that was a  (  ) .. 
+*NON:	 (  ) . 
+*FRE:	Hey, that was a hell of a club wasn't it, the  (  ) . 
+*NON:	Well, I only went there once, once with you I think. 
+*FRE:	Yeah. 
+*NON:	Probably twice, ehm  (  ) , Sid took  me there once  . 
+*FRE:	 I took Joyce  there a couple of times. 
+*NON:	Sid took  (  ) . 
+*FRE:	Yeah, yeah, yeah, good. 
+*NON:	 (  ) . 
+*FRE:	 (  ) . 
+*UNK:	That was a   (  ) weren't he? 
+*FRE:	Got  (  ) . 
+*NON:	I didn't remember much  (  ) . 
+*FRE:	Who? 
+*NON:	I use to sit there and smoke and   (  ) use to too, then suddenly you woke up   (  )  ((laugh)) . 
+*FRE:	But I didn't drink much, did I? 
 @End

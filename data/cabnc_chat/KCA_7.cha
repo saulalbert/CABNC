@@ -1,19 +1,19 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-01-11:  
 @Location:	  at home  
-@Situation:	  talking with children  
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  talking with children   
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	GOR Gordon self, SEA Sean son
-@ID: eng|AudioBNC|GOR|~32;| |m|Ag2| |unemployed||PS0DL|
-@ID: eng|AudioBNC|SEA|~6;| |m|Ag0| |student (state primary)|son|PS0DT|
+@Options:	CA
+@ID:	eng|AudioBNC|GOR|32;|||||unemployed||PS0DL|
+@ID:	eng|AudioBNC|SEA|6;|||||student (state primary)|son|PS0DT|
 @Comment:	conversation #10 (Tape 054110)
-*GOR:	 [singing] always look on the bright side of life    ((whistling))  (.) bright side of life   []  (.) 
-*SEA:	I was drawing and I read and   (.) and I played with toys and I read   (.) this game
-*GOR:	Who'd you play with in school then?
-*SEA:	and I played with David.
-*GOR:	Did you?
+*GOR:	 ((singing)) always look on the bright side of life    ((whistling))  (.) bright side of life   (.)  
+*SEA:	I was drawing and I read and   (.) and I played with toys and I read   (.) this game 
+*GOR:	Who'd you play with in school then? 
+*SEA:	and I played with David. 
+*GOR:	Did you? 
 @End

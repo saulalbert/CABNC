@@ -1,67 +1,67 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-01-16:  
 @Location:	 Car 
-@Situation:	 Driving to work 
-@Media: 021A-C0897X0563XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 Driving to work  
+@Media:	021A-C0897X0563XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	GAV Gavin self, SAR Saranne colleague, NIC Nick colleague
-@ID: eng|AudioBNC|GAV|~25;| |m|Ag2| |photographer||PS0BA|
-@ID: eng|AudioBNC|SAR|~23;| |f|Ag1| |journalist|colleague|PS0BF|
-@ID: eng|AudioBNC|NIC|~20;| |m|Ag1| |office junior|colleague|PS0BJ|
+@Options:	CA
+@ID:	eng|AudioBNC|GAV|25;|||||photographer||PS0BA|
+@ID:	eng|AudioBNC|SAR|23;|||||journalist|colleague|PS0BF|
+@ID:	eng|AudioBNC|NIC|20;|||||office junior|colleague|PS0BJ|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0563XX-AAZZP0.wav
 @Comment:	conversation #21 (Tape 056304)
-*UNK:	See the football last night?
-*GAV:	No.
-*NIC:	Leeds have got a be the unluckiest team!
-*GAV:	Have they?
-*NIC:	That was a penalty that was when Chapman  (        ) .Well actually, Barnes didn't.
-*GAV:	I don't know, I I think he went and talked to Stuart er intimidate him I think it's sa 
-*NIC:	Yeah, well it's that's a penalty ain't it Gav?
-*GAV:	I don't know if it is mate cos I, I do it all the time cos yo ya , a lot of it is jumping to intimidate.That's what Graham Sharp does, he jumps 
-*NIC:	Knock   (        ) out of goal.The thing was Chapman   (.) was in front of him weren't he?
-*GAV:	I, I wouldn't honestly say that it, he did it deliberately to be honest.I think it'd be very harsh to give a penalty.I don't know.
-*NIC:	You see that film last night?
-*GAV:	What?Does it say in the paper what's wrong with him this morning.
-*NIC:	Broke his arm or his wrist.
-*GAV:	You saw him, as he went down, if you looked at it his wrist 
-*NIC:	He 
-*GAV:	just went, like that.
-*NIC:	Yeah.
-*GAV:	No, I didn't see that film last night.The one about the musician killed, committed suicide?
-*NIC:	It was totally shit!
-*GAV:	Was it, yeah?Oh, [laughing] I'm glad I didn't watch it then  [] .
-*NIC:	Can you imagine the worst American teen corn movie   (.) that you've ever seen!This was.
-*GAV:	Was it?Yeah. (.)  ((cough))  (.) Anybody see Central last night?
-*NIC:	Er   (.) did I see it or not?No I didn't see it last night. (.) Polished off three bottles of champagne last night!
-*GAV:	Did you?
-*NIC:	Jo Jo Joan had sixteen bottles of it!
-*GAV:	Who?
-*NIC:	Wi , Joan wanted to take it into the party the other night   (.) they wouldn't let her.So she gave them to, loads to Joe, she got loads of  (        ) .Joan had one and me and Mark had two which  (        ) . (.) Still got that teacher accused of er     (.)  ((cough))  (.) insulting the kids at   (        ) schools.
-*SAR:	What you looking at?
-*NIC:	Dunno.
-*GAV:	Just sign that for me?Well you sign that.
-*SAR:	 (        ) 
-*GAV:	Well don't bother.
-*SAR:	Don't bother?
-*GAV:	Why don't you wait till Colin's used more.
-*SAR:	Oh for fuck sake!
-*NIC:	Already done that.
-*SAR:	We've had it for years!
-*NIC:	 (        ) 
-*GAV:	Do we know that?
-*SAR:	Because she sa , this woman said they've had it for at least two years!
-*GAV:	Did she?Yeah?
-*SAR:	Yesterday , yeah.But I can ring her up again and check.
-*GAV:	Just hold that!See what you've done
-*SAR:	Well I thought I'd do something with it 
-*GAV:	Yeah.
-*SAR:	but it's just gone out my head completely.
-*GAV:	Yeah.See what you've done though, but erm   (.) I mean I'd hate you just to
-*SAR:	Okay.
-*GAV:	do it all   (.) and ge , and then be told by Roger, no I don't want it like thi 
-*SAR:	I think he's like   (.) flogging a dead horse here I really   [laughing] do  [] !
+*UNK:	See the football last night? 
+*GAV:	No. 
+*NIC:	Leeds have got a be the unluckiest team! 
+*GAV:	Have they? 
+*NIC:	That was a penalty that was when Chapman  (  ) . Well actually, Barnes didn't. 
+*GAV:	I don't know, I I think he went and talked to Stuart er intimidate him  I think it's sa    
+*NIC:	 Yeah, well it's  that's a penalty ain't it Gav? 
+*GAV:	I don't know if it is mate cos I, I do it all the time cos yo  ya  , a lot of it is jumping to intimidate. That's what Graham Sharp does, he jumps   
+*NIC:	 Knock    (  ) out of goal. The thing was Chapman   (.) was in front of him weren't he? 
+*GAV:	I, I wouldn't honestly say that it, he did it deliberately to be honest. I think it'd be very harsh to give a penalty. I don't know. 
+*NIC:	You see that film last night? 
+*GAV:	What? Does it say in the paper what's wrong with him this morning. 
+*NIC:	Broke his arm or his wrist. 
+*GAV:	You saw him, as he went down, if you looked at it his  wrist   
+*NIC:	 He   
+*GAV:	just went, like that. 
+*NIC:	Yeah. 
+*GAV:	No, I didn't see that film last night. The one about the musician killed, committed suicide? 
+*NIC:	It was totally shit! 
+*GAV:	Was it, yeah? Oh, ((laughing)) I'm glad I didn't watch it then . 
+*NIC:	Can you imagine the worst American teen corn movie   (.) that you've ever seen! This was. 
+*GAV:	Was it? Yeah.  (28.0)  ((cough))  (7.0) Anybody see Central last night? 
+*NIC:	Er   (.) did I see it or not? No I didn't see it last night.  (19.0) Polished off three bottles of champagne last night! 
+*GAV:	Did you? 
+*NIC:	Jo  Jo  Joan had sixteen bottles of it! 
+*GAV:	Who? 
+*NIC:	Wi  , Joan wanted to take it into the party the other night   (.) they wouldn't let her. So she gave them to, loads to Joe, she got loads of  (  ) . Joan had one and me and Mark had two which  (  ) .  (18.0) Still got that teacher accused of er     (.)  ((cough))  (.) insulting the kids at   (  ) schools. 
+*SAR:	What you looking at? 
+*NIC:	Dunno. 
+*GAV:	Just sign that for me? Well you sign that. 
+*SAR:	 (  ) 
+*GAV:	Well don't bother. 
+*SAR:	Don't bother? 
+*GAV:	Why don't you wait till Colin's used more. 
+*SAR:	Oh for fuck sake! 
+*NIC:	Already done that. 
+*SAR:	We've had it for years! 
+*NIC:	 (  ) 
+*GAV:	Do we know that? 
+*SAR:	Because she sa  , this woman said they've had it for at least two years! 
+*GAV:	Did she?  Yeah? 
+*SAR:	 Yesterday  , yeah. But I can ring her up again and  check. 
+*GAV:	 Just  hold that! See what you've done 
+*SAR:	Well I thought I'd do something  with it   
+*GAV:	 Yeah. 
+*SAR:	but it's just gone out my head  completely. 
+*GAV:	 Yeah.  See what you've done though, but erm   (.) I mean I'd hate you just to 
+*SAR:	Okay. 
+*GAV:	do it all   (.) and ge  , and then be told by Roger, no I don't want it like thi   
+*SAR:	I think he's like   (.) flogging a dead horse here I really   ((laughing)) do ! 
 @End

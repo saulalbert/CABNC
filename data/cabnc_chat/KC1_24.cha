@@ -1,59 +1,59 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
-@Date:	1992-02-27:   servicing televisions 
-@Media: 021A-C0897X0410XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
+@Date:	1992-02-27:   servicing televisions  
+@Media:	021A-C0897X0410XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	FRA Frank self, STE Steve colleague
-@ID: eng|AudioBNC|FRA|~50;| |m|Ag4| |tv engineer||PS09E|
-@ID: eng|AudioBNC|STE|~44;| |m|Ag3| |salesman|colleague|PS09G|
+@Options:	CA
+@ID:	eng|AudioBNC|FRA|50;|||||tv engineer||PS09E|
+@ID:	eng|AudioBNC|STE|44;|||||salesman|colleague|PS09G|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0410XX-AAZZP0.wav
 @Comment:	conversation #24 (Tape 041004)
-*FRA:	Have to watch the light on that.
-*STE:	Aha.Well
-*FRA:	That's a lot of light coming in on the back I think.
-*STE:	Yeah.Cut off after number fifteen with tho the top one as well but I'll
-*FRA:	Yeah.Oh!
-*STE:	I'll turn it off and er   (.) try it.
-*FRA:	See if the counter's going up and things like that.
-*STE:	Yeah, the counter's going up it's er   (.) electronic one.
-*FRA:	Yeah but even so it's   (.) volt 
-*STE:	Oh!
-*FRA:	volt driven.
-*STE:	Forged stop?Oh, I wonder why it says that then? (.) That's five seconds, reset   (.) then  (        ) .
-*FRA:	 ((cough)) 
-*STE:	It's got that again!
-*FRA:	Mm!
-*STE:	Record that
-*FRA:	Mm, it's not   (.) not rotating somewhere is it?See the caption's not turning round right, (        ) .
-*STE:	What's that?Is it anything to do with this  (        ) ?I can't drag away from it, while you're doing that.
-*FRA:	No, it's alright, we'll have a look.
-*STE:	Do it later.
-*FRA:	Tube blew up. (.) Well do they play?Does it play?
-*STE:	It played for a little while, I didn't play it for long but it did play.
-*FRA:	Oh so, oh it switches itself off does it?
-*STE:	Oh it's designed, it's giving me a fault  (        ) .See it did play.
-*FRA:	Taking up.
-*STE:	Wasn't bad play back when I fi  (.) oh it's not   (.) not doing as much as it did before now!
-*FRA:	Then catch it.Can't figure out what's actually stopping.Oh that's this one?
-*STE:	Yeah.
-*FRA:	Yeah.
-*STE:	Is that the drive belt as well I think.
-*FRA:	Yeah, it's probably the idler wants to be cleaned in it.
-*STE:	Oh.Right.Right!Shall I do that from the top?
-*FRA:	Yeah,yo you can get up this ca  (.) the carriage only four screws and erm
-*STE:	Right!
-*FRA:	You might get at it without the er   (.) where's the instruction?
-*STE:	Does that wanna go from side to side does it?
-*FRA:	Yeah.Probably.
-*STE:	Okay.
-*FRA:	Might even get at that one there.
-*STE:	Yeah.Right!
-*FRA:	Also, that one could be   (.) that looks very shiny too!
-*STE:	Right!Do I do it with that pencil thing of yours or with er   (.) Amber Clean 
-*FRA:	I'll try Amber Clean Just give it 
-*STE:	Right!
-*FRA:	a little spraying and   (.) and wipe it round.
+*FRA:	Have to watch the light on that. 
+*STE:	Aha. Well 
+*FRA:	That's a lot of light coming in on the back  I think. 
+*STE:	 Yeah.  Cut off after number fifteen with tho  the top one as well but I'll 
+*FRA:	Yeah. Oh! 
+*STE:	I'll turn it off and er   (.) try it. 
+*FRA:	See if the counter's going up and things like that. 
+*STE:	Yeah, the counter's going up it's er   (.) electronic one. 
+*FRA:	Yeah but even so it's   (.)  volt   
+*STE:	 Oh! 
+*FRA:	volt driven. 
+*STE:	Forged stop? Oh, I wonder why it says that then?  (7.0) That's five seconds, reset   (.) then   (  ) . 
+*FRA:	  ((cough))  
+*STE:	It's got that again! 
+*FRA:	Mm! 
+*STE:	Record that 
+*FRA:	Mm, it's not   (.) not rotating somewhere is it? See the caption's not turning round right, (  ) . 
+*STE:	What's that? Is it anything to do with this  (  ) ? I can't drag away from it, while you're doing that. 
+*FRA:	No, it's alright, we'll have  a look. 
+*STE:	 Do it  later. 
+*FRA:	Tube blew up.  (8.0) Well do they play? Does it play? 
+*STE:	It played for a little while, I didn't play it for long but it did play. 
+*FRA:	Oh so, oh it switches itself off does it? 
+*STE:	Oh it's designed, it's giving me a fault  (  ) . See it did play. 
+*FRA:	Taking up. 
+*STE:	Wasn't bad play back when I fi   (.) oh it's not   (.) not doing as much as it did before now! 
+*FRA:	Then catch it. Can't figure out what's actually stopping. Oh that's this one? 
+*STE:	Yeah. 
+*FRA:	Yeah. 
+*STE:	Is that the drive belt as well I think. 
+*FRA:	Yeah, it's probably the idler wants to be cleaned in it. 
+*STE:	Oh. Right. Right! Shall I do that from the top? 
+*FRA:	Yeah,yo  you can get up this ca   (.) the carriage only four screws and erm 
+*STE:	Right! 
+*FRA:	You might get at it without the er   (.) where's the instruction? 
+*STE:	Does that wanna go from side to side does it? 
+*FRA:	Yeah. Probably. 
+*STE:	 Okay. 
+*FRA:	 Might  even get at that one there. 
+*STE:	Yeah. Right! 
+*FRA:	Also, that one could be   (.) that looks very shiny too! 
+*STE:	Right! Do I do it with that pencil thing of yours or with er   (.) Amber Clean  
+*FRA:	I'll try Amber Clean Just  give it   
+*STE:	 Right! 
+*FRA:	a little spraying and   (.) and wipe it round. 
 @End

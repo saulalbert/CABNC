@@ -1,21 +1,21 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-28:  
 @Location:	  Home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0091XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0091XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BET Betty self, SAL Sally daughter
-@ID: eng|AudioBNC|BET|~57;| |f|Ag4| |housewife||PS04B|
-@ID: eng|AudioBNC|SAL|~23;| |f|Ag1| |production worker|daughter|PS04H|
+@Options:	CA
+@ID:	eng|AudioBNC|BET|57;|||||housewife||PS04B|
+@ID:	eng|AudioBNC|SAL|23;|||||production worker|daughter|PS04H|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0091XX-ABZZP0.wav
 @Comment:	conversation #3 (Tape 009103)
-*SAL:	It's got to be tumbledried
-*BET:	 (        ) it's going to be a dry day   (        ) get it out early and get it dry tomorrow.
-*SAL:	 (        ) 
-*BET:	Mm
-*SAL:	 (        ) 
+*SAL:	It's got to be tumbledried 
+*BET:	 (  ) it's going to be a dry day   (  ) get it out early and get it dry tomorrow. 
+*SAL:	 (  ) 
+*BET:	Mm 
+*SAL:	 (  ) 
 @End

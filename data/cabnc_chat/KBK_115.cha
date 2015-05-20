@@ -1,23 +1,23 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0024XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0024XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0024XX-ABZZP0.wav
 @Comment:	conversation #115 (Tape 002415)
-*CHR:	I'm coming.
-*NOR:	 (        ) residential if you don't  (        ) .Bill's lilac is dead.
-*CHR:	 (        ) Philip , left hand column there  (.) 
-*NOR:	 (        ) .
-*CHR:	Never heard of that  (.) .Doesn't sound worth bothering really.
-*NOR:	 (        ) 
-*CHR:	Very short cutting, low   (        )  (.) .They're a bit skinny aren't they?
+*CHR:	I'm coming. 
+*NOR:	 (  ) residential if you don't  (  ) . Bill's lilac is dead. 
+*CHR:	 (  ) Philip  , left hand column there  (6.0)  
+*NOR:	 (  ) . 
+*CHR:	Never heard of that  (6.0) . Doesn't sound worth bothering really. 
+*NOR:	 (  ) 
+*CHR:	Very short cutting, low   (  )  (10.0) . They're a bit skinny aren't they? 
 @End

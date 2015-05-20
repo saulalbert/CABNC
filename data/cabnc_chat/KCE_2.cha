@@ -1,180 +1,180 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-12:  
 @Location:	  home  
-@Situation:	  talking with friend  
-@Media: 021A-C0897X0294XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  talking with friend   
+@Media:	021A-C0897X0294XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , HEL Helena self, EMM Emma friend
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|HEL|~16;| |f|Ag1| |student||PS0EB|
-@ID: eng|AudioBNC|EMM|~16;| |f|Ag1| |student|friend|PS0EC|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|HEL|16;|||||student||PS0EB|
+@ID:	eng|AudioBNC|EMM|16;|||||student|friend|PS0EC|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0294XX-ABZZP0.wav
 @Comment:	conversation #2 (Tape 029402)
-*HEL:	The twelfth
-*EMM:	 (        ) 
-*HEL:	of the third   (.) ninety two.
-*EMM:	ninety two. (.) Well done dear!
-*HEL:	What time did you start recording this side of the tape? (.) Twenty five past 
-*EMM:	 (        ) 
-*HEL:	nine.
-*EMM:	Twenty five past!God!They're big tapes aren't they?I thought it was only supposed to be forty five minutes   (.) long?
-*HEL:	Nine twenty five P M   (.) ready.
-*EMM:	Ready. (.) This is gonna get really tedious after a bit isn't it? ((laugh)) 
-*HEL:	I know, it's gonna be totally boring isn't it? (.) Er   (.) chatting
-*EMM:	Chatting with friends at home! ((laugh)) 
-*HEL:	with friend.
-*EMM:	I wonder who's gonna go through all these tapes?
-*HEL:	 (        ) there.
-*EMM:	It doesn't say anywhere doesn't it? (.) Is it gonna be University students or
-*HEL:	 [laughing] Hopefully  [] ! (.) By the way, I think you're sexy! (.) I hope you're not female? ((laugh)) 
-*EMM:	 ((laugh))  (.) I don't mind if you're female at all!
-*HEL:	I'm not, I'm not, I'm not , I'm not quite like that!
-*EMM:	I am! ((laugh)) 
-*HEL:	Er   (.) who spoke first?
-*EMM:	I can't remember!
-*HEL:	I think it was me.
-*EMM:	No it wasn't it was me cos I was saying that if yo , if your pen didn't work.
-*HEL:	Oh, Emma.
-*EMM:	Oh, I was the one saying if you're pen doesn't work and my name's Emma dearest!
-*HEL:	Er   (.) student.
-*EMM:	Student.
-*HEL:	Anyway, what was I gonna say?Oh yeah, I reckon all grannies are gonna be taping this they're the only with loads of spare time, we're just doing this for a laugh!
-*EMM:	Mm.
-*HEL:	But I mean
-*EMM:	It's gonna be dead boring though isn't it?Listening to them   (.) complaining about the usual stuff!
-*HEL:	Yeah   (.) so I reckon   (.) whoever's doing this   (.) I, I bet whoever gets this tape, I bet there's fighting over this tape!I bet there is   (.) cos no one else will talk 
-*EMM:	Yeah.
-*HEL:	BJ's or anything! (.) Are you listening to that, then?
-*EMM:	 [laughing] Bj's  [] ! (.) Oh God!
-*HEL:	I think that's  (        ) .
-*EMM:	Did a   (.) did erm   (.) anyone tell you about   (.) James's dad?
-*HEL:	James?
-*EMM:	You know James ? (.) His dad's called   (.) his dad's called Barry.
-*HEL:	Yeah.
-*EMM:	You must know James  's dad. (.) The one we were hiding from at the fair.
-*HEL:	Oh!
-*EMM:	Remember him?
-*HEL:	No.
-*EMM:	He goes, well anyway, he's this like, really really mad bloke!He goes to er, Ian   (.) and like, Ian's gone to him, oh hello Mr , you know, and he's gone   (.) ooh, don't call me Mr , he's from Wales you see! ((laugh)) 
-*HEL:	 ((laugh))  (.) He's not Welsh 
-*EMM:	Ooh!
-*HEL:	or anything!
-*EMM:	Yeah, he is, he's Welsh.
-*HEL:	I wouldn't put on an accent because they're cha , they're they're trying to   (.) well never mind!
-*EMM:	Oh okay.
-*HEL:	Who cares! (        ) 
-*EMM:	I'll put on my accent anyway. (.)  (        ) thinking I'm Welsh!
-*HEL:	 ((laugh)) 
-*EMM:	He goes   (.) oh, don't call me Mr , call me B J!
-*HEL:	 ((laugh))  (.) Ah no!
-*EMM:	 [laughing] And like, there's    (        )  [] 
-*HEL:	It is, yeah!
-*EMM:	 [laughing] And like, Ian was just, cos he's like Barry  and Ian was just sort of stood there going    []  (.) oh my God, I'm gonna laugh! ((laugh)) 
-*HEL:	Ah 
-*EMM:	Oh!
-*HEL:	did I tell you whe , when I went to the opticians?
-*EMM:	I've lost my 
-*HEL:	Ah!
-*EMM:	shoes again!
-*HEL:	He was the most unbelievable person I've ever met in my life!
-*EMM:	 (        ) 
-*HEL:	Oh!
-*EMM:	Oh yes, he was wasn't he? (.) Oh God!
-*HEL:	My brother went   (.) my brother went yesterday as well.
-*EMM:	Gotta have glasses?
-*HEL:	Well he could have some done.
-*EMM:	Yeah.
-*HEL:	Cos he, he couldn't read the bottom two lines.Oh yeah, that's good though, and I can't read the top   [laughing] two lines  [] !
+*HEL:	The twelfth 
+*EMM:	 (  ) 
+*HEL:	of the third   (.)  ninety two. 
+*EMM:	 ninety two.   (.) Well done dear! 
+*HEL:	What time did you start recording this side of the tape?  (.)  Twenty five past   
+*EMM:	  (  )  
+*HEL:	nine. 
+*EMM:	Twenty five past! God! They're big tapes aren't they? I thought it was only supposed to be forty five minutes   (.)  long? 
+*HEL:	 Nine  twenty five P M   (.) ready. 
+*EMM:	Ready.  (.) This is gonna get really tedious  after a bit isn't it? ((laugh))   
+*HEL:	 I know, it's gonna be totally  boring isn't it?  (.) Er   (.) chatting 
+*EMM:	Chatting with friends at home! ((laugh))  
+*HEL:	with friend. 
+*EMM:	I wonder who's gonna go through all  these tapes? 
+*HEL:	  (  )  there. 
+*EMM:	It doesn't say anywhere doesn't it?  (.) Is it gonna be University students or 
+*HEL:	 ((laughing)) Hopefully !  (.) By the way, I think you're sexy!  (.) I hope you're not female? ((laugh))   
+*EMM:	  ((laugh))   (.)  I don't mind if you're female at all! 
+*HEL:	 I'm not, I'm not, I'm not  , I'm not quite like that! 
+*EMM:	I am! ((laugh))  
+*HEL:	Er   (.) who spoke first? 
+*EMM:	I can't remember! 
+*HEL:	I think it was me. 
+*EMM:	No it wasn't it was me cos I was saying that if yo  , if your pen didn't work. 
+*HEL:	Oh, Emma. 
+*EMM:	Oh, I was the one saying if you're pen doesn't work and my name's Emma dearest! 
+*HEL:	Er   (.) student. 
+*EMM:	Student. 
+*HEL:	Anyway, what was I gonna say? Oh yeah, I reckon all grannies are gonna be taping this they're the only with loads of spare time, we're just doing this for a laugh! 
+*EMM:	Mm. 
+*HEL:	But I mean 
+*EMM:	It's gonna be dead boring though isn't it? Listening to them   (.) complaining about the usual stuff! 
+*HEL:	Yeah   (.) so I reckon   (.) whoever's doing this   (.) I, I bet whoever gets this tape, I bet there's fighting over this tape! I bet there is   (.) cos no one else will  talk   
+*EMM:	 Yeah. 
+*HEL:	BJ's or anything!  (.) Are you listening to that, then? 
+*EMM:	 ((laughing)) Bj's !  (.)  Oh God! 
+*HEL:	 I think that's   (  ) . 
+*EMM:	Did a   (.) did erm   (.) anyone tell you about   (.) James's dad? 
+*HEL:	James? 
+*EMM:	You know James  ?  (.) His dad's called   (.) his dad's called Barry. 
+*HEL:	 Yeah. 
+*EMM:	 You  must know James   's dad.  (.) The one we were hiding from at the fair. 
+*HEL:	Oh! 
+*EMM:	Remember him? 
+*HEL:	No. 
+*EMM:	He goes, well anyway, he's this like, really really mad bloke! He goes to er, Ian   (.) and like, Ian's gone to him, oh hello Mr  , you know, and he's gone   (.) ooh, don't call me Mr  , he's from Wales you see! ((laugh))   
+*HEL:	  ((laugh))   (.) He's not  Welsh   
+*EMM:	 Ooh! 
+*HEL:	or anything! 
+*EMM:	Yeah, he is, he's Welsh. 
+*HEL:	 I wouldn't  put on an accent because they're cha  , they're they're trying to   (.)  well never mind! 
+*EMM:	 Oh okay. 
+*HEL:	Who cares! (  )   
+*EMM:	 I'll put on my  accent anyway.  (.)  (  )  thinking I'm Welsh! 
+*HEL:	  ((laugh))  
+*EMM:	He goes   (.) oh, don't call me Mr  , call me B J! 
+*HEL:	 ((laugh))  (.) Ah no! 
+*EMM:	  ((laughing)) And like, there's    (  )   
+*HEL:	 It is, yeah! 
+*EMM:	 ((laughing)) And like, Ian was just, cos he's like Barry   and Ian was just sort of stood there going    (.) oh my God, I'm gonna laugh! ((laugh))  
+*HEL:	 Ah   
+*EMM:	 Oh! 
+*HEL:	did I tell you whe  , when I went to the opticians? 
+*EMM:	I've lost  my   
+*HEL:	 Ah! 
+*EMM:	shoes again! 
+*HEL:	He was the most unbelievable person I've ever met in my life! 
+*EMM:	 (  ) 
+*HEL:	 Oh! 
+*EMM:	 Oh  yes, he was wasn't he?  (.) Oh  God! 
+*HEL:	 My  brother went   (.) my brother went yesterday as well. 
+*EMM:	Gotta have glasses? 
+*HEL:	Well he could have some done. 
+*EMM:	Yeah. 
+*HEL:	Cos he, he couldn't read the bottom two lines. Oh yeah, that's good though, and I can't read the top   ((laughing)) two lines ! 
 *EMM:	 ((laugh)) 
-*HEL:	 [laughing] You know    []  (.) well what can you see with your left eye?Erm 
-*EMM:	Erm 
-*HEL:	H
-*EMM:	Nothing!
-*HEL:	 [laughing] Ha ha ha  [] ! (.) Oh! (.) Ian's so funny! (.) But erm   (.) yeah. (.) I dunno where to take this next, shall I take it downstairs and   (.) yeah well, my half on this is stinted.    (.)  (        ) quite interesting. (.) Cos we all just sit there and watch telly and we don't talk!We had a, we had a really goo , it's a pity you weren't here earlier actually cos we had a stu , a nice conversation about politics.Oh, my dad kept going   (.) shhh I'm trying to watch the football all the time!
+*HEL:	 ((laughing)) You know    (.) well what can you see with your left eye?  Erm   
+*EMM:	 Erm   
+*HEL:	H 
+*EMM:	Nothing! 
+*HEL:	 ((laughing)) Ha ha ha !  (.) Oh!  (.) Ian's so funny!  (.) But erm   (.) yeah.  (.) I dunno where to take this next, shall I take it downstairs and   (.) yeah well, my half on this is stinted.    (.)  (  ) quite interesting.  (.) Cos we all just sit there and watch telly and we don't talk! We had a, we had a really goo  , it's a pity you weren't here earlier actually cos we had a stu  , a nice conversation about politics. Oh, my dad kept going   (.) shhh I'm trying to watch the football all the time! 
 *EMM:	 ((laugh)) 
-*HEL:	And I was   (.) cos I had, I had a massive argument with Vicky about party politics! (.) Right, cos she's such a selfish conservative bitch  (        ) !
-*EMM:	Mm. (.) Yeah.
-*HEL:	Going   (.) well, I don't care why should we have to pay for all those poor people!That can't keep jobs!
-*EMM:	Oh I put down Clive! (.) Oh he really makes me mad he does!Me an , me and Natalie were having a   [laughing] real bad go at him!Sort of going    []  (.) just cos daddy'll sort you out then!
-*HEL:	Yeah!
-*EMM:	Oh God!Oh he drives me mad sometimes!
-*HEL:	It like sh , I couldn't believe it she was   (.) she's so conservative!She sat there going   (.) well why should we have to pay for poor people who can't be bothered to get jobs, they're so lazy!
-*EMM:	Oh yeah, like there's a load of 
-*HEL:	And I like, I 
-*EMM:	jobs going round!
-*HEL:	Honestly,
-*EMM:	Yeah!
-*HEL:	I was going absolutely eppy This is in the middle of class, I was going eppy And she goes   (.) and I goes, oh yes just cos daddy's got a very nice car and you live in Inkborough like this!
-*EMM:	Yeah.
-*HEL:	And I was   (.) hon , I just went so mad!And everyone in the whole class   (.) Julian   (.) Julian 
-*EMM:	Mm.
-*HEL:	was going to me, hey Helena calm down!And I was going    (.)  [shouting] No I won't calm down  [] ! ((laugh))  (.) And I was screaming by this time and Miss  goes   (.) oh be quiet everybody!Mm, yes you're hard, I'm really scared!
+*HEL:	And I was   (.) cos I had, I had a massive argument with Vicky about party politics!  (.) Right, cos she's such a selfish conservative bitch  (  ) ! 
+*EMM:	Mm.  (.) Yeah. 
+*HEL:	Going   (.) well, I don't care why should we have to pay for all those poor people!  That can't keep jobs! 
+*EMM:	 Oh I put down Clive!   (.) Oh he really makes me mad he does! Me an  , me and Natalie were having a   ((laughing)) real bad go at him! Sort of going    (.) just cos daddy'll sort you out  then! 
+*HEL:	 Yeah! 
+*EMM:	Oh God! Oh he drives me mad sometimes! 
+*HEL:	It like sh  , I couldn't believe it she was   (.) she's so conservative! She sat there going   (.) well why should we have to pay for poor people who can't be bothered to get jobs, they're so lazy! 
+*EMM:	Oh yeah, like there's a load of   
+*HEL:	 And I like, I   
+*EMM:	jobs going round! 
+*HEL:	Honestly, 
+*EMM:	Yeah! 
+*HEL:	I was going absolutely eppy This is in the middle of class, I was going eppy And she goes   (.) and I goes, oh yes just cos daddy's got a very nice car and you live in Inkborough like this! 
+*EMM:	Yeah. 
+*HEL:	And I was   (.) hon  , I just went so mad! And everyone in the whole class   (.) Julian   (.)  Julian   
+*EMM:	 Mm. 
+*HEL:	was going to me, hey Helena calm down! And I was going    (.)  ((shouting)) No I won't calm down !  ((laugh))  (.) And I was screaming by this time and Miss   goes   (.) oh be quiet everybody! Mm, yes you're hard, I'm really scared! 
 *EMM:	 ((laugh)) 
-*HEL:	Ma , it's like, it's like 
-*EMM:	 (        ) 
-*HEL:	my dad this morning   (.) he woke me up by   (.) pulling me up by the hair, bashing my face into the pillow a couple of times, I just looked at, then go, and I looked at him
-*EMM:	Got a comb anywhere?
-*HEL:	Comb?
-*EMM:	Even if it's one of those   (.) tremmy pretend combs you get with a Barbie doll, oh this'll do! (.) Don't know what it is, but it'll do! (.) Hope you haven't   (.) brushed anything pervy with this one!Pubes! ((laugh)) 
-*HEL:	Oh yes I'm always brushing my pubes!
-*EMM:	 [laughing] Oh, I know  [] !
-*HEL:	 ((laugh))  (.) How did you know?
-*EMM:	 [laughing]  (        )  [] .
-*HEL:	That's my pu , pube comb!
-*EMM:	 ((laugh))  (.) Well you've gotta admit, it does look    (.)  [laughing] it does look like one of them sort of things  [] ! (.) Have you, have you seen what pubes, (        ) ?
-*HEL:	 [laughing] Yeah  [] !
-*EMM:	 [laughing] Oh goodo  [] !
-*HEL:	Erm, anyway, what was I saying? (.) Oh yeah, and I just looked up from the pillow and went   (.) oh, watch me shiver!
-*EMM:	 ((laugh)) 
-*HEL:	 [laughing] In a very sarcastic voice  [] ! (.) Oh did you see erm   (.) Mary 
-*EMM:	No.
-*HEL:	Whitehouse the other day?
-*EMM:	No, I missed it  (        ) , but your   (        ) get on with it anyway! ((laugh)) 
-*HEL:	 ((laugh))  (.) Ooh wasn't that weird it sprays at once!
-*EMM:	I like this, it smells nice!
-*HEL:	I think it smells awful actually!
-*EMM:	Ah, I think it smells really nice!Naomi  always wears that.
-*HEL:	 (        ) 
-*EMM:	 [laughing]  (        ) can smell  [] !
-*HEL:	Well at least I ain't got B O!
-*EMM:	This is disgusting!I did this top bottom up so that my dad wouldn't call me a tart as I walked out the house and I forgot to undo it again! ((laugh)) 
-*HEL:	You're getting a bit prudish aren't you?
-*EMM:	 [laughing] I know  [] ! (.) Ah dear!
-*HEL:	You know, (        ) touch my pen! ((laugh)) 
-*EMM:	Was there a minute ago wasn't it? (.) Ah, here it is!Oh it's on the floor!Emma the hero   (.) finds it again!
-*HEL:	 (        ) 
-*EMM:	Oh dear! (.)  [singing] Love can I say  [] !
-*HEL:	What time you gotta be in?
-*EMM:	I, I haven't actually got to be in at any time   (.) except I did say I'd be in at half nine.
-*HEL:	Oh!
-*EMM:	Oh, it's half nine now!Oh ha! (.) Slap my thigh!
-*HEL:	You look really worried though Emma!You look like you're about to rush home!
-*EMM:	Oh dear   (.) I must rush home   (.) because it's half past nine and I'm going to get told off 
-*HEL:	 [screaming] Ah  [] !
-*EMM:	for being late! (.) I've just missed Red Dwarf!Oh never mind!
-*HEL:	Oh oh oh Go ho od!
-*EMM:	What?
-*HEL:	Missed Red Dwarf!
-*EMM:	Never mind   (.) you see   (.) mister tape recorder person.
-*HEL:	 [laughing] They're coming in   [screaming] Ah   []  [] ! (.) I'm suffering a lot though!
-*EMM:	You've caused us to miss Red Dwarf!
-*HEL:	Cos we just enjoy talking to you so much!
-*EMM:	Because you're such an interesting person!I will do up my button again!
-*HEL:	 ((laugh))  (.) So you're dad won't call you a tart!
-*EMM:	Actually, he shouldn't be in.
-*HEL:	Listen, listen to your 
-*EMM:	Oh well!
-*HEL:	lucky   (.) you're lucky, I'm not pregnant penny.
-*EMM:	 [laughing] Yeah  [] !Right at the end of   (        ) somewhere.
-*HEL:	Lucky   (.) I'm not pregnant   (.) powder case!
-*EMM:	Oh dear!Well   (.) are you going to leave that on?
-*HEL:	No I'm turn it back.
-*EMM:	Gonna switch it off?Cheerio then darling!
-*HEL:	Cheerio then man!
-*EMM:	Oh dear!
-*HEL:	Bye!
+*HEL:	 Ma  , it's like, it's like   
+*EMM:	  (  )  
+*HEL:	my dad this morning   (.) he woke me up by   (.) pulling me up by the hair, bashing my face into the pillow a couple of times, I just looked at, then go, and I looked at him 
+*EMM:	Got a comb anywhere? 
+*HEL:	Comb? 
+*EMM:	Even if it's one of those   (.) tremmy pretend combs you get with a Barbie doll, oh this'll do!  (.) Don't know what it is, but it'll do!  (.) Hope you haven't   (.) brushed anything pervy with this one! Pubes! ((laugh))  
+*HEL:	Oh yes I'm always brushing my pubes! 
+*EMM:	  ((laughing)) Oh, I know ! 
+*HEL:	  ((laugh))   (.) How did you know? 
+*EMM:	 ((laughing))  (  ) . 
+*HEL:	 That's my pu  , pube comb! 
+*EMM:	  ((laugh))   (.) Well you've gotta admit, it does look    (.)  ((laughing)) it does look like one of them sort of things !  (.) Have you, have you seen what pubes, (  ) ? 
+*HEL:	 ((laughing)) Yeah ! 
+*EMM:	 ((laughing)) Oh goodo ! 
+*HEL:	Erm, anyway, what was I saying?  (.) Oh yeah, and I just looked up from the pillow and went   (.) oh, watch me shiver! 
+*EMM:	  ((laugh))  
+*HEL:	  ((laughing))  In a very sarcastic voice !  (.) Oh did you see erm   (.)  Mary   
+*EMM:	 No. 
+*HEL:	Whitehouse the other day? 
+*EMM:	No, I missed it  (  ) , but your   (  ) get on with it anyway! ((laugh))   
+*HEL:	  ((laugh))   (.) Ooh wasn't that weird it sprays at once! 
+*EMM:	I like this, it smells nice! 
+*HEL:	I think it smells awful actually! 
+*EMM:	Ah, I think it smells really nice! Naomi   always wears that. 
+*HEL:	 (  ) 
+*EMM:	 ((laughing))  (  ) can smell ! 
+*HEL:	Well at least I ain't got B O! 
+*EMM:	This is disgusting! I did this top bottom up so that my dad wouldn't call me a tart as I walked out the house and I forgot to undo it again! ((laugh))  
+*HEL:	You're getting a bit prudish aren't you? 
+*EMM:	 ((laughing)) I know !  (.) Ah dear! 
+*HEL:	You know, (  ) touch my pen! ((laugh))  
+*EMM:	Was there a minute ago wasn't it?  (.) Ah, here it is! Oh it's on the floor! Emma the hero   (.) finds  it again! 
+*HEL:	  (  )  
+*EMM:	Oh dear!  (.)  ((singing)) Love can I say ! 
+*HEL:	What time you gotta be in? 
+*EMM:	I, I haven't actually got to be in at any time   (.) except I did say I'd be in at half nine. 
+*HEL:	Oh! 
+*EMM:	Oh, it's half nine now! Oh ha!  (.) Slap my thigh! 
+*HEL:	You look really worried though Emma! You look like you're about to rush home! 
+*EMM:	Oh dear   (.) I must rush home   (.) because it's half past nine and I'm going to get  told off   
+*HEL:	  ((screaming)) Ah ! 
+*EMM:	for being late!  (.) I've just missed Red Dwarf! Oh never mind! 
+*HEL:	Oh oh oh Go  ho  od! 
+*EMM:	What? 
+*HEL:	Missed Red Dwarf! 
+*EMM:	Never mind   (.) you see   (.) mister tape recorder person. 
+*HEL:	 ((laughing)) They're coming in   ((screaming)) Ah  !  (.) I'm suffering a lot though! 
+*EMM:	You've caused us to miss Red Dwarf! 
+*HEL:	Cos we just enjoy talking to you so much! 
+*EMM:	Because you're such an interesting person! I will do up my button again! 
+*HEL:	 ((laugh))  (.) So you're dad won't call you a tart! 
+*EMM:	Actually, he shouldn't be in. 
+*HEL:	Listen, listen  to your   
+*EMM:	 Oh well! 
+*HEL:	lucky   (.) you're lucky, I'm not pregnant penny. 
+*EMM:	 ((laughing)) Yeah ! Right at the end of   (  ) somewhere. 
+*HEL:	Lucky   (.) I'm not pregnant   (.) powder case! 
+*EMM:	Oh dear! Well   (.) are you going to leave that on? 
+*HEL:	No  I'm turn it back. 
+*EMM:	 Gonna switch it off?  Cheerio then  darling! 
+*HEL:	 Cheerio  then man! 
+*EMM:	Oh dear! 
+*HEL:	Bye! 
 @End

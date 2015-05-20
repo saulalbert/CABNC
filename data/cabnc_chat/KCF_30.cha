@@ -1,18 +1,18 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-19:  
 @Location:	 Woodhouse Hotel 
-@Situation:	 with friends 
-@Media: 021A-C0897X0286XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 with friends  
+@Media:	021A-C0897X0286XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , STU Stuart daughter's boyfriend
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|STU|~22;| |m|Ag1| |hairdresser|daughter's boyfriend|PS1ER|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|STU|22;|||||hairdresser|daughter's boyfriend|PS1ER|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0286XX-ABZZP0.wav
 @Comment:	conversation #30 (Tape 028606)
-*STU:	Awfully sorry love, have to er dash off a bit
-*UNK:	 (        )  ((music))
+*STU:	Awfully sorry love, have to er dash off a bit 
+*UNK:	 (  )  ((music))
 @End

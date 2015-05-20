@@ -1,37 +1,37 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0022XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0022XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, BIL Bill neighbour
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|BIL|~30+;| |m|Ag2| |plastics company director|neighbour|PS104|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|BIL|30+;|||||plastics company director|neighbour|PS104|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0022XX-AAZZP0.wav
 @Comment:	conversation #34 (Tape 002201)
-*CHR:	Moved the car   ((tv on)) (        ) .
-*BIL:	Right, right.
-*CHR:	 (        ) .
-*BIL:	I don't do that  (.) 
-*CHR:	Don't chop the fence in two    ((laugh))  (        ) a drastic time there.Mm.
-*BIL:	 (        ) 
-*CHR:	Mm mm.
-*BIL:	 (        ) cutting down the other end.A stake be that big in there.
-*CHR:	Yes
-*BIL:	Big, (        ) it's not  (        ) .
-*CHR:	Yes.
-*BIL:	Three  (        ) .
-*CHR:	Oh.
-*BIL:	His still running.
-*CHR:	Yes.
-*BIL:	Yeah, ((laugh)) , got a   (        ) for it.
-*CHR:	The   (.) the   (.) the trouble is it's not   (.) not   (.) not that wrong with the fence but the ivy's so thick, it's been there so long hasn't it?Hopeless, anyway I'll move the car out Bill.
-*BIL:	O K.
-*CHR:	Thanks.
-*BIL:	If you don't mind, do you come round here and  (.) 
-*CHR:	Yes fine, if   (.) if   (.) if you're happy too Bill, thank you.
+*CHR:	Moved the car   ((tv on)) (  ) . 
+*BIL:	Right, right. 
+*CHR:	 (  ) . 
+*BIL:	I don't do that  (30.0)  
+*CHR:	Don't chop the fence in two    ((laugh))  (  ) a drastic time there. Mm. 
+*BIL:	 (  ) 
+*CHR:	Mm mm. 
+*BIL:	 (  ) cutting down the other end. A stake be that big in there. 
+*CHR:	Yes 
+*BIL:	Big, (  ) it's not  (  ) . 
+*CHR:	Yes. 
+*BIL:	Three  (  ) . 
+*CHR:	Oh. 
+*BIL:	His still running. 
+*CHR:	Yes. 
+*BIL:	Yeah, ((laugh)) , got a   (  ) for it. 
+*CHR:	The   (.) the   (.) the trouble is it's not   (.) not   (.) not that wrong with the fence but the ivy's so thick, it's been there so long hasn't it? Hopeless, anyway I'll move the car out Bill. 
+*BIL:	O K. 
+*CHR:	Thanks. 
+*BIL:	If you don't mind, do you come round here and  (.)  
+*CHR:	Yes fine, if   (.) if   (.) if you're happy too Bill, thank you. 
 @End

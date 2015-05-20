@@ -1,26 +1,26 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-20:  
 @Location:	  home  
-@Situation:	  talking to daughter  
-@Media: 021A-C0897X0264XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  talking to daughter   
+@Media:	021A-C0897X0264XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , FRE Fred self, MAR Marjorie daughter, GEM Gemma granddaughter
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|FRE|~77;| |m|Ag5| |retired||PS09T|
-@ID: eng|AudioBNC|MAR|~36;| |f|Ag3| |housewife|daughter|PS09X|
-@ID: eng|AudioBNC|GEM|~11;| |f|Ag0| |student|granddaughter|PS09Y|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|FRE|77;|||||retired||PS09T|
+@ID:	eng|AudioBNC|MAR|36;|||||housewife|daughter|PS09X|
+@ID:	eng|AudioBNC|GEM|11;|||||student|granddaughter|PS09Y|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0264XX-AAZZP0.wav
 @Comment:	conversation #27 (Tape 026402)
-*MAR:	There's a bottle of wine here  (        ) . (.) It's a Moselle.
-*FRE:	Oh  (        ) .Oh yeah, lovely. (.) 
-*MAR:	And we've got one there for Marcus as well.
-*FRE:	 [laughing]  (        )  [] 
-*GEM:	 (        ) 
-*FRE:	Oh wine is just  ((laugh)) 
+*MAR:	There's a bottle of wine here  (  ) .  (.) It's a Moselle. 
+*FRE:	Oh  (  ) . Oh yeah, lovely. (.)  
+*MAR:	And we've got one there for Marcus as well. 
+*FRE:	 ((laughing))  (  ) 
+*GEM:	 (  ) 
+*FRE:	Oh wine is just  ((laugh))  
 *UNK:	 ((laugh))  (.) 
-*FRE:	Well thanks very much Tony.That's er er   (.) lovely. (.) 
+*FRE:	Well thanks very much Tony. That's er er   (.) lovely. (.)  
 @End

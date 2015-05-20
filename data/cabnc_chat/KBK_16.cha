@@ -1,23 +1,23 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, LYN Lynda colleague
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|LYN|~44;| |f|Ag3| |export assistant|colleague|PS102|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|LYN|44;|||||export assistant|colleague|PS102|
 @Comment:	conversation #16 (Tape 002017)
-*LYN:	 ((sneeze)) Excuse me.
-*CHR:	Bless you. (.) How come Graham's playing golf again today anyway?
-*LYN:	 (        ) 
-*CHR:	Oh it's business is it?
-*LYN:	 (        ) 
-*CHR:	Amazing.Amazing.He's out officially currying favour ha?
-*LYN:	 (        ) good  (        ) 
-*CHR:	Of course they are.Yes.I mean it it's really quite fascinating that isn't it?They are making the bank a lot of money.
-*LYN:	Yes. (        ) playing golf this morning having a posh lunch and then playing golf this afternoon then having a buffet supper with prize giving.Last time he won a beautiful  (        ) .
+*LYN:	 ((sneeze)) Excuse me. 
+*CHR:	Bless you.  (.) How come Graham's playing golf again today anyway? 
+*LYN:	 (  ) 
+*CHR:	Oh it's business is it? 
+*LYN:	 (  ) 
+*CHR:	Amazing. Amazing. He's out officially currying favour ha? 
+*LYN:	 (  ) good  (  )  
+*CHR:	Of course they are. Yes. I mean it it's really quite fascinating that isn't it? They are making the bank a lot of money. 
+*LYN:	Yes.  (  ) playing golf this morning having a posh lunch and then playing golf this afternoon then having a buffet supper with prize giving. Last time he won a beautiful  (  ) . 
 @End

@@ -1,28 +1,28 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0051XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0051XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter, UNK Unknown Unknown None ?
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
-@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
-@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6ST|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
+@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6ST|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0051XX-AAZZP0.wav
 @Comment:	conversation #62 (Tape 005103)
-*HEL:	Oh that's a shame, I thought you'd go out and play with it.
-*CLA:	 (        ) 
-*HEL:	Rack attack.
-*CLA:	What you say?
-*HEL:	I thought Clare would go out and play with her new racket, she's not really
-*CLA:	Nice cake.
-*HEL:	mm, not really very well.
-*AMY:	You don't   (        ) any more.
-*HEL:	No, well they're aluminium, they won't warp.Right do you want some lunch?
-*NON:	Yeah, just  (        ) .
+*HEL:	Oh that's a shame, I thought you'd go out and play with it. 
+*CLA:	 (  ) 
+*HEL:	Rack attack. 
+*CLA:	What you say? 
+*HEL:	I thought Clare would go out and play with her new racket, she's not really 
+*CLA:	Nice cake. 
+*HEL:	mm, not really very well. 
+*AMY:	You don't   (  ) any more. 
+*HEL:	No, well they're aluminium, they won't warp. Right do you want some lunch? 
+*NON:	Yeah, just  (  ) . 
 @End

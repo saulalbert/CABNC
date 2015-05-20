@@ -1,26 +1,26 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 restaurant 
-@Situation:	Unspecified
-@Media: 021A-C0897X0029XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0029XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0029XX-ABZZP0.wav
 @Comment:	conversation #213 (Tape 002921)
-*CHR:	Does that mean that Anna has actually slept in that   (        ) too?
-*NOR:	She had a good long night with no disturbance.
-*CHR:	Good.I noticed on your card she called him Daniel David and then behold he's going to be just Daniel.
-*NOR:	Well David is his second name.
-*CHR:	I know
-*NOR:	 (        ) what his second name was.
-*CHR:	Oh really.
-*NOR:	Lena is Lena Rachael.
-*CHR:	Ha?Real Toffee isn't it?
-*NOR:	Mm. (        ) 
+*CHR:	Does that mean that Anna has actually slept in that   (  ) too? 
+*NOR:	She had a good long night with no disturbance. 
+*CHR:	Good. I noticed on your card she called him Daniel David and then behold he's going to be just Daniel. 
+*NOR:	Well David is his second name. 
+*CHR:	I know 
+*NOR:	 (  ) what his second name was. 
+*CHR:	Oh really. 
+*NOR:	Lena is Lena Rachael. 
+*CHR:	Ha? Real Toffee isn't it? 
+*NOR:	Mm. (  )  
 @End

@@ -1,101 +1,101 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-05:  
 @Location:	  home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0045XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0045XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CAR Carole self, JOE Joelle employee, CHA Charlotte daughter
-@ID: eng|AudioBNC|CAR|~36;| |f|Ag3| |administrator (pt)||PS05B|
-@ID: eng|AudioBNC|JOE|~18;| |f|Ag1| |au pair|employee|PS05C|
-@ID: eng|AudioBNC|CHA|~2;| |f|Ag0| |pre-school|daughter|PS05E|
+@Options:	CA
+@ID:	eng|AudioBNC|CAR|36;|||||administrator (pt)||PS05B|
+@ID:	eng|AudioBNC|JOE|18;|||||au pair|employee|PS05C|
+@ID:	eng|AudioBNC|CHA|2;|||||pre-school|daughter|PS05E|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0045XX-AAZZP0.wav
 @Comment:	conversation #61 (Tape 004504)
-*CAR:	They're currants
-*JOE:	They're what?
-*CAR:	Currants.
-*CHA:	What did you think?
-*CAR:	Don't ask me.It's just a different dried fruit   (.) and the other ones are sultanas   (.) the brown ones   (.) the bigger ones.
-*JOE:	Mm
-*CHA:	 (        ) 
-*CAR:	Oh sort of yes
-*CHA:	 (        ) 
-*CAR:	We must make a cake
-*CHA:	We?Must we?
-*CAR:	We don't have to but I'd like to   (.) want to get rid of some of this flour  ((laugh)) 
-*CHA:	You've got so much stuff in there  (.) 
-*CAR:	Let's do a chocolate one today   (.) and I think somebody else
-*CHA:	 (        ) wants a biscuit.
-*CAR:	What sort of biscuit?
-*JOE:	You put  (.) 
-*CAR:	What sort of flour do you need?
-*JOE:	White and you when there's white flour at home I use it
-*CAR:	Yes but has is it um plain flour or flour that raises itself?
-*JOE:	I think well because I   ((cough)) my mother buy always the same it's the flour specially for the cake.You know it was something in it.
-*CAR:	There was something in it?For raising?You don't put something else in as well to make it  (.) 
-*JOE:	No
-*CAR:	Okay.That's all right.As that's what we've got a lot of.
-*JOE:	So I put
-*CAR:	It's good self raising flour
-*JOE:	Two two hundred two hundred fifty
-*CAR:	It's all right don't don't need the   (.) just just what else do you need apart from that?
-*JOE:	Butter.Butter or margarine I use margarine   (        ) I use butter   (.) and flour and
-*CHA:	In the morning in the morning  (        ) 
-*JOE:	Sugar sugar
-*CAR:	No no no come on don't play with that love please pick it up quickly   (.) off the floor   (.) don't walk on it.It's Amy's blanket love I don't want it all over the floor.Out of your nose out of your nose Charlotte please.Yuk!Err!Where is your dolly?
-*JOE:	Going to find your  (        ) 
-*CAR:	Put put Dolly in the push chair   (.) Charlotte.
-*JOE:	Would you put out of your nose?
-*CAR:	Don't make a big thing of it.The more you ask her to stop the more she's going to do it.
-*JOE:	I don't like what she's doing
-*CAR:	I know, nor do I but the more you talked about it the more she'll do it. (.) 
-*JOE:	I dropped in here
-*CAR:	Sure  (        ) 
-*JOE:	I have my antique  (        ) 
+*CAR:	They're currants 
+*JOE:	They're what? 
+*CAR:	Currants. 
+*CHA:	What did you think? 
+*CAR:	Don't ask me. It's just a different dried fruit   (.) and the other ones are sultanas   (.) the brown ones   (.) the bigger ones. 
+*JOE:	Mm 
+*CHA:	 (  ) 
+*CAR:	Oh sort of yes 
+*CHA:	 (  ) 
+*CAR:	We must make a cake 
+*CHA:	We? Must we? 
+*CAR:	We don't have to but I'd like to   (.) want to get rid of some of this flour  ((laugh))  
+*CHA:	You've got so much stuff in there  (.)  
+*CAR:	Let's do a chocolate one today   (6.0) and I think somebody else 
+*CHA:	 (  ) wants a biscuit. 
+*CAR:	What sort of biscuit? 
+*JOE:	You put  (.)  
+*CAR:	What sort of flour do you need? 
+*JOE:	White and you when there's white flour at home I use it 
+*CAR:	Yes but has is it um plain flour or flour that raises itself? 
+*JOE:	I think well because I   ((cough)) my mother buy always the same it's the flour specially for the cake. You know it was something in it. 
+*CAR:	There was something in it? For raising? You don't put something else in as well to make it  (.)  
+*JOE:	No 
+*CAR:	Okay. That's all right. As that's what we've got a lot of. 
+*JOE:	So I put 
+*CAR:	It's good self raising flour 
+*JOE:	Two two hundred two hundred fifty 
+*CAR:	It's all right don't don't need the   (.) just just what else do you need apart from that? 
+*JOE:	Butter. Butter or margarine I use margarine   (  ) I use butter   (.) and flour and 
+*CHA:	In the morning in the morning  (  )  
+*JOE:	Sugar sugar 
+*CAR:	No no no come on don't play with that love please pick it up quickly   (.) off the floor   (.) don't walk on it. It's Amy's blanket love I don't want it all over the floor. Out of your nose out of your nose Charlotte please. Yuk! Err! Where is your dolly? 
+*JOE:	Going to find your  (  )  
+*CAR:	Put put Dolly in the push chair   (.) Charlotte. 
+*JOE:	Would you put out of your nose? 
+*CAR:	Don't make a big thing of it. The more you ask her to stop the more she's going to do it. 
+*JOE:	I don't like what she's doing 
+*CAR:	I know, nor do I but the more you talked about it the more she'll do it. (8.0)  
+*JOE:	I dropped in here 
+*CAR:	Sure  (  )  
+*JOE:	I have my antique  (  )  
 *CAR:	 ((laugh)) 
-*CHA:	Dump tee dump tee dump dump tee dump tee dum
-*CAR:	Charlotte careful
-*CHA:	Umpty dum tee dum tee dum
-*JOE:	 (        ) 
-*CAR:	Yes you are mind the table Charlotte there's drinks on it
-*JOE:	We can go to    (        )  (.) together
-*CAR:	Can we?
-*CAR:	You don't want to go down to the slides yet?
-*JOE:	No I said Charlotte
-*CAR:	Well you'll have to because she can't swim yet.
-*CAR:	Three months   (.) when she's three months she'll be able to.
-*JOE:	I will remain here?
-*CAR:	Well if you want to. (.) No that's not for you.
-*CHA:	It's Joelle's
-*CAR:	No it's not Joelle's and it's not Mummy's.
-*CHA:	Mummy's
-*CAR:	No it's not well it's Mummy's at the moment but there's two ladies coming back to collect it tonight.
-*JOE:	So we're going 
-*CHA:	I can see 
-*CAR:	You can see?Yes I'm glad you can see.
-*CHA:	Oh oh it's my present.
-*CAR:	No it's not your present
+*CHA:	Dump tee dump tee dump dump tee dump tee dum 
+*CAR:	Charlotte careful 
+*CHA:	Umpty dum tee dum tee dum 
+*JOE:	 (  ) 
+*CAR:	Yes you are mind the table Charlotte there's drinks on it 
+*JOE:	We can go to    (  )  (.) together 
+*CAR:	Can we? 
+*CAR:	You don't want to go down to the slides yet? 
+*JOE:	No I said Charlotte 
+*CAR:	Well you'll have to because she can't swim yet. 
+*CAR:	Three months   (.) when she's three months she'll be able to. 
+*JOE:	I will remain here? 
+*CAR:	Well if you want to.  (5.0) No that's not for you. 
+*CHA:	It's Joelle's 
+*CAR:	No it's not Joelle's and it's not Mummy's. 
+*CHA:	Mummy's 
+*CAR:	No it's not well it's Mummy's at the moment but there's two ladies coming back to collect it tonight. 
+*JOE:	So we're  going   
+*CHA:	 I can see   
+*CAR:	You can see? Yes I'm glad you can see. 
+*CHA:	Oh oh it's my present. 
+*CAR:	No it's not your present 
 *JOE:	 ((laugh)) 
-*CHA:	My present
-*CAR:	It's not a present.It's lots of tapes. (.) It's lots of tapes.
-*JOE:	If we go to Croydon Croydon 
-*CAR:	Croydon Croydon
-*CHA:	Croydon
-*CAR:	If we go to Croydon   (.) do you ever go to clean your shoes  ((laugh)) 
-*JOE:	Oh
-*CAR:	 ((laugh)) Every time I look at it I see these bits of chocolate you spilt on it.
-*JOE:	I have  (        ) 
-*CAR:	Have you?Very well. (.) Yes if we go to Croydon
-*JOE:	Croydon oh.
-*CAR:	What?
-*JOE:	Tomorrow.
-*CAR:	Oop mmm
-*JOE:	I told it to go something
-*CAR:	Don't you?
-*CHA:	I'll kill her
-*CAR:	Charlotte don't jump
-*CHA:	Ah ah
+*CHA:	My present 
+*CAR:	It's not a present. It's lots of tapes.  (.) It's lots of tapes. 
+*JOE:	If we go to Croydon  Croydon   
+*CAR:	 Croydon  Croydon 
+*CHA:	Croydon 
+*CAR:	If we go to Croydon   (.) do you ever go to clean your shoes  ((laugh))  
+*JOE:	Oh 
+*CAR:	 ((laugh)) Every time I look at it I see these bits of chocolate you spilt on it. 
+*JOE:	I have  (  )  
+*CAR:	Have you? Very well.  (.) Yes if we go to Croydon 
+*JOE:	Croydon oh. 
+*CAR:	What? 
+*JOE:	Tomorrow. 
+*CAR:	Oop mmm 
+*JOE:	I told it to go something 
+*CAR:	Don't you? 
+*CHA:	I'll kill her 
+*CAR:	Charlotte don't jump 
+*CHA:	Ah ah 
 @End

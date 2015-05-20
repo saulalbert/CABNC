@@ -1,42 +1,42 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-05:  
 @Location:	  home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0192XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0192XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	ANN Ann self, STU Stuart partner, BRI Brian stranger
-@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
-@ID: eng|AudioBNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
-@ID: eng|AudioBNC|BRI|~45;| |m|Ag4| |paper-man|stranger|PS02J|
+@Options:	CA
+@ID:	eng|AudioBNC|ANN|46;|||||team leader||PS02G|
+@ID:	eng|AudioBNC|STU|33;|||||factory operative|partner|PS02H|
+@ID:	eng|AudioBNC|BRI|45;|||||paper-man|stranger|PS02J|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0192XX-ABZZP0.wav
 @Comment:	conversation #51 (Tape 019203)
-*STU:	Get a pair of scissors cut that out and stick it on these  (        ) 
-*ANN:	 (        ) 
-*STU:	 (        )  (.) 
+*STU:	Get a pair of scissors cut that out and stick it on these  (  )  
+*ANN:	 (  ) 
+*STU:	 (  )  (6.0) 
 *ANN:	 ((laugh))  (.) 
-*STU:	What do you think?
-*ANN:	Yes it will be good, I hope so, I'm getting nervous now.
-*STU:	Well he don't usually turn up till   (.) twenty to and then we was there a little bit early as well 
-*ANN:	Yeah 
-*STU:	 (        )  (        ) 
-*STU:	Yeah, (        ) get some sticky tape, I know that, well they do twenty   (        ) bit of table put a plant on it, stick it on the    (        )  (.) mm, mm, (        )  (.) 
-*ANN:	Cup of tea  (        ) 
-*BRI:	 (        ) on the road, yes  (.) 
-*STU:	 (        ) 
-*ANN:	I'm   (        ) a few minutes   (        )  (.) 
-*STU:	 (        ) gonna get busier  (.) 
-*ANN:	 (        ) Monday, Tuesday, Wednesday and Thursday afternoons, and evening and er     (.)  (        )  (.)  (        ) 
-*STU:	 (        ) 
-*ANN:	It's   (        ) house Sunday, (        )  (.)  (        ) out Christmas at least it will be a bit more   (        ) that was the   (        ) instead and you and I   (        ) sleep on the settee. (        ) turf her out on the bed she might   (        ) sleep with me and you sleep on the settee or would be a bit better than two beds than the settee, an extra bed space for her   (        ) mum's house too much for over Christmas, that's not fair she's not   (        ) all over the place  (        ) . (        ) about moving, I   (        ) chest some things, she won't be there, I'm not taking it all up there.
-*STU:	No.
-*ANN:	She got   (        ) I don't fancy that at all, sleeping in the   (        ) to her garage   (        ) looking my things, ((laugh)) 
-*STU:	 (        ) 
-*ANN:	It 's all his stuff in the garage, that belongs to   (        ) oh
-*STU:	Oh.
-*ANN:	exactly, it don't sound very good does it?
-*STU:	No   (        )  (.) 
+*STU:	What do you think? 
+*ANN:	Yes it will be good, I hope so, I'm getting nervous now. 
+*STU:	Well he don't usually turn up till   (.) twenty to and then we was there a little bit early  as well  
+*ANN:	 Yeah   
+*STU:	 (  )  (  ) 
+*STU:	Yeah, (  ) get some sticky tape, I know that, well they do twenty   (  ) bit of table put a plant on it, stick it on the    (  )  (7.0) mm, mm, (  )  (.)  
+*ANN:	Cup of tea  (  )  
+*BRI:	 (  ) on the road, yes  (78.0)  
+*STU:	 (  ) 
+*ANN:	I'm   (  ) a few minutes   (  )  (8.0)  
+*STU:	 (  ) gonna get busier  (12.0)  
+*ANN:	 (  ) Monday, Tuesday, Wednesday and Thursday afternoons, and evening and er     (5.0)  (  )  (.)  (  )  
+*STU:	 (  ) 
+*ANN:	It's   (  ) house Sunday, (  )  (6.0)  (  ) out Christmas at least it will be a bit more   (  ) that was the   (  ) instead and you and I   (  ) sleep on the settee.  (  ) turf her out on the bed she might   (  ) sleep with me and you sleep on the settee or would be a bit better than two beds than the settee, an extra bed space for her   (  ) mum's house too much for over Christmas, that's not fair she's not   (  ) all over the place  (  ) .  (  ) about moving, I   (  ) chest some things, she won't be there, I'm not taking it all up there. 
+*STU:	No. 
+*ANN:	She got   (  ) I don't fancy that at all, sleeping in the   (  ) to her garage   (  ) looking my things, ((laugh))  
+*STU:	  (  )  
+*ANN:	 It 's all his stuff  in the garage, that belongs to   (  ) oh 
+*STU:	Oh. 
+*ANN:	exactly, it don't sound very good does it? 
+*STU:	No   (  )  (5.0)  
 @End

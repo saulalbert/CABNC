@@ -1,42 +1,42 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0028XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0028XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife, SUS Susan employee
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
-@ID: eng|AudioBNC|SUS|~30;| |f|Ag2| |cleaner|employee|PS103|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID:	eng|AudioBNC|SUS|30;|||||cleaner|employee|PS103|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0028XX-ABZZP0.wav
 @Comment:	conversation #188 (Tape 002811)
-*NOR:	This is the dress I'm thinking of taking from erm Marks.Do you think it suits me?
-*SUS:	 (        ) 
-*CHR:	Is it possible to wear it with a belt?Or  (.) 
-*NOR:	There isn't   (        ) belt  (        ) 
-*SUS:	How  (        ) 
-*CHR:	Are you having second thoughts about having it, dear?
-*NOR:	I'm not so hundred percent certain it's not one of those things that I think  (.) 
-*CHR:	Right.Well I what I think Suzannah and I are both genuinely in favour.
-*NOR:	Definitely that's what I want.
-*CHR:	No.I think Suzannah and I are genuinely in favour.
-*SUS:	What would you wear as an exit?
-*NOR:	Does it need to be a high neck sort of thing?
-*CHR:	Well not necessarily it could have some loopy beads or something couldn't you?
-*NOR:	What colour?
-*CHR:	Brown blue yellow red.
-*NOR:	Any of those colours  (        ) 
-*SUS:	Colour coordination himself.
-*CHR:	 ((laugh)) and a boop boop boop boop to you too.
-*SUS:	 (        ) 
-*CHR:	What what jewellery colours can mum wear with that?
-*SUS:	 (        ) 
-*NOR:	But I like to wear a little jewellery.
-*CHR:	Yes and the children like to see it.I mean a little elephant brooch or something.Have you still got that other elephant belt that tan one?
-*NOR:	Cream one, you mean?
-*CHR:	Cream one, yes.
+*NOR:	This is the dress I'm thinking of taking from erm Marks. Do you think it suits me? 
+*SUS:	 (  ) 
+*CHR:	Is it possible to wear it with a belt? Or  (.)  
+*NOR:	There isn't   (  ) belt  (  )  
+*SUS:	How  (  )  
+*CHR:	Are you having second thoughts about having it, dear? 
+*NOR:	I'm not so hundred percent certain it's not one of those things that I think  (.)  
+*CHR:	Right. Well I what I think Suzannah and I are both genuinely in favour. 
+*NOR:	Definitely that's what I want. 
+*CHR:	No. I think Suzannah and I are genuinely in favour. 
+*SUS:	What would you wear as an exit? 
+*NOR:	Does it need to be a high neck sort of thing? 
+*CHR:	Well not necessarily it could have some loopy beads or something couldn't you? 
+*NOR:	What colour? 
+*CHR:	Brown blue yellow red. 
+*NOR:	Any of those colours  (  )  
+*SUS:	Colour coordination himself. 
+*CHR:	 ((laugh)) and a boop boop boop boop to you too. 
+*SUS:	 (  ) 
+*CHR:	What what jewellery colours can mum wear with that? 
+*SUS:	 (  ) 
+*NOR:	But I like to wear a little jewellery. 
+*CHR:	Yes and the children like to see it. I mean a little elephant brooch or something. Have you still got that other elephant belt that tan one? 
+*NOR:	Cream one, you mean? 
+*CHR:	Cream one, yes. 
 @End

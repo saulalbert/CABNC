@@ -1,45 +1,45 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 shopping 
-@Situation:	Unspecified
-@Media: 021A-C0897X0048XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0048XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0048XX-ABZZP0.wav
 @Comment:	conversation #29 (Tape 004816)
-*HEL:	Hey, come on   (.) what's the matter?
-*CLA:	 (        ) .
-*HEL:	Well, alright, well look it's no good doing it if your just going to get upset.What's the matter?
-*CLA:	Well I can't leave it like this can I?
-*HEL:	Shhhh, well look, that's very difficult to put on isn't it.
-*CLA:	Yes, but when I put some   (        ) back, (        ) back packed.
-*HEL:	Well then your better putting it back to the back place first.
-*CLA:	 (        ) there as well.
-*HEL:	Right, now you want to put that on again.
-*CLA:	I know.
-*HEL:	It's alright, cos it's very, that's very difficult .
-*CLA:	I can do that holding the edge actually, have to hold the tall side.
-*HEL:	Right, put them in the, doesn't even fit on very well.
-*CLA:	Oh no, (        ) .
-*HEL:	I can't see what I'm doing even.I mean that's a silly place to put it Amy.
-*CLA:	I can't find any where else to put it .
-*HEL:	Well why don't you put it on the table or on the little table, it doesn't even fit on that shelf, does it?It's too big.You can't really have that and these plates on that shelf.
-*CLA:	Oh ok, I'll have it on the little table, but I want you to do it, not me.
-*HEL:	Alright, well.
-*CLA:	It's always falling  (        ) .
-*HEL:	On the little table it'll fit, and you can put the cups .
-*CLA:	That's what I said .
-*HEL:	Cups and saucers on, well you can do that, look you can do that better than I can.Here you are, there, it's on the little table, now you put the cups and saucers on it.
-*CLA:	Ok, it doesn't matter they can stay  (        ) .
-*HEL:	Go on, you can do those better than I can.
-*CLA:	That, that goes in the middle.
-*HEL:	There, but your trying to balance something that won't even balance properly.
-*CLA:	Where's the other cup?
-*HEL:	I don't know, have a look in the kitchen, can't really see.
+*HEL:	Hey, come on   (.) what's the matter? 
+*CLA:	 (  ) . 
+*HEL:	Well, alright, well look it's no good doing it if your just going to get upset.  What's the matter? 
+*CLA:	 Well I can't leave it  like this can I? 
+*HEL:	Shhhh, well look, that's very difficult to put on isn't it. 
+*CLA:	Yes, but when I put some   (  ) back, (  ) back packed. 
+*HEL:	Well then your better putting it back to the back place first. 
+*CLA:	 (  ) there as well. 
+*HEL:	Right, now you want to put that on again. 
+*CLA:	I know. 
+*HEL:	It's alright, cos it's very, that's  very difficult  . 
+*CLA:	 I can do that holding  the edge actually, have to hold the tall side. 
+*HEL:	Right, put them in the, doesn't even fit on very well. 
+*CLA:	Oh no, (  ) . 
+*HEL:	I can't see what I'm doing even. I mean that's a silly place to put it Amy. 
+*CLA:	I can't find any where else  to put it  . 
+*HEL:	 Well why don't you  put it on the table or on the little table, it doesn't even fit on that shelf, does it? It's too big. You can't really have that and these plates on that shelf. 
+*CLA:	Oh ok, I'll have it on the little table, but I want you to do it, not me. 
+*HEL:	Alright, well. 
+*CLA:	It's always falling  (  ) . 
+*HEL:	On the little table it'll fit, and  you can put the cups  . 
+*CLA:	 That's what I said  . 
+*HEL:	Cups and saucers on, well you can do that, look you can do that better than I can. Here you are, there, it's on the little table, now you put the cups and saucers on it. 
+*CLA:	Ok, it doesn't matter they can stay  (  ) . 
+*HEL:	Go on, you can do those better than I can. 
+*CLA:	That, that goes in the middle. 
+*HEL:	There, but your trying to balance something that won't even balance properly. 
+*CLA:	Where's the other cup? 
+*HEL:	I don't know, have a look in the kitchen, can't really see. 
 @End

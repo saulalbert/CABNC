@@ -1,82 +1,82 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-19:  
 @Location:	 Woodhouse Hotel 
-@Situation:	 with friends 
-@Media: 021A-C0897X0286XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 with friends  
+@Media:	021A-C0897X0286XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , STU Stuart daughter's boyfriend
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|STU|~22;| |m|Ag1| |hairdresser|daughter's boyfriend|PS1ER|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|STU|22;|||||hairdresser|daughter's boyfriend|PS1ER|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0286XX-ABZZP0.wav
 @Comment:	conversation #28 (Tape 028604)
-*STU:	They do, don't they?
-*HER:	Yeah
-*UNK:	 (        ) 
-*STU:	Alright squire?
-*HER:	Alright squire
-*UNK:	 (        ) 
-*STU:	Eh? (.) No I don't know that lady over there 
-*UNK:	 (        ) 
-*STU:	Good evening Derek
-*UNK:	Good evening sir, like a pint?
-*STU:	Oh I wouldn't mind sir, thanks a lot, that's awfully kind of you.
-*UNK:	Would you like a pint of
-*UNK:	 (        ) 
-*STU:	Er, go on then if
-*UNK:	 (        ) 
-*STU:	Seventy shillings, oh that'll do.
-*UNK:	No it won't
-*IRI:	Think about it  ((laugh)) 
-*STU:	Yeah, I know I did.
-*UNK:	 (        ) 
-*STU:	Well it's not bad for seventy shillings   (.) see that
-*IRI:	Go on, come on,
-*UNK:	 (        ) 
-*STU:	It's one pound
-*UNK:	 (        ) 
-*STU:	Two pound, I beg your pardon
-*UNK:	 (        ) 
-*STU:	See that's why, it's his wife
-*IRI:	Oh have you,
-*UNK:	 (        ) 
-*STU:	Not that I know of, no
-*UNK:	 (        ) 
-*UNK:	What?
-*IRI:	Eh?
-*UNK:	 (        ) 
-*UNK:	Er one pound twenty
-*UNK:	 (        ) 
-*STU:	Bloody hell
-*UNK:	 (        ) 
-*HER:	I just get it settled then I'll give you the benefit of the doubt
-*UNK:	 (        ) 
-*STU:	I've been trying that for me stomach since I've came back
-*UNK:	 (        ) 
-*STU:	So you're saying
-*UNK:	 (        ) 
-*STU:	sorry
-*UNK:	 (        ) 
-*STU:	no, I've had er,
-*UNK:	 (        ) 
-*STU:	I had to go to the doctors, carrying on, outside everything
-*UNK:	 (        ) 
-*STU:	it's only there pal
-*HER:	I miss
-*UNK:	 (        ) 
-*STU:	You drop off when you're in
-*UNK:	 (        ) 
-*STU:	it might rain tomorrow don't it?I said it looks like rain tomorrow
-*UNK:	 (        ) 
-*HER:	Not bad
-*UNK:	 (        ) 
-*STU:	You got fluoride in this, in this to clean you teeth?
-*IRI:	I, ((laugh)) 
-*UNK:	 (        ) 
-*STU:	I think it's worse
-*UNK:	 (        )  (.)  (        )  (.) 
+*STU:	They do, don't they? 
+*HER:	Yeah 
+*UNK:	 (  ) 
+*STU:	Alright squire? 
+*HER:	Alright squire 
+*UNK:	 (  ) 
+*STU:	Eh?  (.) No I don't know that lady over there  
+*UNK:	 (  ) 
+*STU:	Good evening Derek 
+*UNK:	Good evening sir, like a pint? 
+*STU:	Oh I wouldn't mind sir, thanks a lot, that's awfully kind of you. 
+*UNK:	Would you like a pint of 
+*UNK:	 (  ) 
+*STU:	Er, go on then if 
+*UNK:	 (  ) 
+*STU:	Seventy shillings, oh that'll do. 
+*UNK:	No it won't 
+*IRI:	Think about it  ((laugh))  
+*STU:	Yeah, I know I did. 
+*UNK:	 (  ) 
+*STU:	Well it's not bad for seventy shillings   (.) see that 
+*IRI:	Go on, come on, 
+*UNK:	 (  ) 
+*STU:	It's one pound 
+*UNK:	 (  ) 
+*STU:	Two pound, I beg your pardon 
+*UNK:	 (  ) 
+*STU:	See that's why, it's his wife 
+*IRI:	Oh have you, 
+*UNK:	 (  ) 
+*STU:	Not that I know of, no 
+*UNK:	 (  ) 
+*UNK:	What? 
+*IRI:	Eh? 
+*UNK:	 (  ) 
+*UNK:	Er one pound twenty 
+*UNK:	 (  ) 
+*STU:	Bloody hell 
+*UNK:	 (  ) 
+*HER:	I just get it settled then I'll give you the benefit of the doubt 
+*UNK:	 (  ) 
+*STU:	I've been trying that for me stomach since I've came back 
+*UNK:	 (  ) 
+*STU:	So you're saying 
+*UNK:	 (  ) 
+*STU:	sorry 
+*UNK:	 (  ) 
+*STU:	no, I've had er, 
+*UNK:	 (  ) 
+*STU:	I had to go to the doctors, carrying on, outside everything 
+*UNK:	 (  ) 
+*STU:	it's only there pal 
+*HER:	I miss 
+*UNK:	 (  ) 
+*STU:	You drop off when you're in 
+*UNK:	 (  ) 
+*STU:	it might rain tomorrow don't it? I said it looks like rain tomorrow 
+*UNK:	 (  ) 
+*HER:	Not bad 
+*UNK:	 (  ) 
+*STU:	You got fluoride in this, in this to clean you teeth? 
+*IRI:	I, ((laugh))  
+*UNK:	 (  ) 
+*STU:	I think it's worse 
+*UNK:	 (  )  (.)  (  )  (.) 
 @End

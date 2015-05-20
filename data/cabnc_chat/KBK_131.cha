@@ -1,25 +1,25 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0025XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0025XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0025XX-ABZZP0.wav
 @Comment:	conversation #131 (Tape 002509)
-*NOR:	Did you ever decide whether you were going to go and do that course  (        ) .
-*CHR:	I've said no, hang on what's that?
-*NOR:	Why did you decide no?
-*CHR:	What, no, nothing to do with the Open University.
-*NOR:	Why did you decide not?
-*CHR:	I decided it was jolly expensive and eh, wasn't going to do what I felt I wanted it to do.
-*NOR:	What was it?What were you aiming to achieve?
-*CHR:	Confidence, public speaking, capability.
-*NOR:	 (        ) to look for something else then?
+*NOR:	Did you ever decide whether you were going to go and do that course  (  ) . 
+*CHR:	I've said no, hang on what's that? 
+*NOR:	Why did you decide no? 
+*CHR:	What, no, nothing to do with the Open University. 
+*NOR:	Why did you decide not? 
+*CHR:	I decided it was jolly expensive and eh, wasn't going to do what I felt I wanted it to do. 
+*NOR:	What was it? What were you aiming to achieve? 
+*CHR:	Confidence, public speaking, capability. 
+*NOR:	 (  ) to look for something else then? 
 @End

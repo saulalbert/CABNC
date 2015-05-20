@@ -1,673 +1,673 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-04-03:  
 @Location:	  at home and out  
-@Situation:	  taking children to school and bringing other children home in car  
-@Media: 021A-C0897X0690XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  taking children to school and bringing other children home in car   
+@Media:	021A-C0897X0690XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , ANN Ann self, JAM James husband, REB Rebecca friend, AMY Amy friend, MAT Matthew friend, RIC Richard friend, DOR Dorothy friend, BRY Bryony friend
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|ANN|~53;| |f|Ag4| |registered childminder||PS14B|
-@ID: eng|AudioBNC|JAM|~57;| |m|Ag4| |charge nurse|husband|PS14C|
-@ID: eng|AudioBNC|REB|~9;| |f|Ag0| |student|friend|PS14D|
-@ID: eng|AudioBNC|AMY|~8;| |f|Ag0| |student|friend|PS14E|
-@ID: eng|AudioBNC|MAT|~8;| |m|Ag0| |student|friend|PS14F|
-@ID: eng|AudioBNC|RIC|~6;| |m|Ag0| |student|friend|PS14H|
-@ID: eng|AudioBNC|DOR|~36;| |f|Ag3| |probation officer|friend|PS14L|
-@ID: eng|AudioBNC|BRY|~2;| |f|Ag0| |pre-school|friend|PS14N|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|ANN|53;|||||registered childminder||PS14B|
+@ID:	eng|AudioBNC|JAM|57;|||||charge nurse|husband|PS14C|
+@ID:	eng|AudioBNC|REB|9;|||||student|friend|PS14D|
+@ID:	eng|AudioBNC|AMY|8;|||||student|friend|PS14E|
+@ID:	eng|AudioBNC|MAT|8;|||||student|friend|PS14F|
+@ID:	eng|AudioBNC|RIC|6;|||||student|friend|PS14H|
+@ID:	eng|AudioBNC|DOR|36;|||||probation officer|friend|PS14L|
+@ID:	eng|AudioBNC|BRY|2;|||||pre-school|friend|PS14N|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0690XX-AAZZP0.wav
 @Comment:	conversation #4 (Tape 069004)
-*ANN:	Jim, there's a letter here   (.) addressed to Mrs S    (.) do you think it must be Shirley?It says inside your Sealink travellers cheques. (.) Why would Shirley use our address do you think?Unless they've sent for   (.) two lots and used   (.) used this address for one. [sighing] Right  [] .Er   (.) well I'll just put it up there.I better go. (.) Where are we?Right, see you shortly.Bye. ((going outside)) (.) Have you all got your lunch boxes.
-*RIC:	Me, me.
-*ANN:	Have you got everything Richard?Right.Okay, let's go.
-*RIC:	I have.Now you're   (.)  (        ) !
-*ANN:	Ooh!Should have 
-*BRY:	Ah!Ah!
-*ANN:	brought my umbrella I think.Look at the sky.
-*BRY:	Don't!
-*ANN:	Come along.Don't   (.) fiddle along in the middle 
-*RIC:	No!No!
-*ANN:	of the ro  (.) mind the puddle!Oh!
-*RIC:	Ah!Ah!
-*ANN:	You'll have soaking wet socks in school.
-*RIC:	I didn't notice it.
-*BRY:	Ann.
-*ANN:	What love?
-*BRY:	What's that thing?
-*ANN:	I'll let you see this. (.) Oh.Can you see this?
-*BRY:	Aha.
-*ANN:	Come on Twinkle. (.) You're losing your socks Rebecca.
-*RIC:	Rebecca, you're losing your socks.
-*ANN:	If you trip up with two hands in your pockets Amy, you'll have nothing to stop you falling on your nose.
-*AMY:	What?
-*RIC:	Amy.
-*ANN:	Where is she?
-*REB:	It'd be funny if she did fall on her nose.
+*ANN:	Jim, there's a letter here   (.) addressed to Mrs S     (.) do you think it must be Shirley? It says inside your Sealink travellers cheques.  (6.0) Why would Shirley use our address do you think? Unless they've sent for   (.) two lots and used   (.) used this address for one.  ((sighing)) Right . Er   (.) well I'll just put it up there. I better go.  (12.0) Where are we? Right, see you shortly. Bye.  ((going outside)) (10.0) Have you all got your lunch boxes. 
+*RIC:	Me, me. 
+*ANN:	Have you got everything Richard? Right. Okay, let's go. 
+*RIC:	 I have.  Now you're   (.)   (  ) ! 
+*ANN:	 Ooh!   Should have   
+*BRY:	 Ah! Ah! 
+*ANN:	brought my umbrella I think. Look at the sky. 
+*BRY:	Don't! 
+*ANN:	Come along. Don't   (.) fiddle along in  the middle   
+*RIC:	 No! No! 
+*ANN:	of the ro   (.) mind the puddle!  Oh! 
+*RIC:	 Ah! Ah! 
+*ANN:	You'll have soaking wet  socks in school. 
+*RIC:	 I didn't notice  it. 
+*BRY:	Ann. 
+*ANN:	What love? 
+*BRY:	What's that thing? 
+*ANN:	I'll let you see this.  (8.0) Oh. Can you see this? 
+*BRY:	Aha. 
+*ANN:	Come on Twinkle.  (8.0) You're losing your socks Rebecca. 
+*RIC:	Rebecca, you're losing your socks. 
+*ANN:	If you trip up with two hands in your pockets Amy, you'll have nothing to stop you falling on your nose. 
+*AMY:	What? 
+*RIC:	Amy. 
+*ANN:	Where is she? 
+*REB:	It'd be funny if she did fall on her nose. 
 *AMY:	 ((cough)) 
 *ANN:	 ((laugh)) 
-*REB:	She'll have a flat   (.) nose! ((laugh)) 
-*ANN:	A flat nose?
-*REB:	Like Miss    (.) if you don't do hard work you'll get a flat face!
-*AMY:	Yeah I know.No, I mean
-*REB:	She won't have a flat face, she'll have a flat nose. ((laugh)) 
-*AMY:	I mean, not likely.
-*ANN:	How do you get a flat face if you don't do hard work?
-*REB:	I don't know.And she's just joking with us to get   [laughing] us working  [] .
-*ANN:	Oh I see. (.) I see.
+*REB:	She'll have a flat   (.) nose! ((laugh))  
+*ANN:	A flat  nose? 
+*REB:	 Like  Miss     (.) if you don't do hard work you'll get a flat face! 
+*AMY:	Yeah I know. No, I mean 
+*REB:	She won't have a flat face, she'll have a flat nose. ((laugh))  
+*AMY:	I mean, not likely. 
+*ANN:	How do you get a flat face if you don't do hard work? 
+*REB:	I don't know. And she's just joking with us to get   ((laughing)) us working . 
+*ANN:	Oh I see.  (6.0) I see. 
 *REB:	 ((laugh)) 
-*ANN:	Er, stop here, we'll   (.) we'll cross here look.
-*AMY:	I wonder why she likes me?
-*ANN:	Right.Line up to cross the road.
-*RIC:	Aha!
-*AMY:	After school can we see the river again?
-*RIC:	Urgh!Urgh!
-*ANN:	Yes.Right, cross now.
-*AMY:	And see if the water has passed that line.
-*ANN:	Pardon?
-*AMY:	Can't wait to see if the water has passed  (        ) .
-*ANN:	Oh it   (.) those huge puddles along the path sometimes take ages to clear away.The weather man said dry today, look at it.Doesn't look as if it's going to be dry to me.
-*MAT:	Look!It's a little 
-*RIC:	I know.
-*MAT:	island. (        ) 
-*AMY:	 ((laugh))  (.) So I need to stay a bit later.
-*MAT:	After we've been to the river tonight?
-*AMY:	That's what I've just asked!Yes.
-*ANN:	Yes.You can have a look at the river toni it's right 
-*AMY:	He asked   (        ) 
-*ANN:	it's right down Matthew.
-*AMY:	He hasn't seen the river on a Saturday.
-*ANN:	I don't think it's time to go across now. (.) Cos it's er   (.) nearly nine o'clock. (.) That's not Dorothy's car, it   (.) no, it isn't.
-*MAT:	 (        ) 
-*ANN:	Mm?Who ran in front of a car?
-*MAT:	The new
-*REB:	 (        ) 
-*ANN:	Who?
-*MAT:	The new girl.
-*ANN:	The new girl in your class?Oh!Who's the new girl in your class?
-*MAT:	Dunno.
-*ANN:	Just stop here a minute.Look, there's a car reversing.Wait a minute till this car
-*RIC:	Why?
-*ANN:	gets out onto the road.
-*UNK:	Is it okay?
-*REB:	Bye Ann.See you tomorrow.
-*ANN:	Wait a minute 
-*RIC:	Bye.
-*ANN:	Rebecca you can't cross yet.
+*ANN:	Er, stop here, we'll   (.) we'll cross  here look. 
+*AMY:	 I wonder  why she likes me? 
+*ANN:	Right. Line up to cross the road. 
+*RIC:	Aha! 
+*AMY:	After school can we  see the river again? 
+*RIC:	 Urgh! Urgh! 
+*ANN:	Yes. Right, cross now. 
+*AMY:	 And see if  the water has passed that line. 
+*ANN:	Pardon? 
+*AMY:	Can't wait to see if the water has passed  (  ) . 
+*ANN:	Oh it   (.) those huge puddles along the path sometimes take ages to clear away. The weather man said dry today, look at it. Doesn't look as if it's going to be dry to me. 
+*MAT:	Look!  It's a little  
+*RIC:	 I know. 
+*MAT:	island. (  )  
+*AMY:	 ((laugh))  (.) So I need to stay a bit later. 
+*MAT:	After we've been to the river tonight? 
+*AMY:	That's what I've just asked!  Yes. 
+*ANN:	 Yes.  You can have a look at the  river toni  it's right   
+*AMY:	 He asked   (  )   
+*ANN:	it's right down Matthew. 
+*AMY:	He hasn't seen the river on a Saturday. 
+*ANN:	I don't think it's time to go across now.  (7.0) Cos it's er   (.) nearly nine o'clock.  (15.0) That's not Dorothy's car, it   (.) no, it isn't. 
+*MAT:	 (  ) 
+*ANN:	Mm? Who ran in front of a car? 
+*MAT:	The new 
+*REB:	 (  ) 
+*ANN:	Who? 
+*MAT:	The new girl. 
+*ANN:	The new girl in your class? Oh! Who's the new girl in your class? 
+*MAT:	Dunno. 
+*ANN:	Just stop here a minute. Look, there's a car reversing. Wait a minute till this car 
+*RIC:	Why? 
+*ANN:	gets out onto the road. 
+*UNK:	Is it okay? 
+*REB:	Bye Ann.  See you tomorrow. 
+*ANN:	 Wait a  minute   
+*RIC:	 Bye. 
+*ANN:	Rebecca you can't cross yet. 
 *REB:	 ((laugh)) 
-*ANN:	Is anyone going to decide which way the   (.) cars are   [laughing] going here  [] !
-*MAT:	She's in there, and then   (.) this one.
-*ANN:	Right.I can go, oh!
-*AMY:	Our car conked out on the way to school.
-*ANN:	Did it?Where?
-*AMY:	At   (.) in   (.) we'd just turned round the corner   (.) and it conked out.
-*ANN:	Oh!
-*AMY:	But we got it started again.
-*ANN:	Right, you can cross now.Bye 
-*GRO:	Bye!
-*ANN:	Amy!
-*GRO:	Bye!
-*ANN:	Bye Matthew.Bye 
-*GRO:	Bye!
-*ANN:	Rebecca.I'll come this way.I think   (.) they're just going in.
-*UNK:	Oh!
-*ANN:	Hello.
-*UNK:	Morning.
-*ANN:	 [shouting] Bye Richard  [] ! (.) Morning Cathy.Morning 
-*UNK:	Morning.
-*ANN:	Brenda. (.)  [sighing] Oh  [] !
-*UNK:	Hello.
-*ANN:	Hello!
-*UNK:	It's not a nice morning is it?
-*ANN:	It isn't. ((traffic noise))
-*UNK:	 (        ) 
-*ANN:	Hello everyone!
-*UNK:	I was listening to the radio!
-*ANN:	Were you?What did you hear?
-*BRY:	Er, just songs.Do you know 
-*ANN:	Pardon?
-*UNK:	what
-*ANN:	Songs?Wait a minute.Hold on!Hold on!
-*UNK:	You know what I hear on on the radio 
-*ANN:	There are no cars coming.Aha.
-*UNK:	cos she's in Scotland now.
-*ANN:	That's right.Well 
-*UNK:	And I got    (.)  (        ) 's coming.And I got 
-*ANN:	Have you?
-*UNK:	a badge with it.
-*ANN:	Oh!Yes.Well I'll see you tonight because I know granny 
-*UNK:	No!I'm not going!
-*ANN:	No, I know granny Jean's collecting you but granny 
-*UNK:	I'm not coming later  (        ) .
-*ANN:	Jean usually comes and stands beside me anyway.
-*UNK:	Oh yes.
-*ANN:	See you later pet.
-*UNK:	 (        ) 
-*UNK:	Give me a kiss.
-*ANN:	Go straight in cos they've just gone in.Bye-bye.
-*UNK:	Have a nice day dear.
-*UNK:	Hello.
-*ANN:	Hello.
-*UNK:	Ooh!
-*UNK:	Quickly!
-*ANN:	 [shouting] Bye Martin  [] !Hello.
-*UNK:	Oh hello.
-*UNK:	Off to see Jim?
-*ANN:	I am.Yes. (.) Hello.Ooh! ((sigh)) 
-*JAM:	What you doing?
-*ANN:	Er   (.) oh right. (.) There we are.
-*BRY:	 (        ) 
-*ANN:	A piece of paper.And how are all of you this morning?
-*UNK:	What?
-*ANN:	Is Bryony any better? (.) Oh!
-*DOR:	Yes.
-*ANN:	There we are.
-*DOR:	They're all home.
-*ANN:	Oh!There isn't much room.
-*DOR:	Not too bad at all.They all slept for twelve, nearly twelve hours Saturday 
-*ANN:	Wow!
-*DOR:	night.Yes.So all be 
-*ANN:	Aren't you good?Thank you.
-*BRY:	I, I've got up too early.
-*ANN:	You got up too early?
-*DOR:	No you didn't, you got up just right.
-*ANN:	No!You were very, very good mummy says.
-*DOR:	Ah, we were pleased daddy and I.
-*ANN:	I bet you were. ((laugh)) 
-*DOR:	 ((laugh))  (.) Well we've got up this morning we've, and I said to Trevor   (.) have the kids been up in the night?Cos I thought   (.) have I slept through everything 
-*BRY:	 (        ) 
-*DOR:	and er
+*ANN:	Is anyone going to decide which way the   (.) cars are   ((laughing)) going here ! 
+*MAT:	She's in there, and then   (.) this one. 
+*ANN:	Right. I can go, oh! 
+*AMY:	Our car conked out on the way to school. 
+*ANN:	Did it? Where? 
+*AMY:	At   (.) in   (.) we'd just turned round the corner   (.) and it conked out. 
+*ANN:	Oh! 
+*AMY:	But we got it started again. 
+*ANN:	Right, you can cross now.  Bye   
+*GRO:	 Bye! 
+*ANN:	Amy! 
+*GRO:	Bye! 
+*ANN:	Bye Matthew.  Bye   
+*GRO:	 Bye! 
+*ANN:	Rebecca. I'll come this way. I think   (.) they're just going in. 
+*UNK:	Oh! 
+*ANN:	Hello. 
+*UNK:	Morning. 
+*ANN:	 ((shouting)) Bye Richard !  (15.0) Morning Cathy.  Morning   
+*UNK:	 Morning. 
+*ANN:	Brenda.  (26.0)  ((sighing)) Oh ! 
+*UNK:	Hello. 
+*ANN:	 Hello! 
+*UNK:	 It's not  a nice morning is it? 
+*ANN:	It isn't. ((traffic noise)) 
+*UNK:	 (  ) 
+*ANN:	Hello  everyone! 
+*UNK:	 I was  listening to the radio! 
+*ANN:	Were you? What did you hear? 
+*BRY:	Er, just songs. Do you  know   
+*ANN:	 Pardon? 
+*UNK:	what 
+*ANN:	Songs? Wait a minute.  Hold on! Hold on! 
+*UNK:	 You know what I hear on   on the radio   
+*ANN:	 There are no cars coming.  Aha. 
+*UNK:	cos she's in Scotland now. 
+*ANN:	That's right.  Well   
+*UNK:	 And  I got    (.)  (  ) 's coming.  And I got   
+*ANN:	 Have you? 
+*UNK:	a badge with it. 
+*ANN:	Oh! Yes. Well I'll see you tonight because I know  granny   
+*UNK:	 No!  I'm not  going! 
+*ANN:	 No, I know  granny Jean's collecting you but granny   
+*UNK:	 I'm not coming later  (  ) . 
+*ANN:	Jean usually comes and stands beside me anyway. 
+*UNK:	Oh yes. 
+*ANN:	 See you later pet. 
+*UNK:	  (  )  
+*UNK:	Give me a kiss. 
+*ANN:	Go straight in cos they've just gone in. Bye-bye. 
+*UNK:	Have a nice day dear. 
+*UNK:	Hello. 
+*ANN:	Hello. 
+*UNK:	Ooh! 
+*UNK:	Quickly! 
+*ANN:	 ((shouting)) Bye Martin !  Hello. 
+*UNK:	 Oh  hello. 
+*UNK:	Off to see Jim? 
+*ANN:	I am. Yes.  (16.0) Hello. Ooh! ((sigh))  
+*JAM:	What you doing? 
+*ANN:	Er   (7.0) oh right.  (7.0) There we are. 
+*BRY:	 (  ) 
+*ANN:	A piece of paper. And how are all of you this morning? 
+*UNK:	What? 
+*ANN:	Is Bryony any better?  (6.0) Oh! 
+*DOR:	Yes. 
+*ANN:	There we are. 
+*DOR:	They're all home. 
+*ANN:	Oh! There isn't much room. 
+*DOR:	Not too bad at all. They all slept for twelve, nearly twelve hours  Saturday   
+*ANN:	 Wow! 
+*DOR:	night. Yes.  So all be   
+*ANN:	 Aren't you good?   Thank you. 
+*BRY:	 I, I've got  up too early. 
+*ANN:	You got up too early? 
+*DOR:	No you didn't, you got up just  right. 
+*ANN:	 No!  You were very, very good mummy says. 
+*DOR:	Ah, we were pleased daddy and I. 
+*ANN:	I bet you were. ((laugh))   
+*DOR:	  ((laugh))   (.) Well we've got up this morning we've, and I said to Trevor   (.) have the kids been up in the night? Cos I thought   (.) have I slept  through everything   
+*BRY:	  (  )  
+*DOR:	and er 
 *ANN:	 ((laugh)) 
-*DOR:	left him with the lot?But, no.
-*BRY:	 (        ) 
-*ANN:	Are they still alri 
-*DOR:	They got to bed at ten to seven, they were shattered.
-*ANN:	er   (.) well   (.) you had a busy day yesterday didn't you?This morning
-*BRY:	Mm.
-*ANN:	I'm going to go to the hairdressers   (.) so Jim's going to look after you.I won't be away very long.
-*DOR:	Say, that's fine.
-*BRY:	That's fine.
-*DOR:	Yes.
-*BRY:	Where's Jim go and   (        ) say?
-*ANN:	I'm going to the hairdressers, cos I usually go today don't I?
-*BRY:	No!
-*ANN:	But you're here today instead.So instead of going this afternoon I'm going this morning while Jim's at home before he goes to work.
-*BRY:	Oh I'm going to look after the house.
-*ANN:	You're going, you're 
-*DOR:	No, that's 
-*ANN:	going to look after Jim, how about that?
-*DOR:	Jim needs a lot of looking after.
+*DOR:	left him with the lot? But, no. 
+*BRY:	 (  ) 
+*ANN:	Are they  still alri    
+*DOR:	 They got  to bed at ten to seven, they were  shattered. 
+*ANN:	 er    (.) well   (.) you had a busy day yesterday didn't you? This morning 
+*BRY:	Mm. 
+*ANN:	I'm going to go to the hairdressers   (.) so Jim's going to look after you. I won't be away very long. 
+*DOR:	Say, that's fine. 
+*BRY:	That's  fine. 
+*DOR:	 Yes. 
+*BRY:	Where's Jim go and   (  )  say? 
+*ANN:	 I'm  going to the hairdressers, cos I usually go today don't I? 
+*BRY:	No! 
+*ANN:	But you're here today instead. So instead of going this afternoon I'm going this morning while Jim's at home before he goes to work. 
+*BRY:	Oh I'm going to look after the house. 
+*ANN:	You're  going, you're   
+*DOR:	 No, that's   
+*ANN:	going to look after Jim, how about that? 
+*DOR:	Jim needs a lot of looking after. 
 *ANN:	 ((laugh)) 
 *BRY:	 ((laugh)) 
-*ANN:	Right.Oh!Get this seat belt off 
-*BRY:	 (        ) 
-*ANN:	this
-*BRY:	 (        ) 
-*ANN:	car seat off my ni 
-*DOR:	 (        ) looking at him since half past nine and 
-*ANN:	Oh!
-*DOR:	 (        ) 
-*BRY:	 [singing]  (        )  [] 
-*DOR:	Now watch the puddles!No!Ah!Straight through the puddles in   (        ) 
-*ANN:	Oh dear!
-*DOR:	James!In this house!One
-*ANN:	 [laughing] Oh ho your  [] 
-*DOR:	two   (.) if I get to three I'm going to be cross!
-*ANN:	Come along Richard.Your brother's being naughty, he's run away up the street look!Where's Bryony?Oh sta Bryony stay there, I'll lift you over the puddle.Don't come through it.
-*RIC:	Jump over the puddle.
-*ANN:	Right Richard.Wait a minute.
-*DOR:	Right.In this house this time 
-*ANN:	No, you're not going to run away!
-*DOR:	so you can and see Jim.
-*ANN:	Come and see Jim.
-*DOR:	 (        ) your bottom.
-*UNK:	Yes!
-*DOR:	In you go.
-*ANN:	You go to mummy while I close the other car door look.
-*DOR:	And I'll er
-*UNK:	 (        ) 
-*DOR:	Go!In!Why don't you 
-*ANN:	In you go.
-*DOR:	get in.Do you want to get a smack bottom?
-*ANN:	In you go.Go and find Jim can you?
-*DOR:	Just stop running away! (.) I'll, I'm not chasing after him  (        ) . (        ) 
-*ANN:	Cathy   (.) Dorothy   (.) James   (.) You've decided to come back have you Ja er we  (.)  ((laugh))  (.) Got you!Aargh!You thought you were going to escape!Didn't you?
-*UNK:	I'm  (        ) 
-*ANN:	Get in that house!
-*UNK:	I'll fall.
-*ANN:	Wipe your feet.Clever boy.
-*UNK:	Who is that?
-*ANN:	Wipe your feet.Feet wiped.Come on.Wipe your feet.
-*UNK:	Ah!
-*ANN:	Er, feet wiped please.Clever boy.Show me how you do it.Com oh!Very, very good.Oh!Very good indeed.There we are.In you go, find Jim.Go and say good morning to Jim. (.) Have you said good morning Jim?
-*UNK:	Where, where's this letter?
-*JAM:	Go and say hello.
-*ANN:	Where's what letter?
+*ANN:	Right. Oh!  Get this seat belt off   
+*BRY:	  (  )  
+*ANN:	this 
+*BRY:	 (  ) 
+*ANN:	 car seat off my ni    
+*DOR:	  (  )  looking at him since half past nine  and   
+*ANN:	 Oh! 
+*DOR:	 (  ) 
+*BRY:	 ((singing))  (  ) 
+*DOR:	Now watch the puddles! No! Ah! Straight through the puddles in    (  )   
+*ANN:	 Oh dear! 
+*DOR:	James! In this house! One 
+*ANN:	 ((laughing)) Oh ho your  
+*DOR:	two   (.) if I get to three I'm going to be cross! 
+*ANN:	Come along Richard. Your brother's being naughty, he's run away up the street look! Where's Bryony? Oh sta  Bryony stay there, I'll lift you over the puddle.  Don't come through it. 
+*RIC:	 Jump over the puddle. 
+*ANN:	Right Richard. Wait a minute. 
+*DOR:	Right.  In this house this time   
+*ANN:	 No, you're not  going to run away! 
+*DOR:	so you can and see Jim. 
+*ANN:	 Come and see Jim. 
+*DOR:	  (  )  your bottom. 
+*UNK:	Yes! 
+*DOR:	In you go. 
+*ANN:	You go to mummy while I close the other car door look. 
+*DOR:	And I'll er 
+*UNK:	 (  ) 
+*DOR:	Go! In!  Why don't you   
+*ANN:	 In you go. 
+*DOR:	get in. Do you want to get a smack bottom? 
+*ANN:	In you go. Go and find Jim can you? 
+*DOR:	Just stop running away!  (6.0) I'll, I'm not chasing after him  (  ) . (  )  
+*ANN:	Cathy   (.) Dorothy   (7.0) James   (.) You've decided to come back have you Ja  er we   (.)  ((laugh))  (.) Got you! Aargh! You thought you were going to escape! Didn't you? 
+*UNK:	I'm  (  )  
+*ANN:	Get in that house! 
+*UNK:	I'll fall. 
+*ANN:	Wipe your feet. Clever boy. 
+*UNK:	Who is  that? 
+*ANN:	 Wipe  your feet. Feet wiped. Come on. Wipe your feet. 
+*UNK:	Ah! 
+*ANN:	Er, feet wiped please. Clever boy. Show me how you do it. Com  oh! Very, very good. Oh! Very good indeed. There we are. In you go, find Jim. Go and say good morning to Jim.  (9.0) Have you said good morning Jim? 
+*UNK:	Where, where's this letter? 
+*JAM:	Go and say hello. 
+*ANN:	Where's what letter? 
 *BRY:	 ((cough)) 
-*UNK:	I'm doing a picture.
-*ANN:	You're doing a picture are you?
-*BRY:	There.You're at work 
-*UNK:	And I've erm   (.) a letter to draw.
-*ANN:	you're at work already.
-*BRY:	Er, you're very nicely, you're very 
-*UNK:	And I have a letter to draw.
-*BRY:	nicely.
-*ANN:	You're doing it very nicely.She's drawing a picture mummy, very nicely.
-*DOR:	Right.Well the thing 
-*ANN:	What are you doing Richard?
-*DOR:	the thing I'm gonna concentrate on with you now is sto to stop you running away.
-*BRY:	Mine!It's mine!
-*DOR:	So, that's what you're going to be getting 
-*BRY:	That's mine!
-*DOR:	smacked bottoms for now.
-*BRY:	That's mine!
-*DOR:	Not much else, just running away.
-*ANN:	It's what, Bryony?
-*BRY:	It's
-*ANN:	It's what?
-*BRY:	 (        ) 
-*UNK:	A I've drawed a letter.
-*BRY:	That's that  (        ) .It's that one.
-*ANN:	That's that one.Yes.What are you drawing?
-*DOR:	What are you doing?
-*BRY:	I'm doing a picture.
-*ANN:	Yes, but what a what 
-*UNK:	Mummy, I'm drawing a 
-*ANN:	are you drawing a picture of?
-*BRY:	Mm.A picture.
-*UNK:	I, I'm drawing, we've drawn a circle.
-*ANN:	You've drawn a circle.
-*UNK:	Mm.We, we're drawing that.
-*BRY:	I'm drawing a picture.
-*UNK:	I've
-*ANN:	You're drawing a circle as well.
-*GRO:	 (        ) 
-*ANN:	What colour is this circle?
-*UNK:	Erm, wait till I've done, I haven't drawn it.
-*BRY:	I've done a orange circle.
-*ANN:	You've drawn a 
-*DOR:	 (        ) 
-*ANN:	Yes, that's right.That's 
-*BRY:	Yeah.
-*ANN:	orange.That's an orange circle.
-*DOR:	Could you give these to Trevor to go on the buggy tonight please?
-*ANN:	Oh yes.
-*DOR:	Cos he's
-*ANN:	Right.
-*DOR:	collecting them.
-*JAM:	Cor!
-*ANN:	Will 
-*DOR:	And 
-*UNK:	Ann.
-*ANN:	I put 
-*DOR:	I've got them   (        ) for, for er, see if 
-*ANN:	Put those 
-*DOR:	they've been a pain.
-*ANN:	at that end look.Yeah.
-*UNK:	Look at our picture!
-*DOR:	It's erm 
-*JAM:	That's a beautiful picture James!
-*DOR:	I have to freeze it, er defrost it in the kitchen 
-*UNK:	 (        ) 
-*DOR:	the night   (        ) 
-*UNK:	 (        ) 
-*JAM:	You've 
-*ANN:	Right.
-*JAM:	drawn me a 
-*ANN:	No problem.
-*JAM:	bee!Was it
-*ANN:	No problem.
-*JAM:	 (        ) ?
-*UNK:	 (        ) !
-*BRY:	Nearly
-*DOR:	And Martin   (.) you remembered 
-*UNK:	It's just there.
-*DOR:	going to his mum's 
-*UNK:	I'll do it again.
-*ANN:	Yes.
-*DOR:	 (        ) 
-*JAM:	And James did it?Well you're very clever 
-*ANN:	She, cos she 
-*JAM:	boys!
-*RIC:	No.Ah.
-*ANN:	when she's been at the school gate, she comes 
-*BRY:	What's this?
-*ANN:	and stands with me anyway usually 
-*BRY:	What colour is this?
-*ANN:	so I'll see her.
-*JAM:	Mm.What?
-*GRO:	 (        ) 
-*ANN:	Why?
-*JAM:	So, if you put it up there  (        ) .
-*DOR:	 (        ) 
-*ANN:	There you are.
-*JAM:	Okay?There you are.
-*DOR:	I wonder what's brought this change of heart?
-*BRY:	You have that.
-*UNK:	Mummy, see what she needs.
-*ANN:	What time have you to be in   (.) Clackmannan?
-*DOR:	Two o'clock.But I've gotta go 
-*ANN:	Oh.
-*DOR:	back into the  (        ) .
-*ANN:	Aha.
-*JAM:	The er   (.) the roads up   (.) right up to Ashington is   (.) closed.
-*GRO:	 (        ) 
-*DOR:	I wonder if I'll get o  (.) through Longhurst okay?
-*JAM:	Well you should do, but it never mentions that.
-*DOR:	I'm wondering whether to go the A one way, or Longhurst way.I mean, there's no easy way to get there.
-*JAM:	Th they never mentioned 
-*UNK:	You have that.
-*BRY:	And you have those.
-*ANN:	Well, there's no, well there is a  (.) there is a bit between   (.) er, Ocken and er   (.) Widdrington isn't there?There's quite a bit 
-*DOR:	Yeah.
-*JAM:	there.
-*DOR:	I'll go the A one way I think.
-*ANN:	Aha.
-*JAM:	But they've mentioned that   (.) but it was 
-*ANN:	You've made clean 
-*JAM:	but it was quite funny yesterday when I went to 
-*ANN:	Let's have a look.
-*JAM:	Ashington.
-*DOR:	Yeah.
-*ANN:	Oh!You have done green and red, yes.
-*JAM:	No, but they never mentioned
-*ANN:	That's a beautiful picture!
-*DOR:	He's brought Goldilocks Ann, erm   (.) can he bring it home please because he reads it at night before he goes to bed.And if he doesn't he goes mad!
-*RIC:	I read, I went   (        ) 
-*DOR:	Cos that's his favourite book.
-*ANN:	Oh!You should have left your Goldilocks at home and just choosed mine.
-*DOR:	Oh!You see 
-*RIC:	Mm.
-*ANN:	And then we wouldn't, you wouldn't forget.
-*RIC:	I wanna read this one.
-*DOR:	He feels a bit at grief cos he didn't 
-*RIC:	I didn't 
-*UNK:	That one.
-*DOR:	James had an extra Goldilocks 
-*JAM:	Oh dear me!
-*DOR:	story yesterday, last night.
-*JAM:	Let's have your picture.
-*ANN:	Because what?
-*DOR:	James had an extra Goldilocks story 
-*JAM:	Right, the tissues?
-*DOR:	yesterday so he's brought it with him, it's Ja it's his book!
-*ANN:	Oh I see.
-*JAM:	Where are the tissues?
-*ANN:	Is that your book today?The tissues?In the kitchen I think.
-*GRO:	 (        ) 
-*ANN:	What time
-*RIC:	And, and use the, use
-*JAM:	Billy Goats Gruff.
-*RIC:	and use the   (        ) your home.
-*JAM:	Upstairs   (        ) Billy Goats Gruff Ann?
-*RIC:	A and, erm 
-*ANN:	Pardon?
-*JAM:	I'm talking to  (        ) .
-*GRO:	 (        ) 
-*ANN:	The Three Billy Goats Gruff?
-*JAM:	Where will it be?
-*ANN:	I don't know where it   (.) it should be
-*JAM:	You've got a runny nose Richard.
-*DOR:	Give us a kiss bye-bye.
-*ANN:	The Three Billy Goats Gruff 
-*DOR:	Yeah I know that.
-*ANN:	should be with all the books.I read it to them yesterday afternoon.We practised didn't we?
-*JAM:	I don't know.You
-*ANN:	Cos when we went to nursery yesterday morning Jim, all the children 
-*UNK:	Mine!
-*ANN:	sat on the floor for this story.
-*BRY:	Erm!
-*UNK:	Mine!
-*JAM:	 (        ) 
-*ANN:	And these three wouldn't cos they're used to sitting on the chair arm.Aren't you?But we, we'd better practise sitting on the floor for stories, so that you're ready for nursery when you go 
-*JAM:	Have to sit on the floor.
-*DOR:	Well if practise that 
-*ANN:	properly in May.
-*DOR:	I'll practise them not running off!
+*UNK:	I'm doing a picture. 
+*ANN:	You're doing a picture are you? 
+*BRY:	There.  You're at work   
+*UNK:	 And I've erm    (.) a letter to draw. 
+*ANN:	you're at work already. 
+*BRY:	Er, you're  very nicely, you're very   
+*UNK:	 And I have a letter to draw. 
+*BRY:	nicely. 
+*ANN:	You're doing it very nicely. She's drawing a picture mummy, very nicely. 
+*DOR:	Right.  Well the thing   
+*ANN:	 What are  you doing Richard? 
+*DOR:	the thing I'm gonna concentrate on with you now is sto  to stop you running away. 
+*BRY:	Mine! It's mine! 
+*DOR:	So, that's what you're  going to be getting   
+*BRY:	 That's mine! 
+*DOR:	smacked bottoms for now. 
+*BRY:	That's mine! 
+*DOR:	Not much else, just running away. 
+*ANN:	 It's what, Bryony? 
+*BRY:	It's 
+*ANN:	It's what? 
+*BRY:	 (  ) 
+*UNK:	A   I've drawed a letter. 
+*BRY:	 That's that  (  ) .  It's that one. 
+*ANN:	That's that one. Yes. What are you drawing? 
+*DOR:	What  are you doing? 
+*BRY:	 I'm doing a  picture. 
+*ANN:	Yes, but what a  what   
+*UNK:	 Mummy, I'm drawing a   
+*ANN:	are you drawing a picture of? 
+*BRY:	Mm. A picture. 
+*UNK:	I, I'm drawing, we've drawn a circle. 
+*ANN:	You've drawn a circle. 
+*UNK:	Mm. We, we're drawing that. 
+*BRY:	 I'm drawing a picture. 
+*UNK:	I've 
+*ANN:	You're drawing a circle as well. 
+*GRO:	 (  ) 
+*ANN:	What colour is this circle? 
+*UNK:	Erm, wait till I've done, I haven't drawn it. 
+*BRY:	I've done a orange circle. 
+*ANN:	 You've drawn a   
+*DOR:	  (  )  
+*ANN:	Yes, that's right.  That's   
+*BRY:	 Yeah. 
+*ANN:	orange. That's an orange circle. 
+*DOR:	Could you give these to Trevor to go on the buggy tonight  please? 
+*ANN:	 Oh yes. 
+*DOR:	Cos he's 
+*ANN:	 Right. 
+*DOR:	 collecting  them. 
+*JAM:	Cor! 
+*ANN:	 Will   
+*DOR:	 And   
+*UNK:	 Ann. 
+*ANN:	 I put   
+*DOR:	 I've got  them   (  ) for, for er, see if   
+*ANN:	 Put those   
+*DOR:	they've been a pain. 
+*ANN:	at that end look. Yeah. 
+*UNK:	Look at  our picture! 
+*DOR:	 It's erm   
+*JAM:	That's a  beautiful picture James! 
+*DOR:	 I have to freeze it, er defrost it in the  kitchen   
+*UNK:	  (  )  
+*DOR:	the night    (  )   
+*UNK:	  (  )  
+*JAM:	 You've   
+*ANN:	 Right. 
+*JAM:	 drawn me a   
+*ANN:	 No problem. 
+*JAM:	bee! Was it 
+*ANN:	 No problem. 
+*JAM:	  (  ) ? 
+*UNK:	 (  ) ! 
+*BRY:	Nearly 
+*DOR:	And Martin   (.) you  remembered   
+*UNK:	 It's just  there. 
+*DOR:	 going to his mum's   
+*UNK:	 I'll do it again. 
+*ANN:	Yes. 
+*DOR:	  (  )  
+*JAM:	 And James did it?   Well you're very clever   
+*ANN:	 She, cos she   
+*JAM:	boys! 
+*RIC:	No. Ah. 
+*ANN:	when she's been at the school gate, she comes   
+*BRY:	 What's this? 
+*ANN:	and stands with me  anyway usually   
+*BRY:	 What colour is this? 
+*ANN:	so I'll see her. 
+*JAM:	Mm. What? 
+*GRO:	 (  ) 
+*ANN:	 Why? 
+*JAM:	 So, if you  put it up there  (  ) . 
+*DOR:	  (  )  
+*ANN:	There you are. 
+*JAM:	Okay?  There you are. 
+*DOR:	 I wonder what's  brought this change of heart? 
+*BRY:	You have that. 
+*UNK:	Mummy, see what she needs. 
+*ANN:	What time have you to be in   (.) Clackmannan? 
+*DOR:	Two o'clock. But I've gotta  go   
+*ANN:	 Oh. 
+*DOR:	back into the  (  ) . 
+*ANN:	Aha. 
+*JAM:	The er   (.) the roads up   (.) right up to Ashington is   (.) closed. 
+*GRO:	 (  ) 
+*DOR:	I wonder if I'll get o   (.) through Longhurst okay? 
+*JAM:	Well you should do, but it never mentions that. 
+*DOR:	I'm wondering whether to go the A one way, or Longhurst way. I mean, there's no easy way to get there. 
+*JAM:	 Th  they never mentioned   
+*UNK:	 You have that. 
+*BRY:	And you have  those. 
+*ANN:	 Well, there's no, well there is a   (.) there is a bit between   (.) er, Ocken and er   (.) Widdrington isn't there? There's quite  a bit  
+*DOR:	 Yeah. 
+*JAM:	there. 
+*DOR:	I'll go the A one way I think. 
+*ANN:	Aha. 
+*JAM:	But they've mentioned that   (.)  but it was   
+*ANN:	 You've made clean   
+*JAM:	but it was quite funny yesterday  when I went to   
+*ANN:	 Let's have a look. 
+*JAM:	Ashington. 
+*DOR:	Yeah. 
+*ANN:	Oh! You have done green  and red, yes. 
+*JAM:	 No, but they never  mentioned 
+*ANN:	That's a beautiful picture! 
+*DOR:	He's brought Goldilocks Ann, erm   (.) can he bring it home please because he reads it at night before he goes to bed. And if he doesn't  he goes mad! 
+*RIC:	 I read, I went   (  )   
+*DOR:	 Cos that's his favourite book. 
+*ANN:	Oh! You should have left your Goldilocks at home and just choosed mine. 
+*DOR:	Oh! You  see   
+*RIC:	 Mm. 
+*ANN:	And then we wouldn't, you wouldn't forget. 
+*RIC:	 I wanna read  this one. 
+*DOR:	He feels a bit at grief  cos he didn't   
+*RIC:	 I didn't   
+*UNK:	That one. 
+*DOR:	James had an extra  Goldilocks   
+*JAM:	 Oh dear me! 
+*DOR:	story yesterday, last night. 
+*JAM:	 Let's have your  picture. 
+*ANN:	Because what? 
+*DOR:	James had an extra  Goldilocks story   
+*JAM:	 Right, the tissues? 
+*DOR:	yesterday so he's brought it with him, it's Ja  it's his book! 
+*ANN:	Oh I see. 
+*JAM:	Where are the  tissues? 
+*ANN:	 Is that  your book today? The tissues? In the kitchen I think. 
+*GRO:	 (  ) 
+*ANN:	What time 
+*RIC:	And, and use the, use 
+*JAM:	Billy Goats Gruff. 
+*RIC:	and use the    (  ) your home. 
+*JAM:	 Upstairs   (  )  Billy Goats Gruff Ann? 
+*RIC:	A  and, erm   
+*ANN:	 Pardon? 
+*JAM:	I'm talking to  (  ) . 
+*GRO:	 (  ) 
+*ANN:	The Three Billy Goats Gruff? 
+*JAM:	Where will it be? 
+*ANN:	I don't know where it   (.) it should be 
+*JAM:	You've got a runny nose Richard. 
+*DOR:	Give us a kiss bye-bye. 
+*ANN:	The Three  Billy Goats Gruff   
+*DOR:	 Yeah I know that. 
+*ANN:	should be with all the books. I read it to them yesterday afternoon. We practised didn't we? 
+*JAM:	I don't know. You 
+*ANN:	Cos when we went to nursery yesterday morning Jim, all the  children   
+*UNK:	 Mine! 
+*ANN:	sat on the floor for this story. 
+*BRY:	Erm! 
+*UNK:	Mine! 
+*JAM:	  (  )  
+*ANN:	 And these three wouldn't cos they're used to sitting on the chair arm.  Aren't you? But we, we'd better practise sitting on the floor for stories, so that you're ready for nursery  when you go   
+*JAM:	 Have to sit  on the floor. 
+*DOR:	Well if  practise that   
+*ANN:	 properly in May. 
+*DOR:	I'll practise them not running off! 
 *ANN:	 ((laugh)) 
-*BRY:	I wanna see those  (        ) !
-*DOR:	Right, well give us a kiss bye-bye then.
-*RIC:	No.
-*DOR:	See you tomorrow.
-*UNK:	 (        )  (        ) trousers.
-*ANN:	Oh no Ja oh!
-*JAM:	It's alright cos Ann's   (        ) 
-*DOR:	Bye-bye.
-*JAM:	Come and see what Ann's got.
-*ANN:	James this ho this hole in the corner near the 
-*RIC:	Bye-bye.
-*ANN:	door is being stuffed 
-*JAM:	Ta-ta mummy.
-*ANN:	with all kinds of things!I bet that's where half my crayons are.
-*UNK:	Yes, it's in the front room.
-*JAM:	Yes, it's in the front room.
-*ANN:	Look, no Richard!I don't want things stuffing down that hole.Put it in the bin.Clever boy.
-*GRO:	 (        ) 
-*ANN:	Come and say bye-bye to mummy, look, cos she's in a hurry.
-*RIC:	I want to come with you.
-*JAM:	Yes, well say tarrah to mummy first then.
-*ANN:	Come, are you coming to the door?
-*RIC:	Well I'll, I'll just   (        ) 
-*ANN:	Well pu i alright put it in the bin quickly, then come and say bye-bye to mummy.Hurry up.Hurry up!Hurry up!Diddle ee dee dee!That's it.
-*JAM:	 (        ) go and say tarrah to mummy.
-*UNK:	Er, no!
-*ANN:	 [laughing] Oh ho  [] !
-*DOR:	 [laughing] James doesn't!Oh ho  [] !
-*ANN:	Oh!What a polite boy.
-*DOR:	I know.
-*JAM:	Bye-bye mummy.
-*UNK:	 ((crying)) 
-*DOR:	Go on then, give me a   (        ) 
-*UNK:	No!
-*DOR:	I've got to open that without that in.
-*JAM:	Tarrah mummy!
-*DOR:	Bye-bye! (        ) 
-*RIC:	I want Beethoven music.We want Beethoven!
-*JAM:	You want Beethoven music?
-*ANN:	You want Beethov 
-*JAM:	Oh alright.
-*RIC:	I want  (        ) !
-*ANN:	Who wants Beethoven music?
-*JAM:	Richard and James.
-*ANN:	Oh right, if 
-*BRY:	Richard and James.
-*ANN:	alright you can have Beethoven music.I'm going to go and wave to your mummy, seeing as no one else will!
-*RIC:	She's gone, mummy.
-*ANN:	Horrible lot! (.) I'll wave   [laughing] to you  [] .
-*DOR:	Oh!
-*ANN:	They're too busy   (.) jumping around wanting Beethoven music.
-*DOR:	 (        ) 
+*BRY:	I wanna see those  (  ) ! 
+*DOR:	Right, well give us a kiss bye-bye then. 
+*RIC:	No. 
+*DOR:	 See you tomorrow. 
+*UNK:	  (  )   (  ) trousers. 
+*ANN:	Oh no Ja  oh! 
+*JAM:	It's alright cos Ann's    (  )   
+*DOR:	 Bye-bye. 
+*JAM:	Come and  see what Ann's got. 
+*ANN:	 James this ho   this hole in the corner  near the   
+*RIC:	 Bye-bye. 
+*ANN:	door  is being stuffed   
+*JAM:	 Ta-ta mummy. 
+*ANN:	with all kinds of things! I bet that's where half  my crayons are. 
+*UNK:	 Yes, it's in  the front room. 
+*JAM:	Yes, it's in the front room. 
+*ANN:	Look, no Richard! I don't want things stuffing down that hole. Put it in the bin. Clever boy. 
+*GRO:	 (  ) 
+*ANN:	Come and say bye-bye to mummy, look, cos she's in a hurry. 
+*RIC:	I want to come with you. 
+*JAM:	Yes, well say tarrah to mummy first  then. 
+*ANN:	 Come, are you coming to the door? 
+*RIC:	Well I'll, I'll just    (  )   
+*ANN:	 Well pu  i   alright put it in the bin quickly, then come and say bye-bye to mummy. Hurry up. Hurry up! Hurry up! Diddle ee dee dee! That's it. 
+*JAM:	 (  ) go and say tarrah to mummy. 
+*UNK:	Er, no! 
+*ANN:	  ((laughing)) Oh ho ! 
+*DOR:	  ((laughing)) James doesn't!  Oh ho ! 
+*ANN:	Oh! What a polite boy. 
+*DOR:	I know. 
+*JAM:	Bye-bye  mummy. 
+*UNK:	  ((crying))  
+*DOR:	Go on then, give me a    (  )   
+*UNK:	 No! 
+*DOR:	I've got to open that without  that in. 
+*JAM:	 Tarrah  mummy! 
+*DOR:	Bye-bye! (  )   
+*RIC:	 I want Beethoven  music. We want Beethoven! 
+*JAM:	You want Beethoven  music? 
+*ANN:	 You  want Beethov   
+*JAM:	 Oh alright. 
+*RIC:	 I want   (  ) ! 
+*ANN:	Who wants Beethoven music? 
+*JAM:	Richard and James. 
+*ANN:	 Oh right, if   
+*BRY:	 Richard and  James. 
+*ANN:	alright you can have Beethoven music. I'm going to go and wave to your mummy, seeing as no one else will! 
+*RIC:	She's gone, mummy. 
+*ANN:	Horrible lot!  (7.0) I'll wave   ((laughing)) to you . 
+*DOR:	Oh! 
+*ANN:	They're too busy   (.) jumping around wanting Beethoven music. 
+*DOR:	 (  ) 
 *ANN:	 ((laugh)) 
-*DOR:	I wonder if   (        ) up to them you know.
-*ANN:	 ((laugh))  (.) Well they don't like Elvis.
-*DOR:	No they don't.
-*ANN:	James doesn't anyway.He switched it off. (.) Are you staying at your mum's tonight?
-*DOR:	No.I'm staying at Christopher's.
-*ANN:	Oh.Aha.
-*DOR:	She's not been any more so   (.) I'll have to go round to  (        ) .
-*ANN:	Aha.
-*DOR:	And then he'll be  (        ) .
-*ANN:	How long's your mother going to stay?
-*DOR:	Few weeks.
-*ANN:	 ((laugh))  (.)  [laughing] Don't look like that  [] !
-*DOR:	Well
-*ANN:	Oh!
-*DOR:	But the thing is, my mum's an and, and Trevor's Aunty Edna have started writing to each other and have become friends   (.) so we'll see you again at Christmas    (.)  [laughing] she'll say to aunty Edna  [] !So they've both invited themselves again.
-*ANN:	Oh!God!
-*DOR:	 ((laugh))  (.) And my mum's going to   (.) on holiday to Wales   (.) she thinks, this summer
-*ANN:	Aha.
-*DOR:	which I'm really pleased about cos she's never done that before in Wales.
-*ANN:	Yes.
-*DOR:	But she might be going with a friend, and I think she's planning on meeting up with Aunty Edna.So it's gonna be a conspiracy against him.
-*ANN:	Aunty Edna's Trevor's Aunty Edna i that's right
-*DOR:	Yes.
-*ANN:	yes.Oh well.
-*DOR:	But they're lovely separately. (.) Put them together, and I think we've lost out.
-*ANN:	 ((laugh))  (.) Oh well. ((car starting))
-*DOR:	Martin still calls her Aunty Yakky Da!
-*ANN:	O hang on, I can't hear you.What?
-*DOR:	Martin still calls her Aunty Yakky Da. ((laugh)) 
-*ANN:	Aunty Yakky Da! ((laugh))  (.) Yakky Da! ((laugh))  (.) Right.I'll see you on
-*DOR:	Monday.
-*ANN:	Monday.Bye!
-*DOR:	Bye!
-*BRY:	We, we just   (.) we, we're having a look at Beethoven's music!
-*ANN:	Yo you're not having a look at Beethoven music, you're listening to Beethoven music.
-*BRY:	We're lis we're listening. ((music))
-*JAM:	And then they want Mozart music on they said.
-*ANN:	Who wants Mozart?
-*RIC:	After, after
-*JAM:	Richard.
-*RIC:	Beethoven's
-*JAM:	did.
-*ANN:	After Beethoven, what?
-*GRO:	 (        ) 
-*ANN:	You want Mozart music do you?
-*RIC:	After Beethoven.
-*ANN:	I see.
-*BRY:	Me ee!
-*UNK:	And er, and  (        ) .
-*ANN:	And Bryony's going to play the piano at the same time 
-*RIC:	Yeah.No.
-*ANN:	is she?
-*BRY:	He says he's gonna
-*ANN:	Pardon?
-*RIC:	Ah, I am.
-*JAM:	Those begonias are doing quite well now look.
-*ANN:	Ooh yes!They've sprouted up.
-*RIC:	That's erm   (.) Billy Goat Gruff.
-*UNK:	 (        )  (        ) 
-*ANN:	Richard, what?Yes.That's Billy Goat Gruff.Look at these begonias!
-*RIC:	Oh! (        ) !
-*BRY:	I want to see the Billy Goat Gruff.
-*ANN:	They're growing bigger aren't they?
-*BRY:	Billy Goat Gruff.
-*JAM:	Mind the door darling.
-*ANN:	I think that umbrella tree's going to have to be thrown out.
-*GRO:	 (        )  ((music))
-*RIC:	 (        ) 
-*BRY:	Hello!Anna!
-*ANN:	Hello Bryony!
-*BRY:	Look!
-*JAM:	Come on.You can come and   (        ) 
-*ANN:	Yes, I'm in here as well.
-*GRO:	 (        )  ((piano music))
-*JAM:	What d'ya have 
+*DOR:	I wonder if   (  ) up to them you know. 
+*ANN:	 ((laugh))  (7.0) Well they don't like Elvis. 
+*DOR:	No they don't. 
+*ANN:	James doesn't anyway. He switched it off.  (8.0) Are you staying at your mum's tonight? 
+*DOR:	No. I'm staying at Christopher's. 
+*ANN:	Oh. Aha. 
+*DOR:	She's not been any more so   (.) I'll have to go round to  (  ) . 
+*ANN:	Aha. 
+*DOR:	And then he'll be  (  ) . 
+*ANN:	How long's your mother going to stay? 
+*DOR:	Few weeks. 
+*ANN:	 ((laugh))  (.)  ((laughing)) Don't look like that ! 
+*DOR:	Well 
+*ANN:	Oh! 
+*DOR:	But the thing is, my mum's an  and, and Trevor's Aunty Edna have started writing to each other and have become friends   (.) so we'll see you again at Christmas    (.)  ((laughing)) she'll say to aunty Edna ! So they've both invited themselves again. 
+*ANN:	Oh! God! 
+*DOR:	 ((laugh))  (.) And my mum's going to   (.) on holiday to Wales   (.) she thinks, this summer 
+*ANN:	 Aha. 
+*DOR:	 which  I'm really pleased about cos she's never done that before in  Wales. 
+*ANN:	 Yes. 
+*DOR:	But she might be going with a friend, and I think she's planning on meeting up with Aunty Edna. So it's gonna be a conspiracy against him. 
+*ANN:	Aunty Edna's Trevor's Aunty Edna i  that's right 
+*DOR:	Yes. 
+*ANN:	yes.  Oh well. 
+*DOR:	 But they're  lovely separately.  (7.0) Put them together, and I think we've lost out. 
+*ANN:	 ((laugh))  (.) Oh well. ((car starting)) 
+*DOR:	Martin still calls her Aunty Yakky Da! 
+*ANN:	O  hang on, I can't hear you. What? 
+*DOR:	Martin still calls her Aunty Yakky Da. ((laugh))   
+*ANN:	 Aunty Yakky Da!   ((laugh))  (.) Yakky Da!  ((laugh))  (.) Right. I'll see you on 
+*DOR:	Monday. 
+*ANN:	Monday. Bye! 
+*DOR:	Bye! 
+*BRY:	We, we just   (.) we, we're having a look at Beethoven's music! 
+*ANN:	Yo  you're not having a look at Beethoven music, you're listening to Beethoven  music. 
+*BRY:	 We're  lis  we're listening. ((music)) 
+*JAM:	And then they want Mozart music on they said. 
+*ANN:	Who wants Mozart? 
+*RIC:	After, after 
+*JAM:	Richard. 
+*RIC:	Beethoven's 
+*JAM:	did. 
+*ANN:	After Beethoven, what? 
+*GRO:	 (  ) 
+*ANN:	You want Mozart music do you? 
+*RIC:	After Beethoven. 
+*ANN:	I see. 
+*BRY:	Me ee! 
+*UNK:	And er, and  (  ) . 
+*ANN:	And Bryony's going to play the piano at the same  time   
+*RIC:	 Yeah.  No. 
+*ANN:	is she? 
+*BRY:	He says he's gonna 
+*ANN:	Pardon? 
+*RIC:	Ah, I am. 
+*JAM:	Those begonias are doing quite well now look. 
+*ANN:	Ooh yes! They've sprouted up. 
+*RIC:	That's erm   (.)  Billy Goat Gruff. 
+*UNK:	  (  )    (  )  
+*ANN:	 Richard, what? Yes.  That's Billy Goat Gruff. Look at these begonias! 
+*RIC:	Oh! (  ) ! 
+*BRY:	 I want to  see the Billy Goat  Gruff. 
+*ANN:	 They're  growing bigger aren't they? 
+*BRY:	Billy Goat  Gruff. 
+*JAM:	 Mind  the door  darling. 
+*ANN:	 I think  that umbrella tree's going to have to be thrown out. 
+*GRO:	 (  )  ((music))
+*RIC:	 (  ) 
+*BRY:	Hello! Anna! 
+*ANN:	Hello Bryony! 
+*BRY:	Look! 
+*JAM:	Come on. You can  come and   (  )   
+*ANN:	 Yes, I'm in here  as well. 
+*GRO:	 (  )  ((piano music))
+*JAM:	What d'ya  have   
+*ANN:	 Well   
+*JAM:	to do? 
+*RIC:	The very   (.)  (  )  
+*JAM:	Billy Goats Gruff. 
+*GRO:	 (  ) 
+*ANN:	How can you listen to music and listen to the  Three Billy Goats Gruff at the same time? 
+*BRY:	 Once upon a time!  Once upon a time 
+*ANN:	 ((laugh)) 
+*JAM:	Once upon a time 
+*ANN:	Why don't you save the story for when I go to the hairdresser? 
+*JAM:	there was three  billy goats   
+*ANN:	 Cos I'll  be going out in 
+*BRY:	Hello! 
+*ANN:	in what? 
+*JAM:	I made some coffee? 
+*ANN:	Have you? Oh thank you. 
+*JAM:	One fine day in the Bluesberry Woods    (  )   
+*ANN:	 Right, Jim's made me some coffee, so while you have  the story   
+*UNK:	 Yes, yes! 
+*JAM:	 (  ) 
+*UNK:	Me! 
+*ANN:	I'll go and drink my coffee. 
+*JAM:	and at the bridge lived   (  ) three billy goats gruff 
+*UNK:	Look what I've got! 
+*BRY:	I founded you 
+*ANN:	You found it for me? What is it you've found for me? 
+*BRY:	Erm, a card. 
+*ANN:	Oh, my Mother's Day Card. That's the one from Jim. What are you doing? ((piano music)) 
+*RIC:	 (  ) ! 
+*JAM:	Yeah. 
+*ANN:	Right, take   (.) come and have your milk and biscuits, I've got it ready. 
+*UNK:	 (  ) 
+*ANN:	Come along Bryony. 
+*BRY:	I want that off. 
+*JAM:	Alright. I'll turn it off  then. 
+*ANN:	 Jim  put it  off. 
+*JAM:	 Don't  touch! Go with Ann. 
+*ANN:	Come along then. It's ready. 
+*JAM:	 Come and get your biscuits. 
+*ANN:	 Cos I've got to go out in a few minutes. 
+*UNK:	 I know, I wa  I want this   
+*ANN:	 Come along James. 
+*JAM:	 Won't this work   (  ) . 
+*UNK:	What are you doing this? 
+*ANN:	What am I doing? I'm get  I've   (.) going to give you your milk and biscuits. 
+*UNK:	What have you got in your hand? 
+*ANN:	What have I got in my hand? I've got a   (.) a tape recorder in my hand. Right, let's have you at the table. 
+*GRO:	 (  ) 
+*ANN:	Well, Bryony wants to sit in her own chair today, so you sit on your own chair. 
+*RIC:	No I don't  want to sit there. 
+*ANN:	 Well she might want to  swap later. 
+*RIC:	 ((crying)) I don't 
+*ANN:	You  don't wa    
+*RIC:	 wanna  go on my chair ! 
+*ANN:	You don't want to go on your chair? You haven't sat in your own chair all this week. 
+*RIC:	I don't wanna  sit on that! 
+*ANN:	 Come on. Clever  boy. Cos I've got to go out in ten minutes, I'm going to get my hair done and you're going to look after Jim aren't you? Come along. Up you jump. Let's see how quickly you can jump up off the floor. Let's  see if you can jump up   
+*JAM:	  ((cough)) Well where's my   coffee then? 
+*RIC:	  ((whining))  (  )  
+*ANN:	 I thought you'd had yours when you made mine.  I'll make  you   
+*JAM:	 I  made yours, and mine, but you  never   
+*RIC:	  ((whining)) I'm   
+*ANN:	brought mine. 
+*RIC:	finishing  my cup . 
+*ANN:	 Oh! Sorry.  I didn't think it was in there. Let's see how quickly Richard  can   
+*RIC:	 No. 
+*ANN:	jump up, see if he can jump up before I count three. One, two 
+*RIC:	No. 
+*ANN:	three! Oh!  He   
+*JAM:	 Yeah. 
+*ANN:	can't. Come on Twinkle, up you come. Oh! 
+*RIC:	No! No! 
+*ANN:	You're going to have a squawk are you? 
+*RIC:	  ((crying)) No ! 
+*ANN:	 Don't  you want this nice biscuit? 
+*RIC:	I don't want any 
+*ANN:	No do  there's yours look James. Don't  eat   
+*UNK:	 Ah. 
+*ANN:	your brother's as well. Oh well. Richard doesn't want his biscuit. 
+*UNK:	 ((whining)) He just got mine  then ! 
+*ANN:	 He  hasn't, I got it back off him. Look, there it is. 
+*UNK:	 ((whining)) He just  took it . 
+*ANN:	 There it is.  Up you jump.  There. 
+*UNK:	  ((whining)) He  just got it .  ((crying)) I just wanna  have er any   (  ) ! 
+*RIC:	  (  )   (.) And that  one's yours. 
+*ANN:	 Right, I'll    (.) we'll go out after dinner shall we? 
+*RIC:	Well I just wanna  go   
+*ANN:	 We'll  go and see if the river's gone down any more. See if the swans have come back shall we? 
+*UNK:	After  dinner! 
+*RIC:	 Where  were they? 
+*UNK:	  ((whining)) I don't want another    (  )   
+*RIC:	 I think it might be deep, because that'll  be deep. 
+*BRY:	Yeah. 
+*ANN:	Is it very deep?  That wasn't   
+*BRY:	 Yeah. 
+*RIC:	 I'm not  going to  (  ) . 
+*UNK:	It will be deep. 
 *ANN:	Well 
-*JAM:	to do?
-*RIC:	The very   (.)  (        ) 
-*JAM:	Billy Goats Gruff.
-*GRO:	 (        ) 
-*ANN:	How can you listen to music and listen to the Three Billy Goats Gruff at the same time?
-*BRY:	Once upon a time!Once upon a time
-*ANN:	 ((laugh)) 
-*JAM:	Once upon a time
-*ANN:	Why don't you save the story for when I go to the hairdresser?
-*JAM:	there was three billy goats 
-*ANN:	Cos I'll be going out in
-*BRY:	Hello!
-*ANN:	in what?
-*JAM:	I made some coffee?
-*ANN:	Have you?Oh thank you.
-*JAM:	One fine day in the Bluesberry Woods   (        ) 
-*ANN:	Right, Jim's made me some coffee, so while you have the story 
-*UNK:	Yes, yes!
-*JAM:	 (        ) 
-*UNK:	Me!
-*ANN:	I'll go and drink my coffee.
-*JAM:	and at the bridge lived   (        ) three billy goats gruff
-*UNK:	Look what I've got!
-*BRY:	I founded you
-*ANN:	You found it for me?What is it you've found for me?
-*BRY:	Erm, a card.
-*ANN:	Oh, my Mother's Day Card.That's the one from Jim.What are you doing? ((piano music))
-*RIC:	 (        ) !
-*JAM:	Yeah.
-*ANN:	Right, take   (.) come and have your milk and biscuits, I've got it ready.
-*UNK:	 (        ) 
-*ANN:	Come along Bryony.
-*BRY:	I want that off.
-*JAM:	Alright.I'll turn it off then.
-*ANN:	Jim put it off.
-*JAM:	Don't touch!Go with Ann.
-*ANN:	Come along then.It's ready.
-*JAM:	Come and get your biscuits.
-*ANN:	Cos I've got to go out in a few minutes.
-*UNK:	I know, I wa I want this 
-*ANN:	Come along James.
-*JAM:	Won't this work  (        ) .
-*UNK:	What are you doing this?
-*ANN:	What am I doing?I'm get I've   (.) going to give you your milk and biscuits.
-*UNK:	What have you got in your hand?
-*ANN:	What have I got in my hand?I've got a   (.) a tape recorder in my hand.Right, let's have you at the table.
-*GRO:	 (        ) 
-*ANN:	Well, Bryony wants to sit in her own chair today, so you sit on your own chair.
-*RIC:	No I don't want to sit there.
-*ANN:	Well she might want to swap later.
-*RIC:	 [crying] I don't
-*ANN:	You don't wa 
-*RIC:	wanna go on my chair  [] !
-*ANN:	You don't want to go on your chair?You haven't sat in your own chair all this week.
-*RIC:	I don't wanna sit on that!
-*ANN:	Come on.Clever boy.Cos I've got to go out in ten minutes, I'm going to get my hair done and you're going to look after Jim aren't you?Come along.Up you jump.Let's see how quickly you can jump up off the floor.Let's see if you can jump up 
-*JAM:	 ((cough)) Well where's my   [] coffee then?
-*RIC:	 [whining]  (        )  [] 
-*ANN:	I thought you'd had yours when you made mine.I'll make you 
-*JAM:	I made yours, and mine, but you never 
-*RIC:	 [whining] I'm 
-*ANN:	brought mine.
-*RIC:	finishing my cup  [] .
-*ANN:	Oh!Sorry.I didn't think it was in there.Let's see how quickly Richard can 
-*RIC:	No.
-*ANN:	jump up, see if he can jump up before I count three.One, two
-*RIC:	No.
-*ANN:	three!Oh!He 
-*JAM:	Yeah.
-*ANN:	can't.Come on Twinkle, up you come.Oh!
-*RIC:	No!No!
-*ANN:	You're going to have a squawk are you?
-*RIC:	 [crying] No  [] !
-*ANN:	Don't you want this nice biscuit?
-*RIC:	I don't want any
-*ANN:	No do there's yours look James.Don't eat 
-*UNK:	Ah.
-*ANN:	your brother's as well.Oh well.Richard doesn't want his biscuit.
-*UNK:	 [whining] He just got mine then  [] !
-*ANN:	He hasn't, I got it back off him.Look, there it is.
-*UNK:	 [whining] He just took it  [] .
-*ANN:	There it is.Up you jump.There.
-*UNK:	 [whining] He just got it  [] . [crying] I just wanna have er any   (        )  [] !
-*RIC:	 (        )  (.) And that one's yours.
-*ANN:	Right, I'll   (.) we'll go out after dinner shall we?
-*RIC:	Well I just wanna go 
-*ANN:	We'll go and see if the river's gone down any more.See if the swans have come back shall we?
-*UNK:	After dinner!
-*RIC:	Where were they?
-*UNK:	 [whining] I don't want another    (        )  [] 
-*RIC:	I think it might be deep, because that'll be deep.
-*BRY:	Yeah.
-*ANN:	Is it very deep?That wasn't 
-*BRY:	Yeah.
-*RIC:	I'm not going to  (        ) .
-*UNK:	It will be deep.
-*ANN:	Well
-*RIC:	I am not going to   (        ) ma ma my, I do    (.)  [whining] I am not going to go in my own chair  [] !
-*ANN:	You're not going to go in your own chair?Well, in that case, wait till Bryony's finished hers and then you can sit in her chair.Will that do you?
-*RIC:	 (        ) 
-*ANN:	See if we've got   (.) there's lots of milk left.Right.
-*BRY:	He's got his    (.)  (        ) 
-*UNK:	Mummy, I'm tired.
-*UNK:	Mine!
-*ANN:	Well give him it   (.) what back?
-*BRY:	My drink.
-*RIC:	Well that biscuit.I've drunk   (.) drunken it.
-*ANN:	You've drunken it?It's, you   (.) you've drunk it you mean?No you haven't.Are you going to drink yours later then?
-*RIC:	I'm going to look for my  (        ) .
-*ANN:	I think I'll have to get some straws and you can practise drinking out of th drinking with straws.Cos they have little 
-*UNK:	We 
-*ANN:	milk bottles at nursery school don't they?With straws.
-*RIC:	So we could  (        ) 
+*RIC:	I am not going to   (  ) ma  ma  my, I do    (.)  ((whining)) I am not going to go in my own chair ! 
+*ANN:	You're not going to go in your own chair? Well, in that case, wait till Bryony's finished hers and then you can sit in her chair. Will that do you? 
+*RIC:	 (  ) 
+*ANN:	See if we've got   (.) there's lots of milk left. Right. 
+*BRY:	He's got his    (.)   (  )   
+*UNK:	 Mummy, I'm  tired. 
+*UNK:	 Mine! 
+*ANN:	 Well give  him it   (.) what back? 
+*BRY:	 My drink. 
+*RIC:	 Well that biscuit. I've drunk   (.) drunken it. 
+*ANN:	You've drunken it? It's, you   (.) you've drunk it you mean? No you haven't. Are you going to drink yours later then? 
+*RIC:	I'm going to look for my  (  ) . 
+*ANN:	I think I'll have to get some straws and you can practise drinking out of th  drinking with straws. Cos they have  little   
+*UNK:	 We   
+*ANN:	milk bottles at nursery school don't they? With straws. 
+*RIC:	So we could  (  )  
 @End

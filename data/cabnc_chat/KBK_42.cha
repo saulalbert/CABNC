@@ -1,31 +1,31 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0022XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0022XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0022XX-AAZZP0.wav
 @Comment:	conversation #42 (Tape 002209)
-*CHR:	What is on your programme tomorrow?
-*NOR:	Nothing, well nothing  (        ) .I'm having hair  (        ) .
-*CHR:	What type is that?
-*NOR:	I think it's called  (        ) .Presumably I need to get some food for next week.
-*CHR:	Erm  (.) 
-*NOR:	Of course, deliver that material  (.) 
-*CHR:	I was wondering if you fancy going to Ming's tomorrow evening?
-*NOR:	Well that's a generous offer  (.) 
-*CHR:	Will Snoopy be out and about?
-*NOR:	I don't know what Snoopy's doing.I know she's planning the cinema tonight.I don't know if there's anything on tomorrow   (.) Maybe we ought to go this evening if she's there to work.
-*CHR:	Yes, are we free this evening?Yes we are aren't we?
-*NOR:	Well I didn't book in   (        ) all the time, cos   (.)  (        ) .
-*CHR:	Oh.Yes by all means.
-*NOR:	Mark and   (        ) up the road, (        ) .
-*CHR:	Sure.
+*CHR:	What is on your programme tomorrow? 
+*NOR:	Nothing, well nothing  (  ) . I'm having hair  (  ) . 
+*CHR:	What type is that? 
+*NOR:	I think it's called  (  ) . Presumably I need to get some food for next week. 
+*CHR:	Erm  (5.0)  
+*NOR:	Of course, deliver that material  (5.0)  
+*CHR:	I was wondering if you fancy going to Ming's tomorrow evening? 
+*NOR:	Well that's a generous offer  (10.0)  
+*CHR:	Will Snoopy be out  and about? 
+*NOR:	 I don't  know what Snoopy's doing. I know she's planning the cinema tonight. I don't know if there's anything on tomorrow   (5.0) Maybe we ought to go this evening if she's there to work. 
+*CHR:	Yes, are we free this evening? Yes we are aren't we? 
+*NOR:	Well I didn't book in   (  ) all the time, cos   (5.0)  (  ) . 
+*CHR:	Oh. Yes by all means. 
+*NOR:	Mark and   (  ) up the road, (  ) . 
+*CHR:	Sure. 
 @End

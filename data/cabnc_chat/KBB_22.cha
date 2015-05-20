@@ -1,86 +1,86 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-01-12:  
 @Location:	  home  
-@Situation:	Unspecified
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	ART Arthur self, EVE Evelyn wife
-@ID: eng|AudioBNC|ART|~82;| |m|Ag5| |retired (precision engineer)||PS03S|
-@ID: eng|AudioBNC|EVE|~75;| |f|Ag5| |retired|wife|PS03T|
+@Options:	CA
+@ID:	eng|AudioBNC|ART|82;|||||retired (precision engineer)||PS03S|
+@ID:	eng|AudioBNC|EVE|75;|||||retired|wife|PS03T|
 @Comment:	conversation #22 (Tape 049308)
-*UNK:	Are we taking them books back?
-*EVE:	Only when you're   (.) ready or, they're not due back yet.
-*ART:	Only I can't get a chance to   (.) study in the meantime.
-*EVE:	Course you can!Drink up! (        ) 
-*ART:	By the way, the cod liver oil's finished.
-*EVE:	Finished?
-*ART:	Just drank the last, er, there might be a   (.) shade 
-*EVE:	Mm mm!
-*ART:	in.
-*EVE:	I didn't think you'd had much of it.
-*ART:	Mm.
-*EVE:	That'll take the taste of it off, if you keep drinking that.What book's that?
-*ART:	Machine and power tools, how to use them.
-*EVE:	Is that the one you had out before?
-*ART:	Ah?Yeah.
-*EVE:	Is it?
-*ART:	What?No, I had it last week, this 
-*EVE:	Oh!
-*ART:	Friday you
-*EVE:	I, I know 
-*ART:	 (        ) 
-*EVE:	you had that one but I thought I've seen   (.) wo , a similar one the other week.
-*ART:	They're all much alike.
-*EVE:	Oh it's not the same one?
-*ART:	I get that one  (        ) .
-*EVE:	Anyway, what   (.) what do you want with those now?
-*ART:	Leave it for the beneficiaries.
-*EVE:	At your age. (        )  (.) Have you seen all the seagulls?
-*ART:	Yeah.I've seen them before.
-*EVE:	Well they're all circling over the roof. (.) Ah, I don't know what they have to eat.
-*ART:	Well it's
-*EVE:	 (        ) 
-*ART:	dove dirt I think.
-*EVE:	You look!
-*ART:	Well tha , the only thing I, when I walk across the green, the only thing I see is dove dirt.It might be 
-*EVE:	Mm!
-*ART:	perhaps it's Kitty Cat   (.) twice removed!
-*EVE:	You have a look at them!Look at them!
-*ART:	Mm.I can see them through the reflection.
-*EVE:	Dunno why they're circling round there.
-*ART:	If I see one drop   (.) th they they circle and if one drops they go down too.
-*EVE:	They'll be on our lawn next!
-*ART:	Lovely machines they got out now!Look, that's a planer.
-*EVE:	Mm.
-*ART:	French  (        ) .
-*EVE:	Well they're not for amateurs are they? (        ) 
-*ART:	No, but I mean they do it the easy way the 
-*EVE:	Oh yeah!
-*ART:	professionals.They don't do it the hard way.
-*EVE:	I like the tonic water   (.) as good as wi , ah, with the Martini! (.) What do you think?Do you think it's better than lemonade?
-*ART:	Well it's nice!
-*EVE:	Tonic?
-*ART:	Very nice!I like it!
-*EVE:	I can't stand the sweet   (.) saccharin in the lemonade! (.) Somebody's thumping!
-*ART:	Mm.
-*EVE:	Can you hear them?
-*ART:	Breaking bits of concrete.
-*EVE:	Dunno.Perhaps they're putting the   (.) the fence back in.It blew down in the gale!Sounds a bit like that.
-*ART:	You know that   (.) wheel on, last made with a band of emery on
-*EVE:	Mm.
-*ART:	around the things   (.) look, you see   (.) if you're doing a curve   (.) he's got electric drill with a round bobbin in  (        ) , but mine's on a shaft, the bit, for when    (        )  (.) and also, there's my sander disc.
-*EVE:	Mm.
-*ART:	Supposed to push that up to it   (.) and yo , your dead square and clean.Well when you saw it without that   (.) after you've sawn it you've gotta 
-*EVE:	Gotta sa 
-*ART:	square it off and file it and   (.) that does it in seconds!So you just put it on your   (.) in that steel table I made
-*EVE:	Mm.
-*ART:	push it straight through it to  (.) till it's done.
-*EVE:	You'll have to try to do it.
-*ART:	And er
-*EVE:	Well, I think I'll go and put the potatoes on.
-*ART:	I suppose you should   (.) you sho , push it with a stick   (.) by the saw so you don't get your fingers in.
-*EVE:	Mm.Right!I'll go and baste the chicken and put the potatoes on I think.
+*UNK:	Are we taking them books back? 
+*EVE:	Only when you're   (.) ready or, they're not due back yet. 
+*ART:	Only I can't get a chance to   (.) study in the  meantime. 
+*EVE:	 Course  you can! Drink up! (  )   
+*ART:	 By the  way, the cod liver oil's finished. 
+*EVE:	Finished? 
+*ART:	Just drank the last, er, there might be a   (.)  shade   
+*EVE:	 Mm mm! 
+*ART:	in. 
+*EVE:	I didn't think you'd had much of it. 
+*ART:	Mm. 
+*EVE:	That'll take the taste of it off, if you keep drinking that. What book's that? 
+*ART:	Machine and power tools, how to use them. 
+*EVE:	Is that the one you had out before? 
+*ART:	Ah? Yeah. 
+*EVE:	Is it? 
+*ART:	What? No, I had it last week, this   
+*EVE:	 Oh! 
+*ART:	Friday you 
+*EVE:	I, I  know   
+*ART:	  (  )  
+*EVE:	you had that one but I thought I've seen   (.) wo  , a similar one the other week. 
+*ART:	 They're all much alike. 
+*EVE:	 Oh it's not the same one? 
+*ART:	 I get that one  (  ) . 
+*EVE:	Anyway, what   (.) what do you want with those now? 
+*ART:	Leave it for the  beneficiaries. 
+*EVE:	 At your  age.  (  )  (.) Have you seen all the seagulls? 
+*ART:	Yeah. I've seen them  before. 
+*EVE:	 Well  they're all circling over the roof.  (7.0) Ah, I don't know what they have to eat. 
+*ART:	Well it's 
+*EVE:	 (  ) 
+*ART:	dove dirt  I think. 
+*EVE:	 You look! 
+*ART:	Well tha  , the only thing I, when I walk across the green, the only thing I see is dove dirt. It might  be   
+*EVE:	 Mm! 
+*ART:	perhaps it's Kitty Cat   (.) twice removed! 
+*EVE:	You have a look at them! Look at them! 
+*ART:	Mm. I can see them through the reflection. 
+*EVE:	Dunno why they're circling round there. 
+*ART:	If I see one drop   (.) th  they they circle and if one drops they go down too. 
+*EVE:	They'll be on our lawn next! 
+*ART:	Lovely machines they got out now! Look, that's a planer. 
+*EVE:	Mm. 
+*ART:	French  (  ) . 
+*EVE:	Well they're not for amateurs are they? (  )   
+*ART:	 No, but I mean  they do it the easy way  the   
+*EVE:	 Oh  yeah! 
+*ART:	professionals. They don't do it the hard way. 
+*EVE:	I like the tonic water   (.) as good as wi  , ah, with the Martini!  (8.0) What do you think? Do you think it's better than lemonade? 
+*ART:	Well it's  nice! 
+*EVE:	 Tonic? 
+*ART:	Very nice! I like it! 
+*EVE:	I can't stand the sweet   (.) saccharin in the lemonade!  (13.0) Somebody's thumping! 
+*ART:	Mm. 
+*EVE:	Can you hear them? 
+*ART:	Breaking bits of concrete. 
+*EVE:	Dunno. Perhaps they're putting the   (.) the fence back in. It blew down in the gale! Sounds a bit like that. 
+*ART:	You know that   (.) wheel on, last made with a band of emery on 
+*EVE:	Mm. 
+*ART:	around the things   (.) look, you see   (.) if you're doing a curve   (.) he's got electric drill with a round bobbin in  (  ) , but mine's on a shaft, the bit, for when    (  )  (.) and also, there's my sander disc. 
+*EVE:	Mm. 
+*ART:	Supposed to push that up to it   (.) and yo  , your dead square and clean. Well when you saw it without that   (.) after you've sawn it you've  gotta   
+*EVE:	 Gotta sa    
+*ART:	square it off and file it and   (.) that does it in seconds! So you just put it on your   (.) in that steel table I made 
+*EVE:	Mm. 
+*ART:	push it straight through it to   (.)  till it's done. 
+*EVE:	 You'll have to  try to do it. 
+*ART:	And er 
+*EVE:	Well, I think I'll go and put the potatoes on. 
+*ART:	I suppose you should   (.) you sho  , push it with a stick   (.) by the saw so you don't get your fingers in. 
+*EVE:	Mm. Right! I'll go and baste the chicken and put the potatoes on I think. 
 @End

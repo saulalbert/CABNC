@@ -1,16 +1,16 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-21:  
 @Location:	 home 
-@Situation:	 having evening meal 
-@Media: 021A-C0897X0407XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 having evening meal  
+@Media:	021A-C0897X0407XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	FRA Frank self
-@ID: eng|AudioBNC|FRA|~50;| |m|Ag4| |tv engineer||PS09E|
+@Options:	CA
+@ID:	eng|AudioBNC|FRA|50;|||||tv engineer||PS09E|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0407XX-AAZZP0.wav
 @Comment:	conversation #1 (Tape 040701)
-*FRA:	They're not really   (        ) are they, the Chinese or   (.) Oriental dancers? (.) I don't think so anyway, they seem to be  (.) 
+*FRA:	They're not really   (  ) are they, the Chinese or   (.) Oriental dancers?  (.) I don't think so anyway, they seem to be  (.)  
 @End

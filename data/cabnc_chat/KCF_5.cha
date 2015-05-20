@@ -1,45 +1,45 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-14:  
 @Location:	 home 
-@Situation:	 talking 
-@Media: 021A-C0897X0281XX-ABZZP0.wav 021A-C0897X0281XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 talking  
+@Media:	021A-C0897X0281XX-ABZZP0.wav 021A-C0897X0281XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , HER Herbert husband, IRI Iris self, ALI Alison daughter, STU Stuart daughter's boyfriend
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|HER|~56;| |m|Ag4| |landscape gardener|husband|PS1EM|
-@ID: eng|AudioBNC|IRI|~54;| |f|Ag4| |home care assistant||PS1EN|
-@ID: eng|AudioBNC|ALI|~21;| |f|Ag1| |landscape gardener|daughter|PS1EP|
-@ID: eng|AudioBNC|STU|~22;| |m|Ag1| |hairdresser|daughter's boyfriend|PS1ER|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|HER|56;|||||landscape gardener|husband|PS1EM|
+@ID:	eng|AudioBNC|IRI|54;|||||home care assistant||PS1EN|
+@ID:	eng|AudioBNC|ALI|21;|||||landscape gardener|daughter|PS1EP|
+@ID:	eng|AudioBNC|STU|22;|||||hairdresser|daughter's boyfriend|PS1ER|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0281XX-ABZZP0.wav 021A-C0897X0281XX-AAZZP0.wav
 @Comment:	conversation #5 (Tape 028101)
-*HER:	Your mum wants to know if you've got your vest on.
-*ALI:	Yeah. (.) 
-*IRI:	And your liberty bodice. (.) 
-*HER:	She's got her dad's, dad's vest on and dad's longjohns.
-*IRI:	And longjohns. (.) 
-*ALI:	Yeah.
-*IRI:	Oh   (        )  (.) 
-*HER:	 (        ) hundred and twenty.Oh god!Two hundred
-*IRI:	What's two hundred  (        ) ?
-*HER:	hundred and twenty.
-*ALI:	What?
-*IRI:	What?
-*STU:	 (        ) 
-*HER:	No but he said two hundred and twenty minimum wage.
-*STU:	 (        ) lot of people  (        ) 
-*IRI:	 (        ) 
-*ALI:	Yeah.
-*STU:	Who's switched this front light off? (.) 
-*IRI:	You have  (        ) 
-*STU:	I haven't been in here.
-*UNK:	 (        ) 
-*IRI:	Have you done it?
-*STU:	Yeah.
-*IRI:	Oh.Well what you shouting about then? (.) 
-*UNK:	 (        )  (.) 
-*HER:	Oh I didn't te forgot to tell you about the taxi guy who came. (        ) with er  (        ) .Stops the car   (.) gets out   (.) open the door   (.)  (        ) . ((laugh))  (        ) . And then he stopped again   (        ) do his pools.
+*HER:	Your mum wants to know if you've got your vest on. 
+*ALI:	Yeah. (.)  
+*IRI:	And your liberty bodice. (.)  
+*HER:	She's got her dad's, dad's vest on and dad's  longjohns. 
+*IRI:	 And  longjohns. (.)  
+*ALI:	Yeah. 
+*IRI:	Oh   (  )  (.)  
+*HER:	 (  ) hundred and twenty. Oh god! Two hundred 
+*IRI:	What's two hundred  (  ) ? 
+*HER:	hundred and twenty. 
+*ALI:	What? 
+*IRI:	What? 
+*STU:	 (  ) 
+*HER:	No but he said two hundred and twenty minimum wage. 
+*STU:	 (  ) lot of people  (  )  
+*IRI:	 (  ) 
+*ALI:	Yeah. 
+*STU:	Who's switched this front light off? (.)  
+*IRI:	You have  (  )  
+*STU:	I haven't been in here. 
+*UNK:	 (  ) 
+*IRI:	Have you done it? 
+*STU:	Yeah. 
+*IRI:	Oh. Well what you shouting about then? (.)  
+*UNK:	 (  )  (8.0) 
+*HER:	Oh I didn't te  forgot to tell you about the taxi guy who came.  (  ) with er  (  ) . Stops the car   (.) gets out   (.) open the door   (.)  (  ) .  ((laugh))  (  ) . And then he stopped again   (  ) do his pools. 
 @End

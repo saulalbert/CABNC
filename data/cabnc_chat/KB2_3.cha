@@ -1,19 +1,19 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
-@Date:	1992-01-31:    having a cup of tea  
-@Media: 021A-C0897X0610XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
+@Date:	1992-01-31:    having a cup of tea   
+@Media:	021A-C0897X0610XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	ALE Alec self, JOY Joyce wife
-@ID: eng|AudioBNC|ALE|~68;| |m|Ag5| |retired||PS01T|
-@ID: eng|AudioBNC|JOY|~63;| |f|Ag5| |retired|wife|PS01V|
+@Options:	CA
+@ID:	eng|AudioBNC|ALE|68;|||||retired||PS01T|
+@ID:	eng|AudioBNC|JOY|63;|||||retired|wife|PS01V|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0610XX-ABZZP0.wav
 @Comment:	conversation #4 (Tape 061004)
-*JOY:	It's not done yet
-*ALE:	Eh?
-*JOY:	It's not done yet
-*ALE:	Oh, can't have it then can I? (.) see now
-*JOY:	Well  (.) 
+*JOY:	It's not done yet 
+*ALE:	Eh? 
+*JOY:	It's not done yet 
+*ALE:	Oh, can't have it then can I? (.) see now 
+*JOY:	Well  (.)  
 @End

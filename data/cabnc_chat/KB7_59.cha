@@ -1,33 +1,33 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-05:  
 @Location:	  work  
-@Situation:	  chatting before work  
-@Media: 021A-C0897X0195XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  chatting before work   
+@Media:	021A-C0897X0195XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , ANN Ann self, STU Stuart partner
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
-@ID: eng|AudioBNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|ANN|46;|||||team leader||PS02G|
+@ID:	eng|AudioBNC|STU|33;|||||factory operative|partner|PS02H|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0195XX-AAZZP0.wav
 @Comment:	conversation #59 (Tape 019503)
-*NON:	pinched it this morning.Paul's cast offs.
-*STU:	Yes yeah   (        ) 
+*NON:	pinched it this morning.  Paul's cast offs. 
+*STU:	 Yes yeah   (  )   
 *NON:	 ((laugh)) 
-*ANN:	That is for  (        ) 
-*NON:	That's my bum warmer  (        ) . (.) 
-*ANN:	Put this on  (        ) . (        ) look naked.
-*NON:	Why not?
-*:	 [laughing]  (        )  [] 
-*ANN:	Cause a stir if nothing else wouldn't it?
-*STU:	Cause a stir! (        ) 
-*NON:	Stood there naked   (        ) dishing the overalls out.
-*NON:	Everybody would be going home, feeling sick.
-*NON:	Bloody   (        ) feel sick  (        ) 
-*:	 ((laugh))  (.) 
-*STU:	Alright dear?
+*ANN:	That is for  (  )  
+*NON:	That's my bum warmer  (  ) . (.)  
+*ANN:	Put this on  (  ) .  (  ) look naked. 
+*NON:	Why not? 
+*:	 ((laughing))  (  ) 
+*ANN:	Cause a stir if nothing else wouldn't it? 
+*STU:	Cause a stir! (  )  
+*NON:	Stood there naked   (  ) dishing the overalls out. 
+*NON:	Everybody would be going home, feeling sick. 
+*NON:	Bloody   (  ) feel sick  (  )  
+*:	 ((laugh))  (17.0) 
+*STU:	Alright dear? 
 @End

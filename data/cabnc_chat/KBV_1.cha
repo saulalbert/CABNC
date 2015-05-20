@@ -1,361 +1,361 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-13:  
 @Location:	 home 
-@Situation:	 getting ready in morning 
-@Media: 021A-C0897X0214XX-ABZZP0.wav 021A-C0897X0214XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 getting ready in morning  
+@Media:	021A-C0897X0214XX-ABZZP0.wav 021A-C0897X0214XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , DON Donald self
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|DON|~33;| |m|Ag2| |telecommunication technician||PS07K|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|DON|33;|||||telecommunication technician||PS07K|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0214XX-ABZZP0.wav 021A-C0897X0214XX-AAZZP0.wav
 @Comment:	conversation #1 (Tape 021401)
-*UNK:	Oh   (.) I haven't got any  (        ) 
-*UNK:	Okay, alright!
-*UNK:	 (        ) 
-*UNK:	What?
-*UNK:	This is what   (        ) trousers he put them in the proper basket instead of leaving them there.
-*UNK:	They've been washed?
-*UNK:	As it happens no, they've not been washed. (.)  (        ) 
-*UNK:	Ah!
-*UNK:	stop kidding about there!
-*UNK:	Oh please!
-*UNK:	 (        )  (.) Lisa's not home. (.) You've got your killer tomato on Joe.
-*UNK:	No   (.) yeah, I've got one of them.
-*UNK:	Well where's the other one then?
-*UNK:	I'll have a look   (.) some in there. (.) Oh I've got two.
-*UNK:	 [shouting]  (        )  [] 
-*UNK:	 (        )  (.) aha.
-*UNK:	There's that spoon.
-*UNK:	Oh yeah.
-*UNK:	Ow!
-*UNK:	Do you have to call Peter?
-*UNK:	I don't know.
-*UNK:	Yeah well I haven't taken them either!
-*UNK:	Where are those   (.) er
-*UNK:	All the best.
-*UNK:	 [shouting] Oh hello Peter  [] !
-*UNK:	 (        ) 
-*UNK:	Yeah.
-*UNK:	 (        ) 
-*UNK:	 [shouting] Daddy  [] !
-*UNK:	Yeah.
-*UNK:	Mummy!
-*UNK:	Better explain.
-*UNK:	Mum!
-*UNK:	What?
-*UNK:	And you better  (        ) !
-*UNK:	Yeah only cos   (        ) first!
-*UNK:	Have you brushed your teeth? (.) Tom? (.) Get ready   (.) are you going   (.) to the toilet?
-*UNK:	 [singing]  (        )  (.) Oh dear    (        )  (.) ha ha mm 
-*UNK:	Mum!
-*UNK:	Oh!
-*UNK:	Mm mm mm   (.) mm mm mm  [] .
-*UNK:	 [crying] Yahhh   (.) mummy  [] !
-*UNK:	Where  (        ) ? (.)  [singing] Woo woo woo   (.) doo be doo be doo  [] .
-*UNK:	Ah!
+*UNK:	Oh   (.) I haven't got any  (  )  
+*UNK:	Okay, alright! 
+*UNK:	 (  ) 
+*UNK:	What? 
+*UNK:	This is what   (  ) trousers he put them in the proper basket instead of leaving them there. 
+*UNK:	They've been washed? 
+*UNK:	As it happens no, they've not been washed. (.)   (  )   
+*UNK:	 Ah! 
+*UNK:	stop kidding about there! 
+*UNK:	Oh please! 
+*UNK:	 (  )  (.) Lisa's not home.  (9.0) You've got your killer tomato on Joe. 
+*UNK:	No   (.) yeah, I've got one of them. 
+*UNK:	Well where's the other one then? 
+*UNK:	I'll have a look   (.) some in there.  (.) Oh I've got two. 
+*UNK:	 ((shouting))  (  ) 
+*UNK:	 (  )  (.) aha. 
+*UNK:	There's that spoon. 
+*UNK:	Oh yeah. 
+*UNK:	Ow! 
+*UNK:	Do you have to call Peter? 
+*UNK:	I don't know. 
+*UNK:	Yeah well I haven't taken them either! 
+*UNK:	Where are those   (.) er 
+*UNK:	All the best. 
+*UNK:	 ((shouting)) Oh hello Peter ! 
+*UNK:	 (  ) 
+*UNK:	Yeah. 
+*UNK:	 (  ) 
+*UNK:	 ((shouting)) Daddy ! 
+*UNK:	Yeah. 
+*UNK:	Mummy! 
+*UNK:	Better  explain. 
+*UNK:	 Mum! 
+*UNK:	What? 
+*UNK:	And you better  (  ) ! 
+*UNK:	Yeah only cos   (  ) first! 
+*UNK:	Have you brushed your teeth?  (.) Tom?  (.) Get ready   (.) are you going   (.) to the toilet? 
+*UNK:	 ((singing))  (  )  (.) Oh dear    (  )  (.) ha ha  mm   
+*UNK:	 Mum! 
+*UNK:	Oh! 
+*UNK:	Mm mm mm   (.) mm mm mm . 
+*UNK:	 ((crying)) Yahhh   (.) mummy ! 
+*UNK:	Where  (  ) ?  (.)  ((singing)) Woo woo woo   (.) doo be doo be doo . 
+*UNK:	Ah! 
 *UNK:	 ((laugh)) 
-*DON:	 [whispering]  (        )  [] 
-*UNK:	Mummy.
-*UNK:	You hurt daddy!
-*UNK:	Is it in 
-*UNK:	Get ready Lou!
-*UNK:	I'm just gonna get my  (        ) .
-*UNK:	Yeah well get ready, but come on   (.) go and get ready for school!
+*DON:	 ((whispering))  (  ) 
+*UNK:	Mummy. 
+*UNK:	You hurt daddy! 
+*UNK:	Is  it in   
+*UNK:	 Get  ready Lou! 
+*UNK:	I'm just gonna get my  (  ) . 
+*UNK:	Yeah well get ready, but come on   (.) go and get ready for school! 
 *UNK:	 ((laugh)) 
-*UNK:	Hey!
-*UNK:	Where you going?
-*UNK:	Get a chair to put these on.
-*UNK:	Eh? (.) What have you got to do? (.)  (        )  (.) done.
-*UNK:	Just  (        ) .
-*UNK:	Daddy swore! (.)  (        )  (.) that's to grandma.
-*UNK:	Sore oh! (        ) 
-*UNK:	How's Lynn?
-*UNK:	Alright.
-*UNK:	You finishing off your muesli?
-*UNK:	Muesli.
-*UNK:	Yeah.
-*UNK:	How was football today?
-*UNK:	Now we only have football   (.) we can only take footballs in on Monday and Thursdays.
+*UNK:	Hey! 
+*UNK:	Where you going? 
+*UNK:	Get a chair to put these on. 
+*UNK:	Eh?  (.) What have you got to do? (.)  (  )  (.) done. 
+*UNK:	Just  (  ) . 
+*UNK:	Daddy swore! (.)  (  )  (.) that's to grandma. 
+*UNK:	Sore oh! (  )   
+*UNK:	 How's Lynn? 
+*UNK:	Alright. 
+*UNK:	You finishing off your muesli? 
+*UNK:	Muesli. 
+*UNK:	Yeah. 
+*UNK:	How was football today? 
+*UNK:	Now we only have football   (.) we can only take footballs in on Monday and Thursdays. 
 *UNK:	 ((laugh)) 
-*UNK:	And no one can take ball down   (.) balls in on Wednesday.
-*UNK:	Oh daddy!
-*UNK:	What are you doing with those?
-*UNK:	I've gotta do more Lego and Tom's downstairs  (        ) . (.) Do some more on the couch.
-*UNK:	Don't!
-*UNK:	Hope you're getting ready Lou!
-*UNK:	 (        ) !
-*UNK:	Got my trousers on   (.) now I'm getting on my jumper.
-*UNK:	Mum! (.)  (        ) 
-*UNK:	Ooh ooh!
-*UNK:	I finished that.
-*UNK:	That's in the car   (.) Go on then off you go!
-*UNK:	Alright I'm going!
-*UNK:	Okay.
-*UNK:	Oop ha!
-*UNK:	There  (        ) .
-*UNK:	There's    (.)  (        ) for lunch. (.) Have you got your lunch?
-*UNK:	Yep.
-*DON:	I'll go away   (.) oh I haven't   (        ) 
-*UNK:	 (        ) is   (        ) moving so when it   (        ) 
-*UNK:	 (        )  (.) what are you getting  (        ) ?Better be a reason my love, (        ) 
-*UNK:	Yeah   (.) Bye dad!
-*UNK:	Bye!
-*UNK:	Bye dad! (.) Mum     (.)  (        )  (.) mum!
-*UNK:	Choo train's in the car   (.) go and wipe that    (        )  (.) just take it downstairs and just plonk it on there
-*UNK:	 (        ) mum.
-*UNK:	and then after we'll fill it in.
-*UNK:	Come on  (        ) 
-*UNK:	Yeah.
-*UNK:	Come on!
-*UNK:	 (        ) 
-*UNK:	This room wasn't like this yesterday.
-*UNK:	That's because we've been playing  (        ) .
-*UNK:	Lou come over this way, come on.
-*UNK:	Come here   (.) mum.
-*UNK:	 [shouting] My  (        ) !
-*UNK:	Yes.
-*UNK:	Come on then  [] !
-*UNK:	Come on!
-*UNK:	Lou!
-*UNK:	Yeah.
-*UNK:	Moving this blooming train!
-*UNK:	You're like this all the time!
-*UNK:	Mum, [singing] where's a hanky then  [] ?
-*UNK:	No wonder we're late in the morning! (.) Luke, you're not ready!
-*UNK:	I am.
-*UNK:	What about your hair?
-*UNK:	Who cares!
-*UNK:	Go and have your  (        ) .
-*UNK:	Go on then, go up and do your hair.
-*UNK:	Alright. ((music))
-*UNK:	Luke switch that off now. (.) Luke   (.) Luke 
-*UNK:	Noise.
-*UNK:	Tell him!
-*UNK:	Lukey! (.) Turn it off! (.) Show  (        ) .
-*UNK:	 [singing]  (        )  [] 
-*UNK:	Show  (        ) .
-*UNK:	Why?
-*UNK:	Oops!
-*UNK:	 (        ) 
-*UNK:	Ooh we're going to the  (        ) !
-*UNK:	Alright.
-*UNK:	 (        ) 
-*UNK:	I'm not done.
-*UNK:	My hair.
-*UNK:	 (        ) er
-*UNK:	Hair   (.) oh she p p p  (        ) .
-*UNK:	Catch the back of your hair.
-*UNK:	Di doo di doo di doo di doo di doo 
-*UNK:	Ooh ooh!
-*UNK:	di doo
-*UNK:	Playing di doo di doo di doo   (.) di doo di day   (.) come on you, (        ) go away!
-*UNK:	I have to draw the book.
-*UNK:	Eh? (.) Alright.
-*UNK:	Mm.
-*UNK:	Don't  (        ) !
-*UNK:	Right stand there! (.) There   (        ) try it. (.) No no.
-*UNK:	Hurry up there!
-*UNK:	 (        ) toilet   (.) did you notice she can reach the door handle now?
-*UNK:	Which one?
-*UNK:	Toilet door.
-*UNK:	Does she tip toe?
-*UNK:	No she can do it, she pulls the door down!
-*UNK:	Wow!
-*UNK:	I'll have to watch her.
-*UNK:	 (        ) 
-*UNK:	Can do it   (.) open the door   (.) do you understand?
-*UNK:	Yeah I know.
-*UNK:	Mm ha ha. (.) Have you seen his mongy face?
-*UNK:	Urgh they're dirty! (.)  (        ) !
-*UNK:	Ask daddy.
-*UNK:	Tell me a joke.
-*UNK:	 (        ) when ever   (.) when i  (.) do you know   (.) where do   (        ) keep their food?
-*UNK:	I don't know.
-*UNK:	 (        ) .
-*UNK:	Where do you think?
-*UNK:	Come on  (        ) .
-*UNK:	Leave!
+*UNK:	And no one can take ball down   (.) balls in on Wednesday. 
+*UNK:	Oh daddy! 
+*UNK:	What are you doing with those? 
+*UNK:	I've gotta do more Lego and Tom's downstairs  (  ) .  (.) Do some more on the couch. 
+*UNK:	Don't! 
+*UNK:	Hope you're getting ready Lou! 
+*UNK:	 (  ) ! 
+*UNK:	Got my trousers on   (.) now I'm getting on my jumper. 
+*UNK:	Mum! (.)  (  )  
+*UNK:	Ooh ooh! 
+*UNK:	I finished that. 
+*UNK:	That's in the car   (10.0) Go on then off you go! 
+*UNK:	Alright I'm going! 
+*UNK:	Okay. 
+*UNK:	Oop ha! 
+*UNK:	There  (  ) . 
+*UNK:	There's    (.)  (  ) for lunch.  (.) Have you got your lunch? 
+*UNK:	Yep. 
+*DON:	I'll go away   (.) oh I haven't    (  )   
+*UNK:	  (  )  is   (  ) moving so when it    (  )   
+*UNK:	  (  )   (.) what are you getting  (  ) ? Better be a reason my love, (  )   
+*UNK:	 Yeah    (.) Bye dad! 
+*UNK:	Bye! 
+*UNK:	Bye dad!  (.) Mum     (.)  (  )  (.) mum! 
+*UNK:	Choo train's in the car   (.) go and wipe that    (  )  (.) just take it downstairs and just plonk it on there 
+*UNK:	 (  ) mum. 
+*UNK:	and then after we'll fill it in. 
+*UNK:	Come on  (  )  
+*UNK:	Yeah. 
+*UNK:	Come on! 
+*UNK:	 (  ) 
+*UNK:	This room wasn't like this yesterday. 
+*UNK:	That's because we've been playing  (  ) . 
+*UNK:	Lou come over this way, come on. 
+*UNK:	 Come  here   (.) mum. 
+*UNK:	 ((shouting)) My  (  ) ! 
+*UNK:	Yes. 
+*UNK:	Come on then ! 
+*UNK:	Come on! 
+*UNK:	Lou! 
+*UNK:	Yeah. 
+*UNK:	 Moving this blooming train! 
+*UNK:	 You're like this all the  time! 
+*UNK:	Mum, ((singing)) where's a hanky  then ? 
+*UNK:	 No wonder  we're late in the morning!  (.) Luke, you're not ready! 
+*UNK:	I am. 
+*UNK:	What about your hair? 
+*UNK:	Who cares! 
+*UNK:	Go and have your  (  ) . 
+*UNK:	Go on then, go up and do your hair. 
+*UNK:	Alright. ((music)) 
+*UNK:	Luke switch that off now.  (.) Luke   (.)  Luke   
+*UNK:	 Noise. 
+*UNK:	Tell him! 
+*UNK:	Lukey!  (.) Turn it off!  (.) Show  (  ) . 
+*UNK:	 ((singing))  (  ) 
+*UNK:	Show  (  ) . 
+*UNK:	Why? 
+*UNK:	 Oops! 
+*UNK:	  (  )  
+*UNK:	Ooh we're going to the  (  ) ! 
+*UNK:	Alright. 
+*UNK:	 (  ) 
+*UNK:	I'm not done. 
+*UNK:	My hair. 
+*UNK:	 (  ) er 
+*UNK:	Hair   (.) oh she p  p  p    (  ) . 
+*UNK:	 Catch  the back  of your hair. 
+*UNK:	 Di doo  di doo di doo di doo  di doo   
+*UNK:	 Ooh ooh! 
+*UNK:	di doo 
+*UNK:	Playing di doo di doo di doo   (.) di doo di day   (.) come on you, (  ) go away! 
+*UNK:	I have to draw the book. 
+*UNK:	Eh?  (.) Alright. 
+*UNK:	Mm. 
+*UNK:	Don't  (  ) ! 
+*UNK:	Right stand there!  (.) There   (  ) try it.  (.) No no. 
+*UNK:	Hurry up there! 
+*UNK:	 (  ) toilet   (.) did you notice she can reach the door handle now? 
+*UNK:	Which one? 
+*UNK:	Toilet door. 
+*UNK:	Does she tip toe? 
+*UNK:	No she can do it, she pulls the door down! 
+*UNK:	Wow! 
+*UNK:	I'll have to watch  her. 
+*UNK:	  (  )  
+*UNK:	Can do it   (.) open the door   (.) do you understand? 
+*UNK:	Yeah I know. 
+*UNK:	Mm ha ha.  (.) Have you seen his mongy face? 
+*UNK:	Urgh they're dirty! (.)  (  ) ! 
+*UNK:	Ask daddy. 
+*UNK:	Tell me a joke. 
+*UNK:	 (  ) when ever   (.) when i   (.) do you know   (.) where do   (  ) keep their food? 
+*UNK:	I don't know. 
+*UNK:	 (  ) . 
+*UNK:	Where do you think? 
+*UNK:	Come on  (  ) . 
+*UNK:	Leave! 
 *UNK:	 ((crying)) 
-*UNK:	Oh!
-*UNK:	 (        ) 
-*UNK:	Woh! (.) So they don't
-*UNK:	 (        ) .
-*UNK:	Come out.
-*UNK:	I'm gonna      (        )  (.)  (        )  (.) I'm gonna  (        ) 
-*UNK:	Are you mad?
-*UNK:	Yep.
-*UNK:	What are you the man? ((playing recorder))
-*UNK:	I think Stuart's gone a bit mad!
-*UNK:	Has he? (.) Can't wear your shoes!
-*UNK:	Ah! (.) Oh!
-*UNK:	You'll have to put down one.
-*UNK:	I   (.) when?
-*UNK:	Er   (.) I was talking to you before! (.) I heard   (        ) ah Ahmed's shoes.
-*UNK:	Mm   (.)  (        ) .
-*UNK:	Whether he's   (        ) than just   (.) or  (        ) .
-*UNK:	We should  (        ) .
-*UNK:	Ah ah! (.)  [singing]  (        )  [] .
-*UNK:	Leave it! (.) Get picked up right from school.
-*UNK:	 [shouting] Who's saying that  [] !
-*UNK:	It's eight   (.) thirty two.
-*UNK:	Oh crikey! (.) Why are you two always so late!
+*UNK:	Oh! 
+*UNK:	 (  ) 
+*UNK:	Woh!  (.) So they don't 
+*UNK:	 (  ) . 
+*UNK:	Come out. 
+*UNK:	I'm gonna      (  )  (.)  (  )  (.) I'm gonna  (  )  
+*UNK:	Are you mad? 
+*UNK:	Yep. 
+*UNK:	What are you the man? ((playing recorder)) 
+*UNK:	I think Stuart's gone a bit mad! 
+*UNK:	Has he?  (.) Can't wear your shoes! 
+*UNK:	Ah!  (.)  Oh! 
+*UNK:	 You'll  have to put down one. 
+*UNK:	I   (.) when? 
+*UNK:	Er   (.) I was talking to you before!  (.) I heard   (  ) ah  Ahmed's shoes. 
+*UNK:	Mm   (.)  (  ) . 
+*UNK:	Whether he's   (  ) than just   (.) or  (  ) . 
+*UNK:	We should   (  ) . 
+*UNK:	 Ah ah! (.)  ((singing))  (  ) . 
+*UNK:	Leave it!  (7.0) Get picked up right from school. 
+*UNK:	 ((shouting)) Who's saying that ! 
+*UNK:	It's eight   (.) thirty two. 
+*UNK:	Oh crikey!  (.) Why are you two always so late! 
 *UNK:	 ((laugh)) 
-*UNK:	We  (        ) .
-*UNK:	Are you have a  (        ) ?
-*UNK:	Nothing   (.)  ((laugh)) .
-*UNK:	Who's that?
-*UNK:	What?
-*UNK:	Who's that?
-*UNK:	I'm not speaking to you now! (.)  (        ) 
-*UNK:	Why?
-*UNK:	Really nasty!
-*UNK:	Mum!
-*UNK:	Why?
-*UNK:	 (        )  (        ) 
-*UNK:	Cos you were nasty!
-*UNK:	Atch 
-*UNK:	Mm.
-*UNK:	It's not funny!
-*UNK:	I'll do it.
-*UNK:	Cos, not like
-*UNK:	It is.
+*UNK:	We  (  ) . 
+*UNK:	Are you have a  (  ) ? 
+*UNK:	Nothing   (.)  ((laugh)) . 
+*UNK:	Who's that? 
+*UNK:	 What? 
+*UNK:	 Who's  that? 
+*UNK:	I'm not speaking to you now! (.)   (  )   
+*UNK:	 Why? 
+*UNK:	Really nasty! 
+*UNK:	Mum! 
+*UNK:	 Why? 
+*UNK:	  (  )   (  ) 
+*UNK:	Cos you were nasty! 
+*UNK:	Atch   
+*UNK:	Mm. 
+*UNK:	It's not  funny! 
+*UNK:	 I'll  do it. 
+*UNK:	Cos, not like 
+*UNK:	It is. 
 *UNK:	 ((laugh)) 
-*UNK:	Out there daddy!
-*UNK:	You ain't going out today.
-*UNK:	You what?
-*UNK:	Head up!
-*UNK:	No! (.) I don't want to.
-*UNK:	Hello!
-*UNK:	 [laughing] Hello  [] .
-*UNK:	 (        ) 
-*UNK:	Daddy. (.) up.
-*UNK:	You're going downstairs?
-*UNK:	I'm going.
-*UNK:	 (        ) 
-*UNK:	Come here   (.) I'll make   (        ) 
-*UNK:	 (        ) 
+*UNK:	Out there daddy! 
+*UNK:	You ain't going  out today. 
+*UNK:	 You what? 
+*UNK:	Head up! 
+*UNK:	No!  (6.0) I don't  want to. 
+*UNK:	 Hello! 
+*UNK:	 ((laughing)) Hello . 
+*UNK:	  (  )  
+*UNK:	 Daddy.   (.) up. 
+*UNK:	You're going downstairs? 
+*UNK:	I'm going. 
+*UNK:	 (  ) 
+*UNK:	Come here   (.) I'll make    (  )   
+*UNK:	  (  )  
 *UNK:	 ((laugh)) 
-*UNK:	Head up!
-*UNK:	Mummy.
-*UNK:	 (        ) .
-*UNK:	Two.
-*UNK:	 (        ) 
-*UNK:	Urgh that's mud    (.)  (        ) yucky!
-*UNK:	More?
-*UNK:	I like it curly  (        ) .
-*UNK:	I like it curly.
-*UNK:	Ooh.
-*UNK:	Head up   (.) Luke!
-*UNK:	Ooh mum mum   (        ) 
-*UNK:	 ((laugh)) Keep your head up!
-*UNK:	Don't need it on!
-*UNK:	Oh look, how can I do this   (        ) hair.
-*UNK:	 (        ) I know!
-*UNK:	That's better.
-*UNK:	Wahh! (.) Where my stuff? (.) Where my stinky stuff?
-*UNK:	Turn to mummy.
-*UNK:	How did you do that? (.) My nice kitchen.
-*UNK:	Oh I forgot to look.
-*UNK:	 (        ) nice  (        ) .
-*UNK:	Can we  (        ) .
-*UNK:	Go on!
-*UNK:	Thank you.
-*UNK:	 (        )  (.)  (        )  (.) Go on   (.) go find    (        )  (.) get   (.) your pumps on Luke! (.)  (        ) oh look at the time, (        ) waiting for you haven't got you both ready.
-*UNK:	 ((sneeze))  (.)  ((sneeze)) .
-*UNK:	Where's my bag?
-*UNK:	I haven't got a drink.
-*UNK:	You haven't got anything yet!
-*UNK:	Where's the snack?
+*UNK:	Head up! 
+*UNK:	Mummy. 
+*UNK:	 (  ) . 
+*UNK:	Two. 
+*UNK:	 (  ) 
+*UNK:	Urgh that's mud    (.)  (  ) yucky! 
+*UNK:	More? 
+*UNK:	I like it curly  (  ) . 
+*UNK:	I like it curly. 
+*UNK:	Ooh. 
+*UNK:	Head up   (.) Luke! 
+*UNK:	Ooh mum mum    (  )   
+*UNK:	  ((laugh))  Keep your head up! 
+*UNK:	Don't need it on! 
+*UNK:	Oh look, how can I do this    (  ) hair. 
+*UNK:	  (  )  I know! 
+*UNK:	That's better. 
+*UNK:	Wahh!  (.) Where my stuff?  (.) Where my stinky stuff? 
+*UNK:	Turn to mummy. 
+*UNK:	How did you do that?  (.) My nice kitchen. 
+*UNK:	Oh I forgot to look. 
+*UNK:	 (  ) nice  (  ) . 
+*UNK:	Can we  (  ) . 
+*UNK:	Go on! 
+*UNK:	Thank you. 
+*UNK:	 (  )  (9.0)  (  )  (10.0) Go on   (.) go find    (  )  (.) get   (.) your pumps on Luke! (.)  (  ) oh look at the time, (  ) waiting for you haven't got you both ready. 
+*UNK:	 ((sneeze))  (.)  ((sneeze)) . 
+*UNK:	Where's my  bag? 
+*UNK:	 I  haven't got a drink. 
+*UNK:	You haven't got anything yet! 
+*UNK:	Where's the snack? 
 *UNK:	 ((sneeze)) 
-*UNK:	We'll have to rush   (        ) 
-*UNK:	 (        ) 
-*UNK:	You're not pressing them now are you?
-*UNK:	No oh!
-*UNK:	Oh! (.) I've  (        ) 
-*UNK:	Ask daddy if he's got a ten pence.I'll put your boots in there.
-*UNK:	 [shouting] Dad have you got a ten P  [] ?
-*UNK:	You take that   (.) two pound to go to the  (        ) .
-*UNK:	Why we got   (.) you got a    (        )  (.) we got   (        ) 
-*UNK:	 ((laugh)) 
-*UNK:	inside it.
-*UNK:	Here you are look.
-*UNK:	That's not fair!
-*UNK:	Oh   (.) do you want to take a pound then cos I haven't got any drink in.
-*UNK:	 [singing] Well 
-*UNK:	Where is it?
-*UNK:	mum
-*UNK:	And I haven't signed those.
-*UNK:	reading book  [] .
-*UNK:	Nothing.
-*UNK:	 [shouting] Mum where's    (        )  [] 
-*UNK:	And I'd said to the   (.) And I'd said to the dentist
-*UNK:	Mummy   (        ) 
-*UNK:	I thought   (.) I haven't signed nothing! (.) No forms or anything.
-*UNK:	Didn't ask you first?
-*UNK:	No! (.) I thought well I, (        ) bit of a 
-*UNK:	The re 
-*UNK:	changing or something.
-*UNK:	receptionist's fault!
-*UNK:	Yeah   (.) oh I thought well you know, you want me to sign here and sign here.
-*UNK:	You always have to.
-*UNK:	Yeah for N H S. (.) I thought well I don't know you see, because it's changed a lot, I didn't   (.) but I thought you know.
-*UNK:	 (        ) cos I have to sign anything.
-*UNK:	No I I I didn't know   (.) and now they send   (        ) saying you haven't signed!Can you sign it and send it back?
-*UNK:	Mum!
-*UNK:	 (        ) do you want some salt and vinegar Tuba Loops 
-*UNK:	Yes please.
-*UNK:	Oh  (        ) .
-*UNK:	There you are then.
-*UNK:	Oh no.
-*UNK:	 (        ) wanna get one of my shoes on my way out.
-*UNK:	 (        ) 
-*UNK:	Yes.
-*UNK:	No he didn't.
-*UNK:	Hi-ya daddy!
-*UNK:	 (        ) 
-*UNK:	 (        ) toys.
-*UNK:	 (        ) .
-*UNK:	Hurry up! (.) Otherwise the   (        ) will be waiting for you!
-*UNK:	Coo.
-*UNK:	Come on   (.) Luke!
-*UNK:	Shoe. (.) Ooh! (.)  (        ) .
-*UNK:	Hurry up and get your coat on! (        ) .
-*UNK:	Yeah that's   (.) coo!
-*UNK:	 (        ) .
-*UNK:	You what?
-*UNK:	Because the ca which one  (        ) ?
-*UNK:	 (        ) .
-*UNK:	Don't know.
-*UNK:	Ha ha!
-*UNK:	About half an hour. (.) Bye bye.
-*UNK:	I'll go   (.) I'll go and pop into   (        ) today. (.)  (        ) .
-*UNK:	Well he he's 
-*UNK:	It's okay   (.) yeah I got the van and our    (        )  (.) I've gotta do that   (.) strap on the car.
-*UNK:	Well I'm going, ooh I'm not doing that today   (.)  (        ) . (.) I don't know.
-*UNK:	Dad.
-*UNK:	Jason!
-*UNK:	I want   (.) I want one of his   (        ) dad.
-*UNK:	Luke come on!
-*UNK:	What if I met 
-*UNK:	Don't be selfish Jason!
-*UNK:	Bob? (.) I can get, well you know   (.) the strap in on the car.
-*DON:	Have you got your coat Gary?
-*UNK:	What?
-*UNK:	Have you got yours?
-*UNK:	Yeah.
-*DON:	Ooh   (        ) it's going to be chilly.
-*UNK:	Yeah.
-*UNK:	Luke?
-*UNK:	Yeah.
-*UNK:	 (        )  (.) I'll make you some  (        ) .
-*UNK:	He's found his train.
-*UNK:	I allowed him to have his train      (        )  (.)  (        )  (.)  (        ) .
-*UNK:	 (        ) said we'd better go from the house.
-*UNK:	I don't know.
-*UNK:	Come on then.
-*UNK:	Mm!
+*UNK:	We'll have to rush    (  )   
+*UNK:	  (  )  
+*UNK:	You're not pressing them now are you? 
+*UNK:	No oh! 
+*UNK:	Oh!  (.) I've  (  )  
+*UNK:	Ask daddy if he's got a ten pence. I'll put your boots  in there. 
+*UNK:	  ((shouting)) Dad have  you got a ten P ? 
+*UNK:	You take that   (.) two pound to go to the  (  ) . 
+*UNK:	Why we got   (.) you got a    (  )  (.) we got    (  )   
+*UNK:	  ((laugh))  
+*UNK:	inside it. 
+*UNK:	Here you are look. 
+*UNK:	That's not fair! 
+*UNK:	Oh   (.) do you want to take a pound then cos I haven't got any drink  in. 
+*UNK:	  ((singing)) Well   
+*UNK:	Where is it? 
+*UNK:	mum 
+*UNK:	And I haven't  signed those. 
+*UNK:	 reading  book . 
+*UNK:	Nothing. 
+*UNK:	 ((shouting)) Mum where's     (  )   
+*UNK:	 And I'd said to the    (.) And I'd said to the dentist 
+*UNK:	Mummy    (  )   
+*UNK:	 I thought    (.) I haven't signed nothing!  (.) No forms or anything. 
+*UNK:	Didn't ask you  first? 
+*UNK:	 No!   (.) I thought well I, (  ) bit  of a   
+*UNK:	 The re    
+*UNK:	changing or something. 
+*UNK:	receptionist's fault! 
+*UNK:	Yeah   (.) oh I thought well you know, you want me to sign here and sign here. 
+*UNK:	You always have to. 
+*UNK:	Yeah for N H S.  (.) I thought well I don't know you see, because it's changed a lot, I didn't   (.) but I thought you  know. 
+*UNK:	  (  )  cos I have to sign  anything. 
+*UNK:	 No I  I I didn't know   (.) and now they send   (  ) saying you haven't signed! Can you sign it and send it back? 
+*UNK:	Mum! 
+*UNK:	 (  ) do you want some salt and vinegar Tuba Loops  
+*UNK:	Yes please. 
+*UNK:	Oh  (  ) . 
+*UNK:	There you are then. 
+*UNK:	Oh no. 
+*UNK:	 (  ) wanna get one of my shoes on my way out. 
+*UNK:	 (  ) 
+*UNK:	 Yes. 
+*UNK:	 No  he didn't. 
+*UNK:	Hi-ya  daddy! 
+*UNK:	  (  )  
+*UNK:	 (  ) toys. 
+*UNK:	 (  ) . 
+*UNK:	Hurry up!  (.) Otherwise the   (  ) will be waiting for you! 
+*UNK:	Coo. 
+*UNK:	Come on   (.)  Luke! 
+*UNK:	 Shoe.   (.) Ooh! (.)  (  ) . 
+*UNK:	Hurry up and get your coat on! (  ) . 
+*UNK:	Yeah that's   (.) coo! 
+*UNK:	 (  ) . 
+*UNK:	You what? 
+*UNK:	Because the ca  which one  (  ) ? 
+*UNK:	 (  ) . 
+*UNK:	Don't know. 
+*UNK:	Ha ha! 
+*UNK:	About half an hour.  (6.0)  Bye bye. 
+*UNK:	 I'll go    (.) I'll go and pop into   (  ) today. (.)  (  ) . 
+*UNK:	Well he   he's   
+*UNK:	 It's okay    (.) yeah I got the van and our    (  )  (.) I've gotta do that   (.) strap on the car. 
+*UNK:	Well I'm going, ooh I'm not doing that today   (.)  (  ) .  (.) I don't  know. 
+*UNK:	 Dad. 
+*UNK:	Jason! 
+*UNK:	I want   (.) I want one of his   (  )  dad. 
+*UNK:	 Luke  come on! 
+*UNK:	What if I  met   
+*UNK:	 Don't  be selfish Jason! 
+*UNK:	Bob?  (.) I can get, well you know   (.) the strap in on the car. 
+*DON:	Have you got your coat Gary? 
+*UNK:	What? 
+*UNK:	Have you got yours? 
+*UNK:	Yeah. 
+*DON:	Ooh   (  ) it's going to be chilly. 
+*UNK:	Yeah. 
+*UNK:	Luke? 
+*UNK:	Yeah. 
+*UNK:	 (  )  (.) I'll make you some  (  ) . 
+*UNK:	He's found his train. 
+*UNK:	I allowed him to have his train      (  )  (.)  (  )  (.)  (  ) . 
+*UNK:	 (  ) said we'd better go  from the house. 
+*UNK:	 I don't know. 
+*UNK:	Come on then. 
+*UNK:	Mm! 
 @End

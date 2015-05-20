@@ -1,26 +1,26 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 shopping 
-@Situation:	Unspecified
-@Media: 021A-C0897X0049XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0049XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter, UNK Unknown Unknown None ?
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
-@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6ST|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6ST|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0049XX-ABZZP0.wav
 @Comment:	conversation #43 (Tape 004910)
-*HEL:	Look!Clare you were asked to run a bath that doesn't mean to say you go across the landing six times, just run her a bath and Amy will you get in it and then come down Clare.
-*CLA:	I know, (        ) .
-*HEL:	I'm tired and I don't want to cope with you, otherwise you both go to bed this minute.
-*CLA:	What did you say?
-*HEL:	I said you run her a bath.
-*CLA:	I am .
-*HEL:	And then , well why is you clumpering across the landing six or seven times?Why all the screams?I'm tired.
-*CLA:	 (        ) screaming.
-*HEL:	Well just run her a bath and then come down.If you don't, you go to bed.
+*HEL:	Look! Clare you were asked to run a bath  that doesn't mean to say you go across  the landing six times, just run her a bath and Amy will you get in it and then come down Clare. 
+*CLA:	 I know, (  )  . 
+*HEL:	I'm tired and I don't want to cope with you, otherwise you both go to bed this minute. 
+*CLA:	What did you say? 
+*HEL:	I said you run her a bath. 
+*CLA:	 I am  . 
+*HEL:	 And then  , well why is you clumpering across the landing six or seven times? Why all the screams? I'm tired. 
+*CLA:	 (  ) screaming. 
+*HEL:	Well just run her a bath and then come down. If you don't, you go to bed. 
 @End

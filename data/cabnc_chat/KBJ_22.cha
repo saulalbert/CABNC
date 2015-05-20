@@ -1,38 +1,38 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-01-16:  
 @Location:	 at home 
-@Situation:	 getting ready for work and eating breakfast 
-@Media: 021A-C0897X0522XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 getting ready for work and eating breakfast  
+@Media:	021A-C0897X0522XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CAR Carol self, EMM Emma daughter, CHR Chris husband
-@ID: eng|AudioBNC|CAR|~44;| |f|Ag3| |courier||PS1DP|
-@ID: eng|AudioBNC|EMM|~11;| |f|Ag0| |student (state secondary)|daughter|PS1DR|
-@ID: eng|AudioBNC|CHR|~47;| |m|Ag4| |area organiser for union|husband|PS1DS|
+@Options:	CA
+@ID:	eng|AudioBNC|CAR|44;|||||courier||PS1DP|
+@ID:	eng|AudioBNC|EMM|11;|||||student (state secondary)|daughter|PS1DR|
+@ID:	eng|AudioBNC|CHR|47;|||||area organiser for union|husband|PS1DS|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0522XX-AAZZP0.wav
 @Comment:	conversation #22 (Tape 052203)
-*CAR:	Right, I'll go and do my hair.You going to take these with you?
-*CHR:	Do you need the information available for that number on Wednesdays 
-*CAR:	Yes I know dear.
-*CHR:	and we, you're not gonna have any Tuesday.
-*CAR:	No. (.) Emma!
-*EMM:	What?
-*CAR:	Can you open your curtains, (        ) at the windows.
-*EMM:	Right.
-*CHR:	Well that's this week's int it?
-*CAR:	Beg your pardon?Beg your pardon?
-*CHR:	It's for   (.) reference, he's not put any reference on this side has he?Your keeping reference, should be on.
-*CAR:	I know.
-*CHR:	Tt.But it's not on.The only other one.
-*CAR:	Yeah.
-*CHR:	So got the other one?
-*CAR:	I don't know.I haven't got time to look.I'll have to have a look at it later.
-*CHR:	Don't ring up off this one.Ab 
-*CAR:	No.
-*CHR:	 ((cough))  (.)  ((belch)) 
-*CAR:	And have you washed your face and cleaned your teeth?
-*EMM:	Yes I have.
+*CAR:	Right, I'll go and do my hair. You going to take these with you? 
+*CHR:	Do you need the information available for that number  on Wednesdays   
+*CAR:	 Yes I know dear. 
+*CHR:	and we, you're not gonna have any Tuesday. 
+*CAR:	No.  (19.0) Emma! 
+*EMM:	What? 
+*CAR:	Can you open your curtains, (  ) at the windows. 
+*EMM:	Right. 
+*CHR:	Well that's this week's int it? 
+*CAR:	Beg your pardon? Beg your pardon? 
+*CHR:	It's for   (.) reference, he's not put any reference on this side has he? Your keeping reference, should be on. 
+*CAR:	I know. 
+*CHR:	Tt. But it's not on. The only other one. 
+*CAR:	Yeah. 
+*CHR:	So  got the other one? 
+*CAR:	I don't know. I haven't got time to look. I'll have to have a look at it later. 
+*CHR:	Don't ring up off this one.  Ab    
+*CAR:	 No. 
+*CHR:	 ((cough))  (8.0)  ((belch)) 
+*CAR:	And have you washed your face and cleaned your teeth? 
+*EMM:	Yes I have. 
 @End

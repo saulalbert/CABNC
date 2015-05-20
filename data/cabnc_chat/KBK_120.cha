@@ -1,32 +1,32 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0024XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0024XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0024XX-ABZZP0.wav
 @Comment:	conversation #120 (Tape 002420)
-*NOR:	The only comment on the rhododendron came first  (        ) 
-*CHR:	On how it'll grow them you mean?
-*NOR:	Yes.
-*CHR:	Plenty of comments otherwise on them.
-*NOR:	Oh yes, how do you get them? (        ) .
-*CHR:	 ((yawn)) Really?
-*NOR:	I let  (        ) .
-*CHR:	I've never heard of it.
-*NOR:	 (        ) Got those pink violets.
-*CHR:	Yeah, yeah.
-*NOR:	I know it comes in various shapes though, the tail's very dark.
+*NOR:	The only comment on the rhododendron came first  (  )  
+*CHR:	On how it'll grow them you mean? 
+*NOR:	Yes. 
+*CHR:	Plenty of comments otherwise on them. 
+*NOR:	Oh yes, how do you get them? (  ) . 
+*CHR:	 ((yawn)) Really? 
+*NOR:	I let  (  ) . 
+*CHR:	I've never heard of it. 
+*NOR:	 (  ) Got those pink violets. 
+*CHR:	Yeah, yeah. 
+*NOR:	I know it comes in various shapes though, the tail's very dark. 
 *CHR:	 ((yawn)) 
-*NOR:	Would you like the news?
-*CHR:	What's it gonna, follow here?
-*NOR:	I don't remember.The Real McCoy, black comedy.
-*CHR:	Sounds rather hard.Oh it always is, isn't it?
+*NOR:	Would you like the news? 
+*CHR:	What's it gonna, follow here? 
+*NOR:	I don't remember. The Real McCoy, black comedy. 
+*CHR:	Sounds rather hard. Oh it always is, isn't it? 
 @End

@@ -1,37 +1,37 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 shopping 
-@Situation:	Unspecified
-@Media: 021A-C0897X0048XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0048XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, AMY Amy daughter
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0048XX-AAZZP0.wav
 @Comment:	conversation #19 (Tape 004806)
-*HEL:	Ah, I think I like this one better don't you?
-*AMY:	Yeah.
-*HEL:	Twenty two pounds.
-*AMY:	I'll pay you back.
-*HEL:	Well I don't think we'll get one at the moment.
-*AMY:	I will pay you back, I promise, as soon as I get payed, I give you the money back.
-*HEL:	Well I don't think we can buy one quite as quickly as that.
-*AMY:	Why?
-*HEL:	Well, cos that's a lot of money just to spend isn't it?Is that a lot lighter than.
-*AMY:	Yeah  (        ) .
-*HEL:	Is this, one like this?
-*AMY:	 (        ) .
-*HEL:	Well if you don't do any thing else tomorrow, you could go and have a look in erm, Worpington.That   (        ) shop there.
-*AMY:	Yeah, (        ) .
-*HEL:	Well I don't know, will see.Come on then Amy.
-*AMY:	 (        ) .
-*HEL:	Think you have to clear that with dad first.Hm.
-*AMY:	It's my money.
-*HEL:	I know, but I want to see how much there worth, so there about, see if we can get one for less than twenty pounds can't you.
-*AMY:	Why, they get heavier.The heavier they are the  (        ) .
-*HEL:	Oh right, let's go quickly across to Marks.
+*HEL:	Ah, I think I like this one better don't you? 
+*AMY:	Yeah. 
+*HEL:	Twenty two pounds. 
+*AMY:	I'll pay you back. 
+*HEL:	Well I don't think we'll get one at the moment. 
+*AMY:	I will pay you back, I promise, as soon as I get payed, I give you the money back. 
+*HEL:	Well I don't think we can buy one quite as quickly as that. 
+*AMY:	Why? 
+*HEL:	Well, cos that's a lot of money just to spend isn't it? Is that a lot lighter than. 
+*AMY:	Yeah  (  ) . 
+*HEL:	Is this, one like this? 
+*AMY:	 (  ) . 
+*HEL:	Well if you don't do any thing else tomorrow, you could go and have a look in erm, Worpington. That   (  ) shop there. 
+*AMY:	Yeah, (  ) . 
+*HEL:	Well I don't know, will see. Come on then Amy. 
+*AMY:	 (  ) . 
+*HEL:	Think you have to clear that with dad first. Hm. 
+*AMY:	It's my money. 
+*HEL:	I know, but I want to see how much there worth, so there about, see if we can get one for less than twenty pounds can't you. 
+*AMY:	Why, they get heavier. The heavier they are the  (  ) . 
+*HEL:	Oh right, let's go quickly across to Marks. 
 @End

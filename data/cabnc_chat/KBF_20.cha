@@ -1,29 +1,29 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-28:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0150XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0150XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BRE Brenda self, DAV Dave husband
-@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
-@ID: eng|AudioBNC|DAV|~37;| |m|Ag3| |hgv driver|husband|PS04V|
+@Options:	CA
+@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
+@ID:	eng|AudioBNC|DAV|37;|||||hgv driver|husband|PS04V|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0150XX-ABZZP0.wav
 @Comment:	conversation #21 (Tape 015021)
-*BRE:	June was saying that all they're tubes all broke down.
-*DAV:	Has it?
-*BRE:	Got on one tube and that broke down from the end of she's at Liverpool Street then she had to go different end to Oxford Street, but she ended up in Charing Cross then she got on another tube line at Charing Cross and then that broke down, so she said   [laughing] it took hours  [] , then she gave a taxi, had to get a taxi back to Oxford Street and, and from Oxford Street back to Waterloo and it's four pound and he gave her a change for a tenner instead, and she gave him a twenty pound note   (.) but, you know she's absolutely haggard, so I said it's just as well she can have a cup of tea before she goes, I just told her briefly about that so, erm, Carla's a bit late ain't she?
-*DAV:	 (        )  (.) 
-*BRE:	It's just actually turning quite cold out there you know.Where?
-*DAV:	 (        ) .
-*BRE:	Yeah, but  (        ) .
-*DAV:	Fresh   (        ) for three quid a week buy a trailer, want a trailer? (.) through these sales people who  (        ) .
-*BRE:	Oh my god   (.) one to ten it's got one in there already, so what have I got in there?
-*DAV:	 (        ) .
-*BRE:	Which one?
-*DAV:	 (        ) .
-*BRE:	That's the demonstration one probably.Oh no perhaps she had an extra, oh no it's already  (        ) .
+*BRE:	June was saying that all they're tubes all broke down. 
+*DAV:	Has it? 
+*BRE:	Got on one tube and that broke down from the end of she's at Liverpool Street then she had to go different end to Oxford Street, but she ended up in Charing Cross then she got on another tube line at Charing Cross and then that broke down, so she said   ((laughing)) it took hours , then she gave a taxi, had to get a taxi back to Oxford Street and, and from Oxford Street back to Waterloo and it's four pound and he gave her a change for a tenner instead, and she gave him a twenty pound note   (.) but, you know she's absolutely haggard, so I said it's just as well she can have a cup of tea before she goes, I just told her briefly about that so, erm, Carla's a bit late ain't she? 
+*DAV:	 (  )  (8.0) 
+*BRE:	It's just actually turning quite cold out there you know. Where? 
+*DAV:	 (  ) . 
+*BRE:	Yeah, but  (  ) . 
+*DAV:	Fresh   (  ) for three quid a week buy a trailer, want a trailer? (.) through these sales people who  (  ) . 
+*BRE:	Oh my god   (.) one to ten it's got one in there already, so what have I got in there? 
+*DAV:	 (  ) . 
+*BRE:	Which one? 
+*DAV:	 (  ) . 
+*BRE:	That's the demonstration one probably. Oh no perhaps she had an extra, oh no it's already  (  ) . 
 @End

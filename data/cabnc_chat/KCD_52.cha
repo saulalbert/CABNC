@@ -1,90 +1,90 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0050XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0050XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter, UNK Unknown Unknown None ?
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
-@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
-@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6ST|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
+@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6ST|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0050XX-AAZZP0.wav
 @Comment:	conversation #52 (Tape 005006)
-*NON:	If I'd got a seat on the back of my bicycle Amy could have gone on my bicycle.
-*CLA:	Well I've got my nice own bicycle.
-*NON:	Hm, but, you wouldn't be safe to peddle into Bromley.
-*CLA:	Why?
-*HEL:	Those   (        ) are a bit cheaper. (        ) .
-*HEL:	 ((cough)) that's  (        ) . (        ) Your problem is.
-*HEL:	Slazenger, sixteen ninety nine.
-*CLA:	What are they, that's going to be heavy as well.
-*HEL:	Reebok.Puma nineteen ninety nine and the Dunlop twenty three ninety nine.
-*AMY:	Dunlop would be best.
-*CLA:	That, that the Dunlop what be the lightest.
-*NON:	It doesn't give weight  (        ) .
-*HEL:	No.There all aluminium  (.) 
-*CLA:	That's about  (        ) .
-*AMY:	That's nice, (        ) .
-*CLA:	Does it say a variety of colours.
-*HEL:	No. (        ) .
-*CLA:	Why, give me back my plate.
-*HEL:	 (        ) .
-*AMY:	 (        ) .
-*CLA:	Please may I get down from the table?
-*HEL:	You haven't had any milk yet.
-*CLA:	Oh, well I've had get down.
-*HEL:	Yes  (        ) , no, well go and get a hanky, blow your nose, is that yours?
-*CLA:	No.
-*AMY:	You might want some   (        ) later.
-*HEL:	Thank you.
-*AMY:	I like the Slazenger one best. (        ) that's a very lot. (        ) . (        ) that one especially is    (        )  (        ) .
-*CLA:	 (        ) .
-*NON:	Ok.
-*AMY:	Huh, mind the cheaper they are, the heavier they go, there up from.
-*HEL:	Yeah.
-*NON:	Who told you that?
-*AMY:	They are.
-*NON:	Who told you that?.
-*HEL:	No they not .
-*AMY:	They do.
-*NON:	Who  (        ) .
-*AMY:	If you going into the, you know that shop.
-*NON:	 (        ) .
-*AMY:	 (        ) the heavier ones are cheaper then the   (        ) ones 
-*HEL:	Well you would stick in the cheapest one.
-*AMY:	What?
-*HEL:	That shop you were going at the cheapest one.
-*AMY:	Yes.
-*HEL:	So it was the heaviest was it?
-*AMY:	Yeah.
-*HEL:	 (        ) .
-*AMY:	Heavier than the head one, it's all right dad.
-*NON:	You'll probably find some of the expensive ones in the   (        ) it doesn't necessary follow.
-*HEL:	No.On the whole the cheaper ones are lighter, because there the junior ones.
-*NON:	These aren't one for short   (        ) short erm  (        ) .
-*CLA:	You've got to something daddy .
-*HEL:	Sort of they look all to big for me.
-*AMY:	That's what colour Caroline's got.
-*HEL:	Who said Caroline had got the one like you saw in the shop?How many rackets has she got?
-*AMY:	No, I meant the style like that, that's it .
-*HEL:	They all look just the same, they just different colours .
-*AMY:	They don't mummy .Huh.
-*NON:	 (        ) size  (        ) .
-*AMY:	 (        ) smaller.
-*HEL:	Not one of those said  (        ) .
-*NON:	Alright, in a moment.
-*AMY:	Oh, not going me   (        ) you said I would get some. (        )  (.) 
-*NON:	Thank you  (.) 
-*AMY:	If you put it down it'll all goes on the plate.
-*CLA:	I know.
-*AMY:	No, it's soaking up all the bread crumbs. (        )  (.) 
-*CLA:	Next lot are going to shut   (.) shuttle cock, erm shuttle cock. (        ) .
-*AMY:	Pardon.
-*CLA:	Not going to erm Badminton racket.
-*HEL:	The trouble with Argo's is you can't really get them out to try them.
+*NON:	If I'd got a seat on the back of my bicycle Amy could have gone on my bicycle. 
+*CLA:	Well I've got my nice own bicycle. 
+*NON:	Hm, but, you wouldn't be safe to peddle into Bromley. 
+*CLA:	Why? 
+*HEL:	Those   (  ) are a bit cheaper. (  ) . 
+*HEL:	 ((cough)) that's  (  ) .  (  ) Your problem is. 
+*HEL:	Slazenger, sixteen ninety nine. 
+*CLA:	What are they, that's going to be heavy as well. 
+*HEL:	Reebok. Puma nineteen ninety nine and the Dunlop twenty three ninety nine. 
+*AMY:	Dunlop would be best. 
+*CLA:	That, that the Dunlop what be the lightest. 
+*NON:	It doesn't give weight  (  ) . 
+*HEL:	No. There all aluminium  (5.0)  
+*CLA:	That's about  (  ) . 
+*AMY:	That's nice, (  ) . 
+*CLA:	Does it say a variety of colours. 
+*HEL:	No. (  ) . 
+*CLA:	Why, give me back my plate. 
+*HEL:	 (  ) . 
+*AMY:	 (  ) . 
+*CLA:	Please may I get down from the table? 
+*HEL:	You haven't had any milk yet. 
+*CLA:	Oh, well I've had get down. 
+*HEL:	Yes  (  ) , no, well go and get a hanky, blow your nose, is that yours? 
+*CLA:	No. 
+*AMY:	You might want some   (  ) later. 
+*HEL:	Thank you. 
+*AMY:	I like the Slazenger one best.  (  ) that's a very lot.  (  ) . (  ) that one especially is    (  )   (  )  . 
+*CLA:	  (  )  . 
+*NON:	Ok. 
+*AMY:	Huh, mind the cheaper they are, the heavier they go, there up from. 
+*HEL:	Yeah. 
+*NON:	Who told you that? 
+*AMY:	They are. 
+*NON:	 Who told you that?. 
+*HEL:	 No they not  . 
+*AMY:	They do. 
+*NON:	Who  (  ) . 
+*AMY:	If you going into the, you know that shop. 
+*NON:	 (  ) . 
+*AMY:	 (  ) the heavier ones are cheaper  then the   (  ) ones   
+*HEL:	 Well you would  stick in the cheapest one. 
+*AMY:	What? 
+*HEL:	That shop you were going at the cheapest one. 
+*AMY:	Yes. 
+*HEL:	So it was the heaviest was it? 
+*AMY:	Yeah. 
+*HEL:	 (  ) . 
+*AMY:	Heavier than the head one, it's all right dad. 
+*NON:	You'll probably find some of the expensive ones in the   (  ) it doesn't necessary follow. 
+*HEL:	No. On the whole the cheaper ones are lighter, because there the junior ones. 
+*NON:	These aren't one for short   (  ) short erm  (  ) . 
+*CLA:	You've got to  something daddy  . 
+*HEL:	 Sort of they look all to big for me. 
+*AMY:	That's what colour Caroline's got. 
+*HEL:	Who said Caroline had got the one like you saw in the shop? How many rackets has she got? 
+*AMY:	No, I meant the style like that, that's it  . 
+*HEL:	 They all look  just the same, they just different colours  . 
+*AMY:	 They don't mummy  . Huh. 
+*NON:	 (  ) size  (  ) . 
+*AMY:	 (  ) smaller. 
+*HEL:	Not one of those said  (  ) . 
+*NON:	Alright, in a moment. 
+*AMY:	Oh, not going me   (  ) you said I would get some. (  )  (5.0)  
+*NON:	Thank you  (5.0)  
+*AMY:	If you put it down it'll all goes on the plate. 
+*CLA:	I know. 
+*AMY:	No, it's soaking up all the bread crumbs. (  )  (10.0)  
+*CLA:	Next lot are going to shut   (.) shuttle cock, erm shuttle cock. (  ) . 
+*AMY:	Pardon. 
+*CLA:	Not going to erm Badminton racket. 
+*HEL:	The trouble with Argo's is you can't really get them out to try them. 
 @End

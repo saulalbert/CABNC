@@ -1,45 +1,45 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-22:  
 @Location:	  shop  
-@Situation:	  buying flour  
-@Media: 021A-C0897X0430XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  buying flour   
+@Media:	021A-C0897X0430XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , GRA Graeme self
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|GRA|~62;| |m|Ag5| |company secretary||PS0DX|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|GRA|62;|||||company secretary||PS0DX|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0430XX-AAZZP0.wav
 @Comment:	conversation #3 (Tape 043003)
-*GRA:	Excuse me.
-*UNK:	Can I help you please?
-*GRA:	Six pound of granary flour please?
-*UNK:	Okay.
-*UNK:	This bag is for the granary George.
-*UNK:	No.
-*UNK:	 ((laugh))  (.) One six five please?
-*UNK:	 (        ) 
-*GRA:	 ((sneeze))  (.)  ((sneeze))  (.) Had a change round?
-*UNK:	Yeah.
-*GRA:	Oh!
-*UNK:	 (        ) 
-*GRA:	Is that to fool the staff or fool the customers?
-*UNK:	Both, I think.
-*GRA:	Both is it? (.) Er er er
-*UNK:	Twenty   (.) one ninety two please?
-*GRA:	One   (.) I've got the two anyway, fifty, sixty   (.) eighty, eighty five
-*UNK:	That's it!Exactly.
-*GRA:	Exactly, isn't it?
-*UNK:	That's a miracle!
-*GRA:	 ((laugh))  (.) Cleaned me out!
-*UNK:	You worked that out didn't you?
-*GRA:	I know, I hadn't.No I hadn't!
+*GRA:	Excuse me. 
+*UNK:	Can I help you please? 
+*GRA:	Six pound of granary flour please? 
+*UNK:	Okay. 
+*UNK:	This bag is for the granary George. 
+*UNK:	No. 
+*UNK:	 ((laugh))  (22.0) One six five please? 
+*UNK:	 (  ) 
+*GRA:	 ((sneeze))  (9.0)  ((sneeze))  (6.0) Had a change round? 
+*UNK:	Yeah. 
+*GRA:	Oh! 
+*UNK:	 (  ) 
+*GRA:	Is that to fool the staff or fool the customers? 
+*UNK:	Both, I think. 
+*GRA:	Both is it?  (21.0) Er er er 
+*UNK:	Twenty   (.) one ninety two please? 
+*GRA:	One   (.) I've got the two anyway, fifty, sixty   (.) eighty, eighty five 
+*UNK:	That's it! Exactly. 
+*GRA:	Exactly, isn't it? 
+*UNK:	That's a miracle! 
+*GRA:	 ((laugh))  (.) Cleaned me out! 
+*UNK:	You worked that out  didn't you? 
+*GRA:	 I know, I  hadn't. No I hadn't! 
 *UNK:	 ((laugh)) 
-*GRA:	Cleaned me out completely, there are. ((laugh)) 
-*UNK:	That's what we're like!
-*GRA:	 ((laugh))  (.) Cheerio!
-*UNK:	Okay then.Bye!
-*GRA:	Bye bye!
+*GRA:	Cleaned me out completely, there are. ((laugh))   
+*UNK:	 That's what we're like! 
+*GRA:	 ((laugh))  (.) Cheerio! 
+*UNK:	Okay then. Bye! 
+*GRA:	Bye bye! 
 @End

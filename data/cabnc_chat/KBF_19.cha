@@ -1,33 +1,33 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-28:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0150XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0150XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BRE Brenda self, DAV Dave husband, JEA Jean friend
-@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
-@ID: eng|AudioBNC|DAV|~37;| |m|Ag3| |hgv driver|husband|PS04V|
-@ID: eng|AudioBNC|JEA|~62;| |f|Ag5| |housewife|friend|PS04Y|
+@Options:	CA
+@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
+@ID:	eng|AudioBNC|DAV|37;|||||hgv driver|husband|PS04V|
+@ID:	eng|AudioBNC|JEA|62;|||||housewife|friend|PS04Y|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0150XX-ABZZP0.wav
 @Comment:	conversation #20 (Tape 015020)
-*JEA:	What are those pretty things down there Brenda?
-*BRE:	Oh this is Carla's, were economising you see, this is Carla, wants to, Christmas presents, we've made them.
-*JEA:	Ah.
-*BRE:	They're chocolates.
-*JEA:	Ah isn't that nice.
-*BRE:	There's them and then there's, there's those, they're not as good as those ones.
-*JEA:	Oh that's attractive isn't it?
-*BRE:	Because they're, they're the balls in there.
-*JEA:	Yes.
-*BRE:	And these ones they've got just those   (.) erm smelly's in there, they're for her teacher's.
-*JEA:	Very nice.
-*BRE:	Yes, she made them for her teacher's as well, they'll   (        ) chocolates .
-*JEA:	Go on , mm.
-*BRE:	So she had great fun making them.Do you want a cup of tea Dave?
-*DAV:	Yeah, I will.
-*BRE:	Want to put that on, I'll just nip upstairs   (.) oh.
+*JEA:	What are those pretty things down there Brenda? 
+*BRE:	Oh this is Carla's, were economising you see, this is Carla, wants to, Christmas presents, we've made them. 
+*JEA:	Ah. 
+*BRE:	They're chocolates. 
+*JEA:	Ah isn't that nice. 
+*BRE:	There's them and then there's, there's those, they're not as good as those ones. 
+*JEA:	Oh that's attractive isn't it? 
+*BRE:	Because they're, they're the balls in there. 
+*JEA:	Yes. 
+*BRE:	And these ones they've got just those   (.) erm smelly's in there, they're for her teacher's. 
+*JEA:	Very nice. 
+*BRE:	Yes, she made them for her teacher's as well, they'll   (  ) chocolates  . 
+*JEA:	 Go on  , mm. 
+*BRE:	So she had great fun making them. Do you want a cup of tea Dave? 
+*DAV:	Yeah, I will. 
+*BRE:	Want to put that on, I'll just nip upstairs   (.) oh. 
 @End

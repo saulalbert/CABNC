@@ -1,94 +1,94 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-01-13:  
 @Location:	 in office 
-@Situation:	 working 
-@Media: 021A-C0897X0559XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 working  
+@Media:	021A-C0897X0559XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , GAV Gavin self, RIC Richard colleague, SAR Saranne colleague, ADR Adrian colleague, STE Steve colleague
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|GAV|~25;| |m|Ag2| |photographer||PS0BA|
-@ID: eng|AudioBNC|RIC|~24;| |m|Ag1| |journalist|colleague|PS0BC|
-@ID: eng|AudioBNC|SAR|~23;| |f|Ag1| |journalist|colleague|PS0BF|
-@ID: eng|AudioBNC|ADR|~25;| |m|Ag2| |journalist|colleague|PS0BG|
-@ID: eng|AudioBNC|STE|~25;| |m|Ag2| |journalist|colleague|PS0BH|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|GAV|25;|||||photographer||PS0BA|
+@ID:	eng|AudioBNC|RIC|24;|||||journalist|colleague|PS0BC|
+@ID:	eng|AudioBNC|SAR|23;|||||journalist|colleague|PS0BF|
+@ID:	eng|AudioBNC|ADR|25;|||||journalist|colleague|PS0BG|
+@ID:	eng|AudioBNC|STE|25;|||||journalist|colleague|PS0BH|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0559XX-AAZZP0.wav
 @Comment:	conversation #13 (Tape 055901)
-*UNK:	He hasn't got a very good command 
-*GAV:	You what mate?
-*UNK:	of English has he?
-*ADR:	 (        ) 
-*GAV:	Daily Mail. (.) 
-*ADR:	 (        ) 
-*GAV:	Yeah.
-*ADR:	 (        ) 
-*GAV:	Yeah. (.) 
-*GRO:	 (        ) 
-*RIC:	 (        ) from what we know.On the anonymous letter    (        )  (.) er right at the bottom   (        ) 
-*UNK:	 ((cough)) 
-*ADR:	you have a comment from   (.) Jason    (        ) her using this language   (        )  (.) 
-*GRO:	 (        )  (.) 
-*ADR:	Can you imagine it?How did, how did   (        ) invent using the language  (        ) 
-*STE:	It should because that was what was written and I wanted to show people what er   (        ) she didn't give me, the, the letter went to the kids. (.)  (        ) 
-*UNK:	 (        ) 
-*GAV:	So it wasn't the kids to read?
-*GRO:	 (        ) 
-*GAV:	Yeah well d to read?
-*ADR:	 (        ) read it.She went round the class and read it out.Then they got some bloody er parent who said   (.) my Johnny's never heard of that word before  (        ) 
-*GAV:	Hmm.How old are the kids?
-*ADR:	Eleven to eighteen.
-*GAV:	Eleven to eighteen?
-*ADR:	Bit old aren't they?
-*GAV:	 ((laugh)) 
-*UNK:	Yeah.
-*ADR:	Everyone knows what that word means don't they, at eleven?Bloody hell. (.) 
-*GAV:	Steve  doesn't.
-*STE:	What word's that then? ((phone rings))
-*GRO:	 (        )  ((phone rings))
-*GAV:	tel;
-*ADR:	 (        ) 
+*UNK:	He hasn't got a very  good command   
+*GAV:	 You what mate? 
+*UNK:	of English has he? 
+*ADR:	 (  ) 
+*GAV:	Daily Mail. (.)  
+*ADR:	 (  ) 
+*GAV:	Yeah. 
+*ADR:	 (  ) 
+*GAV:	Yeah. (23.0)  
+*GRO:	 (  ) 
+*RIC:	 (  ) from what we know. On the anonymous letter    (  )  (.) er right at the bottom    (  )   
+*UNK:	  ((cough))  
+*ADR:	you have a comment from   (.) Jason     (  ) her using this language   (  )  (.)  
+*GRO:	 (  )  (8.0) 
+*ADR:	Can you imagine it? How did, how did   (  ) invent using the language  (  )  
+*STE:	It should because that was what was written and I wanted to show people what er   (  ) she didn't give me, the, the letter went to the kids. (.)  (  )  
+*UNK:	 (  ) 
+*GAV:	So it wasn't the kids to read? 
+*GRO:	 (  ) 
+*GAV:	Yeah well d  to read? 
+*ADR:	 (  ) read it. She went round the class and read it out. Then they got some bloody er parent who said   (.) my Johnny's never heard of that word before  (  )  
+*GAV:	Hmm. How old are the kids? 
+*ADR:	Eleven to eighteen. 
+*GAV:	Eleven to eighteen? 
+*ADR:	Bit old aren't they? 
+*GAV:	  ((laugh))  
+*UNK:	 Yeah. 
+*ADR:	Everyone knows what that word means don't they, at eleven? Bloody hell. (.)  
+*GAV:	Steve   doesn't. 
+*STE:	What word's that then? ((phone rings)) 
+*GRO:	 (  )  ((phone rings))
+*GAV:	tel; 
+*ADR:	 (  ) 
 *GAV:	 ((sigh))  (.) 
-*UNK:	 (        ) 
-*GAV:	Yeah   (.) but I didn't really understand it.
-*UNK:	 (        ) find out what programme was on at half past seven, half past six. (.) 
-*UNK:	 (        ) 
-*ADR:	Audrey  isn't it? (.) 
-*GAV:	What for?
-*ADR:	I shouldn't go through her.
-*STE:	Well I mean   (.) try con convincing   (        ) press office.Who's Education Chair?
-*ADR:	Byron.
-*STE:	Byron. (.) 
-*ADR:	Have we got one of those council handbook  (        ) ? (.) 
-*GAV:	We've got a   (        )  (.) 
-*ADR:	Where is it? (        ) 
-*GAV:	 (        ) Have you got that council handbook Sue?
-*UNK:	Well there's one there. (.) But that's not   (        )  ((phone rings))
-*UNK:	 (        ) 
-*GAV:	Yeah. (.)  ((phonecall starts)) (        )  (.) Yeah   (.) hello mate   (.) yeah   (.) yeah   (.) I don't know I've not received it yet   (.) no so I'm just waiting for er someone to bomb into my office   (.) yeah do you want it, what, what, do you want it colour mate or black and white? (.) Black and white.Alright I'll give you a shout as soon as. (.) Cheers Steve, bye bye mate  ((phonecall ends)). (.) 
-*UNK:	Come on baby! (.) 
-*GRO:	 (        ) 
-*GAV:	I don't know what to do about this one, Chris says oh go down at dinnertime, try and   (        ) a picture at dinnertime. (.) 
-*UNK:	 (        ) 
-*GAV:	I'll say
-*UNK:	 (        ) 
-*GAV:	I'll say if he gets a good show   (        ) we'll see you right.
-*UNK:	 (        )  (.) 
-*GAV:	I think we have on occasion, like, remember th er no were you aware on the girl who had the erm   (.) metal arm?Metal hands?Like she had her rebuilt   (        ) 
-*SAR:	 ((laugh))  (.) 
-*GAV:	An exclusive for the Mail on Sunday. (.) 
-*GRO:	 (        ) 
-*GAV:	Was she okay?
-*SAR:	Oh God it was so complicated.
-*GAV:	Was it?
-*SAR:	Mm. (.) 
-*UNK:	What's this?
-*GAV:	Derek  's  (        ) .
-*UNK:	Oh right.Is this  (        ) 
-*UNK:	Well I mean   (        ) 
-*SAR:	 ((moan)) 
-*UNK:	so he'll probably get time to do it anyway  (        ) 
+*UNK:	 (  ) 
+*GAV:	Yeah   (.) but I didn't really understand it. 
+*UNK:	 (  ) find out what programme was on at half past seven, half past six. (12.0)  
+*UNK:	 (  ) 
+*ADR:	Audrey   isn't it? (.)  
+*GAV:	What for? 
+*ADR:	I shouldn't go through her. 
+*STE:	Well I mean   (.) try con  convincing   (  ) press office. Who's Education Chair? 
+*ADR:	Byron. 
+*STE:	Byron. (.)  
+*ADR:	Have we got one of those council handbook  (  ) ? (.)  
+*GAV:	We've got a   (  )  (.)  
+*ADR:	Where is it? (  )  
+*GAV:	 (  ) Have you got that council handbook Sue? 
+*UNK:	Well there's one there.  (.) But that's not   (  )  ((phone rings)) 
+*UNK:	 (  ) 
+*GAV:	Yeah.  (.)  ((phonecall starts)) (  )  (.) Yeah   (.) hello mate   (6.0) yeah   (.) yeah   (.) I don't know I've not received it yet   (.) no so I'm just waiting for er someone to bomb into my office   (.) yeah do you want it, what, what, do you want it colour mate or black and white?  (.) Black and white. Alright I'll give you a shout as soon as.  (.) Cheers Steve, bye bye mate  ((phonecall ends)). (.)  
+*UNK:	Come on baby! (6.0)  
+*GRO:	 (  ) 
+*GAV:	I don't know what to do about this one, Chris says oh go down at dinnertime, try and   (  ) a picture at dinnertime. (.)  
+*UNK:	 (  ) 
+*GAV:	I'll say 
+*UNK:	 (  ) 
+*GAV:	I'll say if he gets a good show   (  ) we'll see you right. 
+*UNK:	 (  )  (.) 
+*GAV:	I think we have on occasion, like, remember th  er no  were you aware on the girl who had the erm   (.) metal arm? Metal hands? Like she had her rebuilt    (  )   
+*SAR:	  ((laugh))   (.) 
+*GAV:	An exclusive for the Mail on Sunday. (.)  
+*GRO:	 (  ) 
+*GAV:	Was she okay? 
+*SAR:	Oh God it was so complicated. 
+*GAV:	Was it? 
+*SAR:	Mm. (.)  
+*UNK:	What's this? 
+*GAV:	Derek   's  (  ) . 
+*UNK:	Oh right. Is this  (  )  
+*UNK:	Well I mean    (  )   
+*SAR:	  ((moan))  
+*UNK:	so he'll probably get time to do it anyway  (  )  
 @End

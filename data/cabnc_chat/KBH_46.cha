@@ -1,33 +1,33 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-04:  
 @Location:	  home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0043XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0043XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CAR Carole self, CHA Charlotte daughter
-@ID: eng|AudioBNC|CAR|~36;| |f|Ag3| |administrator (pt)||PS05B|
-@ID: eng|AudioBNC|CHA|~2;| |f|Ag0| |pre-school|daughter|PS05E|
+@Options:	CA
+@ID:	eng|AudioBNC|CAR|36;|||||administrator (pt)||PS05B|
+@ID:	eng|AudioBNC|CHA|2;|||||pre-school|daughter|PS05E|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0043XX-AAZZP0.wav
 @Comment:	conversation #46 (Tape 004302)
-*CAR:	What does he eat?
-*CHA:	Yum, yum, (        ) .
-*CAR:	I know, he says yum, yum, yum, what does he eat?He eats funny things doesn't he?Can you remember?What?He doesn't eat bread and butter like you do, does he?What does he eat?Mm, can you remember?No?
-*CHA:	Mm.
-*CAR:	Mm.
-*CHA:	Mhm.
-*CAR:	Mhm   (.) Right you going to sleep   (        ) for ten minutes, no, what a noise.
-*CHA:	 (        ) 
-*CAR:	Does your baby make noises too?
-*CHA:	Yeah, Amy's.
-*CAR:	Amy makes a lot of noise, doesn't she.
-*CHA:	No, (        ) .
-*CAR:	What's you dolly's name?
-*CHA:	He's called, he's called Mrs Jacobs.
-*CAR:	It's called Mrs Jacobs is it?Oh.
-*CHA:	I put in her here.
-*CAR:	Oh you're going to put her in how you started, that's alright.Amy's not using it at the moment, oh goodness me.
+*CAR:	What does he eat? 
+*CHA:	Yum, yum, (  ) . 
+*CAR:	I know, he says yum, yum, yum, what does he eat? He eats funny things doesn't he? Can you remember? What? He doesn't eat bread and butter like you do, does he? What does he eat? Mm, can you remember? No? 
+*CHA:	Mm. 
+*CAR:	Mm. 
+*CHA:	Mhm. 
+*CAR:	Mhm   (10.0) Right you going to sleep   (  ) for ten minutes, no, what a noise. 
+*CHA:	 (  ) 
+*CAR:	Does your baby make noises too? 
+*CHA:	Yeah, Amy's. 
+*CAR:	Amy makes a lot of noise, doesn't she. 
+*CHA:	No, (  ) . 
+*CAR:	What's you dolly's name? 
+*CHA:	He's called, he's called Mrs Jacobs. 
+*CAR:	It's called Mrs Jacobs is it? Oh. 
+*CHA:	I put in her here. 
+*CAR:	Oh you're going to put her in how you started, that's alright. Amy's not using it at the moment, oh goodness me. 
 @End

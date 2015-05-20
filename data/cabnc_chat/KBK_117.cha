@@ -1,26 +1,26 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0024XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0024XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0024XX-ABZZP0.wav
 @Comment:	conversation #117 (Tape 002417)
-*CHR:	I think of eh, tend to think of the yellow, er browny shades as being azalea, rather than rhododendron. ((music in background))
-*NOR:	Mm.
-*CHR:	White, pink, red into purple   (        ) 
-*NOR:	Right know 
-*CHR:	There are indeed, yes, but you don't tint, get the, the yellows into rhododendrons do you?
-*NOR:	Not that I've ever seen, no. (        ) .
-*CHR:	Yes, I've got lovely purply of variety.
-*NOR:	 (        ) 
-*CHR:	When you get such a splodge of colour eh, it's difficult to know just how well adjusted your colour level is on the television.
-*NOR:	 (        ) 
+*CHR:	I think of eh, tend to think of the yellow, er browny shades as being azalea, rather than rhododendron. ((music in background)) 
+*NOR:	Mm. 
+*CHR:	White, pink, red into  purple   (  )   
+*NOR:	 Right know   
+*CHR:	There are indeed, yes, but you don't tint, get the, the yellows into rhododendrons do you? 
+*NOR:	Not that I've ever seen, no. (  ) . 
+*CHR:	Yes, I've got lovely purply of variety. 
+*NOR:	 (  ) 
+*CHR:	When you get such a splodge of colour eh, it's difficult to know just how well adjusted your colour level is on the television. 
+*NOR:	 (  ) 
 @End

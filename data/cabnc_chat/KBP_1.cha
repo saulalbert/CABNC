@@ -1,27 +1,27 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-13:  
 @Location:	 home 
-@Situation:	 entertaining birthday vistors 
-@Media: 021A-C0897X0265XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 entertaining birthday vistors  
+@Media:	021A-C0897X0265XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CLA Clarence self, NEV Nev brother-in-law, LIL Lil sister-in-law
-@ID: eng|AudioBNC|CLA|~65;| |m|Ag5| |retired||PS065|
-@ID: eng|AudioBNC|NEV|~72;| |m|Ag5| |retired|brother-in-law|PS067|
-@ID: eng|AudioBNC|LIL|~70;| |f|Ag5| |retired|sister-in-law|PS068|
+@Options:	CA
+@ID:	eng|AudioBNC|CLA|65;|||||retired||PS065|
+@ID:	eng|AudioBNC|NEV|72;|||||retired|brother-in-law|PS067|
+@ID:	eng|AudioBNC|LIL|70;|||||retired|sister-in-law|PS068|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0265XX-AAZZP0.wav
 @Comment:	conversation #1 (Tape 026502)
-*UNK:	and you switch it on before they arrive.
-*LIL:	Yes. (.) Mm.
-*CLA:	Yes, exactly.Yeah.Yeah.But no it, it doesn't bother me.I don't mind you know on camera, I don't mind being on video, anything.
-*LIL:	But in fairness to your friends Larry, you can hardly 
-*CLA:	Warts and all.
-*NEV:	Mm.
-*CLA:	Oh no no.
-*LIL:	do that and then
-*CLA:	I know 
-*NEV:	You've got 
+*UNK:	and you switch it on before they arrive. 
+*LIL:	 Yes.  (.) Mm. 
+*CLA:	 Yes, exactly. Yeah. Yeah.  But no it, it doesn't bother me. I don't mind you know on camera, I don't mind being on video, anything. 
+*LIL:	But in fairness to your friends  Larry, you can hardly   
+*CLA:	 Warts and all. 
+*NEV:	Mm. 
+*CLA:	Oh no no. 
+*LIL:	do that and then 
+*CLA:	 I know   
+*NEV:	 You've got   
 @End

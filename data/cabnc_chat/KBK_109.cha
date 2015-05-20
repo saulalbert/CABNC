@@ -1,22 +1,22 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0024XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0024XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0024XX-AAZZP0.wav
 @Comment:	conversation #109 (Tape 002409)
-*CHR:	Oh your orange bit's looking very good isn't it?
-*NOR:	Best  (        ) .I think  (        ) .
-*CHR:	Yes.
-*NOR:	Can you shut the door  (        ) ?
-*CHR:	Hardly when we   (        ) steamed up like this.
-*NOR:	 (        ) 
+*CHR:	Oh your orange bit's looking very good isn't it? 
+*NOR:	Best  (  ) . I think  (  ) . 
+*CHR:	Yes. 
+*NOR:	Can you shut the door  (  ) ? 
+*CHR:	Hardly when we   (  ) steamed up like this. 
+*NOR:	 (  ) 
 @End

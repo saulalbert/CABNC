@@ -1,16 +1,16 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-01-10:  
 @Location:	 at home 
-@Situation:	 preparing and eating dinner and watching television 
-@Media: 021A-C0897X0520XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 preparing and eating dinner and watching television  
+@Media:	021A-C0897X0520XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CAR Carol self
-@ID: eng|AudioBNC|CAR|~44;| |f|Ag3| |courier||PS1DP|
+@Options:	CA
+@ID:	eng|AudioBNC|CAR|44;|||||courier||PS1DP|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0520XX-AAZZP0.wav
 @Comment:	conversation #3 (Tape 052003)
-*CAR:	You're off   (.) I think, February the seventh?Did you give that piece of paper in today?All that worry, worrying this morning.Quick!Sign that you said! ((laugh)) 
+*CAR:	You're off   (.) I think, February the seventh? Did you give that piece of paper in today? All that worry, worrying this morning. Quick! Sign that you said! ((laugh))  
 @End

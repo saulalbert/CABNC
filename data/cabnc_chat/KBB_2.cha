@@ -1,83 +1,83 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-01-10:  
 @Location:	  home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0490XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0490XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	ART Arthur self, EVE Evelyn wife
-@ID: eng|AudioBNC|ART|~82;| |m|Ag5| |retired (precision engineer)||PS03S|
-@ID: eng|AudioBNC|EVE|~75;| |f|Ag5| |retired|wife|PS03T|
+@Options:	CA
+@ID:	eng|AudioBNC|ART|82;|||||retired (precision engineer)||PS03S|
+@ID:	eng|AudioBNC|EVE|75;|||||retired|wife|PS03T|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0490XX-AAZZP0.wav
 @Comment:	conversation #2 (Tape 049002)
-*UNK:	Film.
-*ART:	Film.Leave the washing up we'll both 
-*EVE:	Alright.
-*ART:	do it together.
-*EVE:	You sure? [reading television paper] Film, Seven Cities of God  [] , that's on now.Don't want that, do you?
-*ART:	No.
-*EVE:	The other one is   (.) Thorn Birds 
-*ART:	Spea , er speak to the thing and loudly or
-*EVE:	Do you think it's   (.) taking?
-*ART:	Shall have to see.
-*EVE:	I is it running?Has the, is the red light on?Ah!Oh!I see.Same as the other one.
-*ART:	Oh oh!
-*EVE:	You know what's on tonight?
-*ART:	Er, anything any good?
-*EVE:	Well!Grace and Favour, you know th  (.) er Are You Being Served?
-*ART:	Mm.
-*EVE:	That's on.A new series but called Grace and Favour at eight.
-*ART:	Is it
-*EVE:	But
-*ART:	a series, a series or just one 
-*EVE:	A new one!A new 
-*ART:	new series altogether?
-*EVE:	Yeah Gra .Yeah, the similar   (.) carrying on 
-*ART:	Oh.
-*EVE:	from the Grace Brothers.
-*ART:	That should be   (.) rather nice.
-*EVE:	But   (.) on the comedy channel on the satellite   (.) it's, the old er   (.) Are You Being Served.
-*ART:	Mm.
-*EVE:	So you can   (.) decide 
-*ART:	Choose 
-*EVE:	what you're going to see, the new series or   (.) repeat of the 
-*ART:	Oh ah!
-*EVE:	old.So
-*ART:	The new series is alright though.The older series was alright but
-*EVE:	Yeah, well we'll have to see.Anyway   (.) what was all that on the news?I didn't hear it at one o'clock, did you?
-*ART:	It's some   (.) what?There's a 
-*EVE:	What's the matter?
-*ART:	big lorry coming up, big yellow lorry coming up the road.Oh it's got sweeping brushes.
-*EVE:	They're probably putting sand e sand in the roads.
-*ART:	Clear, I hope he's clearing the salt up.
-*EVE:	No he's not.I bet he's putting salt in the road.
-*ART:	Yeah.Oh well.Half inch of frost and you get the salt people out.
-*EVE:	Mm.Well  (        ) .
-*ART:	As soon as it's strikes your, the bottom of your car it's it begins to rust.
-*EVE:	Well
-*ART:	And ne ,e it, and is, if it's going to freeze tonight you can't wash it off.
-*EVE:	Well we shan't be going out in the car today shall we?Or tomorrow.
-*ART:	No.
-*EVE:	So
-*ART:	Do you think we ought to go round Peter and Joan's.
-*EVE:	No.She likes to be told.Just leave 
-*ART:	About fetching you home.
-*EVE:	No.I'm gonna take her home.And then you can't have a drink cos you've got to take her haven't 
-*ART:	Oh yeah!
-*EVE:	you?
-*ART:	True.
-*EVE:	Mm.No, wait till the weather's a bit better.And it might be snowing tomorrow.
-*ART:	Er, is the market o always crowded like that   (.) so you're pushing?
-*EVE:	Well, it is if you go in 
-*ART:	So as you get  (        ) .
-*EVE:	Friday and Saturday.Well it mostly is in the week anyway.
-*ART:	How about ringing George up?
-*EVE:	Well   (.) no, if he's suffering from depression you don't want 
-*ART:	Do you think he'll come for lunch?
-*EVE:	No.Don't wanna ask him this week.Besides he wouldn't come at 
-*ART:	I said I wouldn't give him  (        ) .
-*EVE:	sh , such short notice.Well he may have Madge and Tom last week, I don't
+*UNK:	 Film. 
+*ART:	 Film.  Leave the washing up we'll  both   
+*EVE:	 Alright. 
+*ART:	do it  together. 
+*EVE:	 You sure?   ((reading television paper)) Film, Seven Cities of God , that's on now. Don't want that, do you? 
+*ART:	No. 
+*EVE:	The other one is   (.)  Thorn Birds   
+*ART:	 Spea  , er  speak to the thing and loudly or 
+*EVE:	Do you think it's   (.) taking? 
+*ART:	Shall have to  see. 
+*EVE:	 I   is it running? Has the, is the red light on? Ah! Oh! I see. Same as the other one. 
+*ART:	Oh oh! 
+*EVE:	You know what's on tonight? 
+*ART:	Er, anything any good? 
+*EVE:	Well! Grace and Favour, you know th   (.) er Are You Being Served? 
+*ART:	Mm. 
+*EVE:	That's on. A new series but called Grace and Favour at eight. 
+*ART:	Is it 
+*EVE:	But 
+*ART:	a series, a series or just  one   
+*EVE:	 A  new one! A  new   
+*ART:	 new  series  altogether? 
+*EVE:	 Yeah  Gra  . Yeah, the similar   (.) carrying  on   
+*ART:	 Oh. 
+*EVE:	from the Grace  Brothers. 
+*ART:	 That  should be   (.) rather nice. 
+*EVE:	But   (.) on the comedy channel on the satellite   (.) it's, the old er   (.) Are You Being Served. 
+*ART:	Mm. 
+*EVE:	So you can   (.)  decide   
+*ART:	 Choose   
+*EVE:	what you're going to see, the new series or   (.) repeat  of the   
+*ART:	 Oh ah! 
+*EVE:	old. So 
+*ART:	The new series is alright though. The older series was alright but 
+*EVE:	Yeah, well we'll have to see. Anyway   (.) what was all that on the news? I didn't hear it at one o'clock, did you? 
+*ART:	It's some   (.) what?  There's a   
+*EVE:	 What's the  matter? 
+*ART:	big lorry coming up, big yellow lorry coming up the road. Oh it's got sweeping brushes. 
+*EVE:	They're probably putting sand e  sand in the roads. 
+*ART:	Clear, I hope he's clearing the salt up. 
+*EVE:	No he's not. I bet he's putting salt in the road. 
+*ART:	Yeah. Oh well. Half inch of frost and you get the salt people out. 
+*EVE:	Mm. Well  (  ) . 
+*ART:	As soon as it's strikes your, the bottom of your car it's it begins to rust. 
+*EVE:	Well 
+*ART:	And ne  ,e  it, and is, if it's going to freeze tonight you can't wash it off. 
+*EVE:	Well we shan't be going out in the car today shall we? Or tomorrow. 
+*ART:	No. 
+*EVE:	So 
+*ART:	Do you think we ought to go round Peter and Joan's. 
+*EVE:	No. She likes to be told. Just  leave   
+*ART:	 About  fetching you home. 
+*EVE:	No. I'm gonna take her home. And then you can't have a drink cos you've got to take her  haven't   
+*ART:	 Oh yeah! 
+*EVE:	you? 
+*ART:	True. 
+*EVE:	Mm. No, wait till the weather's a bit better. And it might be snowing tomorrow. 
+*ART:	Er, is the market o  always crowded like that   (.) so you're pushing? 
+*EVE:	Well, it is if you go in   
+*ART:	 So as you get  (  ) . 
+*EVE:	Friday and Saturday. Well it mostly is in the week anyway. 
+*ART:	How about ringing George up? 
+*EVE:	Well   (.) no, if he's suffering from depression you  don't want   
+*ART:	 Do you  think he'll come for lunch? 
+*EVE:	No. Don't wanna ask him this week.  Besides he wouldn't come at   
+*ART:	 I said I wouldn't give him  (  ) . 
+*EVE:	sh  , such short notice. Well he may have Madge and Tom last week, I don't 
 @End

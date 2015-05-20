@@ -1,57 +1,57 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 shopping 
-@Situation:	Unspecified
-@Media: 021A-C0897X0047XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0047XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
-@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
+@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0047XX-ABZZP0.wav
 @Comment:	conversation #10 (Tape 004710)
-*UNK:	Always on my mind
-*CLA:	Oh I don't  ((laugh)) 
-*HEL:	Why   (        ) that
-*CLA:	What that thing through the
-*AMY:	 (        ) 
-*CLA:	Let's have a look and see if there is some    (.)  (        ) fruits or one    (.)  ((laugh))  (.) 
-*AMY:	Those are mine.
-*CLA:	What? (.) 
-*AMY:	That's where she got these from.This one is mine. (.) Sorry.Happy Birthday.
-*CLA:	No I don't want happy birthday do you?
-*AMY:	Miss you.
-*CLA:	Oh yes well that's not very   (.) appropriate is it?
-*AMY:	Thank you.
-*CLA:	No happy birthday that says.
-*AMY:	I know.I'm looking for  (        ) 
-*CLA:	Let's see what that   (.) Oh that one there.No the big one.How much are these?Erm that one.
-*AMY:	Happy birthday.
-*CLA:	 (        ) where did you get it from?There that would be
-*HEL:	Why do you think we'll have to have one like that?
-*CLA:	Well don't you think that's quite appropriate?
-*HEL:	Hmm.
-*CLA:	Hmm?With the ballet shoes?
-*HEL:	 (        ) I'm cold.
-*CLA:	Now is that better?The ballet shoes are more appropriate don't you?
-*HEL:	Mm mm.
-*AMY:	She'll probably like that better.Ballet shoes.
-*CLA:	 (        ) away Amy.
-*HEL:	I like that one.
-*CLA:	You like that one?
-*HEL:	Hmm.
-*AMY:	That's not funny Mum.
-*CLA:	No I don't like I like that one better.
-*HEL:	I like that.
-*CLA:	No   (        ) that one's bigger.
-*HEL:	Pardon?
-*CLA:	That's got bigger. (.) It's too expensive  (.) 
-*AMY:	 (        ) 
-*CLA:	I should get her the ballet shoes cause it was a ballet dancing   (.) that would be very appropriate and I'll get her some flowers.
-*HEL:	Well why don't we give her flowers? 'Cause we've given her flowers.
-*CLA:	I think she'd like the ballet shoes.It was a ballet exam wasn't it?
+*UNK:	Always on my mind 
+*CLA:	Oh I don't  ((laugh))  
+*HEL:	Why   (  ) that 
+*CLA:	What that thing through the 
+*AMY:	 (  ) 
+*CLA:	Let's have a look and see if there is some    (.)  (  ) fruits or one    (.)  ((laugh))  (14.0)  
+*AMY:	Those are mine. 
+*CLA:	What? (10.0)  
+*AMY:	That's where she got these from. This one is mine.  (.) Sorry. Happy Birthday. 
+*CLA:	No I don't want happy birthday do you? 
+*AMY:	Miss you. 
+*CLA:	Oh yes well that's not very   (.) appropriate is it? 
+*AMY:	Thank you. 
+*CLA:	No happy birthday that says. 
+*AMY:	I know. I'm looking for  (  )  
+*CLA:	Let's see what that   (.) Oh that one there. No the big one. How much are these? Erm that one. 
+*AMY:	Happy birthday. 
+*CLA:	 (  ) where did you get it from? There that would be 
+*HEL:	Why do you think we'll have to have one like that? 
+*CLA:	Well don't you think that's quite appropriate? 
+*HEL:	Hmm. 
+*CLA:	Hmm? With the ballet shoes? 
+*HEL:	 (  ) I'm cold. 
+*CLA:	Now is that better? The ballet shoes are more appropriate don't you? 
+*HEL:	Mm mm. 
+*AMY:	She'll probably like that better. Ballet shoes. 
+*CLA:	 (  ) away Amy. 
+*HEL:	I like that one. 
+*CLA:	You like that one? 
+*HEL:	Hmm. 
+*AMY:	That's not funny Mum. 
+*CLA:	No I don't like I like that one better. 
+*HEL:	I like that. 
+*CLA:	No   (  ) that one's bigger. 
+*HEL:	Pardon? 
+*CLA:	That's got bigger.  (.) It's too expensive  (10.0)  
+*AMY:	 (  ) 
+*CLA:	I should get her the ballet shoes cause it was a ballet dancing   (.) that would be very appropriate and I'll get her some flowers. 
+*HEL:	Well why don't we give her flowers? 'Cause we've given her flowers. 
+*CLA:	I think she'd like the ballet shoes. It was a ballet exam wasn't it? 
 @End

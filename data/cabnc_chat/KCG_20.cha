@@ -1,21 +1,21 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-04-09:  
 @Location:	  at home  
-@Situation:	  talking while eating tea and washing up  
-@Media: 021A-C0897X0740XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  talking while eating tea and washing up   
+@Media:	021A-C0897X0740XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , JAN Jane self, STA Stacey daughter
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|JAN|~33;| |f|Ag2| |housewife||PS19L|
-@ID: eng|AudioBNC|STA|~7;| |f|Ag0| |student (state primary)|daughter|PS19N|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|JAN|33;|||||housewife||PS19L|
+@ID:	eng|AudioBNC|STA|7;|||||student (state primary)|daughter|PS19N|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0740XX-ABZZP0.wav
 @Comment:	conversation #20 (Tape 074006)
-*JAN:	Come on sit and start reading, leave the recorder alone.
-*GRO:	 (        ) 
-*JAN:	it's not an M, where's the M?It's not kimper 
-*STA:	P P C
+*JAN:	Come on sit and start reading, leave the recorder alone. 
+*GRO:	 (  ) 
+*JAN:	it's not an M, where's the M? It's not kimper  
+*STA:	P P C 
 @End

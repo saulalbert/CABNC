@@ -1,32 +1,32 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-23:  
 @Location:	 at home 
-@Situation:	 breakfast 
-@Media: 021A-C0897X0405XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 breakfast  
+@Media:	021A-C0897X0405XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHE Cherrilyn self, BRI Brian husband
-@ID: eng|AudioBNC|CHE|~43;| |f|Ag3| |nursing auxiliary||PS06A|
-@ID: eng|AudioBNC|BRI|~43;| |m|Ag3| |mortgage broker|husband|PS06F|
+@Options:	CA
+@ID:	eng|AudioBNC|CHE|43;|||||nursing auxiliary||PS06A|
+@ID:	eng|AudioBNC|BRI|43;|||||mortgage broker|husband|PS06F|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0405XX-ABZZP0.wav
 @Comment:	conversation #31 (Tape 040516)
-*CHE:	What?
-*BRI:	Had a fight over a stick!
-*CHE:	In the park?
-*BRI:	I mean a stick about this long!You know   (.) really hard!You know, not just   (.) you know    (.)  (        ) end of it  (        ) . (.) In, in they go   (.) it's   (.) Ha!Ha!Hello! (.) Hello!
-*CHE:	This thing's is going all erm   (.) frayed look!
-*BRI:	What?
-*CHE:	Oh the   (.) this   (.) iron's fraying on the end for some reason.
-*BRI:	Let me lo oh the lead?
-*CHE:	Mm.
-*BRI:	 (        ) I'll put a bit I thought it had always been like that.
-*CHE:	No!
-*BRI:	Oh, put it through there.
-*CHE:	You put a new piece on didn't you?
-*BRI:	Put a lead on it, yeah.
-*CHE:	Yeah.So how could it all   (.) be like that?
-*BRI:	Cos I cut the end and everything to   (.) thread in there, (        ) .
+*CHE:	What? 
+*BRI:	Had a fight over a stick! 
+*CHE:	In  the park? 
+*BRI:	 I mean  a stick about this long! You know   (.) really hard! You know, not just   (.) you know    (.)  (  ) end of it  (  ) .  (8.0) In, in they go   (6.0) it's   (25.0) Ha! Ha! Hello!  (6.0) Hello! 
+*CHE:	This thing's is going all erm   (.) frayed look! 
+*BRI:	What? 
+*CHE:	Oh the   (.) this   (.) iron's fraying on the end for some reason. 
+*BRI:	Let me lo  oh the lead? 
+*CHE:	Mm. 
+*BRI:	 (  ) I'll put a bit I thought it had always been like that. 
+*CHE:	No! 
+*BRI:	Oh, put it through there. 
+*CHE:	You put a new piece on didn't you? 
+*BRI:	Put a lead on it, yeah. 
+*CHE:	Yeah. So how could it all   (.) be like that? 
+*BRI:	Cos I cut the end and everything to   (11.0) thread in there, (  ) . 
 @End

@@ -1,100 +1,100 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-18:  
 @Location:	 home 
-@Situation:	 talking 
-@Media: 021A-C0897X0284XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 talking  
+@Media:	021A-C0897X0284XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , HER Herbert husband, IRI Iris self, GOR Gordon friend
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|HER|~56;| |m|Ag4| |landscape gardener|husband|PS1EM|
-@ID: eng|AudioBNC|IRI|~54;| |f|Ag4| |home care assistant||PS1EN|
-@ID: eng|AudioBNC|GOR|~72;| |m|Ag5| |retired|friend|PS1ES|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|HER|56;|||||landscape gardener|husband|PS1EM|
+@ID:	eng|AudioBNC|IRI|54;|||||home care assistant||PS1EN|
+@ID:	eng|AudioBNC|GOR|72;|||||retired|friend|PS1ES|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0284XX-ABZZP0.wav
 @Comment:	conversation #21 (Tape 028405)
-*UNK:	Oh yes, how is she?
-*HER:	She's alright. (.) She said, oh!I said how you feeling? (.) She said, I'd like to see a  (        ) . (.) He said after she'd  (        ) .
-*IRI:	yes, it's a shame!
-*HER:	She's got two   (.) she's got daughters and 
-*IRI:	Can you post that for me please?
-*HER:	Yes. (.) And   (.) she   (.) but er   (.) I think one lives in Hull. (.) Near Hull, (        )  (.) cos I said  (        ) , I said where are you going? (.)  (        )  (.) Oh she said, [laughing] I don't she said  [] ! (.) We'll have to see. (.) She's had her teeth  (        ) .
-*IRI:	I think that house of Joe  's   (.) is up for sale isn't it?It's all   (.) which house did he, cos there's two there isn't there, Gordon?You know Joe, who I mean?
-*GOR:	Oh,fo him, down the Ponderosa  (.) Down the Ponderosa ?
-*IRI:	Joe, who you used to go and see.
-*GOR:	Oh!Joe  and   (        ) 
-*IRI:	Yeah.
-*GOR:	yes!
-*IRI:	Was it the one that side or this side?
-*GOR:	The   (.) the bungalow this side.
-*IRI:	You're going down the road 
-*GOR:	Yes. (.) There's two bungalows, or three bungalows isn't there?
-*IRI:	Two.
-*GOR:	Two? (.) It's that one there. (.) Not the first one 
-*IRI:	No!
-*GOR:	you see.
-*IRI:	I'm this way!You're on the main road now
-*GOR:	Yes.
-*IRI:	and they're on that side.
-*GOR:	That's it!Yeah, that's it!
-*IRI:	Now which bungalow is it?
-*GOR:	It's that one.
-*IRI:	Well it's, it's all empty!
-*HER:	Is it?
-*IRI:	Yeah.
-*HER:	Oh course, she died didn't she?
-*IRI:	Yeah.Yeah.
-*HER:	I, I had   (        ) 
-*IRI:	But I thought she had a son living with her?
-*HER:	I think there was two sons weren't there?And   (.) one son 
-*IRI:	Well I'm sure   (.) if you ever 
-*HER:	Yeah.
-*IRI:	you go past 
-*HER:	Yeah.
-*IRI:	down there, you have a look.
-*HER:	yes   (        ) 
-*IRI:	One of 
-*HER:	Well I 
-*IRI:	them's like 
-*HER:	I like 
-*IRI:	as though it's all been emptied and, and erm   (.) I don't know!
-*HER:	yes!
-*IRI:	Well I imagine 
-*HER:	Right.
-*IRI:	that it would go up for 
-*HER:	Yeah.
-*IRI:	sale wouldn't it, between them?
-*HER:	Mm. (.) yes! (.) The family like  (        ) .
-*IRI:	I only only saw it cos it, it's 
-*HER:	No that 
-*IRI:	on a bad corner there and I don't like, I don't take 
-*HER:	No!
-*IRI:	my eyes off the road.
-*HER:	When did I, (        ) ? (.) Oh!I was gonna get this   (        ) when   (.) it's chilly.
-*GOR:	What, when they've all passed there?
-*HER:	 (        )  (.) That's right!And I go   (.) back door here.
-*IRI:	Yeah. (.) Yeah.
-*HER:	At   (.) like, like you're   (.) it's, you come into a bend and you've got to watch it and   (.) I er   (.) just had a quick glance at it like, isn't it, you know?
-*IRI:	It's the second one.
-*HER:	Yeah.
-*IRI:	And it looks as though it was all whitewashed and  (        ) .
-*HER:	yes, and this new caravan one?Tie them 
-*IRI:	Yeah.
-*HER:	at the front like, (        ) 
-*IRI:	But it looks , you know?As though 
-*HER:	Yeah.
-*IRI:	it's been all what's er named.
-*HER:	Done , yes.
-*IRI:	And I thought, well I  (        ) , like, I know she's got married but I don't know 
-*HER:	Yeah.
-*IRI:	about the others.
-*HER:	yes.
-*IRI:	I think one of them's separated.
-*HER:	Aha.
-*IRI:	And he came back home.
-*HER:	Oh yeah.
-*IRI:	But as for the others, I don't know.
-*HER:	 (        )  (.) Well last   (.) last year she came to the erm   (.) the social, we have it in November, a big social event er   (.) you know?
+*UNK:	Oh yes, how is she? 
+*HER:	She's alright.  (.) She said, oh! I said how you feeling?  (.) She said, I'd like to see a  (  ) .  (.) He said after she'd  (  ) . 
+*IRI:	yes, it's a shame! 
+*HER:	She's got two   (.) she's got  daughters and   
+*IRI:	 Can you post  that for me  please? 
+*HER:	 Yes.   (.) And   (.) she   (.) but er   (.) I think one lives in Hull.  (.) Near Hull, (  )  (.) cos I said  (  ) , I said where are you going?  (.)  (  )  (.) Oh she said, ((laughing)) I don't she said !  (.) We'll have to see.  (.) She's had her teeth  (  ) . 
+*IRI:	I think that house of Joe   's   (.) is up for sale isn't it? It's all   (.) which house did he, cos there's two there isn't there, Gordon? You know Joe, who I mean? 
+*GOR:	Oh,fo  him, down the Ponderosa  (.) Down the  Ponderosa ? 
+*IRI:	 Joe, who you  used to go and see. 
+*GOR:	Oh! Joe   and    (  )   
+*IRI:	 Yeah. 
+*GOR:	yes! 
+*IRI:	Was it the one that side or this side? 
+*GOR:	The   (.) the bungalow this side. 
+*IRI:	You're going down the  road   
+*GOR:	 Yes.   (.) There's two bungalows, or three bungalows isn't there? 
+*IRI:	Two. 
+*GOR:	Two?  (.) It's that one there.  (.) Not the first  one   
+*IRI:	 No! 
+*GOR:	you see. 
+*IRI:	I'm this way! You're on the main road now 
+*GOR:	Yes. 
+*IRI:	and they're on that side. 
+*GOR:	That's it! Yeah, that's it! 
+*IRI:	Now which bungalow is it? 
+*GOR:	It's that one. 
+*IRI:	Well it's, it's all empty! 
+*HER:	Is it? 
+*IRI:	Yeah. 
+*HER:	Oh course, she died didn't she? 
+*IRI:	Yeah. Yeah. 
+*HER:	I, I had    (  )   
+*IRI:	 But I thought  she had a son living with her? 
+*HER:	I think there was two sons weren't there? And   (.)  one son   
+*IRI:	 Well I'm  sure   (.) if you  ever   
+*HER:	 Yeah. 
+*IRI:	you go  past   
+*HER:	 Yeah. 
+*IRI:	down there, you have  a look. 
+*HER:	 yes   (  )   
+*IRI:	 One of   
+*HER:	 Well I   
+*IRI:	them's  like   
+*HER:	 I like   
+*IRI:	as though it's all been emptied and, and erm   (.) I don't know! 
+*HER:	yes! 
+*IRI:	Well I  imagine   
+*HER:	 Right. 
+*IRI:	that it would go up  for   
+*HER:	 Yeah. 
+*IRI:	sale wouldn't it, between  them? 
+*HER:	 Mm.   (.) yes!  (.) The family like  (  ) . 
+*IRI:	I only only saw it  cos it, it's   
+*HER:	 No that   
+*IRI:	on a bad corner there and I don't like, I don't  take   
+*HER:	 No! 
+*IRI:	my eyes off the road. 
+*HER:	When did I, (  ) ?  (8.0) Oh! I was gonna get this   (  ) when   (.) it's chilly. 
+*GOR:	What, when they've all passed there? 
+*HER:	 (  )  (.) That's right! And I go   (.) back door  here. 
+*IRI:	 Yeah.   (.) Yeah. 
+*HER:	At   (.) like, like you're   (.) it's, you come into a bend and you've got to watch it and   (.) I er   (.) just had a quick glance at it like, isn't it, you know? 
+*IRI:	It's the second one. 
+*HER:	Yeah. 
+*IRI:	And it looks as though it was all  whitewashed and  (  ) . 
+*HER:	 yes, and this new  caravan one? Tie  them   
+*IRI:	 Yeah. 
+*HER:	at the front like, (  )   
+*IRI:	 But it looks  , you know?  As though  
+*HER:	 Yeah. 
+*IRI:	it's been all what's er  named. 
+*HER:	 Done  , yes. 
+*IRI:	And I thought, well I  (  ) , like, I know she's got married but I don't  know   
+*HER:	 Yeah. 
+*IRI:	about the others. 
+*HER:	yes. 
+*IRI:	I think one of them's separated. 
+*HER:	Aha. 
+*IRI:	And he came back home. 
+*HER:	Oh yeah. 
+*IRI:	But as for the others, I  don't know. 
+*HER:	  (  )   (.) Well last   (.) last year she came to the erm   (.) the social, we have it in November, a big social event er   (.) you know? 
 @End

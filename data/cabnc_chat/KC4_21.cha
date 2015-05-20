@@ -1,36 +1,36 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-05:  
 @Location:	 The Lion Inn 
-@Situation:	Unspecified
-@Media: 021A-C0897X0066XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0066XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , FRE Fred self
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|FRE|~78;| |m|Ag5| |retired||PS1E4|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|FRE|78;|||||retired||PS1E4|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0066XX-AAZZP0.wav
 @Comment:	conversation #21 (Tape 006607)
-*FRE:	Come on darling, come on darling.
-*NON:	Pint of  (        ) .
-*FRE:	Pint of  (        ) , and eh, and I, I will tell you what, oh bloody hell look at this, you know, that's no bloody good is it?You know, no that's no good is it?No, that's no good.
-*NON:	And what?A Glenfiddich
-*FRE:	Eh, you're tempting me aren't you?I'll have a Glenfiddich yes, yes, yes, and eh, and Kath wants a, want a whisky, with a, with a, with a drop of something in it I think, don't she?Yeah, yeah.
-*NON:	Three seventy seven please.No.
-*FRE:	No, no. ((music))
-*NON:	 (        ) 
-*FRE:	I tell you what, what darling, I, I, I usually ain't er make much fuss   (        ) sometime
-*NON:	Ooh I might have time later.
-*FRE:	I tell you what, you know, at my age   ((laugh)) I bet you, I think you'll be wasting your time. ((laugh)) Go on. ((laugh)) Yeah, it's, it's not, it, it, it's nice to think about, but you know  ((laugh)) 
-*NON:	Yeah.
-*FRE:	it's all in the mind, isn't it?
-*NON:	Yep.
-*FRE:	You know, at, at seventy eight, you know, nearly seventy nine, you know, it's all in the mind.
-*NON:	Yeah, never mind  (        ) .
-*FRE:	But, this   (        ) I'll, I'll tell you what darling, with a bit of encouragement, I do manage it sometimes.
+*FRE:	Come on darling, come on darling. 
+*NON:	Pint of  (  ) . 
+*FRE:	Pint of  (  ) , and eh, and I, I will tell you what, oh bloody hell look at this, you know, that's no bloody good is it? You know, no that's no good is it? No, that's no good. 
+*NON:	And what? A Glenfiddich 
+*FRE:	Eh, you're tempting me aren't you? I'll have a Glenfiddich yes, yes, yes, and eh, and Kath wants a, want a whisky, with a, with a, with a drop of something in it I think, don't she? Yeah, yeah. 
+*NON:	Three seventy seven please. No. 
+*FRE:	No, no. ((music)) 
+*NON:	 (  ) 
+*FRE:	I tell you what, what darling, I, I, I usually ain't er make much fuss   (  ) sometime 
+*NON:	Ooh I might have time later. 
+*FRE:	I tell you what, you know, at my age   ((laugh)) I bet you, I think you'll be wasting your time.  ((laugh)) Go on.  ((laugh)) Yeah, it's, it's not, it, it, it's nice to think about, but you know  ((laugh))  
+*NON:	Yeah. 
+*FRE:	it's all in the mind, isn't it? 
+*NON:	Yep. 
+*FRE:	You know, at, at seventy eight, you know, nearly seventy nine, you know, it's all in the mind. 
+*NON:	Yeah, never mind  (  ) . 
+*FRE:	But, this   (  ) I'll, I'll tell you what darling, with a bit of encouragement, I do manage it sometimes. 
 *NON:	 ((laugh)) 
-*FRE:	 ((laugh)) No, no, no, you don't believe me do you?
-*NON:	I do, if you say so.
+*FRE:	 ((laugh)) No, no, no, you don't believe me do you? 
+*NON:	I do, if you say so. 
 @End

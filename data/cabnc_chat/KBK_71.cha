@@ -1,19 +1,19 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0023XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0023XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, LYN Lynda colleague
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|LYN|~44;| |f|Ag3| |export assistant|colleague|PS102|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|LYN|44;|||||export assistant|colleague|PS102|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0023XX-AAZZP0.wav
 @Comment:	conversation #71 (Tape 002305)
-*CHR:	Bill's really enjoying himself out there isn't he?
-*LYN:	 (        ) .
-*CHR:	Goodness knows, demolishing by the sound of it. ((sigh)) 
+*CHR:	Bill's really enjoying himself out there isn't he? 
+*LYN:	 (  ) . 
+*CHR:	Goodness knows, demolishing by the sound of it. ((sigh))  
 @End

@@ -1,25 +1,25 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-01-17:  
 @Location:	 at home 
-@Situation:	 writing out forms and getting dinner ready 
-@Media: 021A-C0897X0523XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 writing out forms and getting dinner ready  
+@Media:	021A-C0897X0523XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CAR Carol self, CHR Chris husband
-@ID: eng|AudioBNC|CAR|~44;| |f|Ag3| |courier||PS1DP|
-@ID: eng|AudioBNC|CHR|~47;| |m|Ag4| |area organiser for union|husband|PS1DS|
+@Options:	CA
+@ID:	eng|AudioBNC|CAR|44;|||||courier||PS1DP|
+@ID:	eng|AudioBNC|CHR|47;|||||area organiser for union|husband|PS1DS|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0523XX-AAZZP0.wav
 @Comment:	conversation #26 (Tape 052304)
-*CAR:	I'll be glad when that Ottoman comes so I can get rid of all that stuff. (.) Chris?
-*CHR:	Yeah?
-*CAR:	What?I've got to out tonight, as I said.So what do you want   (.) I'll go and have a look see what we've got.
-*CHR:	You got a stamp love?
-*CAR:	Yes! (.) There we are.
-*CHR:	Put it there, stick us on a stamp.
-*CAR:	Oh I bet it's   (.) it's we all have and trying to look  (        ) , not worth have it done is it  (        ) ?
-*CHR:	 (        ) popular again.
-*CAR:	Yeah.I'll turn   (.) this off now and get on with the dinner.
+*CAR:	I'll be glad when that Ottoman comes so I can get rid of all that stuff.  (6.0) Chris? 
+*CHR:	Yeah? 
+*CAR:	What? I've got to out tonight, as I said. So what do you want   (.) I'll go and have a look see what we've got. 
+*CHR:	You got a stamp love? 
+*CAR:	Yes!  (7.0) There we are. 
+*CHR:	Put it there, stick us on a stamp. 
+*CAR:	Oh I bet it's   (.) it's we all have and trying to look  (  ) , not worth have it done is it   (  ) ? 
+*CHR:	  (  )  popular again. 
+*CAR:	Yeah. I'll turn   (.) this off now and get on with the dinner. 
 @End

@@ -1,35 +1,35 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-05:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0145XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0145XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	GIN Ginny self
-@ID: eng|AudioBNC|GIN|~65;| |f|Ag5| |housewife||PS0CG|
+@Options:	CA
+@ID:	eng|AudioBNC|GIN|65;|||||housewife||PS0CG|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0145XX-AAZZP0.wav
 @Comment:	conversation #38 (Tape 014505)
-*GIN:	I'm ever so sorry when the erm, master mind finished
-*VIC:	Oh  (        ) .
-*GIN:	It makes me look how ignorant I am.
-*VIC:	 ((laugh)) .
-*GIN:	 (        ) .
-*VIC:	You should, I   (        ) do you ever watch the snooker?
-*GIN:	Sometimes if it's on Joan, I don't watch snooker, but if it's on I get fascinated by   (        ) 
-*VIC:	Oh, yeah, oh   (        ) who won the finals between John Parrott and Andy White, Jimmy White, the other night?
-*GIN:	I think I saw it on the news    (        )  (        ) thirty five thousand pounds somebody  (        ) .
-*VIC:	Yeah   (        ) , yeah there probably was quite  (        ) , only cos we don't get a newspaper, huh, and I didn't hear it on the radio the next morning   (.) cos we watched bits of it you see, then, it's, it's always on late at night.
-*GIN:	 (        ) .
-*VIC:	Oh  (        ) .
-*GIN:	And they were congratulating one of them, what was the two names?
-*VIC:	John Parrot  (        ) , he was winning, he was winning earlier on in the evening, twelve frames too nine or something like that.
-*GIN:	I wouldn't like to commit myself .
-*VIC:	No, no, no.I just wondered, it, it what I was looking for, it   (        ) he is the world championship or something like that.
-*GIN:	How many do  (        ) .
-*VIC:	Yes, that was last week probably.
-*GIN:	Oh I've thrown the papers away.
-*VIC:	Yeah, oh don't worry, no, I was just start wondering because I, I watch
+*GIN:	I'm ever so sorry when the erm, master mind finished 
+*VIC:	Oh  (  ) . 
+*GIN:	It makes me look how ignorant I am. 
+*VIC:	 ((laugh)) . 
+*GIN:	 (  ) . 
+*VIC:	You should, I   (  ) do you ever watch the snooker? 
+*GIN:	Sometimes if it's on Joan, I don't watch snooker, but if it's on I get fascinated by    (  )   
+*VIC:	Oh, yeah, oh    (  )  who won the finals between John Parrott and Andy White, Jimmy White, the other night? 
+*GIN:	I think I saw it on the news     (  )   (  ) thirty five thousand pounds somebody  (  ) . 
+*VIC:	 Yeah   (  )  , yeah there probably was quite  (  ) , only cos we don't get a newspaper, huh, and I didn't hear it on the radio the next morning   (.) cos we watched bits of it you see, then, it's, it's always on late at night. 
+*GIN:	 (  ) . 
+*VIC:	Oh  (  ) . 
+*GIN:	And they were congratulating one of them, what was the two names? 
+*VIC:	John Parrot  (  ) , he was winning, he was winning earlier on in the evening, twelve frames too nine or something like that. 
+*GIN:	I wouldn't like to commit  myself  . 
+*VIC:	 No, no, no. I  just wondered, it, it what I was looking for, it   (  ) he is the world championship or something like that. 
+*GIN:	How many do  (  ) . 
+*VIC:	Yes, that was last week probably. 
+*GIN:	Oh I've thrown the papers away. 
+*VIC:	Yeah, oh don't worry, no, I was just start wondering because I, I watch 
 @End

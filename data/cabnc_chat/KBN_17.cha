@@ -1,33 +1,33 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
-@Date:	1992-03-15:  Unspecified
-@Media: 021A-C0897X0279XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
+@Date:	1992-03-15:  Unspecified 
+@Media:	021A-C0897X0279XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , CLA Clare self, MAR Marilyn mother
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|CLA|~15;| |f|Ag1| |student||PS05Y|
-@ID: eng|AudioBNC|MAR|~50;| |f|Ag4| |housewife|mother|PS064|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|CLA|15;|||||student||PS05Y|
+@ID:	eng|AudioBNC|MAR|50;|||||housewife|mother|PS064|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0279XX-AAZZP0.wav
 @Comment:	conversation #17 (Tape 027905)
-*CLA:	How many sugars do you take these days?Eh? (.) This bench is not straight, anything you put on it seems to wobble   (.) What?Cos I'm clever than you
-*UNK:	 (        )  (.) 
-*CLA:	Ma, will you write me a letter tomorrow to go down town to look at some clothes
-*MAR:	What for?What in your dinner hour?In your dinner hour, is it? (.) No not in your school time
-*UNK:	 (        ) 
-*MAR:	sorry   (.) that could become a
-*UNK:	 (        ) 
-*CLA:	Ah, god   (.) Who's that, someone at the door   (.) give me that   [reading] Kim was
-*UNK:	 (        ) 
-*CLA:	commander, training, sergeant major informed us that we'll would be departing by
-*UNK:	 (        ) 
-*CLA:	airport that afternoon, I can't keep my eyes awake, when we asked for
-*UNK:	 (        ) 
-*CLA:	he grinned and he looked at me and said
-*UNK:	 (        ) 
-*CLA:	dismal days   [] ha, ha, ha   (.) Hello, what you laughing at?
-*UNK:	 (        )  (.) 
-*CLA:	What's happened?What?
+*CLA:	How many sugars do you take these days? Eh?  (8.0) This bench is not straight, anything you put on it seems to wobble   (20.0) What? Cos I'm clever than you 
+*UNK:	 (  )  (.) 
+*CLA:	Ma, will you write me a letter tomorrow to go down town to look at some clothes 
+*MAR:	What for? What in your dinner hour? In your dinner hour, is it?  (.) No not in your school time 
+*UNK:	 (  ) 
+*MAR:	sorry   (.) that could become a 
+*UNK:	 (  ) 
+*CLA:	Ah, god   (12.0) Who's that, someone at the door   (.) give me that   ((reading)) Kim was 
+*UNK:	 (  ) 
+*CLA:	commander, training, sergeant major informed us that we'll would be departing by 
+*UNK:	 (  ) 
+*CLA:	airport that afternoon, I can't keep my eyes awake, when we asked for 
+*UNK:	 (  ) 
+*CLA:	he grinned and he looked at me and said 
+*UNK:	 (  ) 
+*CLA:	dismal days  ha, ha, ha   (25.0) Hello, what you laughing at? 
+*UNK:	 (  )  (8.0) 
+*CLA:	What's happened? What? 
 @End

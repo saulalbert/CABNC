@@ -1,33 +1,33 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
-@Date:	1991-02:  Unspecified
-@Media: 021A-C0897X0360XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
+@Date:	1991-02:  Unspecified 
+@Media:	021A-C0897X0360XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	COL Colin self, SHE Sheila wife
-@ID: eng|AudioBNC|COL|unknown |m|X| |British Rail employee||PS069|
-@ID: eng|AudioBNC|SHE|unknown |f|X| |housekeeper|wife|PS10D|
+@Options:	CA
+@ID:	eng|AudioBNC|COL|unknown||||British Rail employee||PS069|
+@ID:	eng|AudioBNC|SHE|unknown||||housekeeper|wife|PS10D|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0360XX-AAZZP0.wav
 @Comment:	conversation #11 (Tape 036002)
-*SHE:	You don't know what second class post is do you, first?
-*COL:	No, I guess that'll be thirty four or something.
-*SHE:	The book.Twenty, a couple of twenty four   (.) pence ones here   (.) but Joy reckons it's more than that.
-*COL:	No, just  (        ) 
-*SHE:	Yes I put a twenty four pence one on and a   (.) two pence one.Cos don't want her to   (.) pay any at the other end do I?And I post it tomorrow   (.) er, Thursday. (.) Ah this   (.) pick this up in Derek's office today look.
-*COL:	 (        ) 
-*SHE:	And if I just go to clean and erm
-*COL:	This   (.) what do you reckon?
-*SHE:	Yes.
-*COL:	Where they going to that?
-*SHE:	Wembley aren't they?To see er Queen.
-*COL:	Oh that's right!
-*SHE:	Easter Monday. (.) And the other one's Simply Red I think.
-*COL:	How much did they pay for a ticket then, how much?
-*SHE:	I dunno.I have to ask when he comes tonight. (.) He   (.) put that up today. (.) He thought about it last week but it's pretty hush hush I think.
-*COL:	Yeah.
-*SHE:	Oh dear!Have a look, (        ) . (.) Yeah, he got something, you know?
-*COL:	That's right.
-*SHE:	Ian and I, just going with six of them or something.Or perhaps he's going up in his van or some I dunno!
+*SHE:	You don't know what second class post is do you, first? 
+*COL:	No, I guess that'll be thirty four or something. 
+*SHE:	The book. Twenty, a couple of twenty four   (.) pence ones here   (.) but Joy reckons it's more than that. 
+*COL:	No, just  (  )  
+*SHE:	Yes I put a twenty four pence one on and a   (.) two pence one. Cos don't want her to   (.) pay any at the other end do I? And I post it tomorrow   (.) er, Thursday.  (18.0) Ah this   (.) pick this up in Derek's office today look. 
+*COL:	 (  ) 
+*SHE:	And if I just go to clean and erm 
+*COL:	This   (.) what do you reckon? 
+*SHE:	Yes. 
+*COL:	Where they going to that? 
+*SHE:	Wembley aren't they? To see er Queen. 
+*COL:	Oh that's right! 
+*SHE:	Easter Monday.  (7.0) And the other one's Simply Red I think. 
+*COL:	How much did they pay for a ticket then, how much? 
+*SHE:	I dunno. I have to ask when he comes tonight.  (7.0) He   (.) put that up today.  (6.0) He thought about it last week but it's pretty hush hush I think. 
+*COL:	Yeah. 
+*SHE:	Oh dear! Have a look, (  ) .  (9.0) Yeah, he got something, you know? 
+*COL:	That's right. 
+*SHE:	Ian and I, just going with six of them or something. Or perhaps he's going up in his van or some  I dunno! 
 @End

@@ -1,33 +1,33 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-01:  
 @Location:	  in car  
-@Situation:	  going to get change for till  
-@Media: 021A-C0897X0639XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  going to get change for till   
+@Media:	021A-C0897X0639XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BAR Barry self, HUG Hugh employee
-@ID: eng|AudioBNC|BAR|~41;| |m|Ag3| |entertainments consultant||PS03W|
-@ID: eng|AudioBNC|HUG|~30;| |m|Ag2| |bar staff|employee|PS03Y|
+@Options:	CA
+@ID:	eng|AudioBNC|BAR|41;|||||entertainments consultant||PS03W|
+@ID:	eng|AudioBNC|HUG|30;|||||bar staff|employee|PS03Y|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0639XX-AAZZP0.wav
 @Comment:	conversation #3 (Tape 063903)
-*BAR:	The only other one is 
-*HUG:	 ((sigh))  (.) Anne?
-*BAR:	No.She's at   (.) she won't.Er   (.) what do you call him across at the er
-*HUG:	Oh!Right. (        ) . Absolutely. ((whistling)) 
-*BAR:	Yeah.What do we want?We just
-*HUG:	Well we've 
-*BAR:	we wa 
-*HUG:	got forty five now, we want pound coins and erm
-*BAR:	I thought we're going there?
-*HUG:	I don't really know what he's given me here. (.) If it's a lot of tens.I'll get   (        ) instead of fifties and fucking we just give them the five pound 
-*BAR:	Yeah.
-*HUG:	 (        ) .And
-*BAR:	Yeah, I'll soon get some fifties back.I mean, it just needs some early on that's all.
-*HUG:	Yeah.
-*BAR:	And twenties.And a bag of twenties don't you?Yeah, thirty quid.These are twenty and fifties   (.) and tens. (.) Where's best way?Just down straight there?
-*HUG:	Yeah.Yeah. (.)  ((cough)) 
-*BAR:	I'll turn it round while you   (.) you nip in.
+*BAR:	The only other  one is   
+*HUG:	  ((sigh))   (.) Anne? 
+*BAR:	No. She's at   (7.0) she won't. Er   (.) what do you call him across at the er 
+*HUG:	Oh! Right.  (  ) . Absolutely. ((whistling))  
+*BAR:	Yeah. What do we want? We just 
+*HUG:	 Well we've   
+*BAR:	 we wa    
+*HUG:	got forty five now, we want pound coins and erm 
+*BAR:	I thought we're going there? 
+*HUG:	I don't really know what he's given me here.  (6.0) If it's a lot of tens. I'll get   (  ) instead of fifties and fucking we  just give them the five  pound   
+*BAR:	 Yeah. 
+*HUG:	 (  ) . And 
+*BAR:	Yeah, I'll soon get some fifties back. I mean, it just needs some early on that's all. 
+*HUG:	Yeah. 
+*BAR:	And twenties. And a bag of twenties don't you? Yeah, thirty quid. These are twenty and fifties   (.) and tens.  (13.0) Where's best way? Just down straight  there? 
+*HUG:	 Yeah.  Yeah. (8.0)  ((cough))  
+*BAR:	I'll turn it round while you   (.) you nip in. 
 @End

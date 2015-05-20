@@ -1,16 +1,16 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-03:  
 @Location:	  home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0189XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0189XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	STU Stuart partner
-@ID: eng|AudioBNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
+@Options:	CA
+@ID:	eng|AudioBNC|STU|33;|||||factory operative|partner|PS02H|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0189XX-AAZZP0.wav
 @Comment:	conversation #35 (Tape 018903)
-*STU:	Is there anything you want me to do? (.) No? (.) Aye?
+*STU:	Is there anything you want me to do?  (.) No?  (.) Aye? 
 @End

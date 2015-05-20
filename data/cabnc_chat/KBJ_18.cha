@@ -1,46 +1,46 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-01-15:  
 @Location:	 at home 
-@Situation:	 making and eating breakfast and doing maths homework 
-@Media: 021A-C0897X0521XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 making and eating breakfast and doing maths homework  
+@Media:	021A-C0897X0521XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CAR Carol self, EMM Emma daughter, CHR Chris husband
-@ID: eng|AudioBNC|CAR|~44;| |f|Ag3| |courier||PS1DP|
-@ID: eng|AudioBNC|EMM|~11;| |f|Ag0| |student (state secondary)|daughter|PS1DR|
-@ID: eng|AudioBNC|CHR|~47;| |m|Ag4| |area organiser for union|husband|PS1DS|
+@Options:	CA
+@ID:	eng|AudioBNC|CAR|44;|||||courier||PS1DP|
+@ID:	eng|AudioBNC|EMM|11;|||||student (state secondary)|daughter|PS1DR|
+@ID:	eng|AudioBNC|CHR|47;|||||area organiser for union|husband|PS1DS|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0521XX-AAZZP0.wav
 @Comment:	conversation #18 (Tape 052102)
-*CAR:	Is he getting up?
-*EMM:	Yeah.
-*CAR:	I asked you to move this lot, and you didn't!I wish we were on  (        ) ! ((laugh))  (.) Get there.
-*EMM:	 (        ) 
-*CAR:	 ((laugh))  (.) Went   (.) I'm caught in the moment.
-*EMM:	I've got  (        ) .
-*CAR:	Look mind baby Leigh!Just leave him a minute!There's no real trouble.
-*EMM:	I think our   (.) mm?
-*CHR:	Look just watch her, she's going to tell you how to record and you can see. ((cough))  (.) Can't see yet.Ooh!Cor!I was in deep sleep!
-*EMM:	Right, triangle times nine over for thirty six.Thirty six. (.) Shared by nine is    (        )  (.) have to work out what it is.
-*CAR:	Go on then.
-*EMM:	I don't know if they're right though.
-*CHR:	Where is it darling?I've got to put a film in.
-*EMM:	This?
-*CHR:	Yeah. (.) Cor!
-*EMM:	 (        ) 
-*CHR:	Four nines are thirty six.
-*CAR:	There you are look. (.)  (        ) 
-*CHR:	But you see there's enough!
-*EMM:	Oh yes I know.
-*CAR:	It's a as I say, it's all part of a times table.That's 
-*CHR:	 ((cough)) 
-*CAR:	all you've got to remember.
-*EMM:	Well I am trying.Right four    (.)  (        ) is forty, eighty six.And thirty six shared by nine is four.
-*CAR:	Emma.And I've asked you to do something and you've done neither!
-*EMM:	This is more important than anything!
-*CAR:	Move that!And move those bits in!It means that I have to do it!
-*CHR:	We can do it.
-*CAR:	And eat that breakfast before it gets cold!And I'm going to do my shoes on and   (.) with that   (.) cos this carpet's still damp.
+*CAR:	Is he getting up? 
+*EMM:	Yeah. 
+*CAR:	I asked you to move this lot, and you didn't! I wish we were on  (  ) !  ((laugh))  (.) Get there. 
+*EMM:	 (  ) 
+*CAR:	 ((laugh))  (.) Went   (.) I'm caught in the moment. 
+*EMM:	I've got  (  ) . 
+*CAR:	Look mind baby Leigh! Just leave him a minute! There's no real trouble. 
+*EMM:	I think our   (.) mm? 
+*CHR:	Look just watch her, she's going to tell you how to record and you can see.  ((cough))  (.) Can't see yet. Ooh! Cor! I was in deep sleep! 
+*EMM:	Right, triangle times nine over for  thirty six. Thirty six.  (6.0) Shared by nine is    (  )  (.) have to work out what it is. 
+*CAR:	Go on then. 
+*EMM:	I don't know if they're right though. 
+*CHR:	Where is it darling? I've got to put a film in. 
+*EMM:	This? 
+*CHR:	Yeah.  (7.0) Cor! 
+*EMM:	 (  ) 
+*CHR:	Four nines are thirty six. 
+*CAR:	There you are look. (6.0)  (  )  
+*CHR:	But you see there's enough! 
+*EMM:	Oh yes I know. 
+*CAR:	It's a  as I say, it's all part of a times table.  That's   
+*CHR:	  ((cough))  
+*CAR:	all you've got to  remember. 
+*EMM:	 Well  I am trying. Right four    (.)  (  ) is forty, eighty six. And thirty six shared by nine is four. 
+*CAR:	Emma. And I've asked you to do something and you've done  neither! 
+*EMM:	 This is  more important than anything! 
+*CAR:	Move that! And move those bits in! It means that I have to do it! 
+*CHR:	We can do it. 
+*CAR:	And eat that breakfast before it gets cold! And I'm going to do my shoes on and   (.) with that   (.) cos this carpet's still damp. 
 @End

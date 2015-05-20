@@ -1,32 +1,32 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-30:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0057XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0057XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	AND Andrew self, SUZ Suzanne girlfriend
-@ID: eng|AudioBNC|AND|~16;| |m|Ag1| |student||PS028|
-@ID: eng|AudioBNC|SUZ|~17;| |f|Ag1| |student|girlfriend|PS0Y5|
+@Options:	CA
+@ID:	eng|AudioBNC|AND|16;|||||student||PS028|
+@ID:	eng|AudioBNC|SUZ|17;|||||student|girlfriend|PS0Y5|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0057XX-AAZZP0.wav
 @Comment:	conversation #5 (Tape 005705)
-*AND:	Think you're hard?
-*SUZ:	 ((laugh))  (        ) oh my god.
-*AND:	Well hard.That was well funny last time, you see me in a room, we're playing er games.I, I say a word
-*SUZ:	Yeah.
-*AND:	and, and you, you have to say another word that sounds like it.
-*SUZ:	Yeah.
-*AND:	And eh, like I, if I say loverks
-*SUZ:	Mm.
-*AND:	You say bloverks, souverks, (        ) .
-*SUZ:	 (        ) proper words  (        ) .
-*AND:	No you, we're doing it, well this   (        ) a large.
-*SUZ:	Mm.
-*AND:	 (        ) 
-*SUZ:	Mm, (        ) can't imagine this  (        ) .
-*AND:	 (        ) You   (        ) has to come down  (        ) .
-*SUZ:	It's really funny , oh.
+*AND:	Think you're hard? 
+*SUZ:	 ((laugh))  (  ) oh my god. 
+*AND:	Well hard. That was well funny last time, you see me in a room, we're playing er games. I, I say a word 
+*SUZ:	Yeah. 
+*AND:	and, and you, you have to say another word that sounds like it. 
+*SUZ:	Yeah. 
+*AND:	And eh, like I, if I say loverks 
+*SUZ:	Mm. 
+*AND:	You say bloverks, souverks, (  ) . 
+*SUZ:	 (  ) proper words  (  ) . 
+*AND:	No you, we're doing it, well this   (  ) a large. 
+*SUZ:	Mm. 
+*AND:	 (  ) 
+*SUZ:	Mm, (  ) can't imagine this  (  ) . 
+*AND:	 (  )  You   (  ) has to come down  (  ) . 
+*SUZ:	 It's really funny  , oh. 
 @End

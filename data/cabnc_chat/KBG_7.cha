@@ -1,605 +1,615 @@
-@Begin
-@Font:  CAfont:13:0
+@Font:	Win95:CAfont:-15:0
 @UTF8
-@Languages:     eng
-@Options:	CA
-@Date:	1992-02-26:  
-@Location:	  home  
-@Situation:	  family visit  
-@Media: 021A-C0897X0337XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Languages:	eng
+@Date:	1992-02-26:
+@Location:	  home
+@Situation:	  family visit
+@Media:	021A-C0897X0337XX-ABZZP0.wav, audio
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , CAR Carl self, SUS Susan wife, CHR Christopher son, REB Rebecca daughter, AND Andrew son, ROB Robert son, PAT Pat father-in-law
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|CAR|~34;| |m|Ag2| |teacher||PS051|
-@ID: eng|AudioBNC|SUS|~33;| |f|Ag2| |teacher (pt)|wife|PS052|
-@ID: eng|AudioBNC|CHR|~4;| |m|Ag0| |pre-school|son|PS053|
-@ID: eng|AudioBNC|REB|~1;| |f|Ag0| |pre-school|daughter|PS054|
-@ID: eng|AudioBNC|AND|~7;| |m|Ag0| |student (primary)|son|PS055|
-@ID: eng|AudioBNC|ROB|~9;| |m|Ag0| |student (secondary)|son|PS056|
-@ID: eng|AudioBNC|PAT|~62;| |m|Ag5| |retired|father-in-law|PS059|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|CAR|34;|||||teacher||PS051|
+@ID:	eng|AudioBNC|SUS|33;|||||teacher (pt)|wife|PS052|
+@ID:	eng|AudioBNC|CHR|4;|||||pre-school|son|PS053|
+@ID:	eng|AudioBNC|REB|1;|||||pre-school|daughter|PS054|
+@ID:	eng|AudioBNC|AND|7;|||||student (primary)|son|PS055|
+@ID:	eng|AudioBNC|ROB|9;|||||student (secondary)|son|PS056|
+@ID:	eng|AudioBNC|PAT|62;|||||retired|father-in-law|PS059|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0337XX-ABZZP0.wav
 @Comment:	conversation #7 (Tape 033704)
-*CAR:	Sorry, you were saying Pat  (.) 
-*PAT:	We come back from   (        ) and we're in the car and erm   (.) they're talking about guns see, I said well you ou , you know our Harry was R S M like you know, I said you wanna ask Ha Ha Harry I said   (.) been a soldier all his life. (.) He's not you know. (.) I said he was   (        ) he said he's not dead yet. ((laugh)) 
-*CAR:	 ((laugh)) Ha ha clever.
-*PAT:	 (        ) 
-*CAR:	Clever isn't it?
-*PAT:	 (        ) 
+*CAR:	Sorry, you were saying Pat  (.)
+*PAT:	We come back from   (  ) and we're in the car and erm   (.) they're talking about guns see, I said well you ou  , you know our Harry was R S M like you know, I said you wanna ask Ha  Ha  Harry I said   (.) been a soldier all his life.  (.) He's not you know.  (.) I said he was   (  ) he said he's not dead yet. ((laugh))
+*CAR:	 ((laugh))  Ha ha clever.
+*PAT:	  (  )
+*CAR:	Clever  isn't it?
+*PAT:	  (  )
 *CAR:	Yeah it is isn't it?
 *PAT:	Went up to, went up to and Barney got a rabbit.
 *CAR:	Did he?
 *PAT:	Yeah, picked a rabbit up and we had to chase him, get it out of his mouth.
 *CAR:	Was it still alive when he
-*PAT:	No it was a dead one.Robert caught, caught Barney in the end.We had to really clump him to get it out of his mouth.
+*PAT:	No it was a dead one. Robert caught, caught Barney in the end. We had to really clump him to get it out of his mouth.
 *CAR:	He killed it though did he?
 *PAT:	I don't think so.
 *CAR:	You think it was already dead?
 *PAT:	That was already dead.
 *CAR:	Oh
-*PAT:	 (        ) Chris, you got some bullets?
+*PAT:	 (  ) Chris, you got some bullets?
 *CHR:	Yep.
-*CAR:	What have you 
-*PAT:	 (        ) bullets
+*CAR:	 What have you
+*PAT:	  (  )  bullets
 *CAR:	what have you done with those then?
 *CHR:	I polished some of them
 *PAT:	Brought them over our place.
 *CHR:	with brass polish.
 *CAR:	Use them as false teeth?
-*CHR:	 [laughing] No  [] 
-*PAT:	 (        ) didn't you Christopher, went down the slide in the swimming pool? (        ) 
-*CAR:	Somebody's it's somebody's birthday tomorrow but I don't know whose it is.
+*CHR:	 ((laughing)) No
+*PAT:	 (  ) didn't you Christopher, went down the slide in the swimming pool? (  )
+*CAR:	 Somebody's  it's somebody's birthday tomorrow but I don't know whose it is.
 *PAT:	Mine.
 *CAR:	Is it your birthday tomorrow?
-*PAT:	 (        ) tomorrow.
+*PAT:	 (  ) tomorrow.
 *CAR:	Whose birthday is it tomorrow Christopher?
-*PAT:	I went un he went under the waterfall with me didn't you Chris? (.) Under the waterfa oh   [laughing] by the way    []  (.) he fell and hit his face on the concrete   (.) over the caravan, he's got a bit of a grazed nose.
+*PAT:	I went un  he went under the waterfall with me didn't you Chris?  (.) Under the waterfa  oh   ((laughing)) by the way    (.) he fell and hit his face on the concrete   (.) over the caravan, he's got a bit of a grazed nose.
 *AND:	Yeah, he tripped over.
 *CAR:	Ha ha ha ha ha.
-*CHR:	 (        ) 
-*CAR:	Oh! (.) So have you had a good time then?
+*CHR:	 (  )
+*CAR:	Oh!  (.) So have you had a good time then?
 *CHR:	Yeah.
-*AND:	Christopher's had a really good time   (.) so have I   (.) so has Robert.We went to Leisureworld
+*AND:	Christopher's had a really good time   (.) so have I   (.) so has Robert. We went to Leisureworld
 *CAR:	Is that the swimming pool?
-*AND:	We went down the tubes, the blue one is erm just as good as the green one, the blue one   (        ) longer.
+*AND:	We went down the tubes, the blue one is erm just as good as the green one, the blue one   (  ) longer.
 *CAR:	Mhm.
 *AND:	You go whoosh
-*CAR:	What's it full of?Full of water?
-*AND:	Yeah.It's not full of so you're just going straight through water, just so you're sliding
+*CAR:	What's it full of? Full of water?
+*AND:	Yeah. It's not full of so you're just going straight through water, just so you're sliding
 *CAR:	Mhm.
-*CHR:	 (        ) Hello.Hello.Baby   (.) baby   (.) oh!Ooh!Ooh! (.) 
-*PAT:	 (        ) join the army.
-*UNK:	 ((laugh))  (        ) 
-*PAT:	And then   (        ) me guns  (        ) 
-*SUS:	There was a hell of a fight with erm   (        ) 
-*PAT:	 (        ) I said.Of course he has he says, he's not dead yet. ((laugh)) 
-*SUS:	There was, I was gonna say there was a hell of a fight going on here the morning we come over yours between   (.) Christopher and Andrew, and I went in to sort out just in time to hear Christopher say well I'm having all GrandPat's money when he's dead   [laughing] not you  [] .
-*UNK:	 ((laugh)) 
-*PAT:	 (        ) will he? (        ) 
-*SUS:	 [laughing] Oh thank you very much   [] 
-*UNK:	 (        ) 
+*CHR:	 (  ) Hello. Hello. Baby   (.) baby   (.) oh! Ooh! Ooh! (.)
+*PAT:	 (  ) join the army.
+*UNK:	 ((laugh))  (  )
+*PAT:	And then   (  ) me guns  (  )
+*SUS:	There was a hell of a fight  with erm   (  )
+*PAT:	  (  )  I said. Of course he has he says, he's not dead yet. ((laugh))
+*SUS:	There was, I was gonna say there was a hell of a fight going on here the morning we come over yours between   (.) Christopher and Andrew, and I went in to sort out just in time to hear Christopher say well I'm having all GrandPat's money when he's dead   ((laughing)) not you .
+*UNK:	 ((laugh))
+*PAT:	 (  ) will he? (  )
+*SUS:	  ((laughing)) Oh thank you very much
+*UNK:	 (  )
 *UNK:	Mars each for you there.
-*UNK:	 (        ) 
-*PAT:	 (        ) Kit Kats.
+*UNK:	  (  )
+*PAT:	  (  )  Kit Kats.
 *CAR:	Oh thank you.
-*PAT:	That's your Mars they've had   (        ) 
-*UNK:	 (        ) 
+*PAT:	That's your Mars they've had    (  )
+*UNK:	  (  )
 *CAR:	Cor thank you.
 *SUS:	We watched Robin Hood   (.) King of   (.) Prince of Thieves last night.
 *UNK:	Oh.
 *CAR:	On the video.
-*SUS:	Yeah, Carl got the video out.That was good.
-*UNK:	Oh   (        ) 
-*CAR:	Well while the while the kids were out.
-*SUS:	I didn't fancy it but that was quite good.
+*SUS:	Yeah, Carl got the video out.  That was good.
+*UNK:	 Oh    (  )
+*CAR:	 Well while the  while the kids  were out.
+*SUS:	 I didn't fancy it  but that was quite good.
 *UNK:	Mm mm
 *CAR:	Gory wasn't it?
-*SUS:	So I'll, I'll pour this tea out then.Yeah we, we  (        ) 
+*SUS:	So I'll, I'll pour this tea out then. Yeah we, we  (  )
 *CAR:	So you're having a quiet day tomorrow then?
-*UNK:	Yeah.
-*SUS:	 (        ) How's Steve?
+*UNK:	 Yeah.
+*SUS:	  (  )  How's Steve?
 *UNK:	Alright, yeah, alright.
-*SUS:	Has he heard any more about his 
-*UNK:	Yeah erm   (.) wait a minute we got a letter from  this morning to say that erm   (.) wait a minute, erm   (.) they'd had a communication from   (.) Mr 
+*SUS:	 Has he heard  any more about  his
+*UNK:	 Yeah  erm   (.) wait a minute we got a letter from   this morning to say that erm   (.) wait a minute, erm   (.) they'd had a communication from   (.) Mr
 *SUS:	Mhm
-*UNK:	erm saying that erm they ha that h he had been in touch with her and actually she got in touch with him   (.) he said peculalaly peculalalary 
-*SUS:	Peculiarly =liarly yeah 
-*UNK:	and she'd got in touch with him.So Steven said now what do you make of that?I said well I think she realized it came to   (.) so he's definitely booked the high court so she's, she's done nothing about changing him or anything like that.I said I reckoned she got her oar in first and thought I'm gonna    (.)  (        ) 
-*PAT:	No I I should say her solicitors   (        ) has told her you, you know, you've got to tread   (.) carefully 
-*UNK:	 (        ) 
+*UNK:	erm saying that erm they ha  that h  he had been in touch with her and actually she got in touch with him   (.) he said peculalaly  peculalalary
+*SUS:	 Peculiarly  =liarly  yeah
+*UNK:	 and  she'd got in touch with him. So Steven said now what do you make of that? I said well I think she realized it came to   (.) so he's definitely booked the high court so she's, she's done nothing about changing him or anything like that. I said I reckoned she got her oar in first and thought I'm gonna    (.)   (  )
+*PAT:	 No I  I should say her solicitors   (  ) has told her you, you know, you've got to tread   (.)  carefully
+*UNK:	  (  )
 *PAT:	you're on a sticky wicket.
 *SUS:	Yeah.
 *PAT:	Very.
 *CAR:	Yeah.
-*SUS:	Yeah because she's made all sorts of wild accusations hasn't she about him?
-*UNK:	I know yeah.
-*PAT:	Yeah 
-*UNK:	He reckon she actually got in touch with Martin.
-*SUS:	 (        ) so   (        ) when's 
-*PAT:	Behind you Sue.
+*SUS:	Yeah because she's made all sorts of wild  accusations hasn't she about him?
+*UNK:	 I know  yeah.
+*PAT:	 Yeah
+*UNK:	He reckon  she actually got in touch with Martin.
+*SUS:	 (  ) so   (  )  when's
+*PAT:	 Behind you  Sue.
 *SUS:	Oh I thought he weren't available till the third of March.
-*UNK:	He's not.
-*PAT:	Well he's gone away but he will be back.
-*UNK:	He's not available until the third of   (        ) 
-*SUS:	Oh 
-*UNK:	that's, that's, he's on holiday but they've had a 
-*SUS:	Yeah but   (        ) a communication from her to the office had they?
+*UNK:	 He's not.
+*PAT:	 Well he's gone away  but he will be back.
+*UNK:	He's not available until the third of    (  )
+*SUS:	 Oh
+*UNK:	that's, that's, he's on holiday  but they've had a
+*SUS:	 Yeah but   (  )  a communication from her to the office had they?
 *UNK:	She's already been in touch with, with him, a letter to
-*SUS:	Oh I see.
-*UNK:	to erm   (.) what's his name?
-*PAT:	 (        ) secretary  (        ) 
+*SUS:	Oh I  see.
+*UNK:	 to  erm   (.) what's  his name?
+*PAT:	  (  )  secretary  (  )
 *UNK:	Yes.
 *SUS:	Oh that's, that's what I meant.
-*UNK:	 (        ) should imagine, yeah.Erm and he is definitely booked you know for the high court and all of that, he's   (        ) 
-*SUS:	Oh so we'll see what er transpires this time.
+*UNK:	 (  ) should imagine, yeah. Erm and he is definitely booked you know for the high court and all of that, he's    (  )
+*SUS:	 Oh so we'll see what  er transpires this time.
 *UNK:	Absolutely.
-*SUS:	She'll try the approach of   (.) oh well I'm sure you meant well but it really wasn't in Richard's best interests for him to have overnight access and all this 
-*UNK:	Mm and all this lark.
-*SUS:	That's what I reckon she'll try for.
-*UNK:	Yeah, yes that's why   (        ) 
-*SUS:	But he's not daft, Martin, anyway.
-*UNK:	No no.
+*SUS:	She'll try the approach of   (.) oh well I'm sure you meant well but it really wasn't in Richard's best interests  for him to have overnight access and all this
+*UNK:	 Mm and all this lark.
+*SUS:	That's what I reckon she'll  try for.
+*UNK:	 Yeah, yes  that's why    (  )
+*SUS:	 But he's not  daft, Martin, anyway.
+*UNK:	 No  no.
 *SUS:	He'll see straight through it.
 *UNK:	Mm.
-*PAT:	Well she's already shown her   [laughing] true colours to him hasn't she  [] ?
-*UNK:	Yeah.
-*CAR:	Mm 
-*SUS:	Yeah.He know what she's like doesn't he so
+*PAT:	Well she's already shown her   ((laughing)) true colours to him hasn't she ?
+*UNK:	 Yeah.
+*CAR:	 Mm
+*SUS:	 Yeah.  He know what she's like doesn't he so
 *UNK:	Yeah.
 *PAT:	I went up Sainsbury's the other night for a pint of milk cos we're short of milk.
 *SUS:	Oh god yeah the boys drink a lot.
-*PAT:	Ah Robert come with me.And a pint of milk's thirty eight pence I think   (        ) it cost me two pound thirty eight up here.
+*PAT:	Ah Robert come with me. And a pint of milk's thirty eight pence I think   (  ) it cost me two pound thirty eight up here.
 *CAR:	Aye.
-*SUS:	Well you must of end up buying   (        ) 
-*UNK:	No he he spoil them 
-*PAT:	 (        ) 
-*UNK:	he absolutely ruin them.Do nothing with them.Milk chocolate buttons, drinks and all   (        ) 
-*PAT:	 [laughing] some of them, some of them he said, I forget what we took we got them a bottle of Coke didn't we?Weren't it?
+*SUS:	Well you must of end up  buying   (  )
+*UNK:	 No he   he spoil them
+*PAT:	  (  )
+*UNK:	he absolutely ruin them. Do nothing with them. Milk chocolate buttons, drinks and all    (  )
+*PAT:	  ((laughing))  some of them, some of them he said, I forget what we took we got them a bottle of Coke didn't we? Weren't it?
 *ROB:	Yeah.
-*PAT:	Oh she said they do sort of milk chocolate drinks, thirty five pence each see.
-*ROB:	Yeah milk chocolate drink 
-*SUS:	Ooh 
-*UNK:	Th th we went in the in the Carriers today and they didn't have a ca er a er   (.) drink each and a packet of er crisps
+*PAT:	Oh she said they do sort of milk chocolate drinks, thirty five pence  each see.
+*ROB:	 Yeah milk chocolate drink
+*SUS:	 Ooh
+*UNK:	Th  th  we went in the in the Carriers today and they didn't have a ca  er a er   (.) drink each and a packet of er crisps
 *SUS:	No?
-*UNK:	They had two drinks each and two packets of crisps 
-*CAR:	 ((laugh)) 
-*UNK:	didn't they?Two rounds mate.
+*UNK:	They had two drinks each and two packets of  crisps
+*CAR:	  ((laugh))
+*UNK:	didn't they? Two rounds mate.
 *SUS:	Here you are then dad, there's a cup of tea there
 *CAR:	Cup of tea there.
 *SUS:	there's a cup of tea mum.
-*UNK:	 (        ) 
-*PAT:	 (        ) get off soon.
-*UNK:	 (        ) 
-*ROB:	First I had a   (        ) a Lucozade then I had a 
-*CAR:	How much you gonna do?
-*ROB:	a pineapple drink.
-*UNK:	He's got dog to walk tonight   (        ) cos we couldn't bring him cos the car was full of gear.
-*SUS:	Yeah.
-*CAR:	Junk.
+*UNK:	  (  )
+*PAT:	  (  )  get off soon.
+*UNK:	  (  )
+*ROB:	 First I had a   (  ) a Lucozade   then I had a
+*CAR:	 How much you gonna do?
+*ROB:	a  pineapple drink.
+*UNK:	 He's got  dog to walk tonight   (  ) cos we couldn't bring him cos the car was full of gear.
+*SUS:	 Yeah.
+*CAR:	 Junk.
 *UNK:	We brought wellies, everything back.
-*SUS:	Yeah. (        ) 
-*UNK:	 (        ) 
+*SUS:	Yeah. (  )
+*UNK:	  (  )
 *ROB:	Daddy
-*UNK:	But we were so lucky, it was beautiful up the woods, we played football 
-*SUS:	Nice in there, yeah.
-*UNK:	lovely warm sunshine, dry under foot.You know, I mean if that had a been sleet and   (        ) 
-*SUS:	I know.Well we said that was mild today as well.We said exactly
+*UNK:	But we were so lucky, it was beautiful up the woods, we played  football
+*SUS:	 Nice in  there, yeah.
+*UNK:	lovely warm sunshine, dry under foot. You know, I mean if that had a been sleet  and   (  )
+*SUS:	 I know. Well we said that was mild  today as well. We said exactly
 *CAR:	Look.
-*SUS:	Yeah I've seen it, he showed it to me on Friday.We erm   (.) we   (        ) 
-*CAR:	Gonna take it into school?
-*SUS:	cos we went over to   (        ) 
-*ROB:	I've gotta take it back.
-*SUS:	there's a town to die in, on 
-*CAR:	Where?Into school?
-*SUS:	its feet.
-*UNK:	What?
-*SUS:	 (        ) 
-*ROB:	No that's where I made it.
-*UNK:	 (        ) 
-*SUS:	Really dying on its feet, all the new shops 
-*UNK:	It used to be it used to be half dead that town   (        ) 
-*ROB:	I've got to take it back cos it's got to go on display 
-*SUS:	Well  (        ) .Well I tried to get her dungarees again you see.I mean I, we didn't specifically go for that, we also went in to   (        ) 
-*CAR:	You wanna look after it then, put it away carefully.
-*ROB:	Yeah.
-*SUS:	got a bit of shopping and did various other things   (.) erm
-*ROB:	I think   (.) it will be okay if it stays   (        ) there 
-*SUS:	where the old erm   (.) that's where we got their drawers from 
-*UNK:	Oh aye   (        ) 
-*SUS:	Where the old th they're nice actually, they're serviceable.The ones I liked were polished walnut   ((laugh)) but they were eigh 
-*CAR:	Satin wood.
-*SUS:	S oh well, close thing.But they 
-*CAR:	Not even close.Not even the same.
-*SUS:	they were nice but they were er 
-*CAR:	Walnut's harder and shinier than satin wood.Plus they 
-*SUS:	eighty odd pound.
+*SUS:	Yeah I've seen it, he showed it to me on Friday. We erm   (.) we    (  )
+*CAR:	 Gonna take it  into school?
+*SUS:	cos we went over to    (  )
+*ROB:	 I've gotta  take it back.
+*SUS:	there's a town  to die in, on
+*CAR:	 Where? Into school?
+*SUS:	 its feet.
+*UNK:	 What?
+*SUS:	 (  )
+*ROB:	 No that's where I made it.
+*UNK:	  (  )
+*SUS:	Really dying on its feet, all the new shops
+*UNK:	 It used to be  it used to be half dead  that town   (  )
+*ROB:	 I've got to take it back  cos it's got to go on display
+*SUS:	 Well  (  ) .  Well I tried to get her dungarees again you see. I mean I, we didn't specifically go  for that, we also went in to   (  )
+*CAR:	 You wanna look after it then, put it away carefully.
+*ROB:	 Yeah.
+*SUS:	 got a  bit of shopping and did various other things   (.) erm
+*ROB:	I think   (.) it will  be okay if it stays   (  ) there
+*SUS:	 where the old erm   (.) that's where we got their drawers from
+*UNK:	Oh aye    (  )
+*SUS:	 Where the old  th  they're nice actually, they're serviceable. The ones I liked were polished walnut   ((laugh)) but they were  eigh
+*CAR:	 Satin  wood.
+*SUS:	S  oh well, close thing.  But they
+*CAR:	 Not even  close. Not even  the same.
+*SUS:	 they  were nice but they were  er
+*CAR:	 Walnut's  harder and shinier than  satin wood. Plus they
+*SUS:	 eighty odd pound.
 *CAR:	were broken at the top.
-*SUS:	 (        ) we wouldn't have got them anyway, they were too dear.These were   (        ) 
-*CAR:	Knocked a fiver off didn't she?
-*SUS:	Yeah, they   (.) we got them for thirty so   (.) mind you   (        ) 
-*CAR:	So you like those drawers?
-*ROB:	Yes I like them.Thank you.
-*SUS:	pay sort of forty nine, fifty pound from M F I and these are older ones you know.
-*ROB:	Thank you for   (        ) 
+*SUS:	 (  ) we wouldn't have got them anyway, they were too dear. These  were   (  )
+*CAR:	 Knocked a fiver off  didn't she?
+*SUS:	Yeah, they   (.) we got them for thirty so   (.)  mind you   (  )
+*CAR:	 So you like those  drawers?
+*ROB:	Yes I like them.  Thank you.
+*SUS:	 pay sort of forty nine, fifty pound from M F I and these are  older ones you know.
+*ROB:	 Thank you for   (  )
 *CAR:	Oh look at these socks.
-*ROB:	 ((laugh)) 
+*ROB:	 ((laugh))
 *UNK:	Clean on this morning, I might add.
-*SUS:	I know.
-*UNK:	I, I've done their washing but they've got 
-*SUS:	Yeah 
-*UNK:	a pair of jeans in there which 
-*SUS:	 (        ) biscuits
+*SUS:	 I know.
+*UNK:	I, I've done their washing but  they've got
+*SUS:	 Yeah
+*UNK:	a pair of jeans in there  which
+*SUS:	  (  )  biscuits
 *UNK:	so they're really alright, their jeans, to use again.
-*SUS:	Yeah I know 
-*UNK:	Do you know what I mean?
-*UNK:	 ((scream)) 
-*SUS:	Oh wait a minute you.
-*UNK:	So all the stuff in their bags is clean, and all they've got is what they've got on
+*SUS:	Yeah  I know
+*UNK:	 Do you  know what I mean?
+*UNK:	 ((scream))
+*SUS:	Oh wait a minute  you.
+*UNK:	 So  all the stuff in their bags is clean, and all they've got is what they've got on
 *CAR:	Here you are.
 *UNK:	to wash.
 *SUS:	Here you are.
 *UNK:	The rest is clean.
-*ROB:	Daddy I've got ninety six bullets   (.) pieces and 
-*SUS:	Cutting a tooth.She's been
-*ROB:	bits of   (.) bullets and bits of bullets.
-*SUS:	very   (.) unsettled.Excuse me   (        ) 
-*UNK:	And polished them with erm   (        ) 
-*CAR:	 (        ) polish, did you polish them with some polish did you?
-*ROB:	Yeah.D my best one is the one that GrandPat brought over to show us.
+*ROB:	Daddy I've got ninety six bullets   (.)  pieces and
+*SUS:	 Cutting a tooth.  She's been
+*ROB:	bits of   (.)  bullets and bits of bullets.
+*SUS:	 very   (.) unsettled.  Excuse me    (  )
+*UNK:	 And polished them  with erm    (  )
+*CAR:	  (  )  polish, did you polish them with some polish did you?
+*ROB:	Yeah. D  my best one is the one that GrandPat brought over to show us.
 *CAR:	Yeah.
-*ROB:	I polished that one as much as I could with erm Brasso 
-*SUS:	I'm a bit disappointed, I want   (        ) pink.
-*ROB:	It's er   (        ) 
-*UNK:	 (        ) 
-*CAR:	 (        ) a cleaning rag.
-*ROB:	No it's, it's not, kind of like cotton wool   (        ) 
-*UNK:	 (        ) 
-*SUS:	But when I went down to the   (        ) shop 
-*CAR:	Yeah,abs yeah it's got sort of polish already in it has it?
+*ROB:	I polished that one as much as I could with erm  Brasso
+*SUS:	 I'm  a bit disappointed, I want   (  ) pink.
+*ROB:	It's er    (  )
+*UNK:	  (  )
+*CAR:	 (  ) a cleaning rag.
+*ROB:	No it's, it's not, kind of like cotton wool    (  )
+*UNK:	  (  )
+*SUS:	 But when I went down to the   (  ) shop
+*CAR:	 Yeah,abs  yeah it's got sort of polish already in it has it?
 *ROB:	Yeah
-*SUS:	they had an offer on you see 
-*ROB:	in a tin.
-*SUS:	and it was five pound off the   (        ) 
-*ROB:	It's for polishing brass.
-*CAR:	Mhm.Ooh.
-*UNK:	 (        ) 
-*REB:	 ((scream)) 
+*SUS:	they had an offer on  you see
+*ROB:	 in a tin.
+*SUS:	and it was five pound  off the   (  )
+*ROB:	 It's for polishing brass.
+*CAR:	Mhm. Ooh.
+*UNK:	 (  )
+*REB:	 ((scream))
 *SUS:	No Becky stop it, leave your foot alone.
-*UNK:	 (        )  (.) 
+*UNK:	 (  )  (.)
 *ROB:	Hurry up.
 *CAR:	Who's in there, Andrew?
-*ROB:	Yeah. (.) 
-*UNK:	You just can't keep track of them Sue  (        ) .The thing is I'm, oh you can't worry because there's so many people watching
-*PAT:	 (        ) well   (        ) they was all wearing their clothes standing there, with poles with big round   (.) rings on pulling people out. (        ) 
-*UNK:	 (        )  (.) 
+*ROB:	Yeah. (.)
+*UNK:	You just can't keep track of them Sue  (  ) . The thing is I'm, oh
+	you can't worry because there's so many people watching
+*PAT:	(  ) well   (  ) they was all wearing their clothes standing
+	there, with poles with big round   (.) rings on pulling people out.
+	(  )
+*UNK:	(  )  (.)
 *UNK:	Frightened him to death.
-*PAT:	Said he hurt his foot   (        ) 
-*UNK:	Frightened him to death it did.But he wanted to go.
-*PAT:	We went down we went down both shutes.
-*SUS:	Yeah well you don't know till you try these things 
-*UNK:	 (        ) 
+*PAT:	Said he hurt his foot   (  )
+*UNK:	Frightened him to death it did. But he wanted to go.
+*PAT:	We went down  we went down both shutes.
+*SUS:	Yeah well  you don't know till you  try these things
+*UNK:	(  )
 *SUS:	do you, whether
 *PAT:	He'll go down the shutes alright.
-*UNK:	He surprised me, he was the first one down them great big shutes.Andrew come, just come out   [laughing] as large as life  [] .
+*UNK:	He surprised me, he was the first one down them great big shutes. Andrew come, just come out   ((laughing)) as large as life .
 *PAT:	And Christopher went, he went down the slide we, we just left him on his own.
 *CHR:	And then I sank and then I came up again.
-*SUS:	Was it good was it?
-*UNK:	 (        ) ?
+*SUS:	Was it good  was it?
+*UNK:	(  ) ?
 *CHR:	I came up when I sank.
-*SUS:	 [laughing] He came up when he sank  [] .
+*SUS:	((laughing)) He came up when he sank .
 *CAR:	Just as well innit?
 *SUS:	Yeah.
-*PAT:	Came up when he sank.Went in the jacuzzi.
-*CAR:	Nice and warm was it?
-*PAT:	 (        ) hot,eight eighty degrees.
+*PAT:	Came up when he sank. Went in the jacuzzi.
+*CAR:	Nice and warm  was it?
+*PAT:	  (  )  hot,eight  eighty degrees.
 *SUS:	Oh good.
 *PAT:	We had an hour and a half in there.
 *UNK:	Well we had to queue to get in.
 *SUS:	Yeah dad said on the phone.
-*PAT:	 (        ) 
-*CAR:	It's lab labour intensive isn't it?Probably that's why that's so expensive.
+*PAT:	  (  )
+*CAR:	It's lab   labour intensive isn't it? Probably that's why that's so expensive.
 *PAT:	But er normally we walk in.
-*UNK:	Mm but when you think they say ooh it'll never pay for itself, god it will, people are just tr  (        ) 
-*PAT:	Well it won't.Not wh  (        ) 
-*SUS:	Once the novelty wear off.
-*PAT:	That won't   ((laugh)) you, you're only gonna get   (        ) people   (        ) like on, on half term th look you've gotta try and pay for yourself over twelve months   (.) which   (        ) 
-*CAR:	Yeah.
-*SUS:	Yeah that's it you see 
-*CAR:	It's very rare that a swimming pool do actually 
-*SUS:	I mean at Stra Stradbroke are now doing a half price and of course we, we only pay, for all of us to swim on Sunday I think it was two forty something.
+*UNK:	Mm but when you think they say ooh it'll never pay for itself, god
+	it will, people  are just tr   (  )
+*PAT:	 Well it won't.  Not wh    (  )
+*SUS:	 Once the  novelty wear off.
+*PAT:	That won't   ((laugh)) you, you're only gonna get   (  ) people
+	(  ) like on, on half term th  look you've gotta try and pay for
+	yourself over twelve months   (.)  which   (  )
+*CAR:	 Yeah.
+*SUS:	 Yeah  that's it  you see
+*CAR:	 It's very  rare that a  swimming pool do actually
+*SUS:	 I mean at Stra   Stradbroke are now doing a half price and of course we, we only pay, for all of us to swim on Sunday I think it was two forty something.
 *PAT:	Well for us just going here it's thirteen pound it cost me.
-*SUS:	Yeah.Well now it will do you see, that's the difference.
-*PAT:	And that's fifty P off cos over sixty, I said I'm over sixty so she knocked fifty P off. (.) 
-*UNK:	 ((laugh)) I'm gonna try it next week. ((laugh)) 
+*SUS:	Yeah. Well now it will do you see, that's the difference.
+*PAT:	 And that's fifty P off  cos over sixty, I said I'm over sixty so she knocked fifty P off. (.)
+*UNK:	 ((laugh)) I'm gonna try it next week. ((laugh))
 *SUS:	Well   (.) yeah we, we usually go erm
 *UNK:	These are two fifty each to go in.
 *SUS:	Yeah, it's a lot innit?
-*PAT:	It's a hell of a lot   (        ) 
-*SUS:	It is for little ones, you know when you think
+*PAT:	It's a hell of a lot    (  )
+*SUS:	 It is for  little ones, you know when you think
 *PAT:	Hour and a half you get for that.
 *SUS:	Mm.
-*PAT:	See when we go normally there's no time limit, but   (        ) busy week you have a   (.) we had the orange armbands, you, you trade your key in for an or orange armband   (        ) 
-*UNK:	Mind you hour and a half is plenty innit?
-*PAT:	And then you've got this disk on the wall which change colours, (        ) you know 
-*CAR:	Yeah.
+*PAT:	See when we go normally there's no time limit, but   (  ) busy week you have a   (.) we had the orange armbands, you, you trade your key in for an or  orange armband    (  )
+*UNK:	 Mind you  hour and a half is plenty innit?
+*PAT:	And then you've got this disk on the wall which change colours, (  ) you know
+*CAR:	 Yeah.
 *SUS:	Yeah.
-*PAT:	And when your wedge comes up, and that comes up flashing orange the bloke hits an old  (        ) 
-*CAR:	Yeah well what happens if you just get in at the end of your   (.) or a at the time before they change the band, the colours? (.) 
-*PAT:	Well   (        ) but I mean we, we   (        ) 
-*CAR:	No cos I've seen this done before right, I mean it's over a certain time, but if you go in at the end of the time
+*PAT:	And when your wedge comes up, and that comes up flashing orange the bloke hits an old  (  )
+*CAR:	Yeah well what happens if you just get in at the end of your   (.) or a  at the time before they change the band, the colours? (.)
+*PAT:	Well   (  ) but I mean we, we   (  )
+*CAR:	 No cos I've  seen this done before right, I mean it's over a certain time, but if you go in at the end of the time
 *PAT:	Yeah.
 *CAR:	and you, you, you
 *UNK:	No for a while it's flashing   (.) the orange.
-*CAR:	Yeah but you don't, you never, if you get 
-*PAT:	I know what Carl mean if you, you get   (        ) five minutes before it's up
-*CAR:	you never get the same amount of time as anybody else.I've always thought that's a, that's a totally unfair system.It's best with the, what, the best way I've seen it is with a numbers disk. (.) Say from one till ten cos they're the early ones   (.) and then they get a certain time, then your numbers eleven to twenty 
-*UNK:	Yeah but what I'm saying is erm   (.) the orange disk was flashing for a long while before the buzzer   (        ) 
-*CAR:	Yeah but it's flashing just as long for those who bought it first time round, isn't it?
+*CAR:	Yeah but you don't, you never, if you get
+*PAT:	 I know  what Carl mean if you, you get   (  ) five minutes before it's up
+*CAR:	you never get the same amount of time as anybody else. I've always
+	thought that's a, that's a totally unfair system. It's best with
+	the, what, the best way I've seen it is with a numbers disk.  (.)
+	Say from one till ten cos they're the early ones   (.) and then they
+	get a certain time, then your numbers  eleven to twenty
+*UNK:	 Yeah but what I'm  saying is erm   (.) the orange disk was flashing for a long while before the buzzer    (  )
+*CAR:	 Yeah but  it's flashing just as long for those who bought it first time round, isn't it?
 *UNK:	Yeah.
 *PAT:	Mm.
 *CAR:	You still get extra, you still, you don't
-*UNK:	Anyway it's plenty of time 
-*PAT:	Oh of course don't forget   (.) yester yesterday erm   (.) they allow so many in   (.) so you'd all be going in at the same time   (        ) 
-*CAR:	Sa oh well if it's the same time, yeah i 
-*UNK:	 (        ) in at the same time, yeah.
+*UNK:	Anyway it's plenty of  time
+*PAT:	 Oh  of course don't forget   (.) yester  yesterday erm   (.) they allow so many in   (.) so you'd all be going in at the  same time   (  )
+*CAR:	 Sa  oh well  if it's the same time, yeah i
+*UNK:	  (  ) in at the same time, yeah.
 *CAR:	providing you're at the same time.
-*PAT:	Well yesterday because of the long queue it happened that way.Normally if you go in I suppose   (.) normally they, (        ) bother normally see.
+*PAT:	Well yesterday because of the long queue it happened that way. Normally if you go in I suppose   (.) normally they, (  ) bother normally see.
 *CAR:	No I was gonna say normally if you don't, if there's no time restriction
-*PAT:	They, they, they actually tell you   (.) in the queue.She'll say right    (.)  (        ) going in she'll say right   (.) the next lot will be going in in er ten minutes to one which may be a quarter of an hour's time like, you know, so it's all timed   (        ) they don't let a few   (.) there's a   (        ) the second go in.
+*PAT:	They, they, they actually tell you   (.) in the queue. She'll say right    (.)  (  ) going in she'll say right   (.) the next lot will be going in in er ten minutes to one which may be a quarter of an hour's time like, you know, so it's all timed   (  ) they don't let a few   (.) there's a   (  ) the second go in.
 *CAR:	Yeah, mhm.
 *UNK:	Oh I see.
 *CAR:	Well they have to won't they cos otherwise it'd be just
-*UNK:	Mm.And er it weren't uncomfortably crowded in there.
-*PAT:	Oh no that's oh no that wasn't uncomfortably crowded.
-*UNK:	You know I always think oh god what 
-*CAR:	Is it clean?
-*PAT:	Oh yeah very clean 
-*UNK:	Oh absolutely yeah.And I, I like the idea of the lockers and that you know
-*SUS:	 (        ) 
-*UNK:	th none of the changing rooms have got erm   (.) locks on the doors, they've got bolts on the inside obviously
+*UNK:	Mm. And er it weren't uncomfortably  crowded in there.
+*PAT:	 Oh no that's  oh no that wasn't  uncomfortably crowded.
+*UNK:	 You know  I always think  oh god what
+*CAR:	 Is it clean?
+*PAT:	Oh yeah  very clean
+*UNK:	 Oh absolutely  yeah. And I, I like the idea of the lockers and that you know
+*SUS:	 (  )
+*UNK:	th  none of the changing rooms have got erm   (.) locks on the doors, they've got bolts on the inside obviously
 *SUS:	Yeah.
-*UNK:	obviously, but you, you've, you've   (        ) 
-*UNK:	Ooh 
+*UNK:	obviously, but you, you've, you've    (  )
+*UNK:	 Ooh
 *UNK:	locker.
-*SUS:	Oh that's   (        ) 
-*UNK:	You lock your stuff in
+*SUS:	Oh that's    (  )
+*UNK:	 You lock your stuff  in
 *CAR:	Like Stradbroke innit?
-*SUS:	Yeah Stradbroke's like that 
-*UNK:	 (        ) 
-*SUS:	you get it back at that end, yeah.Do you have like a band with a key on it?
+*SUS:	Yeah  Stradbroke's like that
+*UNK:	  (  )
+*SUS:	you get it back at that end, yeah. Do you have like a band with a key on it?
 *PAT:	Yeah.
-*CAR:	Yeah 
-*UNK:	Yeah 
-*SUS:	Yes, that's what they do at Stradbroke.
-*CAR:	But you just   (        ) 
-*PAT:	 (        ) normally you can put that band on and swim with it.
-*CAR:	Oh we 
-*SUS:	Yeah 
-*PAT:	But when, when it was busy, when it's busy   (        ) 
-*CAR:	That's what we do.
-*PAT:	 (        ) 
+*CAR:	 Yeah
+*UNK:	 Yeah
+*SUS:	Yes, that's what they do at  Stradbroke.
+*CAR:	 But you just   (  )
+*PAT:	  (  )  normally you can put that band on and swim with it.
+*CAR:	 Oh we
+*SUS:	 Yeah
+*PAT:	But when, when it was busy, when it's busy    (  )
+*CAR:	 That's what we do.
+*PAT:	 (  )
 *CAR:	Yeah, that's what we do.
-*UNK:	 (        ) 
-*SUS:	You're losing your 
-*UNK:	Well I think I'm gonna go to the loo and then we'll go.
+*UNK:	 (  )
+*SUS:	 You're losing your
+*UNK:	 Well I think I'm gonna  go to the loo and then we'll go.
 *SUS:	You're losing your drawers girl.
-*UNK:	Oh my god. (        ) the rubbish home   (        )  ((laugh)) 
-*SUS:	 ((laugh))  (        ) 
-*CAR:	 (        ) Pat might want it for storage you see.
+*UNK:	Oh my god.  (  ) the rubbish home   (  )  ((laugh))
+*SUS:	 ((laugh))  (  )
+*CAR:	 (  ) Pat might want it for storage you see.
 *SUS:	Yeah.
-*PAT:	Oh I'll stick it in the garage you never know   (        ) 
-*CAR:	But if you don't need it   (.) get rid of it.I mean I could always   (.) yeah I can a 
-*PAT:	 (        ) 
+*PAT:	Oh I'll stick it in the garage  you never know   (  )
+*CAR:	 But if you don't need it   (.) get rid of it. I mean I could always    (.) yeah I can a
+*PAT:	 (  )
 *CHR:	Mummy
 *SUS:	What?
-*CHR:	 (        ) we want to talk to you about erm
-*SUS:	No, no we're, just hang on a minute   (        ) 
-*CAR:	No we're having a cup of tea and a sit down.We've been busy all day.All day. (.) 
-*UNK:	 (        ) 
+*CHR:	 (  ) we want to talk to you about erm
+*SUS:	No, no we're, just hang on a minute    (  )
+*CAR:	 No we're having  a cup of tea and a sit down. We've been busy all day. All day. (.)
+*UNK:	 (  )
 *CAR:	You sound like the dog.
-*UNK:	 (        ) 
-*PAT:	 (        ) she's pointing at the jar of sweets.
-*UNK:	Yes, she wants  (        ) 
-*SUS:	No 
-*PAT:	That's what she's doing
+*UNK:	 (  )
+*PAT:	 (  ) she's pointing at the jar of sweets.
+*UNK:	Yes, she wants  (  )
+*SUS:	 No
+*PAT:	 That's  what she's doing
 *SUS:	What do you want?
-*PAT:	she's pointing at the jar of sweets   [laughing] look  [] .
+*PAT:	she's pointing at the jar of sweets   ((laughing)) look .
 *SUS:	What do you want?
-*CHR:	She wants all them jar of sweets.
-*SUS:	You want mum?
+*CHR:	She wants all them  jar of sweets.
+*SUS:	 You want mum?
 *CAR:	Yeah all those
-*CHR:	She wants all them jar of sweets 
-*SUS:	 (        ) mum to me.
-*UNK:	No! (        ) 
-*SUS:	No she can't have them, they're too hard.
-*PAT:	That's what she's pointing at.
+*CHR:	She wants all them jar  of sweets
+*SUS:	  (  ) mum  to me.
+*UNK:	No! (  )
+*SUS:	 No she  can't have them, they're too hard.
+*PAT:	 That's what she's pointing  at.
 *CAR:	Oh well you can't have those, sorry no.
-*UNK:	Can't she have a little piece of Mars?She's got one there.
+*UNK:	Can't she have a little piece of Mars? She's got one there.
 *SUS:	No she, I'll leave her for a, she's gonna have, have her tea in a minute, she can have a bit after her tea.
-*UNK:	 (        ) let you have one darling.
-*SUS:	 ((laugh)) 
+*UNK:	 (  ) let you have one darling.
+*SUS:	 ((laugh))
 *CAR:	Soon.
 *SUS:	Soon.
 *UNK:	Ah!
 *SUS:	Soon.
 *CAR:	When you've had a snooze.
-*SUS:	Wanna dance? (.) 
-*UNK:	Susan    (.)  (        ) has a snooze. ((laugh)) 
-*CAR:	 ((laugh)) 
-*SUS:	 [laughing] Snooze   (.) oh    (        )  [] oh a snooze.
+*SUS:	Wanna dance? (.)
+*UNK:	Susan    (.)  (  ) has a snooze. ((laugh))
+*CAR:	 ((laugh))
+*SUS:	 ((laughing)) Snooze   (.) oh    (  ) oh a snooze.
 *UNK:	Christopher told me.
-*UNK:	 (        ) 
-*PAT:	They ate boiled eggs for breakfast  (        ) .
+*UNK:	 (  )
+*PAT:	They ate boiled eggs for breakfast  (  ) .
 *SUS:	Ah
 *PAT:	Boiled egg.
-*SUS:	Do you want some more eggs?I've got some more if you want some, (        ) 
-*UNK:	Steven ate some of them scrambled.He said I'm starving, I shall passout.I said scramble some of them and I'll make you some chips   (.) cos we had
-*UNK:	 (        ) 
-*UNK:	 (        ) shepherds pie yesterday and I did them a few chips with it as well.
-*UNK:	 (        ) 
-*CHR:	And mum mum you know what, we went   (        ) 
-*CAR:	Do you want a few more eggs?
-*UNK:	 (        ) 
-*CHR:	when that, and when it was cold, we  (        ) 
+*SUS:	Do you want some more eggs? I've got some more if you want some, (  )
+*UNK:	 Steven ate  some of them scrambled. He said I'm starving, I shall passout. I said scramble some of them and I'll make you some chips   (.) cos we had
+*UNK:	 (  )
+*UNK:	 (  ) shepherds pie yesterday and I did them a few chips with it as well.
+*UNK:	 (  )
+*CHR:	And mum mum you know what, we went    (  )
+*CAR:	 Do you want a few more eggs?
+*UNK:	 (  )
+*CHR:	when that, and when it was cold, we  (  )
 *SUS:	Did you?
 *CHR:	Yes.
 *SUS:	Thank you.
 *CAR:	Did you want some eggs or not?
 *SUS:	Do you want some more eggs?
 *UNK:	Yeah if you've got us some there, lovely thank you.
-*SUS:	Yeah you see I've got one   (        ) quite a good broody, you see,
-*REB:	 (        )  ((scream)) 
+*SUS:	 Yeah you see  I've got one   (  ) quite a good broody, you see,
+*REB:	  (  )   ((scream))
 *PAT:	Noisy.
-*UNK:	 (        ) 
+*UNK:	 (  )
 *PAT:	They've all had a bath last night, two nights running they've had a bath full of water.
-*CAR:	 (        )  (        ) 
-*CAR:	He'll be ready for bed normal time, it's a   (.) he'll be in bed by about eight o'clock tonight.But they won't need a bath or anything.I'm gonna put the, I'm gonna put the news on at twenty to six and they can watch Star Trek at six o'clock.
-*UNK:	Ah!Ooh! (.) 
+*CAR:	 (  )  (  )
+*CAR:	He'll be ready for bed normal time, it's a   (.) he'll be in bed by about eight o'clock tonight. But they won't need a bath or anything. I'm gonna put the, I'm gonna put the news on at twenty to six and they can watch Star Trek at six o'clock.
+*UNK:	Ah! Ooh! (.)
 *PAT:	Star Trek.
-*CAR:	You like Star Trek don't you? (.) 
-*CHR:	GrandPat, daddy did you know, we had these t 
-*CAR:	Oh the yucky bathroom, don't look at the bathroom.
-*CHR:	GrandPat we had these two great big baths daddy.
+*CAR:	You like Star Trek don't you? (.)
+*CHR:	GrandPat, daddy did you know, we had these t
+*CAR:	Oh the yucky bathroom, don't  look at the bathroom.
+*CHR:	 GrandPat we had  these two great big baths daddy.
 *CAR:	Have you, with full of bubbles?
 *CHR:	Yeah!
 *ROB:	Yeah about this deep.
 *CAR:	Well I've changed the colour in the bathroom you know, it's white now.
-*ROB:	Not about this deep   (        ) 
-*UNK:	 (        ) 
-*PAT:	 (        ) they've had they've been out two days   (        ) on bikes  (        ) , borrowed John's children's bikes and   (        ) bikes and they've been all round 
+*ROB:	Not about this deep    (  )
+*UNK:	  (  )
+*PAT:	  (  ) they've had  they've been out two days   (  ) on bikes  (  ) , borrowed John's children's bikes and   (  ) bikes and they've been all round
 *CAR:	Well I was gonna bring their bikes across this time and Sue said don't bother because
 *PAT:	Borrow John's.
-*CAR:	they have a an arrangement where they bo i is it alright for that though?
+*CAR:	they have a  an arrangement where they bo  i  is it alright for that though?
 *PAT:	Oh yeah.
-*CAR:	They do he doesn't mind?
+*CAR:	They do  he doesn't mind?
 *PAT:	No he doesn't mind at all.
-*CAR:	Yeah I know cos Robert was asking for his 
-*PAT:	So I I, I, I went in today I said, this morning, I said to John I said   (.) I said thanks for erm   (.) now you see Steven had arranged to video erm Laura's birthday party today you see    (.)  (        ) John this morning I said and thanks for lending the bikes John and that, he said that's alright pal.I said oh I said by the way Steven will be round this afternoon to video.Ah he said, smashing, I thought   (.) I'm giving a little bit back see?
+*CAR:	Yeah I know cos Robert was asking  for his
+*PAT:	 So I  I, I, I went in today I said, this morning, I said to John I said   (.) I said thanks for erm   (.) now you see Steven had arranged to video erm Laura's birthday party today you see    (.)  (  ) John this morning I said and thanks for lending the bikes John and that, he said that's alright pal. I said oh I said by the way Steven will be round this afternoon to video. Ah he said, smashing, I thought   (.) I'm giving a little bit back see?
 *CAR:	Yes.
-*PAT:	Steven said oh no it'll be embarrassing, no I won't do it.I said no, I'm not, I'm not doing it for that reason I said I'm trying to   (.) you know   (.) thought to myself we'll give them something back.
-*CAR:	Steven didn't mind doing it did he not?
-*PAT:	No he  (        ) 
-*CAR:	That's great.That's great that is.
-*ROB:	Daddy   (.) erm you know   (.) GrandPat told us not to go on our backs   (        ) shutes.I went on my back on both of them.And it wasn't too bad.
-*PAT:	 (        ) 
-*CAR:	 [yawning] You come quick off them though if you're not wondering   [] if you're not watching what's happening you come off sh 
-*PAT:	 (        ) time to watch your speed  (        ) , do you Robert?
-*ROB:	No.It was okay.
+*PAT:	Steven said oh no it'll be embarrassing, no I won't do it. I said no, I'm not, I'm not doing it for that reason I said I'm trying to   (.) you know   (.) thought to myself we'll  give them something back.
+*CAR:	 Steven didn't  mind doing it did he not?
+*PAT:	No he  (  )
+*CAR:	That's great. That's great that is.
+*ROB:	Daddy   (.) erm you know   (.) GrandPat told us not to go on our backs   (  ) shutes. I went on my back on both of them. And it wasn't too bad.
+*PAT:	 (  )
+*CAR:	 ((yawning)) You come quick off them though if you're not wondering  if you're not watching what's happening you come off sh
+*PAT:	 (  ) time to watch your speed  (  ) , do you Robert?
+*ROB:	No. It was okay.
 *CAR:	Is it like that one that was at Felixstowe, that long slopey one, is it?
 *ROB:	No it goes right out the building.
-*PAT:	This one goes right out the building, round and round and it drops down, phew   (.) then it goes up.It's a hell of a thing it is.
-*CAR:	Cleverly designed?And how deep's the water when you land in it?
-*PAT:	You go under it.You go right under. (        ) 
-*ROB:	I don't I, I go sshh and I just shoot out and then I just swim to the edge, I don't go under.
-*PAT:	I always go under   (        ) 
-*ROB:	Even when I'm lying down.
-*PAT:	 [laughing] I do, I always go under  [] .How do, how can you lay on your back and not go under boy?
-*CAR:	 ((laugh)) 
-*ROB:	Easy. (.) I lay on my back.
+*PAT:	This one goes right out the building, round and round and it drops down, phew   (.) then it goes up. It's a hell of a thing it is.
+*CAR:	Cleverly designed? And how deep's the water when you land in it?
+*PAT:	You go under it. You go right under. (  )
+*ROB:	 I don't  I, I go sshh and I just shoot out and then I just swim to the edge, I don't go under.
+*PAT:	I always go under    (  )
+*ROB:	 Even when I'm lying down.
+*PAT:	 ((laughing)) I do, I always go under . How do, how can you lay on your back and not go under boy?
+*CAR:	 ((laugh))
+*ROB:	Easy.  (.) I lay on my back.
 *PAT:	Yeah well you must go under when you go in the water on your back.
-*ROB:	What? (.) I don't.
-*CAR:	Have to watch you next time you ha 
+*ROB:	What?  (.) I don't.
+*CAR:	Have to watch you next time you ha
 *PAT:	See you next time in, I will.
-*CAR:	Yeah.Yeah I reckon he's cheating.
-*PAT:	He only said af when we come out of there   (.) said let's pay and go in again. (        ) 
-*CAR:	 ((laugh)) 
-*ROB:	GrandPat did something wrong   (.) I suppose when you went down like a   (        ) when he's lying on his back because you don't go down there very very fast.
-*PAT:	I bloody did. (        ) I did.I nearly didn't come up again neither, they was coming after me they were.I had no idea where I was the first time   (        ) 
-*ROB:	 ((cough)) 
-*PAT:	They went alright, Andrew went down alright.I said to Andrew do you wanna come down with me first time  (        ) ?
-*CAR:	Aha.
-*PAT:	No he said I'll go.And I'd be quite   (.) wouldn't say frightened mind   (        ) 
-*CAR:	 [yawning] Yeah I bet  [] .
+*CAR:	Yeah. Yeah I reckon he's cheating.
+*PAT:	He only said af  when we come out of there   (.) said let's pay and go in again. (  )
+*CAR:	  ((laugh))
+*ROB:	GrandPat did something wrong   (.) I suppose when you went down like a   (  ) when he's lying on his back because you don't go down there very very fast.
+*PAT:	I bloody did.  (  ) I did. I nearly didn't come up again neither, they was coming after me they were. I had no idea where I was the first time    (  )
+*ROB:	  ((cough))
+*PAT:	They went alright, Andrew went down alright. I said to Andrew do you wanna come down with me first time   (  ) ?
+*CAR:	 Aha.
+*PAT:	No he said I'll go. And I'd be quite   (.) wouldn't say frightened mind    (  )
+*CAR:	  ((yawning)) Yeah I bet .
 *PAT:	it's quite a thing you know, to
 *ROB:	I've been down both of them.
 *PAT:	Yeah.
 *ROB:	Both lying on my back.
-*PAT:	Yeah   (        ) the rapids.
-*ROB:	The blue one's the   (        ) 
-*PAT:	 (        ) they hooked you out the rapids twice didn't they? ((laugh)) 
-*ROB:	 [laughing] Yeah  [] .Out of both rapids.
+*PAT:	Yeah   (  ) the rapids.
+*ROB:	The blue one's the    (  )
+*PAT:	  (  )  they hooked you out the rapids twice didn't they? ((laugh))
+*ROB:	 ((laughing)) Yeah . Out of both rapids.
 *CAR:	Did they?
-*PAT:	 (        ) 
-*ROB:	Yeah.Cos once er I mean about the s third time   (.) the, no the first time I went in the f in the rapid that was all   (        ) 
-*CAR:	That's gotta go in the kitchen   (        ) Robert when you've finished.
-*ROB:	Yeah.Erm   (.) er it was current well you just sort of sw swam round in it and you could get to the side easily.
+*PAT:	 (  )
+*ROB:	Yeah. Cos once er I mean about the s  third time   (.) the, no the first time I went in the f  in the rapid that was all    (  )
+*CAR:	 That's gotta  go in the kitchen   (  ) Robert when you've finished.
+*ROB:	Yeah. Erm   (.) er it was current well you just sort of sw  swam round in it and you could get to the side easily.
 *CAR:	Oh.
-*ROB:	But the third time   (.) they had turned it up so it kept on going big   [laughing] waves so I   [] I missed the steps so the erm one of the lifeguards 
-*CHR:	Gran daddy we need a new lightbulb.
+*ROB:	But the third time   (.) they had turned it up so it kept on going big   ((laughing)) waves so I  I missed the steps  so the erm one of the lifeguards
+*CHR:	 Gran  daddy we need a new lightbulb.
 *CAR:	Oh again.
-*ROB:	brought, brought one of those padded things   (.) sort of orange things and she pulled me to the steps 
-*CHR:	Daddy daddy we need a new lightbulb.
-*ROB:	and the second one   (        ) open which went right outside the building and came back in again   (.) erm  (.) 
+*ROB:	brought, brought one of those padded things   (.) sort of orange things and she pulled me to the steps
+*CHR:	 Daddy daddy we need a new lightbulb.
+*ROB:	and the second one   (  ) open which went right outside the building and came back in again   (.) erm  (.)
 *CAR:	I've just hoovered in here Rebecca.
-*ROB:	I   (.) was going on with it, all the bumps were okay but when I was   (.) actually inside the building again I hung on to GrandPat to get to the steps but my hand slipped so I   (.) was going round with the current so I tried to hold on to the orange thing that they had put there but I slipped   [laughing] off that   [] and I kept on going round   (.) and the lifeguard gave erm me and somebody else a hoop and we both grabbed onto it
-*PAT:	 (        ) they stand outside.
-*ROB:	and she, he pulled us to the erm steps.
-*PAT:	 (        ) all outside, all on the edge there they've got these lifeguards   [laughing] in bloody weatherproof clothing   [] like you know
+*ROB:	I   (.) was going on with it, all the bumps were okay but when I was   (.) actually inside the building again I hung on to GrandPat to get to the steps but my hand slipped so I   (.) was going round with the current so I tried to hold on to the orange thing that they had put there but I slipped   ((laughing)) off that  and I kept on going round   (.) and the lifeguard gave erm me and somebody else a hoop and we both grabbed onto it
+*PAT:	 (  ) they stand outside.
+*ROB:	and she, he pulled us to the erm  steps.
+*PAT:	  (  )  all outside, all on the edge there they've got these lifeguards   ((laughing)) in bloody weatherproof clothing  like you know
 *CAR:	Well they have to be don't they, yeah.
-*PAT:	they've got woo wooden poles with hooks on to hook people out cos they, you don't, once you're in that water you, you don't stop you know, you can't   [laughing] decide not to go  [] .
-*CAR:	Well that's it you're aw 
-*PAT:	You go.That's like the rapids without the boat
+*PAT:	they've got woo  wooden poles with hooks on to hook people out cos they, you don't, once you're in that water you, you don't stop you know, you can't   ((laughing)) decide not to go .
+*CAR:	Well that's it  you're aw
+*PAT:	 You go.  That's like the rapids without the boat
 *CAR:	Yeah.
 *PAT:	it's just your body going round, you've, you go everywhere, arms, legs the lot.
-*CAR:	It's not painful though?Apart, unless you do it
-*PAT:	 (        ) bloody   (        ) right it is.
-*CAR:	 ((laugh)) 
-*PAT:	Cos I was trying to keep out, it's   (        ) too much for him, he's   (        ) 
-*ROB:	It can be it can be painful.
-*PAT:	And I was trying keep, make him keep his head up.
-*CAR:	You're kami you're kamikaze 
-*PAT:	I was trying to keep his head up.Cos he went over lovely, he was sitting there and I came up 
-*ROB:	Erm daddy   (        ) 
-*PAT:	 (        ) bang and cracked me leg.
+*CAR:	It's not painful though? Apart, unless you do it
+*PAT:	 (  ) bloody   (  ) right it is.
+*CAR:	 ((laugh))
+*PAT:	Cos I was trying to keep out, it's   (  ) too much for him, he's    (  )
+*ROB:	 It can be  it can be painful.
+*PAT:	And I was trying  keep, make him keep his head up.
+*CAR:	 You're kami  you're kamikaze
+*PAT:	I was trying to keep his head up. Cos he went over lovely, he was sitting there and  I came up
+*ROB:	 Erm daddy   (  )
+*PAT:	 (  ) bang and cracked me leg.
 *ROB:	the first bump you go over
-*CAR:	Go and shut the toilet door, (        )  (.) 
-*ROB:	the first erm hump you go over it's just a little one 
-*SUS:	 (        ) toilet Robert?
-*ROB:	like that, whoop and then the second one   (.) you go whoop and down a bit and it's, all the water splashes you in your face and that's the same with the fi third one.
-*PAT:	 (        ) 
+*CAR:	Go and shut the toilet door, (  )  (6.0)
+*ROB:	the first erm hump you go  over it's just a little one
+*SUS:	  (  ) toilet Robert?
+*ROB:	like that, whoop and then the second one   (.) you go whoop and down a bit and it's, all the water splashes you in your face and that's the  same with the fi  third one.
+*PAT:	  (  )
 *CAR:	Sprains your back does it?
 *ROB:	And then the
-*PAT:	Cor yeah  (        ) 
+*PAT:	Cor yeah  (  )
 *CAR:	Mm
-*ROB:	fourth one is just like the first one.And then the next one you come to is the last one t that actually takes you into the building.It goes up   (.) and straight down l and you can't stay up   (.) erm in the water, you go straight under and you don't find yourself in the middle erm of the pool where it actually comes in you find yourself being pressed against the wall by the water pressure   (        ) 
-*UNK:	 (        ) 
-*CAR:	So how do you get out then?He's got asthma.
+*ROB:	fourth one is just like the first one. And then the next one you come to is the last one t  that actually takes you into the building. It goes up   (.) and straight down l  and you can't stay up   (.) erm in the water, you go straight under and you don't find yourself in the middle erm of the pool where it actually comes in you find yourself being pressed against the wall by the water pressure    (  )
+*UNK:	  (  )
+*CAR:	So how do you get out then? He's got asthma.
 *ROB:	You have to swim to erm
-*SUS:	Yeah I know he's asthmatic. (        ) 
-*CAR:	 (        ) have to go and have a spray.
-*SUS:	 (        ) to Dr 
+*SUS:	Yeah I know he's asthmatic. (  )
+*CAR:	  (  )  have to go and have a spray.
+*SUS:	 (  ) to Dr
 *ROB:	you have to erm swim to the steps
 *CAR:	Ooh
 *ROB:	at the step.
 *CAR:	You had a good time though?
-*ROB:	Yeah but instead of me swimming to the steps   (        ) 
-*SUS:	No you can't my darling, you've just had a piece of   (        ) 
-*ROB:	and I went around with the current.
-*SUS:	Oh you porky girl.
-*CAR:	You'll do alright, you're okay, you're still here.Don't sit on Rebecca's cup. (.) 
-*SUS:	 (        ) oh!
-*PAT:	 (        ) 
-*SUS:	Yeah we know they're there but they're the wrong kind for you darling.You can't have them can you?
-*CAR:	No they're not for you miss.The word is
-*PAT:	 (        ) the rest of those are in the caravan actually in one of those little square boxes.
-*CAR:	Is th ooh I'll know where they are then.
+*ROB:	Yeah but instead of me swimming  to the steps   (  )
+*SUS:	 No you can't my darling, you've just had a piece of   (  )
+*ROB:	and I went around  with the current.
+*SUS:	 Oh you  porky girl.
+*CAR:	You'll do alright, you're okay, you're still here. Don't sit on Rebecca's cup. (.)
+*SUS:	 (  ) oh!
+*PAT:	 (  )
+*SUS:	Yeah we know they're there but they're the wrong kind for you darling.  You can't have them can you?
+*CAR:	 No they're not for you miss.  The word is
+*PAT:	 (  ) the rest of those are in the caravan actually in one of those little square boxes.
+*CAR:	Is th  ooh I'll know where they are then.
 *UNK:	Right Pat, I'm ready when you are then.
-*PAT:	 (        ) cheerio boys.
-*UNK:	 (        ) 
-*SUS:	Bye GrandPat, see you   (        ) 
-*PAT:	Bye bye 
-*UNK:	 (        ) 
+*PAT:	 (  ) cheerio boys.
+*UNK:	 (  )
+*SUS:	Bye GrandPat, see you    (  )
+*PAT:	 Bye bye
+*UNK:	 (  )
 *UNK:	Bye darling.
-*UNK:	 (        ) 
-*PAT:	Give me a kiss.Give me a kiss.
+*UNK:	 (  )
+*PAT:	Give me a kiss. Give me a kiss.
 *ROB:	Thank you for having us.
-*PAT:	 (        ) kiss.
+*PAT:	 (  ) kiss.
 *UNK:	That's okay love.
 *ROB:	GrandPat
 *PAT:	Yes?
-*ROB:	thank you for spending all that money on us.
-*UNK:	And I'll see if they're good boys 
-*PAT:	That's alright  (        ) 
+*ROB:	 thank you for spending all that money on us.
+*UNK:	 And I'll see if they're good boys
+*PAT:	That's alright  (  )
 *UNK:	and work hard at school
 *SUS:	These
 *UNK:	mummy   (.) if they're good boys and work hard at school
@@ -607,144 +617,144 @@
 *UNK:	they can come for another little holiday at Easter.
 *SUS:	Lovely.
 *CAR:	Good, cos that means I can get this er these two rooms painted.
-*UNK:	 (        ) 
-*UNK:	Well, and if it, if the weather's 
-*PAT:	Daddy 
-*UNK:	fit we might   (        ) caravan.
+*UNK:	  (  )
+*UNK:	Well, and if it, if the  weather's
+*PAT:	 Daddy
+*UNK:	fit we might   (  ) caravan.
 *CAR:	Daddy.
 *SUS:	Smashing, we shall see.
-*UNK:	 (        ) 
-*PAT:	 (        ) cool you down   (        ) 
-*CAR:	We'll see mummy.No   (        ) do you wanna hand
+*UNK:	 (  )
+*PAT:	  (  ) cool you down   (  )
+*CAR:	 We'll see mummy.  No   (  ) do you wanna hand
 *PAT:	Yeah
 *CAR:	do you want me to carry that
 *UNK:	Bye bye sweetheart.
-*CAR:	Can you grab hold of her Sue. (.) Sue
+*CAR:	Can you grab hold of her Sue.  (.) Sue
 *SUS:	What?
-*UNK:	Bye bye.Bye bye.
-*CAR:	Come on, you're gonna have to grab hold of her cos I'm gonna have to move this
-*SUS:	Yeah.Come on then sweetpea.
-*UNK:	Bye bye.Bye bye.
-*SUS:	Bye. (.) Don't slack.
+*UNK:	 Bye bye. Bye bye.
+*CAR:	 Come on, you're gonna have to grab hold of her  cos I'm gonna have to move this
+*SUS:	Yeah. Come on then sweetpea.
+*UNK:	Bye bye. Bye bye.
+*SUS:	Bye.  (.) Don't slack.
 *UNK:	Bye bye
 *PAT:	Where's Andrew?
-*CAR:	He's upstairs. (.) 
+*CAR:	He's upstairs. (.)
 *ROB:	Bye Nan.
 *UNK:	Bye bye.
-*PAT:	 [shouting] Cheerio Andrew   [] 
-*CAR:	Bye. (.) 
-*PAT:	 [shouting] Cheerio Andrew  [] . (.) 
-*SUS:	 (        ) cos I know I put them in
+*PAT:	  ((shouting)) Cheerio Andrew
+*CAR:	 Bye. (.)
+*PAT:	 ((shouting)) Cheerio Andrew . (25.0)
+*SUS:	 (  ) cos I know I put them in
 *CAR:	What?
-*SUS:	Don't forget   (        ) 
-*CAR:	Ooh!Robert come and carry a chest of drawers round will you?
-*SUS:	 (        ) 
+*SUS:	Don't forget    (  )
+*CAR:	 Ooh!  Robert come and carry a chest of drawers round will you?
+*SUS:	 (  )
 *CAR:	Well he can get a pair of shoes on.
-*UNK:	 (        ) 
-*ROB:	Oh hang on, I'll just put my feet in these   (        ) 
-*CAR:	Go on then.
-*UNK:	 (        ) 
+*UNK:	 (  )
+*ROB:	Oh hang on, I'll just put my feet in these    (  )
+*CAR:	 Go on then.
+*UNK:	 (  )
 *ROB:	Bye, thank you for having us.
-*UNK:	 (        ) 
-*CAR:	Can you carry these two? (.) One   (.) these are your old chest of drawers you see, if you go round the back.
-*ROB:	Yep.Where do I go to?
+*UNK:	 (  )
+*CAR:	Can you carry these two?  (.) One   (.) these are your old chest of drawers you see, if you go round the back.
+*ROB:	Yep. Where do I go to?
 *CAR:	Well the car.
 *ROB:	Oh right.
-*CAR:	Can you manage?Just take your time. (.) 
-*PAT:	 (        ) 
-*CAR:	Suppose so  (        ) 
-*PAT:	 (        ) 
+*CAR:	Can you manage? Just take your time. (.)
+*PAT:	 (  )
+*CAR:	Suppose so  (  )
+*PAT:	 (  )
 *CAR:	Go on Robert, off you go.
-*ROB:	 (        )  (        ) 
+*ROB:	 (  )  (  )
 *CAR:	Yeah.
-*PAT:	 (        )  (.) 
-*UNK:	 (        ) 
+*PAT:	 (  )  (.)
+*UNK:	 (  )
 *UNK:	Bye Toby.
-*SUS:	 ((laugh)) 
-*CAR:	Let him out Sue.Let him out for a roar round. (.) Alright?
+*SUS:	 ((laugh))
+*CAR:	Let him out Sue. Let him out for a roar round.  (.) Alright?
 *PAT:	Yeah.
 *UNK:	Bye Toby.
-*PAT:	Can you manage?Which way you going, this way? (        ) 
-*CAR:	 (        ) 
-*PAT:	 (        ) 
-*CAR:	Yeah, okay.Get out the way you stupid dog. (.) 
+*PAT:	Can you manage? Which way you going, this way? (  )
+*CAR:	  (  )
+*PAT:	 (  )
+*CAR:	Yeah, okay. Get out the way you stupid dog. (.)
 *PAT:	Sliding off innit?
 *CAR:	Yeah.
-*ROB:	Shall I take a bit of it? (        )  (.) 
+*ROB:	Shall I take a bit of it? (  )  (.)
 *CAR:	Hang on, we'll just carry it straight where we are.
-*PAT:	Gonna carry it straight where you are?Right 
-*CAR:	Yeah.No leave the drawers in.
-*UNK:	 (        ) 
-*CAR:	I've got the light end again here. (.) 
-*UNK:	 (        ) 
-*CAR:	Mind it's got, it's got some drawers in, deep drawers you know and you   (.) I, I wonder whether or not you've always    (.)  [laughing] I know    []  (.) you've always said if you had er stuff like this
-*PAT:	Oh yeah  (        ) 
-*CAR:	if you don't find use for it you can chuck it out. (.) 
-*SUS:	 [shouting] Ouch!My foot  [] .
-*CAR:	 ((laugh))  (        ) goat.No it's the goat, it's on Sue's.
+*PAT:	Gonna carry it straight where you are?  Right
+*CAR:	 Yeah.   No leave the drawers in.
+*UNK:	  (  )
+*CAR:	I've got the light end again here. (.)
+*UNK:	 (  )
+*CAR:	Mind it's got, it's got some drawers in, deep drawers you know and you   (.) I, I wonder whether or not you've always    (.)  ((laughing)) I know    (.) you've always said if you had er stuff like this
+*PAT:	Oh yeah  (  )
+*CAR:	if you don't find use for it you can chuck it out. (.)
+*SUS:	 ((shouting)) Ouch! My foot .
+*CAR:	 ((laugh))  (  ) goat. No it's the goat, it's on Sue's.
 *SUS:	That's the goat trod on me foot.
-*CAR:	 ((laugh)) 
-*PAT:	 (        ) drop the seats down  (        ) 
-*CAR:	Oh okay. (.) You don't want any more carrots do you?
-*PAT:	 (        ) 
+*CAR:	 ((laugh))
+*PAT:	 (  ) drop the seats down  (  )
+*CAR:	Oh okay.  (.) You don't want any more carrots do you?
+*PAT:	 (  )
 *CAR:	 ((laugh)) Carrot cakes.
-*AND:	 (        ) 
+*AND:	 (  )
 *CAR:	Andrew leave it down.
 *AND:	Shall I put this down here?
-*CAR:	Right?Yeah put it down there.
-*AND:	Right-y-oh. (.) 
+*CAR:	Right? Yeah put it down there.
+*AND:	Right-y-oh. (.)
 *CAR:	It'll go in there won't it?
 *PAT:	I'll drop the seats.
-*CAR:	Ah right.Okay.
+*CAR:	Ah right. Okay.
 *UNK:	It's only a teacup in that old grey bag from the caravan, that's all the
-*CAR:	I'll move that   (.) and that. (.) 
-*UNK:	Bye bye. (.) Rebecca   (.) Rebecca
+*CAR:	I'll move that   (.) and that. (.)
+*UNK:	Bye bye.  (.) Rebecca   (.) Rebecca
 *CAR:	There you go, put that down there.
 *AND:	What are you using them for?
 *CAR:	He doesn't know yet.
 *PAT:	I might use them, might not.
 *UNK:	Bye bye.
-*PAT:	 (        ) 
-*CAR:	Might not use them at .
-*UNK:	 (        ) 
-*UNK:	 (        ) tomorrow.Dan'll telephone you in the morning.
-*CAR:	Ah leave the drawers. (.) Excuse me.You've got a new chest of drawers anyway Christopher.You got yours last year.
-*UNK:	What is, we one sh set of drawers short?
+*PAT:	  (  )
+*CAR:	 Might not  use them at .
+*UNK:	 (  )
+*UNK:	 (  ) tomorrow. Dan'll telephone you in the morning.
+*CAR:	Ah leave the drawers.  (.) Excuse me. You've got a new chest of drawers anyway Christopher. You got yours last year.
+*UNK:	What is, we one sh  set of drawers short?
 *SUS:	No that's all we've got, that's why we had to get some.
-*CAR:	Yeah.There, there are t there are   (.) there are two drawers
+*CAR:	Yeah. There, there are t  there are   (.) there are two drawers
 *ROB:	There's one there.
-*SUS:	 (        ) should be three shouldn't there? (        ) 
-*CAR:	No there should be four altogether.
-*ROB:	There was.
-*SUS:	No two got broken.
-*UNK:	Oh I see, so you had to replace them  (        ) 
+*SUS:	 (  ) should be three shouldn't there? (  )
+*CAR:	 No there should be four altogether.
+*ROB:	 There was.
+*SUS:	 No two  got broken.
+*UNK:	Oh I see, so you had to replace them  (  )
 *CAR:	Haven't got me glasses on.
 *ROB:	We used to have   (.) two each didn't we?
-*SUS:	Oh yeah you did but you've got   (        ) each but they're deeper ones so   (        ) 
-*CAR:	So there's another one in there that goes in there  (.) 
+*SUS:	Oh yeah you did but you've got   (  ) each but they're deeper ones so    (  )
+*CAR:	 So there's  another one in there that goes in there  (.)
 *SUS:	And that's your lot.
 *CAR:	and I'll put it in
-*ROB:	And that's your lot.And we used to have school clothes just piled up there.
-*CAR:	You used to have school c 
+*ROB:	And that's your lot. And we used to have school clothes just piled up there.
+*CAR:	You used to have school c
 *PAT:	Mind your fingers, alright?
-*SUS:	No Chris.
+*SUS:	 No Chris.
 *CAR:	school clothes piled everywhere Robert.
-*UNK:	 (        ) 
-*SUS:	 [laughing]  (        )  [] and I've been trying for ages but there just hasn't been any cos  (        ) 
-*PAT:	You get in the front  (        ) 
-*UNK:	 (        ) 
-*CAR:	Bit more  (.) 
-*UNK:	 (        ) 
-*CAR:	 ((laugh)) Lovely.Thank you.Well done. (.) Oh if you can use it, use it.If you can't use it just get rid of it  (        ) 
-*UNK:	 (        ) 
+*UNK:	 (  )
+*SUS:	 ((laughing))  (  ) and I've been trying for ages but there just hasn't been any cos  (  )
+*PAT:	You get in the front  (  )
+*UNK:	 (  )
+*CAR:	Bit more  (.)
+*UNK:	 (  )
+*CAR:	 ((laugh)) Lovely. Thank you. Well done.  (.) Oh if you can use it, use it. If you can't use it just get rid of it  (  )
+*UNK:	 (  )
 *CAR:	It's always something for er
-*CHR:	 (        ) bye bye.
+*CHR:	 (  ) bye bye.
 *UNK:	Bye.
-*UNK:	 (        ) 
+*UNK:	 (  )
 *PAT:	Goodbye.
-*CAR:	Well you might use it for something.So we'll see you when we see you next then.
-*PAT:	Yeah.
-*UNK:	Yeah alright then.
+*CAR:	Well you might use it for something. So we'll see you when we see you next then.
+*PAT:	 Yeah.
+*UNK:	 Yeah  alright then.
 *CAR:	Whenever that'll be.
 *SUS:	Right, I'll see you soon.
 *PAT:	Bye bye.
@@ -754,154 +764,154 @@
 *UNK:	Bye bye.
 *ROB:	Bye Nan.
 *UNK:	Bye darling.
-*UNK:	 (        ) 
+*UNK:	 (  )
 *SUS:	Right boys, come on out the way now.
 *UNK:	Bye.
-*CAR:	Right we'll let these lot go and we'll go and watch the news if you're watching Star Trek at six. (.) I said they could watch Star Trek at six o'clock.
+*CAR:	Right we'll let these lot go and we'll go and watch the news if you're watching Star Trek at six.  (.) I said they could watch Star Trek at six o'clock.
 *SUS:	Well I want to put the goats in anyway.
 *UNK:	Bye.
-*CAR:	I'll put them in. [shouting] See you later then  [] .
+*CAR:	I'll put them in.  ((shouting)) See you later then .
 *SUS:	Well they need feeding.
 *UNK:	See you later.
 *CAR:	Well do you want me to take some straw in?
 *SUS:	No they need some grain, they need a bit of grain in.
-*CAR:	And straw?Put some in?
-*SUS:	Yeah a bit of straw you can put in as well, yeah.
-*CAR:	Okay.Well I'll put some of that in now. (.) Well Christopher can put some straw in.Ah ah leave that, leave it, er I've got   (.) no, no, no, no, put that back.Put it back. [shouting] Put it back   [] I don't want that opened. (        ) you know you should only need to be told once Christopher. (.) Come on. (.) Open the sh  (.) no, open the shed, open the shed door. (.) Open the shed door.Their shed. (.)  ((goat makes a noise))Shut up goat. (.) Blood and sand, look! (.) Just behave. (.) Come on   (.) oy! ((whistling)) Have you opened the door? (.)  [singing] bo bo bo bo bom bom bom bom   [] Right, straw and feed for these animals here. (.) Right. (.) 
-*CHR:	Daddy  (        ) 
+*CAR:	And straw?  Put some in?
+*SUS:	 Yeah  a bit of straw you can  put in as well, yeah.
+*CAR:	 Okay. Well I'll  put some of that in now.  (.) Well Christopher can put some straw in. Ah ah leave that, leave it, er I've got   (.) no, no, no, no, put that back. Put it back.  ((shouting)) Put it back  I don't want that opened.  (  ) you know you should only need to be told once Christopher.  (.) Come on.  (.) Open the sh   (.) no, open the shed, open the shed door.  (.) Open the shed door. Their shed.  (.)  ((goat makes a noise))Shut up goat.  (.) Blood and sand, look!  (.) Just behave.  (10.0) Come on   (.) oy!  ((whistling)) Have you opened the door? (.)  ((singing)) bo bo bo bo bom bom bom bom  Right, straw and feed for these animals here.  (.) Right. (.)
+*CHR:	Daddy  (  )
 *CAR:	Having a run about?
-*CHR:	 (        ) ?
-*CAR:	Yeah, let's put this in. (.) There you go. (.) 
+*CHR:	 (  ) ?
+*CAR:	Yeah, let's put this in.  (.) There you go. (.)
 *CHR:	GrandPat where, daddy where is the hay in here?
-*CAR:	It's in the black bag. (.) 
-*UNK:	Hugh   (.) Hugh come on, good boy. (.) 
-*SUS:	Come on Hugh.Oh they're gonna chase us off now, come in Hugh.He's gonna try and get in his   (        ) 
-*CAR:	No he's not.
-*SUS:	 (        ) shut that   (        ) cos he'll go in the kitchen. (        ) come here. (.) Hughie come on.
+*CAR:	It's in the black bag. (.)
+*UNK:	Hugh   (.) Hugh come on, good boy. (.)
+*SUS:	Come on Hugh. Oh they're gonna chase us off now, come in Hugh. He's gonna try and get in his    (  )
+*CAR:	 No he's not.
+*SUS:	 (  ) shut that   (  ) cos he'll go in the kitchen.  (  ) come here.  (.) Hughie come on.
 *CAR:	Go on.
-*UNK:	 (        ) 
-*SUS:	 [shouting] Get out Christopher.Christopher come out  [] .He's gone in the goat shed and   (        ) 
-*CAR:	Come on.Have we got a lid to put this on?
-*SUS:	 (        ) 
-*CAR:	Get in. (.) 
-*UNK:	 (        ) 
+*UNK:	 (  )
+*SUS:	 ((shouting)) Get out Christopher. Christopher come out . He's gone in the goat shed and    (  )
+*CAR:	 Come on.  Have we got a lid to put this on?
+*SUS:	 (  )
+*CAR:	Get in. (.)
+*UNK:	 (  )
 *SUS:	Get your butt in Hugh, go on, in you get boy.
-*UNK:	 (        ) 
-*SUS:	 (        ) needs to go up though cos   (        ) 
-*CAR:	Yeah I know.
-*UNK:	 (        )  (.) 
-*CAR:	I've put some hay in.Come on, let's get in. (.) 
-*SUS:	 (        ) the gate's open   (        ) shed door  (        ) 
+*UNK:	 (  )
+*SUS:	 (  ) needs to go up though cos    (  )
+*CAR:	 Yeah I know.
+*UNK:	 (  )  (.)
+*CAR:	I've put some hay in. Come on, let's get in. (.)
+*SUS:	 (  ) the gate's open   (  ) shed door  (  )
 *CAR:	Yeah.
 *UNK:	I've got a piece of chocolate.
-*CAR:	 ((laugh)) It's like chocolate, yeah. (.) Right are the hens, oh the hens are alright.
-*UNK:	Daddy d on my piano do you want to practice happy birthday?
-*CAR:	Tomorrow I'll do it.I'll do it   (.) oh wheel that, Andrew wheel this buggy round will you.
-*CHR:	I will I will 
-*CAR:	Oh go on then Chris, go on then.
+*CAR:	 ((laugh)) It's like chocolate, yeah.  (.) Right are the hens, oh the hens are alright.
+*UNK:	Daddy d  on my piano do you want to practice happy birthday?
+*CAR:	Tomorrow I'll do it. I'll do it   (.) oh wheel that, Andrew wheel this buggy round will you.
+*CHR:	I will  I will
+*CAR:	 Oh go on  then Chris, go on then.
 *CHR:	I will, I will.
 *AND:	What?
-*CAR:	Put the barrow back up against the door will you? (.) Careful. (.) 
-*AND:	Coming in? (.) 
-*CAR:	Just put it by the back door. (.) Just put that by the back door. (.) 
+*CAR:	Put the barrow back up against the door will you?  (.) Careful. (.)
+*AND:	Coming in? (.)
+*CAR:	Just put it by the back door.  (.) Just put that by the back door. (7.0)
 *SUS:	Gone without the eggs ain't she?
 *CAR:	Oh!
 *SUS:	Bagged them up ready, yes she said I'll have some.
 *CAR:	Mm.
-*SUS:	Never mind. (        ) 
-*UNK:	 (        ) shook that up.
+*SUS:	Never mind. (  )
+*UNK:	 (  ) shook that up.
 *SUS:	Go in.
-*UNK:	Daddy  (        ) 
+*UNK:	Daddy  (  )
 *SUS:	Do it!
-*UNK:	 (        ) 
-*SUS:	Take her in will you  (        ) 
-*UNK:	 (        ) 
+*UNK:	 (  )
+*SUS:	Take her in will you  (  )
+*UNK:	 (  )
 *CAR:	What?
 *SUS:	Is the dog there?
-*CAR:	I don't know Sue.I'll have a look.No you're not going up
-*CHR:	 (        ) smell the bathroom.
-*CAR:	You can smell the bathroom?Is the dog in? (.) Yes, he's in. (.) 
+*CAR:	I don't know Sue. I'll have a look. No you're not going up
+*CHR:	 (  ) smell the bathroom.
+*CAR:	You can smell the bathroom? Is the dog in?  (.) Yes, he's in. (.)
 *CHR:	Hello.
 *CAR:	Hello.
-*CHR:	 (        ) 
-*CAR:	You're a good boy.You're, you're a good girl.
-*UNK:	 (        )  (.) 
+*CHR:	 (  )
+*CAR:	You're a good boy. You're, you're a good girl.
+*UNK:	 (  )  (.)
 *AND:	Has that stopped?
-*CAR:	No it's still taping.It's going on for quite some time. (.) I saved you that   (        ) put it on his bike. (.) Yeah, so you've had a good time then?
+*CAR:	No it's still taping. It's going on for quite some time.  (.) I saved you that   (  ) put it on his bike.  (.) Yeah, so you've had a good time then?
 *AND:	Yep.
-*SUS:	 (        ) some sandwiches or something.
-*AND:	Yeah we've had a brilliant time. (.) 
-*CAR:	I wouldn't do too much.
-*SUS:	Banana banana sandwiches?
+*SUS:	 (  ) some sandwiches or something.
+*AND:	Yeah we've had a brilliant time. (.)
+*CAR:	I wouldn't  do too much.
+*SUS:	 Banana  banana sandwiches?
 *CAR:	Yeah, a couple for each and a, and a, and a chocolate biscuit or something and a drink of milk.
 *SUS:	Okay.
 *CAR:	They've had a big meal apparently and they're all thoroughly stuffed
-*SUS:	Right.Okay
+*SUS:	Right. Okay
 *CAR:	your dad was saying.
 *SUS:	Do you want anything Carl?
 *CAR:	I'm alright Sue, I'm
 *SUS:	I'll have me yoghurt then.
 *CAR:	I might have a   (.) a   (.) a biscuit and a
-*SUS:	Can you move those sweets cos they're the wrong kind for her and they just  (        ) 
-*ROB:	Daddy  (.) 
-*CAR:	 ((whistling)) 
-*UNK:	 (        ) 
+*SUS:	Can you move those sweets cos they're the wrong kind for her and they just  (  )
+*ROB:	Daddy  (.)
+*CAR:	 ((whistling))
+*UNK:	 (  )
 *SUS:	I'm just gonna do you a banana
-*CAR:	 (        ) 
-*ROB:	we had a big, we had a big   (        ) do you want a   (        ) and a drink of milk?
-*CAR:	Have a banana sandwich and a, and a Kit Kat.
+*CAR:	 (  )
+*ROB:	we had a big, we had a big   (  ) do you want a   (  ) and a drink of milk?
+*CAR:	 Have a banana sandwich and a, and a Kit Kat.
 *UNK:	Erm erm erm
 *ROB:	Alright.
-*SUS:	 (        ) 
-*AND:	What's this Chris?
-*SUS:	Oh it's    (        )  (.) you do fiddle! (.) 
-*AND:	I was looking   (        ) 
-*SUS:	I know, you're fiddling with it.
-*CAR:	It's a big syringe.
-*REB:	 ((scream)) 
+*SUS:	  (  )
+*AND:	 What's this Chris?
+*SUS:	Oh it's    (  )  (.) you do fiddle! (.)
+*AND:	I was looking    (  )
+*SUS:	 I know, you're  fiddling  with it.
+*CAR:	 It's a big  syringe.
+*REB:	 ((scream))
 *CAR:	Here you are.
-*SUS:	I'm gonna stick the needle in your bot   (        ) 
-*AND:	There's too many people in here.
-*ROB:	Mummy   (        ) 
-*UNK:	 (        ) 
+*SUS:	I'm gonna stick the needle in your bot    (  )
+*AND:	 There's too many people  in here.
+*ROB:	Mummy    (  )
+*UNK:	  (  )
 *AND:	It's for putting the cream on isn't it?
-*CAR:	That's   (        ) Robert that is.
-*AND:	It's for putting the cream on the cake isn't it?
-*SUS:	I've gotta make that cake haven't I?
+*CAR:	That's   (  ) Robert that is.
+*AND:	 It's for putting the cream on the cake isn't it?
+*SUS:	 I've gotta make that cake haven't I?
 *CAR:	Oh a creamer is it?
 *SUS:	Here, give me it.
 *AND:	Have you made Christopher's birthday cake?
 *SUS:	No not yet.
 *CAR:	No she's doing it tomorrow.
 *SUS:	I'll get it done, don't worry, you shan't go without.
-*REB:	 ((scream)) 
+*REB:	 ((scream))
 *SUS:	Quiet.
-*UNK:	 (        ) 
-*CAR:	No.No, no, no, no.
-*UNK:	 (        ) 
-*CAR:	Here, what are these look? (.) 
+*UNK:	 (  )
+*CAR:	No. No, no, no, no.
+*UNK:	 (  )
+*CAR:	Here, what are these look? (.)
 *SUS:	Would you like a bit of bread with it?
-*REB:	 ((scream)) 
+*REB:	 ((scream))
 *SUS:	Oh Rebecca don't shout.
 *ROB:	There's twenty one of them.
-*CAR:	There is.
-*SUS:	 (        ) slice of bread and butter with it?
-*CAR:	 (        ) I don't want it.
+*CAR:	 There is.
+*SUS:	  (  )  slice of bread and butter with it?
+*CAR:	 (  ) I don't want it.
 *SUS:	Oh here you are look I've got pitta bread, how about a piece of pitta bread
 *ROB:	Erm
-*SUS:	with it.S small piece each with it.
-*UNK:	 (        ) 
-*AND:	Why? (        ) why do you have to have pi that bread?
-*SUS:	Cos you do.Just keep an eye on her   (        ) 
-*CAR:	 (        ) ooh she says.
-*SUS:	 (        ) 
+*SUS:	with it. S  small piece each with it.
+*UNK:	 (  )
+*AND:	Why? (  ) why do you have to have pi  that bread?
+*SUS:	Cos you do. Just keep an eye on her    (  )
+*CAR:	  (  ) ooh she says.
+*SUS:	 (  )
 *CAR:	Where's, where's your red bow, go and get your bow.
 *AND:	Come on.
-*CAR:	Go and get your bow, go with Andrew. (.) Get your bow. (.) 
+*CAR:	Go and get your bow, go with Andrew.  (.) Get your bow. (.)
 *SUS:	There's yours then.
 *CAR:	Here you are.
-*ROB:	Thank you. (.) 
-*SUS:	 (        ) 
+*ROB:	Thank you. (.)
+*SUS:	 (  )
 *CAR:	Bet your mum's looking forward to having a bit of a break tomorrow.
 *SUS:	Yeah
 *CAR:	Your dad's got a
@@ -909,103 +919,129 @@
 *CAR:	Well you know this next door neighbour of theirs that's been driving cars all over the place?
 *SUS:	Oh yeah.
 *CAR:	Pat and Steven have got the chance to do that tomorrow.
-*SUS:	Oh I see 
-*ROB:	Daddy! (.)  (        ) got this.
-*CAR:	Thank you.
+*SUS:	Oh  I see
+*ROB:	 Daddy! (.)   (  ) got this.
+*CAR:	 Thank you.
 *SUS:	What   ((cough)) do you reckon?
 *CAR:	To what?
-*SUS:	About erm   (.) madam c contacting Mr  
-*REB:	 [shouting] Me me me   [] 
+*SUS:	About erm   (.)  madam c  contacting Mr
+*REB:	  ((shouting)) Me me me
 *SUS:	Oy!
-*CAR:	She's probably been told to. (.) 
+*CAR:	She's probably been told to. (.)
 *SUS:	Show willing for the access you mean?
-*CAR:	Yeah. (.) Ah ah  (.) 
-*REB:	 ((scream)) 
+*CAR:	Yeah.  (.) Ah ah  (.)
+*REB:	 ((scream))
 *CAR:	Are you gonna put her a couple of bits of banana in there?
-*SUS:	Yeah  (        ) .Here you are, I'll give her some of this one.
-*CAR:	Just a little bit in. (.) 
+*SUS:	Yeah  (  ) . Here you are, I'll give her some of this one.
+*CAR:	Just a little bit in. (.)
 *REB:	Mm mm
 *CAR:	Wait a minute.
-*UNK:	 (        ) 
-*AND:	May I give it to her?
-*CAR:	That'll do.
+*UNK:	 (  )
+*AND:	 May I give it to her?
+*CAR:	 That'll do.
 *SUS:	Scrub out the
 *AND:	May I give it to her please?
-*SUS:	 (        ) 
-*CAR:	Your hands are dirty.Look at the state of your hands.
-*SUS:	Go on Andrew, go and wash your hands, you can't possibly eat with hands that colour.
-*CAR:	And yours.
-*AND:	I didn't know they were that colour. (.) 
+*SUS:	 (  )
+*CAR:	Your hands are dirty. Look at the state of your hands.
+*SUS:	Go on Andrew, go and wash your hands, you can't possibly eat with hands  that colour.
+*CAR:	 And yours.
+*AND:	I didn't know they were that colour. (.)
 *CAR:	You know now.
 *AND:	Yeah.
-*CAR:	Black hands    (        )  (.) Here you are Becky-Boops. (.) Put your hands, put your arms in. (.) Oh    (        )  (.) hang on  (.) 
+*CAR:	Black hands    (  )  (.) Here you are Becky-Boops.  (6.0) Put your hands, put your arms in.  (.) Oh    (  )  (.) hang on  (.)
 *REB:	Ooh
-*CAR:	Ooh  (.) 
-*REB:	 [singing]  (        )  [] 
-*CAR:	 [singing] Away   [] are you singing?
-*REB:	 [singing]  (        )  [] 
-*CAR:	How long is that puppy   (.) there you go.Hang on   (.) mm mm
+*CAR:	Ooh  (.)
+*REB:	 ((singing))  (  )
+*CAR:	 ((singing)) Away  are you singing?
+*REB:	 ((singing))  (  )
+*CAR:	How long is that puppy   (.) there you go. Hang on   (.) mm mm
 *REB:	Mm mm
-*CAR:	oh yum yum. (.) I think your microwave clock's a bit fast Sue.
-*SUS:	Pardon? (.) Could be, cos I've reset it ooh sorry   (        ) 
-*CAR:	Sorry.My fault.
-*SUS:	Have you washed your hands Robbo? (.)  (        )  (.) 
-*CAR:	You wash your hands? (.) Been washed? (.) Andrew! (.) You're not old enough to shave yet, just give your hands a good wash and don't leave a mark in the sink. (.) 
-*SUS:	Do you think Robert needs to go to the doctor then?
-*CAR:	Yeah if the cough doesn't improve it sounds like asthma.Tell you who I am worried about, your dad.Did you see his lips? (.) 
-*SUS:	Swollen?
-*CAR:	No well they're blue.
-*SUS:	Blue? (.) 
-*CAR:	That's heart isn't it?
-*SUS:	It's a sign of bad circulation   (.) and high blood pressure. (.) 
-*SUS:	I'll give mum a ring later then.
-*CAR:	No Sue, don't, it'll just totally worry her.Absolutely.I wouldn't 
-*SUS:	Well have you said anything about  (        ) ? (.) 
-*CAR:	Well do you think I should?
-*SUS:	Yes.He might listen to it from you. (.) Give him a ring later on this evening. (.) I didn't know, I mean I would of said say something when you were chatting to him.
-*CAR:	Oh maybe it might come better from you, from your mum, ah it's a bit personal. (        ) 
-*SUS:	I'll mention it to mum then.
-*CAR:	Give her a ring tomorrow.
-*SUS:	 (        )  (.) 
-*CAR:	Has Christopher got his Sue? (.) 
+*CAR:	oh yum yum.  (17.0) I think your microwave clock's a bit fast Sue.
+*SUS:	Pardon?  (.) Could be, cos I've reset it ooh sorry    (  )
+*CAR:	 Sorry.  My fault.
+*SUS:	Have you washed your hands Robbo? (.)  (  )  (.)
+*CAR:	You wash your hands?  (.) Been washed?  (.) Andrew!  (.) You're not old enough to shave yet, just give your hands a good wash and don't leave a mark in the sink. (.)
+*CAR:	I think your microwave clock's a bit
+	fast Sue.
+*SUS:	Pardon?  (.) Could be, cos I've reset it ooh sorry (  )
+*SUS:	Sorry.  My fault.
+*SUS:	Have you washed your hands Robbo? (.) (  ) (.)
+*CAR:	You wash your hands?  (.) Been washed?  (.) Andrew!  (.)
+	You're not old enough to shave yet, just give your hands a good wash
+	and don't leave a mark in the sink. (.)
+*SUS:	Do yeh think Robert needs to go to the d̲o̲c̲tor then?
+*CAR:	E::ah if the c̲o̲u̲g̲h̲ doesn't impro:ve it sounds like a̲s̲thma.
+	>tell yeh who I: a̲m̲ worried about< yeh d̲a̲d̲. (0.4) yeh see
+	his l̲i̲p̲s̲? (1.0)
+*SUS:	Swollen?=
+*CAR:	=No: wa'l thah' b̲l̲u̲e̲
+	(0.5)
+*SUS:	Blue?
+	((children speaking in background))
+	(1.4)
+*CAR:	At's h̲e̲a̲r̲t̲ isn' it?
+*SUS:	At's a si::gn of bad circula:̲:tion. (1.0) and high blood
+	pressure.
+	(1.2)
+*SUS:	I'll give m̲u̲m̲ a ring la̲:ter then?
+*CAR:	No::h ah Sue d̲o̲:̲:̲n̲'̲t̲. it'll jus t̲o̲:̲tally w̲o̲r̲r̲y̲ 'er.
+	(0.9) A̲b̲solutely. >ah w̲o̲u̲l̲⌈d̲n̲'̲t̲.
+*SUS:	                          ⌊Well (.) have you said anything
+	t'da::d about it?
+	(1.7)
+*CAR:	>Well d'yeh think I ↑sho:̲:̲uld?
+*SUS:  	Yes. (.) 'e might listen to it from you? (1.8) ↑Giv 'im a ri̲:ng
+	la'er o:n ((children shouting)) this e̲::vening.
+	(1.1)
+*CAR:	khhh
+*SUS:	I didn't kn↑o̲::w. >I mean: I would'a said say somethin- (.) when
+	you were c̲h̲a̲ttin' to im.
+*CAR:	∙hhh O::h maybe it might come better from yo:u >from your m̲u̲:m̲
+	>a̲:̲:̲h >it's a bit< PE::Rsonal. (1.3) ((children squeaking))
+	somethin' (⌈         )
+*SUS:	           ⌊↑AH'll mention it to ↓mum then.
+	(1.3)
+*CAR:	Give her ring tom↓o̲r̲r̲o̲w̲.
+*SUS:	 (  )  (.)
+*CAR:	Has Christopher got his Sue? (.)
 *SUS:	It's out here.
-*CAR:	It was on the table. (.)  ((sigh))  (.) 
+*CAR:	It was on the table. (.)  ((sigh))  (.)
 *CHR:	Mummy I wanted another Kit Kat.
-*CAR:	Oh hang on I haven't given you one yet Chris, hang on. (.) You finished yours?Has Andrew got a Kit Kat?
+*CAR:	Oh hang on I haven't given you one yet Chris, hang on.  (.) You finished yours? Has Andrew got a Kit Kat?
 *UNK:	No.
 *CHR:	You haven't got a Kit Kat though have you?
-*CAR:	Oh dear, here you are, put your mat, put the mat down there. (.) There you are. (.) 
-*CHR:	First I'm going to start with my Kit Kat.
-*CAR:	No you don't that's second by the way.You have your sandwiches first. (.)  ((sigh)) 
-*AND:	I've never tasted one of them before. (.) Mummy are you eating Rebecca's food?
+*CAR:	Oh dear, here you are, put your mat, put the mat down there.  (.) There you are. (.)
+*CHR:	First I'm going to start with  my Kit Kat.
+*CAR:	 No you don't  that's second by the way. You have your sandwiches first. (.)  ((sigh))
+*AND:	I've never tasted one of them before.  (.) Mummy are you eating Rebecca's food?
 *SUS:	No.
 *AND:	Only an ordinary plain yoghurt?
-*SUS:	Mhm. (.)  ((tv on))
+*SUS:	Mhm. (20.0)  ((tv on))
 *SUS:	You've been playing with Laura then Christopher have you?
 *CHR:	Yeah.
-*SUS:	Who do you like best to play with? (.) 
-*UNK:	 (        ) 
-*CHR:	Laura.I think.
+*SUS:	Who do you like best to play with? (.)
+*UNK:	 (  )
+*CHR:	Laura. I think.
 *SUS:	Her hair's nice isn't it, Laura's hair now it's been cut?
-*UNK:	 (        ) 
+*UNK:	 (  )
 *CHR:	Mummy
-*SUS:	 (        ) 
+*SUS:	 (  )
 *CHR:	Mummy that
 *ROB:	They've just moved in recently.
-*CHR:	er li er big girls   (.) I tell you   (.) she's got her birthday coming up last   (.) today, she had her birthday 
-*SUS:	Oh that's not that's Laura.
-*CHR:	Laura had her birthday 
-*SUS:	Yeah   (        ) big girl?Yeah she was five wasn't she?She's a year older than you.
-*CHR:	Yeah. (.) Mummy   (        ) 
-*SUS:	Did she have a party? (.) 
+*CHR:	er li  er big girls   (.) I tell you   (.) she's got her birthday coming up last   (.) today, she had  her birthday
+*SUS:	 Oh that's not  that's Laura.
+*CHR:	Laura had her  birthday
+*SUS:	 Yeah   (  )  big girl? Yeah she was five wasn't she? She's a year older than you.
+*CHR:	Yeah.  (.)  Mummy   (  )
+*SUS:	 Did she have  a party? (.)
 *CHR:	Well I wasn't with her.
 *ROB:	She's a year and a day
 *SUS:	Was she having a party Robert?
-*ROB:	I don't know.I don't think so.
+*ROB:	I don't know. I don't think so.
 *CHR:	Don't think so. (.)  ((tv on))
-*SUS:	That's right cos she's erm   (.) Jo is   (.) three isn't she?Yeah.Think Jo is three in May. (.) Or is it Amber?No Jo is three in May and Amber will be  (.) 
+*SUS:	That's right cos she's erm   (.) Jo is   (.) three isn't she? Yeah. Think Jo is three in May.  (.) Or is it Amber? No Jo is three in May and Amber will be  (.)
 *ROB:	Two   (.) three
-*SUS:	No Amber is two, Amber was two in December.Cos Amber's older than Rebecca   (.) by about erm six months. (.) 
-*UNK:	 (        ) 
-*SUS:	Don't you   (.) don't you fall out of there! (.) Now I'll just   (        ) Carl I think and put the   (        ) on.Come on, out you come.Up, there's a good girl
+*SUS:	No Amber is two, Amber was two in December. Cos Amber's older than Rebecca   (.) by about erm six months. (10.0)
+*UNK:	 (  )
+*SUS:	Don't you   (.) don't you fall out of there!  (.) Now I'll just   (  ) Carl I think and put the   (  ) on. Come on, out you come. Up, there's a good girl
 @End

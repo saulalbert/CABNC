@@ -1,54 +1,54 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-06:  
 @Location:	 hair dressers 
-@Situation:	Unspecified
-@Media: 021A-C0897X0146XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0146XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , GIN Ginny self, TUR Turan friend
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|GIN|~65;| |f|Ag5| |housewife||PS0CG|
-@ID: eng|AudioBNC|TUR|~50;| |m|Ag4| |hair salon owner|friend|PS0CN|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|GIN|65;|||||housewife||PS0CG|
+@ID:	eng|AudioBNC|TUR|50;|||||hair salon owner|friend|PS0CN|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0146XX-ABZZP0.wav
 @Comment:	conversation #45 (Tape 014606)
-*TUR:	You don't fancy coming in the morning, no? (.) You're happy   (        ) 
-*GIN:	Well I do erm, what time?
-*TUR:	I don't know yet, I just said to Christy what time will you be in in the morning   (.) I don't have time yet, in case if I have I can ask you.
-*GIN:	Oh   (        ) another time I   (.) if it's very very early I   (.) I won't.
-*TUR:	You won't, yeah.
-*GIN:	I don't get up very early, you see 
-*TUR:	I know   (.) yeah about ten thirty late or eleven o'clock if you change.
-*GIN:	Oh that's fantastic    (        )  (        ) 
-*TUR:	You change.
-*GIN:	Yeah.
-*TUR:	You yeah.
-*GIN:	I thought that's what   (        ) as well 
-*TUR:	No perhaps   (        ) going to bring it back, to you, I know that   (.) we did it all   (        ) but not now.
-*UNK:	Well when I   (        ) 
-*GIN:	Well you used to.
-*TUR:	When you were working she won't 
-*UNK:	 (        ) 
-*TUR:	do that   (.) she must come very early in the morning cos   (.) to go from here   (.) cos all the old boys were flirting she had to look like.
-*GIN:	Yes.
-*UNK:	 ((laugh)) 
-*TUR:	She was ver very young boys    (.)  (        ) lovely  (        ) .
-*GIN:	We all need know whether she is or  (        ) 
-*TUR:	I know   (.) now my peace with her   (.) bye  (        ) .
-*UNK:	 (        ) 
-*TUR:	Yes she was working   (.) other    (        )  (.) in the   (.)  (        ) 
-*UNK:	In what?
-*TUR:	In    (        )  (.)  (        ) 
-*GIN:	Oh yes.
-*TUR:	Yeah, (        ) .
-*UNK:	 (        ) 
-*TUR:	She was   (        ) there   (.) year after year.
-*UNK:	 (        ) 
-*TUR:	Yeah she's nothing to do with army   (.) her son   (.) joined the army
-*GIN:	Yeah.
-*TUR:	air force   (.) not here.
-*GIN:	No.
-*TUR:	In the north.
+*TUR:	You don't fancy coming in the morning, no?  (.) You're happy    (  )   
+*GIN:	 Well I  do erm, what time? 
+*TUR:	I don't know yet, I just said to Christy what time will you be in in the morning   (.) I don't have time yet, in case if I have I can ask you. 
+*GIN:	Oh   (  ) another time I   (.) if it's very very early I   (.) I won't. 
+*TUR:	You won't, yeah. 
+*GIN:	I don't get up very early, you see   
+*TUR:	 I know    (.) yeah about ten thirty late or eleven o'clock if you change. 
+*GIN:	Oh that's fantastic    (  )   (  )   
+*TUR:	 You change. 
+*GIN:	Yeah. 
+*TUR:	You yeah. 
+*GIN:	I thought that's what   (  ) as well  
+*TUR:	No perhaps   (  ) going to bring it back, to you, I know that   (.) we did it all   (  ) but not now. 
+*UNK:	Well when I    (  )   
+*GIN:	 Well you used to. 
+*TUR:	 When you were working she won't   
+*UNK:	  (  )  
+*TUR:	do that   (.) she must come very early in the morning cos   (.) to go from here   (.) cos all the old boys were flirting she had to look like. 
+*GIN:	Yes. 
+*UNK:	  ((laugh))  
+*TUR:	 She was  ver  very young boys    (.)  (  ) lovely  (  ) . 
+*GIN:	We all need know whether she is or  (  )  
+*TUR:	I know   (.) now my peace with her   (.) bye  (  ) . 
+*UNK:	 (  ) 
+*TUR:	Yes she was working   (.) other    (  )  (.) in the   (.)  (  )  
+*UNK:	In what? 
+*TUR:	In    (  )  (.)  (  )  
+*GIN:	Oh yes. 
+*TUR:	Yeah, (  ) . 
+*UNK:	 (  ) 
+*TUR:	She was   (  ) there   (.) year after year. 
+*UNK:	 (  ) 
+*TUR:	Yeah she's nothing to do with army   (.) her son   (.) joined the army 
+*GIN:	Yeah. 
+*TUR:	air force   (.) not here. 
+*GIN:	No. 
+*TUR:	In the north. 
 @End

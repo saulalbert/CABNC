@@ -1,896 +1,896 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-04-04:  
 @Location:	  neighbour's house  
-@Situation:	  having a coffee  
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  having a coffee   
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , ANN Ann self, BET Betty friend
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|ANN|~53;| |f|Ag4| |registered childminder||PS14B|
-@ID: eng|AudioBNC|BET|~58;| |f|Ag4| |housewife|friend|PS15U|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|ANN|53;|||||registered childminder||PS14B|
+@ID:	eng|AudioBNC|BET|58;|||||housewife|friend|PS15U|
 @Comment:	conversation #15 (Tape 069601)
-*ANN:	He's thoroughly settled isn't he?
-*BET:	No.Well, have a seat.
-*ANN:	Thank you. (.) Oh, were you watching it?The horse race?
-*BET:	No.No, no. [sighing] Oh  [] .I said to Paul   (.) if Alex comes and he's putting the bet 
-*ANN:	Oh!Oh!
-*BET:	gonna fall off with any  (        ) .
-*ANN:	No.
-*BET:	Cos Alex comes and he's putting a bet on, I says he'll have to put   (.) ten pence each way or whatever for me on 
-*ANN:	Mm mm.
-*BET:	over the road. ((laugh)) 
-*ANN:	Ah! ((laugh))  (.) Oh oh!Yes.Yes.
-*BET:	Because I always refer
-*ANN:	Ah Norman.
-*BET:	I, when I'm going over there, I would say, I'm just going over the road 
-*ANN:	 (        ) 
-*BET:	Paul.
-*ANN:	 ((laugh)) 
-*BET:	And he 
-*ANN:	Have you got a chance?
-*BET:	 [laughing] It's eighteen to one  [] .
-*ANN:	I'm thinking about Tony.Oh well.
-*BET:	Eighteen to one!And it says, it's a stayer.
-*ANN:	And is Alex comi are you expecting Alex?
-*BET:	Well he might come.He might come.But I mean it's
-*ANN:	Anyway, talking of over the road, where is she?Is she home?
-*BET:	No.She's in the Cottage.
-*ANN:	Still?
-*BET:	Same ward as Mr .
-*ANN:	And has she been cleared o 
-*BET:	She's been quite ill.No.
-*ANN:	Has she?
-*BET:	She's been quite ill.She's not, she's had a kidney   (.) er, yes a kidney infection.
-*ANN:	She's not
-*BET:	Er er
-*ANN:	demanding to be home or anything?
-*BET:	No she's been   (.) quite   (.) very ill.She's been very ill.Er, but she's recovered.But now she is wanting to be home.
-*ANN:	Yeah.
-*BET:	But er   (.) Doctor  had suggested to Jimmy   (.) that erm   (.) he try the new home this Friday.
-*ANN:	Oh yes.Yeah.
-*BET:	Because they have qualified nurses apparently.
-*ANN:	Mm mm.
-*BET:	And erm
-*ANN:	Would she agree to it?
-*BET:	Well he hasn't dared put it to her.Well, mind, she has been quite ill, but she's recovering now.She'll say a few daft things like   (.) she always says, how's my mother?
-*ANN:	Oh!But
-*BET:	And what does she think 
-*ANN:	Oh!
-*BET:	of this carry-on?Well I mean her mother's been dead   (.) for, I don't know how many years.
-*ANN:	Well how old is she, eighty
-*BET:	She's eighty two.
-*ANN:	eighty two.
-*BET:	That's what I said to her when she said it the other day I said   (.) how old are you Mrs ?She said   (.) eighty two.I says, right.How old would your mother be?And I could see the   (.) wheels turning 
-*ANN:	Yeah.
-*BET:	round, see.
+*ANN:	He's thoroughly settled isn't he? 
+*BET:	No. Well, have a seat. 
+*ANN:	Thank you.  (10.0) Oh, were you watching it? The horse race? 
+*BET:	No. No, no.  ((sighing)) Oh . I said to Paul   (.) if Alex comes and he's putting  the bet   
+*ANN:	 Oh! Oh! 
+*BET:	gonna fall off with any  (  ) . 
+*ANN:	No. 
+*BET:	Cos Alex comes and he's putting a bet on, I says he'll have to put   (.) ten pence each way or whatever for me  on   
+*ANN:	 Mm  mm. 
+*BET:	over the road. ((laugh))  
+*ANN:	Ah!  ((laugh))  (.) Oh oh! Yes.  Yes. 
+*BET:	 Because  I always refer 
+*ANN:	Ah Norman. 
+*BET:	I, when I'm going over there, I would say, I'm just going over  the road   
+*ANN:	  (  )  
+*BET:	Paul. 
+*ANN:	  ((laugh))  
+*BET:	 And he   
+*ANN:	Have you got a chance? 
+*BET:	 ((laughing)) It's eighteen  to one . 
+*ANN:	 I'm thinking about  Tony. Oh well. 
+*BET:	Eighteen to one! And it says, it's a stayer. 
+*ANN:	And is Alex comi  are you expecting Alex? 
+*BET:	Well he might come. He might come. But I mean it's 
+*ANN:	Anyway, talking of over the road, where is she? Is she home? 
+*BET:	No. She's in the Cottage. 
+*ANN:	Still? 
+*BET:	Same ward as Mr  . 
+*ANN:	 And has she been cleared o    
+*BET:	 She's been quite ill.   No. 
+*ANN:	 Has  she? 
+*BET:	She's been quite ill. She's not, she's had a kidney   (.) er, yes a kidney infection. 
+*ANN:	She's not 
+*BET:	Er er 
+*ANN:	demanding to be home or anything? 
+*BET:	No she's been   (.) quite   (.) very ill. She's been very ill. Er, but she's recovered. But now she is wanting to be home. 
+*ANN:	Yeah. 
+*BET:	But er   (.) Doctor   had suggested to Jimmy   (.) that erm   (.) he try the new home this Friday. 
+*ANN:	Oh yes. Yeah. 
+*BET:	Because they have qualified nurses apparently. 
+*ANN:	Mm mm. 
+*BET:	And erm 
+*ANN:	Would she agree to it? 
+*BET:	Well he hasn't dared put it to her. Well, mind, she has been quite ill, but she's recovering now. She'll say a few daft things like   (.) she always says, how's my mother? 
+*ANN:	Oh! But 
+*BET:	And what does she  think   
+*ANN:	 Oh! 
+*BET:	of this carry-on? Well I mean her mother's been dead   (.) for, I don't know how many years. 
+*ANN:	Well how old is she, eighty 
+*BET:	She's eighty two. 
+*ANN:	eighty two. 
+*BET:	That's what I said to her when she said it the other day I said   (.) how old are you Mrs  ? She said   (.) eighty two. I says, right. How old would your mother be? And I could see the   (.) wheels  turning   
+*ANN:	 Yeah. 
+*BET:	round, see. 
 *ANN:	 ((cough)) 
-*BET:	Then Jimmy said   (.) well you know she's been dead for   (.) many years   (.) and er   (.) she says, oh that's right.And she just sort of brushed it off.And she'll say to Jimmy   (.) erm   (.) I don't know how you're managing to look after yourself.Who's getting your   [laughing] meals  [] ?Well, of course Jimmy's got his own meals for   (.) the whole of his life more 
-*ANN:	Yes.
-*BET:	or less.
-*ANN:	In fact, one of the nurses had said to Jim last night   (.) your mum said   (.) er   (.) don't tell my brother   (.) and then, then she said, your brother?Who, who is your brother?She said, I don't, I mean, don't tell my son.So well Jim said, well what is it?She said I can't   [laughing] tell you, I haven't to tell you  [] !So he didn't know what she'd been up to.
-*BET:	 ((laugh))  (.)  [laughing] Oh dear  [] !
-*ANN:	 ((laugh))  (.) Oh yeah.
-*BET:	Well the thing is, she's got nobody to talk to there you see, she's in this little four bedder
-*ANN:	Aha.
-*BET:	all the clo and like all closed off  (        ) 
-*ANN:	Mm.
-*BET:	and the lady   (.) opposite
-*ANN:	I've never been in wo in er   (.) one or   (.) two.
-*BET:	Two.
-*ANN:	Two.I've never been in ward two.
-*BET:	The lady opposite, erm   (.) has had a stroke but she's not   (.) exactly   (.) and she's deaf
-*ANN:	Oh yeah.
-*BET:	so she can't hear her.Mrs  can't get up to go over to her.
-*ANN:	Yes.
-*BET:	Now the lady in the bed diagonally, she, has to be hoisted everywhere.
-*ANN:	Oh!
-*BET:	I think she must have had a really bad stroke.Now she talks across to her, but she has a bit of a   (.) ah, ah, ah, ah, ah, ah, and it's difficult 
-*ANN:	Mm.Yes.
-*BET:	to understand.
-*ANN:	Yes.
-*BET:	And the lady on the other bed   (.) beside her, is erm   (.) she's very deaf.So, the result is that, that she just   (.) sits there or lies there
-*ANN:	Mm.
-*BET:	she can't, she can't stand or anything.
-*ANN:	Who's Mr  got in with him?Has he got
-*BET:	He's right at the bottom 
-*ANN:	has he got 
-*BET:	of the ward   (.) on the right   (.) erm, and er, it's like a mens' ward.
-*ANN:	Yeah.
-*BET:	Er, at the bottom and on the right and i it's all men, and I, I, I speak to them, but I don't know any of them er, personally.Now, Mr    (.) pardon me.He goes into his riding on Wednesday
-*ANN:	Oh!
-*BET:	cos he showed me his calendar.He says, I'm going ma his speech is terribly good.
-*ANN:	Mhm.
-*BET:	Erm   (.) he forgets, he knows the word but he can't get it 
-*ANN:	Get out.
-*BET:	out.
-*ANN:	Yeah.
-*BET:	And he was trying, he says I'm going to my new home.I says, when are you going?And he tried to er, to get it out and he couldn't, then he pointed to the calendar
-*ANN:	Oh.
-*BET:	and   (.) on Sunday it says   (.) Roger   (.) comes.They must have picked the wrong   (        ) 
-*ANN:	Yeah.
-*BET:	And then on Wednesday   (.) it is erm   (.) his riding   (.) and I asked the sister, I said, is that right?She said well depending how he   (.) he holds up like.
-*ANN:	Oh.
-*BET:	She says, there's been   (        ) 
-*ANN:	So are they selling his house?
-*BET:	Well it's not his.
-*ANN:	Isn't it?
-*BET:	No.
-*ANN:	Oh!Who does it belong to?
-*BET:	He, he rented it privately, a private owner.
-*ANN:	Mm!
-*BET:	Because that, he did mention that   (.) he says   (.) so the next thing is the home'll have to go.You know the tears came at this time 
-*ANN:	Yeah.
-*BET:	I says, yes.I says it's sad.I said you couldn't manage   (.) on your own  (        ) . (.) No, that's why he was frightened when they did the alterations.Er, and they wanted him to move   (.) out completely away somewhere, he was frightened he didn't get back in after.
-*ANN:	Yeah.
-*BET:	And, I think he just moved in to   (.) Muriel's next door.
-*ANN:	Yes.Yeah, that's right.
-*BET:	And he said well 
-*ANN:	He did.
-*BET:	erm, he wouldn't leave in case they wouldn't let him back in after modernizing.
-*ANN:	Yeah. [sighing] Oh well  [] .
-*BET:	So   (.) but   (.) erm   (.) Jimmy hasn't sort of put it to her yet.
-*ANN:	Is Doug   (.) going into the police   (.) or applying?
-*BET:	Well he told me last year he'd applied.
-*ANN:	I know.He told me he applied but I thought he told me he'd been turned down.
-*BET:	Well I never heard the   (.) well he had applied once before   (.) and   (.) he   (.) he got as far an interview and then he   (.) didn't get any further.But then he applied just last summer for the Metropolitan.
-*ANN:	Yeah.Cos er erm 
-*BET:	I haven't heard the outcome of that.
-*ANN:	Marie   (.) Marie was going down to her mother's   (.) she was running as usual, she dashed up to our back door and said, is Doug around?And I said, I don't know what shift he's on, is his car out?And it wasn't.
-*BET:	Mm.
-*ANN:	And I said do you want a piece of paper to write him a message or something?And she said, no it was just that   (.) he's talking of renting his house   (.) erm   (.) and I know of someone who wants to rent one.
-*BET:	Oh!
-*ANN:	So I said well where's Doug going?Then she said something about   (.) June   (.) and the Met.
-*BET:	Oh well Doug wasn't here again, he never mentioned it.
-*ANN:	Or did she say he's going for an interview in   (.) June for the Met, or something, anyway.
-*BET:	Well he's not 
-*ANN:	Cos I, I haven't seen him at all.
-*BET:	I walked up   (.) from the woods with him, came 
-*ANN:	Mm.
-*BET:	together, he never mentioned it.
-*ANN:	In fact, I thought it must be all finished with because   (.) he, he was quite talkative about it during the summer
-*BET:	Yes.A well I remember a well I was, I was sure
-*ANN:	then I, and he said to me about 
-*BET:	 (        ) 
-*ANN:	being turned down.
-*BET:	Oh!Cos he hoped, if he got into the Met   (.) and then he transfer   (.) up here.
-*ANN:	Oh!
-*BET:	You see, like   (.) it's like  's grandson.
-*ANN:	Yes.
-*BET:	I mean he started off in the Met   (.) er   (.) did his training and everything   (.) and then I think he's up here somewhere now.
-*ANN:	I tell you someone   (.) erm   (.) our boiler went wrong on   (.) ah, I think it was Wednesday
-*BET:	Oh!
-*ANN:	Thursday, I just can't remember, and Raymond came through
-*BET:	Yeah.
-*ANN:	it must have been Thursday because I didn't want him to come, I said to Jim, tell him not to come we'll just turn the whole lot off.But the kitchen was reeking   (.) of 
-*BET:	mm.
-*ANN:	fumes!And, and 
-*BET:	Oh dear!
-*ANN:	er, I could feel it prickling the back of my nose and my throat
-*BET:	Yes.
-*ANN:	and   (.) and my eyes started to water
-*BET:	Mhm.
-*ANN:	I opened the windows.Oh!And there was   (.) when it came on, in the afternoon there was this tremendous   (.) very loud roar!Now, it sometimes goes   (.) whoosh!
-*BET:	Yes.When they 
-*ANN:	It comes on initially
-*BET:	Yes.And dies down.
-*ANN:	and it immediately dies down and then it's okay, but there was this tremendous roar   (.) and a loud click and it went out.And it was only about   (.) we i it was wi within a couple of minutes, or, probably less   (.) Jim came in   (.) er   (.) I think he was, I don't know where he'd been cos his day off was Thursday I think.Yes he was.And   (.) I told him about it, and he said oh yes, the pilot light has gone out   (.) and he relit it.And it was fine.It sounded okay   (.) but we kept getting these fumes.So we kept opening the door   (.) it blew out once again and he put it on again   (.) and we were still getting these fumes till about   (.) oh   (.) about half past five it seemed to stop,u we had the windows open.
-*BET:	Mm.
-*ANN:	And then   (.) Raymond phoned at about quarter to seven.No.He didn't.Sorry!Sorry!It we he phoned at   (.) it was, it was five to six, Jim was going to take me to aerobics because of the weather
-*BET:	Mm mm.
-*ANN:	I had my wellies in case the leisure centre was flooded!
+*BET:	Then Jimmy said   (.) well you know she's been dead for   (.) many years   (.) and er   (.) she says, oh that's right. And she just sort of brushed it off. And she'll say to Jimmy   (.) erm   (.) I don't know how you're managing to look after yourself. Who's getting your   ((laughing)) meals ? Well, of course Jimmy's got his own meals for   (.) the whole of his life  more   
+*ANN:	 Yes. 
+*BET:	or less. 
+*ANN:	In fact, one of the nurses had said to Jim last night   (.) your mum said   (.) er   (.) don't tell my brother   (.) and then, then she said, your brother? Who, who is your brother? She said, I don't, I mean, don't tell my son. So well Jim said, well what is it? She said I can't   ((laughing)) tell you, I haven't to tell you ! So he didn't know what she'd been up to. 
+*BET:	 ((laugh))  (.)  ((laughing)) Oh dear ! 
+*ANN:	 ((laugh))  (.) Oh yeah. 
+*BET:	Well the thing is, she's got nobody to talk to there you see, she's in this little four bedder 
+*ANN:	Aha. 
+*BET:	all the clo  and like all closed off  (  )  
+*ANN:	Mm. 
+*BET:	and the lady   (.) opposite 
+*ANN:	I've never been in wo  in er   (.) one or   (.)  two. 
+*BET:	 Two. 
+*ANN:	Two. I've never been in ward two. 
+*BET:	The lady opposite, erm   (.) has had a stroke but she's not   (.) exactly   (.) and she's deaf 
+*ANN:	Oh yeah. 
+*BET:	so she can't hear her. Mrs   can't get up to go over to her. 
+*ANN:	Yes. 
+*BET:	Now the lady in the bed diagonally, she, has to be hoisted everywhere. 
+*ANN:	Oh! 
+*BET:	I think she must have had a really bad stroke. Now she talks across to her, but she has a bit of a   (.) ah, ah, ah, ah, ah, ah, and it's difficult   
+*ANN:	 Mm. Yes. 
+*BET:	to understand. 
+*ANN:	Yes. 
+*BET:	And the lady on the other bed   (.) beside her, is erm   (.) she's very deaf. So, the result is that, that she just   (.) sits there or lies there 
+*ANN:	Mm. 
+*BET:	she can't, she can't stand or anything. 
+*ANN:	Who's Mr   got in with him? Has he got 
+*BET:	He's right  at the bottom   
+*ANN:	 has he got   
+*BET:	of the ward   (.) on the right   (.) erm, and er, it's like a mens' ward. 
+*ANN:	Yeah. 
+*BET:	Er, at the bottom and on the right and i  it's all men, and I, I, I speak to them, but I don't know any of them er, personally. Now, Mr     (.) pardon me. He goes into his riding on Wednesday 
+*ANN:	Oh! 
+*BET:	cos he showed me his calendar. He says, I'm going ma  his speech is terribly good. 
+*ANN:	Mhm. 
+*BET:	Erm   (.) he forgets, he knows the word but he can't  get it   
+*ANN:	 Get out. 
+*BET:	out. 
+*ANN:	Yeah. 
+*BET:	And he was trying, he says I'm going to my new home. I says, when are you going? And he tried to er, to get it out and he couldn't, then he pointed to the calendar 
+*ANN:	Oh. 
+*BET:	and   (.) on Sunday it says   (.) Roger   (.) comes. They must have picked the wrong    (  )   
+*ANN:	 Yeah. 
+*BET:	And then on Wednesday   (.) it is erm   (.) his riding   (.) and I asked the sister, I said, is that right? She said well depending how he   (.) he holds up like. 
+*ANN:	Oh. 
+*BET:	She says, there's been    (  )   
+*ANN:	 So are they  selling his house? 
+*BET:	Well it's not his. 
+*ANN:	Isn't it? 
+*BET:	No. 
+*ANN:	Oh! Who does it belong to? 
+*BET:	He, he rented it privately, a private owner. 
+*ANN:	Mm! 
+*BET:	Because that, he did mention that   (.) he says   (.) so the next thing is the home'll have to go. You know the tears came at this  time   
+*ANN:	 Yeah. 
+*BET:	I says, yes. I says it's sad. I said you couldn't manage   (.) on your own  (  ) .  (6.0) No, that's why he was frightened when they did the alterations. Er, and they wanted him to move   (.) out completely away somewhere, he was frightened he didn't get back in  after. 
+*ANN:	 Yeah. 
+*BET:	And, I think he just moved in to   (.) Muriel's next door. 
+*ANN:	Yes. Yeah, that's  right. 
+*BET:	 And  he  said well   
+*ANN:	 He did. 
+*BET:	erm, he wouldn't leave in case they wouldn't let him back in after modernizing. 
+*ANN:	Yeah.  ((sighing)) Oh well . 
+*BET:	So   (.) but   (.) erm   (.) Jimmy hasn't sort of put it to her yet. 
+*ANN:	Is Doug   (.) going into the police   (.) or applying? 
+*BET:	Well he told me last year he'd applied. 
+*ANN:	I know. He told me he applied but I thought he told me he'd been turned down. 
+*BET:	Well I never heard the   (.) well he had applied once before   (.) and   (.) he   (.) he got as far an interview and then he   (.) didn't get any further. But then he applied just last summer for the Metropolitan. 
+*ANN:	Yeah. Cos  er erm   
+*BET:	 I haven't  heard the outcome of that. 
+*ANN:	Marie   (.) Marie was going down to her mother's   (.) she was running as usual, she dashed up to our back door and said, is Doug around? And I said, I don't know what shift he's on, is his car out? And it wasn't. 
+*BET:	Mm. 
+*ANN:	And I said do you want a piece of paper to write him a message or something? And she said, no it was just that   (.) he's talking of renting his house   (.) erm   (.) and I know of someone who wants to rent one. 
+*BET:	Oh! 
+*ANN:	So I said well where's Doug going? Then she said something about   (.) June   (.) and the Met. 
+*BET:	Oh well Doug wasn't here again, he never  mentioned it. 
+*ANN:	 Or did she  say he's going for an interview in   (.) June for the Met, or something, anyway. 
+*BET:	Well he's  not   
+*ANN:	 Cos I, I haven't seen him at all. 
+*BET:	I walked up   (.) from the woods with him, came   
+*ANN:	 Mm. 
+*BET:	together, he never mentioned it. 
+*ANN:	In fact, I thought it must be all finished with because   (.) he, he was quite talkative about it during the summer 
+*BET:	Yes. A  well I remember a  well I was, I was sure 
+*ANN:	then I, and he said to me about   
+*BET:	  (  )  
+*ANN:	being turned down. 
+*BET:	Oh! Cos he hoped, if he got into the Met   (.) and then he transfer   (.) up here. 
+*ANN:	Oh! 
+*BET:	You see, like   (.) it's like   's grandson. 
+*ANN:	Yes. 
+*BET:	I mean he started off in the Met   (.) er   (.) did his training and everything   (.) and then I think he's up here somewhere  now. 
+*ANN:	 I tell  you someone   (.) erm   (.) our boiler went wrong on   (.) ah, I think it was Wednesday 
+*BET:	Oh! 
+*ANN:	Thursday, I just can't remember, and Raymond came through 
+*BET:	Yeah. 
+*ANN:	it must have been Thursday because I didn't want him to come, I said to Jim, tell him not to come we'll just turn the whole lot off. But the kitchen was reeking   (.)  of   
+*BET:	 mm. 
+*ANN:	fumes!  And, and   
+*BET:	 Oh dear! 
+*ANN:	er, I could feel it prickling the back of my nose and my throat 
+*BET:	Yes. 
+*ANN:	and   (.) and my eyes started to water 
+*BET:	Mhm. 
+*ANN:	I opened the windows. Oh! And there was   (.) when it came on, in the afternoon there was this tremendous   (.) very loud roar! Now, it sometimes goes   (.) whoosh! 
+*BET:	Yes.  When they   
+*ANN:	 It comes  on initially 
+*BET:	Yes. And dies down. 
+*ANN:	and it immediately dies down and then it's okay, but there was this tremendous roar   (.) and a loud click and it went out. And it was only about   (.) we  i  it was wi  within a couple of minutes, or, probably less   (.) Jim came in   (.) er   (.) I think he was, I don't know where he'd been cos his day off was Thursday I think. Yes he was. And   (.) I told him about it, and he said oh yes, the pilot light has gone out   (.) and he relit it. And it was fine. It sounded okay   (.) but we kept getting these fumes. So we kept opening the door   (.) it blew out once again and he put it on again   (.) and we were still getting these fumes till about   (.) oh   (.) about half past five it seemed to stop,u  we had the windows open. 
+*BET:	Mm. 
+*ANN:	And then   (.) Raymond phoned at about quarter to seven. No. He didn't. Sorry! Sorry! It we  he phoned at   (.) it was, it was five to six, Jim was going to take me to aerobics because of the weather 
+*BET:	Mm mm. 
+*ANN:	I had my wellies in case the leisure centre was flooded! 
 *BET:	 ((laugh)) 
-*ANN:	Ha.There was only ten of us there.Anyway, erm   (.) Raymond was on the phone because he was tal and I was saying to Jim   (.) tell him I don't want him to come if the ra if the road's cut off to Blythe I don't want him to get stuck, I mean, he's got a wife 
-*BET:	 (        ) 
-*ANN:	and two small children at home.And I'm saying, it's time I was out, I'm gonna be   [laughing] late  [] .Anyway, he insisted he was coming at half past seven.And he came at half past seven and he cleaned it and he looked at it, and he said er   (.) it wasn't   (.) anything that he could see, he thinks it was just down draught, but we've had winds before.And he said that   (.) the cowl   (.) we've got on that chimney
-*BET:	Yes.
-*ANN:	off the kitchen and ru and runs the boiler, he said it's the best kind you can get, nothing should come in there.And as he's driven up at the back then he looked up and he said   (.) you ca you could see daylight through it so it was, wasn't blocked by anything.
-*BET:	Wasn't blocked.
-*ANN:	Erm   (.) but he said 
-*BET:	D'ya think it was the rain, maybe?
-*ANN:	I don't know.
-*BET:	Driving wind?
-*ANN:	I said could it have been continuous rain?And he said something about   (.) he'd once   (.) they'd once had to work   (.) all one day and all one night a near the Regent   (        ) Centre   (.) because   (.) er, something had gone wrong with the   (.) gas pipes because erm of flooding.
-*BET:	Oh!Right.
-*ANN:	So whether we've   (.) but nobody else seems to have noticed anything like this.
-*BET:	No, I, I haven't had anything like that.
-*ANN:	Anyway, he couldn't find anything.He said, we'll just have to   (.) leave it   (.) and, if it happens again we'll have to go into it further, but it hasn't happened again, so now it's okay.
-*BET:	Mm mm.
-*ANN:	Except last night   (.) I thought   (.) what on earth's this?It just smelt like Christmas cake cooking, and I wasn't cooking anything at all.I mean   (.) Jim went to work at one o'clock and the last of the kids   (.) went home, I've had my dinner
-*BET:	Perhaps something's melting then.
-*ANN:	at midday.But i it was no, it was no stronger in the kitchen than the living room.
-*BET:	Mm.
-*ANN:	I sniffed around the boiler, I sniffed around the cooker 
-*BET:	 ((laugh))  (        ) 
-*ANN:	ah, but   (.) when the kids went home I just had   (.) ha I had a sandwich.
-*BET:	Mm.
-*ANN:	That's all I had, I hadn't cooked anything.
-*BET:	Mhm.
-*ANN:	Erm   (.) the triplets had   (.) soup   (.) and stottie and I warmed that up in the microwave.
-*BET:	Mm mm.
-*ANN:	And this smell lasted for about half an hour and then, then I couldn't smell it again.
-*BET:	And it disappeared?It's, what kind of boiler is that you have?
-*ANN:	Er   (.) ooh! (.) I can't remember the make.It's one of these that uses less fuel.More efficient.Well we've had it, how long have we had it?About   (.) three, four years.Anyway, how are the 
-*BET:	Well you've had a lo bother with it though haven't you?
-*ANN:	We've have had,we 
-*BET:	Well about two or three 
-*ANN:	Yes.
-*BET:	haven't you?
-*ANN:	Th the shelf   (.) with   (.) containers on have been too close, you know those Tupperware containers?
-*BET:	Mhm.
-*ANN:	Have been too close to it   (.) and it had, and the vents at the back had got churned up with dust at one time, I keep dusting it now.
-*BET:	Oh!
-*ANN:	Anyway, while I go Ra Raymond was here, he says, oh Alan's back.And they said, well where from?He said well he's got a transfer to Accrington.Didn't you know he was in the prison service?
-*BET:	Is that 
-*ANN:	I didn't 
-*BET:	his brother?
-*ANN:	Yes.
-*BET:	Oh!Right.Oh!
-*ANN:	And he had to go and train somewhere down south, but he's got a   (.) he, apparently he'd been trying for a year and he's got to Accrington.
-*BET:	Oh!
-*ANN:	Cos I thought he was doing pretty well in the Post Office, he was
-*BET:	Mm.
-*ANN:	he was getting promotion.
-*BET:	Once you see th there's gonna be changes there possibly.
-*ANN:	Oh!Is there?Yeah.
-*BET:	Well maybe not wi depends, depends whoever gets in.Erm   (.) that bloody racist.
-*ANN:	It's, no, it, that's the Telecom I think, he actually worked for the 
-*BET:	Oh!Oh!
-*ANN:	Post Office.
-*BET:	Oh!They er, oh aye.
-*ANN:	He started off as a counter clerk
-*BET:	Right.Right.
-*ANN:	and worked his way   (.) higher up.
-*BET:	Mhm.Mhm. (.) Well I'm surprised that erm   (.) actually going into the police force but he didn't hear when he 
-*ANN:	No.
-*BET:	I mean it was just   (.) day before yesterday I walked up with him.
-*ANN:	I mean, last year was    (        )  ((phone rings))Oh! (        ) 
-*BET:	That's probably Gillian telling me   (        )  ((phone rings))
-*ANN:	Oh!I saw Gillian   (.) I met her round  (        ) .
-*BET:	 ((phonecall starts))Ee!I, you know I think I'm failing! ((laugh))  (.) That's the second time today I haven't remembered my 
-*ANN:	Don't you know your own number?
-*BET:	number.
+*ANN:	Ha. There was only ten of us there. Anyway, erm   (.) Raymond was on the phone because he was tal  and I was saying to Jim   (.) tell him I don't want him to come if the ra  if the road's cut off to Blythe I don't want him to get stuck, I mean, he's got  a wife   
+*BET:	  (  )  
+*ANN:	and two small children at home. And I'm saying, it's time I was out, I'm gonna be   ((laughing)) late . Anyway, he insisted he was coming at half past seven. And he came at half past seven and he cleaned it and he looked at it, and he said er   (.) it wasn't   (.) anything that he could see, he thinks it was just down draught, but we've had winds before. And he said that   (.) the cowl   (.) we've got on that chimney 
+*BET:	Yes. 
+*ANN:	off the kitchen and ru  and runs the boiler, he said it's the best kind you can get, nothing should come in there. And as he's driven up at the back then he looked up and he said   (.) you ca  you could see daylight through it so it was, wasn't blocked by  anything. 
+*BET:	 Wasn't blocked. 
+*ANN:	Erm   (.) but  he said   
+*BET:	 D'ya think  it was the rain, maybe? 
+*ANN:	I don't  know. 
+*BET:	 Driving  wind? 
+*ANN:	I said could it have been continuous rain? And he said something about   (.) he'd once   (.) they'd once had to work   (.) all one day and all one night a  near the Regent   (  ) Centre   (.) because   (.) er, something had gone wrong with the   (.) gas pipes because erm of flooding. 
+*BET:	Oh!  Right. 
+*ANN:	 So  whether we've   (.) but nobody else seems to have noticed anything like this. 
+*BET:	No, I, I haven't had  anything like that. 
+*ANN:	 Anyway, he couldn't  find anything. He said, we'll just have to   (.) leave it   (.) and, if it happens again we'll have to go into it further, but it hasn't happened again, so now it's okay. 
+*BET:	Mm  mm. 
+*ANN:	 Except  last night   (.) I thought   (.) what on earth's this? It just smelt like Christmas cake cooking, and I wasn't cooking anything at all. I mean   (.) Jim went to work at one o'clock and the last of the kids   (.) went home, I've had my dinner 
+*BET:	Perhaps something's melting  then. 
+*ANN:	 at  midday. But i  it was no, it was no stronger in the kitchen than the living room. 
+*BET:	Mm. 
+*ANN:	I sniffed around the boiler, I sniffed  around the cooker   
+*BET:	  ((laugh))   (  ) 
+*ANN:	ah, but   (.) when the kids went home I just had   (.) ha  I had a sandwich. 
+*BET:	Mm. 
+*ANN:	That's all I had, I hadn't cooked anything. 
+*BET:	Mhm. 
+*ANN:	Erm   (.) the triplets had   (.) soup   (.) and stottie and I warmed that up in the microwave. 
+*BET:	Mm mm. 
+*ANN:	And this smell lasted for about half an hour and then, then I couldn't  smell it again. 
+*BET:	 And it disappeared?  It's, what kind of boiler is that you have? 
+*ANN:	Er   (.) ooh!  (6.0) I can't remember the make. It's one of these that uses less fuel. More efficient. Well we've had it, how long have we had it? About   (.) three, four years. Anyway, how are the   
+*BET:	 Well you've had a lo   bother with it though haven't you? 
+*ANN:	We've  have had,we    
+*BET:	 Well about two  or  three   
+*ANN:	 Yes. 
+*BET:	haven't you? 
+*ANN:	Th  the shelf   (.) with   (.) containers on have been too close, you know those Tupperware containers? 
+*BET:	Mhm. 
+*ANN:	Have been too close to it   (.) and it had, and the vents at the back had got churned up with dust at one time, I keep dusting it  now. 
+*BET:	 Oh! 
+*ANN:	Anyway, while I go  Ra  Raymond was here, he says, oh Alan's back. And they said, well where from? He said well he's got a transfer to Accrington. Didn't you know he was in the prison service? 
+*BET:	 Is that   
+*ANN:	 I didn't   
+*BET:	his brother? 
+*ANN:	Yes. 
+*BET:	Oh! Right. Oh! 
+*ANN:	And he had to go and train somewhere down south, but he's got a   (.) he, apparently he'd been trying for a year and he's got to Accrington. 
+*BET:	Oh! 
+*ANN:	Cos I thought he was doing pretty well in the Post Office, he was 
+*BET:	Mm. 
+*ANN:	he was getting promotion. 
+*BET:	Once you see th  there's gonna be changes there possibly. 
+*ANN:	Oh! Is there?  Yeah. 
+*BET:	 Well  maybe not wi  depends, depends whoever gets in. Erm   (.) that bloody  racist. 
+*ANN:	 It's, no, it, that's the Telecom I think, he actually worked  for the   
+*BET:	 Oh! Oh! 
+*ANN:	Post Office. 
+*BET:	Oh! They er, oh  aye. 
+*ANN:	 He  started off as a counter clerk 
+*BET:	Right. Right. 
+*ANN:	and worked his way   (.) higher up. 
+*BET:	Mhm. Mhm.  (6.0) Well I'm surprised that erm   (.) actually going into the police force but he didn't hear when  he   
+*ANN:	 No. 
+*BET:	I mean it was just   (.) day before yesterday I walked up with him. 
+*ANN:	I mean, last year was    (  )  ((phone rings))Oh! (  )  
+*BET:	That's probably Gillian telling me   (  )  ((phone rings)) 
+*ANN:	Oh! I saw Gillian   (.) I met her round  (  ) . 
+*BET:	 ((phonecall starts)) Ee! I, you know I think I'm failing!  ((laugh))  (.) That's the second time today  I haven't remembered my   
+*ANN:	 Don't you know your own number? 
+*BET:	number. 
+*ANN:	  ((laugh))  
+*BET:	 I want to say        (.)  ((laugh))  (.) That's you.  , that's, that's right. I just got it off  (  ) . I'm carrying it over. 
+*ANN:	It is Gillian. 
+*BET:	Yeah. 
 *ANN:	 ((laugh)) 
-*BET:	I want to say      (.)  ((laugh))  (.) That's you., that's, that's right.I just got it off  (        ) .I'm carrying it over.
-*ANN:	It is Gillian.
-*BET:	Yeah.
+*BET:	Oh! Right. So   (.) righto Gillian. Okay. Bye for now. Bye  ((phonecall ends)). 
+*ANN:	 (  ) 
+*BET:	Well she says Michael hasn't rung so she said I assume that he's   (.) coming   (.) cos if he's   (.) going to be late, if he's anywhere   (.) reasonable 
+*ANN:	Yeah. 
+*BET:	and finds a phone he rings and tells her. Erm, because I was going out for half past two and er, she rang, she says he hasn't rung yet so I assume he's going to be home. So that's  alright   
+*ANN:	 Yeah. 
+*BET:	isn't it? 
+*ANN:	I saw her briefly, and, I didn't even speak to her other than to say hello. Dorothy and I took the triplets for their nursery visit   (.) on 
+*BET:	Oh!  Right. 
+*ANN:	 Thursday   
+*BET:	Yes. Yes. 
+*ANN:	Er   (.) they wouldn't go and sit down for the story with all the other children sit at, sat on my knee on the floor for a short while. 
+*BET:	Mm. 
+*ANN:	Cos, at home you see   (.) er   (.) Dorothy and Trevor always read their stories in bed, and when I read their stories I have me on the arm chair   (.) two sitting on one chair arm 
+*BET:	Yes. 
+*ANN:	and one sitting on the other chair arm 
+*BET:	Yes. 
+*ANN:	so that they can all  see the pictures. 
+*BET:	 All see the book.  Yeah. 
+*ANN:	So, they couldn't get it into their heads that you had to sit on the floor. 
+*BET:	Mhm. 
+*ANN:	Mind, when I read their story on erm   (.) I read them on Thursday afternoon and I said, right we better practise for nursery 
+*BET:	Yeah. 
+*ANN:	so I had the older ones from Goose Hill 
+*BET:	Mm. 
+*ANN:	you know the   (.) when they were off school 
+*BET:	That's right. 
+*ANN:	and I sat them   ((laughing)) on the floor  
+*BET:	 ((laugh)) 
+*ANN:	and they sat and listened then. 
+*BET:	How old are the triplets? 
+*ANN:	They're three on the nineteenth. 
+*BET:	Ah!  Right. 
+*ANN:	 And, the other thing   (.) it took a while for u  for us to get them to, they'd never drunk milk out of a straw, through a  straw   
+*BET:	  ((laughing)) Oh  yes . 
+*ANN:	and a third of a pint bottle is too big. 
+*BET:	Yeah. 
+*ANN:	I only give them half that much at a time. 
+*BET:	Mhm. 
+*ANN:	Bryony especially tends to drink small amounts. 
+*BET:	Mhm. 
+*ANN:	But you leave the cup on the table and she'll  call you back every ten   
+*BET:	 She keeps going back. 
+*ANN:	minutes for a sip. 
+*BET:	Yes. Yes. 
+*ANN:	But of course, they were picking the bottle up and they were trying to tip it as well . 
+*BET:	 ((laugh)) 
+*ANN:	So I'll have to get some straws and we'll have to  practise   
+*BET:	  ((laughing)) Yeah ! 
+*ANN:	that. 
+*BET:	 ((laugh))  (.) Aren't they bent straws or  not? 
+*ANN:	 No, this, they're quite, they didn't   (.) th  they were quite tough 
+*BET:	Yes. 
+*ANN:	strong plastic ones so they   (.) they didn't  chew   
+*BET:	 They'll soon   
+*ANN:	they didn't chew them. 
+*BET:	they'll soon fit in. 
+*ANN:	And er 
+*BET:	Cos  Stephanie will   
+*ANN:	 I know. 
+*BET:	be there. Was it morning? 
+*ANN:	Yes. 
+*BET:	Ah, Jenny will be meeting Stephanie. 
+*ANN:	Yes, well when we came out   (.) Bryony was difficult to start with, she didn't want her coat on. 
+*BET:	Mm. 
+*ANN:	But Richard   (.) I was trying to get his on a  and I, I've, I've helped two other children to put theirs on, I don't know who they were, and Dorothy says, oh we better get out Ann the teacher wanted the   (.) the visitors 
+*BET:	Away. 
+*ANN:	to get out  before   
+*BET:	 Mm. 
+*ANN:	the others came. Well, we just got out into the hallway where all these mothers were standing round   (.) and 
+*BET:	Yes. 
+*ANN:	Richard threw himself on the floor screaming! 
+*BET:	Ee! 
+*ANN:	He wasn't going home. 
+*BET:	Oh  dear! 
+*ANN:	 And I  was try  and he,he  of course he's, he's heavy 
+*BET:	Yes. 
+*ANN:	and when he just makes himself flop, he wouldn't stand up. When I tried to  sit him up   
+*BET:	 Pick him up. 
+*ANN:	to put his coat on, I picked him up and tried to carry him, and he just flung himself around so hard I had to put him down and he immediately flung himself on the floor  again! 
+*BET:	 Oh!  Lovely   ((laughing)) exhibition . 
+*ANN:	Oh! Golly!  Anyway   
+*BET:	 And was it  because he didn't want to leave? 
+*ANN:	Yes. 
+*BET:	 ((laugh)) 
+*ANN:	Oh! He was staying there. And we  I was   (.) I was trying to explain to him that erm   (.) we've had to go home, the teachers were clearing everything up 
+*BET:	 Yeah. 
+*ANN:	 all  the children were going  home   
+*BET:	 For  lunchtime. 
+*ANN:	because there were different children coming in the afternoon. 
+*BET:	Mm. 
+*ANN:	But no, no. 
+*BET:	 ((laugh)) 
+*ANN:	So I picked him up and I carried him, Dorothy had gone out the wrong door, instead of going out the door at that end   (.) she'd gone right along this long corridor 
+*BET:	And come out the main door. 
+*ANN:	so I followed her and of course, we're going past all the blooming classrooms!  And the   
+*BET:	 Yeah. 
+*ANN:	classrooms all had their doors open. 
+*BET:	Yeah. Yeah. 
+*ANN:	And   (.) anyway I carried him half way along and I had to put him down 
+*BET:	Mm. 
+*ANN:	I managed to get his coat on   (.) and a woman came along, I, I don't know if she was a dinner lady or what, she had a   (.) a sort of overall on   (.) and er   (.) I said come on let's catch up with your mummy, and she said, ah! Are these triplets? Are  these   
+*BET:	 Mhm. 
+*ANN:	Mr   's triplets? 
+*BET:	Oh! Right.  Aha. 
+*ANN:	 And I  said yes. And she said, oh Mr   teaches   (.) my son at school. 
+*BET:	Oh! 
+*ANN:	She said, come along hold my hand as well and er, I'll tell my son tha  that, that er Mr   's son   (.) took me to the door. So he  shut up   
+*BET:	  ((laugh))  
+*ANN:	and listened to her. 
+*BET:	 ((laugh))  (.) Oh! 
+*ANN:	He'd calmed down  tha    
+*BET:	 Yeah. 
+*ANN:	by then. 
+*BET:	Well I  had trouble   
+*ANN:	  (  )  
+*BET:	with Joshua on erm   (.) what day will it be?  (6.0) Erm   (.) it must have been the last day, it must have been Friday, must have been Friday. Cos usually, he's keen to go to Ron and Stephanie's. 
+*ANN:	Mhm. 
+*BET:	He wouldn't get in his pushchair. He wouldn't put his coat on. Erm   (.) I finally got his coat on, and then, I said, come on we'll walk. No. No. And chuck his hat down on the kitchen floor. I said, well I'd have to go and leave you then. So, of course, he got up, I went to close the door   (.) he was there   (.) so   (.) I tried him in his pushchair, I says well you'll have to walk, I know it's only five minutes away. So 
+*ANN:	Mhm. 
+*BET:	it was a bad day. So er   (.) he wouldn't move! Got so far on, he stood and he started crying and yelling and, don't want to go! Want to go home! Don't want to go! Now I used to get him along there   (.) and   (.) then he was sort of in tears but there was   (.) kids in the hall, the little hall   (.) and then when you sort come in the door, not the main door, the one, the   
+*ANN:	 Yes. 
+*BET:	door you're supposed to come in. 
+*ANN:	The one we should have go  gone  in   
+*BET:	 Yeah. 
+*ANN:	and come  out of? 
+*BET:	 Well, immediately on the left there's a door   (.) an  and the hall goes along by the path that you, you come up to that  door. 
+*ANN:	 Yes. 
+*BET:	And, the children were in there erm doing their P E and er   (.) he went stood at the door and watched them and he was   (.) quite happy. And, they all filed out   (.) and the   (.) the caretaker, I presume, started putting the tables up, and the chairs for lunch 
+*ANN:	Mhm. 
+*BET:	and er   (.) he wouldn't keep out, so, so in the end the caretaker got him a little chair 
+*ANN:	 Mhm. 
+*BET:	 and    (.) sat him against  the wall. 
+*ANN:	  ((laugh))  
+*BET:	He said that's your chair, now   (.) you can watch me. Well he sat there as good as gold. The only trouble was when Stephanie come out he didn't   ((laughing)) want to come home . 
 *ANN:	 ((laugh)) 
-*BET:	Oh!Right.So   (.) righto Gillian.Okay.Bye for now.Bye  ((phonecall ends)).
-*ANN:	 (        ) 
-*BET:	Well she says Michael hasn't rung so she said I assume that he's   (.) coming   (.) cos if he's   (.) going to be late, if he's anywhere   (.) reasonable
-*ANN:	Yeah.
-*BET:	and finds a phone he rings and tells her.Erm, because I was going out for half past two and er, she rang, she says he hasn't rung yet so I assume he's going to be home.So that's alright 
-*ANN:	Yeah.
-*BET:	isn't it?
-*ANN:	I saw her briefly, and, I didn't even speak to her other than to say hello.Dorothy and I took the triplets for their nursery visit   (.) on
-*BET:	Oh!Right.
-*ANN:	Thursday 
-*BET:	Yes.Yes.
-*ANN:	Er   (.) they wouldn't go and sit down for the story with all the other children sit at, sat on my knee on the floor for a short while.
-*BET:	Mm.
-*ANN:	Cos, at home you see   (.) er   (.) Dorothy and Trevor always read their stories in bed, and when I read their stories I have me on the arm chair   (.) two sitting on one chair arm
-*BET:	Yes.
-*ANN:	and one sitting on the other chair arm
-*BET:	Yes.
-*ANN:	so that they can all see the pictures.
-*BET:	All see the book.Yeah.
-*ANN:	So, they couldn't get it into their heads that you had to sit on the floor.
-*BET:	Mhm.
-*ANN:	Mind, when I read their story on erm   (.) I read them on Thursday afternoon and I said, right we better practise for nursery
-*BET:	Yeah.
-*ANN:	so I had the older ones from Goose Hill
-*BET:	Mm.
-*ANN:	you know the   (.) when they were off school
-*BET:	That's right.
-*ANN:	and I sat them   [laughing] on the floor  [] 
+*BET:	Oh! It was difficult. 
+*ANN:	It's a lovely nursery isn't it? 
+*BET:	I haven't actually been in   (.) to, I've only ever got  as far as the  (  ) . 
+*ANN:	 They've got every  kind of toy and equipment you can think of. 
+*BET:	Yes. 
+*ANN:	And they've got it divided up into bits with a, sort of a little kitchen. 
+*UNK:	Are you still going up to start me off? 
+*BET:	Well  Gillian's been on the phone   
+*UNK:	 Or was that Gillian? 
+*BET:	she says, she thinks Michael must be coming home because he hasn't rung her. 
+*UNK:	Right. So you're not baby-sitting? 
+*BET:	Well, not that I know of.  Not   
+*UNK:	 Aha. 
+*BET:	unless he hasn't been near a phone and couldn't ring her. 
+*UNK:	Right. 
+*BET:	So, I might get a call by half past two   (.) but I doubt it. 
+*ANN:	Erm   (.) and then there's one   (.) like a little living room, it has a little settee in it and chairs, you know, child size? 
+*BET:	Oh, Oh yeah. Mhm. 
+*ANN:	And there's a big er   (.) water play   (.) bath sort of thing 
+*BET:	Mhm. 
+*ANN:	and sand   (.) and slides and 
+*BET:	Well I know there's slides cos Stephanie talks about  them. 
+*ANN:	 Yes. 
+*BET:	She loves it! 
+*ANN:	And every kind of building brick and   (.) Duplo brick and Lego brick and Stickle brick and 
 *BET:	 ((laugh)) 
-*ANN:	and they sat and listened then.
-*BET:	How old are the triplets?
-*ANN:	They're three on the nineteenth.
-*BET:	Ah!Right.
-*ANN:	And, the other thing   (.) it took a while for u for us to get them to, they'd never drunk milk out of a straw, through a straw 
-*BET:	 [laughing] Oh yes  [] .
-*ANN:	and a third of a pint bottle is too big.
-*BET:	Yeah.
-*ANN:	I only give them half that much at a time.
-*BET:	Mhm.
-*ANN:	Bryony especially tends to drink small amounts.
-*BET:	Mhm.
-*ANN:	But you leave the cup on the table and she'll call you back every ten 
-*BET:	She keeps going back.
-*ANN:	minutes for a sip.
-*BET:	Yes.Yes.
-*ANN:	But of course, they were picking the bottle up and they were trying to tip it as well .
-*BET:	 ((laugh)) 
-*ANN:	So I'll have to get some straws and we'll have to practise 
-*BET:	 [laughing] Yeah  [] !
-*ANN:	that.
-*BET:	 ((laugh))  (.) Aren't they bent straws or not?
-*ANN:	No, this, they're quite, they didn't   (.) th they were quite tough
-*BET:	Yes.
-*ANN:	strong plastic ones so they   (.) they didn't chew 
-*BET:	They'll soon 
-*ANN:	they didn't chew them.
-*BET:	they'll soon fit in.
-*ANN:	And er
-*BET:	Cos Stephanie will 
-*ANN:	I know.
-*BET:	be there.Was it morning?
-*ANN:	Yes.
-*BET:	Ah, Jenny will be meeting Stephanie.
-*ANN:	Yes, well when we came out   (.) Bryony was difficult to start with, she didn't want her coat on.
-*BET:	Mm.
-*ANN:	But Richard   (.) I was trying to get his on a and I, I've, I've helped two other children to put theirs on, I don't know who they were, and Dorothy says, oh we better get out Ann the teacher wanted the   (.) the visitors
-*BET:	Away.
-*ANN:	to get out before 
-*BET:	Mm.
-*ANN:	the others came.Well, we just got out into the hallway where all these mothers were standing round   (.) and
-*BET:	Yes.
-*ANN:	Richard threw himself on the floor screaming!
-*BET:	Ee!
-*ANN:	He wasn't going home.
-*BET:	Oh dear!
-*ANN:	And I was try and he,he of course he's, he's heavy
-*BET:	Yes.
-*ANN:	and when he just makes himself flop, he wouldn't stand up.When I tried to sit him up 
-*BET:	Pick him up.
-*ANN:	to put his coat on, I picked him up and tried to carry him, and he just flung himself around so hard I had to put him down and he immediately flung himself on the floor again!
-*BET:	Oh!Lovely   [laughing] exhibition  [] .
-*ANN:	Oh!Golly!Anyway 
-*BET:	And was it because he didn't want to leave?
-*ANN:	Yes.
-*BET:	 ((laugh)) 
-*ANN:	Oh!He was staying there.And we I was   (.) I was trying to explain to him that erm   (.) we've had to go home, the teachers were clearing everything up
-*BET:	Yeah.
-*ANN:	all the children were going home 
-*BET:	For lunchtime.
-*ANN:	because there were different children coming in the afternoon.
-*BET:	Mm.
-*ANN:	But no, no.
-*BET:	 ((laugh)) 
-*ANN:	So I picked him up and I carried him, Dorothy had gone out the wrong door, instead of going out the door at that end   (.) she'd gone right along this long corridor
-*BET:	And come out the main door.
-*ANN:	so I followed her and of course, we're going past all the blooming classrooms!And the 
-*BET:	Yeah.
-*ANN:	classrooms all had their doors open.
-*BET:	Yeah.Yeah.
-*ANN:	And   (.) anyway I carried him half way along and I had to put him down
-*BET:	Mm.
-*ANN:	I managed to get his coat on   (.) and a woman came along, I, I don't know if she was a dinner lady or what, she had a   (.) a sort of overall on   (.) and er   (.) I said come on let's catch up with your mummy, and she said, ah!Are these triplets?Are these 
-*BET:	Mhm.
-*ANN:	Mr  's triplets?
-*BET:	Oh!Right.Aha.
-*ANN:	And I said yes.And she said, oh Mr  teaches   (.) my son at school.
-*BET:	Oh!
-*ANN:	She said, come along hold my hand as well and er, I'll tell my son tha that, that er Mr  's son   (.) took me to the door.So he shut up 
-*BET:	 ((laugh)) 
-*ANN:	and listened to her.
-*BET:	 ((laugh))  (.) Oh!
-*ANN:	He'd calmed down tha 
-*BET:	Yeah.
-*ANN:	by then.
-*BET:	Well I had trouble 
-*ANN:	 (        ) 
-*BET:	with Joshua on erm   (.) what day will it be? (.) Erm   (.) it must have been the last day, it must have been Friday, must have been Friday.Cos usually, he's keen to go to Ron and Stephanie's.
-*ANN:	Mhm.
-*BET:	He wouldn't get in his pushchair.He wouldn't put his coat on.Erm   (.) I finally got his coat on, and then, I said, come on we'll walk.No.No.And chuck his hat down on the kitchen floor.I said, well I'd have to go and leave you then.So, of course, he got up, I went to close the door   (.) he was there   (.) so   (.) I tried him in his pushchair, I says well you'll have to walk, I know it's only five minutes away.So
-*ANN:	Mhm.
-*BET:	it was a bad day.So er   (.) he wouldn't move!Got so far on, he stood and he started crying and yelling and, don't want to go!Want to go home!Don't want to go!Now I used to get him along there   (.) and   (.) then he was sort of in tears but there was   (.) kids in the hall, the little hall   (.) and then when you sort come in the door, not the main door, the one, the 
-*ANN:	Yes.
-*BET:	door you're supposed to come in.
-*ANN:	The one we should have go gone in 
-*BET:	Yeah.
-*ANN:	and come out of?
-*BET:	Well, immediately on the left there's a door   (.) an and the hall goes along by the path that you, you come up to that door.
-*ANN:	Yes.
-*BET:	And, the children were in there erm doing their P E and er   (.) he went stood at the door and watched them and he was   (.) quite happy.And, they all filed out   (.) and the   (.) the caretaker, I presume, started putting the tables up, and the chairs for lunch
-*ANN:	Mhm.
-*BET:	and er   (.) he wouldn't keep out, so, so in the end the caretaker got him a little chair
-*ANN:	Mhm.
-*BET:	and   (.) sat him against the wall.
+*ANN:	things. And plenty of easels and  paint   
+*BET:	 Aha. 
+*ANN:	and er   (.) oh, they've also got books   (.) yo  you know you can buy the books 
+*BET:	Oh! Yes. 
+*ANN:	just   (.) just in that er, sort of little tiny lobby bit 
+*BET:	Yeah. 
+*ANN:	where you turn right to go into the   (.) nursery 
+*BET:	 Mhm. 
+*ANN:	 into  the actual classroom 
+*BET:	Mhm. 
+*ANN:	er, they've got   (.) books on there 
+*BET:	Oh! 
+*ANN:	and there's a, a book to sign and you can borrow  any book   
+*BET:	 Oh! Right! 
+*ANN:	then you just sign the book to say you've got it. 
+*BET:	Oh I see! No I didn't know that. 
+*ANN:	And have you looked   (.) erm, the headmistress took us outside to see the yard   (.) and   (.) that looks 
+*BET:	No, I haven't been  out   
+*ANN:	 huge   
+*BET:	there. 
+*ANN:	yard with a  a  apparently they have er, a lot of   (.) in the summer   (.) they do a lot of er   (.) whatever they're doing out there. Practically everything they do out there, they take all the equipment outside. 
+*BET:	Yeah. Well they have like   (.) erm, sort of bogey things or something, cos I know   (.) Stephanie was tipped out of one last 
+*ANN:	Oh! 
+*BET:	year. The friend was   (.) erm   (.) pushing her, and she came home with a big   (.) bump on her head 
+*ANN:	 Mm. 
+*BET:	 and  erm   (.) and that's what erm, the teacher came and said she'd fallen out of erm   (.) one of the, er I think she said bogeys or something? Because when Gillian came home, Gillian says who were you playing with? And she said Melanie. And, but she says it wasn't deliberate, it wasn't deliberate, it was an accident. So Gillian had seen the teacher 
+*ANN:	Still around? 
+*BET:	Still there.  ((cat noise))Must a reluctant bride.  ((laugh))  (.) Erm, she said oh it was just purely and simply an accident that  erm   
+*ANN:	 Yeah. 
+*BET:	But she starts proper school in September. 
+*ANN:	Does she? 
+*BET:	Mhm. 
+*ANN:	Mm! 
+*BET:	Yeah, she's only four in August. 
+*ANN:	Is that, you put it flat onto  it   
+*BET:	 Mm. 
+*ANN:	it's a   (.) windproof thing. 
+*BET:	Yeah, she's only four in August. 
+*ANN:	Oh  yes   
+*BET:	 And  erm 
+*ANN:	she's gonna be one of the very young ones. 
+*BET:	and she's, she's really quite small, cos Mike  isn't   
+*ANN:	 Yeah. 
+*BET:	very tall. Now  Kate   
+*ANN:	 Ya. 
+*BET:	takes after her mum.  But   
+*ANN:	 Mm. 
+*BET:	er Stephanie's   (.) quite small really   (.) but, she's all there, she's, she's quite bright. 
+*ANN:	Do you remember when I had erm   (.) Michael     (.) he's fifteen now. The one whose mum had multiple sclerosis   (.) they lived at Upham  Pond. 
+*BET:	 Oh  yes! Yeah! 
+*ANN:	He was only four and one week when he started school. 
+*BET:	Well, Stephanie's just  going to be   
+*ANN:	 His birth   er his birthday was the thirty first of August   (.) and   (.) I think it was, I can't remember  when he started   
+*BET:	 About the sixth or something   
+*ANN:	it was the fifth or the sixth of 
+*BET:	September. 
+*ANN:	I think it was the sixth   (.) of September. And he was     (.)  ((laugh))  (.) I know he was chubby but he was quite   (.) short. 
+*BET:	Yeah. 
+*ANN:	He looked so young. 
+*BET:	And, Joshua now goes to the playgroup at the erm   (.) Saint Aden's Church. 
+*ANN:	Oh yes. That's where er 
+*BET:	I think just one day a week visiting allowed. 
+*ANN:	Dorothy takes the triplets on Mondays. 
+*BET:	Right.  Oh. 
+*ANN:	 They, they are actually starting nursery school on the fifth of May. They seem so tiny to be going five mornings a week though. 
+*BET:	The triplets? 
+*ANN:	Mhm. 
+*BET:	Er fifth of   (.) that's just next month? 
+*ANN:	Yes. 
+*BET:	Oh! 
+*ANN:	I  don't   
+*BET:	 So  is she going to drop them off there earlier? 
+*ANN:	Yes. Er   (.)  well, well she'll obviously   
+*BET:	 Or have you to go there? 
+*ANN:	collect them on Mondays and Fridays 
+*BET:	Mhm. 
+*ANN:	and walk up, they'll get the minibus down. I forgot to notice exactly where the mi  where the bus stop outside the school. 
+*BET:	They just stop anywhere. You just wait outside the gate, Gillian just waits outside her gate. The minibuses will stop anywhere, you just put your hand out. 
+*ANN:	Oh! 
+*BET:	Jus  erm   (.) park yourself, you know, away from the entrance 
+*ANN:	Yes. 
+*BET:	erm 
+*ANN:	Well I'll have to move myself away from the school gate   (  ) they can just   (.)  they think I'll be actually waiting   
+*BET:	 That's right. That's right. 
+*ANN:	at the  school gate. 
+*BET:	 But erm, er, they drop you off wherever you want to be dropped off and then pick you up   (.) I mean I   (.) I come down on occasions   (.) and I just stand outside their gate. 
+*ANN:	Oh. 
+*BET:	Erm   (.) and I've noticed that they drop people off. They drop Jessie off at her door next door   (.) they drop somebody else two or three doors down, er, they'll stop anywhere. 
+*ANN:	Oh that's fine. 
+*BET:	And they run every erm 
+*ANN:	And the   (.)  yeah   
+*BET:	 five  minutes I think it  is. 
+*ANN:	 Mm.  Their grandma said to me yesterday, have you worked out how you're going to get to   (.) nursery? And I said, well yes I'll just walk up and I'll get the minibus back. And she said, will you manage? But, I've had them on buses several times just when I, when I'm going on a bus. 
+*BET:	Well now the occasions 
+*ANN:	It won't be a special treat any more once   ((laughing)) they're coming back from nursery three times a week on a bus  will it ? 
+*BET:	 That's right.  That's right. Yeah. Erm   (.) I mean I go up  there   
+*ANN:	 And  probably when I  was   
+*BET:	 at  half past eleven, but that's when Gillian's on   (.) doing the manager's job which is nearly twice a, twice a year. Erm 
+*ANN:	Yeah. 
+*BET:	She's just   (.) like a week ago she was   (.) she did the manager's job   (.) and, she drops   (.) she brings Joshua down here for about quarter to nine, then she goes back up to Stop Hill with the girls 
+*ANN:	Mm. 
+*BET:	takes them to school. 
+*ANN:	Mhm. 
+*BET:	And then Paul takes me   (.) up to their house   (.) where I, usually about ten past eleven   (.) gives me time to get the pushchair put up again and 
 *ANN:	 ((laugh)) 
-*BET:	He said that's your chair, now   (.) you can watch me.Well he sat there as good as gold.The only trouble was when Stephanie come out he didn't   [laughing] want to come home  [] .
+*BET:	 ((laugh))  (.) sorted out   (.) and then I just walk along and pick up Stephanie. Erm   (.) so I was there, at the odd occasions when I can give you a lift up   (.) but the  they'll be very odd. 
+*ANN:	Yeah. 
+*BET:	They'll be very odd. And then I stay there you see. 
+*ANN:	Yes. 
+*BET:	I stay there  then. 
+*ANN:	 Aha. 
+*BET:	Erm   (.) until Gillian   (.) because she, she doesn't finish till five when she's doing the manager's shift. 
+*ANN:	Aha. 
+*BET:	Five. So erm   (.) but that's only about three times a year at the  most. 
+*ANN:	 Yeah.   (6.0)  ((sniff))  (7.0) Have I seen you since erm   (6.0) I haven't seen you to talk to for very long have I? 
+*BET:	No, well I, I tend to keep away at nights when I, cos I think erm, those triplets so you must be 
 *ANN:	 ((laugh)) 
-*BET:	Oh!It was difficult.
-*ANN:	It's a lovely nursery isn't it?
-*BET:	I haven't actually been in   (.) to, I've only ever got as far as the  (        ) .
-*ANN:	They've got every kind of toy and equipment you can think of.
-*BET:	Yes.
-*ANN:	And they've got it divided up into bits with a, sort of a little kitchen.
-*UNK:	Are you still going up to start me off?
-*BET:	Well Gillian's been on the phone 
-*UNK:	Or was that Gillian?
-*BET:	she says, she thinks Michael must be coming home because he hasn't rung her.
-*UNK:	Right.So you're not baby-sitting?
-*BET:	Well, not that I know of.Not 
-*UNK:	Aha.
-*BET:	unless he hasn't been near a phone and couldn't ring her.
-*UNK:	Right.
-*BET:	So, I might get a call by half past two   (.) but I doubt it.
-*ANN:	Erm   (.) and then there's one   (.) like a little living room, it has a little settee in it and chairs, you know, child size?
-*BET:	Oh, Oh yeah.Mhm.
-*ANN:	And there's a big er   (.) water play   (.) bath sort of thing
-*BET:	Mhm.
-*ANN:	and sand   (.) and slides and
-*BET:	Well I know there's slides cos Stephanie talks about them.
-*ANN:	Yes.
-*BET:	She loves it!
-*ANN:	And every kind of building brick and   (.) Duplo brick and Lego brick and Stickle brick and
-*BET:	 ((laugh)) 
-*ANN:	things.And plenty of easels and paint 
-*BET:	Aha.
-*ANN:	and er   (.) oh, they've also got books   (.) yo you know you can buy the books
-*BET:	Oh!Yes.
-*ANN:	just   (.) just in that er, sort of little tiny lobby bit
-*BET:	Yeah.
-*ANN:	where you turn right to go into the   (.) nursery
-*BET:	Mhm.
-*ANN:	into the actual classroom
-*BET:	Mhm.
-*ANN:	er, they've got   (.) books on there
-*BET:	Oh!
-*ANN:	and there's a, a book to sign and you can borrow any book 
-*BET:	Oh!Right!
-*ANN:	then you just sign the book to say you've got it.
-*BET:	Oh I see!No I didn't know that.
-*ANN:	And have you looked   (.) erm, the headmistress took us outside to see the yard   (.) and   (.) that looks
-*BET:	No, I haven't been out 
-*ANN:	huge 
-*BET:	there.
-*ANN:	yard with a a apparently they have er, a lot of   (.) in the summer   (.) they do a lot of er   (.) whatever they're doing out there.Practically everything they do out there, they take all the equipment outside.
-*BET:	Yeah.Well they have like   (.) erm, sort of bogey things or something, cos I know   (.) Stephanie was tipped out of one last
-*ANN:	Oh!
-*BET:	year.The friend was   (.) erm   (.) pushing her, and she came home with a big   (.) bump on her head
-*ANN:	Mm.
-*BET:	and erm   (.) and that's what erm, the teacher came and said she'd fallen out of erm   (.) one of the, er I think she said bogeys or something?Because when Gillian came home, Gillian says who were you playing with?And she said Melanie.And, but she says it wasn't deliberate, it wasn't deliberate, it was an accident.So Gillian had seen the teacher
-*ANN:	Still around?
-*BET:	Still there. ((cat noise))Must a reluctant bride. ((laugh))  (.) Erm, she said oh it was just purely and simply an accident that erm 
-*ANN:	Yeah.
-*BET:	But she starts proper school in September.
-*ANN:	Does she?
-*BET:	Mhm.
-*ANN:	Mm!
-*BET:	Yeah, she's only four in August.
-*ANN:	Is that, you put it flat onto it 
-*BET:	Mm.
-*ANN:	it's a   (.) windproof thing.
-*BET:	Yeah, she's only four in August.
-*ANN:	Oh yes 
-*BET:	And erm
-*ANN:	she's gonna be one of the very young ones.
-*BET:	and she's, she's really quite small, cos Mike isn't 
-*ANN:	Yeah.
-*BET:	very tall.Now Kate 
-*ANN:	Ya.
-*BET:	takes after her mum.But 
-*ANN:	Mm.
-*BET:	er Stephanie's   (.) quite small really   (.) but, she's all there, she's, she's quite bright.
-*ANN:	Do you remember when I had erm   (.) Michael    (.) he's fifteen now.The one whose mum had multiple sclerosis   (.) they lived at Upham Pond.
-*BET:	Oh yes!Yeah!
-*ANN:	He was only four and one week when he started school.
-*BET:	Well, Stephanie's just going to be 
-*ANN:	His birth er his birthday was the thirty first of August   (.) and   (.) I think it was, I can't remember when he started 
-*BET:	About the sixth or something 
-*ANN:	it was the fifth or the sixth of
-*BET:	September.
-*ANN:	I think it was the sixth   (.) of September.And he was     (.)  ((laugh))  (.) I know he was chubby but he was quite   (.) short.
-*BET:	Yeah.
-*ANN:	He looked so young.
-*BET:	And, Joshua now goes to the playgroup at the erm   (.) Saint Aden's Church.
-*ANN:	Oh yes.That's where er
-*BET:	I think just one day a week visiting allowed.
-*ANN:	Dorothy takes the triplets on Mondays.
-*BET:	Right.Oh.
-*ANN:	They, they are actually starting nursery school on the fifth of May.They seem so tiny to be going five mornings a week though.
-*BET:	The triplets?
-*ANN:	Mhm.
-*BET:	Er fifth of   (.) that's just next month?
-*ANN:	Yes.
-*BET:	Oh!
-*ANN:	I don't 
-*BET:	So is she going to drop them off there earlier?
-*ANN:	Yes.Er   (.) well, well she'll obviously 
-*BET:	Or have you to go there?
-*ANN:	collect them on Mondays and Fridays
-*BET:	Mhm.
-*ANN:	and walk up, they'll get the minibus down.I forgot to notice exactly where the mi where the bus stop outside the school.
-*BET:	They just stop anywhere.You just wait outside the gate, Gillian just waits outside her gate.The minibuses will stop anywhere, you just put your hand out.
-*ANN:	Oh!
-*BET:	Jus erm   (.) park yourself, you know, away from the entrance
-*ANN:	Yes.
-*BET:	erm
-*ANN:	Well I'll have to move myself away from the school gate   (        ) they can just   (.) they think I'll be actually waiting 
-*BET:	That's right.That's right.
-*ANN:	at the school gate.
-*BET:	But erm, er, they drop you off wherever you want to be dropped off and then pick you up   (.) I mean I   (.) I come down on occasions   (.) and I just stand outside their gate.
-*ANN:	Oh.
-*BET:	Erm   (.) and I've noticed that they drop people off.They drop Jessie off at her door next door   (.) they drop somebody else two or three doors down, er, they'll stop anywhere.
-*ANN:	Oh that's fine.
-*BET:	And they run every erm
-*ANN:	And the   (.) yeah 
-*BET:	five minutes I think it is.
-*ANN:	Mm.Their grandma said to me yesterday, have you worked out how you're going to get to   (.) nursery?And I said, well yes I'll just walk up and I'll get the minibus back.And she said, will you manage?But, I've had them on buses several times just when I, when I'm going on a bus.
-*BET:	Well now the occasions
-*ANN:	It won't be a special treat any more once   [laughing] they're coming back from nursery three times a week on a bus will it  [] ?
-*BET:	That's right.That's right.Yeah.Erm   (.) I mean I go up there 
-*ANN:	And probably when I was 
-*BET:	at half past eleven, but that's when Gillian's on   (.) doing the manager's job which is nearly twice a, twice a year.Erm
-*ANN:	Yeah.
-*BET:	She's just   (.) like a week ago she was   (.) she did the manager's job   (.) and, she drops   (.) she brings Joshua down here for about quarter to nine, then she goes back up to Stop Hill with the girls
-*ANN:	Mm.
-*BET:	takes them to school.
-*ANN:	Mhm.
-*BET:	And then Paul takes me   (.) up to their house   (.) where I, usually about ten past eleven   (.) gives me time to get the pushchair put up again and
-*ANN:	 ((laugh)) 
-*BET:	 ((laugh))  (.) sorted out   (.) and then I just walk along and pick up Stephanie.Erm   (.) so I was there, at the odd occasions when I can give you a lift up   (.) but the they'll be very odd.
-*ANN:	Yeah.
-*BET:	They'll be very odd.And then I stay there you see.
-*ANN:	Yes.
-*BET:	I stay there then.
-*ANN:	Aha.
-*BET:	Erm   (.) until Gillian   (.) because she, she doesn't finish till five when she's doing the manager's shift.
-*ANN:	Aha.
-*BET:	Five.So erm   (.) but that's only about three times a year at the most.
-*ANN:	Yeah. (.)  ((sniff))  (.) Have I seen you since erm   (.) I haven't seen you to talk to for very long have I?
-*BET:	No, well I, I tend to keep away at nights when I, cos I think erm, those triplets so you must be
-*ANN:	 ((laugh)) 
-*BET:	absolutely worn out and ready for peace and quiet.Cos I know what it is myself with   (.) I mean, they're different ages but, and they're independent   (.) but it's wearing.
-*ANN:	Well it's 
-*BET:	Questions all the time.
-*ANN:	d'ya know it's funny, on a Wednesday when I go, when they've gone home and I've tidied up a bit 
-*BET:	Mhm.
-*ANN:	and gone straight to aerobics for six o'clock
-*BET:	Mm.
-*ANN:	I feel quite fit by the time I get back, you know   (.) by the time I've done 
-*BET:	 ((laugh)) 
-*ANN:	the aerobics   (.) you sho I should be feeling absolutely knackered!
-*BET:	 [laughing] Absolutely  [] !
-*ANN:	But I'm not.I fe I fe I feel, you know
-*BET:	Full of beans!
-*ANN:	I feel full of beans and quite 
-*BET:	 ((laugh)) 
-*ANN:	hungry by then.
-*BET:	Well I, when I come back from Stop Hill when I've been on a long shift till five o'clock, I'm whacked because   (.) their bungalow is so warm
-*ANN:	Yes.
-*BET:	and it, really it drains.
-*ANN:	Mm.It's like Jim at work he's shattered when he comes in.
-*BET:	Ee!I come here 
-*ANN:	 (        ) 
-*BET:	I sit down, I yawn and it comes to bedtime and I'm really too tired to go up the stairs.
-*ANN:	Mm.
-*BET:	I feel absolutely, and I think thank goodness I'm back   [laughing] in my draughty old house  [] !
-*ANN:	 ((laugh)) 
-*BET:	 ((laugh))  (.) Wha  (.) oh dear!
-*ANN:	I never feel cold in your house.
-*BET:	Well, it's alright if, you know, if you're in a room where the fire's on, although I have had the heating on   (.) erm   (.) a few days recently because of the cold.But I was hoping it was off for good er   (.) but it didn't work out that way cos of the weather.Erm   (.) I thought I'll try and save a bit of gas   (.) this month.This quarter.But erm   (.) and I, I got my er microwave and I'm trying to save some electric.I've been doing most of my   (.) cooking with the
-*ANN:	Aha.
-*BET:	rather than putting a big oven on.
-*ANN:	Yes.
-*BET:	And if   (.) some, er,jus it was very thin slices of beef, topside of   (.) well I thought I'll get some beef out, and I did it in the microwave and it cooked   (.) but it was   (.) it was quite tough.I think if I'd had er   (.) no teeth I wouldn't have been able to manage at all, or if I had
-*ANN:	You might have slightly overcooked it.
-*BET:	That's what he said.
-*ANN:	It's, you tend, to start with you do tend to erm
-*BET:	Yeah.
-*ANN:	overcook things.
-*BET:	Yeah.Well it   (.) there wasn't a recipe to cover just what I was doing with the 
-*ANN:	I know i i it
-*BET:	and it was just a case of   (.) erm   (.) pot luck, I would sort of brought it out and looked at it and, er no it wasn't cooked, it was cooked on the edges so I turned it over and   (.) turned it round and put it back in again.
-*ANN:	Did you let it stand?
-*BET:	Yes.
-*ANN:	For a while after?
-*BET:	Yes.Yes.Yeah.
-*ANN:	Before it carries on.
-*BET:	Er it was
-*ANN:	It's like when you cook 
-*BET:	it was cooked 
-*ANN:	cakes they look as if they're not quite cooked
-*BET:	Mhm.
-*ANN:	but by the time they've stood for five minutes they are.
+*BET:	absolutely worn out and ready for peace and quiet. Cos I know what it is myself with   (.) I mean, they're different ages but, and they're independent   (.) but it's wearing. 
+*ANN:	Well  it's   
+*BET:	 Questions  all the time. 
+*ANN:	d'ya know it's funny, on a Wednesday when I go, when they've gone home and I've tidied up a bit  
+*BET:	Mhm. 
+*ANN:	and gone straight to aerobics for six o'clock 
+*BET:	Mm. 
+*ANN:	I feel quite fit by the time I get back, you know   (.)  by the time I've done   
+*BET:	  ((laugh))  
+*ANN:	the aerobics   (.) you sho  I should be feeling absolutely knackered! 
+*BET:	  ((laughing)) Absolutely ! 
+*ANN:	 But I'm not.  I fe  I fe  I feel, you know 
+*BET:	Full of beans! 
+*ANN:	I feel full of beans  and quite   
+*BET:	  ((laugh))  
+*ANN:	hungry by then. 
+*BET:	Well I, when I come back from Stop Hill when I've been on a long shift till five o'clock, I'm whacked because   (.) their bungalow is so warm 
+*ANN:	Yes. 
+*BET:	and it, really it drains. 
+*ANN:	Mm. It's like Jim at work he's shattered when he comes  in. 
+*BET:	 Ee!  I  come here   
+*ANN:	  (  )  
+*BET:	I sit down, I yawn and it comes to bedtime and I'm really too tired to go up the stairs. 
+*ANN:	Mm. 
+*BET:	I feel absolutely, and I think thank goodness I'm back   ((laughing)) in my draughty  old house ! 
+*ANN:	  ((laugh))  
+*BET:	 ((laugh))  (.) Wha   (.) oh dear! 
+*ANN:	I never feel cold in your house. 
+*BET:	Well, it's alright if, you know, if you're in a room where the fire's on, although I have had the heating on   (.) erm   (.) a few days recently because of the cold. But I was hoping it was off for good er   (.) but it didn't work out that way cos of the weather. Erm   (.) I thought I'll try and save a bit of gas   (.) this month. This quarter. But erm   (.) and I, I got my er microwave and I'm trying to save some electric. I've been doing most of my   (.) cooking with the 
+*ANN:	Aha. 
+*BET:	rather than putting a big oven  on. 
+*ANN:	 Yes. 
+*BET:	And if   (.) some, er,jus  it was very thin slices of beef, topside of   (.) well I thought I'll get some beef out, and I did it in the microwave and it cooked   (.) but it was   (.) it was quite tough. I think if I'd had er   (.) no teeth I wouldn't have been able to manage at all, or if I had 
+*ANN:	You might have slightly overcooked it. 
+*BET:	That's what he said. 
+*ANN:	It's, you tend, to start with you do tend to erm 
+*BET:	Yeah. 
+*ANN:	overcook things. 
+*BET:	Yeah. Well it   (.) there wasn't a recipe to cover just what I was doing  with the   
+*ANN:	 I know  i  i  it 
+*BET:	and it was just a case of   (.) erm   (.) pot luck, I would sort of brought it out and looked at it and, er no it wasn't cooked, it was cooked on the edges so I turned it over and   (.) turned it round and put it back in again. 
+*ANN:	Did you let it stand? 
+*BET:	 Yes. 
+*ANN:	 For  a while after? 
+*BET:	Yes. Yes. Yeah. 
+*ANN:	Before it carries on. 
+*BET:	Er it was 
+*ANN:	It's like  when you cook   
+*BET:	 it was cooked   
+*ANN:	cakes they look as if they're not quite cooked 
+*BET:	Mhm. 
+*ANN:	but by the time they've stood for five minutes they  are. 
+*BET:	 Well   
+*ANN:	Did you remember if you cook a cake and you put a piece of erm   (.) kitchen paper over the top 
+*BET:	Mhm. I don't. 
+*ANN:	Oh. I, I can't remember where I got, I remember telling   (.) Beryl that a  long   
+*BET:	 Oh! 
+*ANN:	time ago 
+*BET:	Right. Well I 
+*ANN:	well before she knows 
+*BET:	well I've cooked a 
+*ANN:	Someone who  told me roundabout that   
+*BET:	 a cake recipe   
+*ANN:	time. The other thing is   (.) yes. 
+*BET:	but it was, to me, it was more like a erm   (.) er, er a sponge   (.) erm   (.) like a pudding  sponge. 
+*ANN:	 Yes.   What   
+*BET:	 Er   
+*ANN:	kind of a cake did you make? 
+*BET:	It was just a plain erm   (.) Victoria 
+*ANN:	Oh. 
+*BET:	sponge recipe. 
+*ANN:	Chocolate cakes  are, are very nice if   
+*BET:	 But I didn't have a proper tin. 
+*ANN:	you do, brown, but use brown sugar. 
+*BET:	Yes. I made a pudding  actually   
+*ANN:	 And u   and dark  brown   
+*BET:	 A pudding. 
+*ANN:	sugar. I  that's nice  and   
+*BET:	 Yeah. 
+*ANN:	moist. But   (.) when you, when you time   (.) when the cooked cake's finished cooking 
+*BET:	Mm. 
+*ANN:	if you leave it for two minutes 
+*BET:	Mm. 
+*ANN:	run a knife round 
+*BET:	Mhm. 
+*ANN:	tip it up onto your hand, just  briefly   
+*BET:	 Mm. 
+*ANN:	just for a second, and then   
+*BET:	 Mhm. 
+*ANN:	back a  again. 
+*BET:	Yes I did. 
+*ANN:	Let's the air go, and get underneath 
+*BET:	Yes. 
+*ANN:	and that helps the bottom to dry out quicker. 
+*BET:	Yeah. 
+*ANN:	Now   (.) someone else told me, and it worked, and if you just lay a piece of kitchen paper over the top, that absorbs some of the  moisture   
+*BET:	 The moisture. 
+*ANN:	as well and ta  and the top isn't so soggy. 
+*BET:	Mm. Well I didn't  have   
+*ANN:	 But  chocolate cakes are definitely the best. 
+*BET:	Well I did  a chocolate pudding   
+*ANN:	 In the microwave. 
+*BET:	and it was lovely.  Erm   
+*ANN:	 Yes. 
+*BET:	but this   (.) cake that I made   (.) erm   (.) we thought was more like a   (.) a pudding   (.) and I 
+*ANN:	Yeah but  they're so   
+*BET:	 put jam  on it 
+*ANN:	they're so pale as well. 
+*BET:	and the next day it, it was   (.) sort o  like a rock, well  not   
+*ANN:	 The o    
+*BET:	exactly, but  it was pretty   
+*ANN:	 the only cakes  I make in erm   (.) in a microwave are   (.) chocolate cakes 
+*BET:	And are they alright the next day? 
+*ANN:	Yes. They're a lot moister if you, if you use dark brown sugar 
+*BET:	Yeah. 
+*ANN:	they definitely are a lot more moist. 
+*BET:	Mm mm. 
+*ANN:	And as long as you don't over, overcook  them. 
+*BET:	 Mm.  Mhm. 
+*ANN:	And I'll tell you what I  always do. 
+*BET:	 But what, what do you make them in? Er, like a, a deep er flan, erm   
+*ANN:	 I've  got these, you know the very thin microwave dishes? They're getting a bit battered now. 
+*BET:	Plastic? 
+*ANN:	They're very thin plastic. 
+*BET:	No.  I haven't got   
+*ANN:	 They're about   
+*BET:	any plastic ones. 
+*ANN:	Th  I got them in the electricity board, there three for sixty pence. 
+*BET:	Oh! 
+*ANN:	You're only, I think you're only supposed to use them for a, a few months, I've been using them for about three years. 
+*BET:	Mhm. Mhm. 
+*ANN:	Er, they've got a dimple in here and there. 
+*BET:	Mhm. 
+*ANN:	But er 
+*BET:	Cos it's a, my recipe  said a, a   
+*ANN:	  (  )  
+*BET:	a souffle dish. Well I'd  smashed   
+*ANN:	 Yeah. 
+*BET:	my souffle dish. But I had, I, I   (.) I never thought, I have a casserole dish which is about the   (.) the same height  as the   
+*ANN:	 Mhm. 
+*BET:	souf  I could have done it  in there   
+*ANN:	 That might  help. 
+*BET:	but I didn't, I did it my pyrex   (.) bowl 
+*ANN:	Yeah. 
+*BET:	which of course, the bottom is narrower than the  top. 
+*ANN:	 Yes. 
+*BET:	 ((laughing)) And it came right up  like that   
+*ANN:	 Ah! Ah! 
+*BET:	and it come over the top ! 
+*ANN:	These things are about   (.) so high.  Smales   
+*BET:	 Yeah. 
+*ANN:	have a lot of microwave dishes. 
+*BET:	Yeah. 
+*ANN:	They're about that wide and they're about that deep and I just put a circle of greaseproof in the bottom 
+*BET:	Mhm. 
+*ANN:	don't grease them or anything. 
+*BET:	Oh, just put the greaseproof in? 
+*ANN:	Ju  I just lay a piece of greaseproof in the bottom. 
+*BET:	Oh! Now, I grease mine and er, I put the greaseproof in. 
+*ANN:	I don't grease them I just put this   (.) I've got   (.) a pile of little circles of greaseproof paper ready cut to  to fit the   
+*BET:	  ((laugh))  
+*ANN:	bottom of  the   
+*BET:	 Oh, well you're well  organized. 
+*ANN:	 three  dishes. 
+*BET:	You're well organized. Well  I, I do   
+*ANN:	 I've done  it for all kinds of things, I mean, I, I cook vegetables in them in it and I warm  up   
+*BET:	 Yeah. 
+*ANN:	tins of peas in it. I warm up baked beans for the  children's   
+*BET:	 Yes. 
+*ANN:	tea in it. 
+*BET:	Pa  Paul does that. 
+*ANN:	In fact, they're   
+*BET:	 And I've   
+*ANN:	stained with tomato soup. 
+*BET:	Mm. Baked potatoes, we've had quite a lot of baked pot    
+*ANN:	 I don't know why I get tomato soup  with all that colour in it. 
+*BET:	baked potatoes, and er it makes lovely erm   (.) custard. 
+*ANN:	Yes. 
+*BET:	Lovely custard. Er 
+*ANN:	 And   
+*BET:	 the  only thing is I haven't got a big enough jug so I have to do half quantities. 
+*ANN:	I make mine, I make my, my custard in erm   (6.0) er   (.) I think it is   (.) it's a casserole about so wide, it's my biggest casserole. 
+*BET:	 Oh right! It's in a, about   
+*ANN:	 It's a round one about that far  across. 
+*BET:	about a three pint? 
+*ANN:	Er er   (.) nearly two pint  I think   
+*BET:	 Two pint. 
+*ANN:	it'll be.  It's about this shallow   
+*BET:	 Oh well, I put   
+*ANN:	I found it, it, it, it seems to cook quicker. 
+*BET:	Yeah. Oh I could be using that, that   
+*ANN:	 Erm    (.)  the last time   
+*BET:	 casserole dish. 
+*ANN:	I made   (.) half a pint of   (.) white sauce in the   (.) measuring jug   (.)  I   
+*BET:	 Mm. 
+*ANN:	boiled it all over the place. The last time I made   (.) about half a pint of   ((laughing)) bread sauce, I lost half the bread sauce  all over it ! 
+*BET:	  ((laugh))   (.) Oh well I can do half a pint successfully, but I've gotta watch. 
+*ANN:	Yeah, you need to stir it every minute or  so. 
+*BET:	 Yes.  I have to, I have to watch it. Er, I can do half a pint 
+*ANN:	And you don't 
+*BET:	quite well. 
+*ANN:	no  you know your erm   (.) smoky   (.) glass beakers 
+*BET:	Aha. 
+*ANN:	don't use those  in   
+*BET:	 Oh  no. I  haven't. 
+*ANN:	 Nancy    used one of those in it   (.) and she just lifted it out and the whole lot shattered  all over   
+*BET:	 Chee ee! 
+*ANN:	the place. 
+*BET:	Yes. 
+*ANN:	But I read   (.) you know when you make your coffee in it 
+*BET:	Mhm. Well Paul makes his in   (.)  there. 
+*ANN:	 Give it  a stir first. It's just recently I read about this   (.) it's not getting air into it or something is the reason it ex  it can suddenly shoot up all over you. 
+*BET:	Oh it's in my book, yes, it can come   
+*ANN:	 Well I always   
+*BET:	up. 
+*ANN:	I put the coffee, my milk powder, and the water in 
+*BET:	Aha. 
+*ANN:	and, stir it   (.)  anyway   
+*BET:	 Aha.  Mhm. 
+*ANN:	and then put it in, and it's   (.) so far   (.)  it's been okay. 
+*BET:	 Well Paul makes, he does hot chocolate actually 
+*ANN:	Yes. 
+*BET:	in the tu  erm 
+*ANN:	I di  er, I only have er   (.) I only make  chocolate  (  ) . 
+*BET:	 But mine has a, mine  has a grill, I got one with a grill 
+*ANN:	Oh yes. 
+*BET:	so I've cooked, I cook  the   
+*ANN:	 Yeah. 
+*BET:	chicken   (.) in it   (.) in a casserole dish 
+*ANN:	Yes. 
+*BET:	covered   (.) and then I erm   (.) switch off microwave and put it on grill and it browns 
+*ANN:	Yes. 
+*BET:	erm 
+*ANN:	I haven't got  one of   
+*BET:	 the breast. 
+*ANN:	those of course. 
+*BET:	Well mine's a Moulinex. 
+*ANN:	When this wears out   (.)  I'm gonna   
+*BET:	 I got it   
+*ANN:	get rid of this one. 
+*BET:	I got it cheap at the Co-op at Lyme. I went to Argos to get this particular Moulinex. 
+*ANN:	Yeah. 
+*BET:	And they didn't have it in there, they just had the   (.) the touch oven ultra erm   (.) is that on? 
+*ANN:	Yeah. 
+*BET:	Tt! Oh! God! Erm   (.) and it was quite expensive. Erm, and so I said no I can't afford that, cos I sold my shares you see. 
+*ANN:	Yeah. 
+*BET:	I'm glad I did, they've gone right down. Have you noticed? 
+*ANN:	Yes. 
+*BET:	Erm   (.) so   (.) Paul says come on, we'll have a look in the Co-op   (.) and here they had   (.) the very same one I wanted in the Co-op   (.) and it was ten pound cheaper. 
+*ANN:	Well you know when we got our Vax   (.) vacuum cleaner 
+*BET:	Yes. 
+*ANN:	that was ten pounds cheaper than Argos. 
+*BET:	Really? 
+*ANN:	So, er we got that at the Co-op.  It was   
+*BET:	 Really? 
+*ANN:	a hundred and forty nine 
+*BET:	Yes. 
+*ANN:	in   (.) or a hundred and forty nine ninety nine or whatever it was, I can't remember   (.) in erm   (.) Argos 
+*BET:	 Mhm. 
+*ANN:	 and  it was ten pounds cheaper in the Co-op. 
 *BET:	Well 
-*ANN:	Did you remember if you cook a cake and you put a piece of erm   (.) kitchen paper over the top
-*BET:	Mhm.I don't.
-*ANN:	Oh.I, I can't remember where I got, I remember telling   (.) Beryl that a long 
-*BET:	Oh!
-*ANN:	time ago
-*BET:	Right.Well I
-*ANN:	well before she knows
-*BET:	well I've cooked a
-*ANN:	Someone who told me roundabout that 
-*BET:	a cake recipe 
-*ANN:	time.The other thing is   (.) yes.
-*BET:	but it was, to me, it was more like a erm   (.) er, er a sponge   (.) erm   (.) like a pudding sponge.
-*ANN:	Yes.What 
-*BET:	Er 
-*ANN:	kind of a cake did you make?
-*BET:	It was just a plain erm   (.) Victoria
-*ANN:	Oh.
-*BET:	sponge recipe.
-*ANN:	Chocolate cakes are, are very nice if 
-*BET:	But I didn't have a proper tin.
-*ANN:	you do, brown, but use brown sugar.
-*BET:	Yes.I made a pudding actually 
-*ANN:	And u and dark brown 
-*BET:	A pudding.
-*ANN:	sugar.I that's nice and 
-*BET:	Yeah.
-*ANN:	moist.But   (.) when you, when you time   (.) when the cooked cake's finished cooking
-*BET:	Mm.
-*ANN:	if you leave it for two minutes
-*BET:	Mm.
-*ANN:	run a knife round
-*BET:	Mhm.
-*ANN:	tip it up onto your hand, just briefly 
-*BET:	Mm.
-*ANN:	just for a second, and then 
-*BET:	Mhm.
-*ANN:	back a again.
-*BET:	Yes I did.
-*ANN:	Let's the air go, and get underneath
-*BET:	Yes.
-*ANN:	and that helps the bottom to dry out quicker.
-*BET:	Yeah.
-*ANN:	Now   (.) someone else told me, and it worked, and if you just lay a piece of kitchen paper over the top, that absorbs some of the moisture 
-*BET:	The moisture.
-*ANN:	as well and ta and the top isn't so soggy.
-*BET:	Mm.Well I didn't have 
-*ANN:	But chocolate cakes are definitely the best.
-*BET:	Well I did a chocolate pudding 
-*ANN:	In the microwave.
-*BET:	and it was lovely.Erm 
-*ANN:	Yes.
-*BET:	but this   (.) cake that I made   (.) erm   (.) we thought was more like a   (.) a pudding   (.) and I
-*ANN:	Yeah but they're so 
-*BET:	put jam on it
-*ANN:	they're so pale as well.
-*BET:	and the next day it, it was   (.) sort o like a rock, well not 
-*ANN:	The o 
-*BET:	exactly, but it was pretty 
-*ANN:	the only cakes I make in erm   (.) in a microwave are   (.) chocolate cakes
-*BET:	And are they alright the next day?
-*ANN:	Yes.They're a lot moister if you, if you use dark brown sugar
-*BET:	Yeah.
-*ANN:	they definitely are a lot more moist.
-*BET:	Mm mm.
-*ANN:	And as long as you don't over, overcook them.
-*BET:	Mm.Mhm.
-*ANN:	And I'll tell you what I always do.
-*BET:	But what, what do you make them in?Er, like a, a deep er flan, erm 
-*ANN:	I've got these, you know the very thin microwave dishes?They're getting a bit battered now.
-*BET:	Plastic?
-*ANN:	They're very thin plastic.
-*BET:	No.I haven't got 
-*ANN:	They're about 
-*BET:	any plastic ones.
-*ANN:	Th I got them in the electricity board, there three for sixty pence.
-*BET:	Oh!
-*ANN:	You're only, I think you're only supposed to use them for a, a few months, I've been using them for about three years.
-*BET:	Mhm.Mhm.
-*ANN:	Er, they've got a dimple in here and there.
-*BET:	Mhm.
-*ANN:	But er
-*BET:	Cos it's a, my recipe said a, a 
-*ANN:	 (        ) 
-*BET:	a souffle dish.Well I'd smashed 
-*ANN:	Yeah.
-*BET:	my souffle dish.But I had, I, I   (.) I never thought, I have a casserole dish which is about the   (.) the same height as the 
-*ANN:	Mhm.
-*BET:	souf I could have done it in there 
-*ANN:	That might help.
-*BET:	but I didn't, I did it my pyrex   (.) bowl
-*ANN:	Yeah.
-*BET:	which of course, the bottom is narrower than the top.
-*ANN:	Yes.
-*BET:	 [laughing] And it came right up like that 
-*ANN:	Ah!Ah!
-*BET:	and it come over the top  [] !
-*ANN:	These things are about   (.) so high.Smales 
-*BET:	Yeah.
-*ANN:	have a lot of microwave dishes.
-*BET:	Yeah.
-*ANN:	They're about that wide and they're about that deep and I just put a circle of greaseproof in the bottom
-*BET:	Mhm.
-*ANN:	don't grease them or anything.
-*BET:	Oh, just put the greaseproof in?
-*ANN:	Ju I just lay a piece of greaseproof in the bottom.
-*BET:	Oh!Now, I grease mine and er, I put the greaseproof in.
-*ANN:	I don't grease them I just put this   (.) I've got   (.) a pile of little circles of greaseproof paper ready cut to to fit the 
-*BET:	 ((laugh)) 
-*ANN:	bottom of the 
-*BET:	Oh, well you're well organized.
-*ANN:	three dishes.
-*BET:	You're well organized.Well I, I do 
-*ANN:	I've done it for all kinds of things, I mean, I, I cook vegetables in them in it and I warm up 
-*BET:	Yeah.
-*ANN:	tins of peas in it.I warm up baked beans for the children's 
-*BET:	Yes.
-*ANN:	tea in it.
-*BET:	Pa Paul does that.
-*ANN:	In fact, they're 
-*BET:	And I've 
-*ANN:	stained with tomato soup.
-*BET:	Mm.Baked potatoes, we've had quite a lot of baked pot 
-*ANN:	I don't know why I get tomato soup with all that colour in it.
-*BET:	baked potatoes, and er it makes lovely erm   (.) custard.
-*ANN:	Yes.
-*BET:	Lovely custard.Er
-*ANN:	And 
-*BET:	the only thing is I haven't got a big enough jug so I have to do half quantities.
-*ANN:	I make mine, I make my, my custard in erm   (.) er   (.) I think it is   (.) it's a casserole about so wide, it's my biggest casserole.
-*BET:	Oh right!It's in a, about 
-*ANN:	It's a round one about that far across.
-*BET:	about a three pint?
-*ANN:	Er er   (.) nearly two pint I think 
-*BET:	Two pint.
-*ANN:	it'll be.It's about this shallow 
-*BET:	Oh well, I put 
-*ANN:	I found it, it, it, it seems to cook quicker.
-*BET:	Yeah.Oh I could be using that, that 
-*ANN:	Erm   (.) the last time 
-*BET:	casserole dish.
-*ANN:	I made   (.) half a pint of   (.) white sauce in the   (.) measuring jug   (.) I 
-*BET:	Mm.
-*ANN:	boiled it all over the place.The last time I made   (.) about half a pint of   [laughing] bread sauce, I lost half the bread sauce all over it  [] !
-*BET:	 ((laugh))  (.) Oh well I can do half a pint successfully, but I've gotta watch.
-*ANN:	Yeah, you need to stir it every minute or so.
-*BET:	Yes.I have to, I have to watch it.Er, I can do half a pint
-*ANN:	And you don't
-*BET:	quite well.
-*ANN:	no you know your erm   (.) smoky   (.) glass beakers
-*BET:	Aha.
-*ANN:	don't use those in 
-*BET:	Oh no.I haven't.
-*ANN:	Nancy  used one of those in it   (.) and she just lifted it out and the whole lot shattered all over 
-*BET:	Chee ee!
-*ANN:	the place.
-*BET:	Yes.
-*ANN:	But I read   (.) you know when you make your coffee in it
-*BET:	Mhm.Well Paul makes his in   (.) there.
-*ANN:	Give it a stir first.It's just recently I read about this   (.) it's not getting air into it or something is the reason it ex it can suddenly shoot up all over you.
-*BET:	Oh it's in my book, yes, it can come 
-*ANN:	Well I always 
-*BET:	up.
-*ANN:	I put the coffee, my milk powder, and the water in
-*BET:	Aha.
-*ANN:	and, stir it   (.) anyway 
-*BET:	Aha.Mhm.
-*ANN:	and then put it in, and it's   (.) so far   (.) it's been okay.
-*BET:	Well Paul makes, he does hot chocolate actually
-*ANN:	Yes.
-*BET:	in the tu erm
-*ANN:	I di er, I only have er   (.) I only make chocolate  (        ) .
-*BET:	But mine has a, mine has a grill, I got one with a grill
-*ANN:	Oh yes.
-*BET:	so I've cooked, I cook the 
-*ANN:	Yeah.
-*BET:	chicken   (.) in it   (.) in a casserole dish
-*ANN:	Yes.
-*BET:	covered   (.) and then I erm   (.) switch off microwave and put it on grill and it browns
-*ANN:	Yes.
-*BET:	erm
-*ANN:	I haven't got one of 
-*BET:	the breast.
-*ANN:	those of course.
-*BET:	Well mine's a Moulinex.
-*ANN:	When this wears out   (.) I'm gonna 
-*BET:	I got it 
-*ANN:	get rid of this one.
-*BET:	I got it cheap at the Co-op at Lyme.I went to Argos to get this particular Moulinex.
-*ANN:	Yeah.
-*BET:	And they didn't have it in there, they just had the   (.) the touch oven ultra erm   (.) is that on?
-*ANN:	Yeah.
-*BET:	Tt!Oh!God!Erm   (.) and it was quite expensive.Erm, and so I said no I can't afford that, cos I sold my shares you see.
-*ANN:	Yeah.
-*BET:	I'm glad I did, they've gone right down.Have you noticed?
-*ANN:	Yes.
-*BET:	Erm   (.) so   (.) Paul says come on, we'll have a look in the Co-op   (.) and here they had   (.) the very same one I wanted in the Co-op   (.) and it was ten pound cheaper.
-*ANN:	Well you know when we got our Vax   (.) vacuum cleaner
-*BET:	Yes.
-*ANN:	that was ten pounds cheaper than Argos.
-*BET:	Really?
-*ANN:	So, er we got that at the Co-op.It was 
-*BET:	Really?
-*ANN:	a hundred and forty nine
-*BET:	Yes.
-*ANN:	in   (.) or a hundred and forty nine ninety nine or whatever it was, I can't remember   (.) in erm   (.) Argos
-*BET:	Mhm.
-*ANN:	and it was ten pounds cheaper in the Co-op.
-*BET:	Well
-*ANN:	But   (.) so we got it there.
-*BET:	this is what we found cos I said, oh
-*ANN:	There was something else, you know when I got the   (.) when I got my food processor
-*BET:	Mhm.
-*ANN:	that was something like eighty pounds, I can't remember exactly
-*BET:	Mhm.
-*ANN:	but for some reason we'd been to Gateshead, and I'd looked up food processors in the Argos catalogue
-*BET:	Mhm.
-*ANN:	and the Index, Littlewoods 
-*BET:	Mm mm.
-*ANN:	catalogue   (.) and we were in Argos, I mean, sorry, we're in Gateshead   (.) and we   (.) I know   (.) I was trying to get erm   (.) a very pale peach wallpaper   (.) for, for the 
-*BET:	Oh right.
-*ANN:	bathroom to match   (.) the very, very, very   (.) extremely pale peach
-*BET:	I know.
-*ANN:	flowers that we've got 
-*BET:	Yeah.
-*ANN:	on so many tiles
-*BET:	Yes.
-*ANN:	and I couldn't get any.And, we've looked in Mawpers, and we've Newcastle, and Jim said let's go to Gateshead.I can't   (.) somebody had a sale on in Gateshead so we went there   (.) and then we went to the Co-op, and of course, I got the exact paper I wanted, just sort of this mottley   (.) mottley, marbly pale peach 
-*BET:	Mm mm.
-*ANN:	paper.And we looked at erm   (.) food processors
-*BET:	Mhm.
-*ANN:	and we got the food, food processor, it was cheaper than Argos and Index
-*BET:	Mm mm.
-*ANN:	I got a free, there was a free electric carving knife with it
-*BET:	Oh!Right!
-*ANN:	plus, at the time there was five percent   (.) extra off   (.) erm, cos Jim's got a, a Co-op gold card
-*BET:	Mhm.
-*ANN:	and if you got it through this gold card there was another five percent off so or   (.) something like that off.
-*BET:	Yes.
-*ANN:	So, we got a real bargain there.
-*BET:	Oh!You got, you got quite a few 
-*ANN:	Yeah.
-*BET:	bargains didn't you?Yeah.
-*ANN:	Oh, I'm very careful with my money. [laughing] I always 
-*BET:	Yeah.
-*ANN:	check if them things are cheaper first  [] .
-*BET:	Well erm   (.) I do most things   (.) in it if I can.I did some pork chops er, the other day   (.) erm   (.) and, and they cooked   (.) they cooked very well.
-*ANN:	Yes.
-*BET:	They cooked very well.
-*ANN:	Mhm.
-*BET:	Erm
-*ANN:	That, that erm   (.) yellow ex   (.) Telecom van
-*BET:	Yeah.
-*ANN:	that usually parked down 
-*BET:	That parks on 
-*ANN:	the end of the road
-*BET:	Yeah.
-*ANN:	is that the same one that's just gone past with   (.) it said erm   (.) snacks?I could just er say read it when it went by 
-*BET:	Oh I didn't know.
-*ANN:	in big red writing it said snacks, and one er, I couldn't make out what 
-*BET:	Whose is it?
-*ANN:	I don't know.Has somebody started up in business?
-*BET:	I wondered if it was ?
-*ANN:	 [sighing] Oh  [] !Don't mention the !
-*BET:	 ((laugh)) 
-*ANN:	I'd love to slaughter that child!
-*BET:	Were you having trouble with them the other night?
-*ANN:	Having trouble?Did you not hear about when they broke the thing?
-*BET:	Well I   (.) I went out to them, and   (.) because I heard banging, and I looked out the window and they were hacking at my fence, and I went out bu and was playing war with them when Jim crossed the road with one of them following behind and away down the street, and I thought oh!Jim must have had   (.) trouble.And 
-*ANN:	He 
-*BET:	then when I was in the kitchen I saw Mr  go to your door later 
-*ANN:	Yeah.
-*BET:	one night.And, I've gone out, it wasn't  that was hacking my fence mind, erm, it was another boy, I didn't know him with a  (        ) , and I went out and I, I   (.) and he said, I wasn't.I says, yes you were!And, that chap that lives   (.) two below Mrs , they haven't been in very long with 
-*ANN:	Yes.
-*BET:	a little dog.
-*ANN:	Aha.
-*BET:	He came out the curtain   (.) and swore at him.And he said, yes you were.He says, I saw you!So I says, right get away from my property!And they'd hacked two or three of the erm   (.) the wood   (.) erm   (.) staves on the fence.
-*ANN:	Mhm.
-*BET:	Now, when I came back from Stop Hill the other night, must have been, oh must have been Thursday, cos Paul erm, was going out with Alec and then they were going to Alec for dinner   (.) and when I came back   (.) one of the   (.) erm   (.) wooden staves was off   (.) here, had been prized off.Cos Paul put it on the next day.So, a couple of nights 
-*ANN:	One of ours was off as well.
-*BET:	couple of nights later, I looked down and here's three of them, boy, somebody else   (.) and another 
-*ANN:	 ((cough)) 
-*BET:	one, and one was sitting on my fence, there, so I banged on the window and said get off the fence!Erm   (.) he just, he just sat there and
-*ANN:	Mhm.
-*BET:	like that, I said, [shouting] get off that fence  [] !And he just   (.) he took no diving notice and they all were giggling at me.See, so I went out   (.) I said, get off my property you're trespassing!
+*ANN:	But   (.) so we got it there. 
+*BET:	this is what we found cos I said, oh 
+*ANN:	There was something else, you know when I got the   (.) when I got my food processor 
+*BET:	Mhm. 
+*ANN:	that was something like eighty pounds, I can't remember exactly 
+*BET:	Mhm. 
+*ANN:	but for some reason we'd been to Gateshead, and I'd looked up food processors in the Argos catalogue 
+*BET:	Mhm. 
+*ANN:	and the Index, Littlewoods   
+*BET:	 Mm mm. 
+*ANN:	catalogue   (.) and we were in Argos, I mean, sorry, we're in Gateshead   (.) and we   (.) I know   (.) I was trying to get erm   (.) a very pale peach wallpaper   (.)  for, for the   
+*BET:	 Oh right. 
+*ANN:	bathroom to match   (.) the very, very, very   (.) extremely pale peach 
+*BET:	I know. 
+*ANN:	flowers that we've  got   
+*BET:	 Yeah. 
+*ANN:	on so many tiles 
+*BET:	Yes. 
+*ANN:	and I couldn't get any. And, we've looked in Mawpers, and we've Newcastle, and Jim said let's go to Gateshead. I can't   (.) somebody had a sale on in Gateshead so we went there   (.) and then we went to the Co-op, and of course, I got the exact paper I wanted, just sort of this mottley   (.) mottley, marbly  pale peach   
+*BET:	 Mm mm. 
+*ANN:	paper. And we looked at erm   (.) food processors 
+*BET:	Mhm. 
+*ANN:	and we got the food, food processor, it was cheaper than Argos and Index 
+*BET:	Mm mm. 
+*ANN:	I got a free, there was a free electric carving knife with it 
+*BET:	Oh!  Right! 
+*ANN:	 plus, at the time there was five percent   (.) extra off   (.) erm, cos Jim's got a, a Co-op gold card 
+*BET:	Mhm. 
+*ANN:	and if you got it through this gold card there was another five percent off so  or   (.) something like that off. 
+*BET:	Yes. 
+*ANN:	So, we got a real bargain  there. 
+*BET:	 Oh!  You got, you got quite a  few   
+*ANN:	 Yeah. 
+*BET:	bargains didn't you?  Yeah. 
+*ANN:	 Oh, I'm very careful with my money.   ((laughing)) I always   
+*BET:	 Yeah. 
+*ANN:	check if them things are cheaper first . 
+*BET:	Well erm   (.) I do most things   (.) in it if I can. I did some pork chops er, the other day   (.) erm   (.) and, and they cooked   (.) they cooked very  well. 
+*ANN:	 Yes. 
+*BET:	They cooked very well. 
+*ANN:	Mhm. 
+*BET:	Erm 
+*ANN:	That, that erm   (.) yellow ex   (.) Telecom van 
+*BET:	Yeah. 
+*ANN:	that usually  parked down   
+*BET:	 That parks on   
+*ANN:	the end of the road 
+*BET:	Yeah. 
+*ANN:	is that the same one that's just gone past with   (.) it said erm   (.) snacks? I could just er say read it  when it went by   
+*BET:	 Oh I didn't know. 
+*ANN:	in big red writing it said snacks, and one er, I couldn't make  out what   
+*BET:	 Whose is  it? 
+*ANN:	I don't know. Has somebody started up in business? 
+*BET:	I wondered if it was  ? 
+*ANN:	 ((sighing)) Oh ! Don't mention  the  ! 
+*BET:	  ((laugh))  
+*ANN:	I'd love to slaughter that child! 
+*BET:	Were you having trouble with them the other night? 
+*ANN:	Having trouble? Did you not hear about when they broke the thing? 
+*BET:	Well I   (.) I went out to them, and   (.) because I heard banging, and I looked out the window and they were hacking at my fence, and I went out bu  and was playing war with them when Jim crossed the road with one of them following behind and away down the street, and I thought oh! Jim must have had   (.) trouble.  And   
+*ANN:	 He   
+*BET:	then when I was in the kitchen I saw Mr   go to your door  later   
+*ANN:	 Yeah. 
+*BET:	one night. And, I've gone out, it wasn't   that was hacking my fence mind, erm, it was another boy, I didn't know him with a  (  ) , and I went out and I, I   (.) and he said, I wasn't. I says, yes you were! And, that chap that lives   (.) two below Mrs  , they haven't been in very long  with   
+*ANN:	 Yes. 
+*BET:	a little dog. 
+*ANN:	Aha. 
+*BET:	He came out the curtain   (.) and swore at him. And he said, yes you were. He says, I saw you! So I says, right get away from my property! And they'd hacked two or three of the erm   (.) the wood   (.) erm   (.) staves on the fence. 
+*ANN:	Mhm. 
+*BET:	Now, when I came back from Stop Hill the other night, must have been, oh must have been Thursday, cos Paul erm, was going out with Alec and then they were going to Alec for dinner   (.) and when I came back   (.) one of the   (.) erm   (.) wooden staves was off   (.) here, had been prized off. Cos Paul put it on the next day. So, a couple of nights   
+*ANN:	 One of ours  was off as well. 
+*BET:	couple of nights later, I looked down and here's three of them, boy, somebody else   (.)  and another   
+*ANN:	  ((cough))  
+*BET:	one, and one was sitting on my fence, there, so I banged on the window and said get off the fence! Erm   (.) he just, he just sat there and 
+*ANN:	Mhm. 
+*BET:	like that, I said, ((shouting)) get off that fence ! And he just   (.) he took no diving notice and they all were giggling at me. See, so I went out   (.) I said, get off my property you're trespassing! 
 *ANN:	 ((laugh)) 
-*BET:	I said, that is my property and when you sit on my fence   (.) that is a, an offence!Now, I says I'll get the police the next time!Okay.So they just casually got off and walked away.I don't know who he was but he was with .
-*ANN:	Mm.
-*BET:	I'm frightened to leave home.
-*UNK:	You had trouble as well have you?
-*ANN:	Well, Jim had just put something through Bob's letter box
-*BET:	Mm mm.
-*ANN:	and he heard   (.) there was a crash   (.) and   (.) Martin  said, ee!I've broken the glass.
-*BET:	Mhm.
-*ANN:	And the other two, Ali and tha you know the   (.) erm, Bangladeshi boy down     (.)  (.) he plays with them.There was Ali and the   (.) and Michael .
-*BET:	Yeah.
-*ANN:	And Jim came along and he says what did you say?
-*BET:	Mhm.
-*ANN:	He says I've broken the glass.And he said well just get yourself home and tell your father that I want it paid for this time because I only replaced that glass last week, which he had 
-*BET:	Yeah.
-*UNK:	Mhm.
-*ANN:	he'd put it in at the beginning of the week before.So he came in and he, he, he said I'm just going down to see  's father, he's just smashed the glass in the cold frame and I'm   (.) I'm sick of this!Cos he's already stopped him setting fire   (.) to trees in the orchard over there.
-*BET:	Oh yeah.
-*UNK:	Mm.That's awful that.
-*ANN:	He's stopped him cutting down trees.So he went down   (.) and it was Kelly  he spoke to   (.) and er   (.) she said he
+*BET:	I said, that is my property and when you sit on my fence   (.) that is a, an offence! Now, I says I'll get the police the next time! Okay. So they just casually got off and walked away. I don't know who he was but he was with  . 
+*ANN:	Mm. 
+*BET:	I'm frightened to leave home. 
+*UNK:	You had trouble as well have you? 
+*ANN:	Well, Jim had just put something through Bob's letter box 
+*BET:	Mm mm. 
+*ANN:	and he heard   (.) there was a crash   (.) and   (.) Martin   said, ee! I've broken the glass. 
+*BET:	Mhm. 
+*ANN:	And the other two, Ali and tha  you know the   (.) erm, Bangladeshi boy down     (.)   (.) he plays with them. There was Ali and the   (.) and Michael  . 
+*BET:	Yeah. 
+*ANN:	And Jim came along and he says what did you say? 
+*BET:	Mhm. 
+*ANN:	He says I've broken the glass. And he said well just get yourself home and tell your father that I want it paid for this time because I only replaced that glass last week, which he  had   
+*BET:	 Yeah. 
+*UNK:	Mhm. 
+*ANN:	he'd put it in at the beginning of the week before. So he came in and he, he, he said I'm just going down to see   's father, he's just smashed the glass in the cold frame and I'm   (.) I'm sick of this! Cos he's already stopped him setting fire   (.) to trees in the orchard over there. 
+*BET:	Oh yeah. 
+*UNK:	Mm.  That's awful that. 
+*ANN:	 He's stopped him  cutting down trees. So he went down   (.) and it was Kelly   he spoke to   (.) and er   (.) she said he 
 @End

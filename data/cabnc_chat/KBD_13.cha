@@ -1,15 +1,15 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-05:  
 @Location:	  nightclub  
-@Situation:	  at work  
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  at work   
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BAR Barry self
-@ID: eng|AudioBNC|BAR|~41;| |m|Ag3| |entertainments consultant||PS03W|
+@Options:	CA
+@ID:	eng|AudioBNC|BAR|41;|||||entertainments consultant||PS03W|
 @Comment:	conversation #13 (Tape 064201)
-*BAR:	Was Alistair ringing you yesterday?
-*TER:	Me?Well he rang Peter.Oh God!Well he must have been trying  (        ) . (.)  (        )  (.) and they told me   (.) it was  (        ) , very, very urgent!So I said, oh!Well, come and speak to him.But, so   (.) I went, and he said oh!Barry's dad's been on the phone he wants to you to urgently book a bus   (.) so he co 
+*BAR:	Was Alistair ringing you yesterday? 
+*TER:	Me? Well he rang Peter. Oh God! Well he must have been trying  (  ) .  (7.0)  (  )  (.) and they told me   (.) it was  (  ) , very, very urgent! So I said, oh! Well, come and speak to him. But, so   (.) I went, and he said oh! Barry's dad's been on the phone he wants to you to urgently book a bus   (.) so he co   
 @End

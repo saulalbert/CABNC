@@ -1,25 +1,25 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
-@Date:	1992-03-15:  Unspecified
-@Media: 021A-C0897X0279XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
+@Date:	1992-03-15:  Unspecified 
+@Media:	021A-C0897X0279XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CLA Clare self, MEL Melissa friend
-@ID: eng|AudioBNC|CLA|~15;| |f|Ag1| |student||PS05Y|
-@ID: eng|AudioBNC|MEL|~16;| |f|Ag1| |student|friend|PS060|
+@Options:	CA
+@ID:	eng|AudioBNC|CLA|15;|||||student||PS05Y|
+@ID:	eng|AudioBNC|MEL|16;|||||student|friend|PS060|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0279XX-AAZZP0.wav
 @Comment:	conversation #15 (Tape 027903)
-*MEL:	Yeah, cos in the diner, they said er what have we missed, when she grew up all on her own
-*CLA:	Yeah, but in the paper it says look, Marilyn finds out about
-*UNK:	 (        ) 
-*CLA:	a couple of phonies
-*MEL:	A couple of what?
-*CLA:	Phonies
-*MEL:	What's that?
-*CLA:	Forgeries
-*MEL:	Oh
-*CLA:	Here are
-*MEL:	ta
+*MEL:	Yeah, cos in the diner, they said er what have we missed, when she grew up all on her own 
+*CLA:	Yeah, but in the paper it says look, Marilyn finds out about 
+*UNK:	 (  ) 
+*CLA:	a couple of phonies 
+*MEL:	A couple of what? 
+*CLA:	Phonies 
+*MEL:	What's that? 
+*CLA:	Forgeries 
+*MEL:	Oh 
+*CLA:	Here are 
+*MEL:	ta 
 @End

@@ -1,44 +1,44 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0022XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0022XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, BIL Bill neighbour
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|BIL|~30+;| |m|Ag2| |plastics company director|neighbour|PS104|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|BIL|30+;|||||plastics company director|neighbour|PS104|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0022XX-AAZZP0.wav
 @Comment:	conversation #35 (Tape 002202)
-*BIL:	It's not disturbing you in there is it?
-*CHR:	No, no, I mean the hoover's going  ((laugh)) .
-*BIL:	Oh.
-*CHR:	The washing machine an and everything, everything, no problem Bill.
-*BIL:	I mean,iv  (.) ivy really does go doesn't it?Incredible .
-*CHR:	All that in there must have been that thick.
-*BIL:	Yes, (        ) tree, (        ) all amongst the  (        ) 
-*CHR:	Yes.
-*BIL:	What'll you plan to do with the bed, when you've cleared it all out?
-*CHR:	I'll just go and  (        ) , dug it, dig it all up.
-*BIL:	Mm.
-*CHR:	 (        ) match that up with that.
-*BIL:	 (        ) 
-*CHR:	Yeah.So I was 
-*BIL:	So get rid of that bit of fence?
-*CHR:	No, keep that here, so I can just angle get the car in.
-*BIL:	Yes, yeah, that's good .
-*CHR:	Drive the car straight into here, I got that  (        ) .
-*BIL:	Will   (.) will the tree here, will you be able to get the car sufficiently clear to 
-*CHR:	Oh yeah .
-*BIL:	get access to the garage? (        ) 
-*BIL:	Great, I'm on my way .
-*CHR:	Well if I just leave the car at this angle, pointed out that way.
-*BIL:	Yes, yes, great.
-*CHR:	It's just that    (.)  (        ) outside of it  (        ) .
-*BIL:	Yes, yes.
-*CHR:	 (        ) And I'm not a great lover of weeding, cos  (.) 
-*BIL:	No, I   (.) I   (.) don't blame you, yep, pull this.
+*BIL:	It's not disturbing you in there is it? 
+*CHR:	No, no, I mean the hoover's going  ((laugh)) . 
+*BIL:	Oh. 
+*CHR:	The washing machine an  and everything, everything, no problem Bill. 
+*BIL:	I mean,iv   (.) ivy really does go doesn't it?  Incredible  . 
+*CHR:	 All that in there  must have been that thick. 
+*BIL:	Yes, (  ) tree, (  ) all amongst the  (  )  
+*CHR:	Yes. 
+*BIL:	What'll you plan to do with the bed, when you've cleared it all out? 
+*CHR:	I'll just go and  (  ) , dug it, dig it all up. 
+*BIL:	Mm. 
+*CHR:	 (  ) match that up with that. 
+*BIL:	 (  ) 
+*CHR:	Yeah.  So I was   
+*BIL:	 So get  rid of that bit of fence? 
+*CHR:	No, keep that here, so I can just angle get the car in. 
+*BIL:	Yes, yeah, that's good  . 
+*CHR:	 Drive the car  straight into here, I got that  (  ) . 
+*BIL:	Will   (.) will the tree here, will you be able to get the car sufficiently clear  to   
+*CHR:	 Oh yeah  . 
+*BIL:	get access to the garage? (  )  
+*BIL:	Great, I'm on my way  . 
+*CHR:	 Well if I just leave  the car at this angle, pointed out that way. 
+*BIL:	Yes, yes, great. 
+*CHR:	It's just that    (.)  (  ) outside of it  (  ) . 
+*BIL:	Yes, yes. 
+*CHR:	 (  ) And I'm not a great lover of weeding, cos  (.)  
+*BIL:	No, I   (.) I   (.) don't blame you, yep, pull this. 
 @End

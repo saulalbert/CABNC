@@ -1,36 +1,36 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 shopping 
-@Situation:	Unspecified
-@Media: 021A-C0897X0049XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0049XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
-@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
+@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0049XX-ABZZP0.wav
 @Comment:	conversation #39 (Tape 004906)
-*HEL:	I sh-   (.) think you've only got to leave it till it's melted, has it melted?
-*CLA:	Yeah.
-*HEL:	Oh well switch it off then.
-*CLA:	 (        ) .
-*HEL:	Well I've turned it down and then it blew out, there, right.
-*AMY:	 (        ) . (        ) .
-*HEL:	Now be careful.
-*CLA:	It's difficult.
-*HEL:	Oh, well, I mean I really didn't need this at the moment with daddy coming in and everything. (        ) .
-*HEL:	Well can you put that   (.) that tine of biscuits away.
-*CLA:	Oh I know how to do that, I  (        ) .
-*HEL:	Cos I don't want it all over the floor.
-*AMY:	Can I have a little go now?
-*HEL:	Well I should let Clare do this it's not very easy.
-*AMY:	Oh Clare promised me I cooked one.
-*CLA:	Quick go but you won't be able to do it  (        ) .
-*HEL:	Go on then.
-*AMY:	 (        ) .
-*HEL:	You've got to press it hard.
+*HEL:	I sh-   (.) think you've only got to leave it till it's melted, has it melted? 
+*CLA:	Yeah. 
+*HEL:	Oh well switch it off then. 
+*CLA:	 (  ) . 
+*HEL:	Well I've turned it down and then it blew out, there, right. 
+*AMY:	 (  ) . (  ) . 
+*HEL:	Now be careful. 
+*CLA:	It's difficult. 
+*HEL:	Oh, well, I mean I really didn't need this at the moment with daddy coming in and everything. (  ) . 
+*HEL:	Well can you put that   (.) that tine of biscuits away. 
+*CLA:	Oh I know how to do that, I  (  ) . 
+*HEL:	Cos I don't want it all over the floor. 
+*AMY:	Can I have a little go now? 
+*HEL:	Well I should let Clare do this it's not very easy. 
+*AMY:	Oh Clare promised me I cooked one. 
+*CLA:	Quick go but you won't be able to do it  (  ) . 
+*HEL:	Go on then. 
+*AMY:	 (  ) . 
+*HEL:	You've got to press it hard. 
 @End

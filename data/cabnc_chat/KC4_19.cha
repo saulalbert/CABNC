@@ -1,47 +1,47 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-05:  
 @Location:	 The Lion Inn 
-@Situation:	Unspecified
-@Media: 021A-C0897X0066XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0066XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , FRE Fred self
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|FRE|~78;| |m|Ag5| |retired||PS1E4|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|FRE|78;|||||retired||PS1E4|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0066XX-AAZZP0.wav
 @Comment:	conversation #19 (Tape 006605)
-*FRE:	Are you alright?Have you eh
-*NON:	I enjoyed that one.
-*FRE:	Is it you, did you enjoy it?
-*NON:	Yeah, that's the first pair I've had all morning.I mean all, ever since I've come out.
-*FRE:	Bloody hell, you enjoyed it.Think I should've been with you.
+*FRE:	Are you alright? Have you eh 
+*NON:	I enjoyed that one. 
+*FRE:	Is it you, did you enjoy it? 
+*NON:	Yeah, that's the first pair I've had all morning. I mean all, ever since I've come out. 
+*FRE:	Bloody hell, you enjoyed it. Think I should've been with you. 
 *NON:	 ((laugh)) 
-*FRE:	No that, don't be like that like duck, no, no, oh I mustn't be like that, no   ((music)) (.) 
-*NON:	Sorry  (        ) .
-*FRE:	Have you, have you, have you seen Andrew at all recently, you know?
-*NON:	Pardon?
-*FRE:	Have you seen Andrew, you know, eh, oh?
-*NON:	Oh Helen's  (        ) ?
-*FRE:	Yes, yes.
-*NON:	Oh, he was down here the other week, you know. ((music))
-*FRE:	Is he, is he still eh, still working, or
-*NON:	Oh, I don't know.
-*FRE:	Oh. ((music))
-*NON:	 (        ) 
-*FRE:	 (        ) , love, put it away for god's sake, aye.
-*NON:	Pick me up at half past four.
-*FRE:	Who?
-*NON:	The taxi driver.
-*FRE:	Oh the taxi is, oh well that's alright, yeah, alright, what's the time now?
-*NON:	He said it was quarter to four, ten to four.
-*FRE:	Ten to four, ten to four, yeah.
-*NON:	I asked him what the time was when I rang and he said  (        ) 
-*FRE:	Oh Kathleen, we'll have another drink shall we?
-*NON:	Yeah, why not?
-*FRE:	I am, I don't know what I'm going to do  (        ) , bloody hell.
-*NON:	Don't throw it away this time, or knock it over.
-*FRE:	Can I really throw it away?
+*FRE:	No that, don't be like that like duck, no, no, oh I mustn't be like that, no   ((music)) (.)  
+*NON:	Sorry  (  ) . 
+*FRE:	Have you, have you, have you seen Andrew at all recently, you know? 
+*NON:	Pardon? 
+*FRE:	Have you seen Andrew, you know, eh, oh? 
+*NON:	Oh Helen's  (  ) ? 
+*FRE:	Yes, yes. 
+*NON:	Oh, he was down here the other week, you know. ((music)) 
+*FRE:	Is he, is he still eh, still working, or 
+*NON:	Oh, I don't know. 
+*FRE:	Oh. ((music)) 
+*NON:	 (  ) 
+*FRE:	 (  ) , love, put it away for god's sake, aye. 
+*NON:	Pick me up at half past four. 
+*FRE:	Who? 
+*NON:	The taxi driver. 
+*FRE:	Oh the taxi is, oh well that's alright, yeah, alright, what's the time now? 
+*NON:	He said it was quarter to four, ten to  four. 
+*FRE:	 Ten  to four, ten to four, yeah. 
+*NON:	I asked him what the time was when I rang and he said  (  )  
+*FRE:	Oh Kathleen, we'll have another drink shall we? 
+*NON:	Yeah, why not? 
+*FRE:	I am, I don't know what I'm going to do  (  ) , bloody hell. 
+*NON:	Don't throw it away this time, or knock it over. 
+*FRE:	Can I really throw it away? 
 @End

@@ -1,62 +1,62 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0023XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0023XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0023XX-ABZZP0.wav
 @Comment:	conversation #99 (Tape 002333)
-*CHR:	You're panting Digger, do you fancy a gin? eh?
-*NOR:	Just a drop of water.
-*CHR:	Dog, dog size gin.
-*NOR:	 (        ) 
-*CHR:	A very mean one.
-*NOR:	She's alright today she's had a bone, haven't you?Yes.
-*CHR:	Did she bury the Bonio yesterday or she actually end up crunching it?
-*NOR:	I bet she ate it, she's not as daft as she looks.
-*CHR:	Oh, aren't you really Digger, I always thought you were pretty daft.
-*NOR:	She looks pretty. (        ) pretty. ((clock ticking))Interesting that Bill's going to go to the trouble of taking out   (        ) windows putting in  (.) 
-*CHR:	Well John was saying to me, that eh, Bill is such a perfectionist that although he's done good works already, he will ensure that every single corner of that house will be immaculate and exactly the way he wants it, but it'll take him three or four years to do it.
-*NOR:	Oh, I think it took us about seven years to get every room in our house   (        ) 
-*CHR:	Well, that, that was just to take down one reel of wall paper on.
-*NOR:	 ((laugh))  (        ) .
-*CHR:	I hate decorating.
-*NOR:	Do you?
-*CHR:	Yes, it's dreary.
-*NOR:	It's so nice  (        ) .When I'm old and retired, I still got  (        ) .
-*CHR:	You'll take up decorating will you?
-*NOR:	No I shall not take up decorating.Shall take up gardening.
-*CHR:	Oh will you, oh.
-*NOR:	People like gardening  (        ) .
-*CHR:	You mean your parents' house?
-*NOR:	No I mean when  (        ) .
-*CHR:	Oh right, yes.Sorry we didn't get any plants.
-*NOR:	Well there's no point, I, I had to stand there choosing in all that  (        ) .
-*CHR:	They didn't look very spectacular, I didn't know what the price was, but they certainly didn't look all that special.
-*NOR:	No the ones down the corner looked better at  (        ) , but I just didn't feel like standing there in the cold.
-*CHR:	Mm.
-*NOR:	 ((clock ticking))There's another place that's selling quite good looking plants and that's   (        ) White Horse Hill, erm, on the opposite side from the pub a bit further on towards  (        ) .
-*CHR:	Really?
-*NOR:	Yes, it's, it's a sort of newsagents come  (        ) , a few little shops in the parade
-*CHR:	Yes.
-*NOR:	on the right there, and they have a great rack full of plants standing there.
-*CHR:	There used to be a place who, place opposite on the same side as the   (.) the White Horse that eh, was selling plants, but   (        ) don't like that naked fence at all.
-*NOR:	Oh I don't mind it, if it's going to be eh  (.) 
-*CHR:	Bring back the ivy I say.
-*NOR:	No, no, look I must ring   (        ) here, we have a bit on to that behind the tree, you can let that happen  (        ) .
-*CHR:	Yes, yes, that, that will be if it's still there.
-*NOR:	Yes, but I don't think we should try and make this happen.
-*CHR:	No, O K that, that ought to be pinned down  (        ) .
-*NOR:	 (        ) 
-*CHR:	Ought to have a crack at that some time.
-*NOR:	You shouldn't do it at  (        ) .
-*CHR:	Oh no, I'm sure.
-*NOR:	Do it after.
+*CHR:	You're panting Digger, do you fancy a gin? eh? 
+*NOR:	Just a drop of water. 
+*CHR:	Dog, dog size gin. 
+*NOR:	 (  ) 
+*CHR:	A very mean one. 
+*NOR:	She's alright today she's had a bone, haven't you? Yes. 
+*CHR:	Did she bury the Bonio yesterday or she actually end up crunching it? 
+*NOR:	I bet she ate it, she's not as daft as she looks. 
+*CHR:	Oh, aren't you really Digger, I always thought you were pretty daft. 
+*NOR:	She looks pretty.  (  ) pretty.  ((clock ticking))Interesting that Bill's going to go to the trouble of taking out   (  ) windows putting in  (.)  
+*CHR:	Well John was saying to me, that eh, Bill is such a perfectionist that although he's done good works already, he will ensure that every single corner of that house will be immaculate and exactly the way he wants it, but it'll take him three or four years to do it. 
+*NOR:	Oh, I think it took us about seven years to get every room in our house    (  )   
+*CHR:	 Well, that, that was  just to take down one reel of wall paper on. 
+*NOR:	 ((laugh))  (  ) . 
+*CHR:	I hate decorating. 
+*NOR:	Do you? 
+*CHR:	Yes, it's dreary. 
+*NOR:	It's so nice  (  ) . When I'm old and retired, I still got  (  ) . 
+*CHR:	You'll take up decorating will you? 
+*NOR:	No I shall not take up decorating. Shall take up gardening. 
+*CHR:	Oh will you, oh. 
+*NOR:	People like gardening  (  ) . 
+*CHR:	You mean your parents' house? 
+*NOR:	No I mean when  (  ) . 
+*CHR:	Oh right, yes. Sorry we didn't get any plants. 
+*NOR:	Well there's no point, I, I had to stand there choosing in all that  (  ) . 
+*CHR:	They didn't look very spectacular, I didn't know what the price was, but they certainly didn't look all that special. 
+*NOR:	No the ones down the corner looked better at  (  ) , but I just didn't feel like standing there in the cold. 
+*CHR:	Mm. 
+*NOR:	 ((clock ticking))There's another place that's selling quite good looking plants and that's   (  ) White Horse Hill, erm, on the opposite side from the pub a bit further on towards  (  ) . 
+*CHR:	Really? 
+*NOR:	Yes, it's, it's a sort of newsagents come  (  ) , a few little shops in the parade 
+*CHR:	Yes. 
+*NOR:	on the right there, and they have a great rack full of plants standing there. 
+*CHR:	There used to be a place who, place opposite on the same side as the   (.) the White Horse that eh, was selling plants, but   (  ) don't like that naked fence at all. 
+*NOR:	Oh I don't mind it, if it's going to be eh  (.)  
+*CHR:	Bring back the ivy I say. 
+*NOR:	No, no, look I must ring   (  ) here, we have a bit on to that behind the tree, you can let that happen  (  ) . 
+*CHR:	Yes, yes, that, that will be if it's still there. 
+*NOR:	Yes, but I don't think we should try and make this happen. 
+*CHR:	No, O K that, that ought to be pinned down   (  ) . 
+*NOR:	  (  )  
+*CHR:	Ought to have a crack at that some time. 
+*NOR:	You shouldn't do it at  (  ) . 
+*CHR:	Oh no, I'm sure. 
+*NOR:	Do it after. 
 @End

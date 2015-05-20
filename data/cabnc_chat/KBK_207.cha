@@ -1,26 +1,26 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 Restaurant 
-@Situation:	Unspecified
-@Media: 021A-C0897X0029XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0029XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0029XX-ABZZP0.wav
 @Comment:	conversation #207 (Tape 002915)
-*NOR:	No no don't push any more on me!
-*CHR:	Sorry.
-*NOR:	Thank you.
-*CHR:	Hang on hang on.
-*NOR:	It's alright.Move it up to the edge of your tray.
-*CHR:	Oh bad luck.
-*NOR:	Do you want some more chicken?
-*CHR:	Thank you.Yes.
-*NOR:	 (        ) 
-*CHR:	I was holding it in such an awkward way that fingers eventually protested.
+*NOR:	No no don't push any more on me! 
+*CHR:	Sorry. 
+*NOR:	Thank you. 
+*CHR:	Hang on hang on. 
+*NOR:	It's alright. Move it up to the edge of your tray. 
+*CHR:	Oh bad luck. 
+*NOR:	Do you want some more chicken? 
+*CHR:	Thank you. Yes. 
+*NOR:	 (  ) 
+*CHR:	I was holding it in such an awkward way that fingers eventually protested. 
 @End

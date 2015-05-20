@@ -1,24 +1,24 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0024XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0024XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0024XX-ABZZP0.wav
 @Comment:	conversation #118 (Tape 002418)
-*NOR:	 ((music in background))Do you know if there's a soil in our garden   (        ) to come up?
-*CHR:	No.I'm afraid I don't.
-*NOR:	Buy a little kit can't you? (        ) shops    (.)  (        ) if it's worth growing   (        ) for them.
-*CHR:	 (        ) 
-*NOR:	It means that they  (        ) .
-*CHR:	Yes.Extraordinary colouring, extraordinary, now's the time one ought to be out and about, seeing that sort of thing.This is  (.) 
-*NOR:	Things like Saville Garden.
-*CHR:	this is the season, yes.Linda loved it at Saville Garden last weekend, weekend before. (        ) .
+*NOR:	 ((music in background))Do you know if there's a soil in our garden   (  ) to come up? 
+*CHR:	No. I'm afraid I don't. 
+*NOR:	Buy a little kit can't you? (  ) shops    (6.0)  (  ) if it's worth growing   (  ) for them. 
+*CHR:	 (  ) 
+*NOR:	It means that they  (  ) . 
+*CHR:	Yes. Extraordinary colouring, extraordinary, now's the time one ought to be out and about, seeing that sort of thing. This is  (.)  
+*NOR:	Things like Saville Garden. 
+*CHR:	this is the season, yes. Linda loved it at Saville Garden last weekend, weekend before. (  ) . 
 @End

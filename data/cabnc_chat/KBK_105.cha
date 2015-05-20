@@ -1,31 +1,31 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0024XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0024XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0024XX-AAZZP0.wav
 @Comment:	conversation #105 (Tape 002405)
-*CHR:	D'you think you could get some non brand cereals tomorrow?Please.
-*NOR:	I bought one today.
-*CHR:	Did you, thank you.
-*NOR:	 (        ) 
-*CHR:	I don't know, I haven't looked, let's see.
-*NOR:	 (        ) they're all quite  (        ) .
-*CHR:	Oh love, oh super, oh  ((laugh)) .
-*NOR:	 (        ) with me.
-*CHR:	It depends on the  (        ) . (        ) .
-*NOR:	 (        ) in there.
-*CHR:	Oh good. (        ) , can't imagine anything looking nicer than  (        ) .
-*NOR:	 (        ) 
-*CHR:	Shall I open a bottle?
-*NOR:	 (        ) 
-*CHR:	Fish wine?
+*CHR:	D'you think you could get some non brand cereals tomorrow? Please. 
+*NOR:	I bought one today. 
+*CHR:	Did you, thank you. 
+*NOR:	 (  ) 
+*CHR:	I don't know, I haven't looked, let's see. 
+*NOR:	 (  ) they're all quite  (  ) . 
+*CHR:	Oh love, oh super, oh  ((laugh)) . 
+*NOR:	 (  ) with me. 
+*CHR:	It depends on the  (  ) . (  ) . 
+*NOR:	 (  ) in there. 
+*CHR:	Oh good.  (  ) , can't imagine anything looking nicer than  (  ) . 
+*NOR:	 (  ) 
+*CHR:	Shall I open a bottle? 
+*NOR:	 (  ) 
+*CHR:	Fish wine? 
 @End

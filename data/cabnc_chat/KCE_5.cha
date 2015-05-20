@@ -1,261 +1,261 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-12:  
 @Location:	  home  
-@Situation:	  talking with friend  
-@Media: 021A-C0897X0294XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  talking with friend   
+@Media:	021A-C0897X0294XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , HEL Helena self, JOA Joanne friend
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|HEL|~16;| |f|Ag1| |student||PS0EB|
-@ID: eng|AudioBNC|JOA|~13;| |f|Ag0| |student|friend|PS0EF|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|HEL|16;|||||student||PS0EB|
+@ID:	eng|AudioBNC|JOA|13;|||||student|friend|PS0EF|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0294XX-ABZZP0.wav
 @Comment:	conversation #5 (Tape 029405)
-*HEL:	 ((music in background))How are you then chicken?
-*JOA:	Okey doke  (.) Groovy!
-*HEL:	 ((whistling))  (.) Seen Emma?
-*JOA:	Well, this morning.
-*HEL:	Oh!
-*JOA:	Is that alright?
-*HEL:	Yes.
-*JOA:	Oh! (.) Didn't walk home with me cos I had to go   (.) I was   (        ) and wa , was going to the other side. (.) How come the   (        ) had the school photo in it?
-*HEL:	Was it? (.)  [laughing] Mu  (.) mine   (        )  [] !
-*JOA:	I've got a bad habit of shouting like that today.Like   (.) in science today I goes oh for God!
-*HEL:	 [laughing]  (        ) ! (.) What  [] ?
-*JOA:	I got into
-*HEL:	I'll show you  (        ) 
-*JOA:	What?
-*HEL:	I'm only saying   (.) thank you.
-*JOA:	I know!
-*HEL:	This is really good!
+*HEL:	 ((music in background))How are you then chicken? 
+*JOA:	Okey doke  (.) Groovy! 
+*HEL:	 ((whistling))  (.) Seen Emma? 
+*JOA:	Well, this morning. 
+*HEL:	Oh! 
+*JOA:	Is that alright? 
+*HEL:	Yes. 
+*JOA:	Oh!  (.) Didn't walk home with me cos I had to go   (.) I was   (  ) and wa  , was going to the other side.  (.) How come the   (  ) had the school photo in it? 
+*HEL:	Was it?  (.)  ((laughing)) Mu   (.) mine   (  ) ! 
+*JOA:	I've got a bad habit of shouting like that today. Like   (.) in science today I goes oh for God! 
+*HEL:	 ((laughing))  (  ) !  (.) What ? 
+*JOA:	I got into 
+*HEL:	I'll show you  (  )  
+*JOA:	What? 
+*HEL:	I'm only saying   (.) thank you. 
+*JOA:	I know! 
+*HEL:	This is really good! 
 *JOA:	 ((cough)) 
-*HEL:	 [singing] Doo doo   (.) and I took the best  [] .Are we going up to York tonight?
-*JOA:	Yeah. (.)  (        ) 
-*HEL:	We've got, we're going, ooh   (        ) together now. (.) But as long as we've got   (.) can't enjoy myself, can't even have a fag, might as well have, not be going! ((laugh)) 
-*JOA:	Shouldn't have to worry cos   (.) she's 
-*HEL:	Shhh!
-*JOA:	 (        ) 
-*HEL:	shh, oh don't else a man might come in  (        ) .
-*JOA:	Like, oh yeah I know he means  (        ) !
-*HEL:	And dad goes, I'm   (.) I think I might only just have orange juice! (.) Besides  (        ) , I mean I can't have a fag!I goes, can't I just have two on a Friday?No you can't! (.)  (        ) , might as well not bother going then mighten I! (.) Cos    (.)  (        ) anyway! (.) Especially if you can't have a fag!
-*JOA:	Is she, you know, really bounced up about it?
-*HEL:	No, she just like, cos he's going down the club.
-*JOA:	From High School   (        ) kids, you know? (.) So I might   (.) make a trip to   (.)  (        ) .
-*HEL:	Mm.
-*JOA:	He's just too daft, cos he won't even let her have two!
+*HEL:	 ((singing)) Doo doo   (.) and I took the best . Are we going up to York tonight? 
+*JOA:	Yeah. (.)  (  )  
+*HEL:	We've got, we're going, ooh   (  ) together now.  (.) But as long as we've got   (.) can't enjoy myself, can't even have a fag, might as well have, not be going! ((laugh))  
+*JOA:	Shouldn't have to worry cos   (.)  she's   
+*HEL:	 Shhh! 
+*JOA:	 (  ) 
+*HEL:	shh, oh don't else a man might come in  (  ) . 
+*JOA:	Like, oh yeah I know he means  (  ) ! 
+*HEL:	And dad goes, I'm   (.) I think I might only just have orange juice!  (.) Besides  (  ) , I mean I can't have a fag! I goes, can't I just have two on a Friday? No you can't! (.)  (  ) , might as well not bother going then mighten I!  (.) Cos    (.)  (  ) anyway!  (.) Especially if you can't have a fag! 
+*JOA:	Is she, you know, really bounced up about it? 
+*HEL:	No, she just like, cos he's going down the club. 
+*JOA:	From High School   (  ) kids, you know?  (.) So I might   (.) make a trip to   (.)  (  ) . 
+*HEL:	 Mm. 
+*JOA:	 He's  just too daft, cos he won't even let her have two! 
 *HEL:	 ((laugh)) 
-*JOA:	She hasn't had any since Tuesday!
-*HEL:	 (        ) 
-*JOA:	No, she hasn't had any since Tuesday.
-*HEL:	She's doing well then?
-*JOA:	Mm. (.) She did be , better than she did.
-*HEL:	Yeah, but dad'll  (        ) .
-*JOA:	Ah!
-*HEL:	 (        ) ah that's it, run back and tell everybody, run run!
-*JOA:	Ah, like she always does! (.)  (        ) 
-*HEL:	 (        ) 
-*JOA:	Yeah well   (.) I don't want Gary , she's  (        ) .
-*HEL:	She must be!
-*JOA:	Instead of going like quarter past, goes oh   (.) go down, let's get boring now, yeah yeah!
+*JOA:	She hasn't had any since Tuesday! 
+*HEL:	 (  ) 
+*JOA:	No, she hasn't had any since Tuesday. 
+*HEL:	She's doing well then? 
+*JOA:	Mm.  (.) She did be  , better than she did. 
+*HEL:	Yeah, but dad'll  (  ) . 
+*JOA:	Ah! 
+*HEL:	 (  ) ah that's it, run back and tell everybody, run run! 
+*JOA:	Ah, like she always does! (.)   (  )   
+*HEL:	  (  )  
+*JOA:	Yeah well   (.) I don't want Gary  , she's  (  ) . 
+*HEL:	She must be! 
+*JOA:	Instead of going like quarter past, goes oh   (.) go down, let's get boring now, yeah yeah! 
 *HEL:	 ((laugh)) 
-*JOA:	I said, oh go a bit later then, I goes   (        ) cos I'll make it quarter past seven I'm not sitting round for half an hour, not like kiddos 
-*HEL:	Oh dear! (.) Cos   (.) cos my mum and dad won't be able to get that cos my dad's working.
-*JOA:	Well the outing's in that area the next day.
-*HEL:	Ha! (.)  [singing]  (        )  (.) stay, stay, stay with ah haaa  [] ! (.) Oh, had an exciting date at school today then?
-*JOA:	No. (.)  (        ) I rushed last night, I did   (.) two of my geographies   (.) I did one of them this dinner time, and other he didn't ask for my book in! (.) Couldn't believe it!
-*HEL:	Ha!
-*JOA:	Course, that was   (        ) didn't want to come and she said oh they asked for it in so I just pretended I didn't   (.) I'd handed mine in and didn't say anything like, you know   (.) in ca  (.)  (        ) like, cos I had to go and get them yesterday. (.)  (        ) . (.) Flipping Johnnie  is coming tomorrow! (.) And his laugh!
-*HEL:	Tomorrow? (.) Thought he was coming Sunday?
-*JOA:	No, tomorrow. (.) Between two and four  (        ) , cos I've got and do the papers tomorrow afternoon, they don't come till four, I do the papers about half   (.) four to half   (.) go out, you know quarter past five  (.) 
-*HEL:	Still having over to me 
-*JOA:	I'm going out 
-*HEL:	tomorrow night though aren't you?
-*JOA:	Yeah, I'm coming down yours about half seven.
-*HEL:	So you won't see him anyway.
-*JOA:	Maybe I'll come nearer two.
-*HEL:	Mm.
-*JOA:	And then it'll look as if I've hardly been  (        ) .
-*HEL:	 (        ) about half seven  (        ) .
-*JOA:	 [whispering] Is she pissed off  [] ?
-*HEL:	We've gotta be going fairly early anyway.
-*JOA:	She goes to me, oh how you getting to    (        )  (.) well I was hoping like, you'd take me, she goes, oh yes?That's a surprise!And I goes will you?He goes yeah alright then. (.) Gonna take us down The Square. (.) Last night we were shopping, I wanted to go and get something cos I said to her right   (        ) can you  (        ) ?Can I spent all my money!
-*HEL:	Yeah.
-*JOA:	And he goes   (.) yeah alright then.What's wrong?I goes, can you go and get and some beers, yeah   (.) cos otherwise, I should, you know you said lend us a pound, he goes yeah, I goes well you can yo  (.) he goes not a pound, one pound four P!I goes, well have  (        ) . (.) He goes   (.) yeah alright then. (.) So he got me last nights, we're gonna have to go tomorrow   (.) so we'll have to go tonight now, gotta tell  (        ) !
-*HEL:	Speak up a bit!
-*JOA:	What for?
-*HEL:	Gotta get near the microphone! (.)  ((laugh)) 
-*JOA:	Oh, heard about that! (.) You're not putting that on!
-*HEL:	Why not? (.) Joe, don't switch it off!
-*JOA:	Yeah, well it's embarrassing!
-*HEL:	No, it isn't!Should of heard what me and Emma were talking about last night  (        ) !
-*JOA:	What?
-*HEL:	 (        ) .
-*JOA:	Anyway
-*HEL:	And everything else! (.)  ((laugh)) 
-*JOA:	Is that all it is jus , that's how he give you?
-*HEL:	Yeah.
-*JOA:	Emma wants one.
-*HEL:	And all the tapes, and all the batteries and everything.
-*JOA:	Yeah. (.) Anyway   (.) so we're adding up
-*HEL:	Just don't think about it, I've got used to it now   (.) you know, so I'm not shy.
-*JOA:	 (        )  (.) so   (.) you know   (.) he got something so he went, he went, he went, he went   (.) I think you give me, he goes, not one pound four, it's one pound   (.) it's gone up innit?I said oh yeah!
-*HEL:	One thirteen.
-*JOA:	So   (.) no! (.) They're not! (.) It was one   (.) it was one   (.) it was one eighteen, with the matches and everything   (.) so   (.) the matches 
-*HEL:	Where from?
-*JOA:	the matches are, (        ) , the matches are eight P, they always have been.
-*HEL:	Oh yeah.
-*JOA:	And then   (.) sti  (.) they've gone up to one ten now for  (        ) .
-*HEL:	Mm!
-*JOA:	So now   (.) he'll get all the drink tomorrow. (.)  (        ) are a bit worse   (.) he said   (.) you know   (.) get some women.
-*HEL:	I don't know whether Clare's coming or not.
-*JOA:	Oh, why not?
-*HEL:	Because   (.) well she's got a load of work to do, she's such a swot it's unbelievable! (.) And her boyfriend's down   (.) and he's staying till Sunday.
-*JOA:	Well why can't he come round here?What else are they gonna do?
-*HEL:	I dunno   (.) but, she's gonna phone me up anyway. (.) If she's coming, she's coming, if she's not, she's not!
-*JOA:	Mm. (.) Oh good!
-*HEL:	But I'm not , I'm not bothered either way really!
-*JOA:	Yeah, I'm going to Pat's   (        ) on Tuesday.
-*HEL:	What for?
-*JOA:	Well,Bozz at school had some free tickets   (.) the music's usually twot when you're given free tickets!On er, this something of Luxembourg, I dunno,so 
-*HEL:	Oh!Duke of Luxembourg.
-*JOA:	Some crappy thing, you know!
-*HEL:	About  (        ) .
-*JOA:	No. (.)  (        ) 
-*HEL:	Some crappy music thing!
-*JOA:	Yeah. (.)  (        ) .
+*JOA:	I said, oh go a bit later then, I goes   (  ) cos I'll make it quarter past seven I'm not sitting round for half an hour, not like kiddos  
+*HEL:	Oh dear!  (.) Cos   (.) cos my mum and dad won't be able to get that cos my dad's working. 
+*JOA:	Well the outing's in that area the next day. 
+*HEL:	Ha! (.)  ((singing))  (  )  (.) stay, stay, stay with ah haaa !  (.) Oh, had an exciting date at school today then? 
+*JOA:	No.  (.)  (  ) I rushed last night, I did   (.) two of my geographies   (.) I did one of them this dinner time, and other he didn't ask for my book in!  (.) Couldn't believe it! 
+*HEL:	Ha! 
+*JOA:	Course, that was   (  ) didn't want to come and she said oh they asked for it in so I just pretended I didn't   (.) I'd handed mine in and didn't say anything like, you know   (.) in ca   (.)  (  ) like, cos I had to go and get them yesterday.  (.)  (  ) . (.) Flipping Johnnie   is coming tomorrow!  (.) And his laugh! 
+*HEL:	Tomorrow?  (.) Thought he was coming Sunday? 
+*JOA:	No, tomorrow.  (.) Between two and four  (  ) , cos I've got and do the papers tomorrow afternoon, they don't come till four, I do the papers about half   (.) four to half   (.) go out, you know quarter past five  (.)  
+*HEL:	Still  having over to me   
+*JOA:	 I'm going out   
+*HEL:	tomorrow night though aren't you? 
+*JOA:	Yeah, I'm coming down yours about half seven. 
+*HEL:	So you won't see him anyway. 
+*JOA:	Maybe I'll come nearer two. 
+*HEL:	Mm. 
+*JOA:	And then it'll look as if I've hardly been  (  ) . 
+*HEL:	 (  ) about half seven  (  ) . 
+*JOA:	 ((whispering)) Is she pissed off ? 
+*HEL:	We've gotta be going fairly early anyway. 
+*JOA:	She goes to me, oh how you getting to    (  )  (.) well I was hoping like, you'd take me, she goes, oh yes? That's a surprise! And I goes will you? He goes yeah alright then.  (.) Gonna take us down The Square.  (.) Last night we were shopping, I wanted to go and get something cos I said to her right   (  ) can you  (  ) ? Can I spent all my money! 
+*HEL:	Yeah. 
+*JOA:	And he goes   (.) yeah alright then. What's wrong? I goes, can you go and get and some beers, yeah   (.) cos otherwise, I should, you know you said lend us a pound, he goes yeah, I goes well you can yo   (.) he goes not a pound, one pound four P! I goes, well have  (  ) .  (.) He goes   (.) yeah alright then.  (.) So he got me last nights, we're gonna have to go tomorrow   (.) so we'll have to go tonight now, gotta tell  (  ) ! 
+*HEL:	Speak up a bit! 
+*JOA:	What for? 
+*HEL:	Gotta get near the microphone! (.)  ((laugh))  
+*JOA:	Oh, heard about that!  (.) You're not putting that on! 
+*HEL:	Why not?  (.) Joe, don't switch it off! 
+*JOA:	Yeah, well it's embarrassing! 
+*HEL:	No, it isn't! Should of heard what me and Emma were talking about last night   (  ) ! 
+*JOA:	 What? 
+*HEL:	 (  ) . 
+*JOA:	Anyway 
+*HEL:	And everything else! (.)  ((laugh))  
+*JOA:	Is that all it is jus  , that's how he give you? 
+*HEL:	Yeah. 
+*JOA:	 Emma wants one. 
+*HEL:	 And all the  tapes, and all the batteries and everything. 
+*JOA:	Yeah.  (.) Anyway   (.) so we're adding up 
+*HEL:	Just don't think about it, I've got used to it now   (.) you know, so I'm not shy. 
+*JOA:	 (  )  (.) so   (.) you know   (.) he got something so he went, he went, he went, he went   (.) I think you give me, he goes, not one pound four, it's one pound   (.) it's gone up innit? I said oh yeah! 
+*HEL:	One  thirteen. 
+*JOA:	 So    (.) no!  (.) They're not!  (.) It was one   (.) it was one   (.) it was one eighteen, with the matches and everything   (.) so   (.)  the matches   
+*HEL:	 Where from? 
+*JOA:	the matches are, (  ) , the matches are eight P, they always have been. 
+*HEL:	Oh yeah. 
+*JOA:	And then   (.) sti   (.) they've gone up to one ten now for  (  ) . 
+*HEL:	Mm! 
+*JOA:	So now   (.) he'll get all the drink tomorrow.  (.)  (  ) are a bit worse   (.) he said   (.) you know   (.) get some women. 
+*HEL:	I don't know whether Clare's coming or not. 
+*JOA:	Oh, why not? 
+*HEL:	Because   (.) well she's got a load of work to do, she's such a swot it's unbelievable!  (.) And her boyfriend's down   (.) and he's staying till Sunday. 
+*JOA:	Well why can't he come round here? What else are they gonna do? 
+*HEL:	I dunno   (.) but, she's gonna phone me up anyway.  (.) If she's coming, she's coming, if she's not, she's not! 
+*JOA:	Mm.  (.)  Oh good! 
+*HEL:	 But I'm not  , I'm not bothered either way really! 
+*JOA:	Yeah, I'm going to Pat's   (  ) on Tuesday. 
+*HEL:	What for? 
+*JOA:	Well,Bozz at school had some free tickets   (.) the music's usually twot when you're given free tickets! On er, this something of Luxembourg, I dunno,so    
+*HEL:	 Oh!  Duke of Luxembourg. 
+*JOA:	Some crappy thing, you know! 
+*HEL:	About  (  ) . 
+*JOA:	No. (.)   (  )   
+*HEL:	 Some crappy music  thing! 
+*JOA:	Yeah. (.)  (  ) . 
 *HEL:	 ((laugh)) 
-*JOA:	Anyway, so
-*HEL:	I think our
-*JOA:	well 
-*HEL:	drama teacher might be in that!
-*JOA:	Well, he's given me a ticket   (.) and he's gonna give  (        ) , loads of us going, there's about ten of us! (.) So we'll go, gonna go there for about seven, it starts at half seven   (.) come home that night. (.) Bit of doss you know!
-*HEL:	Oh!
-*JOA:	Well we're get 
-*HEL:	You got 
-*JOA:	up town about seven   (.) I'll see if Bozz's mum can take us   (.) and Cathy's dad can bring us back   (.) cos dad's at work. (.) You know, we can walk round town a bit, you know and   (.) ahem!Yeah, (        ) that's  (        ) , have another 
-*HEL:	Yes, (        ) , yes, that's right. (.) Don't tear my shirt, oh   [laughing] sorry  [] !
-*JOA:	I like that.
-*HEL:	I get a real   (.) erm   (.) I've gotta take the dog out.
-*JOA:	Right. (.) Look at my cold sores!
-*HEL:	Ta  (.) They're not, they're not too bad actually.
-*JOA:	They are!They're massive!I've stuck a load of perfume on them!
+*JOA:	Anyway, so 
+*HEL:	I think our 
+*JOA:	 well   
+*HEL:	 drama  teacher might be in that! 
+*JOA:	Well, he's given me a ticket   (.) and he's gonna give  (  ) , loads of us going, there's about ten of us!  (.) So we'll go, gonna go there for about seven, it starts at half seven   (.) come home that night.  (.) Bit of doss you know! 
+*HEL:	Oh! 
+*JOA:	Well  we're get   
+*HEL:	 You got   
+*JOA:	up town about seven   (.) I'll see if Bozz's mum can take us   (.) and Cathy's dad can bring us back   (.) cos dad's at work.  (.) You know, we can walk round town a bit, you know and   (.) ahem! Yeah, (  )  that's  (  ) , have another   
+*HEL:	 Yes, (  )  , yes, that's right.  (.) Don't tear my shirt, oh   ((laughing)) sorry ! 
+*JOA:	 I like that. 
+*HEL:	 I get a real    (.) erm   (.) I've gotta take the dog out. 
+*JOA:	Right.  (.) Look at my cold sores! 
+*HEL:	Ta  (.) They're not, they're not too bad actually. 
+*JOA:	They are! They're massive! I've stuck a load of perfume on them! 
 *HEL:	 ((laugh)) 
-*JOA:	I've run out of bloody cold sore lotion haven't I?
-*HEL:	 (        ) 
-*JOA:	What's this all in aid of anyway?
-*HEL:	It's a survey.
-*JOA:	You taking  (        ) ? (.) You're not taking it to my house!
-*HEL:	Why not?
-*JOA:	No way!
-*HEL:	Why?
-*JOA:	No way!
-*HEL:	Why not?
-*JOA:	No way!
-*HEL:	Why?
-*JOA:	Cos  (        ) . (.) No way you're taking it to my house!I'll tell you to get knotted!It's my house, you've got no permission! (.) Did you 
-*HEL:	Well we're not gonna be doing anything!
-*JOA:	Well like, upstairs!
-*HEL:	Well I'm not gonna take it round, why? (.) It's only gonna downstairs in the living room!
-*JOA:	 (        )  (.)  [singing]  (        )  [] .
-*HEL:	Right   (.) I'll, I'll ju ju I'll just pretend I'm listening to it. (.) I'll take the things with me. (.) I'll just pretend I'm listening to it   (.) and I'll just put it on the side and just the switch the thing on they'll never know the difference.
-*JOA:	The answer is   (.) So   (.) is he paying you? ((laugh)) 
-*HEL:	About twenty five pound.
-*JOA:	Do you? (.) You kidding me or what?
-*HEL:	No.
-*JOA:	Why didn't he come to my house for? (        ) 
-*HEL:	 ((laugh))  (.) Oh!
-*JOA:	Honestly?
-*HEL:	Yeah!
-*JOA:	And how long you gotta do it for?
-*HEL:	A week. (.) Barry's so mad!
-*JOA:	How many tapes you got?
-*HEL:	Twenty.
-*JOA:	No way, man!I wanna do it!Tell him to come to my house next time! (.) Twenty five quid for doing that! (.) Trust you to in!
-*HEL:	You don't have to fill all the tapes either!
-*JOA:	Trust you lot to come up  (        ) .
-*HEL:	He just, he just wants to go into my house.
-*JOA:	Trust you to be number one!
+*JOA:	I've run out of bloody cold sore lotion haven't I? 
+*HEL:	 (  ) 
+*JOA:	What's this all in aid of anyway? 
+*HEL:	It's a survey. 
+*JOA:	You taking  (  ) ?  (.) You're not taking it to my house! 
+*HEL:	Why not? 
+*JOA:	No way! 
+*HEL:	Why? 
+*JOA:	No way! 
+*HEL:	Why not? 
+*JOA:	No way! 
+*HEL:	Why? 
+*JOA:	Cos  (  ) .  (.) No way you're taking it to my house! I'll tell you to get knotted! It's my house, you've got no permission!  (9.0)  Did you   
+*HEL:	 Well we're  not gonna be doing anything! 
+*JOA:	Well like, upstairs! 
+*HEL:	Well I'm not gonna take it round, why?  (.) It's only gonna downstairs in the living room! 
+*JOA:	 (  )  (.)  ((singing))  (  ) . 
+*HEL:	Right   (.) I'll, I'll ju  ju  I'll just pretend I'm listening to it.  (.) I'll take the things with me.  (.) I'll just pretend I'm listening to it   (.) and I'll just put it on the side and just the switch the thing on they'll never know the difference. 
+*JOA:	The answer is   (.) So   (.) is he paying you? ((laugh))  
+*HEL:	About twenty five pound. 
+*JOA:	Do you?  (.) You kidding me or  what? 
+*HEL:	 No. 
+*JOA:	Why didn't he come to my house for? (  )   
+*HEL:	  ((laugh))   (.) Oh! 
+*JOA:	Honestly? 
+*HEL:	Yeah! 
+*JOA:	And how long you gotta do it for? 
+*HEL:	A week.  (.) Barry's so mad! 
+*JOA:	How many tapes you got? 
+*HEL:	Twenty. 
+*JOA:	No way, man! I wanna do it! Tell him to come to my house next time!  (.) Twenty five quid for doing that!  (.) Trust you to in! 
+*HEL:	You don't have to fill all the tapes either! 
+*JOA:	Trust you lot  to come up  (  ) . 
+*HEL:	 He just, he just wants to go into my house. 
+*JOA:	Trust you to be number one! 
 *HEL:	 ((laugh)) 
-*JOA:	You cow!
-*HEL:	Aha!
-*JOA:	That isn't fair! (.) I want money, I've, you re get blooming all that money a   (.) blooming week anyway, don't you!
-*HEL:	It's only a voucher from Marks and Sparks.
-*JOA:	Oh.
-*HEL:	Twenty five pounds worth.
-*JOA:	What you gonna get at?
-*HEL:	Dunno, [laughing] something for my mum  [] .
-*JOA:	Just for starters I should think. (.) Na , ahh!Can't talk now I gotta stinging armpits! (.) What you at er   (.) you know that razor I've got?Well I thought, well I can't be bothered to get  (        ) , so I got it and I went chee chee!Yeah, I sprayed my arms yesterday and I went
+*JOA:	You cow! 
+*HEL:	Aha! 
+*JOA:	That isn't fair!  (.) I want money, I've, you re  get blooming all that money a   (.) blooming week anyway, don't you! 
+*HEL:	It's only a voucher from Marks and Sparks. 
+*JOA:	Oh. 
+*HEL:	Twenty five pounds worth. 
+*JOA:	What you gonna get at? 
+*HEL:	Dunno, ((laughing)) something for my mum . 
+*JOA:	Just for starters I should think.  (.) Na  , ahh! Can't talk now I gotta stinging armpits!  (.) What you at er   (.) you know that razor I've got? Well I thought, well I can't be bothered to get  (  ) , so I got it and I went chee chee! Yeah, I sprayed my arms yesterday and I went 
 *HEL:	 ((laugh)) 
-*JOA:	takes all the ski , like top layer of skin off 
-*HEL:	Yeah.
-*JOA:	I was thinking, God, did it sting this morning?Well, I'm kee , keep forgetting every so often and 
-*HEL:	Mm.
-*JOA:	like   (.) it stings a bit.
-*HEL:	You ought to get like erm   (.) Soft and Gentle   (.) it doesn't sting.
-*JOA:	It's not that though, it's cos you're not supposed to use it under your eyes, it's a flipping face shaver!
-*HEL:	Oh, no, but I mean, it don't make any difference!
-*JOA:	Yeah 
-*HEL:	You 
-*JOA:	but I like that
-*HEL:	but if you use that Soft and Gentle it doesn't hurt anyway.
-*JOA:	Do you know what Shrimpy's decided to buy me for my birthday?
-*HEL:	No.
-*JOA:	Immac  (.) to do my back of my neck! (.) I said, you do it, you don't, no way are you getting whisky from France!
-*HEL:	 [laughing] Oh  [] !
-*JOA:	Wasn't me , best impressed!
+*JOA:	takes all the ski  , like top layer of  skin off   
+*HEL:	 Yeah. 
+*JOA:	I was thinking, God, did it sting this morning? Well, I'm kee  , keep forgetting every so often and   
+*HEL:	 Mm. 
+*JOA:	like   (.) it stings a bit. 
+*HEL:	You ought to get like erm   (.) Soft and Gentle   (.) it doesn't sting. 
+*JOA:	It's not that though, it's cos you're not supposed to use it under your eyes, it's a flipping face shaver! 
+*HEL:	Oh, no, but I mean, it don't make any difference! 
+*JOA:	 Yeah   
+*HEL:	 You   
+*JOA:	but I like that 
+*HEL:	but if you use that Soft and Gentle it doesn't hurt anyway. 
+*JOA:	Do you know what Shrimpy's decided to buy me for my birthday? 
+*HEL:	No. 
+*JOA:	Immac  (.) to do my back of my neck!  (.) I said, you do it, you don't, no way are you getting whisky from France! 
+*HEL:	 ((laughing)) Oh ! 
+*JOA:	Wasn't me  , best impressed! 
 *HEL:	 ((laugh)) 
-*JOA:	So it is funny! (.) It wasn't funny! (.) And all he kept doing was twisting my arm last night, and my leg   (.) bummer!
-*HEL:	 [sighing] Ahhh  [] !
-*JOA:	No don't wanna put my name down!
-*HEL:	You've gotta have name, goes on the tape, you big girl!
-*JOA:	I thought she said it was erm   (.) Emma said that it was
-*HEL:	It's anonymous.
-*JOA:	 [shouting] Well who's in that!That's not very anonymous is it  [] ?
-*HEL:	Yeah, but thi  (.) this, right just gets shoved with the tapes. (.) Like, they don't know   (.) who it is   (.) i it's not, after they've taken it away it's no connection to me whatsoever, they don't where I'm 
-*JOA:	Do that.
-*HEL:	from at all.
-*JOA:	Yeah, but you've got my name down there!
-*HEL:	What, what shall I put your accent, as Redditch?
-*JOA:	Mm. (.) You put Redditch for whoever that was. (.) Emma?
-*HEL:	Yeah.
-*JOA:	Who else put in, what you? (.) What's that say at the bottom bit?
-*HEL:	Friend   (.) no  (        ) .
-*JOA:	I'm not , put no friend of yours in that box!
-*HEL:	 (        )  (.) Hello darling, (        ) 
-*JOA:	Is that tape six?I'm on tape six am I?
-*HEL:	No. (.) No, you're on, you're on   (.) that's only tape one side B.
-*JOA:	Oh!
-*HEL:	That's all I've got onto so far! (.) You're, you're the 
-*JOA:	 (        ) 
-*HEL:	sixth person on the side.
-*JOA:	 (        ) 
-*HEL:	Yeah, well you weren't here were you!
-*JOA:	I don't wanna do it anyway!
-*HEL:	Me and Emma used up a whole side yesterday just us two talking!
-*JOA:	I thought you weren't coming out last night?
-*HEL:	I wasn't!She came round here!
-*JOA:	Tut  [sighing] ha  [] ! (.) Here's me, farting around with bloody   (.) Shrimpy and Andrew!
-*HEL:	 [singing] Da doo doo doo  [] .
-*JOA:	Ah, I was so angry  (        ) , I was, he had my arm right, I forced, pushed him back it was, like, behind my back   (.) so I lent back thinking oh he'll give me his arms then   (.) anyway old flipping hag came in didn't she! (.) And I went, ha ha, just turn over the cassette! (.) She called me an old snout , flipping thing is right, like   (.) thing like the noise that I've
-*HEL:	Yeah.
-*JOA:	I was going   (.) making like the sound was down he's singing this song and then he went   (.) and Pam comes in, and she, I mean how comes then he knows her? (.) God, who is it the   (.) the   (.) what's it, paediatric or whatever it was?Somebody like that, you know some doctor  (        ) 
+*JOA:	So it is funny!  (.) It wasn't funny!  (.) And all he kept doing was twisting my arm last night, and my leg   (.) bummer! 
+*HEL:	 ((sighing)) Ahhh ! 
+*JOA:	No don't wanna put my name down! 
+*HEL:	You've gotta have name, goes on the tape, you big girl! 
+*JOA:	I thought she said it was erm   (.) Emma said that it was 
+*HEL:	It's anonymous. 
+*JOA:	 ((shouting)) Well who's in that! That's not very anonymous is it ? 
+*HEL:	Yeah, but thi   (.) this, right just gets shoved with the tapes.  (.) Like, they don't know   (.) who it is   (.) i  it's not, after they've taken it away it's no connection to me whatsoever, they don't  where I'm   
+*JOA:	 Do that. 
+*HEL:	from at all. 
+*JOA:	Yeah, but you've got my name down there! 
+*HEL:	What, what shall I put your accent, as Redditch? 
+*JOA:	Mm.  (.) You put Redditch for whoever that was.  (.) Emma? 
+*HEL:	Yeah. 
+*JOA:	Who else put in, what you?  (.) What's that say at the bottom bit? 
+*HEL:	Friend   (.)  no  (  ) . 
+*JOA:	 I'm not  , put no friend of yours in that box! 
+*HEL:	 (  )  (.) Hello darling, (  )   
+*JOA:	 Is that tape six?  I'm on tape six am I? 
+*HEL:	No.  (.) No, you're on, you're on   (.) that's only tape one side B. 
+*JOA:	Oh! 
+*HEL:	That's all I've got onto so far!  (.)  You're, you're the   
+*JOA:	  (  )  
+*HEL:	sixth person on the side. 
+*JOA:	 (  ) 
+*HEL:	Yeah, well you weren't here were you! 
+*JOA:	I don't wanna do it anyway! 
+*HEL:	Me and Emma used up a whole side yesterday just us two talking! 
+*JOA:	I thought you weren't coming out last night? 
+*HEL:	I wasn't! She came round here! 
+*JOA:	Tut  ((sighing)) ha !  (.) Here's me, farting around with bloody   (.) Shrimpy and Andrew! 
+*HEL:	 ((singing)) Da doo doo doo . 
+*JOA:	Ah, I was so angry  (  ) , I was, he had my arm right, I forced, pushed him back it was, like, behind my back   (.) so I lent back thinking oh he'll give me his arms then   (.) anyway old flipping hag came in didn't she!  (.) And I went, ha ha, just turn over the cassette!  (.) She called me an old snout , flipping thing is right, like   (.) thing like the noise that I've 
+*HEL:	Yeah. 
+*JOA:	I was going   (.) making like the sound was down he's singing this song and then he went   (.) and Pam comes in, and she, I mean how comes then he knows her?  (.) God, who is it the   (.) the   (.) what's it, paediatric or whatever it was? Somebody like that, you know some doctor  (  )  
 *HEL:	 ((laugh)) 
-*JOA:	Is at the door!Who the bloody hell was that she goes? (        )  (.) I went out, come back in to ask    (        )  (.) and there was Shrimpy, me and Andrew, me and Andrew come in   (.) I left the door open   (.) Cav goes   (.) shut the door!I said, oh is Pat coming in?He said, I don't bloody care! (.) I went ha ha! (.) You stupid cow! (.) I really ache!
-*HEL:	Go on!
-*JOA:	I hate 
-*HEL:	Right.
-*JOA:	Pam!I'm scared now!
-*HEL:	Is it dark out!
-*JOA:	Yeah.
-*HEL:	Good!
-*JOA:	Right, do you wanna ah, walk go and take the dog?
-*HEL:	It's not my turn, it's David's 
-*JOA:	To the shops.
-*HEL:	turn! (.) Yeah.
-*JOA:	Why can't David do it!
-*HEL:	Because, because, I'm going out!Oh please Helena will you take him for me? (.) Oh, he's such a waster, he's unbelievable! (.) Come on then, I'll take it outside with me.
-*JOA:	 [laughing] Give it to Sam in his mouth  [] !
+*JOA:	Is at the door! Who the bloody hell was that she goes?  (  )  (.) I went out, come back in to ask    (  )  (.) and there was Shrimpy, me and Andrew, me and Andrew come in   (.) I left the door open   (.) Cav goes   (.) shut the door! I said, oh is Pat coming in? He said, I don't bloody care!  (.) I went ha ha!  (.) You stupid cow!  (.) I really  ache! 
+*HEL:	 Go on! 
+*JOA:	I  hate   
+*HEL:	 Right. 
+*JOA:	Pam! I'm scared now! 
+*HEL:	Is it dark out! 
+*JOA:	Yeah. 
+*HEL:	Good! 
+*JOA:	Right, do you wanna ah, walk go and take the dog? 
+*HEL:	It's not my turn, it's David's   
+*JOA:	 To the shops. 
+*HEL:	turn!  (.)  Yeah. 
+*JOA:	 Why  can't David do it! 
+*HEL:	Because, because, I'm going out! Oh please Helena will you take him for me?  (.) Oh, he's such a waster, he's unbelievable!  (.) Come on then, I'll take it outside with me. 
+*JOA:	 ((laughing)) Give it to Sam in his mouth ! 
 @End

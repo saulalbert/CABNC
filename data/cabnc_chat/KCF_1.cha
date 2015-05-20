@@ -1,30 +1,30 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-13:  
 @Location:	 home 
-@Situation:	 cooking dinner 
-@Media: 021A-C0897X0280XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 cooking dinner  
+@Media:	021A-C0897X0280XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , HER Herbert husband, IRI Iris self
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|HER|~56;| |m|Ag4| |landscape gardener|husband|PS1EM|
-@ID: eng|AudioBNC|IRI|~54;| |f|Ag4| |home care assistant||PS1EN|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|HER|56;|||||landscape gardener|husband|PS1EM|
+@ID:	eng|AudioBNC|IRI|54;|||||home care assistant||PS1EN|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0280XX-AAZZP0.wav
 @Comment:	conversation #1 (Tape 028001)
-*HER:	 [singing] Do you wanna dance all through the night?La de day de day de tonight oh baby do you wanna dance? []  ((laugh))  (.) Yeah he   (        ) from the committee. (.) 
-*IRI:	You wanna watch out or he'll be having you down at the  (        ) . (.) Stuart'll be having you as his star turn. (.) Where's your dad gone?
-*UNK:	Mm?
-*IRI:	Where's your dad gone? (.) Eh? (.) 
-*HER:	Oh  (        ) .
-*IRI:	She's acting stupid you know.
-*HER:	Are we gonna have a listen to Coronation Street?
-*IRI:	Oh   (.) are you trying to shove me mother out again Herbert?Every time you walk in she 
-*HER:	Well 
-*IRI:	walks out.
-*HER:	well we can all go and listen to Coronation Street. (.) 
-*IRI:	Alright!
-*HER:	Well you, cos you haven't seen it have you Alison? (.) You didn't er that   (        ) did you?
+*HER:	 ((singing)) Do you wanna dance all through the night? La de day de day de tonight oh baby do you wanna dance?  ((laugh))  (.) Yeah he   (  ) from the committee. (.)  
+*IRI:	You wanna watch out or he'll be having you down at the  (  ) .  (.) Stuart'll be having you as his star turn.  (32.0) Where's your dad gone? 
+*UNK:	Mm? 
+*IRI:	Where's your dad gone?  (.) Eh? (.)  
+*HER:	Oh  (  ) . 
+*IRI:	She's acting stupid you know. 
+*HER:	Are we gonna have a listen to Coronation Street? 
+*IRI:	Oh   (.) are you trying to shove me mother out again Herbert? Every time you walk in  she   
+*HER:	 Well   
+*IRI:	walks out. 
+*HER:	well we can all go and listen to Coronation Street. (.)  
+*IRI:	Alright! 
+*HER:	Well you, cos you haven't seen it have you Alison?  (.) You didn't er that   (  ) did you? 
 @End

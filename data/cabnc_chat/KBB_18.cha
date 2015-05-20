@@ -1,21 +1,21 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-01-11:  
 @Location:	  home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0493XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0493XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	ART Arthur self, EVE Evelyn wife
-@ID: eng|AudioBNC|ART|~82;| |m|Ag5| |retired (precision engineer)||PS03S|
-@ID: eng|AudioBNC|EVE|~75;| |f|Ag5| |retired|wife|PS03T|
+@Options:	CA
+@ID:	eng|AudioBNC|ART|82;|||||retired (precision engineer)||PS03S|
+@ID:	eng|AudioBNC|EVE|75;|||||retired|wife|PS03T|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0493XX-AAZZP0.wav
 @Comment:	conversation #18 (Tape 049304)
-*UNK:	Arthur.
-*ART:	Yeah?
-*EVE:	Can you come and   (.) turn the pepper mill, I can't, it   (.) with this arm I can't turn it.About six times.
-*ART:	What, on there?
-*EVE:	 (        ) 
+*UNK:	Arthur. 
+*ART:	Yeah? 
+*EVE:	Can you come and   (.) turn the pepper mill, I can't, it   (.) with this arm I can't turn it. About six times. 
+*ART:	What, on there? 
+*EVE:	 (  ) 
 @End

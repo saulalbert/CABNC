@@ -1,77 +1,77 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-03:  
 @Location:	  at home  
-@Situation:	  lunch with family  
-@Media: 021A-C0897X0621XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  lunch with family   
+@Media:	021A-C0897X0621XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , ANN Annette self, TER Teresa daughter, TRA Tracy daughter
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|ANN|~44;| |f|Ag3| |administrative assistant||PS1CX|
-@ID: eng|AudioBNC|TER|~19;| |f|Ag1| |stable hand|daughter|PS1CY|
-@ID: eng|AudioBNC|TRA|~24;| |f|Ag1| |housewife|daughter|PS1D1|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|ANN|44;|||||administrative assistant||PS1CX|
+@ID:	eng|AudioBNC|TER|19;|||||stable hand|daughter|PS1CY|
+@ID:	eng|AudioBNC|TRA|24;|||||housewife|daughter|PS1D1|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0621XX-ABZZP0.wav
 @Comment:	conversation #12 (Tape 062108)
-*ANN:	Homework?
-*TER:	So   (        ) put down, I've only just missed two things out on health, there was the breathing and erm   (        ) should be standing in for me on all four feet behind but not four it's quite normal
-*TRA:	But you, ain't you said about breathing yourself?
-*TER:	Yeah, erm, I've got erm, I missed out wings, cracked heels and mud fever there, then she put, I will give you a test over the weekend, your work is good, the work so far is good and make sure you understand it if there's anything you don't understand you just ask. (.) Look  (        ) 
-*TRA:	Oh yeah, yeah  (.) 
-*ANN:	Nice paper int it?Has it got a name and address on the top corner is 
-*TER:	Yeah he   (        ) he shouldn't
-*ANN:	It's not got Sarah's name though
-*TER:	No it's E J  
-*ANN:	Sarah   (.) 
-*TER:	 (        ) 
-*ANN:	she ate all of that apart from a couple of spoonfuls  (.) 
-*TER:	No
-*ANN:	you won't get any piece off her Teresa 
-*TER:	No , no, no
-*ANN:	you know you'll have to do it when she's about, oh steady darling
-*TER:	That was my fault  (.) 
-*ANN:	look at that mouthful   ((laugh))  (.) 
-*TER:	Do you want coffee? (.) Oh God  (.) 
-*TRA:	Who's, who's is the book?
-*TER:	Mine, have a look
-*TRA:	Where'd you get that from?
-*TER:	America
-*TRA:	Oh, yeah, (        ) 
-*TER:	you'll need to
-*UNK:	 (        ) 
-*TER:	you want
-*TRA:	Yeah alright I know how to look after books
-*TER:	No, I said you'll need to finish that before you look at it
-*TRA:	Oh
-*TER:	It's a good book though int it, have a look
-*TRA:	Was that dad?
-*ANN:	 [yawning] Er   [] he's having an extra hour and then he'll be home, what's for tea?I said I don't know   (.) boogie, boogie   (.) she dances to any music don't she?Ooh I like that bit
+*ANN:	Homework? 
+*TER:	So   (  ) put down, I've only just missed two things out on health, there was the breathing and erm   (  ) should be standing in for me on all four feet behind but not four it's quite normal 
+*TRA:	But you, ain't you said about breathing yourself? 
+*TER:	Yeah, erm, I've got erm, I missed out wings, cracked heels and mud fever there, then she put, I will give you a test over the weekend, your work is good, the work so far is good and make sure you understand it if there's anything you don't understand you just ask.  (.) Look  (  )  
+*TRA:	Oh yeah, yeah  (.)  
+*ANN:	Nice paper int it? Has it got a name and address on the top corner  is   
+*TER:	 Yeah  he   (  ) he shouldn't 
+*ANN:	It's not got Sarah's name though 
+*TER:	No  it's E J     
+*ANN:	 Sarah     (.)  
+*TER:	 (  ) 
+*ANN:	she ate all of that apart from a couple of spoonfuls  (.)  
+*TER:	No 
+*ANN:	you won't get any piece off her  Teresa   
+*TER:	 No  , no, no 
+*ANN:	you know you'll have to do it when she's about, oh steady darling 
+*TER:	That was my fault  (.)  
+*ANN:	look at that mouthful   ((laugh))  (.)  
+*TER:	Do you want coffee?  (6.0) Oh God  (.)  
+*TRA:	Who's, who's is the book? 
+*TER:	Mine, have a look 
+*TRA:	Where'd you get that from? 
+*TER:	America 
+*TRA:	Oh, yeah, (  )  
+*TER:	you'll need to 
+*UNK:	 (  ) 
+*TER:	you want 
+*TRA:	Yeah alright I know how to look after books 
+*TER:	No, I said you'll need to finish that before you look at it 
+*TRA:	Oh 
+*TER:	It's a good book though int it, have a look 
+*TRA:	Was that dad? 
+*ANN:	 ((yawning)) Er  he's having an extra hour and then he'll be home, what's for tea? I said I don't know   (.) boogie, boogie   (.) she dances to any music don't she? Ooh I like that bit 
 *TER:	 ((laugh)) 
-*ANN:	look at her swing those hips
-*TER:	Wiggle the hips
-*ANN:	I told ya it's Elvis 
-*TER:	whey 
-*ANN:	Elvis reincarnated, I tell ya    ((laugh))  [singing] shake, rattle and roll    []  (.) boogie, boogie
-*TER:	You ought to see her face, she's going  (.) 
-*ANN:	Becky pick your biscuit up  (.) 
-*TER:	twenty four, nearly twenty five dollars, how much is that?Twenty five dollars   (.) is it about what fifteen pound, sixteen pounds? (.) It wasn't erm, it wasn't a cheap book it was a good book  (.) 
-*TRA:	I might start getting some nice ones, them books
-*TER:	Tracy'd've loved it out there with their books, what was that one we were looking at with
-*ANN:	 (        ) 
-*TER:	and what did it have in it?
-*ANN:	Christmas one it had
-*TER:	There was loads of Christmas ones 
-*ANN:	you could tie it, it had like pearl, ribbon that you had to tie the book to, to close it, there were some really nice ones weren't there?They had all sorts of ones 
-*TER:	Erm there was a story about a reindeer
-*TRA:	and the needlework box?
-*ANN:	Oh yeah, there wasn't that erm gar garden centre, it was on the radio today and he's saying erm, I really regret having the face changed, he said I wish it could be back
-*TRA:	Who Michael Jackson?
-*ANN:	Michael Jackson he said I really regret, he said I look a right mess  (.) 
-*TER:	Becky, Becky have you got a face full again? (.) Aargh, no, that's naughty, no bad, you're bad   (.) you're bad, mum, mum, mum, mum  (.) 
-*TRA:	It's a   (        ) horse
-*TER:	A horse horse 
-*TRA:	horse 
-*TER:	horse, a horse
+*ANN:	look at her swing those hips 
+*TER:	Wiggle the hips 
+*ANN:	 I told ya it's Elvis   
+*TER:	 whey   
+*ANN:	Elvis reincarnated, I tell ya    ((laugh))  ((singing)) shake, rattle and roll    (.) boogie, boogie 
+*TER:	You ought to see her face, she's going  (.)  
+*ANN:	Becky pick your biscuit up  (.)  
+*TER:	twenty four, nearly twenty five dollars, how much is that? Twenty five dollars   (.) is it about what fifteen pound, sixteen pounds?  (.) It wasn't erm, it wasn't a cheap book it was a good book  (.)  
+*TRA:	I might start getting some nice ones, them books 
+*TER:	Tracy'd've loved it out there with their books, what was that one we were looking at with 
+*ANN:	 (  ) 
+*TER:	and what did it have in it? 
+*ANN:	Christmas one it had 
+*TER:	There was loads of Christmas  ones   
+*ANN:	 you could  tie it, it had like pearl, ribbon that you had to tie the book to, to close it, there were some really nice ones weren't there?  They had all sorts of ones   
+*TER:	 Erm there was a  story about a reindeer 
+*TRA:	and the needlework box? 
+*ANN:	Oh yeah, there wasn't that erm gar  garden centre, it was on the radio today and he's saying erm, I really regret having the face changed, he said I wish it could be back 
+*TRA:	 Who Michael Jackson? 
+*ANN:	 Michael Jackson  he said I really regret, he said I look a right mess  (12.0)  
+*TER:	Becky, Becky have you got a face full again?  (.) Aargh, no, that's naughty, no bad, you're bad   (.) you're bad, mum, mum, mum, mum  (.)  
+*TRA:	It's a   (  ) horse 
+*TER:	A horse  horse   
+*TRA:	 horse   
+*TER:	horse, a horse 
 @End

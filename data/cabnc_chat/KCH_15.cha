@@ -1,35 +1,35 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-04-08:  
 @Location:	  county council office  
-@Situation:	  voluntary work on a computer  
-@Media: 021A-C0897X0764XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  voluntary work on a computer   
+@Media:	021A-C0897X0764XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , JAN Jane self, JAN Janet colleague
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|JAN|~40;| |f|Ag3| |optician/student||PS1BS|
-@ID: eng|AudioBNC|JAN|~42;| |f|Ag3| |clerk|colleague|PS6R1|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|JAN|40;|||||optician/student||PS1BS|
+@ID:	eng|AudioBNC|JAN|42;|||||clerk|colleague|PS6R1|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0764XX-AAZZP0.wav
 @Comment:	conversation #15 (Tape 076402)
-*JAN:	Vanessa wants you.
-*UNK:	Well no she doesn't, I've just been talking to her.
-*JAN:	Well yeah, Vanessa   (        ) 
-*JAN:	And also Gill wants you.Oh!Popular.
-*UNK:	Right, popular, yeah.
-*JAN:	Are you do Alan are you doing 
-*UNK:	 (        ) 
-*UNK:	Hang on a minute!Hang on a minute!
-*JAN:	Are you going to do erm   (.) a valuation again?
-*UNK:	I've already done it.
-*JAN:	In your opinion 
-*UNK:	And ask 
-*JAN:	which one?
-*UNK:	ask Mr .I'm sure he'll be   (.) only too pleased to oblige you.
-*JAN:	Okay. (        ) 
-*UNK:	Is that the only one?
-*JAN:	Yeah.
-*UNK:	Yes!
+*JAN:	Vanessa wants you. 
+*UNK:	Well no she doesn't, I've just been  talking to her. 
+*JAN:	 Well yeah, Vanessa     (  )   
+*JAN:	 And also Gill  wants you. Oh! Popular. 
+*UNK:	Right, popular, yeah. 
+*JAN:	Are you do   Alan are you doing   
+*UNK:	  (  )  
+*UNK:	Hang on a minute! Hang on a minute! 
+*JAN:	Are you going to do erm   (.) a valuation again? 
+*UNK:	I've already done it. 
+*JAN:	In your  opinion   
+*UNK:	 And ask   
+*JAN:	which one? 
+*UNK:	ask Mr  . I'm sure he'll be   (.) only too pleased to oblige you. 
+*JAN:	Okay. (  )  
+*UNK:	Is that the only one? 
+*JAN:	Yeah. 
+*UNK:	Yes! 
 @End

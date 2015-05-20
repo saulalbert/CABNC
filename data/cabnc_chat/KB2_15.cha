@@ -1,37 +1,37 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-07:  
 @Location:	  at home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0615XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0615XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	ALE Alec self, JOY Joyce wife
-@ID: eng|AudioBNC|ALE|~68;| |m|Ag5| |retired||PS01T|
-@ID: eng|AudioBNC|JOY|~63;| |f|Ag5| |retired|wife|PS01V|
+@Options:	CA
+@ID:	eng|AudioBNC|ALE|68;|||||retired||PS01T|
+@ID:	eng|AudioBNC|JOY|63;|||||retired|wife|PS01V|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0615XX-AAZZP0.wav
 @Comment:	conversation #17 (Tape 061502)
-*ALE:	Well
-*JOY:	And they er   (.) I'm not putting it right close though.You know, sort of give it a good chance.
-*ALE:	Yeah.
-*JOY:	And er   (.) I've set the bucket as well.
-*ALE:	Well they'll all be fighting for life all of a sudden 
-*JOY:	You see they're not gonna get a lot of chance though because we get a lot of sun here.
-*ALE:	Where?
-*JOY:	Here.
-*ALE:	You   (.) only get it at 
-*JOY:	Be better at the back there really won't they?
-*ALE:	It's winter now like!
-*JOY:	Yeah but, you see, they get more sun there look, can you see?Not there.At the bottom. (        ) 
-*ALE:	Yeah but you've already had them there once.
-*JOY:	Yeah, I had them there last year they didn't open!
-*ALE:	And they'd been   (        ) they'd been a dead lo they were a dead loss weren't they?
-*JOY:	Yeah!They didn't open.I don't know why.
-*ALE:	Ah.
-*JOY:	We'll have a   (.) sandwich or something then, ah? (.) Do you not want another cup of tea with the  (        ) ?
-*ALE:	No, I'm not bothered, are you?
-*JOY:	Yes.I'll do a cup of tea anyway.
-*ALE:	Ah well I've have one if you are making one.
+*ALE:	Well 
+*JOY:	And they er   (.) I'm not putting it right close though. You know, sort of give it a good chance. 
+*ALE:	Yeah. 
+*JOY:	And er   (.) I've set the bucket as well. 
+*ALE:	Well they'll all be fighting for life all of a sudden  
+*JOY:	 You see they're not  gonna get a lot of chance though because we get a lot of sun here. 
+*ALE:	Where? 
+*JOY:	Here. 
+*ALE:	You   (.) only get it  at   
+*JOY:	 Be  better at the back there really won't they? 
+*ALE:	It's winter now like! 
+*JOY:	Yeah but, you see, they get more sun there look, can you see? Not there. At the bottom. (  )   
+*ALE:	 Yeah but  you've already had them there once. 
+*JOY:	Yeah, I had them there last year  they didn't open! 
+*ALE:	 And they'd been   (  )  they'd been a dead lo  they were a dead loss weren't  they? 
+*JOY:	 Yeah!  They didn't open. I don't know why. 
+*ALE:	Ah. 
+*JOY:	We'll have a   (.) sandwich or something then, ah?  (11.0) Do you not want another cup of tea with the  (  ) ? 
+*ALE:	No, I'm not bothered, are you? 
+*JOY:	Yes. I'll do a cup of tea anyway. 
+*ALE:	Ah well I've have one if you are making one. 
 @End

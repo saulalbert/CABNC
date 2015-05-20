@@ -1,23 +1,23 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-07:  
 @Location:	  at home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0614XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0614XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	ALE Alec self, JOY Joyce wife
-@ID: eng|AudioBNC|ALE|~68;| |m|Ag5| |retired||PS01T|
-@ID: eng|AudioBNC|JOY|~63;| |f|Ag5| |retired|wife|PS01V|
+@Options:	CA
+@ID:	eng|AudioBNC|ALE|68;|||||retired||PS01T|
+@ID:	eng|AudioBNC|JOY|63;|||||retired|wife|PS01V|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0614XX-AAZZP0.wav
 @Comment:	conversation #12 (Tape 061402)
-*JOY:	Are you gonna go and have a look then?What about looking at back and me bulbs, our Michael might be there mind, I doubt it though I think it's his day off  (.) 
-*ALE:	Oh I wonder if you
-*JOY:	Just er cut er, stop that, turn that iron off love
-*ALE:	He just wants to er, just want to go and get your groceries don't you? (.) We can do that love     (.)  ((humming))  (.) You having a go at this when you come back?
-*JOY:	Probably, yeah
-*ALE:	Gonna put them on top don't it?
-*JOY:	I don't need the iron, I don't need, I don't need this out though   (.) just the, leave that   (.) just leave them on there like that  (.) 
+*JOY:	Are you gonna go and have a look then? What about looking at back and me bulbs, our Michael might be there mind, I doubt it though I think it's his day off  (.)  
+*ALE:	Oh I wonder if you 
+*JOY:	Just er cut er, stop that, turn that iron off love 
+*ALE:	He just wants to er, just want to go and get your groceries don't you?  (.) We can do that love     (.)  ((humming))  (.) You having a go at this when you come back? 
+*JOY:	Probably, yeah 
+*ALE:	Gonna put them on top don't it? 
+*JOY:	I don't need the iron, I don't need, I don't need this out though   (.) just the, leave that   (.) just leave them on there like that  (.)  
 @End

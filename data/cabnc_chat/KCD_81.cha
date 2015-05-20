@@ -1,61 +1,61 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0052XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0052XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, UNK Unknown Unknown None ?
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6ST|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6ST|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0052XX-AAZZP0.wav
 @Comment:	conversation #81 (Tape 005208)
-*HEL:	You thought this was a big bedroom till you started trying to get.
-*NON:	 (        ) .
-*HEL:	Amy Johnson's a funny little one.She was a, (        ) going to see Joseph's.
-*NON:	Yeah.
-*HEL:	Dream Coat next week end.
-*NON:	Yeah.
-*HEL:	And she said, with Jason Donovan, I said oh do you like Jason Donovan? she said oh yes I've seen that with Jason Donovan.Oh she said I've seen Jason Donovan in that, so I said well I don't think you have cos it didn't start till today.
-*NON:	Yeah.
-*HEL:	 ((sniff)) I have, I saw it a while ago with daddy.
-*NON:	Yeah.
-*HEL:	I said yes, but I don't think it was actually Jason Donovan, oh it was, yes, it was Jason Donovan and I've got the paper   (        ) all   (        ) along, I give up in the end  ((laugh)) .
-*NON:	Yeah  (.) 
-*HEL:	Very definite young lady .
-*NON:	Is she?.
-*HEL:	Oh yes, ooh she wasn't going to have it that we were going to see it, cos she hasn't seen that particular one.
-*NON:	Do they, get on alright together?
-*HEL:	Well, yes I think so.Yeah.I don't think Amy Johnson will be over pleased that she that Amy get's better than she is , no.
-*NON:	She is .
-*HEL:	But Amy's very tactful so I just didn't say any thing.
-*NON:	Yeah. (        ) 
-*HEL:	No she's quite, well I told her not to. ((clears throat)) I mean this, the children are two young to have there noses rub with it, especially Amy Johnson, that wouldn't go down well, but eh, she's quite good, she doesn't sort of.
-*NON:	 (        ) .
-*HEL:	Can you measure it down that one or.
-*NON:	Yeah.
-*HEL:	Is it going to stick? (        ) .
-*NON:	 (        ) .
-*HEL:	You know what the
-*NON:	 (        ) .
-*HEL:	I presume that that's the top wouldn't you?At the beginning of a roll, and I would almo  (.) 
-*NON:	In both ways or.
-*HEL:	Yeah, I would almost say that   (        ) upside down, there seems to be more flowers going down than up don't they?The pink ones going down, the blue ones going down.
-*NON:	 (        ) .
-*HEL:	Does it look better the other way up does it?
-*NON:	 (        ) .
-*HEL:	Don't you?
-*NON:	Yes.
-*HEL:	I think the majority.
-*NON:	 (        ) .
-*HEL:	Alright.
-*NON:	 (        ) .
-*HEL:	Yeah, I think   ((laugh)) some one way, some the other, look lovely.
-*NON:	 (        ) .
-*HEL:	Yeah.It's not a very big pattern drops any rate.It is different paper isn't it?
-*NON:	Yeah.
-*HEL:	Thank you.
+*HEL:	You thought this was a big bedroom till you started trying to get. 
+*NON:	 (  ) . 
+*HEL:	Amy Johnson's a funny little one. She was a, (  ) going to see Joseph's. 
+*NON:	Yeah. 
+*HEL:	Dream Coat next week end. 
+*NON:	Yeah. 
+*HEL:	And she said, with Jason Donovan, I said oh do you like Jason Donovan? she said oh yes I've seen that with Jason Donovan. Oh she said I've seen Jason Donovan in that, so I said well I don't think you have cos it didn't start till today. 
+*NON:	Yeah. 
+*HEL:	 ((sniff)) I have, I saw it a while ago with daddy. 
+*NON:	Yeah. 
+*HEL:	I said yes, but I don't think it was actually Jason Donovan, oh it was, yes, it was Jason Donovan and I've got the paper   (  ) all   (  ) along, I give up in the end  ((laugh)) . 
+*NON:	Yeah  (5.0)  
+*HEL:	Very definite  young lady  . 
+*NON:	 Is she?. 
+*HEL:	Oh yes, ooh she wasn't going to have it that we were going to see it, cos she hasn't seen that particular one. 
+*NON:	Do they, get on alright together? 
+*HEL:	Well, yes I think so. Yeah. I don't think Amy Johnson will be over pleased that she that Amy get's better than  she is  , no. 
+*NON:	 She is  . 
+*HEL:	But Amy's very tactful so I just didn't say any thing. 
+*NON:	Yeah. (  )  
+*HEL:	No she's quite, well I told her not to.  ((clears throat)) I mean this, the children are two young to have there noses rub with it, especially Amy Johnson, that wouldn't go down well, but eh, she's quite good, she doesn't sort of. 
+*NON:	 (  ) . 
+*HEL:	Can you measure it down that one or. 
+*NON:	Yeah. 
+*HEL:	Is it going to stick? (  ) . 
+*NON:	 (  ) . 
+*HEL:	You know what the 
+*NON:	 (  ) . 
+*HEL:	I presume that that's the top wouldn't you? At the beginning of a roll, and I would almo  (.)  
+*NON:	In both ways or. 
+*HEL:	Yeah, I would almost say that   (  ) upside down, there seems to be more flowers going down than up don't they? The pink ones going down, the blue ones going down. 
+*NON:	 (  ) . 
+*HEL:	Does it look better the other way up does it? 
+*NON:	 (  ) . 
+*HEL:	Don't you? 
+*NON:	Yes. 
+*HEL:	I think the majority. 
+*NON:	 (  ) . 
+*HEL:	Alright. 
+*NON:	 (  ) . 
+*HEL:	Yeah, I think   ((laugh)) some one way, some the other, look lovely. 
+*NON:	 (  ) . 
+*HEL:	Yeah. It's not a very big pattern drops any rate. It is different paper isn't it? 
+*NON:	Yeah. 
+*HEL:	Thank you. 
 @End

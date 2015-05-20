@@ -1,27 +1,27 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 shopping 
-@Situation:	Unspecified
-@Media: 021A-C0897X0048XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0048XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
-@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
+@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0048XX-AAZZP0.wav
 @Comment:	conversation #18 (Tape 004805)
-*CLA:	Painting?
-*HEL:	That painting you haven't done yet have you?
-*CLA:	No, (        ) .
-*HEL:	No.
-*AMY:	 (        ) .
-*HEL:	So you wanting to have a mooch, do you want to have a quick look at tennis rackets?Well I don't know whether were going to get one now, cos I haven't really got a lot of time.Oh  ((laugh)) , the cars are still coming, the cars are coming now, I forgot about them.
-*AMY:	 (        ) .
-*HEL:	I forgot the cars were coming down the road.Got to go across to that Olympus, right shall we   (.) come on quickly.
-*AMY:	 (        ) .
-*HEL:	I dunno, cos I forgot the road was open, huh.
+*CLA:	Painting? 
+*HEL:	That painting you haven't done yet have you? 
+*CLA:	No, (  ) . 
+*HEL:	No. 
+*AMY:	 (  ) . 
+*HEL:	So you wanting to have a mooch, do you want to have a quick look at tennis rackets? Well I don't know whether were going to get one now, cos I haven't really got a lot of time. Oh  ((laugh)) , the cars are still coming, the cars are coming now, I forgot about them. 
+*AMY:	 (  ) . 
+*HEL:	I forgot the cars were coming down the road. Got to go across to that Olympus, right shall we   (.) come on quickly. 
+*AMY:	 (  ) . 
+*HEL:	I dunno, cos I forgot the road was open, huh. 
 @End

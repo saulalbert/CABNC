@@ -1,55 +1,55 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-21:  
 @Location:	  home  
-@Situation:	  reading and talking  
-@Media: 021A-C0897X0336XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  reading and talking   
+@Media:	021A-C0897X0336XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CAR Carl self, SUS Susan wife
-@ID: eng|AudioBNC|CAR|~34;| |m|Ag2| |teacher||PS051|
-@ID: eng|AudioBNC|SUS|~33;| |f|Ag2| |teacher (pt)|wife|PS052|
+@Options:	CA
+@ID:	eng|AudioBNC|CAR|34;|||||teacher||PS051|
+@ID:	eng|AudioBNC|SUS|33;|||||teacher (pt)|wife|PS052|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0336XX-AAZZP0.wav
 @Comment:	conversation #2 (Tape 033602)
-*CAR:	You can turn the television on if you want to.
-*SUS:	Can I?
-*CAR:	Yeah.
-*SUS:	It's not on yet.
-*CAR:	Oh it'll be on in a minute Sue.We can do a bit more taping thereon, I'll be just interested to   (.) hear what    (.)  [laughing] you have been saying all this time, you know  [] !
+*CAR:	You can turn the television on if you want to. 
+*SUS:	Can I? 
+*CAR:	Yeah. 
+*SUS:	It's not on yet. 
+*CAR:	Oh it'll be on in a minute Sue. We can do a bit more taping thereon, I'll be just interested to   (.) hear what    (.)  ((laughing)) you have been saying  all this time, you know ! 
+*SUS:	  ((laugh))  
+*CAR:	So I'm going to  stop it. 
+*SUS:	 Well somebody's  gotta talk!  ((laughing)) I want that voucher anyway ! 
+*CAR:	Oh you want that 
 *SUS:	 ((laugh)) 
-*CAR:	So I'm going to stop it.
-*SUS:	Well somebody's gotta talk! [laughing] I want that voucher anyway  [] !
-*CAR:	Oh you want that
-*SUS:	 ((laugh)) 
-*CAR:	yeah.Ooh you
-*SUS:	If I'm doing 
-*CAR:	you 
-*SUS:	all the work for 
-*CAR:	you 
-*SUS:	it!
-*CAR:	gold digger!Yeah!
-*SUS:	I know, terrible innit?I don't really, to be honest.Mum said   (.) she said, ooh she said tell Carl to put that towards a new suit for himself.
-*CAR:	What?
-*SUS:	That money.
-*CAR:	Wouldn't buy 
-*SUS:	 (        ) 
-*CAR:	 [laughing] an arm and a leg  [] !
-*SUS:	 [laughing]  (        ) and I'll buy Marks 
-*CAR:	 [laughing] One 
-*SUS:	and Spencer  [] !
-*CAR:	one, one trouser leg and  [] 
-*SUS:	No, she said Marks and Spencer do nice su , actually dad got a nice suit from Marks.
-*CAR:	Not for twenty five you didn't!
-*SUS:	Eh?He did!You can ask him, he had, he had mum's
-*CAR:	Alright.
-*SUS:	like you know   (.) what she get 
-*CAR:	Yeah.
-*SUS:	when
-*CAR:	Discount?
-*SUS:	Yeah, that's the word.Wha , when she, when she leave   (.) well he had that, plus another twenty five pound voucher and he, he ended up with a seventy five pound suit for twenty five pound!You ask him to show it to you, on Monday when we go across.
-*CAR:	It won't fit me though. ((laugh)) 
-*SUS:	No, not your style, what I'm saying is, yes you can do it   (.) turn that damn thing off!
-*CAR:	Mm!
+*CAR:	yeah. Ooh you 
+*SUS:	If I'm  doing   
+*CAR:	 you   
+*SUS:	all the work  for   
+*CAR:	 you   
+*SUS:	it! 
+*CAR:	gold digger! Yeah! 
+*SUS:	I know, terrible innit? I don't really, to be honest. Mum said   (.) she said, ooh she said tell Carl to put that towards a new suit for himself. 
+*CAR:	What? 
+*SUS:	That money. 
+*CAR:	 Wouldn't buy   
+*SUS:	  (  )  
+*CAR:	 ((laughing)) an arm and a leg ! 
+*SUS:	 ((laughing))  (  ) and I'll buy  Marks   
+*CAR:	  ((laughing)) One   
+*SUS:	and Spencer ! 
+*CAR:	one, one trouser leg and  
+*SUS:	No, she said Marks and Spencer do nice su  , actually dad got a nice suit from Marks. 
+*CAR:	Not for twenty five you didn't! 
+*SUS:	Eh? He did! You can ask him, he had, he had mum's 
+*CAR:	Alright. 
+*SUS:	like you know   (.) what  she get   
+*CAR:	 Yeah. 
+*SUS:	when 
+*CAR:	Discount? 
+*SUS:	Yeah, that's the word. Wha  , when she, when she leave   (.) well he had that, plus another twenty five pound voucher and he, he ended up with a seventy five pound suit for twenty five pound! You ask him to show it to you, on Monday when we go across. 
+*CAR:	It won't fit me though. ((laugh))  
+*SUS:	No, not your style, what I'm saying is, yes you can do it   (.) turn that damn thing off! 
+*CAR:	Mm! 
 @End

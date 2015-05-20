@@ -1,29 +1,29 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-28:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0150XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0150XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BRE Brenda self, CAR Carla daughter
-@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
-@ID: eng|AudioBNC|CAR|~11;| |f|Ag0| |student (state primary)|daughter|PS04X|
+@Options:	CA
+@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
+@ID:	eng|AudioBNC|CAR|11;|||||student (state primary)|daughter|PS04X|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0150XX-AAZZP0.wav
 @Comment:	conversation #14 (Tape 015014)
-*CAR:	Bennettons, you can buy that  (        ) .
-*BRE:	Which one, yeah that's the one that erm Kim's been trying to get Lorraine the Bennetton one.
-*CAR:	Nineteen ninety nine.
-*BRE:	That's not bad, Bennetton one?
-*CAR:	Shall I put that down, Argos number fourteen   (.) Argos number fourteen.
-*BRE:	Hang on, page first.
-*CAR:	Page six.
-*BRE:	Yeah,
-*CAR:	Number fourteen,
-*BRE:	yeah,
-*CAR:	Nineteen ninety nine.
-*BRE:	The one that  (        ) .
-*CAR:	 (        ) nineteen ninety nine pounds.
+*CAR:	Bennettons, you can buy that  (  ) . 
+*BRE:	Which one, yeah that's the one that erm Kim's been trying to get Lorraine the Bennetton one. 
+*CAR:	Nineteen ninety nine. 
+*BRE:	That's not bad, Bennetton one? 
+*CAR:	Shall I put that down, Argos number fourteen   (.) Argos number fourteen. 
+*BRE:	Hang on, page first. 
+*CAR:	Page six. 
+*BRE:	Yeah, 
+*CAR:	Number fourteen, 
+*BRE:	yeah, 
+*CAR:	Nineteen ninety nine. 
+*BRE:	The one that  (  ) . 
+*CAR:	 (  ) nineteen ninety nine pounds. 
 @End

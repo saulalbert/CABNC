@@ -1,24 +1,24 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 Restaurant 
-@Situation:	Unspecified
-@Media: 021A-C0897X0029XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0029XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0029XX-AAZZP0.wav
 @Comment:	conversation #195 (Tape 002903)
-*NOR:	In Petts Wood I found a little space like that to park in.There was a great queue behind and I went in absolutely perfectly.Right into the space and I was pleased with myself.You know how  (        ) 
-*CHR:	Good.
-*NOR:	 (        )  (.) 
-*CHR:	I know.I haven't done it easily but I've done it and I'm pleased.
-*NOR:	 (        ) I'm not clever as you   (        ) like you are.
-*CHR:	Well done!
-*NOR:	I wasn't  (        ) 
-*CHR:	 ((laugh)) Yes you have to do that I believe these days too.
+*NOR:	In Petts Wood I found a little space like that to park in. There was a great queue behind and I went in absolutely perfectly. Right into the space and I was pleased with myself. You know how  (  )  
+*CHR:	Good. 
+*NOR:	 (  )  (.) 
+*CHR:	I know. I haven't done it easily but I've done it and I'm pleased. 
+*NOR:	 (  ) I'm not clever as you   (  ) like you are. 
+*CHR:	Well done! 
+*NOR:	I wasn't  (  )  
+*CHR:	 ((laugh)) Yes you have to do that I believe these days too. 
 @End

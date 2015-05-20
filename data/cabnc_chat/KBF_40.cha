@@ -1,36 +1,36 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-29:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0153XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0153XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BRE Brenda self, JEA Jean friend
-@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
-@ID: eng|AudioBNC|JEA|~62;| |f|Ag5| |housewife|friend|PS04Y|
+@Options:	CA
+@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
+@ID:	eng|AudioBNC|JEA|62;|||||housewife|friend|PS04Y|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0153XX-AAZZP0.wav
 @Comment:	conversation #41 (Tape 015301)
-*BRE:	Oh I wondered what you.What have you got in that little bag?
-*JEA:	Oh we've got some make-up.
-*BRE:	Oh.
-*JEA:	 (        ) Dickens and Jones.
-*BRE:	Do you wanna drink of fresh juice or something?
-*JEA:	Er I don't think so. (        ) you have some too 
-*BRE:	 (        ) .No?Alright then.No I don't want any.
-*JEA:	if that's what you fancy.
-*BRE:	I'm fine. (.) 
-*JEA:	Anyway I feel that I've been thoroughly tea'd up. ((laugh)) . Tea'd and coffee'd.
-*BRE:	Do you wanna put this on?
-*JEA:	Yes please.I want to clean my face.I'm very interested to see what this is going to be like.Is this new Brenda?
-*BRE:	 [laughing] No.It's years old  [] .
-*JEA:	Is it?It's nice.
-*BRE:	It's one we normally keep in the attic   (.) but we've been keeping it down here
-*JEA:	Mm.
-*BRE:	now because of it's like Lee if James sleeps they sleep in the erm   (.) down here.They camp out.
-*JEA:	 (        ) 
-*BRE:	James uses it   (.) down here  (        ) 
-*JEA:	Have you got a rubbish bag  (        ) ?
+*BRE:	Oh I wondered what you. What have you got in that little bag? 
+*JEA:	Oh we've got some make-up. 
+*BRE:	Oh. 
+*JEA:	 (  ) Dickens and Jones. 
+*BRE:	Do you wanna drink of fresh juice or something? 
+*JEA:	Er I  don't think so.  (  ) you have some too   
+*BRE:	  (  ) . No? Alright then.  No I don't want any. 
+*JEA:	if that's what you fancy. 
+*BRE:	I'm fine. (15.0)  
+*JEA:	Anyway I feel that I've been thoroughly tea'd up.  ((laugh)) . Tea'd and coffee'd. 
+*BRE:	Do you wanna put this on? 
+*JEA:	Yes please. I want to clean my face. I'm very interested to see what this is going to be like. Is this new Brenda? 
+*BRE:	 ((laughing)) No. It's years old . 
+*JEA:	Is it? It's nice. 
+*BRE:	It's one we normally keep in the attic   (.) but we've been keeping it down here 
+*JEA:	Mm. 
+*BRE:	now because of it's like Lee if James sleeps they sleep in the erm   (.) down here. They camp out. 
+*JEA:	 (  ) 
+*BRE:	James uses it   (.) down here  (  )  
+*JEA:	Have you got a rubbish bag  (  ) ? 
 @End

@@ -1,37 +1,37 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-28:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0150XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0150XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , BRE Brenda self, CAR Carla daughter
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
-@ID: eng|AudioBNC|CAR|~11;| |f|Ag0| |student (state primary)|daughter|PS04X|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
+@ID:	eng|AudioBNC|CAR|11;|||||student (state primary)|daughter|PS04X|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0150XX-AAZZP0.wav
 @Comment:	conversation #2 (Tape 015002)
-*UNK:	Travelling, between Woking and Guildford, or whatever.Er, and that, you, you'll   (        ) at the town cooking dinner, watching television, talking to my friend, or just roughly what you're doing at that time that conversation took place, okay, (        ) at work, (        ) form, then make me a cup of tea, she was photo-copying,
-*BRE:	Mm.
-*UNK:	that's what she was, she was doing   (        ) .
-*BRE:	There's an awful lot involved though.
-*UNK:	 (        ) , you're usually saying oh it's just, just general  (        ) .
-*BRE:	Mm.
-*UNK:	Went shopping or whatever, as I say, it, it, it, a couple of days or whatever you feel, if you, if you, if you want to get into it you might find you want to do them all
-*BRE:	Mm.
-*UNK:	but if you, in two days, that 
-*BRE:	yeah 
-*UNK:	would be grate, okay, and the same thing for next page, this is the day I started which, like maybe tomorrow or next day or when ever you start it Wednesday, I started at ten o'clock in the morning, was I, I was in Woking, what was I doing   (.) nothing just reading a, do whatever you have to put in your whatever you   (        ) ,
-*BRE:	yeah 
-*UNK:	where you went for a walk, down, went to the shops
-*BRE:	mm.
-*UNK:	or whatever, just let them know roughly what you're doing, cos, all they get is a tape, it gives them an idea of what sort of things were happening at that time, any words they can't pick up   (        ) if she's cooking, maybe that's something she was making or whatever, erm, in the   (        ) please write the first names and details, why you know them, of all the people speaking on this side of the tape, in order in which they speak on the tape in the first, first instance, right, you know, so now Carla, my husband, myself, Lee and, you don't need to repeat them again after that
-*BRE:	Mm.
-*UNK:	so if you don't, don't want, not worried too much about this, I mean, although we want you to do this, I mean, rather just get the conversation, in, even though you don't do this .
-*BRE:	You want more than that .
-*CAR:	The knob on the cooker's been turned.
-*BRE:	Put it in the dish.
+*UNK:	Travelling, between Woking and Guildford, or whatever. Er, and that, you, you'll   (  ) at the town cooking dinner, watching television, talking to my friend, or just roughly what you're doing at that time that conversation took place, okay, (  ) at work, (  ) form, then make me a cup of tea, she was photo-copying, 
+*BRE:	Mm. 
+*UNK:	that's what she was, she was doing    (  )  . 
+*BRE:	 There's  an awful lot involved though. 
+*UNK:	 (  ) , you're usually saying oh it's just, just general  (  ) . 
+*BRE:	Mm. 
+*UNK:	Went shopping or whatever, as I say, it, it, it, a couple of days or whatever you feel, if you, if you, if you want to get into it you might find you want to do them all 
+*BRE:	Mm. 
+*UNK:	but if you, in two days, that   
+*BRE:	 yeah   
+*UNK:	would be grate, okay, and the same thing for next page, this is the day I started which, like maybe tomorrow or next day or when ever you start it Wednesday, I started at ten o'clock in the morning, was I, I was in Woking, what was I doing   (.) nothing just reading a, do whatever you have to put in your whatever  you   (  )  , 
+*BRE:	 yeah   
+*UNK:	where you went for a walk, down, went to the shops 
+*BRE:	mm. 
+*UNK:	or whatever, just let them know roughly what you're doing, cos, all they get is a tape, it gives them an idea of what sort of things were happening at that time, any words they can't pick up   (  ) if she's cooking, maybe that's something she was making or whatever, erm, in the   (  ) please write the first names and details, why you know them, of all the people speaking on this side of the tape, in order in which they speak on the tape in the first, first instance, right, you know, so now Carla, my husband, myself, Lee and, you don't need to repeat them again after that 
+*BRE:	Mm. 
+*UNK:	so if you don't, don't want, not worried too much about this, I mean, although we want you to do this, I mean, rather just get the conversation, in, even though you don't  do this  . 
+*BRE:	 You want more than that  . 
+*CAR:	The knob on the cooker's been turned. 
+*BRE:	Put it in the dish. 
 @End

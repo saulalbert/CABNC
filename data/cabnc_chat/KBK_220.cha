@@ -1,66 +1,66 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 Restaurant 
-@Situation:	Unspecified
-@Media: 021A-C0897X0030XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0030XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife, LYN Lynda colleague
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
-@ID: eng|AudioBNC|LYN|~44;| |f|Ag3| |export assistant|colleague|PS102|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID:	eng|AudioBNC|LYN|44;|||||export assistant|colleague|PS102|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0030XX-AAZZP0.wav
 @Comment:	conversation #221 (Tape 003004)
-*CHR:	Does that say forty pounds?
-*NOR:	Thirty nine pounds seventy it says.
-*CHR:	Actually that was very good   (.) I enjoyed it all.
-*NOR:	Yes.
-*CHR:	I don't mind, bills like that when it's all so nice.
-*NOR:	No, quite.
-*CHR:	I wonder if we were to look down our wedding invitation list, nearly twenty five years ago   (.) we could have a gathering when we're fifty five of all the people who were at our wedding if they're around today.
-*NOR:	Yeah.
-*CHR:	There would have to be some people w we wouldn't invite   (.) as well as the people who are no longer here.
-*NOR:	Yeah.
-*CHR:	I mean we'd invite Helen and some friends like, I don't know  (        ) .
-*NOR:	Yes, the old folk.
-*CHR:	Mrs , Hilda  and people like that but erm
-*NOR:	Do you still have the list?
-*CHR:	Yes   (.) it's there  (        ) 
-*LYN:	Thank you sir.
-*CHR:	along with mm   (.) a list of all the wedding people who received day  (        ) 
-*NOR:	Mm   (.) historical references aye.
-*CHR:	and cards, and telegrams.
-*NOR:	Wonderful, where do you keep them?
-*CHR:	In a box on top of the shelf.
-*NOR:	Most impressive!
-*CHR:	We'll have to get them out and have a look at them.
-*NOR:	Mm  (.) 
-*CHR:	 (        ) washing.
-*NOR:	Yes, when I spoke to Jack I said how's progress on fixing it?And he said it wa I reckon if they don't fix this weekend it's going to be next year, early next year.
-*CHR:	Early next year would be 
-*NOR:	I made no comment.
-*CHR:	Yes, so there's nothing we can say we're not we don't want want to make them feel awkward about it I mean they have planned what they can plan.
-*NOR:	No good making them feel awkward, they just do what they're going to do and that's it.
-*CHR:	Yes quite   (.) well that's fair enough isn't it?They can't consider everybody   (.) or they could never make a decision.
-*LYN:	Thank you, right   (.) So you enjoy your  (        ) ?
-*CHR:	We always do when we come here, thank you.
-*LYN:	Yes.It's always very nice   (.) I wish we could come more often.
-*LYN:	Yeah    ((laugh))  (.) well maybe you're missing the Chinese food. ((laugh)) 
-*NOR:	That's right.
-*LYN:	Yeah   ((laugh)) thank you.
-*NOR:	Many thanks.
-*LYN:	Bye.
-*NOR:	Bye. (.) 
-*CHR:	A lovely treat, thank you darling.
-*NOR:	I enjoyed it   (.) glad you did.
-*CHR:	You chose very well, I used to get really nervous when I came to Chinese restaurants, I never knew what to choose.
-*NOR:	Really?
-*CHR:	But gradually over the years you get the hang of it.Some people get the hang of these things more quickly than I do.
-*NOR:	We didn't go often enough dear, that's the other thing.
-*CHR:	 (        ) 
-*NOR:	Right, shall we make tracks?
-*CHR:	Yes.
+*CHR:	Does that say forty pounds? 
+*NOR:	Thirty nine pounds seventy it says. 
+*CHR:	Actually that was very good   (.) I enjoyed it all. 
+*NOR:	Yes. 
+*CHR:	I don't mind, bills like that when it's all so nice. 
+*NOR:	No, quite. 
+*CHR:	I wonder if we were to look down our wedding invitation list, nearly twenty five years ago   (.) we could have a gathering when we're fifty five of all the people who were at our wedding if they're around today. 
+*NOR:	Yeah. 
+*CHR:	There would have to be some people w  we wouldn't invite   (.) as well as the people who are no longer here. 
+*NOR:	Yeah. 
+*CHR:	I mean we'd invite Helen and some friends like, I don't know  (  ) . 
+*NOR:	Yes, the old folk. 
+*CHR:	Mrs  , Hilda   and people like that but erm 
+*NOR:	Do you still have the list? 
+*CHR:	Yes   (.) it's there  (  )  
+*LYN:	Thank you sir. 
+*CHR:	along with mm   (.) a list of all the wedding people who received day  (  )  
+*NOR:	Mm   (.) historical references aye. 
+*CHR:	and cards, and telegrams. 
+*NOR:	Wonderful, where do you keep them? 
+*CHR:	In a box on top of the shelf. 
+*NOR:	Most impressive! 
+*CHR:	We'll have to get them out and have a look at them. 
+*NOR:	Mm  (20.0)  
+*CHR:	 (  ) washing. 
+*NOR:	Yes, when I spoke to Jack I said how's progress on fixing it? And he said it wa  I reckon if they don't fix this weekend it's going to be next year, early next year. 
+*CHR:	Early  next year would be   
+*NOR:	 I made no comment. 
+*CHR:	Yes, so there's nothing we can say we're not we don't want want to make them feel awkward about it I mean they have planned what they can plan. 
+*NOR:	No good making them feel awkward, they just do what they're going to do and that's it. 
+*CHR:	Yes quite   (.) well that's fair enough isn't it? They can't consider everybody   (.) or they could never make a decision. 
+*LYN:	Thank you, right   (.) So you enjoy your  (  ) ? 
+*CHR:	We always do when we come here, thank you. 
+*LYN:	 Yes.  It's always very nice   (.) I wish we could come more often. 
+*LYN:	Yeah    ((laugh))  (.) well maybe you're missing the Chinese food. ((laugh))  
+*NOR:	That's right. 
+*LYN:	Yeah   ((laugh))  thank you. 
+*NOR:	 Many thanks. 
+*LYN:	Bye. 
+*NOR:	Bye. (10.0)  
+*CHR:	A lovely treat, thank you darling. 
+*NOR:	I enjoyed it   (.) glad you did. 
+*CHR:	You chose very well, I used to get really nervous when I came to Chinese restaurants, I never knew what to choose. 
+*NOR:	Really? 
+*CHR:	But gradually over the years you get the hang of it. Some people get the hang of these things more quickly than I do. 
+*NOR:	We didn't go often enough dear, that's the other thing. 
+*CHR:	 (  ) 
+*NOR:	Right, shall we make tracks? 
+*CHR:	Yes. 
 @End

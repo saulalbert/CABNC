@@ -1,60 +1,60 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 shopping 
-@Situation:	Unspecified
-@Media: 021A-C0897X0047XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0047XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
-@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
+@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0047XX-ABZZP0.wav
 @Comment:	conversation #8 (Tape 004708)
-*UNK:	Do you think I'm well enough for my trip  (        ) 
-*CLA:	No.I think we've got quite fit.
-*HEL:	 (        ) 
-*CLA:	No it fits in a case.
-*HEL:	Yes.Yes.That's the one  (        ) 
-*CLA:	Green one?
-*HEL:	What other colours is there?
-*CLA:	There're aren't.
-*AMY:	I will take the yellow one I think.You've got the white one anyway.
-*CLA:	You'd rather have that than the   (.) you know
-*AMY:	Yes
-*HEL:	Does this tooth Mum   (.) does this toothbrush fold up?
-*CLA:	No it's in a case so you don't get
-*HEL:	Does the boys   (        ) something  (        ) .When you
-*CLA:	When you want some soap   (.) hmm
-*AMY:	Is there a toothbrush inside that
-*CLA:	Hmm
-*HEL:	thing?
-*CLA:	She wants her soap and some tissues   (.) Erm   (.) I don't think you need teenage mutant hero turtles.
-*HEL:	Why?
-*CLA:	Well you need more that those.
-*HEL:	What are those?Those could be hankies.Teenage mutant turtle hero hankies.
-*CLA:	Don't you think you would be better having a proper size size box?
-*HEL:	 (        ) hankies. (        ) Mutant hero turtles?
-*CLA:	She won't   (.) Yeah.You won't if you get a cold. (.) 
-*AMY:	Shall I take two  (        ) 
-*CLA:	Well er    (.)  (        ) tissues anyway.
-*AMY:	I think that tissue paper's thick.
-*CLA:	Unclear.
-*HEL:	Eighty-one p.
-*CLA:	Well I think, I don't think there'll be enough for you for a week.Er I should take a box  (        ) 
-*AMY:	Yes it will.
-*CLA:	You won't have all that much.
-*AMY:	Could I take this one?
-*CLA:	Yes all right. (.) All right.Soap -camelia or rose?Which soap do you want?
-*AMY:	Camelia.What's camelia?
-*CLA:	Pink.
-*HEL:	That was the one I had.
-*CLA:	Orangey colour that one.
-*AMY:	I need this one because I lost it.I lent it to Bronwen.
-*CLA:	You want that one too?
-*AMY:	Yes  (        ) 
-*CLA:	Well it's o do you want a new flannel or anything particular?We need a new  (        ) 
+*UNK:	Do you think I'm well enough for my trip  (  )  
+*CLA:	No. I think we've got quite fit. 
+*HEL:	 (  ) 
+*CLA:	No it fits in a case. 
+*HEL:	Yes. Yes. That's the one  (  )  
+*CLA:	Green one? 
+*HEL:	What other colours is there? 
+*CLA:	There're aren't. 
+*AMY:	I will take the yellow one I think. You've got the white one anyway. 
+*CLA:	You'd rather have that than the   (.) you know 
+*AMY:	Yes 
+*HEL:	Does this tooth Mum   (.) does this toothbrush fold up? 
+*CLA:	No it's in a case so you don't get 
+*HEL:	Does the boys   (  ) something  (  ) . When you 
+*CLA:	When you want some soap   (.) hmm 
+*AMY:	Is there a toothbrush inside that 
+*CLA:	Hmm 
+*HEL:	thing? 
+*CLA:	She wants her soap and some tissues   (14.0) Erm   (10.0) I don't think you need teenage mutant hero turtles. 
+*HEL:	Why? 
+*CLA:	Well you need more that those. 
+*HEL:	What are those? Those could be hankies. Teenage mutant turtle hero hankies. 
+*CLA:	Don't you think you would be better having a proper size size box? 
+*HEL:	 (  ) hankies.  (  ) Mutant hero turtles? 
+*CLA:	She won't   (.) Yeah. You won't if you get a cold. (12.0)  
+*AMY:	Shall I take two  (  )  
+*CLA:	Well er    (.)  (  ) tissues anyway. 
+*AMY:	I think that tissue paper's thick. 
+*CLA:	Unclear. 
+*HEL:	Eighty-one p. 
+*CLA:	Well I think, I don't think there'll be enough for you for a week. Er I should take a box  (  )  
+*AMY:	Yes it will. 
+*CLA:	You won't have all that much. 
+*AMY:	Could I take this one? 
+*CLA:	Yes all right.  (.) All right. Soap -camelia or rose? Which soap do you want? 
+*AMY:	Camelia. What's camelia? 
+*CLA:	Pink. 
+*HEL:	That was the one I had. 
+*CLA:	Orangey colour that one. 
+*AMY:	I need this one because I lost it. I lent it to Bronwen. 
+*CLA:	You want that one too? 
+*AMY:	Yes  (  )  
+*CLA:	Well it's o do you want a new flannel or anything particular? We need a new  (  )  
 @End

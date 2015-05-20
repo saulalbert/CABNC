@@ -1,24 +1,24 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0025XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0025XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0025XX-AAZZP0.wav
 @Comment:	conversation #123 (Tape 002501)
-*NOR:	You know we was talking about   ((tv on)) (        ) ?
-*CHR:	Yes.
-*NOR:	There's the  (        ) .Technology use, use the purest water.
-*CHR:	Yes.
-*NOR:	 (        ) 
-*CHR:	 (        ) .It's the basis of redial dialysis.
-*NOR:	Boiling water removes bacteria and not removes, dissolves  (        ) .
-*CHR:	Well there's a signifi  (.) the, the osmosis really is a membrane which allows water to go through, but nothing else.
+*NOR:	You know we was talking about   ((tv on)) (  ) ? 
+*CHR:	Yes. 
+*NOR:	There's the  (  ) . Technology use, use the purest water. 
+*CHR:	Yes. 
+*NOR:	 (  ) 
+*CHR:	 (  ) . It's the basis of redial dialysis. 
+*NOR:	Boiling water removes bacteria and not removes, dissolves  (  ) . 
+*CHR:	Well there's a signifi   (.) the, the osmosis really is a membrane which allows water to go through, but nothing else. 
 @End

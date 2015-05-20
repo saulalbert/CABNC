@@ -1,30 +1,30 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
-@Date:	1991-02:  Unspecified
-@Media: 021A-C0897X0360XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
+@Date:	1991-02:  Unspecified 
+@Media:	021A-C0897X0360XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	COL Colin self, SHE Sheila wife
-@ID: eng|AudioBNC|COL|unknown |m|X| |British Rail employee||PS069|
-@ID: eng|AudioBNC|SHE|unknown |f|X| |housekeeper|wife|PS10D|
+@Options:	CA
+@ID:	eng|AudioBNC|COL|unknown||||British Rail employee||PS069|
+@ID:	eng|AudioBNC|SHE|unknown||||housekeeper|wife|PS10D|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0360XX-AAZZP0.wav
 @Comment:	conversation #10 (Tape 036001)
-*COL:	That's right, it's on now that is.
-*SHE:	 (        ) talking is it?
-*COL:	 (        ) 
-*SHE:	What's it called love?
-*COL:	Neville's  (        ) .
-*SHE:	Who?
-*COL:	Neville .
-*SHE:	Oh! (.) You got any first class stamps anywhere?Yeah?I'm   (        ) a first erm   (.) class si stamps.
-*COL:	 (        ) stamps?
-*SHE:	Yeah.Cos I've got   (.) I've got a couple here twenty four pence.
-*COL:	 (        ) fifty, fifty pence?
-*SHE:	No, I got some green in here.Erm   (.) two pence. (.) No I can't find any.
-*COL:	 (        ) .
-*SHE:	Here are, er
-*COL:	 (        ) 
-*SHE:	Four at twenty four pence   (.) and two at two pence.So that's  (        ) .And that if I post it tomorrow   (        ) Friday. (.) So if I put a twenty four one on then it could leave that like that, right? (.) Don't want her to pay any out at the other end do we?Oh yeah.
+*COL:	That's right, it's on now that is. 
+*SHE:	 (  ) talking is it? 
+*COL:	 (  ) 
+*SHE:	What's it called love? 
+*COL:	Neville's  (  ) . 
+*SHE:	Who? 
+*COL:	Neville  . 
+*SHE:	Oh!  (269.0) You got any first class stamps anywhere? Yeah? I'm   (  ) a first erm   (.) class si  stamps. 
+*COL:	 (  ) stamps? 
+*SHE:	Yeah. Cos I've got   (.) I've got a couple here twenty four pence. 
+*COL:	 (  ) fifty, fifty pence? 
+*SHE:	No, I got some green in here. Erm   (.) two pence.  (7.0) No I can't find any. 
+*COL:	 (  ) . 
+*SHE:	Here are, er 
+*COL:	 (  ) 
+*SHE:	Four at twenty four pence   (.) and two at two pence. So that's  (  ) . And that if I post it tomorrow   (  ) Friday.  (30.0) So if I put a twenty four one on then it could leave that like that, right?  (7.0) Don't want her to pay any out at the other end do we? Oh yeah. 
 @End

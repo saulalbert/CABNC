@@ -1,30 +1,30 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0025XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0025XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0025XX-ABZZP0.wav
 @Comment:	conversation #129 (Tape 002507)
-*CHR:	Hello 
-*UNK:	 (        ) 
-*CHR:	Thank you very much.
-*UNK:	Sign
-*CHR:	Yes sure.Right, just this, anywhere?
-*UNK:	sign it
-*CHR:	Right, what is this Datapost?
-*UNK:	No, (        ) .
-*CHR:	Similar sort of thing is it?
-*UNK:	 (        ) 
-*CHR:	Thank you.
-*UNK:	Lovely.
-*CHR:	Thank you very much.
-*UNK:	Thank you.Bye.
-*CHR:	Bye.
+*CHR:	 Hello   
+*UNK:	  (  )  
+*CHR:	Thank you very much. 
+*UNK:	Sign 
+*CHR:	Yes sure. Right, just this, anywhere? 
+*UNK:	sign it 
+*CHR:	Right, what is this Datapost? 
+*UNK:	No, (  ) . 
+*CHR:	Similar sort of thing is it? 
+*UNK:	 (  ) 
+*CHR:	Thank you. 
+*UNK:	Lovely. 
+*CHR:	 Thank you very much. 
+*UNK:	 Thank you.  Bye. 
+*CHR:	Bye. 
 @End

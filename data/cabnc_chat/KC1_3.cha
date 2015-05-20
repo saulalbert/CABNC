@@ -1,44 +1,44 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-24:  
 @Location:	 at work 
-@Situation:	 servicing electrical goods 
-@Media: 021A-C0897X0407XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 servicing electrical goods  
+@Media:	021A-C0897X0407XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , FRA Frank self, GER Gerry customer
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|FRA|~50;| |m|Ag4| |tv engineer||PS09E|
-@ID: eng|AudioBNC|GER|~46;| |m|Ag4| |tv dealer|customer|PS09H|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|FRA|50;|||||tv engineer||PS09E|
+@ID:	eng|AudioBNC|GER|46;|||||tv dealer|customer|PS09H|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0407XX-ABZZP0.wav
 @Comment:	conversation #3 (Tape 040703)
-*GER:	Yeah   (.) of course once they get to know where you are
-*FRA:	This is it 
-*GER:	and you don't o do you open weekends?You don't open Saturdays now?
-*FRA:	We don't, no.
-*GER:	No.Are you going to?
-*FRA:	No we don't. (.) I dunno, we're thinking about it but, you know it's erm
-*GER:	Well if you're doing enough to keep you both happy and keep it
-*FRA:	Well you see we're a bit further from home now and if we can do it for five days, great, we haven't 
-*GER:	Yeah 
-*FRA:	got that extra travelling, you know, this is the problem.
-*GER:	Yeah, yeah, yeah.You're looking better for it though.
-*FRA:	Oh yeah I feel alright, yeah.
-*GER:	Yeah.Frankie give me a b g er as I get stuff I'll bring it in to you, alright?
-*FRA:	Yeah, okay lovely.
-*GER:	 (        ) well you know you've only gotta give me a ring  (        ) 
-*FRA:	Alright  (        ) 
-*UNK:	 (        ) 
-*GER:	Yeah.You've only gotta get me, you know   (        ) I'll be   (        ) 
-*UNK:	Picked your cheque up?
-*GER:	Yeah it's in there.
-*UNK:	Yeah.
-*GER:	See you shortly.
-*UNK:	Thank you very much   (        ) 
-*FRA:	See you   (        ) 
-*GER:	Tata   (        ) 
-*UNK:	 (        ) 
-*FRA:	See you got a   (        ) on those, yeah.Bye now. (.) 
+*GER:	Yeah   (.) of course once they get to know where you are 
+*FRA:	This  is it   
+*GER:	 and you don't  o  do you open weekends? You don't open Saturdays  now? 
+*FRA:	 We  don't, no. 
+*GER:	No.  Are you going to? 
+*FRA:	 No we don't.   (.) I dunno, we're thinking about it but, you know it's erm 
+*GER:	Well if you're doing enough to keep you both happy and keep it 
+*FRA:	Well you see we're a bit further from home now and if we can do it for five days, great, we haven't   
+*GER:	 Yeah   
+*FRA:	got that extra  travelling, you know, this is the problem. 
+*GER:	 Yeah, yeah, yeah.  You're looking better for it though. 
+*FRA:	Oh yeah I feel alright, yeah. 
+*GER:	Yeah. Frankie give me a b  g  er as I get stuff I'll  bring it in to you, alright? 
+*FRA:	 Yeah, okay  lovely. 
+*GER:	 (  ) well you know you've only gotta give me a ring  (  )  
+*FRA:	Alright  (  )  
+*UNK:	 (  ) 
+*GER:	Yeah. You've only gotta get me, you know   (  )  I'll be   (  )   
+*UNK:	 Picked your cheque up? 
+*GER:	Yeah it's in there. 
+*UNK:	Yeah. 
+*GER:	See you shortly. 
+*UNK:	 Thank you very much   (  )   
+*FRA:	 See you   (  )   
+*GER:	Tata    (  )   
+*UNK:	  (  )  
+*FRA:	 See you got a   (  ) on those, yeah.  Bye now. (.)  
 @End

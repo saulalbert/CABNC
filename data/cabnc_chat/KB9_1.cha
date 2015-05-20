@@ -1,36 +1,36 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-01:  
 @Location:	  stables  
-@Situation:	  working with horses  
-@Media: 021A-C0897X0619XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  working with horses   
+@Media:	021A-C0897X0619XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	ANN Annette self, TER Teresa daughter
-@ID: eng|AudioBNC|ANN|~44;| |f|Ag3| |administrative assistant||PS1CX|
-@ID: eng|AudioBNC|TER|~19;| |f|Ag1| |stable hand|daughter|PS1CY|
+@Options:	CA
+@ID:	eng|AudioBNC|ANN|44;|||||administrative assistant||PS1CX|
+@ID:	eng|AudioBNC|TER|19;|||||stable hand|daughter|PS1CY|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0619XX-ABZZP0.wav
 @Comment:	conversation #1 (Tape 061901)
-*ANN:	I got a thing from   (        ) this morning
-*TER:	From where?
-*ANN:	 (        ) 
-*TER:	where's that at?
-*ANN:	it's the
-*TER:	er college 
-*ANN:	technical college 
-*TER:	oh right, what saying?, you're not brainy enough to go to college
-*ANN:	no, no I don't no, is  (        ) 
-*TER:	oh can I have your fork?
-*ANN:	 [screaming] ah ya   [] you've got more than me
-*TER:	I like these feet
-*ANN:	I do, I like the yellow ones, it, it just said
-*TER:	what did it say?
-*ANN:	I thought it was a refresher course, (        ) it's not that
-*TER:	what is this?, this yours? (.) Jane don't be nosy, you shouldn't read other people's things   (.) what did she say   (        ) it?
-*ANN:	 (        ) 
-*ANN:	Go and ask when she's finished or when she's about finished reading that  (        ) 
-*TER:	she's nearly finished actually
-*ANN:	why, what she gonna do? (.) 
+*ANN:	I got a thing from   (  ) this morning 
+*TER:	From where? 
+*ANN:	 (  ) 
+*TER:	where's that at? 
+*ANN:	it's the 
+*TER:	 er college   
+*ANN:	 technical college   
+*TER:	oh right, what saying?, you're not brainy enough to go to college 
+*ANN:	no, no I don't no, is  (  )  
+*TER:	oh can I have your fork? 
+*ANN:	 ((screaming)) ah ya  you've got more than me 
+*TER:	I like these feet 
+*ANN:	I do, I like the yellow ones, it, it just said 
+*TER:	what did it say? 
+*ANN:	I thought it was a refresher course, (  ) it's not that 
+*TER:	what is this?, this yours?  (.) Jane don't be nosy, you shouldn't read other people's things   (.) what did she say   (  ) it? 
+*ANN:	 (  ) 
+*ANN:	Go and ask when she's finished or when she's about finished reading that  (  )  
+*TER:	she's nearly finished actually 
+*ANN:	why, what she gonna do? (.)  
 @End

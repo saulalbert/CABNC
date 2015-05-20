@@ -1,33 +1,33 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-28:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0140XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0140XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	GIN Ginny self, KEI Keith husband
-@ID: eng|AudioBNC|GIN|~65;| |f|Ag5| |housewife||PS0CG|
-@ID: eng|AudioBNC|KEI|~63;| |m|Ag5| |design engineer|husband|PS0CH|
+@Options:	CA
+@ID:	eng|AudioBNC|GIN|65;|||||housewife||PS0CG|
+@ID:	eng|AudioBNC|KEI|63;|||||design engineer|husband|PS0CH|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0140XX-AAZZP0.wav
 @Comment:	conversation #1 (Tape 014001)
-*GIN:	Got you a glass of wine darling? (.) Sweetheart. (.) Keith. (.) Keith, darling   (.) wake up.Wake up.
-*KEI:	Mm.
-*GIN:	I got you a glass of wine. (.) The sun's well over the yard arm.How are you feeling?Isn't it time you stretched your back?
-*KEI:	Oh it's lovely   (        ) pain  (        ) 
-*GIN:	You what darling?
-*KEI:	Pain is just goes   (        ) pain is  (        ) 
-*GIN:	Oh ah.
-*KEI:	Mm?
-*GIN:	 (        ) strong
-*KEI:	Thank you  (        ) 
-*GIN:	Oh pleasure.
-*KEI:	Ooh.
-*GIN:	That'll help   (        ) as well. (.) It is nice isn't it? (        ) . (.) You alright?Do you want your water bottle filled?
-*KEI:	Beg your pardon?
-*GIN:	Do you want your water bottle filled?
-*KEI:	Oh  (        ) 
-*GIN:	Alright.
+*GIN:	Got you a glass of wine darling?  (.) Sweetheart.  (.) Keith.  (.) Keith, darling   (.) wake up.  Wake up. 
+*KEI:	 Mm. 
+*GIN:	I got you a glass of wine.  (.) The sun's well over the yard arm. How are you feeling? Isn't it time you stretched your back? 
+*KEI:	Oh it's lovely   (  ) pain  (  )  
+*GIN:	You what darling? 
+*KEI:	Pain is just goes   (  ) pain is  (  )  
+*GIN:	Oh ah. 
+*KEI:	Mm? 
+*GIN:	 (  ) strong 
+*KEI:	Thank you  (  )  
+*GIN:	Oh pleasure. 
+*KEI:	Ooh. 
+*GIN:	That'll help   (  ) as well.  (.) It is nice isn't it?  (  ) . (8.0) You alright? Do you want your water bottle filled? 
+*KEI:	Beg your pardon? 
+*GIN:	Do you want your water bottle filled? 
+*KEI:	Oh  (  )  
+*GIN:	Alright. 
 @End

@@ -1,23 +1,23 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 Croquet club 
-@Situation:	 playing croquet 
-@Media: 021A-C0897X0028XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 playing croquet  
+@Media:	021A-C0897X0028XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, DAV David neighbour
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|DAV|~45;| |m|Ag4| |property manager|neighbour|PS107|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|DAV|45;|||||property manager|neighbour|PS107|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0028XX-AAZZP0.wav
 @Comment:	conversation #182 (Tape 002805)
-*CHR:	That was probably  (.) 
-*DAV:	I rather overdid the angle too didn't I, the cut?
-*CHR:	Yeah, I think it's about, isn't it surely?That's a I'm very lucky I don't really have problems with the angles
-*DAV:	Good.
-*CHR:	 (.) at all but it's just  (        ) .Yes it's much better.
-*DAV:	Right.
-*CHR:	Try a try a shot with a   (        ) which would be a roll won't it?
+*CHR:	That was probably  (.)  
+*DAV:	I rather overdid the angle too didn't I, the cut? 
+*CHR:	Yeah, I think it's about, isn't it surely? That's a  I'm very lucky I don't really have problems with the angles 
+*DAV:	Good. 
+*CHR:	 (.) at all but it's just  (  ) . Yes it's much better. 
+*DAV:	Right. 
+*CHR:	Try a try a shot with a   (  ) which would be a roll won't it? 
 @End

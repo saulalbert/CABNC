@@ -1,40 +1,40 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-04-04:  
 @Location:	  at home  
-@Situation:	  housework and cooking  
-@Media: 021A-C0897X0720XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  housework and cooking   
+@Media:	021A-C0897X0720XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	AUD Audrey self, GOR Gordon husband
-@ID: eng|AudioBNC|AUD|~61;| |f|Ag5| |housewife||PS1A9|
-@ID: eng|AudioBNC|GOR|~61;| |m|Ag5| |teacher|husband|PS1AA|
+@Options:	CA
+@ID:	eng|AudioBNC|AUD|61;|||||housewife||PS1A9|
+@ID:	eng|AudioBNC|GOR|61;|||||teacher|husband|PS1AA|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0720XX-AAZZP0.wav
 @Comment:	conversation #7 (Tape 072001)
-*GOR:	If you only want    (        )  (.) for the effect of being a clown.
-*AUD:	Yeah, I think you're probably right there.Yes.Yeah.
-*GOR:	Was it between someone running off like that bloke in that  (        ) 
-*AUD:	Yeah.
-*GOR:	whatever it was?Yeah well you shouldn't  (        ) .
-*AUD:	I know.And they all
-*GOR:	I don't like that.
-*AUD:	No I don't.I don't.
-*GOR:	Yes.
-*AUD:	I've noticed that though before.
-*GOR:	Have you?
-*AUD:	Yeah.Yes I have.Or if anybody is sort of slightly backward
-*GOR:	Yes.
-*AUD:	portraying someone who's slightly backward.
-*GOR:	Or maybe brilliant or a
-*AUD:	Yeah.
-*GOR:	erm   (.) a swot.
-*AUD:	Yes.Yeah.I think it's all wrong.
-*GOR:	I don't actually, I don't know why they do it because, I mean, half the people are listeners int it?I mean it's 
-*AUD:	Course they do.
-*GOR:	blooming horrible!
-*AUD:	I think a lot more these days, and a lot that you don't know that's wearing contact lenses.
-*GOR:	That's right.Yeah.
-*AUD:	I must listen to this.
+*GOR:	If you only want    (  )  (.) for the effect of being a clown. 
+*AUD:	Yeah, I think you're probably right there. Yes. Yeah. 
+*GOR:	Was it between someone running off like that bloke in that  (  )  
+*AUD:	Yeah. 
+*GOR:	whatever it was? Yeah well you shouldn't  (  ) . 
+*AUD:	I know. And they all 
+*GOR:	I don't like that. 
+*AUD:	No I don't. I don't. 
+*GOR:	Yes. 
+*AUD:	I've noticed that though before. 
+*GOR:	Have you? 
+*AUD:	Yeah. Yes I have. Or if anybody is sort of slightly backward 
+*GOR:	 Yes. 
+*AUD:	 portraying  someone who's slightly backward. 
+*GOR:	Or maybe brilliant or a 
+*AUD:	Yeah. 
+*GOR:	erm   (.) a swot. 
+*AUD:	Yes. Yeah. I think it's all wrong. 
+*GOR:	I don't actually, I don't know why they do it because, I mean, half the people are listeners int it?  I mean it's   
+*AUD:	 Course they do. 
+*GOR:	blooming horrible! 
+*AUD:	I think a lot more these days, and a lot that you don't know that's wearing contact lenses. 
+*GOR:	That's right. Yeah. 
+*AUD:	I must listen to this. 
 @End

@@ -1,32 +1,32 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
-@Date:	1992-02:  Unspecified
-@Media: 021A-C0897X0623XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
+@Date:	1992-02:  Unspecified 
+@Media:	021A-C0897X0623XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , ANN Annette self, TRA Tracy daughter
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|ANN|~44;| |f|Ag3| |administrative assistant||PS1CX|
-@ID: eng|AudioBNC|TRA|~24;| |f|Ag1| |housewife|daughter|PS1D1|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|ANN|44;|||||administrative assistant||PS1CX|
+@ID:	eng|AudioBNC|TRA|24;|||||housewife|daughter|PS1D1|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0623XX-ABZZP0.wav
 @Comment:	conversation #28 (Tape 062316)
-*ANN:	 [sighing] Oh dear  [] !
-*TRA:	Right?
-*ANN:	Not been our day at all has it?
-*TRA:	No. ((baby crying))
-*TRA:	Come on then.We'll go and get back into the car.Go and pick them shoes up and then go to  (        ) .
-*ANN:	Does this mean now   (.) a retention of significant capital works out at ten percent?
-*TRA:	I don't know. ((baby talk))
-*ANN:	I don't like this bit either.Summat a  (.) all to be carried out in a much better spirit and both parties were pleased with the result.
-*TRA:	Yeah.
-*ANN:	But yeah.So why are they having a meeting with them next week? ((baby crying))
-*ANN:	Right.
-*TRA:	 [shouting] There's no reply dad  [] !
-*ANN:	Try again in a bit.I'll see you later!
-*TRA:	 [shouting] Bye  [] !
-*UNK:	 [shouting] Bye!See you later  [] !
-*TRA:	Tarrah! [shouting] See you Richard  [] !
-*UNK:	 [shouting] See you  [] !
+*ANN:	 ((sighing)) Oh dear ! 
+*TRA:	Right? 
+*ANN:	Not been our day at all has it? 
+*TRA:	No. ((baby crying)) 
+*TRA:	Come on then. We'll go and get back into the car. Go and pick them shoes up and then go to  (  ) . 
+*ANN:	Does this mean now   (.) a retention of significant capital works out at ten percent? 
+*TRA:	I don't know. ((baby talk)) 
+*ANN:	I don't like this bit either. Summat a   (.) all to be carried out in a much better spirit and both parties were pleased with the result. 
+*TRA:	Yeah. 
+*ANN:	But yeah. So why are they having a meeting with them next week? ((baby crying)) 
+*ANN:	Right. 
+*TRA:	 ((shouting)) There's no reply dad ! 
+*ANN:	Try again in a bit. I'll see you later! 
+*TRA:	 ((shouting)) Bye ! 
+*UNK:	 ((shouting)) Bye! See you later ! 
+*TRA:	Tarrah!  ((shouting)) See you Richard ! 
+*UNK:	 ((shouting)) See you ! 
 @End

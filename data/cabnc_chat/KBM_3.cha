@@ -1,21 +1,21 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-04-02:  
 @Location:	 at home 
-@Situation:	 eating dinner 
-@Media: 021A-C0897X0723XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 eating dinner  
+@Media:	021A-C0897X0723XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, LYN Lynne mother
-@ID: eng|AudioBNC|CHR|~15;| |m|Ag1| |student||PS1BL|
-@ID: eng|AudioBNC|LYN|~45;| |f|Ag4| |bookkeeper|mother|PS1BM|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|15;|||||student||PS1BL|
+@ID:	eng|AudioBNC|LYN|45;|||||bookkeeper|mother|PS1BM|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0723XX-AAZZP0.wav
 @Comment:	conversation #3 (Tape 072303)
-*CHR:	What doesn't taste 
-*LYN:	Chips 
-*CHR:	nice?
-*LYN:	No.Chips when they're overdone.Brown.Too brown.
-*CHR:	Yeah I know.So?
+*CHR:	What doesn't  taste   
+*LYN:	 Chips   
+*CHR:	nice? 
+*LYN:	No. Chips when they're overdone. Brown. Too brown. 
+*CHR:	Yeah I know. So? 
 @End

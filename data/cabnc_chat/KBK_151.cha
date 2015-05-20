@@ -1,48 +1,48 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 Croquet club 
-@Situation:	Unspecified
-@Media: 021A-C0897X0026XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0026XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , CHR Chris self, DAV David neighbour
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|DAV|~45;| |m|Ag4| |property manager|neighbour|PS107|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|DAV|45;|||||property manager|neighbour|PS107|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0026XX-ABZZP0.wav
 @Comment:	conversation #151 (Tape 002621)
-*UNK:	Hello, hello.
-*DAV:	Hello, how are you?Hello, Chris has come down to see what croquet is all about.
-*UNK:	Oh really, hello, hello.
-*CHR:	Hello.
-*UNK:	Somebody who pretends to like it.
-*CHR:	Yes, so I've gathered yes, yes. (        ) .
-*UNK:	Playing at it, playing at it, ((laugh)) we're   (        ) struggling.
+*UNK:	Hello, hello. 
+*DAV:	Hello, how are you? Hello, Chris has come down to see what croquet is all about. 
+*UNK:	Oh really, hello, hello. 
+*CHR:	Hello. 
+*UNK:	Somebody who pretends to like it. 
+*CHR:	Yes, so I've gathered yes, yes. (  ) . 
+*UNK:	Playing at it, playing at it, ((laugh)) we're   (  ) struggling. 
 *CHR:	 ((laugh)) 
-*DAV:	Is there erm, a club manager in there  (        ) ?
-*UNK:	No.
-*CHR:	 (        ) buildings David. ((laugh)) wonderful.How splendid.
-*DAV:	Two, two colours ball, that's primary coloured.
-*CHR:	Right.
-*DAV:	 (        ) colours, that means you can double bank on the lawn, you can have two games going on at once.
-*CHR:	Oh I see, that's crafty, yes, yes  (.) 
-*DAV:	I'll take the best one.
-*CHR:	What's the significance of the black tip?
-*DAV:	Just to put the clips on them.
-*CHR:	Oh I see, yes, yeah.
-*DAV:	 (        )  (.) 
-*CHR:	Members leave their mallets here as often as not do they?
-*DAV:	Yes, they do.I don't tend to. (        ) because I might want to play somewhere else anyway get caught, I just tend to leave it in the car.
-*CHR:	Absolutely, yes.
-*DAV:	 (        ) 
-*CHR:	Oh thank you.
-*DAV:	 (        ) 
-*CHR:	Yes.Oh yes, there's a good weight in that head isn't there?
-*DAV:	Yeah.
-*CHR:	Sorry what   (        ) say about three pounds?
-*DAV:	Three pounds is   (        ) goes all weekend.
-*CHR:	Right.
+*DAV:	Is there erm, a club manager in there  (  ) ? 
+*UNK:	No. 
+*CHR:	 (  ) buildings David.  ((laugh)) wonderful. How splendid. 
+*DAV:	Two, two colours ball, that's primary coloured. 
+*CHR:	Right. 
+*DAV:	 (  ) colours, that means you can double bank on the lawn, you can have two games going on at once. 
+*CHR:	Oh I see, that's crafty, yes, yes  (6.0)  
+*DAV:	I'll take the best one. 
+*CHR:	What's the significance of the black tip? 
+*DAV:	Just to put the clips on them. 
+*CHR:	Oh I see, yes, yeah. 
+*DAV:	 (  )  (6.0) 
+*CHR:	Members leave their mallets here as often as not do they? 
+*DAV:	Yes, they do. I don't tend to.  (  ) because I might want to play  somewhere else anyway get caught, I just tend to leave it in the car. 
+*CHR:	 Absolutely, yes. 
+*DAV:	 (  ) 
+*CHR:	Oh thank you. 
+*DAV:	 (  ) 
+*CHR:	Yes. Oh yes, there's a good weight in that head isn't there? 
+*DAV:	Yeah. 
+*CHR:	Sorry what   (  ) say about three pounds? 
+*DAV:	Three pounds is   (  ) goes all weekend. 
+*CHR:	Right. 
 @End

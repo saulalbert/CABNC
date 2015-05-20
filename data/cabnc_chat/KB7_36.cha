@@ -1,22 +1,22 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-03:  
 @Location:	  home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0189XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0189XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	ANN Ann self, STU Stuart partner
-@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
-@ID: eng|AudioBNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
+@Options:	CA
+@ID:	eng|AudioBNC|ANN|46;|||||team leader||PS02G|
+@ID:	eng|AudioBNC|STU|33;|||||factory operative|partner|PS02H|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0189XX-AAZZP0.wav
 @Comment:	conversation #36 (Tape 018904)
-*ANN:	What's the time Stuart? (.) Please.
-*STU:	It's eleven o'clock   (.) near enough.
-*ANN:	Right.
-*STU:	Not quite, but
-*ANN:	Near enough   (.) That's ooh    (.)  (        ) in the oven and the steak's done   (.) If it's late I can   (.) grill it   (.) then you   (        ) have it when you want it.
-*STU:	Aha.
+*ANN:	What's the time Stuart?  (.) Please. 
+*STU:	It's eleven o'clock   (.) near enough. 
+*ANN:	Right. 
+*STU:	Not quite, but 
+*ANN:	Near enough   (42.0) That's ooh    (.)  (  ) in the oven and the steak's done   (11.0) If it's late I can   (.) grill it   (7.0) then you   (  ) have it when you want it. 
+*STU:	Aha. 
 @End

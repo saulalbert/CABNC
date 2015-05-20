@@ -1,27 +1,27 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-03:  
 @Location:	  home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0189XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0189XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	ANN Ann self, STU Stuart partner
-@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
-@ID: eng|AudioBNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
+@Options:	CA
+@ID:	eng|AudioBNC|ANN|46;|||||team leader||PS02G|
+@ID:	eng|AudioBNC|STU|33;|||||factory operative|partner|PS02H|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0189XX-ABZZP0.wav
 @Comment:	conversation #40 (Tape 018908)
-*ANN:	That smells   (.) mm mm.
-*STU:	 (        ) 
-*ANN:	Mm mm! (.) Well that's gonna be alright   (.) I don't understand   (.) why every time  (        ) 
-*STU:	You
-*ANN:	Give it another ten minutes, make sure the top   (.) the bacon
-*STU:	Yeah.
-*ANN:	Nice.
-*STU:	I've gotta nip upstairs.
-*ANN:	Er   (.) yes. ((laugh)) 
-*STU:	Cos I   (.) wouldn't know   (.) I've done enough    (.)  (        ) okay?
-*ANN:	Yep   (.) that's fine.
+*ANN:	That smells   (.) mm mm. 
+*STU:	 (  ) 
+*ANN:	Mm mm!  (.) Well that's gonna be alright   (.) I don't understand   (.) why every time  (  )  
+*STU:	You 
+*ANN:	Give it another ten minutes, make sure the top   (.) the bacon 
+*STU:	Yeah. 
+*ANN:	Nice. 
+*STU:	I've gotta nip upstairs. 
+*ANN:	Er   (.) yes. ((laugh))   
+*STU:	 Cos I    (.) wouldn't know   (.) I've done enough    (.)  (  ) okay? 
+*ANN:	Yep   (.) that's fine. 
 @End

@@ -1,57 +1,57 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 shopping 
-@Situation:	Unspecified
-@Media: 021A-C0897X0048XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0048XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
-@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
+@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0048XX-ABZZP0.wav
 @Comment:	conversation #26 (Tape 004813)
-*HEL:	Rfff, you pull.
-*CLA:	Aah, it's white isn't it?
-*HEL:	And wiggle it a bit. ((laugh)) , you'll have to be able to do it or else you won't be able to clean your teeth.I think you'd better make your bed.
-*CLA:	 (        ) .
-*HEL:	Hm. (        ) .
-*AMY:	It's in a mess my  (        ) .
-*CLA:	If she don't put it, if you don't take it right down then it comes out.
-*HEL:	Oh does it?
-*CLA:	She just put it like that, but it's not  (        ) .
-*HEL:	It's not, oh that's alright.Just say if she's soaked some stuff written on it.
-*CLA:	Yeah  ((laugh)) .Little fish in my erm thingys.
-*HEL:	Yeah.
-*CLA:	Cos that thing that normally sticks out the top.
-*HEL:	I don't it says you've got to have a cagoule.
-*CLA:	I   (        ) it did.
-*HEL:	Hm.
-*CLA:	 (        ) .
-*HEL:	It might say preferably.Right school sweatshirt, tee shirt, skirt, dress, casual trousers, jeans, warm jumper.Changes of underwear, socks, shoes, trainers, night dress, carpet sleepers, washing kit, towel, hair brush, cagoule shoulder bag.
-*CLA:	Cagoule and a shoulder bag.
-*HEL:	No, ((laugh)) I, I think they .
-*CLA:	Cagoule   (        ) .
-*HEL:	I think they mean a back pack, warm jacket or coat, in-expensive camera and film   (.) I think they mean a back pack.You could of had a shoulder bag.
-*CLA:	What's that?.
-*HEL:	Well, one that goes on your shoulder  (        ) .
-*CLA:	They won't mind a   (        ) will they?
-*HEL:	No, I think that's what they told you to take   (.) Oh, how often you expect me to write to you.
-*CLA:	Why?
-*HEL:	You've got to take some stamps.
-*CLA:	If I send one to grandma, one to you and Amy, and then I'll write one to grandma Lincolnshire, but I'll won't send it off, it'll be to expensive won't it?Send it off here couldn't you?If I send one to grandma and granddad, if I send one to you then send to  (        ) .
-*HEL:	Yes, that's alright.
-*CLA:	So it'll be a, take about five  (        ) . (        ) .
-*HEL:	If you wish  ((cough)) .
-*CLA:	There will be  (        ) .
-*HEL:	I don't need, look.
-*CLA:	No, mummy, I'll give   (        ) look I  (        ) .
-*HEL:	Tidy it up then please.
-*CLA:	 (        ) .
-*HEL:	Right, I think I'll shall do some.
-*CLA:	 (        ) ..
-*HEL:	Yes, I'll shall put it on the spare bedroom bed, not that there's a lot of room on there, but still.
+*HEL:	Rfff, you pull. 
+*CLA:	Aah, it's white isn't it? 
+*HEL:	And wiggle it a bit.  ((laugh)) , you'll have to be able to do it or else you won't be able to clean your teeth. I think you'd better make your bed. 
+*CLA:	 (  ) . 
+*HEL:	Hm. (  ) . 
+*AMY:	It's in a mess my  (  ) . 
+*CLA:	If she don't put it, if you don't take it right down then it comes out. 
+*HEL:	Oh does it? 
+*CLA:	She just put it like that, but it's not  (  ) . 
+*HEL:	It's not, oh that's alright. Just say if she's soaked some stuff written on it. 
+*CLA:	Yeah  ((laugh)) . Little fish in my erm thingys. 
+*HEL:	Yeah. 
+*CLA:	Cos that thing that normally sticks out the top. 
+*HEL:	I don't it says you've got to have a cagoule. 
+*CLA:	I   (  ) it did. 
+*HEL:	Hm. 
+*CLA:	 (  ) . 
+*HEL:	It might say preferably. Right school sweatshirt, tee shirt, skirt, dress, casual trousers, jeans, warm jumper. Changes of underwear, socks, shoes, trainers, night dress, carpet sleepers, washing kit, towel, hair brush, cagoule shoulder bag. 
+*CLA:	Cagoule and a shoulder bag. 
+*HEL:	No, ((laugh))  I, I think they  . 
+*CLA:	 Cagoule   (  )  . 
+*HEL:	I think they mean a back pack, warm jacket or coat, in-expensive camera and film   (5.0) I think they mean a back pack. You could of had a shoulder bag. 
+*CLA:	What's that?. 
+*HEL:	Well, one that goes on your shoulder  (  ) . 
+*CLA:	They won't mind a   (  ) will they? 
+*HEL:	No, I think that's what they told you to take   (15.0) Oh, how often you expect me to write to you. 
+*CLA:	Why? 
+*HEL:	You've got to take some stamps. 
+*CLA:	If I send one to grandma, one to you and Amy, and then I'll write one to grandma Lincolnshire, but I'll won't send it off, it'll be to expensive won't it? Send it off here couldn't you? If I send one to grandma and granddad, if I send one to you then send to  (  ) . 
+*HEL:	Yes, that's alright. 
+*CLA:	So it'll be a, take about five  (  ) . (  ) . 
+*HEL:	If you wish  ((cough)) . 
+*CLA:	There will be  (  ) . 
+*HEL:	I don't need, look. 
+*CLA:	No, mummy, I'll give   (  ) look I  (  ) . 
+*HEL:	Tidy it up then please. 
+*CLA:	 (  ) . 
+*HEL:	Right, I think I'll shall do some. 
+*CLA:	 (  ) .. 
+*HEL:	Yes, I'll shall put it on the spare bedroom bed, not that there's a lot of room on there, but still. 
 @End

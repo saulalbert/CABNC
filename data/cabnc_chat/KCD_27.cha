@@ -1,34 +1,34 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 shopping 
-@Situation:	Unspecified
-@Media: 021A-C0897X0048XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0048XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
-@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
+@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0048XX-ABZZP0.wav
 @Comment:	conversation #27 (Tape 004814)
-*HEL:	I think you've just cost me a fortune today.
-*CLA:	Have I?
-*HEL:	Take one of those boxes of tissues and use tooth brush, tooth paste.What, got some soap have you?
-*CLA:	Yes, yeah.
-*HEL:	Right, your tooth paste.
-*CLA:	Thank you.
-*HEL:	Right, these two can go up, oh that's Amy's soap.
-*CLA:	Bored with it, so I'll   (        ) it out every day.
-*HEL:	Yes, right.There's your film.
-*CLA:	Ah thanks.
-*HEL:	Right .
-*CLA:	That's mine?.
-*HEL:	Yeah.
-*CLA:	Oh right.
-*HEL:	There's your cartridges.
-*CLA:	Do I need to take both packets?
-*HEL:	I wouldn't think so, I can't think you'll get through ten cartridges myself, that seems rather excessive.
+*HEL:	I think you've just cost me a fortune today. 
+*CLA:	Have I? 
+*HEL:	Take one of those boxes of tissues and use tooth brush, tooth paste. What, got some soap have you? 
+*CLA:	Yes, yeah. 
+*HEL:	Right, your tooth paste. 
+*CLA:	Thank you. 
+*HEL:	Right, these two can go up, oh that's Amy's soap. 
+*CLA:	Bored with it, so I'll   (  ) it out every day. 
+*HEL:	Yes, right. There's your film. 
+*CLA:	Ah thanks. 
+*HEL:	 Right  . 
+*CLA:	 That's mine?. 
+*HEL:	Yeah. 
+*CLA:	Oh right. 
+*HEL:	There's your cartridges. 
+*CLA:	Do I need to take both packets? 
+*HEL:	I wouldn't think so, I can't think you'll get through ten cartridges myself, that seems rather excessive. 
 @End

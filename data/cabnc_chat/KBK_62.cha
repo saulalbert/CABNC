@@ -1,16 +1,16 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0022XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0022XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0022XX-ABZZP0.wav
 @Comment:	conversation #62 (Tape 002229)
-*CHR:	Well, I can re-offer this at five hundred and sixty to the half thousand dollars, instead of, six hundred and eleven thousand, six hundred, that sounds like a ten percent reduction to me.Right, now.
+*CHR:	Well, I can re-offer this at five hundred and sixty to the half thousand dollars, instead of, six hundred and eleven thousand, six hundred, that sounds like a ten percent reduction to me. Right, now. 
 @End

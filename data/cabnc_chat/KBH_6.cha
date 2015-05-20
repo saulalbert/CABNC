@@ -1,38 +1,38 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-30:  
 @Location:	  home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0039XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0039XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CAR Carole self, JOE Joelle employee, ADA Adam husband, PAU Pauline friend
-@ID: eng|AudioBNC|CAR|~36;| |f|Ag3| |administrator (pt)||PS05B|
-@ID: eng|AudioBNC|JOE|~18;| |f|Ag1| |au pair|employee|PS05C|
-@ID: eng|AudioBNC|ADA|~36;| |m|Ag3| |textile agent|husband|PS05D|
-@ID: eng|AudioBNC|PAU|~30+;| |f|Ag2| |shop owner|friend|PS05F|
+@Options:	CA
+@ID:	eng|AudioBNC|CAR|36;|||||administrator (pt)||PS05B|
+@ID:	eng|AudioBNC|JOE|18;|||||au pair|employee|PS05C|
+@ID:	eng|AudioBNC|ADA|36;|||||textile agent|husband|PS05D|
+@ID:	eng|AudioBNC|PAU|30+;|||||shop owner|friend|PS05F|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0039XX-ABZZP0.wav
 @Comment:	conversation #6 (Tape 003906)
-*ADA:	It would be eleven bedrooms and five receptions  (        ) .The point is, that   (.) you've got to count, if  (        ) , you've got to count one bedroom  (        ) 
-*CAR:	Yes, I've got  (        ) 
-*ADA:	you count one bedroom for all the  (        ) .You may even have to count two.You certainly got to count one.So two bedrooms out of twelve are no longer available.
-*CAR:	Sorry?Say that again in English.
-*PAU:	 (        ) 
-*CAR:	They're coming to collect the stuff next Thursday.But I don't have to do it every day all day.It's twenty tapes.So that's twenty times ninety minutes. (        ) talking about his   (        ) estimates.Very exciting stuff and I've been telling her not to speak so loudly.Have you had enough now?
-*ADA:	and then I'm talking about   (        ) right?It's gonna cost five and a half thousand   (        ) mortgage.At this point   (        ) would cost about   (.) just, just about half.
-*UNK:	Six bedrooms would pro , six bedrooms would probably cost you two   (        ) to buy. (        ) five and six bedroom houses and you won't get anything under two hundred thousand pounds.
-*ADA:	How much do you wanna to bet on that?
-*UNK:	 (        ) 
-*ADA:	Mm?
-*UNK:	Where?
-*ADA:	I've been waiting for   (        ) on one.
-*UNK:	Where?
-*ADA:	 (        ) 
-*UNK:	You've got to spend as much or twice as much there as you would there as you would anywhere else.Those other properties, there isn't half the amount of work   (.) need doing there as  (        ) . (        ) needs a lot of work.If we moved in then we'd have to spend fifty thousand pound to get it up to scratch.That's just to live in.
-*ADA:	Alright, O K, let's say two hundred grand, O K?It's still fifty per cent less than one of those properties at Harrow Road, right?Fifty per cent less on the mortgage means erm about three and a half thousand  (        ) .It's effectively eighteen thousand per annum saved, right?The cost of   (.) and   (        ) gain four bedrooms   (        )  (.) 
-*UNK:	 (        ) the cheaper it should become.
-*ADA:	Oh yes it is, I don't doubt it   (.) but the problem is   (        ) right?And you've got to be realistic.Because no bank is going to give you the money against the costs of the value of the property right?They're gonna give you the   (        ) against equity   (        ) equity of some sort.But the only way you can get the equity, right?The only way we could get the equity.We could do it. (        )  ((talk simultaneous))The only thing I could do   (        ) I mean at the same time I'm saying O K I'll go in to do it this way, would be to actually say, sod this for a lark, instead of doing erm   (.) totally private thing, gonna set up a private limited company   (        ) to issue   (        ) cheques.
-*JOE:	I really couldn't   (.) I would never get the price I'd want for the alphabet.
+*ADA:	It would be eleven bedrooms and five receptions  (  ) . The point is, that   (.) you've got to count, if  (  ) , you've got to count one bedroom  (  )  
+*CAR:	Yes, I've got  (  )  
+*ADA:	you count one bedroom for all the  (  ) . You may even have to count two. You certainly got to count one. So two bedrooms out of twelve are no longer available. 
+*CAR:	Sorry? Say that again in English. 
+*PAU:	 (  ) 
+*CAR:	They're coming to collect the stuff next Thursday. But I don't have to do it every day all day. It's twenty tapes. So that's twenty times ninety minutes.  (  ) talking about his   (  ) estimates. Very exciting stuff and I've been telling her not to speak so loudly. Have you had enough now? 
+*ADA:	and then I'm talking about   (  ) right? It's gonna cost five and a half thousand   (  ) mortgage. At this point   (  ) would cost about   (.) just, just about half. 
+*UNK:	Six bedrooms would pro  , six bedrooms would probably cost you two   (  ) to buy.  (  ) five and six bedroom houses and you won't get anything under two hundred thousand pounds. 
+*ADA:	How much do you wanna to bet on that? 
+*UNK:	 (  ) 
+*ADA:	Mm? 
+*UNK:	Where? 
+*ADA:	I've been waiting for   (  ) on one. 
+*UNK:	Where? 
+*ADA:	 (  ) 
+*UNK:	You've got to spend as much or twice as much there as you would there as you would anywhere else. Those other properties, there isn't half the amount of work   (.) need doing there as  (  ) .  (  ) needs a lot of work. If we moved in then we'd have to spend fifty thousand pound to get it up to scratch. That's just to live in. 
+*ADA:	Alright, O K, let's say two hundred grand, O K? It's still fifty per cent less than one of those properties at Harrow Road, right? Fifty per cent less on the mortgage means erm about three and a half thousand  (  ) . It's effectively eighteen thousand per annum saved, right? The cost of   (.) and   (  ) gain four bedrooms   (  )  (.)  
+*UNK:	 (  ) the cheaper it should become. 
+*ADA:	Oh yes it is, I don't doubt it   (.) but the problem is   (  ) right? And you've got to be realistic. Because no bank is going to give you the money against the costs of the value of the property right? They're gonna give you the   (  ) against equity   (  ) equity of some sort. But the only way you can get the equity, right? The only way we could get the equity. We could do it.  (  )  ((talk simultaneous))The only thing I could do   (  ) I mean at the same time I'm saying O K I'll go in to do it this way, would be to actually say, sod this for a lark, instead of doing erm   (.) totally private thing, gonna set up a private limited company   (  ) to issue   (  ) cheques. 
+*JOE:	I really couldn't   (.) I would never get the price I'd want for the alphabet. 
 @End

@@ -1,28 +1,28 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-29:  
 @Location:	  home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0182XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0182XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	ANN Ann self, STU Stuart partner
-@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
-@ID: eng|AudioBNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
+@Options:	CA
+@ID:	eng|AudioBNC|ANN|46;|||||team leader||PS02G|
+@ID:	eng|AudioBNC|STU|33;|||||factory operative|partner|PS02H|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0182XX-ABZZP0.wav
 @Comment:	conversation #5 (Tape 018205)
-*ANN:	There you are I've made you a cup of tea.Thank you dear.
-*STU:	Very kind of you.
-*ANN:	Are you sure you don't want any breakfast?
-*STU:	No.
-*ANN:	You want nothing at all?
-*STU:	No.
-*ANN:	You'll be hungry.
-*STU:	 (        ) 
-*ANN:	Eh?
-*STU:	 (        ) 
-*ANN:	What do you mean good? (.) Don't be silly.What's the point in getting really hungry. (.) 
-*STU:	 (        )  (.) Had me tea last night and   (.) the beer and    (.)  (        ) few sandwiches last night.
+*ANN:	There you are I've made you a cup of tea. Thank you dear. 
+*STU:	Very kind of you. 
+*ANN:	Are you sure you don't want any breakfast? 
+*STU:	No. 
+*ANN:	You want nothing at all? 
+*STU:	 No. 
+*ANN:	 You'll  be hungry. 
+*STU:	 (  ) 
+*ANN:	Eh? 
+*STU:	 (  ) 
+*ANN:	What do you mean good?  (.) Don't be silly. What's the point in getting really hungry. (.)  
+*STU:	 (  )  (.) Had me tea last night and   (.) the beer and    (.)  (  ) few sandwiches last night. 
 @End

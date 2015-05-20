@@ -1,28 +1,28 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 home office 
-@Situation:	 work 
-@Media: 021A-C0897X0021XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 work  
+@Media:	021A-C0897X0021XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, LYN Lynda colleague
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|LYN|~44;| |f|Ag3| |export assistant|colleague|PS102|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|LYN|44;|||||export assistant|colleague|PS102|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0021XX-ABZZP0.wav
 @Comment:	conversation #23 (Tape 002121)
-*CHR:	When you see Di will you mentioned that erm heavy duty office.
-*LYN:	I'm seeing her at lunch time, I'll speak to her.
-*CHR:	Di!
-*LYN:	I did  (        ) .
-*CHR:	Oh right.
-*LYN:	 (        ) .
-*CHR:	Very good, very good.
-*LYN:	But we want that  (        ) .
-*CHR:	We want, we want that seal it style as opposed to the   (        ) right, we do indeed, yes a closing, a closing staple.
-*LYN:	Yes, one that bends over   (        ) .
-*CHR:	A staple closer, not just a staple gun.
-*LYN:	Hm.
+*CHR:	When you see Di will you mentioned that erm heavy duty office. 
+*LYN:	I'm seeing her at lunch time, I'll speak to her. 
+*CHR:	Di! 
+*LYN:	I did  (  ) . 
+*CHR:	Oh right. 
+*LYN:	 (  ) . 
+*CHR:	Very good, very good. 
+*LYN:	But we want that  (  ) . 
+*CHR:	We want, we want that seal it style as opposed to the    (  )  right, we do indeed, yes a closing, a closing staple. 
+*LYN:	 Yes, one that bends over   (  )  . 
+*CHR:	A staple closer, not just a staple gun. 
+*LYN:	Hm. 
 @End

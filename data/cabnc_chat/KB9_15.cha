@@ -1,27 +1,27 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
-@Date:	1992-02:  Unspecified
-@Media: 021A-C0897X0623XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
+@Date:	1992-02:  Unspecified 
+@Media:	021A-C0897X0623XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	ANN Annette self, TRA Tracy daughter
-@ID: eng|AudioBNC|ANN|~44;| |f|Ag3| |administrative assistant||PS1CX|
-@ID: eng|AudioBNC|TRA|~24;| |f|Ag1| |housewife|daughter|PS1D1|
+@Options:	CA
+@ID:	eng|AudioBNC|ANN|44;|||||administrative assistant||PS1CX|
+@ID:	eng|AudioBNC|TRA|24;|||||housewife|daughter|PS1D1|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0623XX-AAZZP0.wav
 @Comment:	conversation #15 (Tape 062303)
-*ANN:	Oh that's nice Tracy! (.) Right. (        ) then you can pay me off if you want.
-*TRA:	It's alright.With that, and that.
-*ANN:	Oh that's expensive!
-*TRA:	Eleven   (.) ten, and eleven.
-*ANN:	Why don't you get them?Thirty quid's just enough.
-*TRA:	I don't like those.I like that one.
-*ANN:	The red ones? (.) What about with a  (        ) ?
-*TRA:	No I don't like them.
-*ANN:	Get a  (        ) ?
-*TRA:	 (        ) 
-*ANN:	No it's not, those erm   (.) they're like those leggings it's
-*TRA:	Very comfy then?
-*ANN:	Yeah.
+*ANN:	Oh that's nice Tracy!  (6.0) Right.  (  ) then you can pay me off if you want. 
+*TRA:	It's alright. With that, and that. 
+*ANN:	Oh that's expensive! 
+*TRA:	Eleven   (.) ten, and eleven. 
+*ANN:	Why don't you get them? Thirty quid's just enough. 
+*TRA:	I don't like those. I like that one. 
+*ANN:	The red ones?  (13.0) What about with a  (  ) ? 
+*TRA:	No I don't like them. 
+*ANN:	Get a  (  ) ? 
+*TRA:	 (  ) 
+*ANN:	No it's not, those erm   (6.0) they're like those leggings it's 
+*TRA:	Very comfy then? 
+*ANN:	Yeah. 
 @End

@@ -1,78 +1,78 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-04:  
 @Location:	  home  
-@Situation:	  housework  
-@Media: 021A-C0897X0191XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  housework   
+@Media:	021A-C0897X0191XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , ANN Ann self, STU Stuart partner
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
-@ID: eng|AudioBNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|ANN|46;|||||team leader||PS02G|
+@ID:	eng|AudioBNC|STU|33;|||||factory operative|partner|PS02H|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0191XX-AAZZP0.wav
 @Comment:	conversation #46 (Tape 019101)
-*ANN:	We've got to take that specification thing with us this morning, it will might help  (.) 
-*STU:	What time?
-*ANN:	Seven foot six by seven kitchen, plus units   (        ) so you would get two metres   (        ) it's not very much at all 
-*STU:	At least you'll know exactly rather than sort of saying well  (        ) 
-*ANN:	 (        ) I know it was fourteen by nine foot something, I'm up to nine, ten which is exactly which she said  (        ) 
-*STU:	 (        ) 
-*ANN:	They'd rather do that than having to piece   (        ) twelve quarter then you've got to have   (        ) join the bit then all the pattern that will be matching exactly er   (        ) you'll use more.
-*STU:	 (        ) 
-*ANN:	 (        ) to cover er a metre  (        ) 
-*STU:	 (        ) 
-*ANN:	you have to   (        ) cos they can't do nothing with the bits, they give you all the bits  (.) 
-*STU:	 (        ) 
-*ANN:	Well yeah you do, you can't end up quite a lot of it   (.)  (        ) 
-*STU:	Mm.
-*ANN:	suppose they have to match the pattern otherwise it does look quite silly   (.) which is what they've done in here, they haven't matched the patterns    (.)  (        ) that wall there is it, it ain't joined
-*STU:	Isn't joined.
-*ANN:	 (        ) walk in, here, this is the end of the where they all went too and that piece is a piece cut off and it's not, it's gripped together underneath
-*STU:	Yes, yes
-*ANN:	but it just knocked the cotton sticks out, just put the piece down, there's no way I'm gonna do this, so it doesn't matter does it?
-*STU:	No.
-*ANN:	That's definitely, this is the raw bit and that's a bit of the end of the cut-off, probably have   (        ) the landing or something   (.) can use the rest of it through  (        ) 
-*STU:	Oh I say this is nine foot nine   (        ) just gonna get a bit for it, (        ) tie a little bit on edge and that's it.
-*ANN:	Bedroom has got a, it's in an alcove   (        ) so you'll have that piece where it's   (        ) bottom of the stairs or wherever, I mean, the, stand on   (        ) slip mats   (.) you're gonna get that because of the, the airing cupboard is part of the hall, part of the bedroom and   (.) nothing you can do about that one, and on the wall it's just gonna be one length of each room, (        ) cut off, (        ) perfect, (        ) , actually they don't normally do that, they usually just   (        ) the measurement, cos I not, never understood why they don't have   (        ) measurements there all standard  (        ) , you guarantee use the one strip of another roll  (        ) 
+*ANN:	We've got to take that specification thing with us this morning, it will might help  (.)  
+*STU:	What time? 
+*ANN:	Seven foot six by seven kitchen, plus units   (  ) so you would get two metres   (  ) it's not very much at all  
+*STU:	At least you'll know exactly rather than sort of saying well  (  )  
+*ANN:	 (  ) I know it was fourteen by nine foot something, I'm up to nine, ten which is exactly which she said  (  )  
+*STU:	 (  ) 
+*ANN:	They'd rather do that than having to piece   (  ) twelve quarter then you've got to have   (  ) join the bit then all the pattern that will be matching exactly er   (  ) you'll use more. 
+*STU:	 (  ) 
+*ANN:	 (  ) to cover er a metre  (  )  
+*STU:	 (  ) 
+*ANN:	you have to   (  ) cos they can't do nothing with the bits, they give you all the bits  (.)  
+*STU:	 (  ) 
+*ANN:	Well yeah you do, you can't end up quite a lot of it   (.)  (  )  
+*STU:	Mm. 
+*ANN:	suppose they have to match the pattern otherwise it does look quite silly   (.) which is what they've done in here, they haven't matched the patterns    (.)  (  ) that wall there is it, it ain't joined 
+*STU:	Isn't joined. 
+*ANN:	 (  ) walk in, here, this is the end of the where they all went too and that piece is a piece cut off and it's not, it's gripped together underneath 
+*STU:	Yes, yes 
+*ANN:	but it just knocked the cotton sticks out, just put the piece down, there's no way I'm gonna do this, so it doesn't matter does it? 
+*STU:	No. 
+*ANN:	That's definitely, this is the raw bit and that's a bit of the end of the cut-off, probably have   (  ) the landing or something   (.) can use the rest of it through  (  )  
+*STU:	Oh I say this is nine foot nine   (  ) just gonna get a bit for it, (  ) tie a little bit on edge and that's it. 
+*ANN:	Bedroom has got a, it's in an alcove   (  ) so you'll have that piece where it's   (  ) bottom of the stairs or wherever, I mean, the, stand on   (  ) slip mats   (.) you're gonna get that because of the, the airing cupboard is part of the hall, part of the bedroom and   (.) nothing you can do about that one, and on the wall it's just gonna be one length of each room, (  ) cut off, (  ) perfect, (  ) , actually they don't normally do that, they usually just   (  ) the measurement, cos I not, never understood why they don't have   (  ) measurements there all standard  (  ) , you guarantee use the one strip of another roll  (  )  
 *STU:	 ((laugh)) 
-*ANN:	The new houses are pretty standard why don't they convert them, you know  (        ) , you guarantee if you use six rolls of wa wallpaper   (        ) you'll need one to   (        ) seven, something silly like that  (.) 
-*STU:	Way it always goes, an extra roll   (        ) need to buy
-*ANN:	Need to buy, you have done.
-*STU:	That's a lo 
-*ANN:	To do underneath the window or on top of the door or some silly thing like that  (.) 
-*STU:	 (        ) a lot, a lot of places where you can buy eight rolls and only use seven  (        ) 
-*ANN:	 (        ) 
-*STU:	eight   (        ) back and er   (        )  (.) 
-*ANN:	Certainly when we get settled in after Christmas that should be   (        ) and I'll shall say about six rolls   (        ) but I'll shall say six rolls    (        )  (.) and just the    (        )  (.) every time I get one roll of wallpaper up and you you'll think oh I'll do the rest tomorrow   (        ) just a bit more, then you get one more   (        ) looks alright there, (        ) the other wall and er, I'm sat, I've been up all night doing this   (        ) shall do one more then I'll go a bed    (.)  (        )  ((laugh)) , I get from the wife bloody hell mother what time did you go to bed, about an hour ago  ((laugh)) , couldn't leave it      (.)  (        )  (.)  (        ) wallpaper.
-*STU:	No.
-*ANN:	Never attempted?
-*STU:	No.
-*ANN:	Same with me   (        ) paster
-*STU:	I'll be your   (.) I can be your labourer.
-*ANN:	Yeah    (.)  (        ) paster.
-*STU:	Wallpaper, wallpaper  (        ) .
-*ANN:	I'm not an expert, non professional but I, it goes up.
-*:	 (        ) 
-*STU:	 (        ) Vera turned up for a cup of coffee dinner time and ended up staying there rest of the afternoon dinner with us, oh   (        ) no come on in, give us it, (        ) where you sitting, off she went  (        ) 
-*ANN:	You start
-*STU:	By the end, by the end of the afternoon she'd done it all.
-*ANN:	You start at the right hand side of the window
-*STU:	Well I know about that
-*ANN:	That a way.
-*STU:	I know that.
-*ANN:	You don't start
-*STU:	You start here  (        ) 
-*ANN:	Is there any joint and seems   (        ) light, if the light were on the light catches them and you can see all the  (.) 
-*STU:	 (        ) 
-*ANN:	No it's not    (.)  (        ) sit and watch somebody else do it   (.) it won't hurt her
-*STU:	Mm.
-*ANN:	Just the   (        ) actual joy of starting and, and seeing it transformed while 
-*STU:	Yeah 
-*ANN:	you're doing it and all   (.) imagine that, somebody else, I didn't  (        ) , it will be that's not quite straight or erm   (.) or
-*STU:	 (        ) do apply  (        ) 
-*ANN:	 ((laugh)) , no I won't be doing that    (.)  (        ) folks there  (.) , that's it the   (        )  (.) 
-*STU:	Right, (        )  (.) That's a   (        )  (.) 
+*ANN:	The new houses are pretty standard why don't they convert them, you know  (  ) , you guarantee if you use six rolls of wa  wallpaper   (  ) you'll need one to   (  ) seven, something silly like that  (.)  
+*STU:	Way it always goes, an extra roll   (  ) need to buy 
+*ANN:	Need to buy, you have done. 
+*STU:	 That's a lo    
+*ANN:	 To do underneath  the window or on top of the door or some silly thing like that  (.)  
+*STU:	 (  ) a lot, a lot of places where you can buy eight rolls and only use seven  (  )  
+*ANN:	 (  ) 
+*STU:	eight   (  ) back and er   (  )  (.)  
+*ANN:	Certainly when we get settled in after Christmas that should be   (  ) and I'll shall say about six rolls   (  ) but I'll shall say six rolls    (  )  (.) and just the    (  )  (.) every time I get one roll of wallpaper up and you you'll think oh I'll do the rest tomorrow   (  ) just a bit more, then you get one more   (  ) looks alright there, (  ) the other wall and er, I'm sat, I've been up all night doing this   (  ) shall do one more then I'll go a bed    (.)  (  )  ((laugh)) , I get from the wife bloody hell mother what time did you go to bed, about an hour ago  ((laugh)) , couldn't leave it      (11.0)  (  )  (.)  (  ) wallpaper. 
+*STU:	No. 
+*ANN:	Never attempted? 
+*STU:	No. 
+*ANN:	Same with me   (  ) paster 
+*STU:	I'll be your   (.) I can be your labourer. 
+*ANN:	Yeah    (.)  (  ) paster. 
+*STU:	Wallpaper, wallpaper  (  ) . 
+*ANN:	I'm not an expert, non professional but I, it goes up. 
+*:	 (  ) 
+*STU:	 (  ) Vera turned up for a cup of coffee dinner time and ended up staying there rest of the afternoon dinner with us, oh   (  ) no come on in, give us it, (  ) where you sitting, off she went  (  )  
+*ANN:	You start 
+*STU:	By the end, by the end of the afternoon she'd done it all. 
+*ANN:	You start at the right hand side of the window 
+*STU:	Well I know about that 
+*ANN:	That a way. 
+*STU:	I know that. 
+*ANN:	You don't start 
+*STU:	You start here  (  )  
+*ANN:	Is there any joint and seems   (  ) light, if the light were on the light catches them and you can see all the  (8.0)  
+*STU:	 (  ) 
+*ANN:	No it's not    (.)  (  ) sit and watch somebody else do it   (.) it won't hurt her 
+*STU:	Mm. 
+*ANN:	Just the   (  ) actual joy of starting and, and seeing it transformed  while   
+*STU:	 Yeah   
+*ANN:	you're doing it and all   (.) imagine that, somebody else, I didn't  (  ) , it will be that's not quite straight or erm   (.) or 
+*STU:	 (  ) do apply  (  )  
+*ANN:	 ((laugh)) , no I won't be doing that    (10.0)  (  ) folks there  (7.0) , that's it the   (  )  (22.0)  
+*STU:	Right, (  )  (13.0) That's a   (  )  (.)  
 @End

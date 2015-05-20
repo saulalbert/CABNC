@@ -1,194 +1,194 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-15:  
 @Location:	  home  
-@Situation:	  taking tea/playing games  
-@Media: 021A-C0897X0261XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  taking tea/playing games   
+@Media:	021A-C0897X0261XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , FRE Fred self, FLO Florence wife, STE Steven son, EMI Emily granddaughter, SAN Sandra daughter-in-law
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|FRE|~77;| |m|Ag5| |retired||PS09T|
-@ID: eng|AudioBNC|FLO|~71;| |f|Ag5| |retired|wife|PS09U|
-@ID: eng|AudioBNC|STE|~37;| |m|Ag3| |office manager|son|PS0A0|
-@ID: eng|AudioBNC|EMI|~7;| |f|Ag0| |student|granddaughter|PS0A1|
-@ID: eng|AudioBNC|SAN|~39;| |f|Ag3| |housewife|daughter-in-law|PS0A2|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|FRE|77;|||||retired||PS09T|
+@ID:	eng|AudioBNC|FLO|71;|||||retired|wife|PS09U|
+@ID:	eng|AudioBNC|STE|37;|||||office manager|son|PS0A0|
+@ID:	eng|AudioBNC|EMI|7;|||||student|granddaughter|PS0A1|
+@ID:	eng|AudioBNC|SAN|39;|||||housewife|daughter-in-law|PS0A2|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0261XX-ABZZP0.wav
 @Comment:	conversation #6 (Tape 026102)
-*FLO:	I think I know who done it now
-*SAN:	I think I'll stay here actually
-*FLO:	six
-*SAN:	I'm staying there I accuse myself in the kitchen with the revolver or whatever it is, the revolver
-*FLO:	Who?
-*SAN:	the revolver
-*FLO:	The revolver, where is it?
-*SAN:	Emily
-*FLO:	Have you got the revolver? (.) Miss Scarlet in the kitchen with the revolver
-*SAN:	No myself in the kitchen with the revolver 
-*FLO:	Oh yourself Colonel Mustard did it   (.) no I haven't got any in there  (.) 
-*SAN:	Have you got any of them
-*UNK:	 (        ) 
-*FLO:	I haven't got any in there
-*UNK:	 (        ) 
-*SAN:	the kitchen   (.) oh no, I hate the
-*UNK:	 (        ) 
-*SAN:	have you? (.) Have you? (.) 
-*STE:	Who's winning?
-*SAN:	Me
-*FLO:	I think I know who done it, but I don't know what with 
-*SAN:	Oh I know who's done it , I don't know who, what with
-*EMI:	I ne 
-*STE:	Do you want a game of this?
-*FRE:	Oh, watch the match that's why we came in, put that on
-*STE:	Oh I was gonna say we can put telly on in here if you like, if you want a game  (.) 
-*SAN:	In a minute when we've finished this  (.) 
-*FRE:	Weren't that 
-*UNK:	 (        ) 
-*EMI:	There's not enough in
-*UNK:	 (        ) 
-*EMI:	we need three more pencils dad, if you want to play that
-*FLO:	They're going to see the football  (.) 
-*SAN:	Finish that game first
-*UNK:	Emily have you got
-*FLO:	I think I know who done it but I don't 
-*UNK:	kitchen 
-*FLO:	no where or what 
-*SAN:	where, with what 
-*UNK:	I know
-*SAN:	yeah 
-*FLO:	 ((laugh)) 
-*UNK:	I know who's done it, I think I know what with and I'm, I think I know what, where.Emily have you got kitchen, mustard or
-*UNK:	 (        )  (.) 
-*UNK:	have you?
-*EMI:	No
-*UNK:	 (        ) 
-*UNK:	Ya ho, I know what it, where it is  (.) 
-*SAN:	I don't  (.) 
+*FLO:	I think I know who done it now 
+*SAN:	I think I'll stay here actually 
+*FLO:	six 
+*SAN:	I'm staying there I accuse myself in the kitchen with the revolver or whatever it is, the revolver 
+*FLO:	Who? 
+*SAN:	the revolver 
+*FLO:	The revolver, where is it? 
+*SAN:	Emily 
+*FLO:	Have you got the revolver?  (.) Miss Scarlet in the kitchen with the revolver 
+*SAN:	No myself in the kitchen  with the revolver   
+*FLO:	 Oh yourself  Colonel Mustard did it   (.) no I haven't got any in there  (.)  
+*SAN:	Have you got any of them 
+*UNK:	 (  ) 
+*FLO:	I haven't got any in there 
+*UNK:	 (  ) 
+*SAN:	the kitchen   (.) oh no, I hate the 
+*UNK:	 (  ) 
+*SAN:	have you?  (.) Have you? (.)  
+*STE:	Who's winning? 
+*SAN:	Me 
+*FLO:	I think I know who done it, but I don't know what with   
+*SAN:	 Oh I know who's done it  , I don't know who, what with 
+*EMI:	I ne   
+*STE:	Do you want a game of this? 
+*FRE:	Oh, watch the match that's why we came in, put that on 
+*STE:	Oh I was gonna say we can put telly on in here if you like, if you want a game  (.)  
+*SAN:	In a minute when we've finished this  (.)  
+*FRE:	 Weren't that   
+*UNK:	  (  )  
+*EMI:	There's not enough in 
+*UNK:	 (  ) 
+*EMI:	we need three more pencils dad, if you want to play that 
+*FLO:	They're going to see the football  (.)  
+*SAN:	Finish that game first 
+*UNK:	Emily have you got 
+*FLO:	I think I know who done it  but I don't   
+*UNK:	 kitchen   
+*FLO:	no where  or what   
+*SAN:	 where, with what   
+*UNK:	I know 
+*SAN:	 yeah   
+*FLO:	  ((laugh))  
+*UNK:	I know who's done it, I think I know what with and I'm, I think I know what, where. Emily have you got kitchen, mustard or 
+*UNK:	 (  )  (.) 
+*UNK:	have you? 
+*EMI:	No 
+*UNK:	 (  ) 
+*UNK:	Ya ho, I know what it, where it is  (.)  
+*SAN:	I don't  (.)  
 *EMI:	 ((laugh))  (.) 
-*FLO:	My turn?
-*EMI:	Yes  (.) 
-*FLO:	Two, where am I, two   (.) I've got two  (.) 
-*UNK:	I'm gonna go
-*EMI:	Meow, meow  (.) 
-*UNK:	I
-*UNK:	 (        )  ((cat noise)) (.)  (        ) 
-*EMI:	with the banner in the
-*UNK:	 (        ) 
-*FLO:	Banner coming through
-*EMI:	Come on Julia
-*SAN:	Got that, Professor Plumb in the study with a spanner
-*UNK:	 (        )  (.)  (        ) 
-*EMI:	 [singing] know who it is   []  (.) 
-*SAN:	I think I know who
-*EMI:	Oh anybody shown who
-*UNK:	 (        )  (.) 
-*SAN:	Well I know that
-*FLO:	Six, one, two, three, four, five, six   (.) who turn? (.) Your turn? (.) 
-*SAN:	Who's playing then?
-*EMI:	Three  (.) 
-*UNK:	 (        ) 
-*SAN:	Got to go back
-*FLO:	Oh  ((laugh)) 
-*SAN:	I don't know what they're up to, I'll say 
-*EMI:	Ah, ah, ah, ah, ah 
-*SAN:	I choose myself in the kitchen with the spanner
-*FLO:	Spanner, where's the spanner?
-*SAN:	Myself in the kitchen with the
-*UNK:	 (        ) 
-*FLO:	er, Mustard, kitchen, spanner   (.) no I've only them
-*UNK:	 (        )  (.) 
-*EMI:	Julia  (.) 
-*UNK:	 (        )  (.) 
-*SAN:	Have you?
-*UNK:	No, you've got to
-*UNK:	 (        ) 
-*EMI:	cos I've got
-*UNK:	 (        ) 
-*SAN:	no it's mine   (.) I took   (.) three and I don't know where, who and what, five, settle down Emily 
-*FLO:	One, two, three, four, five  (.) 
-*EMI:	I choose Reverend Green in the hall with the lead piping
-*FLO:	With what?
-*EMI:	Lead piping  (.) 
-*FLO:	What?
-*EMI:	hall, Green, piping
-*SAN:	fine  (.) 
-*EMI:	I wished somebody would show me a weapon
-*SAN:	Four
-*FLO:	Four, where are you?
-*SAN:	staying there
-*FLO:	Staying there 
-*SAN:	I'll say it, in the kitchen with the revolver
-*UNK:	 (        ) 
-*SAN:	revolver
-*UNK:	I just have 
-*UNK:	 (        ) 
-*FLO:	Tell you what, Mustard, kitchen and gun
-*UNK:	No I say the, Reverend Green done it
-*FLO:	No I haven't got any of them
-*UNK:	Green, kitchen, gun
-*FLO:	So , sorry, I thought you said Mustard, kitchen, gun, oh alright
-*UNK:	got any?
-*FLO:	No I still haven't got any  (.) 
-*UNK:	Do you, do you, do you Elly yes or no?Oh ooh goody, I know who it is and where it is now
-*FLO:	Who's turn is it?Can I stay where I am?
-*EMI:	I know where it is
-*UNK:	 (        ) 
-*EMI:	and
-*SAN:	I know everything
-*FLO:	Can I stay where I am?
-*UNK:	Yeah
-*FLO:	It's the Reverend Green in the kitchen with the spanner
-*SAN:	Right
-*EMI:	I haven't got any
-*SAN:	Yes that's it
-*EMI:	Cos, cos I've got 
-*UNK:	I've got , got, look, kitchen, spanner and Reverend Green
+*FLO:	My turn? 
+*EMI:	Yes  (.)  
+*FLO:	Two, where am I, two   (.) I've got two  (.)  
+*UNK:	I'm gonna go 
+*EMI:	Meow, meow  (.)  
+*UNK:	I 
+*UNK:	 (  )  ((cat noise)) (.)  (  ) 
+*EMI:	with the banner in the 
+*UNK:	 (  ) 
+*FLO:	Banner coming through 
+*EMI:	Come on Julia 
+*SAN:	Got that, Professor Plumb in the study with a spanner 
+*UNK:	 (  )  (.)  (  ) 
+*EMI:	 ((singing)) know who it is   (.)  
+*SAN:	I think I know who 
+*EMI:	Oh anybody shown who 
+*UNK:	 (  )  (.) 
+*SAN:	Well I know that 
+*FLO:	Six, one, two, three, four, five, six   (.) who turn?  (.) Your turn? (.)  
+*SAN:	Who's playing then? 
+*EMI:	Three  (.)  
+*UNK:	 (  ) 
+*SAN:	Got to go back 
+*FLO:	Oh  ((laugh))  
+*SAN:	I don't know  what they're up to, I'll say   
+*EMI:	 Ah, ah, ah, ah, ah   
+*SAN:	I choose myself in the kitchen with the spanner 
+*FLO:	Spanner, where's the spanner? 
+*SAN:	Myself in the kitchen with the 
+*UNK:	 (  ) 
+*FLO:	er, Mustard, kitchen, spanner   (.) no I've only them 
+*UNK:	 (  )  (.) 
+*EMI:	Julia  (6.0)  
+*UNK:	 (  )  (.) 
+*SAN:	Have you? 
+*UNK:	No, you've got to 
+*UNK:	 (  ) 
+*EMI:	cos I've got 
+*UNK:	 (  ) 
+*SAN:	no it's mine   (.) I took   (.) three and I don't know where, who and what, five, settle down Emily   
+*FLO:	 One, two, three, four, five   (.)  
+*EMI:	I choose Reverend Green in the hall with the lead piping 
+*FLO:	With what? 
+*EMI:	Lead piping  (.)  
+*FLO:	What? 
+*EMI:	hall, Green, piping 
+*SAN:	fine  (.)  
+*EMI:	I wished somebody would show me a weapon 
+*SAN:	Four 
+*FLO:	Four, where are you? 
+*SAN:	staying there 
+*FLO:	Staying  there   
+*SAN:	 I'll say  it, in the kitchen with the revolver 
+*UNK:	 (  ) 
+*SAN:	revolver 
+*UNK:	 I just have   
+*UNK:	  (  )  
+*FLO:	Tell you what, Mustard, kitchen and gun 
+*UNK:	No I say the, Reverend Green done it 
+*FLO:	No I haven't got any of them 
+*UNK:	Green, kitchen, gun 
+*FLO:	So  , sorry, I thought you said Mustard, kitchen, gun, oh alright 
+*UNK:	got any? 
+*FLO:	No I still haven't got any  (15.0)  
+*UNK:	Do you, do you, do you Elly yes or no? Oh ooh goody, I know who it is and where it is now 
+*FLO:	Who's turn is it? Can I stay where I am? 
+*EMI:	I know where it is 
+*UNK:	 (  ) 
+*EMI:	and 
+*SAN:	I know everything 
+*FLO:	Can I stay where I am? 
+*UNK:	Yeah 
+*FLO:	It's the Reverend Green in the kitchen with the spanner 
+*SAN:	Right 
+*EMI:	I haven't got any 
+*SAN:	Yes that's it 
+*EMI:	Cos, cos I've  got   
+*UNK:	 I've got  , got, look, kitchen, spanner and Reverend Green 
 *EMI:	 ((laugh)) 
-*SAN:	I got that about two rounds ago, but I'm not sure if it was either
-*FLO:	Well I knew it was Reverend Green some time ago, but I couldn't decide which it, I just got that
-*UNK:	 (        ) 
-*SAN:	that, about three goes ago 
-*EMI:	I did, I didn't know
-*UNK:	But I wasn't sure if it was Reverend Green, cos that
-*UNK:	 (        ) 
-*FLO:	what you do rub them, rub them out
-*UNK:	 (        ) 
-*FLO:	and then use them again 
-*UNK:	yes I know that
-*FLO:	mm
-*UNK:	I know that
-*FLO:	oh, should, do you not much play when we've finished
-*EMI:	I had 
-*UNK:	 (        ) 
-*UNK:	I think so yeah
-*FLO:	I don't know whether they all want to play or whether your dad and granddad wants to stay and watch the football
-*UNK:	Yeah I think they say they want to play 
-*FLO:	Go and find out what they're doing  (.) 
-*UNK:	 (        ) 
-*FLO:	turn the sound down a bit 
-*EMI:	Julia
-*UNK:	Yes
-*EMI:	we need the
-*UNK:	 (        )  (.) 
-*EMI:	we do
-*UNK:	I'm eating my penguin   (.) but, weren't that mine, that blue one?
-*EMI:	No
-*UNK:	 (        )  (.) 
-*UNK:	there
-*EMI:	Yeah, here are mum, we're gonna have to share them
-*SAN:	Yeah
-*EMI:	me and dad   (.) Florrie will have that one   ((tv on))one for her and
-*FLO:	We've only got three in there
-*EMI:	me and me mum
-*FLO:	these have got to be mixed up together   (.) is there nobody else coming in? (.) 
-*UNK:	I'll have Man City erm  (.) 
-*UNK:	 (        ) 
-*UNK:	I think  (.) 
-*UNK:	 (        )  (.) 
-*EMI:	Mummy   (.) we're sharing
-*UNK:	 (        ) 
-*EMI:	I wonder what piece, what are, where's two centre
-*UNK:	 (        ) 
+*SAN:	I got that about two rounds ago, but I'm not sure if it was either 
+*FLO:	Well I knew it was Reverend Green some time ago, but I couldn't decide which it, I just got that 
+*UNK:	  (  )  
+*SAN:	 that, about three goes ago   
+*EMI:	I did, I didn't know 
+*UNK:	But I wasn't sure if it was Reverend Green, cos that 
+*UNK:	  (  )  
+*FLO:	 what you do  rub them, rub them out 
+*UNK:	 (  ) 
+*FLO:	and then use  them again   
+*UNK:	 yes I know  that 
+*FLO:	mm 
+*UNK:	I know that 
+*FLO:	oh, should, do you not much  play when we've finished 
+*EMI:	 I had   
+*UNK:	  (  )  
+*UNK:	 I think so  yeah 
+*FLO:	I don't know whether they all want to play or whether your dad and granddad wants to stay and watch the football 
+*UNK:	Yeah I think they say  they want to play   
+*FLO:	 Go and find out what they're doing   (.)  
+*UNK:	 (  ) 
+*FLO:	turn the sound down a bit  
+*EMI:	Julia 
+*UNK:	Yes 
+*EMI:	we need the 
+*UNK:	 (  )  (.) 
+*EMI:	we do 
+*UNK:	I'm eating my penguin   (.) but, weren't that mine, that blue one? 
+*EMI:	No 
+*UNK:	 (  )  (.) 
+*UNK:	there 
+*EMI:	Yeah, here are mum, we're gonna have to share them 
+*SAN:	Yeah 
+*EMI:	me and dad   (.) Florrie will have that one   ((tv on))one for her and 
+*FLO:	We've only got three in there 
+*EMI:	me and me mum 
+*FLO:	these have got to be mixed up together   (.) is there nobody else coming in? (.)  
+*UNK:	I'll have Man City erm  (.)  
+*UNK:	 (  ) 
+*UNK:	I think  (.)  
+*UNK:	 (  )  (.) 
+*EMI:	Mummy   (.) we're sharing 
+*UNK:	 (  ) 
+*EMI:	I wonder what piece, what are, where's two centre 
+*UNK:	 (  ) 
 @End

@@ -1,36 +1,36 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 Croquet club 
-@Situation:	 playing croquet 
-@Media: 021A-C0897X0027XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 playing croquet  
+@Media:	021A-C0897X0027XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, DAV David neighbour
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|DAV|~45;| |m|Ag4| |property manager|neighbour|PS107|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|DAV|45;|||||property manager|neighbour|PS107|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0027XX-ABZZP0.wav
 @Comment:	conversation #164 (Tape 002712)
-*DAV:	Assume I'm not here.
-*CHR:	Yes.
-*DAV:	 (        ) 
-*CHR:	Right.
-*DAV:	 (        ) 
-*CHR:	Yep.Right.Presumably kicking the opponent's ball, it's, it's not acceptable.
-*DAV:	 (        ) , it's not a fault, the only time it's a fault is when you're erm, I don't know the words really, when you're actually in play, so if you were to take a, if you were actually doing this
-*CHR:	Is that right?Yes.
-*DAV:	then, that's a fault.
-*CHR:	Oh, yes .
-*DAV:	It's actually taken.
-*CHR:	I understand, yes.
-*DAV:	 (        ) 
-*CHR:	Yes.
-*DAV:	 (        ) , I'm still in play as it were, and I do that then it's  (        ) .
-*CHR:	Right, right, I see.
-*DAV:	But it's not a fault if you, erm, sort of walk up to that ball and erm, do this, it's not a fault.
-*CHR:	No, I see.
-*DAV:	O K?
-*CHR:	Yes, good, O K.
+*DAV:	Assume I'm not here. 
+*CHR:	Yes. 
+*DAV:	 (  ) 
+*CHR:	Right. 
+*DAV:	 (  ) 
+*CHR:	Yep. Right. Presumably kicking the opponent's ball, it's, it's  not acceptable. 
+*DAV:	  (  )  , it's not a fault, the only time it's a fault is when you're erm, I don't know the words really, when you're actually in play, so if you were to take a, if you were actually doing this 
+*CHR:	Is that right? Yes. 
+*DAV:	then, that's a fault. 
+*CHR:	Oh, yes  . 
+*DAV:	 It's  actually taken. 
+*CHR:	I understand, yes. 
+*DAV:	 (  ) 
+*CHR:	Yes. 
+*DAV:	 (  ) , I'm still in play as it were, and I do that then it's  (  ) . 
+*CHR:	Right, right, I see. 
+*DAV:	But it's not a fault if you, erm, sort of walk up to that ball and erm, do this, it's not a fault. 
+*CHR:	No, I see. 
+*DAV:	O K? 
+*CHR:	Yes, good, O K. 
 @End

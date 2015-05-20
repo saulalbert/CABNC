@@ -1,761 +1,761 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-13:  
 @Location:	  friends house  
-@Situation:	  talking with friends  
-@Media: 021A-C0897X0295XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  talking with friends   
+@Media:	021A-C0897X0295XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , HEL Helena self, EMM Emma friend, DAV David brother, JOA Joanne friend, AND Andy friend, SCO Scott friend, MAR mark/shrimpy friend
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|HEL|~16;| |f|Ag1| |student||PS0EB|
-@ID: eng|AudioBNC|EMM|~16;| |f|Ag1| |student|friend|PS0EC|
-@ID: eng|AudioBNC|DAV|~17;| |m|Ag1| |student|brother|PS0EE|
-@ID: eng|AudioBNC|JOA|~13;| |f|Ag0| |student|friend|PS0EF|
-@ID: eng|AudioBNC|AND|~18;| |m|Ag1| |insurance clerk|friend|PS0EG|
-@ID: eng|AudioBNC|SCO|~19;| |m|Ag1| |student|friend|PS0EH|
-@ID: eng|AudioBNC|MAR|~18;| |m|Ag1| |spring inspector|friend|PS0EJ|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|HEL|16;|||||student||PS0EB|
+@ID:	eng|AudioBNC|EMM|16;|||||student|friend|PS0EC|
+@ID:	eng|AudioBNC|DAV|17;|||||student|brother|PS0EE|
+@ID:	eng|AudioBNC|JOA|13;|||||student|friend|PS0EF|
+@ID:	eng|AudioBNC|AND|18;|||||insurance clerk|friend|PS0EG|
+@ID:	eng|AudioBNC|SCO|19;|||||student|friend|PS0EH|
+@ID:	eng|AudioBNC|MAR|18;|||||spring inspector|friend|PS0EJ|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0295XX-AAZZP0.wav
 @Comment:	conversation #7 (Tape 029501)
-*AND:	Out in a minute, (        ) changed.
-*UNK:	 (        )  ((laugh))  (.) 
-*AND:	Quick   (.)  ((laugh)) 
-*HEL:	What?
-*JOA:	Put a tape on  (        ) 
-*HEL:	 [laughing] It's like M I five or something in here  [] .
-*JOA:	Don't, no not not that  (        ) 
-*HEL:	 ((laugh)) 
-*JOA:	I don't believe you I swear   (        ) the tape.
-*HEL:	What?
-*JOA:	We ain't got a tape. (.) 
-*HEL:	 ((sigh)) I can fill it in for  (        ) . (.) 
-*JOA:	It's a different tape number.
-*HEL:	I know. (.) Er fill that in.Oh sugar, I've gotta start filling all these in now.
-*JOA:	Do you think that's right?
-*HEL:	Thirteenth of the   (.) third ninety two.What time?
-*JOA:	Five past seven.
-*HEL:	Seven. (.) Redditch   (.) eh eh eh eh  (.) 
-*DAV:	Visiting friends.
-*HEL:	 ((sigh)) Who spoke first?Me wasn't it?
-*JOA:	Yeah. (.)  (        ) 
-*HEL:	I don't have to fill it in again.Once I've filled it in once in the book
-*JOA:	Mm.
-*HEL:	right they know who it is.Yeah you only need to write their details on the first page in which they appear.
-*JOA:	Go on then, put it back. (        ) otherwise.
-*HEL:	Do you think I ought to fill Andy in quickly? (.) 
-*JOA:	He'll be the next in.
-*HEL:	Yeah he will won't he?
-*JOA:	This lot'll be Shrimp and he don't matter.
-*HEL:	Andy   (.) insurance   (.) clerk   (.) age?
-*JOA:	Nineteen.
-*HEL:	Nineteen   (.) now   (.) Redditch
-*JOA:	He doesn't call himself a clerk though.
-*HEL:	 (        ) what? (.) friend  (.) 
-*JOA:	I'll tell him you're a friend, he won't believe that.
-*HEL:	Oh thanks.According to you I've got no friends.
-*JOA:	Exactly.
-*HEL:	Oh thanks Jo.
-*JOA:	What's the point in lying? (.) 
-*HEL:	 [laughing]  (        ) can't find my pocket  [] . ((laugh)) 
-*JOA:	Helen nobody's coming.
-*HEL:	What? (.) 
-*JOA:	 (        ) 
-*HEL:	 ((laugh)) I can't get it in my pocket. (.) 
-*JOA:	Do you want a piece of pasta? (.) 
-*HEL:	You can't    (        )  (.) Alright And!
-*UNK:	 (        )  (.) 
-*HEL:	What you done? ((laugh)) 
-*AND:	I   (        ) across the   (        ) to get some   (        ) and ended on my bollocks.
+*AND:	Out in a minute, (  ) changed. 
+*UNK:	  (  )  ((laugh))   (.) 
+*AND:	Quick   (.)  ((laugh))  
+*HEL:	What? 
+*JOA:	Put a tape on  (  )  
+*HEL:	 ((laughing)) It's like M I five or something in here . 
+*JOA:	Don't, no not not that  (  )  
+*HEL:	  ((laugh))  
+*JOA:	 I don't believe you I swear   (  ) the tape. 
+*HEL:	What? 
+*JOA:	We ain't got a tape. (.)  
+*HEL:	 ((sigh)) I can fill it in for  (  ) . (.)  
+*JOA:	It's a different tape number. 
+*HEL:	I know.  (.) Er fill that in. Oh sugar, I've gotta start filling all these in now. 
+*JOA:	Do you think that's right? 
+*HEL:	Thirteenth of the   (.) third ninety two. What time? 
+*JOA:	Five past  seven. 
+*HEL:	 Seven.   (.) Redditch   (.) eh eh eh eh  (.)  
+*DAV:	Visiting friends. 
+*HEL:	 ((sigh)) Who spoke first? Me wasn't it? 
+*JOA:	Yeah. (6.0)  (  )  
+*HEL:	I don't have to fill it in again. Once I've filled it in once in the book 
+*JOA:	Mm. 
+*HEL:	right they know who it is. Yeah you only need to write their details on the first page in which they appear. 
+*JOA:	Go on then, put it back.  (  ) otherwise. 
+*HEL:	Do you think I ought to fill Andy in quickly? (.)  
+*JOA:	He'll be the next in. 
+*HEL:	Yeah he will won't he? 
+*JOA:	This lot'll be Shrimp and he don't matter. 
+*HEL:	Andy   (.) insurance   (.) clerk   (.) age? 
+*JOA:	Nineteen. 
+*HEL:	Nineteen   (.) now   (.) Redditch 
+*JOA:	He doesn't call himself a clerk though. 
+*HEL:	 (  ) what? (.) friend  (.)  
+*JOA:	I'll tell him you're a friend, he won't believe that. 
+*HEL:	Oh thanks. According to you I've got no friends. 
+*JOA:	Exactly. 
+*HEL:	Oh thanks Jo. 
+*JOA:	What's the point in lying? (.)  
+*HEL:	 ((laughing))  (  ) can't find my pocket . ((laugh))  
+*JOA:	Helen nobody's coming. 
+*HEL:	What? (.)  
+*JOA:	 (  ) 
+*HEL:	 ((laugh)) I can't get it in my pocket. (.)  
+*JOA:	Do you want a piece of pasta? (.)  
+*HEL:	You can't    (  )  (.) Alright And! 
+*UNK:	 (  )  (.) 
+*HEL:	What you done? ((laugh))  
+*AND:	I   (  ) across the   (  ) to get some   (  ) and ended on my bollocks. 
+*JOA:	  ((laugh))  
+*HEL:	 Oh that's nice. 
+*AND:	That's the last time I  (  )  
 *JOA:	 ((laugh)) 
-*HEL:	Oh that's nice.
-*AND:	That's the last time I  (        ) 
-*JOA:	 ((laugh)) 
-*HEL:	No it isn't.You do it all the time.
-*AND:	That that smarts. (.) 
-*UNK:	 (        ) 
-*AND:	That's not gonna do much.
-*HEL:	 ((laugh)) Do you want a Band-Aid?
-*AND:	I've got a split sac.
+*HEL:	No it isn't. You do it all  the time. 
+*AND:	 That  that smarts. (.)  
+*UNK:	 (  ) 
+*AND:	That's not gonna do much. 
+*HEL:	 ((laugh)) Do you want a Band-Aid? 
+*AND:	I've got a split sac. 
 *HEL:	 ((laugh)) 
-*AND:	I've got one testicle down here somewhere   (.) and the other one's still embedded in bedroom.
-*HEL:	 ((laugh)) What d what did you land on? (        ) bed?
-*JOA:	Was it you who went bloody hell?
-*AND:	One of those cab yeah   (.) it was one of those 
-*JOA:	It was really loud.
-*AND:	it was one of those cabin beds.And erm the rim was like about that thin.
-*HEL:	Mm. (.) 
-*AND:	And that split my
-*HEL:	Mm.Nice.
-*AND:	Not nice. (.) 
-*JOA:	Ha! (        ) ha.
-*AND:	Mm?
-*JOA:	 (        ) for a long time. (.) 
+*AND:	I've got one testicle down here somewhere   (.) and the other one's still embedded in bedroom. 
+*HEL:	 ((laugh)) What d  what did you land on? (  ) bed? 
+*JOA:	 Was it you who went bloody hell? 
+*AND:	One of those cab  yeah   (.)  it was one of those   
+*JOA:	 It was really loud. 
+*AND:	it was one of those cabin beds. And erm the rim was like about that thin. 
+*HEL:	Mm. (.)  
+*AND:	And that split my 
+*HEL:	Mm. Nice. 
+*AND:	Not nice. (.)  
+*JOA:	Ha! (  ) ha. 
+*AND:	Mm? 
+*JOA:	 (  ) for a long time. (.)  
 *AND:	 ((belch)) 
-*UNK:	 (        ) 
-*JOA:	This special   (.) what was it called again? (.) 
-*HEL:	It says on it somewhere doesn't it?
-*AND:	Dynamike 
-*UNK:	Dynamike 
-*HEL:	how embarrassing, is that.
-*UNK:	You go   (.) smack, straight on them.
-*AND:	Yeah then I get a drill with a wire brush on it and go bzzzzzzzzzzzzzzz
+*UNK:	 (  ) 
+*JOA:	This special   (.) what was it called again? (.)  
+*HEL:	It says on it somewhere doesn't it? 
+*AND:	Dynamike  
+*UNK:	Dynamike  
+*HEL:	how embarrassing, is that. 
+*UNK:	You go   (.) smack, straight on them. 
+*AND:	Yeah then I get a drill with a wire brush on it and go bzzzzzzzzzzzzzzz 
 *HEL:	 ((laugh)) 
-*UNK:	Out.
-*AND:	 (        ) Okay.
-*JOA:	Yes alright then.
-*AND:	That was my mother's suggestion for a bog roll
-*HEL:	Oh.
-*AND:	sit on a drill with a wire brush on it.Works wonders.
-*HEL:	Nice.
-*JOA:	Scratch.Erm what drink you getting anyway? (.) 
-*AND:	I was gonna get   (.) well I'm contemplating but I'm either getting four cans of Strongbow and a bottle    (        )  (.) or just eight cans of Strongbow.
-*JOA:	For tomorrow?Or today?
-*AND:	Well some are for tonight as well. (.) 
-*JOA:	Well you know what'll happen
-*AND:	 [singing]  (        )  [] 
-*JOA:	if you get the   (        ) that'll all be gone by tonight.
-*AND:	No that'll go, that'll go right through tomorrow.
-*JOA:	Oh.
-*AND:	Yeah, that bppppprrrrrr 
-*HEL:	Is that all you're having for tomorrow?
-*AND:	What? (        ) 
-*HEL:	 (        ) 
-*AND:	 (        ) to myself
-*HEL:	Oh.Oh, right.
-*AND:	 (        ) 
-*HEL:	 ((laugh))  (.) There, you've recovered now.
-*JOA:	 (        ) er can. (.) 
-*HEL:	Ugh I don't know how you can drink the stuff, it's ugh.
-*AND:	Strongbow?
-*HEL:	Mm.
-*AND:	It's n it's not ugh. (.) It's cider.
-*HEL:	It's ugh.
-*JOA:	I prefer Tesco's own myself.
-*AND:	 [singing]  (        )  [] Oh I'm not buying that, cos it's not strong enough   [shouting] for me  [] .
-*HEL:	Oh you man.
-*JOA:	It depends if you get the strong stuff you dipstick.
-*AND:	I don't care what you do with my dipstick.But I am 
-*HEL:	Don't 
-*AND:	drinking lots of cider.
-*HEL:	don't you go to band rehearsal any more?I thought you'd be at band last night.
-*AND:	Well I was supposed to be but erm every single time they arrange it   (.) and they either tell me the wrong da well they told me the wrong day last week cos, they told me Tuesd they told me it was Thursday when it, when it was actually Tuesday when I was getting pissed at Scott's house   (.) so erm it was too late by then.Then they said erm there's one on Sunday, oh no there isn't.And this 
-*JOA:	What do you mean we didn't get pissed at Scott's at all.
-*AND:	and this
+*UNK:	 Out. 
+*AND:	  (  )  Okay. 
+*JOA:	Yes alright then. 
+*AND:	That was my mother's suggestion for a bog roll 
+*HEL:	Oh. 
+*AND:	sit on a drill with a wire brush on it.  Works wonders. 
+*HEL:	 Nice. 
+*JOA:	Scratch. Erm what drink you getting anyway? (.)  
+*AND:	I was gonna get   (.) well I'm contemplating but I'm either getting four cans of Strongbow and a bottle    (  )  (.) or just eight cans of Strongbow. 
+*JOA:	For tomorrow? Or  today? 
+*AND:	 Well  some are for tonight as well. (.)  
+*JOA:	Well you know what'll happen 
+*AND:	 ((singing))  (  ) 
+*JOA:	if you get the   (  ) that'll all be gone by tonight. 
+*AND:	No that'll go, that'll go right through tomorrow. 
+*JOA:	Oh. 
+*AND:	Yeah, that bppppprrrrrr  
+*HEL:	Is that all you're having for tomorrow? 
+*AND:	What? (  )   
+*HEL:	  (  )  
+*AND:	 (  ) to myself 
+*HEL:	Oh. Oh, right. 
+*AND:	 (  ) 
+*HEL:	 ((laugh))  (.) There, you've recovered now. 
+*JOA:	 (  ) er can. (.)  
+*HEL:	Ugh I don't know how you can drink the stuff, it's ugh. 
+*AND:	Strongbow? 
+*HEL:	Mm. 
+*AND:	It's n  it's not ugh.  (.) It's cider. 
+*HEL:	It's ugh. 
+*JOA:	I prefer Tesco's own myself. 
+*AND:	 ((singing))  (  ) Oh I'm not buying that, cos it's not strong enough   ((shouting)) for me . 
+*HEL:	 Oh you man. 
+*JOA:	 It depends  if you get the strong stuff you dipstick. 
+*AND:	I don't care what you do with my dipstick.  But I am   
+*HEL:	 Don't   
+*AND:	drinking lots of cider. 
+*HEL:	don't you go to band rehearsal any more? I thought you'd be at band last night. 
+*AND:	Well I was supposed to be but erm every single time they arrange it   (.) and they either tell me the wrong da  well they told me the wrong day last week cos, they told me Tuesd  they told me it was Thursday when it, when it was actually Tuesday when I was getting pissed at Scott's house   (.) so erm it was too late by then. Then they said erm there's one on Sunday, oh no there isn't.  And this   
+*JOA:	 What do you mean  we didn't get pissed at Scott's at all. 
+*AND:	and this 
 *HEL:	 ((laugh)) 
-*AND:	Didn't we?
-*HEL:	Yes we did.
-*AND:	It was birthday   (.) last Tuesday.
-*JOA:	Was it?Oh we weren't pissed.
-*AND:	Merry.
-*HEL:	You two were, I wasn't.
-*JOA:	 [shouting] I was not   [] was I?
-*AND:	 [laughing] I was  [] .
-*HEL:	A little bit.
-*JOA:	 [shouting] I wasn't  [] .
-*AND:	 [laughing] I was  [] .
-*HEL:	You couldn't see.
-*AND:	I couldn't.
-*JOA:	I was not at all.
-*AND:	I could just about hear Carter  (.) in the far reaches of my mind.But erm 
-*JOA:	He was I was fine.Course Helena   (.) Mrs Hold My Drink, not that I get a hangover every single time or anything.
-*AND:	 ((laugh)) Hangovers 
-*HEL:	I don't!
-*JOA:	You do!
-*AND:	What is a hangover?
-*HEL:	Not after that I didn't.
-*AND:	What's a hangover?
-*HEL:	Shut up Andy else you'll get a punch in the face. (.) I'm just going to   (        ) 
-*AND:	I bought my long sleeved Carter top today.
-*JOA:	What?
-*HEL:	Oh yeah.Why aren't you wearing it?
-*AND:	I had to buy another long sleev no I well it's, it's a special purchase for tomorrow.
-*JOA:	What's this?
-*HEL:	Oh thanks And 
-*AND:	 (        ) my sl , my long sleeved Carter top.
-*HEL:	For my ace party.
-*JOA:	Go and get it then.
-*AND:	No. (.) 
-*HEL:	We 
-*JOA:	Well I want, I wanna wear my   (        ) and I can't have it till my birthday.
-*AND:	I'm gonna be really annoying, I'm gonna cut my jeans off   (.) half way down the shin.
-*HEL:	No you're not!
-*JOA:	No.
-*AND:	I am.
-*JOA:	You're not cos you're gonna look a twat.
-*AND:	Well I am a twat.
-*HEL:	Can, can I   (.) can I feel your leg  (        ) ?Go on please?
-*JOA:	Easy access And.
-*AND:	What do you want?You've got a choi you've got a choice of three.
+*AND:	Didn't we? 
+*HEL:	Yes we did. 
+*AND:	It was birthday   (.)  last Tuesday. 
+*JOA:	 Was it?  Oh we weren't pissed. 
+*AND:	Merry. 
+*HEL:	You two were, I wasn't. 
+*JOA:	 ((shouting)) I was not  was I? 
+*AND:	  ((laughing)) I was . 
+*HEL:	 A little bit. 
+*JOA:	  ((shouting)) I wasn't . 
+*AND:	  ((laughing)) I was . 
+*HEL:	You couldn't see. 
+*AND:	I couldn't. 
+*JOA:	I was not at all. 
+*AND:	I could just about hear Carter  (.) in the far reaches of my mind.  But erm   
+*JOA:	 He was  I was fine. Course Helena   (.) Mrs Hold My Drink, not that I get a hangover every single time or anything. 
+*AND:	 ((laugh))  Hangovers   
+*HEL:	 I don't! 
+*JOA:	You do! 
+*AND:	 What is a hangover? 
+*HEL:	 Not after that  I didn't. 
+*AND:	What's a hangover? 
+*HEL:	Shut up Andy else you'll get a punch in the face.  (.) I'm just going to    (  )   
+*AND:	 I bought my long sleeved  Carter top today. 
+*JOA:	 What? 
+*HEL:	 Oh yeah.  Why aren't  you wearing it? 
+*AND:	 I had to buy another  long sleev  no I well it's, it's a special purchase for tomorrow. 
+*JOA:	 What's this? 
+*HEL:	 Oh thanks And   
+*AND:	 (  ) my sl  , my long sleeved Carter top. 
+*HEL:	For my ace  party. 
+*JOA:	 Go and get it then. 
+*AND:	No. (.)  
+*HEL:	 We   
+*JOA:	 Well  I want, I wanna wear my   (  ) and I can't have it till my birthday. 
+*AND:	I'm gonna be really annoying, I'm gonna cut my jeans off   (.) half way down the shin. 
+*HEL:	No you're not! 
+*JOA:	No. 
+*AND:	I am. 
+*JOA:	You're not cos you're gonna look a twat. 
+*AND:	Well I am a twat. 
+*HEL:	Can, can I   (.) can I feel your leg  (  ) ? Go on please? 
+*JOA:	 Easy access And. 
+*AND:	 What do you want? You've got a choi   you've got a choice of three. 
 *HEL:	 ((laugh)) 
-*AND:	 ((laugh))  (        ) 
-*HEL:	I'll have them all. ((laugh))  (.) 
+*AND:	 ((laugh))  (  ) 
+*HEL:	I'll have them all. ((laugh))  (.)  
 *AND:	 ((yawn))  (.) 
-*HEL:	Bit tired then?
-*AND:	Yeah well I didn't get up, didn't get up 
-*JOA:	Where's Shrimpy?
-*AND:	didn't get up until seven.
-*HEL:	Oh.
-*JOA:	Course Shrimpy said I'm gonna go and get you some matches, so what does he forget?You've got it
-*AND:	Matches.
-*HEL:	I remembered everything else I wanted. (.) 
-*AND:	 [singing]  (        )  [] Oh it was so funny at work today, Greg fell off his chair.
+*HEL:	Bit tired then? 
+*AND:	Yeah well I  didn't get up, didn't get up   
+*JOA:	 Where's Shrimpy? 
+*AND:	didn't get up until seven. 
+*HEL:	 Oh. 
+*JOA:	 Course Shrimpy said I'm  gonna go and get you some matches, so what does he forget? You've got it 
+*AND:	Matches. 
+*HEL:	I remembered everything else I wanted. (.)  
+*AND:	 ((singing))  (  ) Oh it was so funny at work today, Greg fell off his chair. 
 *HEL:	 ((laugh)) 
-*AND:	Packet of condoms fell out of his pocket   (        ) 
+*AND:	Packet of condoms fell out of his pocket    (  )   
+*HEL:	  ((laugh))  
+*AND:	 ((laughing)) And they were ripped . 
 *HEL:	 ((laugh)) 
-*AND:	 [laughing] And they were ripped  [] .
+*AND:	Ah no he was, he, he wouldn't sit on his chair cos he'd just called me an arsehole   (.) and I goes oh sit down   (  ) Greg!  ((laugh)) I said sit down Gregory and shut up. So he went to sit down but his chair weren't there.  (.) All I saw were this pair of legs sticking over the desk and him going aaaaagh! 
+*JOA:	And his condoms    (  )   
+*AND:	 And he got up  and then one of the girls said   (.) hi Greg   (.) dropped your johnnies. ((laugh))   
+*UNK:	  ((laugh))  
+*AND:	I've never seen anyone go so red in my life. 
+*JOA:	How old's he? 
+*AND:	Twenty three. He's married. ((laugh))  (.)  
+*HEL:	Well, so? 
+*AND:	He got married si  what three months ago. 
+*HEL:	Maybe he doesn't want any children  yet. 
+*AND:	 He we   he went redder than that. (.)  
+*HEL:	 (  ) redder than that? ((singing in background)) 
+*UNK:	Is that your mum happy? ((singing in background)) 
+*AND:	I   (  ) in the bath. I walked in I, I had to lock the door with the penny, walked in, got the bog roll 
+*JOA:	Do you realize you haven't called for Emma? (.)  
+*HEL:	Well done. 
+*AND:	 ((singing))  (  ) 
+*HEL:	Oh what cos   (.)  that'll be alright won't it? 
+*JOA:	  (  )  
+*HEL:	It'll be alright. 
+*JOA:	 (  ) Scott   (  ) come round and she'll meet us down here. 
+*HEL:	Yeah. 
+*JOA:	Er? Oh well 
+*HEL:	Well when er when them two, when them lot go and get the stuff   (  )  (.)  
+*JOA:	 ((singing)) Up above the streets and houses rainbow's flying high. Everyone can see them flying   (.) in the sk  oh did you see the rainbow today? 
+*HEL:	No. 
+*JOA:	It was about what, four o'clock I went over Tesco's 
+*AND:	Did I see the rainbow? I was in it. 
+*JOA:	It was abs  shut up, it was absolutely   (.)  massive. 
+*HEL:	 What, in the  rain? 
+*AND:	In the rain, yes. 
+*JOA:	 Absolutely massive. 
+*HEL:	 So was I. 
+*JOA:	Absolutely massive it was. 
+*HEL:	Cos I had to walk home  from school today. 
+*JOA:	 By Tesco's it was  it was coming out the field.   (  ) goes let's   
+*HEL:	 Ah! 
+*JOA:	rush over to see if we can find  the pot of gold. 
+*AND:	 Well Andy is erm  general errand boy for   at the moment 
+*HEL:	Mm. 
+*AND:	and 
+*JOA:	What's your actual job? 
+*AND:	What's my job title? 
+*JOA:	Yeah. 
+*AND:	Is claims   (.) sorry   (.) insurance claims correspondent. 
+*HEL:	Insurance clerk. 
+*AND:	No, not clerk. 
+*HEL:	Oh. (.)  
+*AND:	I'm not a clerk thank you.  (.) No I'm a   (  ) claim correspondent. 
+*HEL:	Well if someone asks you what we, what you do  (.)  
+*AND:	I deal with claims. 
+*HEL:	Oh. 
+*AND:	 (  ) deal with insurance claims. I say whether or not we're gonna pay them.  (.) Which is a fairly important job but I get paid shit. So there. 
+*JOA:	It's only to five thousand pound And. 
+*AND:	Eh? 
+*JOA:	It's only up to five thousand pound. (.)  
+*AND:	Only what? 
+*HEL:	 You only   
+*JOA:	 You can only  do claims to five thousand pound can't you? 
+*AND:	Ten thousand.  That's a   
+*JOA:	 Ha it's  gone up! 
+*AND:	No it ain't. It was, it's five thousand without manager authorization. 
+*JOA:	How much do you get paid a year? Just to be nosy like, you know. (.)  
+*AND:	Six thousand. 
+*JOA:	Is that all? (.)  
+*HEL:	So you can give away more   ((laughing)) than they, they gi  than they pay you ? 
+*AND:	For what I do my, my pay is shit. 
+*UNK:	 ((shouting)) Pardon ? 
+*AND:	 Really. 
+*JOA:	 I'd tell them  where to go. (.)  
+*AND:	Well Shrimpy's on twice as much as I am. (.)  
+*HEL:	You can't tell   (  ) anything  when you've   
+*JOA:	 Well all he   
+*HEL:	got a car. 
+*JOA:	and anyway all he does is  spring   (.) inspect springs. 
+*AND:	 And people wonder why I've got no money. 
+*HEL:	Mm. 
+*AND:	People why, wonder why I've got no money. 
+*HEL:	Become a spring inspector. ((singing in background)) 
+*AND:	Oh that sounds really good. 
+*UNK:	Oh god, is Hannah singing? ((laugh))  
+*UNK:	 (  ) 
+*AND:	Tell her to sit on that and swivel three times. 
 *HEL:	 ((laugh)) 
-*AND:	Ah no he was, he, he wouldn't sit on his chair cos he'd just called me an arsehole   (.) and I goes oh sit down   (        ) Greg! ((laugh)) I said sit down Gregory and shut up.So he went to sit down but his chair weren't there. (.) All I saw were this pair of legs sticking over the desk and him going aaaaagh!
-*JOA:	And his condoms   (        ) 
-*AND:	And he got up and then one of the girls said   (.) hi Greg   (.) dropped your johnnies. ((laugh)) 
-*UNK:	 ((laugh)) 
-*AND:	I've never seen anyone go so red in my life.
-*JOA:	How old's he?
-*AND:	Twenty three.He's married. ((laugh))  (.) 
-*HEL:	Well, so?
-*AND:	He got married si what three months ago.
-*HEL:	Maybe he doesn't want any children yet.
-*AND:	He we he went redder than that. (.) 
-*HEL:	 (        ) redder than that? ((singing in background))
-*UNK:	Is that your mum happy? ((singing in background))
-*AND:	I   (        ) in the bath.I walked in I, I had to lock the door with the penny, walked in, got the bog roll
-*JOA:	Do you realize you haven't called for Emma? (.) 
-*HEL:	Well done.
-*AND:	 [singing]  (        )  [] 
-*HEL:	Oh what cos   (.) that'll be alright won't it?
-*JOA:	 (        ) 
-*HEL:	It'll be alright.
-*JOA:	 (        ) Scott   (        ) come round and she'll meet us down here.
-*HEL:	Yeah.
-*JOA:	Er?Oh well
-*HEL:	Well when er when them two, when them lot go and get the stuff   (        )  (.) 
-*JOA:	 [singing] Up above the streets and houses rainbow's flying high.Everyone can see them flying   (.) in the sk  [] oh did you see the rainbow today?
-*HEL:	No.
-*JOA:	It was about what, four o'clock I went over Tesco's
-*AND:	Did I see the rainbow?I was in it.
-*JOA:	It was abs shut up, it was absolutely   (.) massive.
-*HEL:	What, in the rain?
-*AND:	In the rain, yes.
-*JOA:	Absolutely massive.
-*HEL:	So was I.
-*JOA:	Absolutely massive it was.
-*HEL:	Cos I had to walk home from school today.
-*JOA:	By Tesco's it was it was coming out the field. (        ) goes let's 
-*HEL:	Ah!
-*JOA:	rush over to see if we can find the pot of gold.
-*AND:	Well Andy is erm general errand boy for  at the moment
-*HEL:	Mm.
-*AND:	and
-*JOA:	What's your actual job?
-*AND:	What's my job title?
-*JOA:	Yeah.
-*AND:	Is claims   (.) sorry   (.) insurance claims correspondent.
-*HEL:	Insurance clerk.
-*AND:	No, not clerk.
-*HEL:	Oh. (.) 
-*AND:	I'm not a clerk thank you. (.) No I'm a   (        ) claim correspondent.
-*HEL:	Well if someone asks you what we, what you do  (.) 
-*AND:	I deal with claims.
-*HEL:	Oh.
-*AND:	 (        ) deal with insurance claims.I say whether or not we're gonna pay them. (.) Which is a fairly important job but I get paid shit.So there.
-*JOA:	It's only to five thousand pound And.
-*AND:	Eh?
-*JOA:	It's only up to five thousand pound. (.) 
-*AND:	Only what?
-*HEL:	You only 
-*JOA:	You can only do claims to five thousand pound can't you?
-*AND:	Ten thousand.That's a 
-*JOA:	Ha it's gone up!
-*AND:	No it ain't.It was, it's five thousand without manager authorization.
-*JOA:	How much do you get paid a year?Just to be nosy like, you know. (.) 
-*AND:	Six thousand.
-*JOA:	Is that all? (.) 
-*HEL:	So you can give away more   [laughing] than they, they gi than they pay you  [] ?
-*AND:	For what I do my, my pay is shit.
-*UNK:	 [shouting] Pardon  [] ?
-*AND:	Really.
-*JOA:	I'd tell them where to go. (.) 
-*AND:	Well Shrimpy's on twice as much as I am. (.) 
-*HEL:	You can't tell   (        ) anything when you've 
-*JOA:	Well all he 
-*HEL:	got a car.
-*JOA:	and anyway all he does is spring   (.) inspect springs.
-*AND:	And people wonder why I've got no money.
-*HEL:	Mm.
-*AND:	People why, wonder why I've got no money.
-*HEL:	Become a spring inspector. ((singing in background))
-*AND:	Oh that sounds really good.
-*UNK:	Oh god, is Hannah singing? ((laugh)) 
-*UNK:	 (        ) 
-*AND:	Tell her to sit on that and swivel three times.
+*AND:	Better make sure she wiped her arse properly first. 
+*HEL:	 ((laugh))  (.) oh, oh dear   ((laughing)) oh dear . 
+*UNK:	  (  )  
+*AND:	  ((shouting)) What ? 
+*UNK:	Come here. 
+*AND:	 ((shouting)) What ?  (.) You dumb fat cow. 
+*JOA:	Don't be so nasty to your mum. 
+*UNK:	 (  ) 
+*HEL:	 ((sigh))  ((laugh)) Oh dear oh dear  ((laugh))  
+*JOA:	 (  ) 
+*HEL:	What? 
+*JOA:	 (  ) when he finds out. ((laugh))  
+*HEL:	He'll probably try and wrestle it away from me but 
+*JOA:	It's no good  quibbling. I wanna be famous. 
+*HEL:	 I'll ask, I'll  I'll ask h  I'll tell him afterwards 
+*JOA:	I wanna be famous  he'll say. 
+*HEL:	 but it'll  sound really awful if I   (.) I tell him now. (.)  
+*JOA:	Tell him at the end of the week. 
+*HEL:	Mm.  (.) If he don't like it I can record over it but  (.)  
+*JOA:	No you won't. 
 *HEL:	 ((laugh)) 
-*AND:	Better make sure she wiped her arse properly first.
-*HEL:	 ((laugh))  (.) oh, oh dear   [laughing] oh dear  [] .
-*UNK:	 (        ) 
-*AND:	 [shouting] What  [] ?
-*UNK:	Come here.
-*AND:	 [shouting] What  [] ? (.) You dumb fat cow.
-*JOA:	Don't be so nasty to your mum.
-*UNK:	 (        ) 
-*HEL:	 ((sigh))  ((laugh)) Oh dear oh dear  ((laugh)) 
-*JOA:	 (        ) 
-*HEL:	What?
-*JOA:	 (        ) when he finds out. ((laugh)) 
-*HEL:	He'll probably try and wrestle it away from me but
-*JOA:	It's no good quibbling.I wanna be famous.
-*HEL:	I'll ask, I'll I'll ask h I'll tell him afterwards
-*JOA:	I wanna be famous he'll say.
-*HEL:	but it'll sound really awful if I   (.) I tell him now. (.) 
-*JOA:	Tell him at the end of the week.
-*HEL:	Mm. (.) If he don't like it I can record over it but  (.) 
-*JOA:	No you won't.
+*JOA:	I know you. You're nasty-pasty aren't you? 
+*HEL:	No if he, if he really doesn't like it then I'll      (.)  (  )  (.)  ((sighing)) oh dear  
+*JOA:	 (  ) just tell him the truth. (  )   
+*HEL:	  ((laugh))  
+*AND:	There it is, there it is.  ((singing)) Mm mm  
+*HEL:	Oh  that's nice. 
+*JOA:	 Ugh it's  horrible. 
+*AND:	Mm  (  )  
+*JOA:	What's it got, about thirty something? 
+*AND:	Yeah. 
+*JOA:	Why? (.)  
+*HEL:	 ((laughing)) Oh Jo ! (.)  
+*AND:	It's only the name of the album  (  )  
+*JOA:	Well I didn't know! 
+*AND:	You thick cow. 
+*JOA:	I'm not a Carter fan  myself. 
+*AND:	 You  thick cow. 
+*JOA:	They look like they're on something. 
+*AND:	Yeah, so? 
+*HEL:	 ((laughing)) They probably are . 
+*AND:	They're on the stage for singing. 
 *HEL:	 ((laugh)) 
-*JOA:	I know you.You're nasty-pasty aren't you?
-*HEL:	No if he, if he really doesn't like it then I'll      (.)  (        )  (.)  [sighing] oh dear  [] 
-*JOA:	 (        ) just tell him the truth. (        ) 
+*JOA:	Yeah   (.) but, right, they're on drugs I reckon. 
+*HEL:	So? ((laugh))  
+*JOA:	So Andy doesn't like any such thing do you And? 
+*AND:	I don't. 
+*JOA:	So you shouldn't, you shouldn't 
+*AND:	But I think the music's good. (.)  
+*HEL:	Don't, don't put that on very loud, I've got a bit of a headache. 
+*AND:	You'll have a lot of headache by the time I've finished. 
+*HEL:	What? 
+*AND:	You'll have a lot of a headache by the time I've finished.  (.) Now would I?  (.) I don't play music loud. (.)  
+*JOA:	There you go. 
+*AND:	Thank you. I couldn't have done that myself. 
+*JOA:	I'm only helping. If you don't want any help just  (.)  
 *HEL:	 ((laugh)) 
-*AND:	There it is, there it is. [singing] Mm mm  [] 
-*HEL:	Oh that's nice.
-*JOA:	Ugh it's horrible.
-*AND:	Mm  (        ) 
-*JOA:	What's it got, about thirty something?
-*AND:	Yeah.
-*JOA:	Why? (.) 
-*HEL:	 [laughing] Oh Jo  [] ! (.) 
-*AND:	It's only the name of the album  (        ) 
-*JOA:	Well I didn't know!
-*AND:	You thick cow.
-*JOA:	I'm not a Carter fan myself.
-*AND:	You thick cow.
-*JOA:	They look like they're on something.
-*AND:	Yeah, so?
-*HEL:	 [laughing] They probably are  [] .
-*AND:	They're on the stage for singing.
+*JOA:	Alright, okay, fair enough, alright?  (.) Thank you. 
+*HEL:	You can say it as loud as you like Jo. 
+*JOA:	I know, I don't want to say it as loud as I like. 
+*AND:	Go on, you shout it. 
 *HEL:	 ((laugh)) 
-*JOA:	Yeah   (.) but, right, they're on drugs I reckon.
-*HEL:	So? ((laugh)) 
-*JOA:	So Andy doesn't like any such thing do you And?
-*AND:	I don't.
-*JOA:	So you shouldn't, you shouldn't
-*AND:	But I think the music's good. (.) 
-*HEL:	Don't, don't put that on very loud, I've got a bit of a headache.
-*AND:	You'll have a lot of headache by the time I've finished.
-*HEL:	What?
-*AND:	You'll have a lot of a headache by the time I've finished. (.) Now would I? (.) I don't play music loud. (.) 
-*JOA:	There you go.
-*AND:	Thank you.I couldn't have done that myself.
-*JOA:	I'm only helping.If you don't want any help just  (.) 
+*AND:	 (  ) open the door.  (.) There we are   (  )  there's no-one in there. 
+*HEL:	  ((laugh))  
+*AND:	 (  ) 
+*JOA:	It wasn't exactly a joke was it now Andy? It didn't make anybody laugh   (.) because  it was funny   
+*AND:	 You both laughed  when I   (  ) shut the door. 
+*JOA:	No it's just cos you're a twat  (  )  
+*AND:	Yes it's    (.)  (  ) vagina. 
 *HEL:	 ((laugh)) 
-*JOA:	Alright, okay, fair enough, alright? (.) Thank you.
-*HEL:	You can say it as loud as you like Jo.
-*JOA:	I know, I don't want to say it as loud as I like.
-*AND:	Go on, you shout it.
-*HEL:	 ((laugh)) 
-*AND:	 (        ) open the door. (.) There we are   (        ) there's no-one in there.
-*HEL:	 ((laugh)) 
-*AND:	 (        ) 
-*JOA:	It wasn't exactly a joke was it now Andy?It didn't make anybody laugh   (.) because it was funny 
-*AND:	You both laughed when I   (        ) shut the door.
-*JOA:	No it's just cos you're a twat  (        ) 
-*AND:	Yes it's    (.)  (        ) vagina.
-*HEL:	 ((laugh)) 
-*JOA:	We know.
-*AND:	See the tufts of hair spring out   (.) and the clitoris bulge.
-*UNK:	 ((laugh))  (        )  ((laugh))  ((music))
-*UNK:	 (        )  ((laugh)) 
-*UNK:	Shut up.
-*UNK:	 (        ) 
-*HEL:	No I know but    (.)  (        )  (.) 
-*AND:	It should be quite   (        )  (.) 
-*HEL:	 ((laugh)) What are you looking at him like that for? (.) 
-*AND:	 (        ) 
-*HEL:	What?
-*AND:	That   (        ) to you dunnit?
-*HEL:	What?
-*JOA:	No.
+*JOA:	We know. 
+*AND:	See the tufts of hair spring out   (.) and the clitoris bulge. 
+*UNK:	 ((laugh))  (  )  ((laugh))  ((music))
+*UNK:	 (  )  ((laugh)) 
+*UNK:	Shut up. 
+*UNK:	 (  ) 
+*HEL:	No I know but    (.)  (  )  (.)  
+*AND:	It should be quite   (  )  (.)  
+*HEL:	 ((laugh)) What are you looking at him like that for? (12.0)  
+*AND:	 (  ) 
+*HEL:	What? 
+*AND:	That   (  ) to you dunnit? 
+*HEL:	What? 
+*JOA:	No. 
 *HEL:	 ((laugh))  (.) 
-*AND:	 (        )  (.) 
-*UNK:	 (        ) 
-*UNK:	 (        ) listen to it.
-*AND:	Yeah, it's dynamic. (.) 
-*UNK:	Bit louder cos it's  (        ) 
-*AND:	 (        ) to drown you out. (.)  (        )  (.) 
+*AND:	 (  )  (7.0) 
+*UNK:	 (  ) 
+*UNK:	 (  ) listen to it. 
+*AND:	Yeah, it's dynamic. (.)  
+*UNK:	Bit louder cos it's  (  )  
+*AND:	 (  ) to drown you out. (.)  (  )  (.)  
 *JOA:	 ((singing to music))
-*HEL:	 (        ) 
-*JOA:	 ((singing to music))
-*HEL:	Andy   (.) Andy   (.) Andy    (.)  [shouting] Andy   [] How could you?
-*AND:	What?
-*HEL:	 (        ) 
-*AND:	How could I what?
+*HEL:	 (  ) 
+*JOA:	  ((singing to music)) 
+*HEL:	 Andy   (.) Andy   (.) Andy    (.)  ((shouting)) Andy  How could you? 
+*AND:	What? 
+*HEL:	 (  ) 
+*AND:	How could I what? 
 *HEL:	 ((laugh)) 
-*AND:	What, bought that?
-*HEL:	What?
-*AND:	Have I what? (.) 
-*HEL:	 ((laugh))  (.) Well one, how could you have bought that and two, how could you let her   (.) drone through it like that?
-*AND:	Well  (        ) 
-*HEL:	Oh.
-*AND:	 (        )  (.) I bought that cos it's good.
-*UNK:	Nobody wants to listen to it, (        ) .
-*AND:	 (        )  (.)  (        ) 
-*HEL:	 [laughing] Well you did.I could imagine    (        )  [] 
-*AND:	It's fun. (        ) get hours of pleasure out of this.What are you   (.) complaining about?You would have gone out and bought it.
-*HEL:	No I wouldn't.
-*AND:	 (        ) 
-*HEL:	 ((laugh)) Well   (        ) Dynamike 
-*JOA:	 (        ) 
-*AND:	Mm?
-*JOA:	She plays on yours all the time   (        ) about her, your Dynamike 
-*AND:	Mm.
-*HEL:	Mm mm mm
-*AND:	Mm.
-*HEL:	If it wasn't f 
-*JOA:	 (        ) he's going to be dead.
-*HEL:	if it wasn't for your Dynamike I don't know what I'd do with myself of an evening. (.) 
-*AND:	 (        ) in the front actually.
-*HEL:	 ((laugh)) Ah  (        ) 
-*JOA:	Carrots.
-*AND:	With wings.
+*AND:	What, bought that? 
+*HEL:	What? 
+*AND:	Have I what? (.)  
+*HEL:	 ((laugh))  (.) Well one, how could you have bought that and two, how could you let her   (.) drone through it like that? 
+*AND:	Well  (  )  
+*HEL:	Oh. 
+*AND:	 (  )  (.) I bought that cos it's good. 
+*UNK:	Nobody wants to listen to it, (  ) . 
+*AND:	 (  )  (.)  (  ) 
+*HEL:	 ((laughing)) Well you did. I could imagine     (  )   
+*AND:	 It's fun.   (  ) get hours of pleasure out of this. What are you   (.) complaining about? You would have gone out and bought it. 
+*HEL:	No I wouldn't. 
+*AND:	 (  ) 
+*HEL:	 ((laugh)) Well    (  ) Dynamike   
+*JOA:	  (  )  
+*AND:	Mm? 
+*JOA:	She plays on yours all the time   (  ) about her, your Dynamike  
+*AND:	Mm. 
+*HEL:	Mm mm mm 
+*AND:	Mm. 
+*HEL:	 If it wasn't f    
+*JOA:	  (  )  he's going to be dead. 
+*HEL:	if it wasn't for your Dynamike I don't know what I'd do with myself of an evening. (.)  
+*AND:	 (  ) in the front actually. 
+*HEL:	 ((laugh)) Ah  (  )  
+*JOA:	Carrots. 
+*AND:	With wings. 
 *HEL:	 ((laugh)) 
-*AND:	With wings. (.) 
-*HEL:	Oh really?
-*AND:	Mm.
-*HEL:	Alright Clare Rayner. (.) Oh by the way, if Clare comes tomorrow she's bringing her boyfriend.
-*AND:	Is she?
-*HEL:	Mm. ((laugh)) 
-*JOA:	 (        ) 
+*AND:	With wings. (.)  
+*HEL:	Oh really? 
+*AND:	Mm. 
+*HEL:	Alright Clare Rayner.  (6.0) Oh by the way, if Clare comes tomorrow she's bringing her boyfriend. 
+*AND:	Is she? 
+*HEL:	Mm. ((laugh))  
+*JOA:	 (  ) 
 *HEL:	 ((laugh)) 
-*JOA:	Right on.
-*AND:	Long as he wears a kilt. (.) 
-*HEL:	 ((laugh)) I wanna meet him actually, (        ) 
-*JOA:	 (        ) I'm not wearing a kilt  (        ) 
-*AND:	What?
-*JOA:	 (        ) 
-*AND:	What?
-*JOA:	 (        ) I said I'm not wearing a kilt. (.)  (        ) I don't love you any more.
-*AND:	 (        ) 
-*JOA:	Alright I love you then  (        ) 
-*UNK:	 ((laugh))  (        ) 
-*AND:	 (        ) you can  (        ) .
-*JOA:	 (        )  ((laugh)) 
-*HEL:	Alright we'll we'll arm wrestle we'll arm wrestle  (        ) 
-*JOA:	No cos I can ar you can arm wrestle, I can't.That's your   (        ) for being such a   (        ) all day. (.) 
-*HEL:	 (        ) 
-*AND:	 [singing] Come on home  [] 
-*JOA:	 (        ) Laura got done for skiving yesterday, they all went to Pam's house.Skived Tuesday Wednesday Thursday off.Lisa got caught   (        ) 
-*AND:	 (        ) 
-*JOA:	Her mum saw her    (.)  (        ) and she   (        ) Laura   (.) and erm   (        ) to get caught.
-*AND:	 ((whistling)) 
-*JOA:	 (        ) 
-*HEL:	That's mine. (.) 
-*JOA:	 (        ) though.
-*HEL:	 (        ) Mrs  wasn't there. (.) 
-*AND:	How many  (        ) ?
-*HEL:	 [laughing] What  [] ? (.) Don't!
-*AND:	 (        ) 
-*HEL:	 ((laugh))  (.)  [laughing] Give it here  [] .
-*AND:	Hey it's on.
-*HEL:	What?I know it's on.I'm recording you.
-*AND:	Are you?
-*HEL:	Yeah. ((laugh)) 
-*UNK:	 (        )  ((laugh)) 
-*HEL:	Er   (.) maybe, hold that a minute Jo. ((laugh)) Maybe I'd better tell you what this is all about. ((laugh)) 
-*JOA:	She's getting a twenty five pound voucher for doing this from Marks and Spencers.
+*JOA:	Right on. 
+*AND:	Long as he wears a kilt. (.)  
+*HEL:	 ((laugh)) I wanna meet him actually, (  )  
+*JOA:	 (  ) I'm not wearing a kilt  (  )  
+*AND:	What? 
+*JOA:	 (  ) 
+*AND:	What? 
+*JOA:	 (  ) I said I'm not wearing a kilt.  (.)  (  ) I don't love you any more. 
+*AND:	 (  ) 
+*JOA:	Alright I love you then  (  )  
+*UNK:	 ((laugh))  (  ) 
+*AND:	 (  ) you can  (  ) . 
+*JOA:	  (  )  ((laugh))  
+*HEL:	 Alright we'll we'll arm wrestle  we'll arm wrestle  (  )  
+*JOA:	No cos I can ar  you can arm wrestle, I can't. That's your   (  ) for being such a   (  ) all day. (.)  
+*HEL:	 (  ) 
+*AND:	 ((singing)) Come on home  
+*JOA:	 (  ) Laura got done for skiving yesterday, they all went to Pam's house. Skived Tuesday Wednesday Thursday off. Lisa got caught    (  )   
+*AND:	  (  )  
+*JOA:	Her mum saw her    (.)   (  ) and she   (  ) Laura   (.) and erm   (  ) to get caught. 
+*AND:	  ((whistling))  
+*JOA:	 (  ) 
+*HEL:	That's mine. (.)  
+*JOA:	 (  ) though. 
+*HEL:	 (  ) Mrs   wasn't there. (.)  
+*AND:	How many  (  ) ? 
+*HEL:	 ((laughing)) What ?  (.) Don't! 
+*AND:	 (  ) 
+*HEL:	 ((laugh))  (.)  ((laughing)) Give it here . 
+*AND:	Hey it's on. 
+*HEL:	What? I know it's on. I'm recording you. 
+*AND:	Are you? 
+*HEL:	Yeah. ((laugh))  
+*UNK:	 (  )  ((laugh)) 
+*HEL:	Er   (.) maybe, hold that a minute Jo.  ((laugh)) Maybe I'd better tell you what this is all about. ((laugh))  
+*JOA:	She's getting a twenty five pound voucher for doing this from  Marks and Spencers. 
+*HEL:	  ((laugh))  
+*AND:	What? 
 *HEL:	 ((laugh)) 
-*AND:	What?
-*HEL:	 ((laugh)) 
-*JOA:	Not just you, everybody.
-*AND:	Twenty five pound voucher for what? (.) Oh yeah! (.) 
-*HEL:	You looked shocked there And, when you spotted that I thought oh my god. (.) Oh that's my things, it's alright.But don't you say anything to anybody else cos  (.) 
-*JOA:	 (        ) 
-*AND:	 (        ) 
-*HEL:	What?Yeah I've got, I've got all your right ups and everything.
-*AND:	Oh yeah!
-*HEL:	E even before you came home I switched it on. (.) 
-*JOA:	 (        ) 
-*AND:	Oh I was just  (        ) 
-*HEL:	What?
-*AND:	Get out.I could sue you for that.
-*HEL:	 ((laugh)) I know. ((laugh)) No.
-*JOA:	No she'd record over it if she didn't   (        ) 
-*HEL:	No but you see I couldn't tell you at the start because you'd sound, you wouldn't have said half the things you did say.
-*AND:	I would.
-*HEL:	And you've gotta, you've gotta like talk totally normally you see. (.) 
-*AND:	 (        ) never normal  (        ) 
-*JOA:	Yeah   (        ) on there   (        ) 
-*HEL:	No but you normal for you   (        ) 
-*AND:	I wanna hear it.I wanna hear it. (.) What, what is it 
-*HEL:	Yeah but 
-*AND:	in aid of?
-*HEL:	You've go you've gone in the little book  (        ) 
-*AND:	Oh!
-*HEL:	Except you've gone in as ins insurance clerk cos we couldn't, we couldn't decide what you were.
-*JOA:	 (        ) 
-*AND:	Oh!That's really gonna cock things up innit?An insurance clerk yeah  (        ) 
-*HEL:	 ((laugh))  [laughing] Yeah you've got all the   (.) you know a condom dropped out of his pocket and everything    []  ((laugh)) 
-*AND:	 (        ) Oh good.
-*JOA:	I bet you feel ace.Don't tell Shrimpy, we  (        ) 
-*AND:	Did I say  on there? (        ) 
-*HEL:	Yeah.
-*AND:	Insurance er   
-*HEL:	 ((laugh))  (.) No do no   (.) it's it's it's totally 
-*AND:	that's me.
-*HEL:	 ((laugh)) it's erm it's totally anonymous anyway.But like they're just doing a survey
-*AND:	Where did you get that from?
-*JOA:	It's a bloke come round.
-*HEL:	A bloke came round and gave it all me. (.) And I've got 
-*JOA:	Cos they got to her house first cheat   (        ) 
-*HEL:	I've gotta tape all my conversations for a week. (.) And like
-*AND:	Keep it and run off.
-*HEL:	What? ((laugh)) No I   (        ) 
-*JOA:	 (        ) like tomorrow night   (        ) 
-*AND:	Oh yeah!
-*HEL:	I, I had to sign a bit of paper.
-*AND:	We'll be arseholed.
-*HEL:	I know.It's gonna be so funny. ((laugh)) 
-*AND:	Ah no!
-*HEL:	 ((laugh)) 
-*JOA:	You were shocked.You should have seen your face!
-*AND:	No I looked at it, I goes oh it's recording.I thought oh, I thought it was like one of your tapes and I'd pressed record and it had started recording over it.
-*UNK:	Sshh  (.) 
-*UNK:	 (        ) 
-*HEL:	Hello Em.Alright Emma?
-*JOA:	He just found out. ((laugh)) 
-*UNK:	 (        ) 
-*EMM:	Found out about what?
-*HEL:	Nothing  ((laugh)) 
-*UNK:	 (        ) 
-*UNK:	 [shouting] Aha   []  (.) 
-*UNK:	 (        ) 
-*HEL:	Oh well how are you doing then Scott my friend? (        ) 
-*SCO:	Oh alright, just about.Now did you see it last night?
-*HEL:	What? (.) No.Me and Emma were talking 
-*EMM:	You know I'm babysitting on Wednesdays?
-*HEL:	upstairs for ages and we   (        ) 
-*SCO:	You taped it?
-*HEL:	No. (.) 
-*UNK:	 (        ) 
-*SCO:	I can't believe it, I've been slagging off   (        ) for the three weeks   (        ) this is crap, this is really naff.Last night
-*UNK:	So you babysit   (        ) Wednesday  (        ) ?
-*EMM:	Yeah.
-*SCO:	remember I've got the equivalent of high graphic B S E?She's going a-raving in a red   (.) red and white checked dress with a big floppy hat with pigtails and this little glove puppet penguin called Mr Flipper 
-*UNK:	Every Wednesday is it Emm?
-*EMM:	Yeah.
-*HEL:	 ((laugh)) 
-*UNK:	 (        ) 
-*SCO:	 [laughing] and it was so stupid  [] .
-*EMM:	Bridge.Playing bridge for some  (        ) .
-*UNK:	 (        ) 
+*JOA:	 Not just you, everybody. 
+*AND:	 Twenty five pound voucher  for what?  (.) Oh yeah! (.)  
+*HEL:	You looked shocked there And, when you spotted that I thought oh my god.  (.) Oh that's my things, it's alright. But don't you say anything to anybody else cos  (.)  
+*JOA:	  (  )  
+*AND:	  (  )  
+*HEL:	What? Yeah I've got, I've got all your right ups and  everything. 
+*AND:	 Oh yeah! 
+*HEL:	E  even before you came home I switched it on. (.)  
+*JOA:	 (  ) 
+*AND:	Oh I was just  (  )  
+*HEL:	What? 
+*AND:	Get out. I could sue you for that. 
+*HEL:	 ((laugh)) I know.  ((laugh))  No. 
+*JOA:	 No  she'd record over it if she  didn't   (  )   
+*HEL:	 No but you see  I couldn't tell you at the start because you'd sound, you wouldn't have said half the things you did say. 
+*AND:	I would. 
+*HEL:	And you've gotta, you've gotta like talk totally normally you see. (.)  
+*AND:	 (  ) never normal  (  )  
+*JOA:	 Yeah   (  ) on there   (  )   
+*HEL:	 No but you  normal for you   (  )   
+*AND:	I wanna hear it. I wanna hear it.  (.)  What, what is it   
+*HEL:	 Yeah but   
+*AND:	in aid of? 
+*HEL:	You've go  you've gone in the little book  (  )  
+*AND:	Oh! 
+*HEL:	Except you've gone in as ins  insurance clerk cos we couldn't, we couldn't decide what you were. 
+*JOA:	  (  )  
+*AND:	 Oh!  That's really gonna cock things up innit? An insurance clerk yeah  (  )  
+*HEL:	 ((laugh))  ((laughing)) Yeah you've got all the   (.) you know a condom dropped  out of his pocket and everything    ((laugh))   
+*AND:	  (  )  Oh good. 
+*JOA:	I bet you feel ace. Don't tell Shrimpy, we  (  )  
+*AND:	Did I say   on there? (  )  
+*HEL:	Yeah. 
+*AND:	 Insurance  er       
+*HEL:	  ((laugh))  (.) No do  no   (.) it's it's it's totally   
+*AND:	that's me. 
+*HEL:	 ((laugh)) it's erm it's totally anonymous anyway. But like they're just doing a survey 
+*AND:	Where did you get that from? 
+*JOA:	It's a bloke come round. 
+*HEL:	A bloke came round and gave it all me.  (.)  And I've got   
+*JOA:	 Cos they got  to her house first  cheat   (  )   
+*HEL:	 I've gotta tape  all my conversations for a week.  (.) And like 
+*AND:	Keep it and run off. 
+*HEL:	What?  ((laugh))  No I   (  )   
+*JOA:	  (  )  like tomorrow night    (  )   
+*AND:	 Oh yeah! 
+*HEL:	 I, I had to sign  a bit of paper. 
+*AND:	We'll be arseholed. 
+*HEL:	I know. It's gonna be so funny. ((laugh))  
+*AND:	Ah no! 
+*HEL:	  ((laugh))  
+*JOA:	 You were shocked.  You should have seen your face! 
+*AND:	No I looked at it, I goes oh it's recording. I thought oh, I thought it was like one of your tapes and I'd pressed record and it had started  recording over it. 
+*UNK:	 Sshh   (.)  
+*UNK:	  (  )  
+*HEL:	 Hello Em.  Alright Emma? 
+*JOA:	He just found out. ((laugh))  
+*UNK:	 (  ) 
+*EMM:	Found out about what? 
+*HEL:	Nothing  ((laugh))  
+*UNK:	 (  ) 
+*UNK:	 ((shouting)) Aha   (.)  
+*UNK:	 (  ) 
+*HEL:	Oh well how are you doing then Scott my friend? (  )   
+*SCO:	 Oh alright, just about.  Now did you see it last night? 
+*HEL:	What?  (.) No.  Me and Emma were talking   
+*EMM:	 You know I'm babysitting on Wednesdays? 
+*HEL:	upstairs for ages and we    (  )   
+*SCO:	 You taped it? 
+*HEL:	No. (.)  
+*UNK:	  (  )  
+*SCO:	 I can't believe it, I've been slagging off   (  )  for the three weeks   (  ) this is crap, this is really naff. Last night 
+*UNK:	So you babysit   (  ) Wednesday  (  ) ? 
+*EMM:	 Yeah. 
+*SCO:	 remember  I've got the equivalent of high graphic B S E? She's going a-raving in a red   (.) red and white checked dress with a big floppy hat with pigtails and this little glove  puppet penguin called Mr Flipper   
+*UNK:	 Every Wednesday is it Emm? 
+*EMM:	 Yeah. 
+*HEL:	  ((laugh))  
+*UNK:	  (  )  
+*SCO:	  ((laughing)) and it was so   stupid . 
+*EMM:	 Bridge.  Playing bridge for some  (  ) . 
+*UNK:	 (  ) 
 *UNK:	 ((whistling)) 
-*UNK:	Eh?
-*AND:	Well erm someone fell off a chair to   (        ) 
-*SCO:	It was you again?
-*AND:	 (        ) what?
-*SCO:	It was you again was it?
-*AND:	No it wasn't me   (        ) 
-*HEL:	 [shouting] Oh by the way Scott   [] 
-*UNK:	Don't tell him.
-*HEL:	Alright. (.) Nothing. ((laugh))  [laughing]  (        )  [] 
-*AND:	Don't tell him hey! (        ) Come on, don't tell him he's being recorded on tape, you know
-*SCO:	Oh!
-*HEL:	Oh dumb! ((laugh)) 
-*SCO:	Don't tell him.Thank you. (.) 
-*UNK:	We all are.
-*SCO:	Oh   (.) good job I wasn't  (        ) 
-*UNK:	 (        ) 
-*HEL:	No if you know you don't talk normally.He's just been telling us about how this bloke's condoms dropped out of his pocket.
-*AND:	Yeah I said 
-*SCO:	Oh it's this thing?
-*HEL:	What?
-*SCO:	Oh this bloody thing that you've been 
-*HEL:	Yeah.
-*SCO:	ah.
-*JOA:	Except Emma has already told  (        ) .
-*AND:	 (        ) talking about condoms and me throwing up and all this.
+*UNK:	Eh? 
+*AND:	Well erm someone fell off a chair to    (  )   
+*SCO:	 It was you again? 
+*AND:	 (  ) what? 
+*SCO:	It was you again was it? 
+*AND:	No it wasn't me    (  )   
+*HEL:	  ((shouting)) Oh by the way Scott    
+*UNK:	Don't tell him. 
+*HEL:	Alright.  (.) Nothing. ((laugh))   ((laughing))  (  )   
+*AND:	 Don't tell him  hey!  (  ) Come on, don't tell him he's being recorded on tape, you know 
+*SCO:	 Oh! 
+*HEL:	 Oh dumb! ((laugh))  
+*SCO:	Don't tell him. Thank you. (.)  
+*UNK:	We all are. 
+*SCO:	Oh   (.) good job I wasn't  (  )  
+*UNK:	  (  )  
+*HEL:	 No if you know  you don't talk normally. He's just been telling us about how this bloke's condoms dropped out of his pocket. 
+*AND:	Yeah  I said   
+*SCO:	 Oh it's  this thing? 
+*HEL:	What? 
+*SCO:	Oh this bloody thing  that you've been   
+*HEL:	 Yeah. 
+*SCO:	ah. 
+*JOA:	Except Emma has already told  (  ) . 
+*AND:	 (  ) talking about condoms and me throwing up and all this. 
 *HEL:	 ((laugh)) 
-*AND:	They've got me down as being, you know, (        ) insurance clerk.
-*HEL:	No a 
-*AND:	Oh yes!
-*HEL:	no it's
-*UNK:	Andrew.
-*HEL:	Andrew.
-*UNK:	Andrew.
-*AND:	Andrew insurance clerk 
-*HEL:	Cos it's ano i cos it's anonymous 
-*UNK:	It's anonymous.Anonymous it is.Anonymous   ((laugh)) 
-*HEL:	Cos on once it leaves me   (.) they don't know who it is.They just get the book and they get all the tapes.
-*AND:	Well I told them what it is now, Insurance P L C 
+*AND:	They've got me down as being, you know, (  ) insurance clerk. 
+*HEL:	No  a    
+*AND:	 Oh  yes! 
+*HEL:	no it's 
+*UNK:	Andrew. 
+*HEL:	Andrew. 
+*UNK:	Andrew. 
+*AND:	Andrew  insurance clerk   
+*HEL:	 Cos it's ano   i   cos it's anonymous   
+*UNK:	 It's anonymous.  Anonymous it is.  Anonymous   ((laugh))   
+*HEL:	 Cos on  once it leaves me    (.) they don't know who it is. They just get the book and they get all the tapes. 
+*AND:	Well I told them what it is now, Insurance P L C   
 *HEL:	 ((laugh)) 
-*AND:	 [laughing] All the claims come in  [] .
-*HEL:	But you're not, you're not allowed to talk to it see, you've got to talk to each other.
-*UNK:	Claims to be the pervert.
-*EMM:	Yeah.Like we were last night.
-*HEL:	You're not suppose  [laughing] except we did  [] .We     (        )  ((laugh))  [laughing] Yeah  [] 
-*SCO:	Well that's really taking the whole thing seriously.
-*EMM:	The only, see the first thing I noticed 
+*AND:	 ((laughing)) All the claims come in . 
+*HEL:	But you're not, you're not allowed to talk to it see, you've got to talk to each other. 
+*UNK:	 Claims to be the pervert. 
+*EMM:	Yeah.  Like we were last night. 
+*HEL:	 You're not suppose   ((laughing)) except we did .  We     (  )  ((laugh))  ((laughing)) Yeah  
+*SCO:	Well that's really  taking the whole thing seriously. 
+*EMM:	 The only, see the first thing   I noticed   
+*HEL:	  ((laugh))  
+*EMM:	the first thing I noticed about you when you walked in was you'd got, you'd got    (  )  (.) that's on the top of my eyes by the way, not the bottom because of our    (  )   
+*HEL:	  ((laugh))  
+*EMM:	 (  ) something. 
+*HEL:	I was listening to it t  oh I've got a letter for you  (  ) . Because I was writing it in R E 
+*UNK:	  (  )  
+*SCO:	 Yeah, you owe me a letter. 
+*UNK:	Who? 
+*SCO:	 You wrote me a letter Thursday   
+*UNK:	  (  )  as well. Cos   (  ) went up there on purpose Emma. 
+*SCO:	Cos I phoned you 
+*UNK:	Emma? 
+*SCO:	and you said you had a letter. 
+*UNK:	She purposely went up 
+*SCO:	A letter. 
+*UNK:	to get the matches out the bedroom. What did she do? You guessed it  (  )  
+*UNK:	 ((laugh)) Whoops. 
+*EMM:	Why do I owe you a letter? (  )  
+*SCO:	You wrote me a letter.  (.) Thursday. 
+*EMM:	Yeah I know but I weren't gonna give it you. 
+*UNK:	They're strange aren't they? 
+*SCO:	 (  ) 
+*HEL:	 ((laughing)) Well why do you think we  kept turning the music down?? 
+*AND:	 No   (.) it's just that you come in my house, fine. You can record my voice, fine   (.) but you turn me music down 
+*UNK:	 ((laughing)) Yeah . 
+*AND:	you're  (  )  
+*JOA:	That's why I did it see? 
+*HEL:	That's why we kept turning it down. 
+*UNK:	 (  ) Oh sorry. 
+*UNK:	Hey! 
+*UNK:	Won't do it again. 
+*UNK:	You'll kill Shrimpy. (.)  
+*UNK:	Talk amongst yourselves.  (.) No  (.)  
+*EMM:	I fancy Bungle. 
 *HEL:	 ((laugh)) 
-*EMM:	the first thing I noticed about you when you walked in was you'd got, you'd got    (        )  (.) that's on the top of my eyes by the way, not the bottom because of our    (        )  [] 
-*HEL:	 ((laugh)) 
-*EMM:	 (        ) something.
-*HEL:	I was listening to it t oh I've got a letter for you  (        ) .Because I was writing it in R E
-*UNK:	 (        ) 
-*SCO:	Yeah, you owe me a letter.
-*UNK:	Who?
-*SCO:	You wrote me a letter Thursday 
-*UNK:	 (        ) as well.Cos   (        ) went up there on purpose Emma.
-*SCO:	Cos I phoned you
-*UNK:	Emma?
-*SCO:	and you said you had a letter.
-*UNK:	She purposely went up
-*SCO:	A letter.
-*UNK:	to get the matches out the bedroom.What did she do?You guessed it  (        ) 
-*UNK:	 ((laugh)) Whoops.
-*EMM:	Why do I owe you a letter? (        ) 
-*SCO:	You wrote me a letter. (.) Thursday.
-*EMM:	Yeah I know but I weren't gonna give it you.
-*UNK:	They're strange aren't they?
-*SCO:	 (        ) 
-*HEL:	 [laughing] Well why do you think we kept turning the music down? [] ?
-*AND:	No   (.) it's just that you come in my house, fine.You can record my voice, fine   (.) but you turn me music down
-*UNK:	 [laughing] Yeah  [] .
-*AND:	you're  (        ) 
-*JOA:	That's why I did it see?
-*HEL:	That's why we kept turning it down.
-*UNK:	 (        ) Oh sorry.
-*UNK:	Hey!
-*UNK:	Won't do it again.
-*UNK:	You'll kill Shrimpy. (.) 
-*UNK:	Talk amongst yourselves. (.) No  (.) 
-*EMM:	I fancy Bungle.
-*HEL:	 ((laugh)) 
-*JOA:	I was watching Rainbow earlier.
-*UNK:	Did you see the rainbow over Tesco's?
-*UNK:	No.
-*UNK:	Yeah we had one.
-*EMM:	Bung Bungle had his sun hat on he was dead sexy 
-*HEL:	 ((laugh)) 
-*EMM:	you should have seen it.
+*JOA:	I was watching Rainbow earlier. 
+*UNK:	Did you see the rainbow over Tesco's? 
+*UNK:	No. 
+*UNK:	Yeah we had one. 
+*EMM:	Bung  Bungle had his sun hat on  he was dead sexy   
+*HEL:	  ((laugh))  
+*EMM:	you should have seen it. 
 *HEL:	 ((laugh))  (.) 
-*AND:	One missing
+*AND:	One missing 
 *HEL:	 ((laugh)) 
-*EMM:	It were really good it were.
-*UNK:	And talking of   (        ) did you hear my song?My   (        ) one 
-*HEL:	Yeah please please don't   (        ) 
-*UNK:	 (        ) 
-*UNK:	 [singing]  (        ) under a tree people are making the rubber johnnies   [] 
-*AND:	Oh god, no not this.
-*UNK:	 [singing] red ones, yellow ones take your pick     []  ((laugh))  [singing] it all depends on the length of your dick   (.) or prick  [] .Or prick was my little ending.
-*UNK:	 (        ) 
-*UNK:	Cos I thought I was cool   (        ) 
-*UNK:	 (        )  ((music))
-*HEL:	You'll have to speak up now everybody.
-*UNK:	 (        ) 
-*UNK:	I watched the end of the video.On one thing that really drives me mad about Carter.Why does he rest his nose on the microphone?
-*UNK:	 (        ) 
-*UNK:	Yeah.
-*HEL:	 [singing] Our house  [] 
-*UNK:	 (        ) 
-*UNK:	She thought you said   (        ) knobs.
-*UNK:	 (        ) why does he rest his knob   [laughing] on the microphone  [] ?Perhaps his name's   (        ) 
+*EMM:	 It were really good it were. 
+*UNK:	 And talking of   (  )  did you hear my song? My    (  ) one   
+*HEL:	 Yeah please  please don't    (  )   
+*UNK:	  (  )  
+*UNK:	 ((singing))  (  ) under a tree  people are making the rubber johnnies    
+*AND:	 Oh god, no not this. 
+*UNK:	 ((singing)) red ones, yellow ones take your pick     ((laugh))  ((singing)) it all depends on the length of your dick   (.) or prick . Or prick was my little ending. 
+*UNK:	 (  ) 
+*UNK:	Cos I thought I was cool    (  )   
+*UNK:	  (  )   ((music))
+*HEL:	You'll have to speak up now everybody. 
+*UNK:	 (  ) 
+*UNK:	I watched the end of the video. On  one thing that really drives me mad about Carter. Why does he rest his nose on the microphone? 
+*UNK:	 (  ) 
+*UNK:	Yeah. 
+*HEL:	 ((singing)) Our house  
+*UNK:	  (  )  
+*UNK:	 She thought you said   (  ) knobs. 
+*UNK:	 (  ) why does he rest his knob   ((laughing)) on the microphone ? Perhaps his name's    (  )   
+*HEL:	  ((laugh))  
+*UNK:	 (  ) 
+*UNK:	No, he wasn't on about knobs, on about    (  )   
+*SCO:	 Oh.  (.) Gonna say  yeah. Gonna say   (.) you know my mum put that bloody card up don't you? 
+*UNK:	What card? 
+*SCO:	The one you sent me. 
+*UNK:	 Oh did she? 
+*HEL:	  ((laughing)) The   (  ) card . 
+*SCO:	I just left all my cards in a pile that night cos   (  ) I was a bit  
+*UNK:	  (  )  
+*UNK:	Were you? 
+*SCO:	And erm   (.) and the ne  oh oh about two days later I'm looking at them   (.) oh   (.) on the mantelpiece   (.) I better 
 *HEL:	 ((laugh)) 
-*UNK:	 (        ) 
-*UNK:	No, he wasn't on about knobs, on about   (        ) 
-*SCO:	Oh. (.) Gonna say yeah.Gonna say   (.) you know my mum put that bloody card up don't you?
-*UNK:	What card?
-*SCO:	The one you sent me.
-*UNK:	Oh did she?
-*HEL:	 [laughing] The   (        ) card  [] .
-*SCO:	I just left all my cards in a pile that night cos   (        ) I was a bit 
-*UNK:	 (        ) 
-*UNK:	Were you?
-*SCO:	And erm   (.) and the ne oh oh about two days later I'm looking at them   (.) oh   (.) on the mantelpiece   (.) I better
-*HEL:	 ((laugh)) 
-*SCO:	I can't move it cos it'll be conspicuous by it's absence
-*UNK:	Did she laugh?
-*SCO:	I dunno, she just put it up.
-*UNK:	I thought it was good.Mr bulge.
-*UNK:	 (        ) 
-*UNK:	Yeah.
-*UNK:	So no-one saw Mr Bean's   (.) I Wanna Be Elected?You know on er   (.) on Monday?
-*UNK:	 (        ) he goes oh shit yeah of course 
-*UNK:	 (        ) 
-*UNK:	 ((singing along to record))8
-*SCO:	This is a quiet bit, just talk amongst yourselves.
-*HEL:	 ((laugh))  (.) Don't talk to it because it ma it sounds stu  (.) I was listening to us this morning. (.) Piss on my grave! ((laugh)) I was just going   (.) I was listen  (.) I was listening   (        ) 
-*SCO:	You  (        ) , I'll urinate.
-*HEL:	I was listening to the end bit, I was saying   (.) what were we   (        ) about at the end.
-*UNK:	Is, is Shrimpy coming or what?
-*UNK:	Yeah he is.
-*UNK:	 (        ) let's, let's shake this. ((laugh)) 
-*UNK:	 (        )  (.) 
-*UNK:	Yeah.
-*HEL:	I can hear your penny shaking in there ha ha ha   [laughing] and I was listening   (.) oh Jesus  [] . ((laugh))  (.) What's the matter?
-*SCO:	 (        ) That could be him now.Yippee.
-*MAR:	Andrew.
-*SCO:	 (        ) 
-*JOA:	Oh, wasn't I supposed to say anything?
-*MAR:	Andrew.
-*AND:	 [shouting] What  [] ?
-*UNK:	 (        ) 
-*HEL:	I'll finish the horror tape one night. (.) 
-*JOA:	Turn over.We're on to tape two now?
-*HEL:	Yeah we're on to tape two cos this A side of tape two.
-*UNK:	 (        )  (.) 
-*UNK:	Oh I've lost a quid!
-*HEL:	Have you?
-*UNK:	Yeah I ate it.
-*UNK:	Where have you dropped it?
-*HEL:	You paid, you paid me with it.
-*UNK:	Well it was in here
-*UNK:	And now it's not?
-*UNK:	when I came down earlier and now it's er gone. (.) 
-*UNK:	Shrimpy  (        ) 
-*UNK:	Whoops.
+*SCO:	I can't move it cos it'll be conspicuous by it's absence 
+*UNK:	Did she laugh? 
+*SCO:	I dunno, she just put it up. 
+*UNK:	I thought it was good. Mr bulge. 
+*UNK:	 (  ) 
+*UNK:	Yeah. 
+*UNK:	So no-one saw Mr Bean's   (.) I Wanna Be Elected?  You know on er   (.) on Monday? 
+*UNK:	  (  ) he goes oh shit  yeah of course  
+*UNK:	 (  ) 
+*UNK:	 ((singing along to record))8 
+*SCO:	This is a quiet bit, just talk amongst yourselves. 
+*HEL:	 ((laugh))  (.) Don't talk to it because it ma  it sounds stu   (.) I was listening to us this morning.  (.) Piss on my grave!  ((laugh)) I was just going   (.) I was listen   (.) I was  listening   (  )   
+*SCO:	 You  (  ) , I'll urinate. 
+*HEL:	I was listening to the end bit, I was saying   (.) what were we    (  ) about at the end. 
+*UNK:	 Is, is Shrimpy coming  or what? 
+*UNK:	Yeah he is. 
+*UNK:	 (  ) let's, let's shake this. ((laugh))  
+*UNK:	 (  )  (.) 
+*UNK:	Yeah. 
+*HEL:	I can hear your penny shaking in there ha ha ha   ((laughing)) and I was listening   (.) oh Jesus .  ((laugh))  (.) What's the matter? 
+*SCO:	 (  ) That could be him now. Yippee. 
+*MAR:	Andrew. 
+*SCO:	  (  )  
+*JOA:	 Oh, wasn't I supposed to say anything? 
+*MAR:	Andrew. 
+*AND:	 ((shouting)) What ? 
+*UNK:	 (  ) 
+*HEL:	I'll finish the horror tape one night. (.)  
+*JOA:	Turn over. We're on to tape two now? 
+*HEL:	Yeah we're on to tape two cos this A side of tape two. 
+*UNK:	 (  )  (.) 
+*UNK:	Oh I've lost a quid! 
+*HEL:	Have you? 
+*UNK:	Yeah I ate it. 
+*UNK:	 Where have you dropped it? 
+*HEL:	 You paid, you paid  me with it. 
+*UNK:	Well it was in here 
+*UNK:	And now it's not? 
+*UNK:	when I came down earlier and now it's er gone. (.)  
+*UNK:	Shrimpy  (  )  
+*UNK:	Whoops. 
 *UNK:	 ((laugh)) 
-*UNK:	Er no
-*UNK:	Whoops   (.) whoops quarter past six.
-*MAR:	excuse me but a ninety pound deal sort of like knocked the   (.) stuffing out of me for   (        ) 
-*UNK:	Yeah but you were supposed to put it in last night, not   (.) this morning. (.) Can I have them now  (        ) ?
-*MAR:	I haven't got it.
-*UNK:	You haven't got them?Where are they?
-*MAR:	Probably at home, I got bollocksed for having them last night as well.
-*UNK:	Why?
-*MAR:	 (        ) said you're not starting fires again are you?I said oh yeah
-*UNK:	 (        ) 
-*MAR:	watch me start a fire. (.) 
-*UNK:	Oh   (        ) boots. (.) 
-*UNK:	 (        ) 
-*UNK:	Can you get me some of them boots?
-*UNK:	Yeah.
-*UNK:	 (        ) 
-*MAR:	Pardon?
-*UNK:	Can you get it?I haven't had one yet 
-*MAR:	Oh ch 
-*UNK:	 (        ) 
-*MAR:	 (        ) I'm getting   (.)  ((laugh)) 
-*UNK:	What?
-*MAR:	I don't know what's happening.I'm just gonna get  (        ) 
-*JOA:	Ah!That could have been painful that could you bitch.
-*MAR:	Ow!It could have been.That ninety pound bill was painful, I can tell you that much.
-*MAR:	What ninety pound bill for what?
-*UNK:	I hit my car on the kerb.The wheel had a bulge in it, I went to have it fixed and the   (        ) 
-*UNK:	 (        )  (        ) 
-*HEL:	I'm alright thank you.
-*MAR:	Good.
-*JOA:	I don't believe that.
-*MAR:	What?
-*JOA:	You've only had that car a fortnight and you've already done about   (.) five hundred   (        ) about four hundred and fifty pound worth of damage. (.) 
-*UNK:	 (        ) 
-*JOA:	Who's fault is it?Oh no look it was the invisible man driving the car.
-*UNK:	 ((laugh)) 
-*HEL:	It's all my fault.
-*JOA:	You had that Allegro   (        ) 
-*MAR:	Three hundred and fifty pounds worth. (        ) not my fault, it was the, the other driver's fault.
-*UNK:	Well   (        ) it was.Yes, exactly. (        ) 
-*MAR:	 (        ) I was just  (        ) 
-*UNK:	Right we're going out, come on.
-*HEL:	Are we?
-*UNK:	Yes. (.)  [singing] Our house  [] 
-*MAR:	And how are you Andy?You're looking jolly.Yes, good. ((laugh)) 
+*UNK:	Er no 
+*UNK:	Whoops   (.)  whoops quarter past six. 
+*MAR:	 excuse me but a ninety pound deal  sort of like knocked the   (.) stuffing out of me for    (  )   
+*UNK:	 Yeah but you were supposed to put  it in last night, not   (.) this morning.  (.) Can I have them now  (  ) ? 
+*MAR:	I haven't got it. 
+*UNK:	You haven't got them? Where are they? 
+*MAR:	Probably at home, I got bollocksed for having them last night as well. 
+*UNK:	 Why? 
+*MAR:	  (  )  said you're not starting fires again are you? I said oh yeah 
+*UNK:	 (  ) 
+*MAR:	watch me start a fire. (.)  
+*UNK:	Oh   (  ) boots. (.)  
+*UNK:	 (  ) 
+*UNK:	Can you get me some of them boots? 
+*UNK:	 Yeah. 
+*UNK:	  (  )  
+*MAR:	Pardon? 
+*UNK:	Can you get it?  I haven't had one yet   
+*MAR:	 Oh ch    
+*UNK:	 (  ) 
+*MAR:	 (  ) I'm getting   (.)  ((laugh))  
+*UNK:	What? 
+*MAR:	I don't know what's happening. I'm just gonna get  (  )  
+*JOA:	Ah! That could have been painful that could  you bitch. 
+*MAR:	 Ow!  It could have been. That ninety pound bill was painful, I can tell you that much. 
+*MAR:	What ninety pound bill for what? 
+*UNK:	I hit my car on the kerb. The wheel had a bulge in it, I went to have it fixed  and the   (  )   
+*UNK:	  (  )   (  ) 
+*HEL:	I'm alright thank you. 
+*MAR:	Good. 
+*JOA:	I don't believe that. 
+*MAR:	What? 
+*JOA:	You've only had that car a fortnight and you've already done about   (.) five hundred   (  ) about four hundred and fifty pound worth of damage. (.)  
+*UNK:	 (  ) 
+*JOA:	Who's fault is it?  Oh no look it was the invisible man driving the car. 
+*UNK:	  ((laugh))  
+*HEL:	It's all my fault. 
+*JOA:	You had that Allegro    (  )   
+*MAR:	 Three hundred  and fifty pounds worth.  (  ) not my fault, it was the, the other driver's  fault. 
+*UNK:	 Well    (  ) it was. Yes, exactly. (  )   
+*MAR:	  (  )  I was just  (  )  
+*UNK:	Right we're going out, come on. 
+*HEL:	Are we? 
+*UNK:	Yes.  (.)  ((singing)) Our house  
+*MAR:	And how are you Andy? You're looking jolly. Yes, good. ((laugh))  
 @End

@@ -1,62 +1,62 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-02:  
 @Location:	  out  
-@Situation:	  going shopping  
-@Media: 021A-C0897X0620XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  going shopping   
+@Media:	021A-C0897X0620XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , ANN Annette self, TER Teresa daughter
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|ANN|~44;| |f|Ag3| |administrative assistant||PS1CX|
-@ID: eng|AudioBNC|TER|~19;| |f|Ag1| |stable hand|daughter|PS1CY|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|ANN|44;|||||administrative assistant||PS1CX|
+@ID:	eng|AudioBNC|TER|19;|||||stable hand|daughter|PS1CY|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0620XX-AAZZP0.wav
 @Comment:	conversation #2 (Tape 062001)
-*ANN:	You don't have to pick your conversation for this, right, where's the cats   (.) are they out?Come on Soot, good boy, Sooty come on, out you go, out, come on good boy, out, have you seen Tigger?
-*TER:	Yeah he's upstairs.
-*ANN:	Right     (.)  ((laugh))  (.) Fella at work this  (        ) 
-*TER:	Where's that Lisa Stansfield tape, Mum?
-*ANN:	Erm is it not in the pocket?
-*TER:	No
-*ANN:	Our Becky Boo's had it here, er I don't know, the paper might be down there  (.) 
-*TER:	It's great.
-*ANN:	it's, it's around somewhere, she's slung it, she was in a foul mood   (.) oh   (.) looks a bit slim in them don't she? (.) That Kelly  (.) 
-*TER:	Leave the freezer on, why don't you turn 'em off?
-*ANN:	Er, ah, it'll blow warm in a bit, when it gets warm, if you want it off just knock that up to there.
-*TER:	It's alright  (.) 
-*ANN:	Jo's a nice girl int she?
-*TER:	Yeah she is, are they not engaged or anything?
-*ANN:	I don't think so  (.) 
-*TER:	He's taking his time int he?
-*ANN:	Yeah   (.) perhaps she's got a mutual agreement that   (.) they'll just end up perhaps getting married, I don't know  (.) 
-*TER:	That's a nice house.
-*ANN:	That one?Yeah it is    (.)  ((sneeze)) that's what you and Uncle Tony supposed to of got.
-*TER:	What?
-*ANN:	One of those long cruisers      (.)  ((cough))  (.)  ((sneeze)) excuse me  (.) 
-*TER:	Didn't measure my window.
-*ANN:	Oh never mind, we'll do it and pop down later   (.) did we not do it before?Is it not six foot?Or was it seven foot? (.) 
-*TER:	 (        ) is Richard's mum and dad buying him a little car?
-*ANN:	I don't honestly know, he said er, he's got to go in for his test, he said, and then I'll have to see about a car   (.) so I don't know whether they're gonna buy him one or not  (.) 
-*TER:	Yeah cos, does he stay with his mum?He will do won't he?
-*UNK:	 (        ) 
-*ANN:	yeah, I think so, yeah   (.) I don't think Richard, I don't think he goes out anywhere  (        ) , so, his hobby's in canoeing, but  (.) 
-*TER:	He wants to make 'em don't he or summat?
-*ANN:	Well he thought your dad was buying that mould from Jim  so   (.) he did say that, he, he'd lent him that book on how to actually build them, but that's 
-*TER:	Who did?
-*ANN:	obviously not gonna come off, Richard   (.) lent your dad the book  (.) 
-*TER:	It looks pretty busy for a Sunday   (.) There's a lot of  (        ) 
-*ANN:	What Clements?
-*TER:	Yeah.
-*ANN:	Well is that on?
-*TER:	Yeah   (.) I what a  (        ) 
-*ANN:	I don't think so, no more like   (        )  (.) 
-*TER:	Right then.
-*ANN:	Volkswagen.
-*TER:	Yeah
-*ANN:	What shall we do, sit here and wait a bit, or go inside?I said I'd wait just inside doorway.
-*TER:	Go inside. (.) 
-*ANN:	I'll get a trolley, I'll get a few bits, yeah.
-*TER:	Yeah  (.) 
+*ANN:	You don't have to pick your conversation for this, right, where's the cats   (.) are they out? Come on Soot, good boy, Sooty come on, out you go, out, come on good boy, out, have you seen Tigger? 
+*TER:	Yeah he's upstairs. 
+*ANN:	Right     (12.0)  ((laugh))  (5.0) Fella at work this  (  )  
+*TER:	Where's that Lisa Stansfield tape, Mum? 
+*ANN:	Erm is it not in the pocket? 
+*TER:	No 
+*ANN:	Our Becky Boo's had it here, er I don't know, the paper might be down there  (.)  
+*TER:	It's great. 
+*ANN:	it's, it's around somewhere, she's slung it, she was in a foul mood   (.) oh   (9.0) looks a bit slim in them don't she?  (.) That Kelly  (8.0)  
+*TER:	Leave the freezer on, why don't you turn 'em off? 
+*ANN:	Er, ah, it'll blow warm in a bit, when it gets warm, if you want it off just knock that up to there. 
+*TER:	It's alright  (.)  
+*ANN:	Jo's a nice girl int she? 
+*TER:	Yeah she is, are they not engaged or anything? 
+*ANN:	I don't think so  (.)  
+*TER:	He's taking his time int he? 
+*ANN:	Yeah   (.) perhaps she's got a mutual agreement that   (.) they'll just end up perhaps getting married, I don't know  (.)  
+*TER:	That's a nice house. 
+*ANN:	That one? Yeah it is    (.)  ((sneeze)) that's what you and Uncle Tony supposed to of got. 
+*TER:	What? 
+*ANN:	One of those long cruisers      (16.0)  ((cough))  (.)  ((sneeze)) excuse me  (15.0)  
+*TER:	Didn't measure my window. 
+*ANN:	Oh never mind, we'll do it and pop down later   (.) did we not do it before? Is it not six foot? Or was it seven foot? (13.0)  
+*TER:	 (  ) is Richard's mum and dad buying him a little car? 
+*ANN:	I don't honestly know, he said er, he's got to go in for his test, he said, and then I'll have to see about a car   (.) so I don't know whether they're gonna buy him one or not  (13.0)  
+*TER:	Yeah cos, does he stay with his mum? He will do won't he? 
+*UNK:	 (  ) 
+*ANN:	yeah, I think so, yeah   (.) I don't think Richard, I don't think he goes out anywhere  (  ) , so, his hobby's in canoeing, but  (.)  
+*TER:	He wants to make 'em don't he or summat? 
+*ANN:	Well he thought your dad was buying that mould from Jim   so   (.) he did say that, he, he'd lent him that book on how to actually build them, but  that's   
+*TER:	 Who did? 
+*ANN:	obviously not gonna come off, Richard   (.) lent your dad the book  (10.0)  
+*TER:	It looks pretty busy for a Sunday   (.) There's a lot of  (  )  
+*ANN:	What Clements? 
+*TER:	Yeah. 
+*ANN:	Well is that on? 
+*TER:	Yeah   (.) I what a  (  )  
+*ANN:	I don't think so, no more like   (  )  (6.0)  
+*TER:	Right then. 
+*ANN:	Volkswagen. 
+*TER:	Yeah 
+*ANN:	What shall we do, sit here and wait a bit, or go inside? I said I'd wait just inside doorway. 
+*TER:	Go inside. (10.0)  
+*ANN:	I'll get a trolley, I'll get a few bits, yeah. 
+*TER:	Yeah  (.)  
 @End

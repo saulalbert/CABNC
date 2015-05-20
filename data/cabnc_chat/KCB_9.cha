@@ -1,25 +1,25 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-22:  
 @Location:	  in car  
-@Situation:	  travelling from Wimborne to Throop  
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  travelling from Wimborne to Throop   
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	GRA Graeme self, ANN Ann wife
-@ID: eng|AudioBNC|GRA|~62;| |m|Ag5| |company secretary||PS0DX|
-@ID: eng|AudioBNC|ANN|~58;| |f|Ag4| |housewife|wife|PS0DY|
+@Options:	CA
+@ID:	eng|AudioBNC|GRA|62;|||||company secretary||PS0DX|
+@ID:	eng|AudioBNC|ANN|58;|||||housewife|wife|PS0DY|
 @Comment:	conversation #9 (Tape 043009)
-*GRA:	Go round to the
-*ANN:	Pardon?
-*GRA:	Go round to the shopping centre.Cos we're a bit early so I'll go and see if there's a chemist shop there to get that
-*ANN:	Okay.
-*GRA:	stuff for the   (.) Cos it's just half past three now and we're er   (.) said we'd be there at four  (        ) .
-*ANN:	Do you have erm, any money on you?
-*GRA:	Yes.
-*ANN:	Will you get some sa , flowers for Sarah?
-*GRA:	Some flowers?
-*ANN:	Yeah.
-*GRA:	Yes, okay.
+*GRA:	Go round to the 
+*ANN:	Pardon? 
+*GRA:	Go round to the shopping centre. Cos we're a bit early so I'll go and see if there's a chemist shop there to get that 
+*ANN:	Okay. 
+*GRA:	stuff for the   (.) Cos it's just half past three now and we're er   (6.0) said we'd be there at four  (  ) . 
+*ANN:	Do you have erm, any money on you? 
+*GRA:	Yes. 
+*ANN:	Will you get some sa  , flowers for Sarah? 
+*GRA:	Some flowers? 
+*ANN:	Yeah. 
+*GRA:	Yes, okay. 
 @End

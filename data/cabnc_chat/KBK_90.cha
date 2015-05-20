@@ -1,24 +1,24 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0023XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0023XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0023XX-ABZZP0.wav
 @Comment:	conversation #90 (Tape 002324)
-*NOR:	There's   (        ) fallen tree in the park.
-*CHR:	 (        ) .Relatively recently.
-*NOR:	 (        ) .They seemed to keep  (        ) .
-*CHR:	Yeah   (.) yeah it's fascinating to think why that particular tree actually keeled over, and all the others around, it's no bigger than the others is it?
-*NOR:	 (        ) don't know  (        ) .
-*CHR:	Well look at the size of it's trunk.
-*NOR:	It might have been  (        ) .
-*CHR:	It might have been, yeah, just a   (        ) one.
+*NOR:	There's   (  ) fallen tree in the park. 
+*CHR:	 (  ) . Relatively recently. 
+*NOR:	 (  ) . They seemed to keep  (  ) . 
+*CHR:	Yeah   (.) yeah it's fascinating to think why that particular tree actually keeled over, and all the others around, it's no bigger than the others is it? 
+*NOR:	 (  ) don't know  (  ) . 
+*CHR:	Well look at the size of it's trunk. 
+*NOR:	It might have been  (  ) . 
+*CHR:	It might have been, yeah, just a   (  ) one. 
 @End

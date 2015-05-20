@@ -1,21 +1,21 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-22:  
 @Location:	 at home 
-@Situation:	 lunchtime 
-@Media: 021A-C0897X0405XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 lunchtime  
+@Media:	021A-C0897X0405XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHE Cherrilyn self, JES Jessica daughter
-@ID: eng|AudioBNC|CHE|~43;| |f|Ag3| |nursing auxiliary||PS06A|
-@ID: eng|AudioBNC|JES|~13;| |f|Ag0| |student (state secondary)|daughter|PS06B|
+@Options:	CA
+@ID:	eng|AudioBNC|CHE|43;|||||nursing auxiliary||PS06A|
+@ID:	eng|AudioBNC|JES|13;|||||student (state secondary)|daughter|PS06B|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0405XX-AAZZP0.wav
 @Comment:	conversation #20 (Tape 040505)
-*CHE:	Well speak Jessica!Is that beetroot nice?
-*JES:	Don't know.
-*CHE:	What's wrong with it?Why aren't you using a spoon? (        ) !
-*JES:	I'll spoon it in!
-*CHE:	Don't be funny!
+*CHE:	Well speak Jessica! Is that beetroot nice? 
+*JES:	Don't know. 
+*CHE:	What's wrong with it? Why aren't you using a spoon? (  ) ! 
+*JES:	I'll spoon it in! 
+*CHE:	Don't be funny! 
 @End

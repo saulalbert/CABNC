@@ -1,14 +1,14 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-29:  
 @Location:	 home 
-@Situation:	Unspecified
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BRE Brenda self
-@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
+@Options:	CA
+@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
 @Comment:	conversation #73 (Tape 015702)
-*BRE:	No th she's going to her sons Christmas Eve and she doesn't want to travel down the M twenty five, M twenty four.Yeah, so she's going to come to me on the bus on the twenty third. (        ) stay the month, you go early  (        ) 
+*BRE:	No th  she's going to her sons Christmas Eve and she doesn't want to travel down the M twenty five, M twenty four. Yeah, so she's going to come to me on the bus on the twenty third.  (  ) stay the month, you go early  (  )  
 @End

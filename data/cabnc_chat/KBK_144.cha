@@ -1,34 +1,34 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0026XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0026XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0026XX-AAZZP0.wav
 @Comment:	conversation #144 (Tape 002614)
-*NOR:	Is he there?
-*CHR:	Yep. (        ) 
-*NOR:	Seen my glasses  (        ) ?
-*CHR:	Thank you.
-*NOR:	How would you like your coffee love?
-*CHR:	 (        ) thank you.
-*NOR:	 (        ) 
-*CHR:	 (        ) 
-*NOR:	 (        ) 
-*CHR:	On whose behalf should I arrears?
-*NOR:	Interest.
-*CHR:	Oh, really?
-*NOR:	 (        ) I don't need it anyhow.
-*CHR:	Actually an interesting article is it?
-*NOR:	Yes actually an interesting article.
-*CHR:	Mm   (.) Go and put a jumper on I think.
-*NOR:	Jo who does my hair is off too, on Thursday, to the Caribbeans to be married.
-*CHR:	Golly, very exotic.
+*NOR:	Is he there? 
+*CHR:	Yep. (  )  
+*NOR:	Seen my glasses  (  ) ? 
+*CHR:	Thank you. 
+*NOR:	How would you like your coffee love? 
+*CHR:	 (  ) thank you. 
+*NOR:	 (  ) 
+*CHR:	 (  ) 
+*NOR:	 (  ) 
+*CHR:	On whose behalf should I arrears? 
+*NOR:	Interest. 
+*CHR:	Oh, really? 
+*NOR:	 (  ) I don't need it anyhow. 
+*CHR:	Actually an interesting article is it? 
+*NOR:	Yes actually an interesting article. 
+*CHR:	Mm   (6.0) Go and put a jumper on I think. 
+*NOR:	Jo who does my hair is off too, on Thursday, to the Caribbeans to be married. 
+*CHR:	Golly, very exotic. 
 @End

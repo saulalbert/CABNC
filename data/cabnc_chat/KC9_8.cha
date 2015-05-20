@@ -1,36 +1,36 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-29:  
 @Location:	 Shopping 
-@Situation:	Unspecified
-@Media: 021A-C0897X0140XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0140XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	GIN Ginny self, DIN Dinda daughter
-@ID: eng|AudioBNC|GIN|~65;| |f|Ag5| |housewife||PS0CG|
-@ID: eng|AudioBNC|DIN|~25;| |f|Ag2| |customs controller|daughter|PS0CJ|
+@Options:	CA
+@ID:	eng|AudioBNC|GIN|65;|||||housewife||PS0CG|
+@ID:	eng|AudioBNC|DIN|25;|||||customs controller|daughter|PS0CJ|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0140XX-ABZZP0.wav
 @Comment:	conversation #8 (Tape 014008)
-*GIN:	No, it takes quite a lot of  (        ) . (.) Right sweetheart.You alright?
-*DIN:	Yeah. (.) Are you gonna go in to erm   (.) Walton End or are you 
-*GIN:	Yes.
-*DIN:	gonna leave that until afterwards  (        ) ?
-*GIN:	After what?
-*DIN:	After your hair.
-*GIN:	No. (.) No.Don't back up will you else you'll slice my head off.
+*GIN:	No, it takes quite a lot of  (  ) .  (.) Right sweetheart. You alright? 
+*DIN:	Yeah.  (.) Are you gonna go in to erm   (.) Walton End or  are you   
+*GIN:	 Yes. 
+*DIN:	gonna leave that until afterwards  (  ) ? 
+*GIN:	After what? 
+*DIN:	After your hair. 
+*GIN:	No.  (.) No. Don't back up will you else you'll slice my head off. 
 *DIN:	 ((laugh)) 
-*GIN:	Well what's so funny about mum having her head sliced off?
-*DIN:	 [laughing] He just did. [] . He just backed up.
-*GIN:	He did? (.) Perhaps he used his wing mirror.Like I do.That's a quite nice little   (        ) place there.And you don't pay over the odds prices because it's not an expensive place to   (.) have your shop.
-*DIN:	Oh.That's good.
-*GIN:	You go to these big stores and they pay so much in heating and lighting and staff .
-*DIN:	This er pavement's quite nice   (        ) .
-*GIN:	Isn't it attractively done? (.) Done like parquet.
-*DIN:	 (        ) 
-*GIN:	Don't know who's paying for it all   (.) whether   (        ) council is   (.) or what?So do you want to go over there first?
-*DIN:	It's up to you.What do you want to do?
-*GIN:	I don't mind a bit.
-*DIN:	Well we've got fifteen minutes, well thirteen minutes.
+*GIN:	Well what's so funny about mum having her head sliced off? 
+*DIN:	 ((laughing)) He just did. . He just backed up. 
+*GIN:	 He did?   (.) Perhaps he used his wing mirror. Like I do. That's a quite nice little   (  ) place there. And you don't pay over the odds prices because it's not an expensive place to   (.) have your shop. 
+*DIN:	Oh. That's good. 
+*GIN:	You go to these big stores and they pay so much in heating and lighting and  staff  . 
+*DIN:	 This er  pavement's quite nice    (  )  . 
+*GIN:	 Isn't it  attractively done?  (.) Done like parquet. 
+*DIN:	 (  ) 
+*GIN:	Don't know who's paying for it all   (.) whether   (  ) council is   (.) or what? So do you want to go over there first? 
+*DIN:	It's up to you. What do you want to do? 
+*GIN:	I don't mind a bit. 
+*DIN:	Well we've got fifteen minutes, well thirteen minutes. 
 @End

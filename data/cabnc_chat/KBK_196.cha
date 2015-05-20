@@ -1,32 +1,32 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 Restaurant 
-@Situation:	Unspecified
-@Media: 021A-C0897X0029XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0029XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0029XX-AAZZP0.wav
 @Comment:	conversation #196 (Tape 002904)
-*CHR:	I can't read Chinese
-*NOR:	 ((laugh)) I don't think it said Chinese on there dear.
-*LYN:	Good evening sir.
-*NOR:	Good evening ma'am.
-*LYN:	For two.
-*NOR:	Yes, I rang on the telephone yesterday.
-*LYN:	Your name sir?You booked for two, yes?
-*NOR:	I booked indeed yes.
-*LYN:	How about this one?Will be okay?
-*NOR:	Thank you.The one over here?
-*LYN:	Are you going to sit here?
-*NOR:	If this is the one you meant.
-*LYN:	This one, or this one I think this one is nice.
-*NOR:	This is fine.Yes this is just fine.Thank you very much indeed yes.
-*LYN:	Alright?
-*NOR:	Yes thank you.
+*CHR:	I can't read Chinese 
+*NOR:	 ((laugh)) I don't think it said Chinese on there dear. 
+*LYN:	Good evening sir. 
+*NOR:	Good evening ma'am. 
+*LYN:	For two. 
+*NOR:	Yes, I rang on the telephone yesterday. 
+*LYN:	Your name sir? You booked for two, yes? 
+*NOR:	I booked indeed yes. 
+*LYN:	How about this one? Will be okay? 
+*NOR:	Thank you. The one over here? 
+*LYN:	Are you going to sit here? 
+*NOR:	If this is the one you meant. 
+*LYN:	This one, or this one I think this one is nice. 
+*NOR:	This is fine. Yes this is just fine. Thank you very much indeed yes. 
+*LYN:	Alright? 
+*NOR:	Yes thank you. 
 @End

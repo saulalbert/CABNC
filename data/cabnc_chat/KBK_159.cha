@@ -1,60 +1,60 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 Croquet club 
-@Situation:	 playing croquet 
-@Media: 021A-C0897X0027XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 playing croquet  
+@Media:	021A-C0897X0027XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, DAV David neighbour
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|DAV|~45;| |m|Ag4| |property manager|neighbour|PS107|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|DAV|45;|||||property manager|neighbour|PS107|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0027XX-AAZZP0.wav
 @Comment:	conversation #159 (Tape 002707)
-*DAV:	That's not bad.
-*CHR:	No, that's pretty good.
-*DAV:	It doesn't matter where  (        ) .
-*CHR:	No, I need blue at this stage, yellow you need now.
-*DAV:	Or indeed, one, even if, even if the yellow goes off  (        ) .
-*CHR:	O K.
-*DAV:	 (        ) . ((hits ball))
-*CHR:	Smashing.
-*DAV:	Well, (        ) a bit better  (        ) .
-*CHR:	Yes.
-*DAV:	The rest was  (        ) .
-*CHR:	No, no, ((sniff)) the red's not terribly helpful to you at the moment.
-*DAV:	 (        ) 
-*CHR:	Yes, yes, yes. ((hits ball))
-*DAV:	 (        ) 
-*CHR:	Right. ((hits ball))
-*DAV:	 (        ) curled round  (        ) .
-*CHR:	Yes.
-*DAV:	Erm
-*CHR:	That was erm
-*DAV:	You've got to move this ball
-*CHR:	O K.
-*DAV:	cos if you don't, I shall just   (        ) your black to a take on
-*CHR:	Yes.
-*DAV:	and I've got a ball in my hoop.
-*CHR:	I see.
-*DAV:	That's the ball you've got to  (        ) .
-*CHR:	Yes, fine.
-*DAV:	You can have a shot at red, you can do that, then I will do exactly what I did just now.
-*CHR:	Yes.
-*DAV:	Try and eh, I shall, probably get it even better, mind, most people would have a shot at those two I think
-*CHR:	Yes, O K.
-*DAV:	cos you're not giving very much away.
-*CHR:	Right.
-*DAV:	The other alternative is just to go off in that corner over there.It's very negative.
-*CHR:	Well, I yes, yes, I   ((laugh)) doesn't appeal to me at all. ((laugh)) 
-*DAV:	 (        ) 
-*CHR:	Yes, right.
-*DAV:	 (        ) 
-*CHR:	Move, move, move it out, right.Right I shall go for the blue, well actually, (        ) black, black is better cos blue went squiffy.
-*DAV:	Well  (        ) .
-*CHR:	Yes that's true.Ah.
-*DAV:	 (        ) 
-*CHR:	Right, right yes.
+*DAV:	That's not bad. 
+*CHR:	No, that's pretty good. 
+*DAV:	It doesn't matter where  (  ) . 
+*CHR:	No, I need blue at this stage, yellow you need now. 
+*DAV:	Or indeed, one, even if, even if the yellow goes off  (  ) . 
+*CHR:	O K. 
+*DAV:	 (  ) . ((hits ball)) 
+*CHR:	Smashing. 
+*DAV:	Well, (  ) a bit better  (  ) . 
+*CHR:	Yes. 
+*DAV:	The rest was  (  ) . 
+*CHR:	No, no, ((sniff)) the red's not terribly helpful to you at the moment. 
+*DAV:	 (  ) 
+*CHR:	Yes, yes, yes. ((hits ball)) 
+*DAV:	 (  ) 
+*CHR:	Right. ((hits ball)) 
+*DAV:	 (  ) curled round  (  ) . 
+*CHR:	Yes. 
+*DAV:	Erm 
+*CHR:	That was erm 
+*DAV:	You've got to move this ball 
+*CHR:	O K. 
+*DAV:	cos if you don't, I shall just   (  ) your black to a take on 
+*CHR:	Yes. 
+*DAV:	and I've got a ball in my hoop. 
+*CHR:	I see. 
+*DAV:	That's the ball you've got to  (  ) . 
+*CHR:	Yes, fine. 
+*DAV:	You can have a shot at red, you can do that, then I will do exactly what I did just now. 
+*CHR:	Yes. 
+*DAV:	Try and eh, I shall, probably get it even better, mind, most people would have a shot at those two I think 
+*CHR:	Yes, O K. 
+*DAV:	cos you're not giving very much away. 
+*CHR:	Right. 
+*DAV:	The other alternative is just to go off in that corner over there.  It's very negative. 
+*CHR:	 Well, I  yes, yes, I   ((laugh)) doesn't appeal to me at all. ((laugh))  
+*DAV:	 (  ) 
+*CHR:	Yes, right. 
+*DAV:	 (  ) 
+*CHR:	Move, move, move it out, right. Right I shall go for the blue, well actually, (  ) black, black is better cos blue went squiffy. 
+*DAV:	Well  (  ) . 
+*CHR:	Yes that's true. Ah. 
+*DAV:	 (  ) 
+*CHR:	Right, right yes. 
 @End

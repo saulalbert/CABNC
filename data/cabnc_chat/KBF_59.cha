@@ -1,38 +1,38 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-29:  
 @Location:	 car 
-@Situation:	Unspecified
-@Media: 021A-C0897X0156XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0156XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BRE Brenda self, JEA Jean friend
-@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
-@ID: eng|AudioBNC|JEA|~62;| |f|Ag5| |housewife|friend|PS04Y|
+@Options:	CA
+@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
+@ID:	eng|AudioBNC|JEA|62;|||||housewife|friend|PS04Y|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0156XX-AAZZP0.wav
 @Comment:	conversation #60 (Tape 015601)
-*BRE:	No upside down you got it, that bit goes underneath the lip.
-*JEA:	That goes underneath the lip, I though I'd done that.
-*BRE:	No, no.
-*JEA:	Ah that bit goes under, ah.
-*BRE:	 ((laugh)) .
-*JEA:	 (        )  (.) 
-*BRE:	Be curious to see what this like when it's all finished though    (        )  (.) Oh could of gone there, didn't see that one.
-*JEA:	Yes.
-*BRE:	God it's so dark and miserable isn't it now?.
-*JEA:	Yes   (.)  (        ) .
-*BRE:	Just gonna wait for that space   (.) Normally I'm lucky to get round here.
-*JEA:	Mm  (.) 
-*BRE:	Oh, (        ) there must be   (        ) coming   (.) come on love, shut the door   (.) I'm a bit dubious because of her
-*JEA:	Mm, mm.
-*BRE:	being there.
-*JEA:	Mm   (.) Where do you want to put that?
-*BRE:	 (        ) I need some
-*JEA:	How much do we need, (        ) got a pound  (        ) .
-*BRE:	 (        ) .
-*JEA:	Right, good idea.
-*BRE:	It's easier.
-*JEA:	Yeah.
+*BRE:	No upside down you got it, that bit goes underneath the lip. 
+*JEA:	That goes underneath the lip, I though I'd done that. 
+*BRE:	No, no. 
+*JEA:	Ah that bit goes under, ah. 
+*BRE:	 ((laugh)) . 
+*JEA:	 (  )  (.) 
+*BRE:	Be curious to see what this like when it's all finished though    (  )  (5.0) Oh could of gone there, didn't see that one. 
+*JEA:	Yes. 
+*BRE:	God it's so dark and miserable  isn't it now?. 
+*JEA:	 Yes    (6.0)  (  ) . 
+*BRE:	Just gonna wait for that space   (5.0) Normally I'm lucky to get round here. 
+*JEA:	Mm  (.)  
+*BRE:	Oh, (  ) there must be   (  ) coming   (8.0) come on love, shut the door   (15.0) I'm a bit dubious because of her 
+*JEA:	Mm, mm. 
+*BRE:	being there. 
+*JEA:	Mm   (8.0) Where do you want to put that? 
+*BRE:	 (  ) I need some 
+*JEA:	How much do we need, (  ) got a pound  (  ) . 
+*BRE:	 (  ) . 
+*JEA:	Right, good idea. 
+*BRE:	It's easier. 
+*JEA:	Yeah. 
 @End

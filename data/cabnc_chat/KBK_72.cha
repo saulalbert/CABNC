@@ -1,30 +1,30 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0023XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0023XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, LYN Lynda colleague
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|LYN|~44;| |f|Ag3| |export assistant|colleague|PS102|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|LYN|44;|||||export assistant|colleague|PS102|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0023XX-AAZZP0.wav
 @Comment:	conversation #72 (Tape 002306)
-*LYN:	Right, erm, delivery on  (        ) , please except work or  (.) 
-*CHR:	Two weeks ex works yes.Te  (.) yes erm currently twelve weeks ex works erm.
-*LYN:	Do you know where in America?
-*CHR:	No, no, I wouldn't worry about that, er then, put,cur  (.) currently la la la la twelve weeks ex U S er U S factory, U S mill.Erm, plus delivery time to New York and waiting time for suitable vessel, how about that, really ratting it in.We'd love a cup of tea, yeah. ((laugh)) 
-*LYN:	Plus shipment time to India, (        ) .
-*CHR:	Plus sea transit, or something that sort, yes, yes.
-*LYN:	 (        ) 
-*CHR:	Erm, and then after that, no,car  (.) carry on with that, let   (.) let's get that one out of the way   (.) Erm, I think we'd better say, detailed were in electrode, prices to follow.Cos I'm actually looking at that.
-*LYN:	Right.
-*CHR:	Re-hashing it.Erm, oh let me just find the papers, see what    (        )  (.) No I don't think there's anything else that we can usefully say on there.
-*LYN:	You've already said, you want   (        ) from credit, mm yes you have.
-*CHR:	Yes I'm certain I have elsewhere.
-*LYN:	 (        ) 
-*CHR:	Yes.Yes.
+*LYN:	Right, erm, delivery on  (  ) , please except work or  (.)  
+*CHR:	Two weeks ex  works yes. Te   (.) yes erm currently twelve weeks ex  works erm. 
+*LYN:	Do you know where in America? 
+*CHR:	No, no, I wouldn't worry about that, er then, put,cur   (.) currently la la la la twelve weeks ex  U S er U S factory, U S mill. Erm, plus delivery time to New York and waiting time for suitable vessel, how about that, really ratting it in. We'd love a cup of tea, yeah. ((laugh))  
+*LYN:	Plus shipment time to India, (  ) . 
+*CHR:	Plus sea transit, or something that sort, yes, yes. 
+*LYN:	 (  ) 
+*CHR:	Erm, and then after that, no,car   (.) carry on with that, let   (.) let's get that one out of the way   (20.0) Erm, I think we'd better say, detailed were in electrode, prices to follow. Cos I'm actually looking at that. 
+*LYN:	Right. 
+*CHR:	Re-hashing it. Erm, oh let me just find the papers, see what    (  )  (10.0) No I don't think there's anything else that we can usefully say on there. 
+*LYN:	You've already said, you want   (  ) from credit, mm yes  you have. 
+*CHR:	 Yes I'm  certain I have elsewhere. 
+*LYN:	 (  ) 
+*CHR:	Yes. Yes. 
 @End

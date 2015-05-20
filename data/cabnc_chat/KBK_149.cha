@@ -1,83 +1,83 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 Car 
-@Situation:	Unspecified
-@Media: 021A-C0897X0026XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0026XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, DAV David neighbour
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|DAV|~45;| |m|Ag4| |property manager|neighbour|PS107|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|DAV|45;|||||property manager|neighbour|PS107|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0026XX-ABZZP0.wav
 @Comment:	conversation #149 (Tape 002619)
-*CHR:	There's something I must do over here is go Govidge Gallery.I have never set foot in it.
-*DAV:	No I haven't, no.
-*CHR:	And it, it's supposed to have some splendid pictures, a very fine collection indeed.
-*DAV:	It is, yes, yes .We   (.) we played poker games in Dulwich College last year.
-*CHR:	Oh yes.
-*DAV:	Erm, well it was a match actually eh, that the, Bromley organised, she said she was keen on  (        ) .
-*CHR:	Are we in, Bromley still here?
-*DAV:	No this is Dulwich.
-*CHR:	Dulwich which is Suffolk or
-*DAV:	Yes, it must be.
-*CHR:	Suffolk own a big place Bell, Bell something or other in the next road here don't they?
-*DAV:	Do they?
-*CHR:	A great big old country house.
-*DAV:	Oh.
-*CHR:	And it's, it's a big garden  (        ) .
-*DAV:	No, we, we, played in Bromley itself.
-*CHR:	Did you?
-*DAV:	Yes 
-*CHR:	Yes 
-*DAV:	I think the only reason they all, they, well it was her team against us, eh they
-*CHR:	Oh I see.
-*DAV:	I think the only people which sides with masters from Dulwich College
-*CHR:	I see, yes.
-*DAV:	cos they play croquet there.
-*CHR:	They have their own.
-*DAV:	They have their own pitch.
-*CHR:	Pitch, is pitch the right word?
-*DAV:	Er lawn.
-*CHR:	Lawn, right.
-*DAV:	Needless to say that neither of them
-*CHR:	Good. ((laugh)) 
-*DAV:	But she's very nice   (        ) I think she goes through till about June.
-*CHR:	Oh yes, it's not Doreen  still is it?The, the   (        ) lady.
-*DAV:	No, no, I can't remember her name,rath  (.) rather an attractive lady I thought, very pleasant.
-*CHR:	Yes I'm certain this is the road that Carlos used to live in.
-*DAV:	It's a very nice road, I mean some very nice houses.
-*CHR:	Very pleasant road, yes .Yes.
-*DAV:	I think it's   (        ) club just here somewhere.Steven .
-*CHR:	Which club, sorry?
-*DAV:	The croquet club.
-*CHR:	Oh right  (.) 
-*DAV:	I don't know whether there'll be any   (        ) playing there.
-*CHR:	People might get down later, really.
-*DAV:	Yes.
-*CHR:	Do you tend to book the lawn or eh
-*DAV:	No, never.
-*CHR:	just turn up, whatever, see what happens?
-*DAV:	Well he needs to know when there's a match on, otherwise you wouldn't get a game.
-*CHR:	Quite.
-*DAV:	Just hope there's not one on today, but I'm pretty sure there isn't.
-*CHR:	Mm, mm  (.) 
-*DAV:	This is Dulwich Sports Club.
-*CHR:	I see  (.) 
-*DAV:	It's not that far.
-*CHR:	No, no.
-*DAV:	It's about twenty minutes.
-*CHR:	Surely, yes.
-*DAV:	Very convenient for me in the evenings, if I want to stop off, have a   (        ) 
-*CHR:	Very pleasant way to unwind , I would think.
-*DAV:	Oh it is, yes.
-*CHR:	How long does a game take, as a general rule David?
-*DAV:	Ah, maybe it's about three hours.
-*CHR:	Gosh, ((laugh)) , oh, it's a kind of golf then isn't it?
-*DAV:	Er, yes, very much so, I think that, to some extent, depending on the standard of the players.
-*CHR:	Yes.
-*DAV:	And how well one can play.
-*CHR:	Yes, fair enough.
+*CHR:	There's something I must do over here is go Govidge Gallery. I have never set foot in it. 
+*DAV:	No I haven't, no. 
+*CHR:	And it, it's supposed to have some splendid  pictures, a very fine collection indeed. 
+*DAV:	 It is, yes, yes  . We   (.) we played poker games in Dulwich College last year. 
+*CHR:	Oh yes. 
+*DAV:	Erm, well it was a match actually eh, that the, Bromley organised, she said she was keen on  (  ) . 
+*CHR:	Are we in, Bromley still here? 
+*DAV:	No this is Dulwich. 
+*CHR:	Dulwich which is Suffolk or 
+*DAV:	Yes, it must be. 
+*CHR:	Suffolk own a big place Bell, Bell something or other in the next road here don't they? 
+*DAV:	Do they? 
+*CHR:	A great big old country house. 
+*DAV:	Oh. 
+*CHR:	And it's, it's a big garden  (  ) . 
+*DAV:	No, we, we, played in Bromley itself. 
+*CHR:	Did you? 
+*DAV:	 Yes   
+*CHR:	 Yes   
+*DAV:	I think the only reason they all, they, well it was her team against us, eh they 
+*CHR:	Oh I see. 
+*DAV:	I think the only people which sides with masters from Dulwich College 
+*CHR:	I see, yes. 
+*DAV:	cos they play croquet there. 
+*CHR:	They have their own. 
+*DAV:	They have their own pitch. 
+*CHR:	Pitch, is pitch the right word? 
+*DAV:	Er lawn. 
+*CHR:	Lawn, right. 
+*DAV:	Needless to say that neither of them 
+*CHR:	Good. ((laugh))  
+*DAV:	But she's very nice   (  ) I think she goes through till about June. 
+*CHR:	Oh yes, it's not Doreen   still is it? The, the   (  ) lady. 
+*DAV:	No, no, I can't remember her name,rath   (.) rather an attractive lady I thought, very pleasant. 
+*CHR:	Yes I'm certain this is the road that Carlos used to live in. 
+*DAV:	It's a very nice road, I  mean some very nice houses. 
+*CHR:	 Very pleasant road, yes  . Yes. 
+*DAV:	I think it's   (  ) club just here somewhere. Steven  . 
+*CHR:	Which club, sorry? 
+*DAV:	The croquet club. 
+*CHR:	Oh right  (10.0)  
+*DAV:	I don't know whether there'll be any   (  ) playing there. 
+*CHR:	People might get down later, really. 
+*DAV:	Yes. 
+*CHR:	Do you tend to book the lawn or eh 
+*DAV:	No, never. 
+*CHR:	just turn up, whatever, see what happens? 
+*DAV:	Well he needs to know when there's a match on, otherwise you wouldn't get a game. 
+*CHR:	Quite. 
+*DAV:	Just hope there's not one on today, but I'm pretty sure there isn't. 
+*CHR:	Mm, mm  (6.0)  
+*DAV:	This is Dulwich Sports Club. 
+*CHR:	I see  (6.0)  
+*DAV:	It's not that far. 
+*CHR:	No, no. 
+*DAV:	It's about twenty minutes. 
+*CHR:	Surely, yes. 
+*DAV:	Very convenient for me in the evenings, if I want to stop off, have a   (  )   
+*CHR:	 Very pleasant way to unwind  , I would think. 
+*DAV:	Oh it is, yes. 
+*CHR:	How long does a game take, as a general rule David? 
+*DAV:	Ah, maybe it's about three hours. 
+*CHR:	Gosh, ((laugh)) , oh, it's a kind of golf then isn't it? 
+*DAV:	Er, yes, very much so, I think that, to some extent, depending on the standard of the players. 
+*CHR:	Yes. 
+*DAV:	And how well one can play. 
+*CHR:	Yes, fair enough. 
 @End

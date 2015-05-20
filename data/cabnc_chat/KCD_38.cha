@@ -1,29 +1,29 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 shopping 
-@Situation:	Unspecified
-@Media: 021A-C0897X0049XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0049XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
-@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
+@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0049XX-ABZZP0.wav
 @Comment:	conversation #38 (Tape 004905)
-*HEL:	No I should put your anorak on cos it's getting cooler.
-*CLA:	Oh, alright.
-*HEL:	I wouldn't be out too long cos, it.
-*CLA:	Do what?
-*HEL:	Well you tend to cough don't you?
-*CLA:	Hm.
-*HEL:	 ((sigh)) I'd really rather you wo-   (.) got a bit better.
-*CLA:	Is that  (        ) .
-*HEL:	Pardon.Are you going to put your anorak on?
-*CLA:	No I'm not going to  (        ) .
-*HEL:	What you going, oh, oh I see .
-*CLA:	 (        ) .
+*HEL:	No I should put your anorak on cos it's getting cooler. 
+*CLA:	Oh, alright. 
+*HEL:	I wouldn't be out too long cos, it. 
+*CLA:	Do what? 
+*HEL:	Well you tend to cough don't you? 
+*CLA:	Hm. 
+*HEL:	 ((sigh)) I'd really rather you wo-   (.) got a bit better. 
+*CLA:	Is that  (  ) . 
+*HEL:	Pardon. Are you going to put your anorak on? 
+*CLA:	No I'm not going to  (  ) . 
+*HEL:	What you going, oh, oh I see  . 
+*CLA:	  (  )  . 
 @End

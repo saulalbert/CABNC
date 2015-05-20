@@ -1,29 +1,29 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-05:  
 @Location:	 The Lion Inn 
-@Situation:	Unspecified
-@Media: 021A-C0897X0066XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0066XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	FRE Fred self
-@ID: eng|AudioBNC|FRE|~78;| |m|Ag5| |retired||PS1E4|
+@Options:	CA
+@ID:	eng|AudioBNC|FRE|78;|||||retired||PS1E4|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0066XX-AAZZP0.wav
 @Comment:	conversation #16 (Tape 006602)
-*FRE:	She may be er an absolute bloody gem.
-*NON:	She   (        ) , I don't whether she  (        ) .
-*FRE:	Well I'm half  (        ) .
-*NON:	Yeah I've got a name, my name's Kathleen, that's what.
-*FRE:	 ((laugh)) Kathleen, not Katherine?
-*NON:	No, Kathleen.
-*FRE:	 [singing] I'll take you home again Katherine  [] ..
-*NON:	Home again Katherine.
-*FRE:	 [singing] Look across the ocean waves, who will a bill  (        ) , I   (        ) take you home Kathleen  [] .
-*NON:	 (        ) take you home Kathleen. ((laugh)) 
-*FRE:	 [singing] I seen a rosy on your cheek, I see them fade away   (        )  [] . ((laugh)) Kathleen, Kathleen, Kathleen.
-*NON:	You're nice and warm.
-*FRE:	Well you expect me to warm, be warm this bloody weather, eh?Your hands, they're, they're bloody cold, even today.
-*NON:	Cold  (        ) .
+*FRE:	She may be er an absolute  bloody gem. 
+*NON:	 She   (  )  , I don't whether she  (  ) . 
+*FRE:	Well I'm half  (  ) . 
+*NON:	Yeah I've got a name, my name's Kathleen, that's what. 
+*FRE:	 ((laugh)) Kathleen, not Katherine? 
+*NON:	No, Kathleen. 
+*FRE:	 ((singing)) I'll take you home  again Katherine .. 
+*NON:	 Home again Katherine. 
+*FRE:	 ((singing)) Look across the ocean waves, who will a bill  (  ) , I   (  ) take you home Kathleen . 
+*NON:	  (  ) take you home Kathleen. ((laugh))  
+*FRE:	 ((singing)) I seen a rosy on your cheek, I see them fade away   (  ) .  ((laugh)) Kathleen, Kathleen, Kathleen. 
+*NON:	You're nice and warm. 
+*FRE:	Well you expect me to warm, be warm this bloody weather, eh? Your hands, they're, they're bloody cold, even today. 
+*NON:	Cold  (  ) . 
 @End

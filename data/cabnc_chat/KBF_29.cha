@@ -1,26 +1,26 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-29:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0152XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0152XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BRE Brenda self, JEA Jean friend
-@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
-@ID: eng|AudioBNC|JEA|~62;| |f|Ag5| |housewife|friend|PS04Y|
+@Options:	CA
+@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
+@ID:	eng|AudioBNC|JEA|62;|||||housewife|friend|PS04Y|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0152XX-AAZZP0.wav
 @Comment:	conversation #30 (Tape 015202)
-*JEA:	Oh could I ring   (.) home?
-*BRE:	Course you can.
-*JEA:	Thanks very much.
-*BRE:	Put your glasses on to see.
-*JEA:	Oh yes.
-*BRE:	Can you spot a little clip?
-*JEA:	Oh the little clip? (.) Ta love   (.) thank you.
-*BRE:	Yeah the little microphone.
-*JEA:	Oh!
-*BRE:	 (        )  (.) such a silly little thing
+*JEA:	Oh could I ring   (.) home? 
+*BRE:	Course you can. 
+*JEA:	Thanks very much. 
+*BRE:	Put your glasses on to see. 
+*JEA:	Oh yes. 
+*BRE:	Can you spot a little clip? 
+*JEA:	Oh the little clip?  (.) Ta love   (.) thank you. 
+*BRE:	Yeah the little microphone. 
+*JEA:	Oh! 
+*BRE:	 (  )  (.) such a silly little thing 
 @End

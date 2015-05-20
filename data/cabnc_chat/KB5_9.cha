@@ -1,33 +1,33 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-30:  
 @Location:	 Friend's house 
-@Situation:	Unspecified
-@Media: 021A-C0897X0057XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0057XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	AND Andrew self, JOH John friend
-@ID: eng|AudioBNC|AND|~16;| |m|Ag1| |student||PS028|
-@ID: eng|AudioBNC|JOH|~17;| |m|Ag1| |student|friend|PS0Y8|
+@Options:	CA
+@ID:	eng|AudioBNC|AND|16;|||||student||PS028|
+@ID:	eng|AudioBNC|JOH|17;|||||student|friend|PS0Y8|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0057XX-ABZZP0.wav
 @Comment:	conversation #10 (Tape 005710)
-*AND:	It's not, it's people don't understand or something. (        ) .
-*UNK:	Y M C A whatever.
-*JOH:	 [singing] Y M C A  [] . ((radio)) (        ) 
-*AND:	Makes me  (        ) 
-*UNK:	Oh fucking hell. (        ) goes erm, oh sort of.
-*JOH:	 (        ) 
-*AND:	 [singing] Best part of breaking up, you   (        ) making up, best part of breaking up   [] 
-*UNK:	Breaking up, you  (        ) , best part of breaking up 
-*JOH:	Breaking up, you  (        ) , news   (        ) on waking up 
-*AND:	And you used to   (        ) funky little reggae, (        ) oh my god   ((radio in background))singing.
-*UNK:	Singing 
-*JOH:	Singing 
-*AND:	They all, even all the girls that were screaming like yeah 
-*UNK:	Yeah.
-*JOH:	Yeah.
-*AND:	Getting  (        ) .
-*UNK:	They're bloody  (        ) .
+*AND:	It's not, it's people don't understand or something. (  ) . 
+*UNK:	Y M C A whatever. 
+*JOH:	 ((singing)) Y M C A . ((radio)) (  )  
+*AND:	Makes me  (  )  
+*UNK:	Oh fucking hell.  (  ) goes erm, oh sort of. 
+*JOH:	 (  ) 
+*AND:	 ((singing)) Best part of  breaking up, you   (  ) making up, best part of breaking up    
+*UNK:	 Breaking up, you  (  ) , best part of breaking up   
+*JOH:	 Breaking up, you  (  ) , news   (  ) on waking up   
+*AND:	And you used to   (  ) funky little reggae, (  ) oh my god   ((radio in background))singing. 
+*UNK:	 Singing   
+*JOH:	 Singing   
+*AND:	They all, even all the girls that were screaming like  yeah   
+*UNK:	 Yeah. 
+*JOH:	 Yeah. 
+*AND:	Getting  (  ) . 
+*UNK:	They're bloody  (  ) . 
 @End

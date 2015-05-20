@@ -1,72 +1,72 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-28:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0150XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0150XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BRE Brenda self, DAV Dave husband, LEE Lee son, CAR Carla daughter
-@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
-@ID: eng|AudioBNC|DAV|~37;| |m|Ag3| |hgv driver|husband|PS04V|
-@ID: eng|AudioBNC|LEE|~15;| |m|Ag1| |student (state secondary)|son|PS04W|
-@ID: eng|AudioBNC|CAR|~11;| |f|Ag0| |student (state primary)|daughter|PS04X|
+@Options:	CA
+@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
+@ID:	eng|AudioBNC|DAV|37;|||||hgv driver|husband|PS04V|
+@ID:	eng|AudioBNC|LEE|15;|||||student (state secondary)|son|PS04W|
+@ID:	eng|AudioBNC|CAR|11;|||||student (state primary)|daughter|PS04X|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0150XX-AAZZP0.wav
 @Comment:	conversation #8 (Tape 015008)
-*BRE:	Yeah, Lynn just ordered that one for Victoria, she had it on order for seven weeks   (.) twenty four pound it was that one  (.) 
-*LEE:	It'll be easy if you write it down.
-*BRE:	No, just mark on, just put a cross straight through.
-*LEE:	 (        )  (.) 
-*BRE:	What you have to, what page is it in, in the book?
-*LEE:	Page forty six
-*BRE:	Page forty? (        ) .
-*LEE:	Yeah, (        ) .
-*BRE:	Classical.
-*LEE:	Yeah.
-*BRE:	I  (        ) .
-*LEE:	That's three.
-*BRE:	Yeah what's it called?
-*LEE:	 (        ) .
-*BRE:	Be about  (        ) .
-*LEE:	 ((laugh)) , (        ) .
-*BRE:	Who is it?
-*LEE:	B I B
-*BRE:	Yeah.
-*LEE:	A L  ((laugh)) 
-*BRE:	G I B, is it one word or two?
-*LEE:	One, ((laugh)) .
-*DAV:	 (        ) .
-*LEE:	B I B
-*BRE:	Yeah.
-*LEE:	A L D I, one word
-*BRE:	Yeah.
-*LEE:	 (        ) four seasons.
-*BRE:	 (        ) .
-*LEE:	 (        ) .
-*CAR:	Dad we wanna play it on Saturday don't   (        ) toys, toys and games.
-*BRE:	 (        ) oh we don't know how much it is.
-*LEE:	Yours  (        ) .
-*CAR:	Yeah.
-*BRE:	Right next one.
-*DAV:	Huh, he's probably too much   (        ) excited of    (        )  (.)  (        ) .
-*LEE:	Right, welcome   (        ) page forty four.
-*BRE:	Yeah, item number.
-*LEE:	Six.
-*BRE:	Yeah.
-*LEE:	Amy Grant, Heart In Motion.Don't know to use Bob Marley one or not.
-*BRE:	Who is it?
-*LEE:	Amy Grant.
-*BRE:	Yeah.
-*LEE:	Erm, Hearts In motion.
-*BRE:	Heart In Motion is that two words or one?
-*LEE:	Hearts In Motion, all three words.
-*BRE:	What is it m, o, t
-*LEE:	i, o, n.
-*BRE:	Moton?
-*LEE:	No it's not, i, o, n.
-*BRE:	M, o, t, i
-*LEE:	o, n, Amy Grant, I don't know if got Bob Marley one or not.
-*BRE:	He's good.
+*BRE:	Yeah, Lynn just ordered that one for Victoria, she had it on order for seven weeks   (.) twenty four pound it was that one  (.)  
+*LEE:	It'll be easy if you write it down. 
+*BRE:	No, just mark on, just put a cross straight through. 
+*LEE:	 (  )  (.) 
+*BRE:	What you have to, what page is it in, in the book? 
+*LEE:	Page forty six 
+*BRE:	Page forty? (  ) . 
+*LEE:	Yeah, (  ) . 
+*BRE:	Classical. 
+*LEE:	Yeah. 
+*BRE:	I  (  ) . 
+*LEE:	That's three. 
+*BRE:	Yeah what's it called? 
+*LEE:	 (  ) . 
+*BRE:	Be about  (  ) . 
+*LEE:	 ((laugh)) , (  ) . 
+*BRE:	Who is it? 
+*LEE:	B I B 
+*BRE:	Yeah. 
+*LEE:	A L  ((laugh))  
+*BRE:	G I B, is it one word or two? 
+*LEE:	One, ((laugh)) . 
+*DAV:	 (  ) . 
+*LEE:	B I B 
+*BRE:	Yeah. 
+*LEE:	A L D I, one word 
+*BRE:	Yeah. 
+*LEE:	 (  ) four seasons. 
+*BRE:	 (  ) . 
+*LEE:	 (  ) . 
+*CAR:	Dad we wanna play it on Saturday don't   (  ) toys, toys and games. 
+*BRE:	 (  ) oh we don't know how much it is. 
+*LEE:	Yours  (  ) . 
+*CAR:	Yeah. 
+*BRE:	Right next one. 
+*DAV:	Huh, he's probably too much   (  ) excited of    (  )  (5.0)  (  ) . 
+*LEE:	Right, welcome   (  ) page forty four. 
+*BRE:	Yeah, item number. 
+*LEE:	Six. 
+*BRE:	Yeah. 
+*LEE:	Amy Grant, Heart In Motion. Don't know to use Bob Marley one or not. 
+*BRE:	Who is it? 
+*LEE:	Amy Grant. 
+*BRE:	Yeah. 
+*LEE:	Erm, Hearts In motion. 
+*BRE:	Heart In Motion is that two words or one? 
+*LEE:	Hearts In Motion, all three words. 
+*BRE:	What is it m, o, t 
+*LEE:	i, o, n. 
+*BRE:	Moton? 
+*LEE:	No it's not, i, o, n. 
+*BRE:	M, o, t, i 
+*LEE:	o, n, Amy Grant, I don't know if got Bob Marley one or not. 
+*BRE:	He's good. 
 @End

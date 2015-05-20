@@ -1,29 +1,29 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-27:  
 @Location:	 at work 
-@Situation:	 servicing tv's 
-@Media: 021A-C0897X0409XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 servicing tv's  
+@Media:	021A-C0897X0409XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	FRA Frank self, STE Steve colleague, BRI Brian friend
-@ID: eng|AudioBNC|FRA|~50;| |m|Ag4| |tv engineer||PS09E|
-@ID: eng|AudioBNC|STE|~44;| |m|Ag3| |salesman|colleague|PS09G|
-@ID: eng|AudioBNC|BRI|~55;| |m|Ag4| |salesman|friend|PS09N|
+@Options:	CA
+@ID:	eng|AudioBNC|FRA|50;|||||tv engineer||PS09E|
+@ID:	eng|AudioBNC|STE|44;|||||salesman|colleague|PS09G|
+@ID:	eng|AudioBNC|BRI|55;|||||salesman|friend|PS09N|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0409XX-ABZZP0.wav
 @Comment:	conversation #17 (Tape 040904)
-*FRA:	So I suppose you want a coffee my dear man?
-*BRI:	Well I wouldn't say no, is that, that's reconditioned of course?
-*FRA:	Well 
-*STE:	They don't need to be reconditioned they're only about two or three year old aren't they, you know, (        ) 
-*BRI:	And how much  (        ) ?
-*STE:	One ten plus the VAT   (        ) 
-*BRI:	One ten plus VAT!
-*STE:	For the trade, they'll probably  (        ) 
-*BRI:	 (        ) cheap innit?
-*FRA:	Oh it is cheap
-*BRI:	Innit?
-*FRA:	Mm. (.) 
+*FRA:	So I suppose you want a coffee my dear man? 
+*BRI:	Well I wouldn't say no, is that, that's reconditioned of course? 
+*FRA:	 Well   
+*STE:	 They  don't need to be reconditioned they're only about two or three year old aren't they, you know, (  )   
+*BRI:	 And how much   (  ) ? 
+*STE:	One ten plus the VAT    (  )   
+*BRI:	 One ten  plus VAT! 
+*STE:	For the trade, they'll probably  (  )  
+*BRI:	 (  ) cheap innit? 
+*FRA:	Oh it is cheap 
+*BRI:	Innit? 
+*FRA:	Mm. (15.0)  
 @End

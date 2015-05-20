@@ -1,30 +1,30 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 Restaurant 
-@Situation:	Unspecified
-@Media: 021A-C0897X0030XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0030XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0030XX-AAZZP0.wav
 @Comment:	conversation #219 (Tape 003002)
-*CHR:	My grandmoth granny used to have these during the war.
-*NOR:	Did she really?I wonder where she got them from.
-*CHR:	Oh they were ho hoarded.
-*NOR:	Were they?
-*CHR:	She had them in a big glass jar and if you were very good   (        ) and special occasions.
-*NOR:	Good.
-*CHR:	Only hers were   (.) all colours.
-*NOR:	These usually come in bigger chunks than that.
-*CHR:	 (        ) Well they've got   (.) that girl over there 's got soup.What kind of soup has she got?
-*NOR:	It's got dumplings in it.
-*CHR:	That might be won ton soup.
-*NOR:	With dumplings in?
-*CHR:	I didn't see that.
-*NOR:	Ah.
+*CHR:	My grandmoth  granny used to have these during the war. 
+*NOR:	Did she really? I wonder where she got them from. 
+*CHR:	Oh they were ho  hoarded. 
+*NOR:	Were they? 
+*CHR:	She had them in a big glass jar and if you were very good   (  ) and special occasions. 
+*NOR:	Good. 
+*CHR:	Only hers were   (.) all colours. 
+*NOR:	These usually come in bigger chunks than that. 
+*CHR:	 (  ) Well they've got   (.) that girl over there 's got soup. What kind of soup has she got? 
+*NOR:	It's got dumplings in it. 
+*CHR:	That might be won ton soup. 
+*NOR:	With dumplings in? 
+*CHR:	I didn't see that. 
+*NOR:	Ah. 
 @End

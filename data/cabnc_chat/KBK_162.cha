@@ -1,28 +1,28 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 Croquet club 
-@Situation:	 playing croquet 
-@Media: 021A-C0897X0027XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 playing croquet  
+@Media:	021A-C0897X0027XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, DAV David neighbour
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|DAV|~45;| |m|Ag4| |property manager|neighbour|PS107|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|DAV|45;|||||property manager|neighbour|PS107|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0027XX-AAZZP0.wav
 @Comment:	conversation #162 (Tape 002710)
-*DAV:	Slightly off centre  (        ) .Because of the danger of that ball jumping, you hit over the top like that, it'll jump.
-*CHR:	Yes.
-*DAV:	You, you take up the normal   (        ) I don't tend to do this, but this is really the best way to do the shot.
-*CHR:	Yes.
-*DAV:	Take up your normal start and then just tap the back a little bit cos you're hitting that ball on the upward swing then and there's no danger that you're gonna jump over it.See if you'll try and get it to jump if you   ((hits ball)) (        ) .
-*CHR:	Yes , yes, yep.
-*DAV:	Very, very easy to get the finger on the
-*CHR:	Fine.
-*DAV:	Erm, bumpy lawns, jump that over ball.
-*CHR:	Right.So step back and hit   (.) hit it on the up stroke.
-*DAV:	Yeah, and try and ground the mallet a little bit, cos then the black ball will go quite nicely down there.
-*CHR:	Oh right, fine.
+*DAV:	Slightly off centre  (  ) . Because of the danger of that ball jumping, you hit over the top like that, it'll jump. 
+*CHR:	Yes. 
+*DAV:	You, you take up the normal   (  ) I don't tend to do this, but this is really the best way to do the shot. 
+*CHR:	Yes. 
+*DAV:	Take up your normal start and then just tap the back a little bit cos you're hitting that ball on the upward swing then and there's no danger that you're gonna jump over it. See if you'll try and get it to jump if you   ((hits ball))  (  ) . 
+*CHR:	 Yes  , yes, yep. 
+*DAV:	Very, very easy to get the finger on the 
+*CHR:	Fine. 
+*DAV:	Erm, bumpy lawns, jump that over ball. 
+*CHR:	Right. So step back and hit   (.) hit it on the up stroke. 
+*DAV:	Yeah, and try and ground the mallet a little bit, cos then the black ball will go quite nicely down there. 
+*CHR:	Oh right, fine. 
 @End

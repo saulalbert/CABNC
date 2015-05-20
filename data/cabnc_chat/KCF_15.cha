@@ -1,36 +1,36 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-18:  
 @Location:	 home 
-@Situation:	 talking on phone 
-@Media: 021A-C0897X0283XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 talking on phone  
+@Media:	021A-C0897X0283XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HER Herbert husband, IRI Iris self, ALI Alison daughter
-@ID: eng|AudioBNC|HER|~56;| |m|Ag4| |landscape gardener|husband|PS1EM|
-@ID: eng|AudioBNC|IRI|~54;| |f|Ag4| |home care assistant||PS1EN|
-@ID: eng|AudioBNC|ALI|~21;| |f|Ag1| |landscape gardener|daughter|PS1EP|
+@Options:	CA
+@ID:	eng|AudioBNC|HER|56;|||||landscape gardener|husband|PS1EM|
+@ID:	eng|AudioBNC|IRI|54;|||||home care assistant||PS1EN|
+@ID:	eng|AudioBNC|ALI|21;|||||landscape gardener|daughter|PS1EP|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0283XX-AAZZP0.wav
 @Comment:	conversation #15 (Tape 028304)
-*IRI:	Give us that packet there! (.)  ((phone rings))The cigarettes! (.)  ((phonecall starts))Hello! (.) Oh,hiya love! (.) We're alright, Alison's taking her   (.) so   (.) they're off now. (.) Yeah. (.) Alison's taking her in the van. (.) But, (        ) I haven't gotta go have I? (.) Herbert's going up 
-*HER:	I'll take her 
-*IRI:	to Crewe and then she's taking her and then   (.) it'll save me a journey. (.) I'm alright thanks love  [] . (.) Shouldn't Gordon, clear off will you!
-*ALI:	Well while I'm away you can  (        ) .
-*IRI:	Okay!
-*ALI:	Bye!
-*IRI:	 (        ) it's a  (        ) . (.)  ((talking on phone))Okay Gordon. (.) Ta  (.) tara love! (.) Tara  [] !
-*ALI:	I am going to get some.
-*HER:	Bye bye then!
-*IRI:	You best go cos the front  (        ) , you know 
-*ALI:	I will   (        ) quite a lot.
-*IRI:	Well you might get in the fro 
-*ALI:	Alright.
-*IRI:	Get your nan in a wheelchair first!Get in and get her in a wheelchair!
-*ALI:	 (        ) 
-*HER:	 (        )  (.)  (        ) .
-*IRI:	Ay?
-*HER:	 (        ) . (.) Now then, what's gonna happen today?
-*IRI:	Them things are on the  (        ) , can you see her?
+*IRI:	Give us that packet there!  (.)  ((phone rings))The cigarettes!  (.)  ((phonecall starts))Hello!  (.) Oh,hiya love!  (.) We're alright, Alison's taking her   (.) so   (.) they're off now.  (.) Yeah.  (.) Alison's taking her in the van.  (.) But, (  ) I haven't gotta go have I?  (.)  Herbert's going up   
+*HER:	 I'll take her   
+*IRI:	to Crewe and then she's taking her and then   (.) it'll save me a journey.  (.) I'm alright thanks love .  (.) Shouldn't Gordon, clear off  will you! 
+*ALI:	 Well while  I'm away you can  (  ) . 
+*IRI:	Okay! 
+*ALI:	 Bye! 
+*IRI:	  (  )  it's a  (  ) .  (.)  ((talking on phone))Okay Gordon.  (.) Ta   (.) tara love!  (.) Tara ! 
+*ALI:	I am going to get some. 
+*HER:	Bye bye then! 
+*IRI:	You best go cos the front   (  ) , you know   
+*ALI:	 I will   (  )  quite a lot. 
+*IRI:	Well you might get in the fro   
+*ALI:	Alright. 
+*IRI:	Get your nan in a wheelchair first! Get in and get her in a wheelchair! 
+*ALI:	 (  ) 
+*HER:	 (  )  (16.0)  (  ) . 
+*IRI:	Ay? 
+*HER:	 (  ) .  (.) Now then, what's gonna happen today? 
+*IRI:	Them things are on the  (  ) , can you see her? 
 @End

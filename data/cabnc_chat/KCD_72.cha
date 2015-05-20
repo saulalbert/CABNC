@@ -1,40 +1,40 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0051XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0051XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
-@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
+@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0051XX-ABZZP0.wav
 @Comment:	conversation #72 (Tape 005113)
-*HEL:	You have a rest, I mean that's all you can do really isn't it?What a nuisance.
-*AMY:	 ((cough))  (        ) 
-*HEL:	Pardon?
-*AMY:	Is there anything on T V later?
-*HEL:	Well you've got the book, so   ((cough)) No we're on this one now.The erm, the, the Derby.
-*AMY:	 (        )  (.) 
-*HEL:	Saturday, well it's Grandstand all afternoon.
-*AMY:	What's on Grandstand?
-*HEL:	Mm, show jumping at four twenty five, motor racing.
-*AMY:	Is there nothing on after this?
-*HEL:	Flying Doctors, That's Show Business, You've Got To Be Joking.
-*AMY:	Is there nothing on I T V?
-*HEL:	 ((sigh))  (.) There's a, there's an Indian drama on B B C two with English subtitles, it's in Hindi, that'll be interesting for you.Half A Sixpence, oh you'll probably quite like that, that's here.
-*AMY:	Now?
-*HEL:	Mm.
-*CLA:	 (        ) 
-*AMY:	 (        ) 
-*HEL:	Tommy, Tommy Steele, like to sit up? ((tv on))That's Tommy Steele.
-*CLA:	Where's the book?
-*AMY:	Mm.
-*HEL:	Here.
-*CLA:	 (        ) 
-*HEL:	Mm.He's a lot older than that now.Come on, you can read your book.
+*HEL:	You have a rest, I mean that's all you can do really isn't it? What a nuisance. 
+*AMY:	 ((cough))  (  ) 
+*HEL:	Pardon? 
+*AMY:	Is there anything on T V later? 
+*HEL:	Well you've got the book, so   ((cough)) No we're on this one now. The erm, the, the Derby. 
+*AMY:	 (  )  (10.0) 
+*HEL:	Saturday, well it's Grandstand all afternoon. 
+*AMY:	What's on Grandstand? 
+*HEL:	Mm, show jumping at four twenty five, motor racing. 
+*AMY:	Is there nothing on after this? 
+*HEL:	Flying Doctors, That's Show Business, You've Got To Be Joking. 
+*AMY:	Is there nothing on I T V? 
+*HEL:	 ((sigh))  (.) There's a, there's an Indian drama on B B C two with English subtitles, it's in Hindi, that'll be interesting for you. Half A Sixpence, oh you'll probably quite like that, that's here. 
+*AMY:	 Now? 
+*HEL:	 Mm. 
+*CLA:	 (  ) 
+*AMY:	 (  ) 
+*HEL:	Tommy, Tommy Steele, like to sit up?  ((tv on)) That's Tommy Steele. 
+*CLA:	 Where's the book? 
+*AMY:	Mm. 
+*HEL:	Here. 
+*CLA:	 (  ) 
+*HEL:	Mm. He's a lot older than that now. Come on, you can read your book. 
 @End

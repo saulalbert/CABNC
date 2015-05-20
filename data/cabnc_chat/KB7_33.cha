@@ -1,23 +1,23 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-03:  
 @Location:	  home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0189XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0189XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	ANN Ann self, STU Stuart partner
-@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
-@ID: eng|AudioBNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
+@Options:	CA
+@ID:	eng|AudioBNC|ANN|46;|||||team leader||PS02G|
+@ID:	eng|AudioBNC|STU|33;|||||factory operative|partner|PS02H|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0189XX-AAZZP0.wav
 @Comment:	conversation #33 (Tape 018901)
-*STU:	No it doesn't look very important does it? (.) Er er   (.) no   (.) no, no no no   (.) very   (        ) me thinks   (.) Lloyds Bank.
-*ANN:	Wrote to Lloyds Bank telling them, that if they try and keep  (        ) 
-*STU:	Dear customer
-*ANN:	You're usually sir, madam and esquire on the bank things.
-*STU:	I don't what 
-*ANN:	Are you satisfied with their   (.) service?
-*STU:	Yes   (.) that sort of thing.
+*STU:	No it doesn't look very important does it?  (10.0) Er er   (.) no   (.) no, no no no   (6.0) very   (  ) me thinks   (17.0) Lloyds Bank. 
+*ANN:	Wrote to Lloyds Bank telling them, that if they try and keep  (  )  
+*STU:	Dear customer 
+*ANN:	You're usually sir, madam and esquire on the bank things. 
+*STU:	I don't  what   
+*ANN:	 Are you  satisfied with their   (.) service? 
+*STU:	Yes   (.) that sort of thing. 
 @End

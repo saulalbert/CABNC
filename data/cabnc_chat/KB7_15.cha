@@ -1,32 +1,32 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-29:  
 @Location:	  pub  
-@Situation:	  drinking, chatting, playing crib  
-@Media: 021A-C0897X0185XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  drinking, chatting, playing crib   
+@Media:	021A-C0897X0185XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , ANN Ann self, STU Stuart partner
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
-@ID: eng|AudioBNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|ANN|46;|||||team leader||PS02G|
+@ID:	eng|AudioBNC|STU|33;|||||factory operative|partner|PS02H|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0185XX-AAZZP0.wav
 @Comment:	conversation #15 (Tape 018502)
-*NON:	There you are dear.
-*ANN:	Thank you   (.)  (        ) 
-*STU:	Now   (.) so that's two each, you owe me thirteen pence yes? (.)  (        ) and it's your box   (.)  (        ) 
-*ANN:	This wonderful person here darling
-*NON:	It wasn't.
-*ANN:	I thought you told me earlier on I was wonderful.
-*STU:	You are my love   (.) absolutely 
-*ANN:	 ((laugh)) 
-*STU:	wonderful   (.) don't like those, don't really wanna give you those   (.) there are   (.) right   (.) have I got it on    (        )  (.) bloody hell mum! (.) Turn it round for you   (.) try a niner   (.) twenty   (.) sixes    (        )  (.) alright   (.) seven   (.) put five on there   (.) four on this   (.) my turn   (.) fifteen two, fifteen four   (.) fifteen two, fifteen four   (.) fifteen two, fifteen four, fifteen six   (.) three's nine, that's it, (        ) seven, eight, nine   (.) fourteen   (.) four in the box   (.) nineteen, that goes up to fifteen   (.) fifteen two, fifteen four, fifteen six   (.) good job I'm honest innit?
-*ANN:	Oh ah.
-*STU:	You said four, six
-*ANN:	Where's six?
-*STU:	Eight seven, ten five, seven three five
-*ANN:	Then take out all of  (        ) 
-*STU:	Good job I'm honest isn't it? (.) Cos in a match   (.) if that was in a match   (.) cos you'd have said    (        )  (.) you'd have said, fifteen two, fifteen four   (.) I wouldn't have said nothing   (.) take four, I would have   (.) kept quiet   (.) but you don't do you? (.) Play in pairs, it's different but   (.) when you're just playing singles, you can say   (.) or maybe you could sort of friends that go, you'd probably say something like, are you sure? (.) Say, yeah fifty four, right, fair enough
+*NON:	There you are dear. 
+*ANN:	Thank you   (.)  (  )  
+*STU:	Now   (.) so that's two each, you owe me thirteen pence yes? (.)  (  ) and it's your box   (8.0)  (  )  
+*ANN:	This wonderful person here darling 
+*NON:	It wasn't. 
+*ANN:	I thought you told me earlier on I was wonderful. 
+*STU:	You are my love   (.)  absolutely   
+*ANN:	  ((laugh))  
+*STU:	wonderful   (.) don't like those, don't really wanna give you those   (8.0) there are   (7.0) right   (.) have I got it on    (  )  (7.0) bloody hell mum!  (.) Turn it round for you   (.) try a niner   (9.0) twenty   (.) sixes    (  )  (.) alright   (.) seven   (.) put five on there   (.) four on this   (11.0) my turn   (.) fifteen two, fifteen four   (.) fifteen two, fifteen four   (.) fifteen two, fifteen four, fifteen six   (.) three's nine, that's it, (  ) seven, eight, nine   (.) fourteen   (.) four in the box   (.) nineteen, that goes up to fifteen   (.) fifteen two, fifteen four, fifteen six   (.) good job I'm honest innit? 
+*ANN:	Oh ah. 
+*STU:	You said four, six 
+*ANN:	Where's six? 
+*STU:	Eight seven, ten five, seven three five 
+*ANN:	Then take out all of  (  )  
+*STU:	Good job I'm honest isn't it?  (6.0) Cos in a match   (.) if that was in a match   (.) cos you'd have said    (  )  (.) you'd have said, fifteen two, fifteen four   (.) I wouldn't have said nothing   (.) take four, I would have   (.) kept quiet   (.) but you don't do you?  (.) Play in pairs, it's different but   (.) when you're just playing singles, you can say   (.) or maybe you could sort of friends that go, you'd probably say something like, are you sure?  (.) Say, yeah fifty four, right, fair enough 
 @End

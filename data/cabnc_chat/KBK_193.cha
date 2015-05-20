@@ -1,33 +1,33 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 Car 
-@Situation:	Unspecified
-@Media: 021A-C0897X0029XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0029XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0029XX-AAZZP0.wav
 @Comment:	conversation #193 (Tape 002901)
-*NOR:	 (        ) When does this finish?
-*CHR:	Tonight.I might carry on a bit tomorrow.Depending on how many few tapes whatever I've done.
-*NOR:	How many   (        )  (.) 
-*CHR:	I don't think they've said that.They've given me twenty or twenty four
-*NOR:	 (        ) 
-*CHR:	twenty tapes.I've done just over fifty percent of them so far.No.I've done about fifty percent I think.I've just put in tape ten so we're nearly half way there.There's no obligation to fill all the tapes.
-*NOR:	No and anyway it depends where you are    (        )  (.) dinner party   (        ) talking to you.It will be difficult   (        )  (.) 
-*CHR:	Yes.It's very strange approaching Petswood from this side isn't it?You either turn left to go to one side of Petswood or right to go to the other side of Petswood.It's a   (.) the railway provides quite a split.It's a full car in front.
-*NOR:	 (        ) 
-*CHR:	Mmm.Teenagers probably.Looking awfully big being rather young.
-*NOR:	Nice green   (        ) view.
-*CHR:	Good.
-*NOR:	I asked Suzannah what prompted her to go up to town tonight.But she hasn't gone up there for ages.She's   (        ) very low.She was going to Spain for a holiday she and her friend Tracy
-*CHR:	Erm
-*NOR:	and Tracy has cried off.
-*CHR:	Oh dear!
-*NOR:	So she's had summer holiday plans fallen through.She's feeling a bit 
+*NOR:	 (  ) When does this finish? 
+*CHR:	Tonight. I might carry on a bit tomorrow. Depending on how many few tapes whatever I've done. 
+*NOR:	How many   (  )  (.)  
+*CHR:	I don't think they've said that. They've given me twenty or twenty four 
+*NOR:	 (  ) 
+*CHR:	twenty tapes. I've done just over fifty percent of them so far. No. I've done about fifty percent I think. I've just put in tape ten so we're nearly half way there. There's no obligation to fill all the tapes. 
+*NOR:	No and anyway it depends where you are    (  )  (.) dinner party   (  ) talking to you. It will be difficult   (  )  (.)  
+*CHR:	Yes. It's very strange approaching Petswood from this side isn't it? You either turn left to go to one side of Petswood or right to go to the other side of Petswood. It's a   (.) the railway provides quite a split. It's a full car in front. 
+*NOR:	 (  ) 
+*CHR:	Mmm. Teenagers probably. Looking awfully big being rather young. 
+*NOR:	Nice green   (  ) view. 
+*CHR:	Good. 
+*NOR:	I asked Suzannah what prompted her to go up to town tonight. But she hasn't gone up there for ages. She's   (  ) very low. She was going to Spain for a holiday she and her friend Tracy 
+*CHR:	Erm 
+*NOR:	and Tracy has cried off. 
+*CHR:	Oh dear! 
+*NOR:	So she's had summer holiday plans fallen through. She's feeling a bit  
 @End

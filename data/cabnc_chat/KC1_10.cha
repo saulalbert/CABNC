@@ -1,29 +1,29 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-24:  
 @Location:	 at work 
-@Situation:	 repairing tv's 
-@Media: 021A-C0897X0408XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 repairing tv's  
+@Media:	021A-C0897X0408XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	FRA Frank self, STE Steve colleague
-@ID: eng|AudioBNC|FRA|~50;| |m|Ag4| |tv engineer||PS09E|
-@ID: eng|AudioBNC|STE|~44;| |m|Ag3| |salesman|colleague|PS09G|
+@Options:	CA
+@ID:	eng|AudioBNC|FRA|50;|||||tv engineer||PS09E|
+@ID:	eng|AudioBNC|STE|44;|||||salesman|colleague|PS09G|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0408XX-ABZZP0.wav
 @Comment:	conversation #10 (Tape 040803)
-*FRA:	Well that's the trouble on that one, alright?
-*STE:	Oh   (.) and you thought that the other one fitted did it?The other   (        ) 
-*FRA:	Yeah.
-*STE:	Oh.
-*FRA:	Yeah it's this little panel.
-*STE:	So we can put that in the duff one and   (        ) anyway then can't we?
-*FRA:	That's right.It's on that one erm   (.) it's off a text one actually I took this one off but er
-*STE:	Well that's alright.If we just get fifty or sixty back for the   (        ) 
-*FRA:	That's right.
-*STE:	we do fifty will tempt them, we'll lose a tenner but
-*FRA:	Yeah.
-*STE:	we'll get fifty to spend again, that's the important thing.
-*FRA:	Yeah, true.
+*FRA:	Well that's the trouble on that one, alright? 
+*STE:	Oh   (.) and you thought that the other one fitted did it? The other    (  )   
+*FRA:	 Yeah. 
+*STE:	Oh. 
+*FRA:	Yeah it's this little panel. 
+*STE:	So we can put that in the duff one and   (  ) anyway then can't we? 
+*FRA:	That's right. It's on that one erm   (.) it's off a text one actually I took this one off but er 
+*STE:	Well that's alright. If we just get fifty or sixty back for the    (  )   
+*FRA:	 That's right. 
+*STE:	we do  fifty will tempt them, we'll lose a tenner but 
+*FRA:	Yeah. 
+*STE:	we'll get fifty to spend again, that's the important thing. 
+*FRA:	Yeah, true. 
 @End

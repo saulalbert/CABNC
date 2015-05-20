@@ -1,49 +1,49 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-04:  
 @Location:	 Shops 
-@Situation:	Unspecified
-@Media: 021A-C0897X0143XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0143XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	GIN Ginny self, KEI Keith husband, DIN Dinda daughter
-@ID: eng|AudioBNC|GIN|~65;| |f|Ag5| |housewife||PS0CG|
-@ID: eng|AudioBNC|KEI|~63;| |m|Ag5| |design engineer|husband|PS0CH|
-@ID: eng|AudioBNC|DIN|~25;| |f|Ag2| |customs controller|daughter|PS0CJ|
+@Options:	CA
+@ID:	eng|AudioBNC|GIN|65;|||||housewife||PS0CG|
+@ID:	eng|AudioBNC|KEI|63;|||||design engineer|husband|PS0CH|
+@ID:	eng|AudioBNC|DIN|25;|||||customs controller|daughter|PS0CJ|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0143XX-AAZZP0.wav
 @Comment:	conversation #24 (Tape 014303)
-*GIN:	You feel it was worth the effort going do you Dinda?
-*DIN:	Mm.
-*GIN:	You feel more relaxed in your mind now?
-*DIN:	Well not that.It's just that you know it might do some good.
-*GIN:	Well you feel more confident with the   (.) Cos you, you have improved your posture.Well it must have been hurting you to make you do that.
-*DIN:	I'm just trying to improve my posture.I know my posture's  (        ) .
-*GIN:	You weren't huddling because of the   (.) trying to ease the pain a bit?
-*DIN:	No I was huddling because I'm lazy.
-*GIN:	Oh. (        )  (.) 
-*DIN:	Mm   (.) mm   (.) mm
-*KEI:	What's that  (        ) 
-*DIN:	I don't know.
-*KEI:	Was it nice?
-*DIN:	No, it wasn't spicy it was just so tasty
-*GIN:	 (        ) almonds.There's everything in this pie, there's almonds 
-*DIN:	You could put you could put courgettes in.I love courgette.
-*GIN:	Yeah?Well I had to have something to perk it up and   (.) vegetables are getting a bit iffy at this time of year.
-*DIN:	I think courgettes are wonderful.
-*GIN:	I could have courgette and   (.) and aubergine.
-*DIN:	Mm.
-*GIN:	There's celery and onion and leek. (.) And nuts. (.) There's more out there in the kitchen.
-*DIN:	Mm. (.) 
-*GIN:	Go and get half of it. (.) I like it better with not so much ginger I think.
-*DIN:	Yeah.
-*KEI:	You what?
-*GIN:	I like it better with not quite so much ginger as last week.Cos I remembered the 
-*DIN:	I asked her to slack off on the ginger a bit 
-*GIN:	the garlic. (.) 
-*KEI:	 (        ) the number of people that are trying to get towards this sort of diet that I'm on.
-*GIN:	Really?
-*KEI:	Well, national thing last night.
-*GIN:	Yes   (.) yes. (.) It's a good thing.Perhaps the shops'll make it easier for us now.More stuff available.
+*GIN:	You feel it was worth the effort going do you Dinda? 
+*DIN:	Mm. 
+*GIN:	You feel more relaxed in your mind now? 
+*DIN:	Well not that. It's just that you know it might do some good. 
+*GIN:	Well you feel more confident with the   (.) Cos you, you have improved your posture. Well it must have been hurting you to make you do that. 
+*DIN:	I'm just trying to improve my posture. I know my posture's  (  ) . 
+*GIN:	You weren't huddling because of the   (.) trying to ease the pain a bit? 
+*DIN:	No I was huddling because I'm lazy. 
+*GIN:	Oh. (  )  (.)  
+*DIN:	Mm   (.) mm   (.) mm 
+*KEI:	What's that  (  )  
+*DIN:	I don't know. 
+*KEI:	Was it nice? 
+*DIN:	No, it wasn't spicy it was just so tasty 
+*GIN:	 (  ) almonds. There's everything in this pie, there's almonds   
+*DIN:	 You could put  you could put courgettes in. I love courgette. 
+*GIN:	Yeah? Well I had to have something to perk it up and   (.) vegetables are getting a bit iffy at this time of year. 
+*DIN:	I think courgettes are wonderful. 
+*GIN:	I could have courgette and   (.) and aubergine. 
+*DIN:	Mm. 
+*GIN:	There's celery and onion and leek.  (.) And nuts.  (.) There's more out there in the kitchen. 
+*DIN:	Mm. (.)  
+*GIN:	Go and get half of it.  (10.0) I like it better with not so much ginger I think. 
+*DIN:	 Yeah. 
+*KEI:	 You what? 
+*GIN:	I like it better with not quite so much ginger as last week.  Cos I remembered the   
+*DIN:	 I asked her to slack off on the ginger a bit  
+*GIN:	the garlic. (10.0)  
+*KEI:	 (  ) the number of people that are trying to get towards this sort of diet that I'm on. 
+*GIN:	Really? 
+*KEI:	Well, national thing last night. 
+*GIN:	Yes   (.) yes.  (.) It's a good thing. Perhaps the shops'll make it easier for us now. More stuff available. 
 @End

@@ -1,25 +1,25 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-29:  
 @Location:	 car 
-@Situation:	Unspecified
-@Media: 021A-C0897X0155XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0155XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BRE Brenda self, LEE Lee son
-@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
-@ID: eng|AudioBNC|LEE|~15;| |m|Ag1| |student (state secondary)|son|PS04W|
+@Options:	CA
+@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
+@ID:	eng|AudioBNC|LEE|15;|||||student (state secondary)|son|PS04W|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0155XX-AAZZP0.wav
 @Comment:	conversation #55 (Tape 015505)
-*BRE:	God that tape can't have finished.
-*LEE:	Hm.   (.) turn itself off actually.It's being blooming awkward. (.) 
-*BRE:	It's like being  (        ) 
-*LEE:	 (        )  (.)  (        ) 
-*BRE:	It's so hot in my head. (.) 
-*LEE:	It certainly was very hot in that house. (.) 
-*BRE:	These shops never change in here do they?
-*LEE:	No.
-*BRE:	For years   (        ) I bet that mind you it looks quite a newish one that one and son. (.) Chinese hot  (        ) 
+*BRE:	God that tape can't have finished. 
+*LEE:	Hm.   (.) turn itself off actually. It's being blooming awkward. (8.0)  
+*BRE:	It's like being  (  )  
+*LEE:	 (  )  (10.0)  (  ) 
+*BRE:	It's so hot in my head. (10.0)  
+*LEE:	It certainly was very hot in that house. (9.0)  
+*BRE:	These shops never change in here do they? 
+*LEE:	No. 
+*BRE:	For years   (  ) I bet that mind you it looks quite a newish one that one and son.  (9.0) Chinese hot  (  )  
 @End

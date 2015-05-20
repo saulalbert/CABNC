@@ -1,48 +1,48 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-06:  
 @Location:	  nightclub  
-@Situation:	  at work  
-@Media: 021A-C0897X0643XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  at work   
+@Media:	021A-C0897X0643XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BAR Barry self, HUG Hugh employee
-@ID: eng|AudioBNC|BAR|~41;| |m|Ag3| |entertainments consultant||PS03W|
-@ID: eng|AudioBNC|HUG|~30;| |m|Ag2| |bar staff|employee|PS03Y|
+@Options:	CA
+@ID:	eng|AudioBNC|BAR|41;|||||entertainments consultant||PS03W|
+@ID:	eng|AudioBNC|HUG|30;|||||bar staff|employee|PS03Y|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0643XX-ABZZP0.wav
 @Comment:	conversation #22 (Tape 064303)
-*BAR:	Great!What is it?
-*HUG:	It's an old ribbon.
-*BAR:	I know.What's on it?
-*HUG:	I'll have a look. (        )  (.) Brewing up, yeah, no?
-*BAR:	What?
-*HUG:	Brewing up, no?
-*BAR:	No.The erm   (.) you know that bottle of bleach in the cellar   (.) was it bleach?
-*HUG:	Yeah.
-*BAR:	Didn't smell very strong   (.) the top's been off it.
-*HUG:	The top's been, yeah.
-*BAR:	I just brought it up with some er, just in case cos we don't, we don't really wanna use that for like these.
-*HUG:	Not really.
-*BAR:	Er   (.) I've taken   (.) all the rubbish down except for that long box in 
-*HUG:	Do we wanna get any more of the empty cases out today?
-*BAR:	Yeah. (.) About forty quid's worth of empty cases.
-*HUG:	Cor!It's amazing what they're doing with them.
-*BAR:	Yeah.I know. (.) Have you been to put a bet on?
-*HUG:	Yeah.How did you know?
-*BAR:	I guessed.
-*HUG:	 (        ) 
-*BAR:	 ((laugh))  (.) What on one race or
-*HUG:	Mm.Just the one. (.) What time are they coming at?
-*BAR:	Well they said about, what?Who?Elliel?
-*HUG:	Elliel, yeah.
-*BAR:	Half past three.
-*HUG:	Has Jean got to be here?
-*BAR:	Yeah. (.) She said sh sh sh  (.) she said she'd be here about half two.She's been to a funeral    (.)  (        ) 
-*HUG:	Who's dead?
-*BAR:	I don't know.Some, somebody on the County Council. (.) He's probably been dead for about two years, they haven't noticed!
+*BAR:	Great! What is it? 
+*HUG:	It's an old ribbon. 
+*BAR:	I know. What's on it? 
+*HUG:	I'll have a look.  (  )  (34.0) Brewing up, yeah, no? 
+*BAR:	What? 
+*HUG:	Brewing up, no? 
+*BAR:	 No.  The erm   (.) you know that bottle of bleach in the cellar   (.) was it bleach? 
+*HUG:	Yeah. 
+*BAR:	Didn't smell very strong   (.) the top's been off it. 
+*HUG:	The top's been, yeah. 
+*BAR:	I just brought it up with some er, just in case cos we don't, we don't really wanna use that for like these. 
+*HUG:	Not really. 
+*BAR:	Er   (.) I've taken   (.) all the rubbish down except for that long  box in   
+*HUG:	 Do we wanna  get any more of the empty cases out today? 
+*BAR:	Yeah.  (7.0) About forty quid's worth of empty cases. 
+*HUG:	Cor! It's amazing what they're doing with them. 
+*BAR:	Yeah. I know.  (25.0) Have you been to put a bet on? 
+*HUG:	Yeah. How did you know? 
+*BAR:	I guessed. 
+*HUG:	 (  ) 
+*BAR:	 ((laugh))  (12.0) What on one race or 
+*HUG:	Mm. Just the one.  (15.0) What time are they coming at? 
+*BAR:	Well they said about, what? Who?  Elliel? 
+*HUG:	 Elliel, yeah. 
+*BAR:	Half past three. 
+*HUG:	Has Jean got to be here? 
+*BAR:	Yeah.  (7.0) She said sh  sh  sh   (.) she said she'd be here about half two. She's been to a funeral    (.)   (  )   
+*HUG:	 Who's dead? 
+*BAR:	I don't know. Some, somebody on the County Council.  (9.0) He's probably been dead for about two years, they haven't noticed! 
 *HUG:	 ((laugh)) 
-*BAR:	In that case, if this Thursday ge get anything like the other Thursdays we've got enough to last.
-*HUG:	 ((laugh))  (.) Is there a book for that like?
+*BAR:	In that case, if this Thursday ge  get anything like the other Thursdays we've got enough to last. 
+*HUG:	 ((laugh))  (7.0) Is there a book for that like? 
 @End

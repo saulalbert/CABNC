@@ -1,34 +1,34 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-04-02:  
 @Location:	 at home 
-@Situation:	 sitting down on a sofa 
-@Media: 021A-C0897X0723XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 sitting down on a sofa  
+@Media:	021A-C0897X0723XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, RHI Rhiannon girlfriend
-@ID: eng|AudioBNC|CHR|~15;| |m|Ag1| |student||PS1BL|
-@ID: eng|AudioBNC|RHI|~16;| |f|Ag1| |student|girlfriend|PS6P6|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|15;|||||student||PS1BL|
+@ID:	eng|AudioBNC|RHI|16;|||||student|girlfriend|PS6P6|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0723XX-AAZZP0.wav
 @Comment:	conversation #6 (Tape 072306)
-*CHR:	Who brought it up?
-*RHI:	You did.Did! ((clears throat))  (.) How much tape have you used up?
-*CHR:	About half of one side.
-*RHI:	I don't like tapes.
-*CHR:	I've got twenty tapes.But I don't have to fill them all.
-*RHI:	How many do you have to fill?
-*CHR:	As many as I can. (.) Summat like that.
-*RHI:	How many have you filled already?
-*CHR:	None.
-*RHI:	Can I listen to the   (.) the bit that you've done?
-*CHR:	Er er   (.) well you can when I've finished this side.
-*RHI:	Oh well   (        ) 
-*CHR:	But it's dead boring.I dunno 
-*RHI:	 (        ) 
-*CHR:	I haven't actually listened to it.Well go and turn the headphones off.
-*RHI:	It's attacking me.They're crap cos  (        ) .And so I have done something from a plane. ((clears throat))  (.) Cos my dad made mine.And they never gave them back.
-*CHR:	Oh dear.
+*CHR:	Who brought it up? 
+*RHI:	You did. Did!  ((clears throat))  (7.0) How much tape have you used up? 
+*CHR:	About half of one side. 
+*RHI:	I don't like  tapes. 
+*CHR:	 I've  got twenty tapes. But I don't have to fill them all. 
+*RHI:	How many do you have to fill? 
+*CHR:	As many as I can.  (6.0) Summat like that. 
+*RHI:	How many have you filled already? 
+*CHR:	None. 
+*RHI:	Can I listen to the   (.) the bit that you've done? 
+*CHR:	Er er   (.) well you can when I've finished this side. 
+*RHI:	Oh well    (  )   
+*CHR:	 But it's  dead boring.  I dunno   
+*RHI:	  (  )  
+*CHR:	I haven't actually listened to it. Well go and turn the headphones off. 
+*RHI:	It's attacking me. They're crap cos  (  ) . And so I have done something from a plane.  ((clears throat))  (.) Cos my dad made mine. And they never gave them back. 
+*CHR:	Oh dear. 
 *RHI:	 ((cough)) 
 @End

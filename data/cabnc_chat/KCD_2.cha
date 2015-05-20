@@ -1,379 +1,379 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 shopping 
-@Situation:	Unspecified
-@Media: 021A-C0897X0047XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0047XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter, UNK Unknown Unknown None ?
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
-@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
-@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS1KL|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
+@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS1KL|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0047XX-AAZZP0.wav
 @Comment:	conversation #2 (Tape 004702)
-*UNK:	I wasn't really expecting to go into Jenny's.
-*CLA:	No   (.) I suppose she felt pretty awful about not inviting Amy to the party.
-*HEL:	Yes.She might do.
-*AMY:	Pardon?
-*HEL:	I don't think she expected a present  (.) 
-*CLA:	Why why didn't she?
-*HEL:	Well I think that Amy didn't go to Lucy's party I think
-*AMY:	Pardon?
-*HEL:	I think if you didn't go to Lucy's party I don't think.Jenny was expecting a present.From what's come in.She looked a bit surprised didn't she?
-*CLA:	Yes hmm
-*HEL:	You know   (.) she'd rather do Chimneys or something tomorrow than London Zoo.
-*AMY:	Pardon?
-*HEL:	We rather go to Chimney's tomorrow than to London Zoo.
-*CLA:	Oh.I was asking.
-*HEL:	Would you?
-*CLA:	Probably.
-*AMY:	Yeah. (        ) to London Zoo.
-*HEL:	Don't you like London Zoo particularly?
-*AMY:	I don't   (.) Clare doesn't really like going round all the creatures do you?
-*CLA:	What?
-*AMY:	Would you like go  (        ) .
-*CLA:	Might not be right.I would quite like to go to Chimneys actually.It's not too far aways.
-*HEL:	No it's easier.But it's easier if you got tact.
-*CLA:	Why  (        ) 
-*HEL:	It's easier if you've got tact tomorrow
-*CLA:	Mm   (.) Why?
-*HEL:	Well   (.) because tac doesn't finish till till half past twelve.
-*CLA:	Don't you   (        ) got one of those  (        ) 
-*HEL:	Don't know how they've decided whose has got one.
-*AMY:	Decide what?
-*CLA:	Could be just our way.
-*HEL:	I don't know how they decided who's got one  (.) 
-*CLA:	Do you think it's worth twenty five pounds?
-*HEL:	 ((laugh)) That must be it  (.) 
-*CLA:	You can't get too many people doing it unless Marks and Spencers   (        ) free.
-*HEL:	I don't think Marks and Spencers will give them free.
-*CLA:	Twenty five pounds? (.) 
-*HEL:	Did you like Amy's   (.) suit?
-*AMY:	Not very much but I  (        ) 
-*CLA:	Do you know what you can wear underneath it?
-*HEL:	I think you're supposed to wear a T-shirt.
-*CLA:	It's a bit cold.
-*HEL:	Hmm. (.) 
-*AMY:	I was just reading that.
-*CLA:	Peter.
-*NON:	Huh?
-*HEL:	Who did Eve have on her plate   (.) Amy?
-*AMY:	Mrs Tiggywickle.
-*HEL:	Who did Eve have on her plate?
-*CLA:	Plate?Mrs Tiggywinkle.
-*HEL:	Mrs Tiggywinkle did she?
-*AMY:	I was telling her what it said.
-*HEL:	You haven't done any
-*AMY:	Pardon?
-*HEL:	You haven't done any reading have you? (.) You'd better read a chapter before we go out this afternoon.
-*AMY:	He's got a musical test which says don't they're tired they're tired and then he said the pig says I'm not   ((laugh)) and then the people said Oh dear and then he said I'm hungry and then they said they're hungry and he says I'm not and he's sleepy  ((laugh)) .I don't like   (        ) story. ((cough)) She read that to me. ((cough)) It was quite easy um I read it again to her  (.) .It was quite a good reason really.
-*HEL:	Well I think Jenny's um sort of 
-*AMY:	We've never had hardly seen it before because I haven't lawn in that book before have I?
-*HEL:	You haven't had what?
-*AMY:	Lawn.
-*HEL:	Ah. (.) The word you mean?
-*AMY:	Yes.
-*HEL:	Ah.Perhaps not.
-*AMY:	Pardon?Oh is that in her book?
-*HEL:	You could read it could you?
-*AMY:	Mm.But if I just she said lawn so I knew what it said.
+*UNK:	I wasn't really expecting to go into Jenny's. 
+*CLA:	No   (10.0) I suppose she felt pretty awful about not inviting Amy to the party. 
+*HEL:	Yes. She might do. 
+*AMY:	Pardon? 
+*HEL:	I don't think she expected a present  (14.0)  
+*CLA:	Why why didn't she? 
+*HEL:	Well I think that Amy didn't go to Lucy's party I think 
+*AMY:	Pardon? 
+*HEL:	I think if you didn't go to Lucy's party I don't think. Jenny was expecting a present. From what's come in. She looked a bit surprised didn't she? 
+*CLA:	Yes hmm 
+*HEL:	You know   (30.0) she'd rather do Chimneys or something tomorrow than London Zoo. 
+*AMY:	Pardon? 
+*HEL:	We rather go to Chimney's tomorrow than to London Zoo. 
+*CLA:	Oh. I was asking. 
+*HEL:	Would you? 
+*CLA:	Probably. 
+*AMY:	Yeah.  (  ) to London Zoo. 
+*HEL:	Don't you like London Zoo particularly? 
+*AMY:	I don't   (.) Clare doesn't really like going round all the creatures do you? 
+*CLA:	What? 
+*AMY:	Would you like go  (  ) . 
+*CLA:	Might not be right. I would quite like to go to Chimneys actually. It's not too far aways. 
+*HEL:	No it's easier. But it's easier if you got tact. 
+*CLA:	Why  (  )  
+*HEL:	It's easier if you've got tact tomorrow 
+*CLA:	Mm   (.) Why? 
+*HEL:	Well   (.) because tac doesn't finish till till half past twelve. 
+*CLA:	Don't you   (  ) got one of those  (  )  
+*HEL:	Don't know how they've decided whose has got one. 
+*AMY:	Decide what? 
+*CLA:	Could be just our way. 
+*HEL:	I don't know how they decided who's got one  (.)  
+*CLA:	Do you think it's worth twenty five pounds? 
+*HEL:	 ((laugh)) That must be it  (14.0)  
+*CLA:	You can't get too many people doing it unless Marks and Spencers   (  ) free. 
+*HEL:	I don't think Marks and Spencers will give them free. 
+*CLA:	Twenty five pounds? (6.0)  
+*HEL:	Did you like Amy's   (.) suit? 
+*AMY:	Not very much but I  (  )  
+*CLA:	Do you know what you can wear underneath it? 
+*HEL:	I think you're supposed to wear a T-shirt. 
+*CLA:	It's a bit cold. 
+*HEL:	Hmm. (30.0)  
+*AMY:	I was just reading that. 
+*CLA:	Peter. 
+*NON:	Huh? 
+*HEL:	Who did Eve have on her plate   (.) Amy? 
+*AMY:	Mrs Tiggywickle. 
+*HEL:	Who did Eve have on her plate? 
+*CLA:	Plate? Mrs Tiggywinkle. 
+*HEL:	Mrs Tiggywinkle did she? 
+*AMY:	I was telling her what it said. 
+*HEL:	You haven't done any 
+*AMY:	Pardon? 
+*HEL:	You haven't done any reading have you?  (.) You'd better read a chapter before we go out this afternoon. 
+*AMY:	He's got a musical test which says don't they're tired they're tired and then he said the pig says I'm not   ((laugh)) and then the people said Oh dear and then he said I'm hungry and then they said they're hungry and he says I'm not and he's sleepy  ((laugh)) . I don't like   (  ) story.  ((cough)) She read that to me.  ((cough)) It was quite easy um I read it again to her  (20.0) . It was quite a good reason really. 
+*HEL:	Well I think Jenny's um  sort of  
+*AMY:	 We've never had  hardly seen it before because I haven't lawn in that book before have I? 
+*HEL:	You haven't had what? 
+*AMY:	Lawn. 
+*HEL:	Ah.  (.) The word you mean? 
+*AMY:	Yes. 
+*HEL:	Ah. Perhaps not. 
+*AMY:	Pardon? Oh is that in her book? 
+*HEL:	You could read it could you? 
+*AMY:	Mm. But if I just she said lawn so I knew what it said. 
 *HEL:	 ((laugh)) 
-*AMY:	But she made it first than me. (.) I've been through quite a lot.
-*HEL:	Mm.Yes you're doing quite well
-*AMY:	I've got two  (        ) 
-*CLA:	Said long words like that kept using very long words.Like I shall excavate this house.
-*HEL:	 ((laugh)) I hope not.
-*CLA:	 (        ) you aught to use long words.
-*HEL:	That's probably what they want to know.Which words you do use.
-*CLA:	Can't remember  (        ) 
-*HEL:	In conversation. (.) 
-*AMY:	You going to take it to Jenny's with you tomorrow?
-*HEL:	I suppose so.I suppose we'd better take it wherever we go.
-*AMY:	Yeah you can just   (        ) about it  (        ) .
-*HEL:	They can hear what you're saying now.
-*AMY:	Yes I can hear everyone.
-*HEL:	It only picks
-*CLA:	Hello! (.) 
-*HEL:	Stop it.
-*CLA:	 (        ) 
-*HEL:	No.Stop it.Not, well just behave.You shouldn't have done.Doesn't make it any better if you messed about   (.) it picked up what I said but it didn't pick up very well what Jenny said.
-*CLA:	Yep.But what I said.
-*HEL:	Don't know.I didn't listen listen to
-*AMY:	A bit better
-*HEL:	I think it takes you forty five minutes to listen to it all back again.
-*CLA:	Yeah. (.) 
-*AMY:	Is Jenny quite happy at the moment she's going to  (        ) 
-*HEL:	I don't think she's much choice has she?
-*AMY:	She hasn't got much of a choice for what?
-*HEL:	Where Amy's going or you've got to go there and you   (.) think of the positive    (        )  (.) When's their they've had their open day or is there another one?
-*CLA:	Don't know.
-*CLA:	Thank you. (.) Don't know quite what that was. (.) 
-*HEL:	I should think that was  (        ) 
-*CLA:	What?
-*HEL:	I should think they'll have another one nearer the end of term.
-*CLA:	Oh yes. (.) 
-*AMY:	 (        ) people.She only has other people to her house.
-*HEL:	Well she only had a small party didn't she?
-*CLA:	Yes she's only got that small house.It's tiny  (.) 
-*AMY:	Oh Amy you don't even like them.
-*CLA:	I am only looking at them.
-*HEL:	Come on eat up we want to get out.
-*CLA:	Quarter past two
-*AMY:	Not no nasty day.What does that say?
-*HEL:	No it's not a nasty day.It's a better day.
-*CLA:	No what that says?
-*HEL:	Oh those are those turtles.
-*AMY:	Pardon?
-*HEL:	Nintendo.
-*CLA:	Oh I thought it said no 
-*AMY:	No there not there the turtles.
-*HEL:	Are they?
-*CLA:	Yes.
-*HEL:	What's Nintendo?
-*AMY:	It's a super mummy  (        ) .Nintendo is like a pocket computer.
-*HEL:	Oh is it?
-*CLA:	Huh.You know better than those um ones that   (        ) has got you know?They cost seventy pounds.
-*HEL:	Lucy's had her er
-*AMY:	What's that say?
-*HEL:	 (        ) car.Sony.That's who makes it.
-*AMY:	Well   (        ) he's got one like that.
-*HEL:	Hmm.
-*AMY:	Red.
-*HEL:	Hmm.
-*CLA:	Not the colour I would have chosen.I think I would have chosen black.
-*HEL:	Would you?
-*AMY:	Hmm.
-*HEL:	Mm.
-*AMY:	Out of the other ones   (.) white if there was   (.) I would have chosen white.
-*CLA:	I would have chosen red.
-*HEL:	Don't you like red?
-*AMY:	No not much. (.) I like yellow that's my second favourite colour.Nice bright colour. (.) my favourite's that
-*CLA:	That's a lovely pink isn't it? (        ) 
-*HEL:	Mm.
-*CLA:	I like that pink   (.) I like peach as well 
-*AMY:	That's a nice colour   (.) Everyone's got a favourite colour   (.) I wonder what daddy's is.
-*HEL:	Don't know really.
-*AMY:	Might be black.Ask him. (.) 
-*CLA:	Mummy that's like an  (        ) 
-*HEL:	Yes not with your mouth full  (        ) 
-*CLA:	 (        )  (.) 
-*AMY:	Can I have another cutlet?
-*HEL:	That's your third.
-*AMY:	I know. (        ) 
-*HEL:	So you'd like a film for your camera.
-*AMY:	Yes please.
-*HEL:	I should think that Mr Staton would put it in for you wouldn't he?
-*AMY:	Yeah.
-*HEL:	Um
-*AMY:	There's a competition for the best photograph
-*HEL:	Oh well you'd better take your camera then.Amy you can have that other little one if you like.Would you like that for your holiday?
-*CLA:	Yes please.I'd like it now for my  (        ) .
-*HEL:	Hmm you may have that one.
-*CLA:	Pardon?
-*HEL:	You may have that one.
-*CLA:	Pardon?
-*HEL:	You can have that one.
-*AMY:	Are we having a boat rip around the needles?
-*HEL:	Hmm.
-*AMY:	I might take one of the needles.
-*HEL:	Well take a few photographs.
-*AMY:	Yes
-*HEL:	I mean don't forget.You're usually hopeless
-*AMY:	All right.I'll put it in my back pack.
-*HEL:	And take a photograph of everybody   (.) as you set off.Mr Staton always takes a group one so if you say just a minute I'd like one too. (.) 
-*AMY:	I'll get pictures of Mrs.  just about to fall in the sea or something   ((laugh))  (.) 
-*CLA:	Just about what?
-*AMY:	And then Mr Staton asleep on the lake or something
-*HEL:	 ((laugh)) You'd be lucky to find one of Mr Statton asleep
+*AMY:	But she made it first than me.  (.) I've been through quite a lot. 
+*HEL:	Mm. Yes you're doing quite well 
+*AMY:	I've got two  (  )  
+*CLA:	Said long words like that kept using very long words. Like I shall excavate this house. 
+*HEL:	 ((laugh)) I hope not. 
+*CLA:	 (  ) you aught to use long words. 
+*HEL:	That's probably what they want to know. Which words you do use. 
+*CLA:	Can't remember  (  )  
+*HEL:	In conversation. (12.0)  
+*AMY:	You going to take it to Jenny's with you tomorrow? 
+*HEL:	I suppose so. I suppose we'd better take it wherever we go. 
+*AMY:	Yeah you can just   (  ) about it  (  ) . 
+*HEL:	They can hear what you're saying now. 
+*AMY:	Yes I can hear everyone. 
+*HEL:	It only picks 
+*CLA:	Hello! (.)  
+*HEL:	Stop it. 
+*CLA:	 (  ) 
+*HEL:	No. Stop it. Not, well just behave. You shouldn't have done. Doesn't make it any better if you messed about   (.) it picked up what I said but it didn't pick up very well what Jenny said. 
+*CLA:	Yep. But what I said. 
+*HEL:	Don't know. I didn't listen listen to 
+*AMY:	A bit better 
+*HEL:	I think it takes you forty five minutes to listen to it all back again. 
+*CLA:	Yeah. (25.0)  
+*AMY:	Is Jenny quite happy at the moment she's going to  (  )  
+*HEL:	I don't think she's much choice has she? 
+*AMY:	She hasn't got much of a choice for what? 
+*HEL:	Where Amy's going or you've got to go there and you   (.) think of the positive    (  )  (.) When's their they've had their open day or is there another one? 
+*CLA:	Don't know. 
+*CLA:	Thank you.  (.) Don't know quite what that was. (7.0)  
+*HEL:	I should think that was  (  )  
+*CLA:	What? 
+*HEL:	I should think they'll have another one nearer the end of term. 
+*CLA:	Oh yes. (30.0)  
+*AMY:	 (  ) people. She only has other people to her house. 
+*HEL:	Well she only had a small party didn't she? 
+*CLA:	Yes she's only got that small house. It's tiny  (20.0)  
+*AMY:	Oh Amy you don't even like them. 
+*CLA:	I am only looking at them. 
+*HEL:	Come on eat up we want to get out. 
+*CLA:	Quarter past two 
+*AMY:	Not no nasty day. What does that say? 
+*HEL:	No it's not a nasty day. It's a better day. 
+*CLA:	No what that says? 
+*HEL:	Oh those are those turtles. 
+*AMY:	Pardon? 
+*HEL:	Nintendo. 
+*CLA:	Oh  I thought it said no   
+*AMY:	 No there not  there the turtles. 
+*HEL:	Are they? 
+*CLA:	Yes. 
+*HEL:	What's Nintendo? 
+*AMY:	It's a super mummy  (  ) . Nintendo is like a pocket computer. 
+*HEL:	Oh is it? 
+*CLA:	Huh. You know better than those um ones that   (  ) has got you know? They cost seventy pounds. 
+*HEL:	Lucy's had her er 
+*AMY:	What's that say? 
+*HEL:	 (  ) car. Sony. That's who makes it. 
+*AMY:	Well   (  ) he's got one like that. 
+*HEL:	Hmm. 
+*AMY:	Red. 
+*HEL:	Hmm. 
+*CLA:	Not the colour I would have chosen. I think I would have chosen black. 
+*HEL:	Would you? 
+*AMY:	Hmm. 
+*HEL:	Mm. 
+*AMY:	Out of the other ones   (.) white if there was   (.) I would have chosen white. 
+*CLA:	I would have chosen red. 
+*HEL:	Don't you like red? 
+*AMY:	No not much.  (.) I like yellow that's my second favourite colour. Nice bright colour.  (.) my favourite's that 
+*CLA:	That's a lovely pink isn't it? (  )  
+*HEL:	Mm. 
+*CLA:	I like that pink   (.) I like peach as well  
+*AMY:	That's a nice colour   (.) Everyone's got a favourite colour   (.) I wonder what daddy's is. 
+*HEL:	Don't know really. 
+*AMY:	Might be black. Ask him. (20.0)  
+*CLA:	Mummy that's like an  (  )  
+*HEL:	Yes not with your mouth full  (  )  
+*CLA:	 (  )  (30.0) 
+*AMY:	Can I have another cutlet? 
+*HEL:	That's your third. 
+*AMY:	I know. (  )  
+*HEL:	So you'd like a film for your camera. 
+*AMY:	Yes please. 
+*HEL:	I should think that Mr Staton would put it in for you wouldn't he? 
+*AMY:	Yeah. 
+*HEL:	Um 
+*AMY:	There's a competition for the best photograph 
+*HEL:	Oh well you'd better take your camera then. Amy you can have that other little one if you like. Would you like that for your holiday? 
+*CLA:	Yes please. I'd like it now for my  (  ) . 
+*HEL:	Hmm you may have that one. 
+*CLA:	Pardon? 
+*HEL:	You may have that one. 
+*CLA:	Pardon? 
+*HEL:	You can have that one. 
+*AMY:	Are we having a boat rip around the needles? 
+*HEL:	Hmm. 
+*AMY:	I might take one of the needles. 
+*HEL:	Well take a few photographs. 
+*AMY:	Yes 
+*HEL:	I mean don't forget. You're usually hopeless 
+*AMY:	All right. I'll put it in my back pack. 
+*HEL:	And take a photograph of everybody   (.) as you set off. Mr Staton always takes a group one so if you say just a minute I'd like one too. (.)  
+*AMY:	I'll get pictures of Mrs.   just about to fall in the sea or something   ((laugh))  (.)  
+*CLA:	Just about what? 
+*AMY:	And then Mr Staton asleep on the lake or something 
+*HEL:	 ((laugh)) You'd be lucky to find one of Mr Statton asleep 
 *CLA:	 ((cough))  ((laugh)) 
-*HEL:	I don't think he's going to go to sleep while he's in charge of thirty of you.
-*CLA:	Then   (        ) here you are just  (        ) 
-*AMY:	Is he in charge?
-*HEL:	He's in charge, yes.He's Head Master.
-*AMY:	What comes if someone's ill? (.) I suppose there are bound to be a couple of people. (.) 
-*HEL:	I don't know. (.) Maybe if you really are they'll send you home.
-*AMY:	On your own?
-*HEL:	No.One of the staff would have to come with you.Not that   (        ) one of the   (.) that couple.
-*AMY:	Yeah
-*HEL:	You can't ring the doctors on the Isle of White. (.) 
-*AMY:	Oh if you have been really ill  (        ) 
-*HEL:	I should think the one's whose most vulnerable is Clare Montgomery.She's just had her operation. (.) 
-*AMY:	I'm surprised she's still going on it so soon after.She gets a cough.If by any chance she catches it off me she's going to have a really sore throat isn't she?
-*HEL:	I think she wants to go.I don't think anybody wants to be left behind. (.) 
-*CLA:	 (        ) take more crisps.
-*HEL:	No I think you've had enough.
-*CLA:	Oh I've only had a few.I didn't have many did I?
-*HEL:	No.Don't know really. (.) 
-*AMY:	I'm quite looking forward to it.You know er you get your packet money each day and you can buy things.But I'm not over keen on nuts.
-*HEL:	Good fun .I think if Mr. Statton says you'll be so tired   (.) would you like to go and get your reading book and get a hanky and  (        ) 
-*AMY:	You get prizes afterwards so that er one had the best kept room and another one
-*CLA:	Can you get a hanky?
-*HEL:	Where have you come?
-*AMY:	About five are the best people to live with.
-*HEL:	 ((laugh)) You might get one from happiest.
-*AMY:	Happiest me?If I wake up with ear ache that's
-*CLA:	There isn't any?
-*HEL:	Aren't there?
-*CLA:	No.
-*HEL:	Is the box not in there or is the box empty?
-*CLA:	The box is empty.
-*HEL:	Is it? (.) Hmm hmm.I'd better get another box.I'd better get some from Boots then I think.
-*AMY:	Yes because I've run out.
-*CLA:	 (        ) 
-*HEL:	Well you read a bit to Clare while I go and get the
-*CLA:	 (        ) next.Next morning on the shore  was so happy that he wanted to jump.All right come along Lindy he shouted.Let's explore.I'll race you to the stone   (.) wall
-*AMY:	 (        ) 
-*CLA:	To the stone wall by run as fast as I could    (.)  (        ) one one but Lindy did not mind.Your legs are longer she said are you argon
-*AMY:	Aught
-*CLA:	Aught to win.Let's explore either the water said Bill.At first Lindy did not want to go over the wall.There might be wild animals on the other side
-*HEL:	Right let's
-*CLA:	she said.
-*HEL:	Come on then here's a hanky.
-*CLA:	I'm not afraid said Bill Boyd.I'm not afraid of anything
+*HEL:	I don't think he's going to go to sleep while he's in charge of thirty of you. 
+*CLA:	Then   (  ) here you are just  (  )  
+*AMY:	Is he in charge? 
+*HEL:	He's in charge, yes. He's Head Master. 
+*AMY:	What comes if someone's ill?  (.) I suppose there are bound to be a couple of people. (.)  
+*HEL:	I don't know.  (.) Maybe if you really are they'll send you home. 
+*AMY:	On your own? 
+*HEL:	No. One of the staff would have to come with you. Not that   (  ) one of the   (.) that couple. 
+*AMY:	Yeah 
+*HEL:	You can't ring the doctors on the Isle of White. (.)  
+*AMY:	Oh if you have been really ill  (  )  
+*HEL:	I should think the one's whose most vulnerable is Clare Montgomery. She's just had her operation. (.)  
+*AMY:	I'm surprised she's still going on it so soon after. She gets a cough. If by any chance she catches it off me she's going to have a really sore throat isn't she? 
+*HEL:	I think she wants to go. I don't think anybody wants to be left behind. (.)  
+*CLA:	 (  ) take more crisps. 
+*HEL:	No I think you've had enough. 
+*CLA:	Oh I've only had a few. I didn't have many did I? 
+*HEL:	No. Don't know really. (10.0)  
+*AMY:	I'm quite looking forward to it. You know er you get your packet money each day and you can buy things. But I'm not  over keen  on nuts. 
+*HEL:	 Good fun  . I think if Mr. Statton says you'll be so tired   (.) would you like to go and get your reading book and get a hanky and  (  )  
+*AMY:	You get prizes afterwards so that er one had the best kept room and another one 
+*CLA:	Can you get a hanky? 
+*HEL:	Where have you come? 
+*AMY:	About five are the best people to live with. 
+*HEL:	 ((laugh)) You might get one from happiest. 
+*AMY:	Happiest me? If I wake up with ear ache that's 
+*CLA:	There isn't any? 
+*HEL:	Aren't there? 
+*CLA:	No. 
+*HEL:	Is the box not in there or is the box empty? 
+*CLA:	The box is empty. 
+*HEL:	Is it?  (.) Hmm hmm. I'd better get another box. I'd better get some from Boots then I think. 
+*AMY:	Yes because I've run out. 
+*CLA:	 (  ) 
+*HEL:	Well you read a bit to Clare while I go and get the 
+*CLA:	 (  ) next. Next morning on the shore   was so happy that he wanted to jump. All right come along Lindy he shouted. Let's explore. I'll race you to the stone   (.) wall 
+*AMY:	 (  ) 
+*CLA:	To the stone wall by run as fast as I could    (.)  (  ) one one but Lindy did not mind. Your legs are longer she said are you argon 
+*AMY:	Aught 
+*CLA:	Aught to win. Let's explore either the water said Bill. At first Lindy did not want to go over the wall. There might be wild animals on the other side 
+*HEL:	Right let's 
+*CLA:	she said. 
+*HEL:	Come on then here's a hanky. 
+*CLA:	I'm not afraid said Bill Boyd. I'm not afraid of anything 
 *HEL:	 ((laugh)) 
 *CLA:	 ((giggle)) 
-*HEL:	Good big blow good big blow
-*AMY:	Can I have another puff  ((blowing nose)) 
-*HEL:	Might be.
-*AMY:	Thank you.
-*CLA:	Girls are not afraid either said Lindy.Pardon me.When she come out after them.Once David got off off the wall
-*HEL:	There y'are
-*CLA:	they made the best   (.) discovery.
-*HEL:	Good girl.
-*CLA:	Of all there was a pond.It was a sa so big that it was almost a lake.Trees and bushes grew right down to the very edge of it.You could 
-*AMY:	Friend's house .
-*HEL:	Pardon?
-*AMY:	I've got a friend's house   (        ) on the back 
-*CLA:	stand on the bank and 
-*HEL:	No I've done that 
-*CLA:	throw little stones into the water to make 
-*HEL:	It's here 
-*CLA:	rings and splashes 
-*AMY:	You recorded it at Jenny's 
-*HEL:	Oh I've done that one.
-*CLA:	Mummy!
-*HEL:	Yes.Good girl.
-*CLA:	Um what did they make their best discovery what's their best discovery?
-*HEL:	The pond   (.) I think.There was a pond.
-*AMY:	So what shall I do now 
-*CLA:	Discovery .They made the best discovery of all.
+*HEL:	Good big blow good big blow 
+*AMY:	Can I have another puff  ((blowing nose))  
+*HEL:	Might be. 
+*AMY:	Thank you. 
+*CLA:	Girls are not afraid either said Lindy. Pardon me. When she come out after them. Once David got off off the wall 
+*HEL:	There y'are 
+*CLA:	they made the best   (.) discovery. 
+*HEL:	Good girl. 
+*CLA:	Of all there was a pond. It was a sa so big that it was almost a lake. Trees and bushes grew right down to the  very edge of it. You could   
+*AMY:	 Friend's house  . 
+*HEL:	 Pardon? 
+*AMY:	 I've got a friend's house     (  ) on the back   
+*CLA:	 stand on the bank and   
+*HEL:	 No I've done that   
+*CLA:	 throw little stones   into the water to make   
+*HEL:	 It's here   
+*CLA:	 rings and splashes   
+*AMY:	 You recorded it at Jenny's   
+*HEL:	Oh I've done that one. 
+*CLA:	Mummy! 
+*HEL:	Yes. Good girl. 
+*CLA:	Um what did they make their best discovery what's their best discovery? 
+*HEL:	The pond   (.) I think. There was a pond. 
+*AMY:	So what shall I  do now   
+*CLA:	 Discovery  . They made the best discovery of all. 
+*HEL:	 Hmm   
+*AMY:	 Where? 
+*HEL:	Just leave it at the moment I'm trying to here  if you can't   
+*AMY:	  (  )  
+*HEL:	If you can do it yourself do it but I'm trying to hear Amy read. 
+*CLA:	It looks deep said Lindy. How deep deep do you think it is. It's deep deep 
+*HEL:	It's deep enough 
+*CLA:	enough to swim away 
+*HEL:	It's deep enough to swim in 
+*CLA:	in. 
+*HEL:	Answered 
+*CLA:	answered and deep enough for a boat if we had one. If we had a boat we could row across to the island of a picture 
+*HEL:	for for a 
+*CLA:	for a picture 
+*HEL:	For a what do you think. Row across the island for a what might they have  (.)  
+*CLA:	Pic 
+*HEL:	Pic   (.) nic 
+*CLA:	Picnic 
+*HEL:	nic. 
+*HEL:	Picnic 
+*CLA:	I couldn't see where it was. Picnic. 
+*HEL:	Yes. 
+*CLA:	 (  ) The island was a small one in the this has got a heart middle of the pond I couldn't find the right line that's why I did that. 
+*HEL:	All right  
+*CLA:	It had all trees on it and looked as if it had been made for picnics. 
+*HEL:	Hmm hmm 
+*CLA:	The children looked all along the bank to see if they could find a boat. Suddenly  they heard a quiet noise   
+*HEL:	 I should think   (  )  
+*CLA:	A quiet noise. Lindsy jumped with fright. 
+*HEL:	Fright. 
+*CLA:	What was that Bill? she whispered.  Bill did not answer   
+*CLA:	 For a moment.  He was frightened himself  (.)  
+*HEL:	Though though 
+*CLA:	though he did not want Lindy to know that they   (.) listened until they heard a noise again   (.) Then Bill laughed. Oh Lindy you were were 
+*HEL:	You were 
+*CLA:	Afraid he said. Girls are always afraid nothing 
+*HEL:	Of nothing  (.)  
+*CLA:	Girls afraid 
+*HEL:	Girls are always afraid of nothing 
+*CLA:	nothing. It was a 
+*HEL:	It was only 
+*CLA:	Only a only frogs. They must be at the end of the pond. Let us go and see then said Lindy. There might be some tadpoles too. The children went to   (.) on tip toe but the frogs stopped singing. 
+*AMY:	Can I go can I go and play with tennis trainer? 
+*HEL:	Yes if you like 
+*CLA:	Where is she going to play 
+*HEL:	Could you open my greenhouse and put it on that  (  )  
+*CLA:	Where's she going to play going to play tennis? Can she she can't play it on her boat oh yes that   (  ) thing. 
 *HEL:	Hmm 
-*AMY:	Where?
-*HEL:	Just leave it at the moment I'm trying to here if you can't 
-*AMY:	 (        ) 
-*HEL:	If you can do it yourself do it but I'm trying to hear Amy read.
-*CLA:	It looks deep said Lindy.How deep deep do you think it is.It's deep deep
-*HEL:	It's deep enough
-*CLA:	enough to swim away
-*HEL:	It's deep enough to swim in
-*CLA:	in.
-*HEL:	Answered
-*CLA:	answered and deep enough for a boat if we had one.If we had a boat we could row across to the island of a picture
-*HEL:	for for a
-*CLA:	for a picture
-*HEL:	For a what do you think.Row across the island for a what might they have  (.) 
-*CLA:	Pic
-*HEL:	Pic   (.) nic
-*CLA:	Picnic
-*HEL:	nic.
-*HEL:	Picnic
-*CLA:	I couldn't see where it was.Picnic.
-*HEL:	Yes.
-*CLA:	 (        ) The island was a small one in the this has got a heart middle of the pond I couldn't find the right line that's why I did that.
-*HEL:	All right 
-*CLA:	It had all trees on it and looked as if it had been made for picnics.
-*HEL:	Hmm hmm
-*CLA:	The children looked all along the bank to see if they could find a boat.Suddenly they heard a quiet noise 
-*HEL:	I should think  (        ) 
-*CLA:	A quiet noise.Lindsy jumped with fright.
-*HEL:	Fright.
-*CLA:	What was that Bill? she whispered.Bill did not answer 
-*CLA:	For a moment.He was frightened himself  (.) 
-*HEL:	Though though
-*CLA:	though he did not want Lindy to know that they   (.) listened until they heard a noise again   (.) Then Bill laughed.Oh Lindy you were were
-*HEL:	You were
-*CLA:	Afraid he said.Girls are always afraid nothing
-*HEL:	Of nothing  (.) 
-*CLA:	Girls afraid
-*HEL:	Girls are always afraid of nothing
-*CLA:	nothing.It was a
-*HEL:	It was only
-*CLA:	Only a only frogs.They must be at the end of the pond.Let us go and see then said Lindy.There might be some tadpoles too.The children went to   (.) on tip toe but the frogs stopped singing.
-*AMY:	Can I go can I go and play with tennis trainer?
-*HEL:	Yes if you like
-*CLA:	Where is she going to play
-*HEL:	Could you open my greenhouse and put it on that  (        ) 
-*CLA:	Where's she going to play going to play tennis?Can she she can't play it on her boat oh yes that   (        ) thing.
-*HEL:	Hmm
-*CLA:	The water was warm and suddenly
-*HEL:	And shallow
-*CLA:	and shallow.There   (.) water lilies
-*HEL:	water lily?
-*CLA:	leaves spread
-*HEL:	Hmm hmm
-*CLA:	spread themselves like green plants on the water
-*HEL:	green plates
-*CLA:	Pardon?
-*HEL:	plates
-*CLA:	green plate.They're plants I thought 
-*HEL:	A bit like 
-*HEL:	No plate.Very like it.
-*CLA:	Like plants.
-*HEL:	Hmm.
-*CLA:	On the water and bog
-*HEL:	Mm good girl bog
-*CLA:	bog plants.Does that say plants?Grow along
-*HEL:	All along
-*CLA:	I forgot.I thought that was that word.Croak croak croak one frog began to croak all by himself.Others  (.) 
-*HEL:	Hm hm
-*CLA:	Enjoyed
-*HEL:	Joined
-*CLA:	Join
-*HEL:	Others joined
-*CLA:	in
-*HEL:	in
-*CLA:	from all over the pond until they made a long chorus croak croak croak they are saying.A frog climbed on to a lily leaf quickly
-*HEL:	quite
-*CLA:	quite oh where am I?Quite close to Lindy and Bill.His eyes stuck   (.) out from his head like little squab knobs
-*HEL:	 ((laugh)) that's difficult.Knobs.It's a silent K.
-*CLA:	Knobs of I thought he was a squab knob
-*HEL:	Yes it's a bit difficult that one.It's a silent K you know like knees knobs.
-*CLA:	Cob knobs I said. ((laugh)) Knobs.
-*HEL:	Start from where it says little knobs he  (.) 
-*CLA:	Okay.He looked could look at the children over
-*HEL:	Although
-*CLA:	Although he were needed
-*HEL:	Although they were nearly
-*CLA:	Nearly behind him   (.) Were him
-*HEL:	Watch him.
-*CLA:	Watch him Lindy said Bill and see if you can see if you can see his
-*HEL:	Tongue
-*CLA:	tongue shoot out or
-*HEL:	Shoot out our
-*CLA:	Our teacher told us that frogs   (.) toot
-*HEL:	tongues
-*CLA:	tongues are stick
-*HEL:	sticky
-*CLA:	sticky at the ends.That is why they can catch flies so easily with them.How would you like to catch your dinner by putting out your tongue?I would
-*HEL:	I wouldn't
-*CLA:	I wouldn't like it at all answered.Why wouldn't she?
-*HEL:	Would you like to catch your dinner by putting your tongue out to catch it?
-*CLA:	No
-*HEL:	No
-*CLA:	Why?
-*HEL:	I wouldn't like it at all answered Lindy 
-*CLA:	Lindy.But it must be nearly dinner time now.I do feel hungry.We better go home then said Bill but we shall come back here again.We may be able to find a boat next time.
-*HEL:	There.
-*CLA:	The apple orchard.
-*HEL:	Your reading's getting a lot better I think.You're doing very well.
-*CLA:	They are long chapters.I think that was quite enough.
-*HEL:	It's a long book.A hundred and twenty eight pages.
-*CLA:	I know
-*HEL:	Hmm
-*CLA:	What's that one?Well of course Miss MacDonald wouldn't have wouldn't mind you to keep a book for quite a long time.
-*HEL:	No.No it's all right.Right let me get cleared up and then we'll go into Bromley. (.) You're going out with Clare?
+*CLA:	The water was warm and suddenly 
+*HEL:	And shallow 
+*CLA:	and shallow. There   (.) water lilies 
+*HEL:	water lily? 
+*CLA:	leaves spread 
+*HEL:	Hmm hmm 
+*CLA:	spread themselves like green plants on the water 
+*HEL:	green plates 
+*CLA:	Pardon? 
+*HEL:	plates 
+*CLA:	green plate.  They're plants I thought   
+*HEL:	 A bit like   
+*HEL:	No plate. Very like it. 
+*CLA:	Like plants. 
+*HEL:	Hmm. 
+*CLA:	On the water and bog 
+*HEL:	Mm good girl bog 
+*CLA:	bog plants. Does that say plants? Grow along 
+*HEL:	All along 
+*CLA:	I forgot. I thought that was that word. Croak croak croak one frog began to croak all by himself. Others  (.)  
+*HEL:	Hm hm 
+*CLA:	Enjoyed 
+*HEL:	Joined 
+*CLA:	Join 
+*HEL:	Others joined 
+*CLA:	in 
+*HEL:	in 
+*CLA:	from all over the pond until they made a long chorus croak croak croak they are saying. A frog climbed on to a lily leaf quickly 
+*HEL:	quite 
+*CLA:	quite oh where am I? Quite close to Lindy and Bill. His eyes stuck   (.) out from his head like little squab knobs 
+*HEL:	 ((laugh)) that's difficult. Knobs. It's a silent K. 
+*CLA:	Knobs of I thought he was a squab knob 
+*HEL:	Yes it's a bit difficult that one. It's a silent K you know like knees knobs. 
+*CLA:	Cob knobs I said.  ((laugh)) Knobs. 
+*HEL:	Start from where it says little knobs he  (.)  
+*CLA:	Okay. He looked could look at the children over 
+*HEL:	Although 
+*CLA:	Although he were needed 
+*HEL:	Although they were nearly 
+*CLA:	Nearly behind him   (.) Were him 
+*HEL:	Watch him. 
+*CLA:	Watch him Lindy said Bill and see if you can see if you can see his 
+*HEL:	Tongue 
+*CLA:	tongue shoot out or 
+*HEL:	Shoot out our 
+*CLA:	Our teacher told us that frogs   (.) toot 
+*HEL:	tongues 
+*CLA:	tongues are stick 
+*HEL:	sticky 
+*CLA:	sticky at the ends. That is why they can catch flies so easily with them. How would you like to catch your dinner by putting out your tongue? I would 
+*HEL:	I wouldn't 
+*CLA:	I wouldn't like it at all answered. Why wouldn't she? 
+*HEL:	Would you like to catch your dinner by putting your tongue out to catch it? 
+*CLA:	No 
+*HEL:	No 
+*CLA:	Why? 
+*HEL:	I wouldn't like it at all answered  Lindy   
+*CLA:	 Lindy.  But it must be nearly dinner time now. I do feel hungry. We better go home then said Bill but we shall come back here again. We may be able to find a boat next time. 
+*HEL:	There. 
+*CLA:	The apple orchard. 
+*HEL:	Your reading's getting a lot better I think. You're doing very well. 
+*CLA:	They are long chapters. I think that was quite enough. 
+*HEL:	It's a long book. A hundred and twenty eight pages. 
+*CLA:	I know 
+*HEL:	Hmm 
+*CLA:	What's that one? Well of course Miss MacDonald wouldn't have wouldn't mind you to keep a book for quite a long time. 
+*HEL:	No. No it's all right. Right let me get cleared up and then we'll go into Bromley.  (.) You're going out with Clare? 
 @End

@@ -1,23 +1,23 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-29:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0152XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0152XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BRE Brenda self, JEA Jean friend
-@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
-@ID: eng|AudioBNC|JEA|~62;| |f|Ag5| |housewife|friend|PS04Y|
+@Options:	CA
+@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
+@ID:	eng|AudioBNC|JEA|62;|||||housewife|friend|PS04Y|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0152XX-AAZZP0.wav
 @Comment:	conversation #34 (Tape 015206)
-*BRE:	What's your regional accent, Jean   (.) London?
-*JEA:	No erm   (.) su er no   (.) hang on, hang on   (.) my regional, they want my regional accent   (.) er   (.) well I would have said it's standard received northern.
-*BRE:	Northern?
-*JEA:	Mm   (.) standard received, S R.
-*BRE:	How do you spell friend, F R I
-*JEA:	That's right, I before E except after C.
-*BRE:	 (        ) forgets don't you?
+*BRE:	What's your regional accent, Jean   (.) London? 
+*JEA:	No erm   (.) su  er no   (.) hang on, hang on   (.) my regional, they want my regional accent   (.) er   (7.0) well I would have said it's standard received northern. 
+*BRE:	Northern? 
+*JEA:	Mm   (.) standard received, S R. 
+*BRE:	How do you spell friend, F R I 
+*JEA:	That's right, I before E except after C. 
+*BRE:	 (  ) forgets don't you? 
 @End

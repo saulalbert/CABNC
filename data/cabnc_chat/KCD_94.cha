@@ -1,37 +1,37 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0053XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0053XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter, UNK Unknown Unknown None ?
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
-@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6ST|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6ST|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0053XX-AAZZP0.wav
 @Comment:	conversation #94 (Tape 005305)
-*NON:	Okay.
-*HEL:	Right, now you've got a bit to match it with.
-*NON:	Yeah, that looks.
-*HEL:	Well that bit was wrong.
-*NON:	What bit was wrong?
-*HEL:	That bit.
-*NON:	Why was it wrong?
-*HEL:	Well it's the wrong pattern, up side down for a start, with the other piece of  (.) 
-*NON:	Right, so I have to  (        ) .
-*HEL:	Hm   (.) Well your on that side and it's half an inch too short isn't it?
-*NON:	Let's have a go with a   (.) this roll down here then.
-*HEL:	Haven't much choice have you?
-*NON:	No I haven't.
-*CLA:	Where I'm going to sleep?
-*NON:	Your going to sleep   (        ) wall paper.
-*CLA:	No I'm not  (.) 
-*NON:	 (        ) .
-*HEL:	 (        ) sort of sort of just North of that Blue one.Sort of across there and then.
-*NON:	Across there.
-*HEL:	Hm. ((clears throat)) . I know it's not the easiest thing to measure is it?
+*NON:	Okay. 
+*HEL:	Right, now you've got a bit to match it with. 
+*NON:	Yeah, that looks. 
+*HEL:	Well that bit was wrong. 
+*NON:	What bit was wrong? 
+*HEL:	That bit. 
+*NON:	Why was it wrong? 
+*HEL:	Well it's the wrong pattern, up side down for a start, with the other piece of  (10.0)  
+*NON:	Right, so I have to  (  ) . 
+*HEL:	Hm   (5.0) Well your on that side and it's half an inch too short isn't it? 
+*NON:	Let's have a go with a   (.) this roll down here then. 
+*HEL:	Haven't much choice have you? 
+*NON:	No I haven't. 
+*CLA:	Where I'm going to sleep? 
+*NON:	Your going to sleep   (  ) wall paper. 
+*CLA:	No I'm not  (5.0)  
+*NON:	 (  ) . 
+*HEL:	 (  ) sort of sort of just North of that Blue one. Sort of across there and then. 
+*NON:	Across there. 
+*HEL:	Hm.  ((clears throat)) . I know it's not the easiest thing to measure is it? 
 @End

@@ -1,40 +1,40 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 shopping 
-@Situation:	Unspecified
-@Media: 021A-C0897X0047XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0047XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
-@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
+@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0047XX-ABZZP0.wav
 @Comment:	conversation #7 (Tape 004707)
-*UNK:	Yes what it say about four hundred?
-*CLA:	 (        ) 
-*HEL:	It doesn't say anything.Right where two hundreds. (        ) .
-*CLA:	 (        ) 
-*HEL:	Three pounds twenty-six.Can we afford one of those?Hmm    (.)  (        )  ((cough)) 
-*CLA:	 (        ) 
-*HEL:	There's the one with the flash   (.) waterproof   (.) stretch.
-*CLA:	You were going to take on the ones we had last time.
-*HEL:	So they are all four hundreds.Hmm.You get long
-*CLA:	What?
-*HEL:	You get sort of extra long  (        ) 
-*CLA:	Hmm hmm they look quite big don't they? (.)  (        ) isn't it?
-*HEL:	Yeah  (        ) 
-*AMY:	 (        ) those pictures.
-*HEL:	No they should be the same.
-*CLA:	Go through all the pictures.I should like that one.
-*HEL:	I think I should your   (.) Jenny's taking hers I should take your camera.
-*CLA:	Mmm
-*HEL:	I mean you've just got to be careful and not lose it haven't you?
-*CLA:	Lose what?
-*HEL:	Lose her camera.
-*AMY:	Why doesn't she take that yellow one?
-*HEL:	I thought you could have that.
+*UNK:	Yes what it say about four hundred? 
+*CLA:	 (  ) 
+*HEL:	It doesn't say anything. Right where two hundreds. (  ) . 
+*CLA:	 (  ) 
+*HEL:	Three pounds twenty-six. Can we afford one of those? Hmm    (.)  (  )  ((cough))  
+*CLA:	 (  ) 
+*HEL:	There's the one with the flash   (.) waterproof   (.) stretch. 
+*CLA:	You were going to take on the ones we had last time. 
+*HEL:	So they are all four hundreds. Hmm. You get long 
+*CLA:	What? 
+*HEL:	You get sort of extra long  (  )  
+*CLA:	Hmm hmm they look quite big don't they? (.)  (  ) isn't it? 
+*HEL:	Yeah  (  )  
+*AMY:	 (  ) those pictures. 
+*HEL:	No they should be the same. 
+*CLA:	Go through all the pictures. I should like that one. 
+*HEL:	I think I should your   (.) Jenny's taking hers I should take your camera. 
+*CLA:	Mmm 
+*HEL:	I mean you've just got to be careful and not lose it haven't you? 
+*CLA:	Lose what? 
+*HEL:	Lose her camera. 
+*AMY:	Why doesn't she take that yellow one? 
+*HEL:	I thought you could have that. 
 @End

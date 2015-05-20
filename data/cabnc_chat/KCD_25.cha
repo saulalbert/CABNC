@@ -1,24 +1,24 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 shopping 
-@Situation:	Unspecified
-@Media: 021A-C0897X0048XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0048XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0048XX-ABZZP0.wav
 @Comment:	conversation #25 (Tape 004812)
-*CLA:	I don't need to take scissors or any thing  (        ) .
-*HEL:	No, no.
-*CLA:	What about some  (        ) .
-*HEL:	No, don't think, don't give you any of the.
-*CLA:	You got my erm.
-*HEL:	I think you'll need a   (.) coat hanger for that, oh, any down here.I'll go upstairs and get a coat hanger when you.
-*CLA:	Haven't got, I haven't got any.
-*HEL:	On the spare bedroom bed I should think there's some.
+*CLA:	I don't need to take scissors or any thing  (  ) . 
+*HEL:	No, no. 
+*CLA:	What about some  (  ) . 
+*HEL:	No, don't think, don't give you any of the. 
+*CLA:	You got my erm. 
+*HEL:	I think you'll need a   (.) coat hanger for that, oh, any down here. I'll go upstairs and get a coat hanger when you. 
+*CLA:	Haven't got, I haven't got any. 
+*HEL:	On the spare bedroom bed I should think there's some. 
 @End

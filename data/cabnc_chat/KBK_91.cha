@@ -1,28 +1,28 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0023XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0023XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0023XX-ABZZP0.wav
 @Comment:	conversation #91 (Tape 002325)
-*NOR:	She waits all day for this, it's the best bit, this and supper.
-*CHR:	 ((laugh)) .It's not supper time yet Digger.
-*NOR:	Yeah  (        ) .Use up all in the fridge
-*CHR:	Has you got lots of bits left over?
-*NOR:	before I go shopping .Well I got some  (        ) .Things   (        ) never come and they have  (        ) .
-*CHR:	Aha.
-*NOR:	 (        ) fridge require   (.)  (        ) .
-*CHR:	Yes.
-*NOR:	 (        ) 
-*CHR:	Yes, she's very disheartening the way she picks at it I should think.Very disagreeable that's for sure.
-*NOR:	Besides  (        ) .
-*CHR:	Yes I like it, fish pie or something.
+*NOR:	She waits all day for this, it's the best bit, this and supper. 
+*CHR:	 ((laugh)) . It's not supper time yet Digger. 
+*NOR:	Yeah  (  ) . Use up all in the fridge 
+*CHR:	 Has you got lots of bits left over? 
+*NOR:	 before I go shopping  . Well I got some  (  ) . Things   (  ) never come and they have  (  ) . 
+*CHR:	Aha. 
+*NOR:	 (  ) fridge require   (.)  (  ) . 
+*CHR:	Yes. 
+*NOR:	 (  ) 
+*CHR:	Yes, she's very disheartening the way she picks at it I should think. Very disagreeable that's for sure. 
+*NOR:	Besides  (  ) . 
+*CHR:	Yes I like it, fish pie or something. 
 @End

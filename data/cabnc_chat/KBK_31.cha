@@ -1,19 +1,19 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 home office 
-@Situation:	 work 
-@Media: 021A-C0897X0021XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 work  
+@Media:	021A-C0897X0021XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, LYN Lynda colleague
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|LYN|~44;| |f|Ag3| |export assistant|colleague|PS102|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|LYN|44;|||||export assistant|colleague|PS102|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0021XX-ABZZP0.wav
 @Comment:	conversation #31 (Tape 002129)
-*LYN:	Why do we know how much   (        ) be? (        ) .
-*CHR:	 (        ) .
-*LYN:	 (        ) 
+*LYN:	Why do we know how much   (  ) be? (  ) . 
+*CHR:	 (  ) . 
+*LYN:	 (  ) 
 @End

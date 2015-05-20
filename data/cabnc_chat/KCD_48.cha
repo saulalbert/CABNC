@@ -1,48 +1,48 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 shopping 
-@Situation:	Unspecified
-@Media: 021A-C0897X0050XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0050XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , CLA Clare daughter, UNK Unknown Unknown None ?
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
-@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6ST|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6ST|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0050XX-AAZZP0.wav
 @Comment:	conversation #48 (Tape 005002)
-*NON:	What do you want for breakfast?
-*CLA:	Eh, can you get it?
-*NON:	Yeah.
-*CLA:	Oh thanks.Erm can I have a few a that or erm, marmalade sandwiches please.
-*NON:	Or what?
-*CLA:	Marmalade sandwiches please.
-*NON:	Ok.
-*CLA:	Thank you.
-*NON:	Just for you.
-*CLA:	I'm going away next weekend, not next weekend.
-*NON:	Monday.
-*CLA:	Monday.
-*NON:	Wonder if you'll remember the things we saw when we were there.What you, what do you remember about the Isle of Wight.
-*CLA:	Rain.
-*NON:	Rain.
-*CLA:	Huh.
-*NON:	What with cows.
-*CLA:	Yeah   (.) I no what, I have   (        ) beach  (        ) .
-*NON:	It wasn't.
-*CLA:	it was.
-*NON:	 (        ) .
-*CLA:	All the pictures of us on the beach, with got all  (        ) .
-*NON:	We haven't.
-*CLA:	And the  (        ) .
-*NON:	No they weren't.We, do you remember going down to Pedelow  (        ) , and going under the pier.
-*CLA:	Yes, and I nearly crashed it.
-*NON:	And it was cold.We had lots of nice ice cream there  (.) 
-*CLA:	Ah.Hope to see that, when you put the handle on the table, the lights start flickering.There, from there you can't see the light.But if you put your hand on the table like this, look the light stops, look there.
-*NON:	Does it?
-*CLA:	Look  (        ) . (        ) . Look.
-*NON:	Right, eh one   (        ) for breakfast.
+*NON:	What do you want for breakfast? 
+*CLA:	Eh, can you get it? 
+*NON:	Yeah. 
+*CLA:	Oh thanks. Erm can I have a few a that or erm, marmalade sandwiches please. 
+*NON:	Or what? 
+*CLA:	Marmalade sandwiches please. 
+*NON:	Ok. 
+*CLA:	Thank you. 
+*NON:	Just for you. 
+*CLA:	I'm going away next weekend, not next weekend. 
+*NON:	Monday. 
+*CLA:	Monday. 
+*NON:	Wonder if you'll remember the things we saw when we were there. What you, what do you remember about the Isle of Wight. 
+*CLA:	Rain. 
+*NON:	Rain. 
+*CLA:	Huh. 
+*NON:	What with cows. 
+*CLA:	Yeah   (.) I no what, I have   (  ) beach  (  ) . 
+*NON:	It wasn't. 
+*CLA:	it was. 
+*NON:	 (  ) . 
+*CLA:	All the pictures of us on the beach, with got all  (  ) . 
+*NON:	We haven't. 
+*CLA:	And the  (  ) . 
+*NON:	No they weren't. We, do you remember going down to Pedelow  (  ) , and going under the pier. 
+*CLA:	Yes, and I nearly crashed it. 
+*NON:	And it was cold. We had lots of nice ice cream there  (5.0)  
+*CLA:	Ah. Hope to see that, when you put the handle on the table, the lights start flickering. There, from there you can't see the light. But if you put your hand on the table like this, look the light stops, look there. 
+*NON:	Does it? 
+*CLA:	Look  (  ) .  (  ) . Look. 
+*NON:	Right, eh one   (  ) for breakfast. 
 @End

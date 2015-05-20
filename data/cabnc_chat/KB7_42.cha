@@ -1,19 +1,19 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-03:  
 @Location:	  car  
-@Situation:	  going to work  
-@Media: 021A-C0897X0189XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  going to work   
+@Media:	021A-C0897X0189XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	ANN Ann self, STU Stuart partner
-@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
-@ID: eng|AudioBNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
+@Options:	CA
+@ID:	eng|AudioBNC|ANN|46;|||||team leader||PS02G|
+@ID:	eng|AudioBNC|STU|33;|||||factory operative|partner|PS02H|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0189XX-ABZZP0.wav
 @Comment:	conversation #42 (Tape 018910)
-*ANN:	Always fascinates me that, a little person driving a big car.
-*STU:	Mm   (.) a bit odd.
-*ANN:	It looks very odd, yes, when the heads hardly go above the   [laughing] the seat, you don't have    []  (.) is it a kid driving or a   (.) an adult or    (.)  [laughing] is anybody driving  [] ! (.) Or is it just trundling off on its own!
+*ANN:	Always fascinates me that, a little person driving a big car. 
+*STU:	Mm   (.) a bit odd. 
+*ANN:	It looks very odd, yes, when the heads hardly go above the   ((laughing)) the seat, you don't have    (.) is it a kid driving or a   (.) an adult or    (.)  ((laughing)) is anybody driving !  (.) Or is it just trundling off on its own! 
 @End

@@ -1,196 +1,196 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
-@Date:	1991-02:  Unspecified
-@Media: 021A-C0897X0360XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
+@Date:	1991-02:  Unspecified 
+@Media:	021A-C0897X0360XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	COL Colin self, SHE Sheila wife, NIG Nigel friend, NEI Neil son
-@ID: eng|AudioBNC|COL|unknown |m|X| |British Rail employee||PS069|
-@ID: eng|AudioBNC|SHE|unknown |f|X| |housekeeper|wife|PS10D|
-@ID: eng|AudioBNC|NIG|unknown |m|X| |electrician|friend|PS10E|
-@ID: eng|AudioBNC|NEI|unknown |m|X| |unemployed|son|PS10F|
+@Options:	CA
+@ID:	eng|AudioBNC|COL|unknown||||British Rail employee||PS069|
+@ID:	eng|AudioBNC|SHE|unknown||||housekeeper|wife|PS10D|
+@ID:	eng|AudioBNC|NIG|unknown||||electrician|friend|PS10E|
+@ID:	eng|AudioBNC|NEI|unknown||||unemployed|son|PS10F|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0360XX-AAZZP0.wav
 @Comment:	conversation #15 (Tape 036006)
-*SHE:	Do you want peas with it or not?
-*NEI:	Peas.
-*SHE:	 (        ) , that one.
-*NEI:	Ah Christ I've only just got in mama!
-*SHE:	Oh you'll want half a tin won't you?
-*NEI:	You could store these for another two years mum.
-*SHE:	What is that love?
-*NEI:	It's got   (.) B dot B dot E   (.) October ninety four.
-*SHE:	Oh! (.) Salt.
-*NIG:	Oh you want that switched off, okay.
-*NEI:	 (        ) 
-*NIG:	Oh
-*NEI:	That's it then.
-*NIG:	They're off.
-*NEI:	So what we 
-*NIG:	That's the, that's the big one there.
-*NEI:	Yeah.Point.
-*SHE:	That's not, that's the light one
-*NEI:	That's right, yeah.
-*SHE:	that you've just taken out.
-*NIG:	That and the fridge one I'll have to take everything
-*NEI:	This one innit?What, what we'll do is I 
+*SHE:	Do you want peas with it or not? 
+*NEI:	Peas. 
+*SHE:	 (  ) , that one. 
+*NEI:	Ah Christ I've only just got in mama! 
+*SHE:	Oh you'll want half a tin won't you? 
+*NEI:	You could store these for another two years mum. 
+*SHE:	What is that love? 
+*NEI:	It's got   (.) B dot B dot E   (.) October ninety four. 
+*SHE:	Oh!  (17.0) Salt. 
+*NIG:	Oh you want that switched off, okay. 
+*NEI:	 (  ) 
 *NIG:	Oh 
-*NEI:	if I cut that off there.
-*NIG:	Still wouldn't shift it dummy!
-*NEI:	I'll plug it in 
-*NIG:	Aha.
-*NEI:	And you won't be using that again.
-*NIG:	No.
-*NEI:	And I'll rip them out properly af  (.) Thursday, when I take that one out as well.
-*NIG:	Okay.Alright.
-*SHE:	And that thing's jammed on us!
-*NIG:	Just plug it in  (        ) .
-*NEI:	Alright, that's enough.
-*NIG:	Yeah.
-*NEI:	They're a bit old anyway! (.) Bit old, this programme innit?
-*NIG:	Yeah.
-*SHE:	What did you want to scrub this.
-*NIG:	They come handy don't they?
-*NEI:	Mm.
-*SHE:	No, I thought you wanted one.
-*NIG:	Oh no, I don't need one, no.
-*SHE:	Alright.
-*NEI:	He's quite happy to undo the   (.) the squashed  (        ) .
-*NIG:	Oh God!
-*SHE:	Friends?
-*NIG:	I tell you, I go  (.) I tell you Neil you're very perpetual.You stopped going  (        ) .
-*NEI:	Mm.
-*NIG:	And a long time, innit?
-*NEI:	What?Well
-*NIG:	Starkness though.And you haircut   (        ) 
-*NEI:	Haircut at last!
-*NIG:	 (        ) 
-*NEI:	What's up Doc!
-*NIG:	Yeah, I think I know it as well.All gums.Goody goody gum drops!
-*SHE:	Gummy! ((laugh)) 
-*NEI:	 [laughing] Oh yeah, that's good  [] !
-*NIG:	 [singing] Gummy, gummy    (        )  [] 
-*SHE:	 (        ) his first name.
-*NEI:	Well I   (.)  (        ) .
+*NEI:	That's it then. 
+*NIG:	They're off. 
+*NEI:	So what  we   
+*NIG:	 That's  the, that's the big one there. 
+*NEI:	Yeah.  Point. 
+*SHE:	 That's  not, that's the light one 
+*NEI:	That's right, yeah. 
+*SHE:	 that  you've just taken out. 
+*NIG:	That and the fridge one I'll have to take everything 
+*NEI:	This one innit? What, what we'll do is  I   
+*NIG:	 Oh   
+*NEI:	if I cut that off there. 
+*NIG:	Still wouldn't shift it  dummy! 
+*NEI:	 I'll  plug it  in   
+*NIG:	 Aha. 
+*NEI:	And you won't be using that again. 
+*NIG:	No. 
+*NEI:	And I'll rip them out properly af   (.) Thursday, when I take that one out as well. 
+*NIG:	Okay. Alright. 
+*SHE:	And that thing's jammed on us! 
+*NIG:	Just plug it in  (  ) . 
+*NEI:	Alright, that's enough. 
+*NIG:	Yeah. 
+*NEI:	They're a bit old anyway!  (6.0) Bit old, this programme innit? 
+*NIG:	Yeah. 
+*SHE:	What did you want to scrub this. 
+*NIG:	They come handy don't they? 
+*NEI:	Mm. 
+*SHE:	No, I thought you wanted one. 
+*NIG:	Oh no, I don't need one, no. 
+*SHE:	Alright. 
+*NEI:	He's quite happy to undo the   (.) the squashed  (  ) . 
+*NIG:	Oh God! 
+*SHE:	Friends? 
+*NIG:	I tell you, I go   (.) I tell you Neil you're very perpetual. You stopped going  (  ) . 
+*NEI:	Mm. 
+*NIG:	And a long time, innit? 
+*NEI:	What? Well 
+*NIG:	Starkness though. And you  haircut   (  )   
+*NEI:	 Haircut at last! 
+*NIG:	 (  ) 
+*NEI:	What's up Doc! 
+*NIG:	Yeah, I think I know it as well. All gums. Goody goody gum drops! 
+*SHE:	Gummy! ((laugh))  
+*NEI:	 ((laughing)) Oh yeah, that's good ! 
+*NIG:	 ((singing)) Gummy, gummy     (  )   
+*SHE:	  (  )  his first name. 
+*NEI:	Well I   (.)  (  ) . 
 *SHE:	 ((laugh)) 
-*NIG:	Now that's a loaded question innit?
-*NEI:	Gonna put foot in his mouth now!
-*NIG:	It's not, (        ) on my side of the story!
-*SHE:	Are you gonna put your teeth in Neil?
-*NEI:	Eh?Both feet gone!
-*SHE:	Don't   (        ) on the plate then.
-*NEI:	There's no room is there?
-*SHE:	No.Want some of it taken off then?
-*NEI:	Yeah!Go on!
-*SHE:	If there's anything on that doorstep, give us your plate.
-*NEI:	Oh ee ee!Christ, only wanna fit in my mouth!Ta.
-*SHE:	Th  (.) they let me have these scales. (.) I was working right up to then. (.) So then you put   (        ) and then pop them in to
-*NEI:	Ya.
-*NIG:	Oh!I'll go look in there when that  (        ) .
-*NEI:	 (        ) 
-*SHE:	 [singing] Mm mm mm, mm mm  [] . (.) Can't take them in there can I? (.) Yeah, something  (        ) .
-*NEI:	 (        ) 
-*COL:	Oh I should get something now.
-*SHE:	It'll definitely be here won't it?
-*NIG:	Don't you worry about it.
-*NEI:	I made last year's.
-*SHE:	Take some sandwiches, a flask of tea.
-*NEI:	Yeah.
-*SHE:	What do you reckon?
-*NIG:	Mm.
-*SHE:	Egg sandwiches?Enjoy them won't you?
-*NEI:	Yeah.That's if I have had any left and he notices they're there.
-*NIG:	Jammy tyke!
-*NEI:	 (        ) before.
-*SHE:	What, everything okay, yeah?Well I mean the sooner that's  (        ) .Chips and everything else on it.
-*NEI:	Yeah.
-*NIG:	Mind!
-*SHE:	Drinks when you   (.) brush your glass on them.
-*NEI:	Well I, didn't you do that mum?I couldn't understand what?
-*SHE:	Well they can be tipped back in the tin then can't they?
-*NEI:	Mhm.
-*SHE:	Mash that in and you can have butter on if you wanted to.
-*NEI:	No   (.) roast potatoes will be fine.
-*NIG:	Yeah.Wha 
-*SHE:	They can throw dinner on this.
-*NIG:	Mhm.
-*NEI:	Shall I take quite a few egg sandwiches alright?Mum?
-*SHE:	Eh?
-*NEI:	I'll take quite a few egg sandwiches.
-*SHE:	Yeah, I'll make a load.
-*NEI:	Yeah, I expect egg ones  (        ) .
-*SHE:	Dunno! (.) In about quarter to six or something isn't he?
-*NEI:	Quarter past five.
-*SHE:	Quarter past five?
-*NEI:	Yeah.Down the site   (        ) bloody thing!
-*SHE:	I'm gonna cut a load and go pick David up I suppose innit?Mm?
-*NIG:	Ta, (        ) .
-*SHE:	Oh no!No!
-*NEI:	I want my   (        ) mug.Alright?
-*SHE:	You're   (        ) afterwards aren't you then?They me , they're doing a good job!
-*NEI:	Well so have you then!
-*NIG:	No.
-*COL:	Don't forget   (        ) at quarter past five.
-*NEI:	No, mum said quarter to six!I'm just correcting her!
-*COL:	Right then. (        ) 
-*NEI:	 (        ) !That's right.
-*SHE:	Ha?So I erm   (.) what did you say Neil?I say, not in there Neil.
-*NEI:	What's what?What's for what?
-*SHE:	Tracksuit bottoms.
-*NEI:	Which ones?
-*SHE:	The boys ones there.I found that in there.
-*NEI:	Yeah.
-*SHE:	Is there anything inside?
-*NEI:	What this?
-*SHE:	Yeah.
-*NEI:	Why?
-*SHE:	I just wondered.Cos that was wa , wet as well.
-*NEI:	Only Carl's lighter.
-*SHE:	Who?
-*NEI:	Carl's lighter. (.) Oh yeah, so I put my lighter in there my er tracksuit bottoms or something.
-*SHE:	Oh I see.
-*NEI:	But now it's run out I don't bother.
-*SHE:	There's lighter up here.
-*NEI:	Doesn't work.
-*SHE:	Why, what's the matter with it then?
-*NEI:	You go to light it. (.) See, just keep going so the flint's gone.
-*SHE:	Oh!
-*NEI:	That's   (.) gone home now.
-*NIG:	Here are mate, let's have a look at it.
-*SHE:	 (        ) . (.) Still, bit cheap to buy ain't they?Only thirty pence aren't they?
-*NEI:	Well I shall use my black  (        ) .
-*SHE:	Eh?
-*NEI:	I'm gonna use my black one.
-*SHE:	Oh yeah.
-*NEI:	Twenty for a pound.
-*SHE:	Oh yeah.
-*NEI:	 (        ) 
-*SHE:	Had it a long time haven't you?Eh?
-*NEI:	Dunno.
-*SHE:	 (        ) 
-*NEI:	Yeah, I can go out mum?
-*SHE:	Eh?
-*NEI:	I can go out.
-*SHE:	Anyone want a cup of tea?
-*COL:	Yes please.
-*SHE:	Eh? (.)  (        ) scratch her eyes out innit? (.) It's about your  (        ) , could of caught that look.
-*COL:	Oh don't start  (        ) !
+*NIG:	Now that's a loaded question innit? 
+*NEI:	Gonna put foot in his mouth now! 
+*NIG:	It's not, (  ) on my side of the story! 
+*SHE:	Are you gonna put your teeth in Neil? 
+*NEI:	Eh? Both feet gone! 
+*SHE:	Don't   (  ) on the plate then. 
+*NEI:	There's no room is there? 
+*SHE:	No. Want some of it taken off then? 
+*NEI:	Yeah! Go on! 
+*SHE:	If there's anything on that doorstep, give us your plate. 
+*NEI:	 Oh ee ee!  Christ, only wanna fit in my mouth! Ta. 
+*SHE:	Th   (.) they let me have these scales.  (6.0) I was working right up to then.  (12.0) So then you put   (  ) and then pop them in to 
+*NEI:	Ya. 
+*NIG:	Oh! I'll go look in there when that  (  ) . 
+*NEI:	 (  ) 
+*SHE:	 ((singing)) Mm mm mm, mm mm .  (19.0) Can't take them in there can I?  (8.0) Yeah, something  (  ) . 
+*NEI:	 (  ) 
+*COL:	Oh I should get something now. 
+*SHE:	It'll definitely be here won't it? 
+*NIG:	Don't you worry about it. 
+*NEI:	I made last year's. 
+*SHE:	Take some sandwiches, a flask of tea. 
+*NEI:	Yeah. 
+*SHE:	What do you reckon? 
+*NIG:	Mm. 
+*SHE:	Egg sandwiches? Enjoy them won't you? 
+*NEI:	Yeah. That's if I have had any left and he notices they're there. 
+*NIG:	Jammy tyke! 
+*NEI:	 (  ) before. 
+*SHE:	What, everything okay, yeah? Well I mean the sooner that's  (  ) . Chips and everything else on it. 
+*NEI:	 Yeah. 
+*NIG:	 Mind! 
+*SHE:	Drinks when you   (.) brush your glass on them. 
+*NEI:	Well I, didn't you do that mum? I couldn't understand what? 
+*SHE:	Well they can be tipped back in the tin then can't they? 
+*NEI:	Mhm. 
+*SHE:	Mash that in and you can have butter on if you wanted to. 
+*NEI:	No   (.) roast potatoes will be fine. 
+*NIG:	Yeah.  Wha    
+*SHE:	 They  can throw dinner on this. 
+*NIG:	Mhm. 
+*NEI:	Shall I take quite a few egg sandwiches alright? Mum? 
+*SHE:	Eh? 
+*NEI:	I'll take quite a few egg sandwiches. 
+*SHE:	Yeah, I'll make a load. 
+*NEI:	Yeah, I expect egg ones  (  ) . 
+*SHE:	Dunno!  (6.0) In about quarter to six or something isn't he? 
+*NEI:	Quarter past five. 
+*SHE:	Quarter past five? 
+*NEI:	Yeah. Down the site   (  ) bloody thing! 
+*SHE:	I'm gonna cut a load and go pick David up I suppose innit? Mm? 
+*NIG:	Ta, (  ) . 
+*SHE:	Oh no!  No! 
+*NEI:	 I  want my   (  ) mug. Alright? 
+*SHE:	You're   (  ) afterwards aren't you then? They me  , they're doing a good job! 
+*NEI:	Well so have you then! 
+*NIG:	No. 
+*COL:	Don't forget   (  ) at quarter past five. 
+*NEI:	No, mum said quarter to six! I'm just correcting her! 
+*COL:	Right then. (  )   
+*NEI:	  (  ) !  That's right. 
+*SHE:	Ha? So I erm   (.) what did you say Neil? I say, not in there Neil. 
+*NEI:	What's what? What's for what? 
+*SHE:	Tracksuit bottoms. 
+*NEI:	Which ones? 
+*SHE:	The boys ones there. I found that in there. 
+*NEI:	Yeah. 
+*SHE:	Is there anything inside? 
+*NEI:	What this? 
+*SHE:	Yeah. 
+*NEI:	Why? 
+*SHE:	I just wondered. Cos that was wa  , wet as well. 
+*NEI:	Only Carl's lighter. 
+*SHE:	Who? 
+*NEI:	Carl's lighter.  (6.0) Oh yeah, so I put my lighter in there my er tracksuit bottoms or something. 
+*SHE:	Oh I see. 
+*NEI:	But now it's run out I don't bother. 
+*SHE:	There's lighter up here. 
+*NEI:	Doesn't work. 
+*SHE:	Why, what's the matter with it then? 
+*NEI:	You go to light it.  (8.0) See, just keep going so the flint's gone. 
+*SHE:	Oh! 
+*NEI:	That's   (.) gone home now. 
+*NIG:	Here are mate, let's have a look at it. 
+*SHE:	 (  ) .  (8.0) Still, bit cheap to buy ain't they? Only thirty pence aren't they? 
+*NEI:	Well I shall use my black  (  ) . 
+*SHE:	Eh? 
+*NEI:	I'm gonna use my black one. 
+*SHE:	Oh yeah. 
+*NEI:	Twenty for a pound. 
+*SHE:	Oh yeah. 
+*NEI:	 (  ) 
+*SHE:	Had it a long time haven't you? Eh? 
+*NEI:	Dunno. 
+*SHE:	 (  ) 
+*NEI:	Yeah, I can go out mum? 
+*SHE:	Eh? 
+*NEI:	I can go out. 
+*SHE:	Anyone want a cup of tea? 
+*COL:	Yes please. 
+*SHE:	Eh? (6.0)  (  ) scratch her eyes out innit?  (6.0) It's about your  (  ) , could of caught that look. 
+*COL:	Oh don't start  (  ) ! 
 *SHE:	 ((laugh)) 
-*NEI:	Dave's all lovey-dovey when Nig is around ain't he?
-*SHE:	Yeah.Showing off though.Try to impress. (.) Well I'm glad anybody has a bit of  (        ) . (.) Do you want a cup of tea Neil?
-*NEI:	Well I dunno. (.) Right!
-*SHE:	Erm   (.) I'm going to the bank   (.) let's wake this lot up! (.) Where do you go for that, Bath Travel for that then Neil?
-*NEI:	Where?
-*SHE:	For that brochure.
-*NEI:	Bath Travel, where's that?
-*SHE:	No, where do you get the   (.) thing from then?
-*NEI:	What?
-*SHE:	Butlins?
-*NEI:	Well   (.) I got it from that travel agents
-*SHE:	Oh!
-*NEI:	er the one
-*SHE:	In the precinct?
-*NEI:	by, yeah, by Boots.
-*SHE:	Oh yeah.
+*NEI:	Dave's all lovey-dovey when Nig is around ain't he? 
+*SHE:	Yeah. Showing off though. Try to impress.  (7.0) Well I'm glad anybody has a bit of  (  ) .  (6.0) Do you want a cup of tea Neil? 
+*NEI:	Well I dunno.  (12.0) Right! 
+*SHE:	Erm   (.) I'm going to the bank   (.) let's wake this lot up!  (8.0) Where do you go for that, Bath Travel for that then Neil? 
+*NEI:	Where? 
+*SHE:	For that brochure. 
+*NEI:	Bath Travel, where's that? 
+*SHE:	No, where do you get the   (.) thing from then? 
+*NEI:	What? 
+*SHE:	Butlins? 
+*NEI:	Well   (.) I got it from that travel agents 
+*SHE:	Oh! 
+*NEI:	er the one 
+*SHE:	In the precinct? 
+*NEI:	by, yeah, by Boots. 
+*SHE:	Oh yeah. 
 @End

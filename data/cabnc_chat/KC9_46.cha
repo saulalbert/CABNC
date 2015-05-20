@@ -1,55 +1,55 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-06:  
 @Location:	 hair dressers 
-@Situation:	Unspecified
-@Media: 021A-C0897X0146XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0146XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , GIN Ginny self, TUR Turan friend
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|GIN|~65;| |f|Ag5| |housewife||PS0CG|
-@ID: eng|AudioBNC|TUR|~50;| |m|Ag4| |hair salon owner|friend|PS0CN|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|GIN|65;|||||housewife||PS0CG|
+@ID:	eng|AudioBNC|TUR|50;|||||hair salon owner|friend|PS0CN|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0146XX-ABZZP0.wav
 @Comment:	conversation #46 (Tape 014607)
-*GIN:	You weren't in Turkey when they had troubles were you?You weren't in Turkey when they had the 
-*UNK:	Yeah 
-*GIN:	trouble  (        ) 
-*TUR:	No.
-*GIN:	over there No 
-*TUR:	cos I left Turkey     (.)  (        )  (.) after I left  (        ) .
-*UNK:	Yeah, how's it going out there?
-*TUR:	I left nineteen   (.) er   (.) nineteen seventy one   (.) trouble starts, nineteen seventy four   (.) to seventy   (.) Hello Vera    (.)  (        ) 
-*GIN:	I should think it's rather like Northern Ireland, actually.
-*TUR:	Yeah.
-*UNK:	That's erm
-*TUR:	Holy war 
-*UNK:	 (        ) 
-*TUR:	the  (        ) .
-*UNK:	 (        ) 
-*GIN:	And your er   (        ) did a marvellous job, didn't he?
-*TUR:	He did so, but   (.) some of them left    (        )  (.) had he pulled  (        ) , you know.
-*GIN:	Oh?
-*TUR:	Yeah   (.) he did it off  (        ) .
-*GIN:	Did he?
-*TUR:	He did it, yeah.
-*GIN:	At least he got you free of   (.) Aggater 
-*TUR:	Yeah, yes Aggater  (        ) 
-*GIN:	Yeah.
-*TUR:	He bring the Turkey to   (.) survival   (.) but coupled with the suggestions   (.) then other people   (.) they not finished   (.) they try and fill in their pockets.
-*GIN:	Yeah.
-*TUR:	You know?
-*GIN:	After all that   (        ) got them out 
-*TUR:	because 
-*GIN:	after all that 
-*TUR:	Yeah.
-*GIN:	out of Anatalia 
-*TUR:	Yeah.
-*GIN:	because that
-*TUR:	 (        ) 
-*GIN:	at great speed.
-*TUR:	Yeah.
-*GIN:	And they
+*GIN:	You weren't in Turkey when they had troubles were you? You weren't in Turkey when they  had the   
+*UNK:	 Yeah   
+*GIN:	trouble  (  )  
+*TUR:	No. 
+*GIN:	over there No   
+*TUR:	 cos  I left Turkey     (.)  (  )  (.) after I left  (  ) . 
+*UNK:	 Yeah, how's it going out there? 
+*TUR:	 I left nineteen    (.) er   (.) nineteen seventy one   (.) trouble starts, nineteen seventy four   (.) to seventy   (.) Hello Vera    (.)   (  )   
+*GIN:	 I should think  it's rather like Northern Ireland, actually. 
+*TUR:	Yeah. 
+*UNK:	That's erm 
+*TUR:	 Holy war   
+*UNK:	  (  )  
+*TUR:	the  (  ) . 
+*UNK:	 (  ) 
+*GIN:	And your er   (  ) did a marvellous job, didn't he? 
+*TUR:	He did so, but   (.) some of them left    (  )  (.) had he pulled  (  ) , you know. 
+*GIN:	Oh? 
+*TUR:	Yeah   (.) he did it off  (  ) . 
+*GIN:	Did he? 
+*TUR:	He did it, yeah. 
+*GIN:	At least he got you free of   (.) Aggater  
+*TUR:	Yeah, yes Aggater  (  )  
+*GIN:	Yeah. 
+*TUR:	He bring the Turkey to   (.) survival   (.) but coupled with the suggestions   (.) then other people   (.) they not finished   (.) they try and fill in their pockets. 
+*GIN:	Yeah. 
+*TUR:	You know? 
+*GIN:	After all that   (  )  got them out   
+*TUR:	 because   
+*GIN:	after all  that   
+*TUR:	 Yeah. 
+*GIN:	out of Anatalia  
+*TUR:	Yeah. 
+*GIN:	because that 
+*TUR:	 (  ) 
+*GIN:	at great speed. 
+*TUR:	Yeah. 
+*GIN:	And they 
 @End

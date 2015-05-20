@@ -1,30 +1,30 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
-@Date:	unknown date:  Unspecified
-@Media: 021A-C0897X0517XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
+@Date:	unknown date:  Unspecified 
+@Media:	021A-C0897X0517XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , FRE Frederick self
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|FRE|~66;| |m|Ag5| |retired (social worker)||PS0A8|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|FRE|66;|||||retired (social worker)||PS0A8|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0517XX-AAZZP0.wav
 @Comment:	conversation #3 (Tape 051701)
-*GRO:	 (        ) 
-*FRE:	Is that the big match then? (.) 
-*UNK:	Sunday?
-*FRE:	Mm.
-*UNK:	No we're doing erm little matches.
-*FRE:	Ah.
-*UNK:	 (        ) 
-*FRE:	Yes, yeah.I just wondered because er Trevor was there   (        ) I just wondered if he was
-*UNK:	I don't know.I don't know. (.) 
-*FRE:	Yeah. (.) 
-*UNK:	He hasn't phoned yet has he?
-*FRE:	No I was just, I was just   (.) thinking about the same. ((cough))  (.) 
-*UNK:	Oh my word, Eddy     (.)  (        )  (.) right, off you go then. (        ) yeah  (        ) 
-*FRE:	Where are the phones?
-*GRO:	 (        ) 
+*GRO:	 (  ) 
+*FRE:	Is that the big match then? (.)  
+*UNK:	Sunday? 
+*FRE:	Mm. 
+*UNK:	No we're doing erm little matches. 
+*FRE:	Ah. 
+*UNK:	 (  ) 
+*FRE:	Yes, yeah. I just wondered because er Trevor was there   (  ) I just wondered if he was 
+*UNK:	I don't know. I don't know. (.)  
+*FRE:	Yeah. (9.0)  
+*UNK:	He hasn't phoned yet has he? 
+*FRE:	No I was just, I was just   (.) thinking about the same. ((cough))  (.)  
+*UNK:	Oh my word, Eddy     (.)  (  )  (.) right, off you go then.  (  ) yeah  (  )  
+*FRE:	Where are the phones? 
+*GRO:	 (  ) 
 @End

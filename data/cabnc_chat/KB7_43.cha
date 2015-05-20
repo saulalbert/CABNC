@@ -1,75 +1,75 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-03:  
 @Location:	  car/office  
-@Situation:	  going to work/solicitors  
-@Media: 021A-C0897X0189XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  going to work/solicitors   
+@Media:	021A-C0897X0189XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , ANN Ann self, STU Stuart partner
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
-@ID: eng|AudioBNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|ANN|46;|||||team leader||PS02G|
+@ID:	eng|AudioBNC|STU|33;|||||factory operative|partner|PS02H|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0189XX-ABZZP0.wav
 @Comment:	conversation #43 (Tape 018911)
-*STU:	Hello   (.) er I need a solicitor, to act for me   (.) er if that's possible   (.) please.
-*NON:	 (        ) 
-*STU:	It was mentioned that   (.) Mr  might be able to help me.
-*NON:	Yeah but if you'd like to come back though cos he's at lunch at the moment.
-*STU:	Wonderful!
-*NON:	Want to make an appointment to come back this afternoon?
-*STU:	Working.
-*NON:	Ah.
-*STU:	So it has to be   (.) Thursday morning.
-*NON:	I need to get Jo to come down and make an appointment    (        )  (.) What's the name please?
-*STU:	.
-*NON:	Erm there's a Mr  in reception can you come down and make an appointment? (.) Right. (.) Alright then    (.)  (        )  ((phone rings))
-*NON:	Hello   (.) did you say Thursday morning? (.) Thursday morning   (.) about ten o'clock.
-*STU:	Bit later if possible.
-*NON:	Bit later than that.
-*STU:	 (        ) about eleven.
-*NON:	About eleven   (.) yeah.
-*STU:	We've gotta go and see the estate agents as well.
-*NON:	What did you say? (.) Mr    (.) yes 
-*STU:	eleven   (.) eleven o'clock 
-*NON:	eleven o'clock 
-*STU:	yeah that will be alright.
-*NON:	Thursday morning    (.)  (        ) 
-*STU:	Yeah that will be alright.
-*NON:	That will be fine     (.)  (        )  (.) yes   (.) alright then   (.) yes eleven o'clock Thursday morning.
-*STU:	Eleven o'clock Thursday morning.
-*NON:	Okay.
-*ANN:	Bye bye.
-*STU:	Thanks very much.
-*ANN:	Thank you.
-*STU:	Bye now.
-*ANN:	Bye   (.)  (        ) 
-*STU:	 (        ) 
-*ANN:	Have you?
-*STU:	 (        )  (.)  (        )  (.) estate agent.
-*ANN:	Who says? (.) Might do when we win the pools     (.)  (        )  (.) oh you're alright    (.)  (        ) tomorrow.
-*STU:	You  (        ) 
-*ANN:	Yeah.
-*STU:	 (        ) 
-*ANN:	That's right.
-*STU:	 (        ) 
-*ANN:	I've only got   (        ) the one!
-*STU:	Yes but mum, suppose you might have to.
-*ANN:	Don't wanna go to work yet, do you?
-*STU:	No, its a bit, little bit early, where d'you wanna go? (.) Go for a walk.
-*ANN:	Can't go up the King's Head, it's shut. ((laugh)) 
-*STU:	No I wasn't really thinking about that. (.)  (        ) 
-*ANN:	I think so.
-*STU:	 (        ) got some    (.)  (        ) on his hair.
-*ANN:	 (        )  (.) it got darker    (.)  (        ) what it used to.
-*STU:	You know what it is   (.)  (        ) 
-*ANN:	Why? (.) I know, but you don't wanna do that, you don't know what it, what    (        )  (.) silly innit?
-*STU:	Yes.
-*ANN:	 (        )  (.) Oy!Oy! (.) nice  (        ) 
-*STU:	I know your type!
-*ANN:	 ((laugh))  (.)  (        )  (.) I just want a clean staircase, [laughing]  (        )  [] ! (.) No we're not. ((laugh)) 
-*STU:	 (        ) 
-*ANN:	Right we've made a decision   (.) I know we can   (        ) but er
+*STU:	Hello   (.) er I need a solicitor, to act for me   (.) er if that's possible   (.) please. 
+*NON:	 (  ) 
+*STU:	It was mentioned that   (.) Mr   might be able to help me. 
+*NON:	Yeah but if you'd like to come back though cos he's at lunch at the moment. 
+*STU:	Wonderful! 
+*NON:	Want to make an appointment to come back this afternoon? 
+*STU:	Working. 
+*NON:	Ah. 
+*STU:	So it has to be   (.) Thursday morning. 
+*NON:	I need to get Jo to come down and make an appointment    (  )  (.) What's the name please? 
+*STU:	 . 
+*NON:	Erm there's a Mr   in reception can you come down and make an appointment?  (.) Right.  (.) Alright then    (.)  (  )  ((phone rings)) 
+*NON:	Hello   (.) did you say Thursday morning?  (.) Thursday morning   (.) about ten o'clock. 
+*STU:	Bit later if possible. 
+*NON:	Bit later  than that. 
+*STU:	  (  )  about eleven. 
+*NON:	About eleven   (.) yeah. 
+*STU:	We've gotta go and see the estate agents as well. 
+*NON:	What did you say?  (.) Mr     (.)  yes   
+*STU:	 eleven    (.)  eleven o'clock   
+*NON:	 eleven o'clock   
+*STU:	yeah that will be alright. 
+*NON:	Thursday morning    (.)   (  )   
+*STU:	 Yeah that will  be alright. 
+*NON:	That will be fine     (.)  (  )  (8.0) yes   (.) alright then   (.) yes eleven o'clock Thursday morning. 
+*STU:	Eleven o'clock Thursday morning. 
+*NON:	Okay. 
+*ANN:	Bye bye. 
+*STU:	 Thanks very much. 
+*ANN:	 Thank you. 
+*STU:	Bye now. 
+*ANN:	Bye   (10.0)  (  )  
+*STU:	 (  ) 
+*ANN:	Have you? 
+*STU:	 (  )  (.)  (  )  (.) estate agent. 
+*ANN:	Who says?  (.) Might do when we win the pools     (.)  (  )  (.) oh you're alright    (8.0)  (  ) tomorrow. 
+*STU:	You  (  )  
+*ANN:	Yeah. 
+*STU:	 (  ) 
+*ANN:	That's right. 
+*STU:	 (  ) 
+*ANN:	I've only got   (  ) the one! 
+*STU:	Yes but mum, suppose you might have to. 
+*ANN:	Don't wanna go to work yet, do you? 
+*STU:	No, its a bit, little bit early, where d'you wanna go?  (.) Go for a walk. 
+*ANN:	Can't go up the King's Head, it's shut. ((laugh))   
+*STU:	 No I wasn't really thinking about that. (.)  (  )  
+*ANN:	I think so. 
+*STU:	 (  ) got some    (.)  (  ) on his hair. 
+*ANN:	 (  )  (.) it got darker    (.)  (  ) what it used to. 
+*STU:	You know what it is   (.)  (  )  
+*ANN:	Why?  (.) I know, but you don't wanna do that, you don't know what it, what    (  )  (.) silly  innit? 
+*STU:	 Yes. 
+*ANN:	 (  )  (27.0) Oy! Oy! (.) nice  (  )  
+*STU:	I know your type! 
+*ANN:	 ((laugh))  (.)  (  )  (.) I just want a clean staircase, ((laughing))  (  ) !  (11.0) No we're not. ((laugh))  
+*STU:	 (  ) 
+*ANN:	Right we've made a decision   (.) I know we can   (  ) but er 
 @End

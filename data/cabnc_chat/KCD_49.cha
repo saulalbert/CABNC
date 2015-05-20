@@ -1,71 +1,71 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0050XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0050XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter, UNK Unknown Unknown None ?
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
-@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6ST|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6ST|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0050XX-AAZZP0.wav
 @Comment:	conversation #49 (Tape 005003)
-*CLA:	It is recording you daddy.
-*NON:	Is it?
-*CLA:	Yeah   (.) Do you want to listen what you to what you've said?
-*NON:	No Clare, (        ) .Come on Amy.
-*CLA:	Come on Amy be a good girl, be a good girl, whoops, this pen has gone wrong.
-*NON:	Come on Amy. (        ) switch this on again.
-*CLA:	Yeah, (        ) .
-*NON:	 (        ) .
-*CLA:	 (        ) .
-*HEL:	Hear the language you just  (        ) .Have you seen this stupid cheque.
-*NON:	 (        ) .
-*HEL:	 (        ) .
-*NON:	Got a   (        ) another one.
-*HEL:	You don't get another one.
-*NON:	What d'ya get?
-*HEL:	Don't get anything.
-*NON:	Oh, I'll change my banks.
-*HEL:	They just let you run out.
-*NON:	Then what?
-*HEL:	Well I rang them up yesterday because I got two cheques left.
-*NON:	Yeah.
-*HEL:	And there still waiting on the twenty fourth May, I said well I haven't got it yet, he said no it's taking two weeks or so.I like ordering my cheques in that time.Oh well, we all have it.Can't escape from the printer now not, not to  (        ) .
-*NON:	 ((noise))How long  (        ) .
-*HEL:	How many got coming.
-*NON:	 (        ) .
-*HEL:	I should think it's about two weeks.
-*NON:	Oh  (        ) .
-*HEL:	I know, you can't get a set cheque book.
-*NON:	Why?
-*HEL:	Well   (        ) I mean how'd ya get one?
-*NON:	You write to the bank and say.
-*HEL:	I haven't got any cheque books.
-*NON:	Well.
-*HEL:	 (        ) .
-*NON:	Do you ring the printer then for a cheque book.
-*HEL:	No, it's suppose to come, you   (        ) come automatically.
-*NON:	Well when you get another cheque book, you write on the back please can I have another cheque book.
-*CLA:	Why can't you ask for two cheque books at once?
-*HEL:	Well they don't usually issue, I mean I usually make so I ask for one in plenty of time. (        ) the next day, so.
-*NON:	Well they have to move the erm, the reminder, to get a cheque book.
-*HEL:	Well I did, I took it, I took it out and said, alright when I went and enquired, I said well I would normally have a cheque book now cos I'm not always in the bank, and I had this slip to say I don't need   (        ) one will come automatically he said oh yes, but that   (        ) breaking down is hopeless, then I should fill it in now and I'll take it.My   (        ) would come the next day, well it  (        ) .
-*NON:	 (        ) .
-*CLA:	Daddy.
-*NON:	What?
-*CLA:	You can't just move   (        ) .
-*HEL:	I add them up yesterday and said what's it, what do I do, I've not come to  (        ) , now they've sent me a temporary one.
-*NON:	Hm.
-*HEL:	He said oh yes it's ordered, I said great, huh, going shopping this afternoon, what do I do when I haven't got any cheques left?
-*NON:	Abbey National.
-*CLA:	 ((cough)) .
-*NON:	Have cheque books there  (        ) .
-*HEL:	Hm.
-*NON:	 (        ) .
-*HEL:	Just erm, Lloyds   (        ) convenient.
+*CLA:	It is recording you daddy. 
+*NON:	Is it? 
+*CLA:	Yeah   (.) Do you want to listen what you to what you've said? 
+*NON:	No Clare, (  ) . Come on Amy. 
+*CLA:	Come on Amy be a good girl, be a good girl, whoops, this pen has gone wrong. 
+*NON:	Come on Amy.  (  ) switch this on again. 
+*CLA:	Yeah, (  ) . 
+*NON:	 (  ) . 
+*CLA:	 (  ) . 
+*HEL:	Hear the language you just  (  ) . Have you seen this stupid cheque. 
+*NON:	 (  ) . 
+*HEL:	 (  ) . 
+*NON:	Got a   (  ) another one. 
+*HEL:	You don't get another one. 
+*NON:	What d'ya get? 
+*HEL:	Don't get anything. 
+*NON:	Oh, I'll change my banks. 
+*HEL:	They just let you run out. 
+*NON:	Then what? 
+*HEL:	Well I rang them up yesterday because I got two cheques left. 
+*NON:	Yeah. 
+*HEL:	And there still waiting on the twenty fourth May, I said well I haven't got it yet, he said no it's taking two weeks or so. I like ordering my cheques in that time. Oh well, we all have it. Can't escape from the printer now not, not to  (  ) . 
+*NON:	 ((noise))How long  (  ) . 
+*HEL:	How many got coming. 
+*NON:	 (  ) . 
+*HEL:	I should think it's about two weeks. 
+*NON:	Oh  (  ) . 
+*HEL:	I know, you can't get a set cheque book. 
+*NON:	Why? 
+*HEL:	Well   (  ) I mean how'd ya get one? 
+*NON:	You write to the bank and say. 
+*HEL:	I haven't got any cheque books. 
+*NON:	Well. 
+*HEL:	  (  )  . 
+*NON:	 Do you ring  the printer then for a cheque book. 
+*HEL:	No, it's suppose to come, you   (  ) come automatically. 
+*NON:	Well when you get another cheque book, you write on the back please can I have another cheque book. 
+*CLA:	Why can't you ask for two cheque books at once? 
+*HEL:	Well they don't usually issue, I mean I usually make so I ask for one in plenty of time.  (  ) the next day, so. 
+*NON:	Well they have to move the erm, the reminder, to get a cheque book. 
+*HEL:	Well I did, I took it, I took it out and said, alright when I went and enquired, I said well I would normally have a cheque book now cos I'm not always in the bank, and I had this slip to say I don't need   (  ) one will come automatically he said oh yes, but that   (  ) breaking down is hopeless, then I should fill it in now and I'll take it. My   (  ) would come the next day, well it  (  ) . 
+*NON:	 (  ) . 
+*CLA:	Daddy. 
+*NON:	What? 
+*CLA:	You can't just move    (  )  . 
+*HEL:	 I add them up  yesterday and said what's it, what do I do, I've not come to  (  ) , now they've sent me a temporary one. 
+*NON:	Hm. 
+*HEL:	He said oh yes it's ordered, I said great, huh, going shopping this afternoon, what do I do when I haven't got any cheques left? 
+*NON:	Abbey National. 
+*CLA:	 ((cough)) . 
+*NON:	Have cheque books there  (  ) . 
+*HEL:	Hm. 
+*NON:	 (  ) . 
+*HEL:	Just erm, Lloyds   (  ) convenient. 
 @End

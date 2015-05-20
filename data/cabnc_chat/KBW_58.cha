@@ -1,54 +1,54 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-20:  
 @Location:	  grandma's  
-@Situation:	  talking  
-@Media: 021A-C0897X0232XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  talking   
+@Media:	021A-C0897X0232XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , DOR Dorothy self, TIM Tim son, MAR Marjorie mother
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
-@ID: eng|AudioBNC|TIM|~3;| |m|Ag0| |student (private pre)|son|PS088|
-@ID: eng|AudioBNC|MAR|~70;| |f|Ag5| |retired|mother|PS0XR|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|DOR|34;|||||teacher (pt)||PS087|
+@ID:	eng|AudioBNC|TIM|3;|||||student (private pre)|son|PS088|
+@ID:	eng|AudioBNC|MAR|70;|||||retired|mother|PS0XR|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0232XX-AAZZP0.wav
 @Comment:	conversation #58 (Tape 023204)
-*TIM:	Played in the sand.
-*DOR:	Played in the sand?Was that with good James or naughty James?
-*TIM:	Naughty James.
-*DOR:	Ooh. (.) Was naughty James good? (.) So there we are.
-*MAR:	Mm.
-*DOR:	And they use the whole of the house, you know there's the downstairs, that little room that you saw.
-*MAR:	Yeah.
-*DOR:	That's known as the nursery room.
-*MAR:	Yeah.And then they go in all the rest   (        ) 
-*DOR:	Then they go in all the rest of the   (.) well just the downstairs.
-*MAR:	Downstairs, mm.
-*DOR:	So they can go, they have a story time in the sitting room, you know with a
-*MAR:	That's nice that's   (        ) 
-*DOR:	They play on the floor with a
-*MAR:	Yeah.
-*DOR:	trucks and everything. (.) It's friendly isn't it?
-*MAR:	Mm.
-*DOR:	You know what I mean?It's not institutionalized.
-*MAR:	Well it's better   (        ) isn't it?
-*DOR:	Well I think so.And there's nobody shrieking at them and there's only twelve of them there and   (.) you know, nobody's getting cross with anybody.Well I mean I suppose they do when they   (.) do something stupid.But there's not   ((laugh)) there's not like 
-*MAR:	 (        ) 
-*DOR:	Yeah.That's right.
-*MAR:	 (        ) 
-*DOR:	Which is also why I feel that he ought to go to Ironcrest as well.
-*GRO:	 (        ) 
-*DOR:	Because otherwise school will become a little 
-*MAR:	Mm.
-*DOR:	horrendous won't it?
-*MAR:	And if he goes to   (        ) 
-*DOR:	Specially Woodrow  ((laugh)) 
-*MAR:	just for mornings only   (.) he'll be able to stick up for himself and that won't he?
-*DOR:	Yeah. (.) But it's sad really because I mean   (        ) does all sorts of things   (.) with them which
-*MAR:	He won't get when he goes, mm  (.) 
-*DOR:	But then Christopher survived didn't he?
-*MAR:	Yeah.
-*DOR:	And I think it's important  (        ) 
+*TIM:	Played in the sand. 
+*DOR:	Played in the sand? Was that with good James or naughty James? 
+*TIM:	Naughty  James. 
+*DOR:	 Ooh.   (.) Was naughty James good?  (6.0) So there we are. 
+*MAR:	Mm. 
+*DOR:	And they use the whole of the house, you know there's the downstairs, that little room that you saw. 
+*MAR:	Yeah. 
+*DOR:	That's known as the nursery room. 
+*MAR:	Yeah. And then they go in all the rest    (  )   
+*DOR:	 Then they  go in all the rest of the   (.) well just the downstairs. 
+*MAR:	Downstairs, mm. 
+*DOR:	So they can go, they have a story time in the sitting room, you know with a 
+*MAR:	That's nice  that's   (  )   
+*DOR:	 They play  on the floor with a 
+*MAR:	Yeah. 
+*DOR:	trucks and everything.  (.) It's friendly isn't it? 
+*MAR:	Mm. 
+*DOR:	You know what I mean? It's not institutionalized. 
+*MAR:	Well it's better   (  ) isn't it? 
+*DOR:	Well I think so. And there's nobody shrieking at them and there's only twelve of them there and   (.) you know, nobody's getting cross with anybody. Well I mean I suppose they do when they   (.) do something stupid. But there's not   ((laugh)) there's not  like   
+*MAR:	  (  )  
+*DOR:	Yeah. That's right. 
+*MAR:	 (  ) 
+*DOR:	Which is also why I feel that he ought to go to Ironcrest as well. 
+*GRO:	 (  ) 
+*DOR:	Because otherwise school will become a little  
+*MAR:	Mm. 
+*DOR:	horrendous won't it? 
+*MAR:	And if he goes to    (  )   
+*DOR:	 Specially Woodrow  ((laugh))   
+*MAR:	just for mornings only   (.) he'll be able to stick up for himself and that won't he? 
+*DOR:	Yeah.  (.) But it's sad really because I mean   (  ) does all sorts of things   (.) with them which 
+*MAR:	He won't get when he goes, mm  (.)  
+*DOR:	But then Christopher survived didn't he? 
+*MAR:	Yeah. 
+*DOR:	And I think it's important  (  )  
 @End

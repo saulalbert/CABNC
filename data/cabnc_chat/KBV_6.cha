@@ -1,23 +1,23 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-13:  
 @Location:	 home 
-@Situation:	 having dinner 
-@Media: 021A-C0897X0215XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 having dinner  
+@Media:	021A-C0897X0215XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	DON Donald self, KAR Karen wife
-@ID: eng|AudioBNC|DON|~33;| |m|Ag2| |telecommunication technician||PS07K|
-@ID: eng|AudioBNC|KAR|~32;| |f|Ag2| |housewife|wife|PS07L|
+@Options:	CA
+@ID:	eng|AudioBNC|DON|33;|||||telecommunication technician||PS07K|
+@ID:	eng|AudioBNC|KAR|32;|||||housewife|wife|PS07L|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0215XX-AAZZP0.wav
 @Comment:	conversation #7 (Tape 021505)
-*KAR:	It's okay, just keep it for now, that's it
-*DON:	I'm just   (        ) wait   (        ) top gear, you can go to   (        ) can't you just by the side of Worcester
-*KAR:	How can you?
-*DON:	 (        ) 
-*KAR:	 (        ) 
-*DON:	one minute  (        ) 
-*KAR:	Oh
+*KAR:	It's okay, just keep it for now, that's it 
+*DON:	I'm just   (  ) wait   (  ) top gear, you can go to   (  ) can't you just by the side of Worcester 
+*KAR:	How can you? 
+*DON:	 (  ) 
+*KAR:	 (  ) 
+*DON:	one minute  (  )  
+*KAR:	Oh 
 @End

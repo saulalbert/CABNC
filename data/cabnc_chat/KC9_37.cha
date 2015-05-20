@@ -1,27 +1,27 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-05:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0145XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0145XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	GIN Ginny self
-@ID: eng|AudioBNC|GIN|~65;| |f|Ag5| |housewife||PS0CG|
+@Options:	CA
+@ID:	eng|AudioBNC|GIN|65;|||||housewife||PS0CG|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0145XX-AAZZP0.wav
 @Comment:	conversation #37 (Tape 014503)
-*GIN:	D'you want to drink ordinary tea or what?
-*VIC:	Yes that would be fine 
-*GIN:	Or what Pete calls my funny tea.
-*VIC:	No, ordinary tea would be nice, thank you.
-*GIN:	 (        ) , I have a cup of your lemon tea.
-*VIC:	 ((laugh)) .
-*GIN:	Any   (        ) Dinda's taken the camera.
-*VIC:	Oh has she? (        ) .
-*GIN:	Yeah.
-*VIC:	That's nice, well you're not all that nice, I mean it does you good, I, if I get an upset tummy I always have some.
-*GIN:	Do you?Slimming.
-*VIC:	Yeah.
+*GIN:	D'you want to drink ordinary tea or what? 
+*VIC:	Yes that  would be fine   
+*GIN:	 Or what Pete calls  my funny tea. 
+*VIC:	No, ordinary tea would be nice, thank you. 
+*GIN:	 (  ) , I have a cup of your lemon tea. 
+*VIC:	 ((laugh)) . 
+*GIN:	Any   (  ) Dinda's taken the camera. 
+*VIC:	Oh has she? (  ) . 
+*GIN:	Yeah. 
+*VIC:	That's nice, well you're not all that nice, I mean it does you good, I, if I get an upset tummy I always have some. 
+*GIN:	Do you? Slimming. 
+*VIC:	Yeah. 
 @End

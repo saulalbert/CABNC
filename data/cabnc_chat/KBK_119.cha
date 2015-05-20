@@ -1,23 +1,23 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0024XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0024XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0024XX-ABZZP0.wav
 @Comment:	conversation #119 (Tape 002419)
-*NOR:	They certainly plant them quickly. ((tv on))
-*CHR:	Mm.Beautifully prepared soil, I mean you try that with our soil you'll damage your fingers, it's like a flipping rock.
-*NOR:	 (        ) 
-*CHR:	Not with your fingers you didn't.
-*NOR:	Yes I did. (        ) my fingers  (        ) .
-*CHR:	Do you want to go and have a jazz tonight?
-*NOR:	No not really.
+*NOR:	They certainly plant them quickly. ((tv on)) 
+*CHR:	Mm. Beautifully prepared soil, I mean you try that with our soil you'll damage your fingers, it's like a flipping rock. 
+*NOR:	 (  ) 
+*CHR:	Not with your fingers you didn't. 
+*NOR:	Yes I did.  (  ) my fingers  (  ) . 
+*CHR:	Do you want to go and have a jazz tonight? 
+*NOR:	No not really. 
 @End

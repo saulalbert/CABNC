@@ -1,39 +1,39 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-28:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0150XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0150XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BRE Brenda self, LEE Lee son, CAR Carla daughter
-@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
-@ID: eng|AudioBNC|LEE|~15;| |m|Ag1| |student (state secondary)|son|PS04W|
-@ID: eng|AudioBNC|CAR|~11;| |f|Ag0| |student (state primary)|daughter|PS04X|
+@Options:	CA
+@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
+@ID:	eng|AudioBNC|LEE|15;|||||student (state secondary)|son|PS04W|
+@ID:	eng|AudioBNC|CAR|11;|||||student (state primary)|daughter|PS04X|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0150XX-ABZZP0.wav
 @Comment:	conversation #15 (Tape 015015)
-*BRE:	About sixty nine, seventy pounds.
-*CAR:	Seventy pounds.
-*LEE:	What is?
-*CAR:	Oh yeah, you can get the one I want in.Extra   (        ) brill.
-*BRE:	I'll write it down but you'll have to write to see what father Christmas says.
-*CAR:	I might  (        ) .
-*BRE:	That was seventy.
-*CAR:	Seventy. (        ) . Right now it   (        ) oh it's seventy in Argos.
-*LEE:	What's that?
-*CAR:	Erm, one and a half keyboard, item number
-*BRE:	Hang on.
-*CAR:	One and a half keyboard   (.) item number five   (.) and it   (        ) sixty nine quid, fifty p.
-*BRE:	Sixty nine quid, don't you mean sixty nine pounds and fifty pence.
-*CAR:	Pounds .Mm   (.)  ((television)).Got no baby strap.Fallen in love with that   (        ) stuff.
-*BRE:	You'll have to get your stuff down and, you know what one we'll have to get, you know those big cases that she get's from Ikea, and bring it all down and get one of those for your bedroom and keep it all in   (.) Started your homework yet Lee?
-*LEE:	What?
-*BRE:	Started your homework yet?
-*LEE:	No.
-*BRE:	Didn't you do it while I was out?
-*LEE:	Yeah, when you come in.
-*BRE:	Was that rushing you to get that paper going? (.) 
-*CAR:	 (        ) .That's   (        ) that little powerful car, like, Kearin's, but he's got the motor bike  (        ) .
+*BRE:	About sixty nine, seventy pounds. 
+*CAR:	Seventy pounds. 
+*LEE:	What is? 
+*CAR:	Oh yeah, you can get the one I want in. Extra   (  ) brill. 
+*BRE:	I'll write it down but you'll have to write to see what father Christmas says. 
+*CAR:	I might  (  ) . 
+*BRE:	That was seventy. 
+*CAR:	Seventy.  (  ) . Right now it   (  ) oh it's seventy in Argos. 
+*LEE:	What's that? 
+*CAR:	Erm, one and a half keyboard, item number 
+*BRE:	Hang on. 
+*CAR:	One and a half keyboard   (.) item number five   (.) and it   (  ) sixty nine quid, fifty p. 
+*BRE:	Sixty nine quid, don't you mean sixty nine  pounds  and fifty pence. 
+*CAR:	 Pounds  . Mm   (.)  ((television)). Got no baby strap. Fallen in love with that   (  ) stuff. 
+*BRE:	You'll have to get your stuff down and, you know what one we'll have to get, you know those big cases that she get's from Ikea, and bring it all down and get one of those for your bedroom and keep it all in   (7.0) Started your homework yet Lee? 
+*LEE:	What? 
+*BRE:	Started your homework yet? 
+*LEE:	No. 
+*BRE:	Didn't you do it while I was out? 
+*LEE:	Yeah, when you come in. 
+*BRE:	Was that rushing you to get that paper going? (5.0)  
+*CAR:	 (  ) . That's   (  ) that little powerful car, like, Kearin's, but he's got the motor bike  (  ) . 
 @End

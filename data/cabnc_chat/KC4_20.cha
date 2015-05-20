@@ -1,34 +1,34 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-05:  
 @Location:	 The Lion Inn 
-@Situation:	Unspecified
-@Media: 021A-C0897X0066XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0066XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	FRE Fred self
-@ID: eng|AudioBNC|FRE|~78;| |m|Ag5| |retired||PS1E4|
+@Options:	CA
+@ID:	eng|AudioBNC|FRE|78;|||||retired||PS1E4|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0066XX-AAZZP0.wav
 @Comment:	conversation #20 (Tape 006606)
-*FRE:	That's not whisky.
-*NON:	Oh.
-*FRE:	Bloody sweat it is. ((laugh)) 
-*NON:	 (        ) 
-*FRE:	Kathleen, Kathleen.
-*NON:	That's me.
-*FRE:	Behave yourself, you want a whisky?
-*NON:	Yes please.
-*FRE:	Then you shall have a whisky.
-*NON:	Thank you.
-*FRE:	 ((music))And when you, when you, when, when, when, when do you, what's it due?
-*NON:	Half past four.
-*FRE:	Eh?
-*NON:	Half past four.
-*FRE:	Bloody hell that's about four or five whiskies away that is ain't it?Bloody hell, I don't know whether I can afford that. ((laugh))  (        ) whiskies are now, don't you?Bloody hell. ((music))Right, I'm going to have a
-*NON:	Next time you bring it down, put it there and don't knock it over.
-*FRE:	Oh shut up woman, shut up, you give me the bloody screaming abdabs, it's my money I threw away.
-*NON:	I know.
-*FRE:	Well shut up.
+*FRE:	That's not whisky. 
+*NON:	Oh. 
+*FRE:	Bloody sweat it is. ((laugh))  
+*NON:	 (  ) 
+*FRE:	Kathleen, Kathleen. 
+*NON:	That's me. 
+*FRE:	Behave yourself, you want a whisky? 
+*NON:	Yes please. 
+*FRE:	Then you shall have a whisky. 
+*NON:	Thank you. 
+*FRE:	 ((music))And when you, when you, when, when, when, when do you, what's it due? 
+*NON:	Half past four. 
+*FRE:	Eh? 
+*NON:	Half past four. 
+*FRE:	Bloody hell that's about four or five whiskies away that is ain't it? Bloody hell, I don't know whether I can afford that.  ((laugh))  (  ) whiskies are now, don't you? Bloody hell.  ((music))Right, I'm going to have a 
+*NON:	Next time you bring it down, put it there and don't knock it over. 
+*FRE:	Oh shut up woman, shut up, you give me the bloody screaming abdabs, it's my money I threw away. 
+*NON:	I know. 
+*FRE:	Well shut up. 
 @End

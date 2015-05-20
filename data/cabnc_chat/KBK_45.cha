@@ -1,40 +1,40 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0022XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0022XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0022XX-AAZZP0.wav
 @Comment:	conversation #45 (Tape 002212)
-*NOR:	Did you see this, a baby, a four day old baby girl died after receiving the transfusion of over heated blood, which the nurse had warmed boiling water from a kettle.
-*CHR:	Good grief.Where was that? (.) 
-*NOR:	Exeter.
-*CHR:	Don't get ill in Exeter.
-*NOR:	 ((cough))  (.) There's a comment on the   (        ) saying that, these days in cases of separation and divorce, it is only the right child which is considered.An unmarried couple
-*CHR:	Mm mm.
-*NOR:	who wanted to live together, and wanted to have a child, but they wanted to know whether they would have equal rights as parents
-*CHR:	Aha.
-*NOR:	could they draw up a contract, saying that they would share?
-*CHR:	Mm mm.
-*NOR:	And he said yes you can, but it would do you no good at all, cos if the point came when you split up the judge wouldn't look at your contract, he would only consider the rights of the child.
-*CHR:	Mm.
-*NOR:	That explains why Brian didn't get a look in.
-*CHR:	Yes.Yes   (.) Good heavens, tomorrow, the day after, the whole of radio three
+*NOR:	Did you see this, a baby, a four day old baby girl died after receiving the transfusion of over heated blood, which the nurse had warmed boiling water from a kettle. 
+*CHR:	Good grief. Where was that? (5.0)  
+*NOR:	Exeter. 
+*CHR:	Don't get ill in Exeter. 
+*NOR:	 ((cough))  (5.0) There's a comment on the   (  ) saying that, these days in cases of separation and divorce, it is only the right child which is considered. An unmarried couple 
+*CHR:	Mm mm. 
+*NOR:	who wanted to live together, and wanted to have a child, but they wanted to know whether they would have equal rights as parents 
+*CHR:	Aha. 
+*NOR:	could they draw up a contract, saying that they would share? 
+*CHR:	Mm mm. 
+*NOR:	And he said yes you can, but it would do you no good at all, cos if the point came when you split up the judge wouldn't look at your contract, he would only consider the rights of the child. 
+*CHR:	Mm. 
+*NOR:	That explains why Brian didn't get a look in. 
+*CHR:	Yes. Yes   (5.0) Good heavens, tomorrow, the day after, the whole of radio three 
 *NOR:	 ((cough)) 
-*CHR:	comes from St.Paul and Minneapolis, Minnesota.
-*NOR:	Why?
-*CHR:	Live broadcast.
-*NOR:	Why?What's going on there?
-*CHR:	Well I assume they're some sort of  (.) 
-*NOR:	Pop  (        ) .
-*CHR:	No hardly pop for radio three dear .
-*NOR:	For radio three yeah.
-*CHR:	Twin cities weekend, don't actually say that there's a  (        ) .
+*CHR:	comes from St.Paul and Minneapolis, Minnesota. 
+*NOR:	Why? 
+*CHR:	Live broadcast. 
+*NOR:	Why? What's going on there? 
+*CHR:	Well I assume they're some sort of  (.)  
+*NOR:	Pop  (  ) . 
+*CHR:	No hardly pop for  radio three dear  . 
+*NOR:	 For radio three  yeah. 
+*CHR:	Twin cities weekend, don't actually say that there's a  (  ) . 
 @End

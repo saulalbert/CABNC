@@ -1,23 +1,23 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 Croquet club 
-@Situation:	 playing croquet 
-@Media: 021A-C0897X0028XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 playing croquet  
+@Media:	021A-C0897X0028XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, DAV David neighbour
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|DAV|~45;| |m|Ag4| |property manager|neighbour|PS107|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|DAV|45;|||||property manager|neighbour|PS107|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0028XX-AAZZP0.wav
 @Comment:	conversation #186 (Tape 002809)
-*CHR:	No I didn't.No!I was just thinking should
-*DAV:	Join up?
-*CHR:	Should I be? (.) 
-*DAV:	Well I think you should join up because something's put  in the middle but depends   (.) in a game   (        ) If I was playing against a level player you might just have a very hard crack together, but just to join up gently in the middle.
-*CHR:	Right right fine.
-*DAV:	If you miss , you're still playing  (        ) 
-*CHR:	Yes
+*CHR:	No I didn't. No! I was just thinking should 
+*DAV:	Join up? 
+*CHR:	Should I be? (.)  
+*DAV:	Well I think you should join up because something's put   in the middle but depends   (.) in a game   (  ) If I was playing against a level player you might just have a very hard crack together, but just to join up gently in the middle. 
+*CHR:	Right right fine. 
+*DAV:	If you miss  , you're still playing  (  )  
+*CHR:	Yes 
 @End

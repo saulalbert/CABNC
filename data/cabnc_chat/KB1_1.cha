@@ -1,23 +1,23 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-01:  
 @Location:	  at home  
-@Situation:	  talking to parrot then mother-in-law on phone  
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  talking to parrot then mother-in-law on phone   
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , ALB Albert self, JUN June wife
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|ALB|~53;| |m|Ag4| |unemployed||PS01A|
-@ID: eng|AudioBNC|JUN|~47;| |f|Ag4| |forecourt attendant|wife|PS01B|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|ALB|53;|||||unemployed||PS01A|
+@ID:	eng|AudioBNC|JUN|47;|||||forecourt attendant|wife|PS01B|
 @Comment:	conversation #1 (Tape 059801)
-*ALB:	George   (.) George.
+*ALB:	George   (.) George. 
 *JUN:	 ((cough)) 
-*ALB:	Want a scratch?Mm   ((whistling)) do you want a scratch?Come on then, there, I can't reach, come on then, that's a good boy   (.) there you are   (.) you like that?Gonna give us a kiss, give us a kiss then, come on. ((laugh))  (.) 
-*UNK:	 (        ) 
-*ALB:	Give us it, give us a kiss, that's a good boy. ((laugh))  (.) There you are
-*JUN:	Oh, oh, oh  (.) 
-*ALB:	ah  (        ) 
-*ALB:	 ((phone rings))There she blows, it's your mama   ((telephone conversation starts))hello, yeah we've been up half er, since half past, about eight o'clock   (.) yeah, we'll be round at nine o'clock, okay, bye  ((telephone conversation ends)).
+*ALB:	Want a scratch? Mm   ((whistling)) do you want a scratch? Come on then, there, I can't reach, come on then, that's a good boy   (.) there you are   (.) you like that? Gonna give us a kiss, give us a kiss then, come on. ((laugh))  (.)  
+*UNK:	 (  ) 
+*ALB:	Give us it, give us a kiss, that's a good boy.  ((laugh))  (.) There you are 
+*JUN:	Oh, oh, oh  (.)  
+*ALB:	ah  (  )  
+*ALB:	 ((phone rings))There she blows, it's your mama   ((telephone conversation starts))hello, yeah we've been up half er, since half past, about eight o'clock   (.) yeah, we'll be round at nine o'clock, okay, bye  ((telephone conversation ends)). 
 @End

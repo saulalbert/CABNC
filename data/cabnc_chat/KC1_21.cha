@@ -1,51 +1,51 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
-@Date:	1992-02-27:   servicing televisions 
-@Media: 021A-C0897X0410XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
+@Date:	1992-02-27:   servicing televisions  
+@Media:	021A-C0897X0410XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , FRA Frank self, STE Steve colleague
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|FRA|~50;| |m|Ag4| |tv engineer||PS09E|
-@ID: eng|AudioBNC|STE|~44;| |m|Ag3| |salesman|colleague|PS09G|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|FRA|50;|||||tv engineer||PS09E|
+@ID:	eng|AudioBNC|STE|44;|||||salesman|colleague|PS09G|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0410XX-AAZZP0.wav
 @Comment:	conversation #21 (Tape 041001)
-*FRA:	Find out what to do about  taking that band saw away I dunno.
-*STE:	Yeah, I saw, I passed him this morning going down to   (.) the garage with some wood 
-*FRA:	Was he?
-*STE:	on his roof and all that.
-*FRA:	I mean there's all that wood we bought!
-*STE:	Yeah.
-*FRA:	It would useful!
-*STE:	 (        )  (        ) 
-*FRA:	Be useful in here, you know.Or e 
-*UNK:	I wonder if he'll sell?
-*STE:	No.I have difficulty   (        ) some of them.They're always, I'm taking stuff away from them.Erm   (.) cos I'm a right bastard really I think!
-*FRA:	No, does me.
-*STE:	But erm 
-*FRA:	Hasn't got much to say to any of us.
-*STE:	Find out about er   (.) you know, if that is going through we're gonna have to start flogging some of the stuff off to get some money back then.
-*FRA:	Yeah. (.) He was on his way to the garage you say?He might bet there 
-*STE:	Yes.
-*FRA:	now mightn't he?
-*STE:	Yeah.Should be there.
-*FRA:	So which is Paul's number at the garage? (.)  (.)  (.)  ((phonecall starts))Oh, hello it's Frank here!Is erm   (.) is Alan  there do you know? (.)  (        ) the little workshop, yeah.He's not.Who's that, Lloyd?Oh it's Frank, you know, from the darts team.Oh!Alright.Erm   (.) you could, yes, you could if you see him.Yeah, he he's got my number there, yeah.Alright.Cheers Lloyd!Bye  ((phonecall ends))! (.) I think I'll try him at home.
-*STE:	Alright.
-*FRA:	This should be funny!I bet bloody   (.) what's her name won't talk to me! innit? (.)  ((phonecall starts))Hello Sandy!Ho how you doing, alright?Is Alan about?Ah, right.Alright.Can do or I'll ring him later on.Whatever!Yeah, alright Sand.Cheers then!Right, bye  ((phonecall ends))! (.) I don't believe that at all!
-*STE:	What's that?
-*FRA:	She said he's out and I don't know what time he'll be back!I bet 
-*STE:	Oh!
-*FRA:	she knew exactly where he would be and    (.)  [laughing] what time he'd be back!She, she's got him on a string ain't she  [] !
-*STE:	She knows
+*FRA:	Find out what to do about   taking that band saw away I dunno. 
+*STE:	Yeah, I saw, I passed him this morning going down to   (.) the garage with  some wood   
+*FRA:	 Was he? 
+*STE:	on his roof and all that. 
+*FRA:	I mean there's all that wood we bought! 
+*STE:	Yeah. 
+*FRA:	It would  useful! 
+*STE:	  (  )   (  ) 
+*FRA:	Be useful in here, you know. Or e   
+*UNK:	I wonder if he'll sell? 
+*STE:	No. I have difficulty   (  ) some of them. They're always, I'm taking stuff away from them. Erm   (.) cos I'm a right bastard really I think! 
+*FRA:	 No, does me. 
+*STE:	 But erm   
+*FRA:	Hasn't got much to say  to any of us. 
+*STE:	 Find out about  er   (.) you know, if that is going through we're gonna have to start flogging some of the stuff off to get some money back then. 
+*FRA:	Yeah.  (7.0) He was on his way to the garage you say? He might bet  there   
+*STE:	 Yes. 
+*FRA:	now mightn't he? 
+*STE:	Yeah. Should be there. 
+*FRA:	So which is Paul's number at the garage?  (21.0)   (9.0)   (17.0)  ((phonecall starts))Oh, hello it's Frank here! Is erm   (.) is Alan   there do you know? (6.0)  (  ) the little workshop, yeah. He's not. Who's that, Lloyd? Oh it's Frank, you know, from the darts team. Oh! Alright. Erm   (.) you could, yes, you could if you see him. Yeah, he he's got my number there, yeah. Alright. Cheers Lloyd! Bye  ((phonecall ends))!  (22.0) I think I'll try him at home. 
+*STE:	Alright. 
+*FRA:	This should be funny! I bet bloody   (.) what's her name won't talk to me! innit?   (14.0)  ((phonecall starts))Hello Sandy! Ho  how you doing, alright? Is Alan about? Ah, right. Alright. Can do or I'll ring him later on. Whatever! Yeah, alright Sand. Cheers then! Right, bye  ((phonecall ends))!  (10.0) I don't believe that at all! 
+*STE:	What's that? 
+*FRA:	She said he's out and I don't know what time he'll be back!  I bet   
+*STE:	 Oh! 
+*FRA:	she knew exactly where he would be and    (.)  ((laughing)) what time he'd be back! She, she's got him on a string ain't she ! 
+*STE:	She knows 
 *FRA:	 ((laugh)) 
-*STE:	wherever he goes.
-*FRA:	That's right.Oh!
-*STE:	Oh I tell you what he could have done for us   (.) have a look at that master   (.) that matchline thing.
-*FRA:	Yeah, well he's he's going to look at that for us.
-*STE:	Yeah.
-*FRA:	Yeah.I think he was gonna get a circuit for it or summat.
-*STE:	 (        ) 
-*FRA:	I must get   (.) a little tiny erm   (.) filing cabinet sometime.
+*STE:	wherever he goes. 
+*FRA:	That's right. Oh! 
+*STE:	Oh I tell you what he could have done for us   (.) have a look at that master   (.) that matchline thing. 
+*FRA:	Yeah, well he's he's going to look at that for us. 
+*STE:	Yeah. 
+*FRA:	Yeah. I think he was gonna get a circuit for it or summat. 
+*STE:	 (  ) 
+*FRA:	I must get   (.) a little tiny erm   (.) filing cabinet sometime. 
 @End

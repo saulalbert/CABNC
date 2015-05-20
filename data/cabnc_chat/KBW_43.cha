@@ -1,49 +1,49 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-18:  
 @Location:	  out  
-@Situation:	  taking 3 to school  
-@Media: 021A-C0897X0228XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  taking 3 to school   
+@Media:	021A-C0897X0228XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , DOR Dorothy self, TIM Tim son, CHR Christopher son
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
-@ID: eng|AudioBNC|TIM|~3;| |m|Ag0| |student (private pre)|son|PS088|
-@ID: eng|AudioBNC|CHR|~5;| |m|Ag0| |student (state primary)|son|PS089|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|DOR|34;|||||teacher (pt)||PS087|
+@ID:	eng|AudioBNC|TIM|3;|||||student (private pre)|son|PS088|
+@ID:	eng|AudioBNC|CHR|5;|||||student (state primary)|son|PS089|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0228XX-ABZZP0.wav
 @Comment:	conversation #43 (Tape 022803)
-*DOR:	I don't know, they've probably gone a different way today   (.)  (        ) 
-*TIM:	 (        )  (.) 
-*CHR:	 (        ) why, (        ) she set off before it rained  (        ) 
-*DOR:	Just don't let anything  (        ) 
-*CHR:	No
-*DOR:	 (        ) 
-*CHR:	I   (        ) buyed one, Timmy's dry isn't he?
-*TIM:	Yeah, you  (        ) 
-*DOR:	Oh  (.) 
-*TIM:	 (        )  (.) 
-*DOR:	Come on Tim, you coming?
-*TIM:	 (        )  ((crying))
-*DOR:	 (        )  (.) 
-*CHR:	 (        ) 
-*DOR:	Pardon?
-*CHR:	 (        ) 
-*DOR:	I think everybody's just going in   (        )  (.) 
-*CHR:	 (        )  (.) 
-*DOR:	Ah there's Jane look   (.) morning
-*UNK:	 (        ) your boy's   (        ) take them in
+*DOR:	I don't know, they've probably gone a different way today   (.)  (  )  
+*TIM:	 (  )  (.) 
+*CHR:	 (  ) why, (  ) she set off before it rained  (  )  
+*DOR:	Just don't let anything  (  )  
+*CHR:	No 
+*DOR:	 (  ) 
+*CHR:	I   (  ) buyed one, Timmy's dry isn't he? 
+*TIM:	Yeah, you  (  )  
+*DOR:	Oh  (.)  
+*TIM:	 (  )  (.) 
+*DOR:	Come on Tim, you coming? 
+*TIM:	 (  )  ((crying))
+*DOR:	 (  )  (.) 
+*CHR:	 (  ) 
+*DOR:	Pardon? 
+*CHR:	 (  ) 
+*DOR:	I think everybody's just going in   (  )  (.)  
+*CHR:	 (  )  (.) 
+*DOR:	Ah there's Jane look   (.) morning 
+*UNK:	 (  ) your boy's   (  ) take them in 
 *DOR:	 ((laugh)) 
-*UNK:	 ((laugh)) , Jane come here  (.) 
-*DOR:	 (        ) 
-*UNK:	 (        )  ((laugh)) 
+*UNK:	 ((laugh)) , Jane come here  (.)  
+*DOR:	 (  ) 
+*UNK:	 (  )  ((laugh)) 
 *DOR:	 ((laugh))  (.) 
-*UNK:	 (        ) near the window, see you later, bye, bye, love you, see you later   (.) here you go then, bye Annie see you later, love you
-*DOR:	Oh sorry   (.) take care  (.) 
-*TIM:	I play that money game
-*DOR:	Want to play what money game?
-*TIM:	That money game with   (        ) one
-*DOR:	Well we've got to   (        ) we'll go there later.
+*UNK:	 (  ) near the window, see you later, bye, bye, love you, see you later   (.) here you go then, bye Annie see you later, love you 
+*DOR:	Oh sorry   (.) take care  (.)  
+*TIM:	I play that money game 
+*DOR:	Want to play what money game? 
+*TIM:	That money game with   (  ) one 
+*DOR:	Well we've got to   (  ) we'll go there later. 
 @End

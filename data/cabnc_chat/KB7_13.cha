@@ -1,744 +1,744 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-29:  
 @Location:	  pub  
-@Situation:	  drinking, playing cribbage, watching snookerette  
-@Media: 021A-C0897X0184XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  drinking, playing cribbage, watching snookerette   
+@Media:	021A-C0897X0184XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , ANN Ann self, STU Stuart partner, SHI Shirley friend, ALA Alan stranger, TER Terry stranger, BOB Bob friend, MAR Martin friend, UNK Unknown Unknown None ?
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
-@ID: eng|AudioBNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
-@ID: eng|AudioBNC|SHI|~45;| |f|Ag4| |publican|friend|PS02N|
-@ID: eng|AudioBNC|ALA|~50;| |m|Ag4| |stranger|PS02P|
-@ID: eng|AudioBNC|TER|unknown |m|X| |stranger|PS02R|
-@ID: eng|AudioBNC|BOB|~46;| |m|Ag4| |publican|friend|PS02S|
-@ID: eng|AudioBNC|MAR|~23;| |m|Ag1| |marketing person|friend|PS02V|
-@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6TB|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|ANN|46;|||||team leader||PS02G|
+@ID:	eng|AudioBNC|STU|33;|||||factory operative|partner|PS02H|
+@ID:	eng|AudioBNC|SHI|45;|||||publican|friend|PS02N|
+@ID:	eng|AudioBNC|ALA|50;|||||stranger|PS02P|
+@ID:	eng|AudioBNC|TER|unknown||||stranger|PS02R|
+@ID:	eng|AudioBNC|BOB|46;|||||publican|friend|PS02S|
+@ID:	eng|AudioBNC|MAR|23;|||||marketing person|friend|PS02V|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6TB|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0184XX-ABZZP0.wav
 @Comment:	conversation #13 (Tape 018402)
 *NON:	 ((in pub - lots of conversations going on at once. when 1 and 2 speak other people cannot be heard))
-*STU:	It's your first take.Give you fifteen.
-*ANN:	Oh I've   (        ) bloody hell, ((laugh)) . (.) 
-*TER:	If, if I was playing a game I would actually    (.)  (        ) somebody else. [shouting] Ah! [] .Done it.
+*STU:	It's your first take.  Give you fifteen. 
+*ANN:	 Oh I've   (  )  bloody hell, ((laugh)) . (.)  
+*TER:	If, if I was playing a game I would actually    (.)  (  ) somebody else.  ((shouting)) Ah! . Done it. 
 *:	 ((laugh)) 
-*TER:	I was trying for that one.
-*NON:	Didn't that work out?
-*STU:	So I need to take six.
-*TER:	Oh I, I was trying to get it up there.
-*ANN:	Oh it's my, is it your box?
-*STU:	Yeah.
-*ANN:	Won't matter will it?
-*STU:	Not really.You need fifteen.
-*ANN:	Oh what do I do?I don't know how it counts, that's   (.) four seven eight nine 
-*STU:	Got to try holding as many as you can really.
-*ANN:	I know but I don't know how many many is   ((raspberry))  ((laugh)) .That's three.
-*NON:	You started it.
-*TER:	Yes.Alright alright alright. (.) 
-*ANN:	What's the chances of one of them coming up?
-*STU:	Well if it   (.) if it gives you the   (.) required amount or
-*ANN:	I don't know how to work it out.Look  (.) 
-*STU:	Mm well that's a problem isn't it?
-*ANN:	Keep them and one of them in case you get another three or a six. [laughing] oh oh oh oh oh   [] 
-*STU:	 (        ) 
-*ANN:	That's only four though innit you see? (.) No, yeah.
-*STU:	 (        ) 
-*ANN:	 ((laugh))  (.) That's what I said, to do that and hope for a three or a six or another five or a king.
-*STU:	You want a six preferably or a king or five, yeah. (.) 
-*ANN:	Two for jacks. (.) Oh  ((laugh)) .
-*STU:	It's your lead then. (.) 
-*NON:	Good shot.
-*:	Oh! (.) 
-*STU:	I'm   (        ) 
-*:	 (        ) 
+*TER:	I was trying for that one. 
+*NON:	Didn't that work out? 
+*STU:	So I need to take six. 
+*TER:	Oh I, I was trying to get it up there. 
+*ANN:	Oh it's my, is it your box? 
+*STU:	Yeah. 
+*ANN:	Won't matter will it? 
+*STU:	Not really. You need fifteen. 
+*ANN:	Oh what do I do? I don't know how it counts, that's   (.)  four seven eight nine   
+*STU:	 Got to try holding as many as  you can really. 
+*ANN:	I know but I don't know how many many is   ((raspberry))  ((laugh)) . That's three. 
+*NON:	You started it. 
+*TER:	Yes. Alright alright alright. (.)  
+*ANN:	What's the chances of one of them coming up? 
+*STU:	Well if it   (.) if it gives you the   (.) required amount or 
+*ANN:	I don't know how to work it out. Look  (.)  
+*STU:	Mm well that's a problem isn't it? 
+*ANN:	Keep them and one of them in case you get another three or a six.   ((laughing)) oh oh oh oh oh    
+*STU:	  (  )  
+*ANN:	That's only four though innit you see?  (.) No, yeah. 
+*STU:	 (  ) 
+*ANN:	 ((laugh))  (.) That's what I said, to do that and hope for a three  or a six or another five or a king. 
+*STU:	 You want a six preferably  or a king or five, yeah. (.)  
+*ANN:	Two for jacks.  (.) Oh  ((laugh)) . 
+*STU:	It's your lead then. (.)  
+*NON:	Good shot. 
+*:	Oh! (.)  
+*STU:	I'm    (  )   
+*:	  (  )  
 *ANN:	 ((laugh)) 
-*STU:	Six   (.) sixteen, twenty two.
-*TER:	Cor I'm not, I'm not gonna risk that.
-*STU:	Two   (        ) twenty eight.
-*ANN:	You know I haven't got it. (.) 
-*STU:	 (        ) you got a dozen though.
-*ANN:	Not enough though.
-*STU:	Not quite.
-*ANN:	You've done it anyway.
-*STU:	Yeah   (        ) 
-*:	 (        ) 
-*STU:	Fifteen two fifteen four fifteen six   (.) two three four six   (        ) eight, two's ten.Threepence after all that dear.Three P.
-*ANN:	That was quite a good game actually, in the end.
-*STU:	Three P  (        ) 
-*ANN:	Didn't I have some bloody funny hands?
-*STU:	Yeah.
-*ANN:	Awkward hands to work out.
-*STU:	Oh yeah I'd   (.) I'd agree with you.Threepence then dear.You owe me.
-*ANN:	Threepence I owe you.
-*STU:	Threepence you owe me. (.) My box?
-*ANN:	Yeah.
-*STU:	Yeah. (.) 
-*TER:	Cor, something's shaved that one over a little bit. (.) 
-*ANN:	Mm  (        ) 
-*STU:	It's  (        ) .You wanna Put   (.) four ten.
-*TER:	That's a lovely table Alan.
-*STU:	Nineteen. (.) Jack nine. (.) Thirty, no?
-*NON:	Ooh!
-*SHI:	That was good playing that was.That was a good shot.
-*STU:	Oh I'm sorry    (        )  (.) you did didn't you?
-*NON:	Ever so close wasn't it?
-*SHI:	Yeah it was a good shot.
-*NON:	You know    (        )  ((laugh)) 
-*STU:	 (        ) one .
-*NON:	Yeah.
-*SHI:	Trying to   (.) yeah. (.) 
-*NON:	Oh well, what do you do when you're   (.) seven hundred behind?
-*SHI:	 (        ) 
-*STU:	 (        ) two.Twenty for two and the rest three. (        ) table isn't it?
-*TER:	 (        ) oh sorry I've got to get, move another way.
-*STU:	Fifteen two fifteen four fifteen six sixteen, eight two is ten?
-*:	 (        ) 
-*TER:	Yeah yeah I'm trying out shots, that's all.
-*STU:	Ten.Fifteen two fifteen four fifteen six   (        ) fourteen.
-*:	 (        ) 
-*ANN:	Tut   (.) oh ah   (.) I can't win no matter what I do.
-*STU:	Well you're not   (.)  (        ) .
-*NON:	All the balls are on the table actually.
-*ANN:	Least I know what to put in the box. ((laugh)) Cos I worked out that was fifteen and there were a picture go  (        ) .
-*STU:	Yeah.I need ten.
-*ANN:	Or a three or a six.At least I'd   (.) erm four five, what two in one.You know and that's 
-*STU:	Yeah.Yeah.Any ten you wanted didn't you?
-*ANN:	Yeah or a 
-*STU:	I mean you got the ten you wanted.
-*ANN:	But er
-*STU:	Or a six.
-*ANN:	a six or   (.) so I knew what, that the nine was no good to me or the
-*STU:	Yeah, yeah.
-*ANN:	s six.
-*NON:	Who put the fifty pence in there?Who put the fifty pence in there?
+*STU:	Six   (.) sixteen, twenty two. 
+*TER:	Cor I'm not, I'm not gonna risk that. 
+*STU:	Two   (  ) twenty eight. 
+*ANN:	You know I haven't got it. (.)  
+*STU:	 (  ) you got a dozen though. 
+*ANN:	Not enough though. 
+*STU:	Not quite. 
+*ANN:	You've done it anyway. 
+*STU:	Yeah    (  )   
+*:	  (  )  
+*STU:	Fifteen two fifteen four fifteen six   (.) two three four six   (  ) eight, two's ten. Threepence after all that dear. Three P. 
+*ANN:	That was quite a good game actually, in the end. 
+*STU:	Three P  (  )  
+*ANN:	Didn't I have some bloody funny hands? 
+*STU:	Yeah. 
+*ANN:	Awkward hands to work out. 
+*STU:	Oh yeah I'd   (.) I'd agree with you. Threepence then dear. You owe me. 
+*ANN:	Threepence I owe you. 
+*STU:	Threepence you owe me.  (.) My box? 
+*ANN:	Yeah. 
+*STU:	Yeah. (5.0)  
+*TER:	Cor, something's shaved that one over a little bit. (8.0)  
+*ANN:	Mm  (  )  
+*STU:	It's  (  ) . You wanna Put   (.) four ten. 
+*TER:	That's a lovely table Alan. 
+*STU:	Nineteen.  (.) Jack nine.  (.) Thirty, no? 
+*NON:	Ooh! 
+*SHI:	That was good playing that was. That was a good shot. 
+*STU:	Oh I'm sorry     (  )  (.) you did didn't you? 
+*NON:	 Ever so close wasn't it? 
+*SHI:	Yeah it was a good shot. 
+*NON:	You know     (  )  ((laugh))   
+*STU:	  (  ) one  . 
+*NON:	Yeah. 
+*SHI:	Trying to   (.) yeah. (.)  
+*NON:	Oh well, what do you do when you're   (.) seven hundred behind? 
+*SHI:	  (  )  
+*STU:	  (  ) two.  Twenty for two and the rest three.   (  ) table isn't it? 
+*TER:	  (  )  oh sorry I've got to get, move another way. 
+*STU:	Fifteen two fifteen four fifteen six sixteen, eight two is ten? 
+*:	 (  ) 
+*TER:	Yeah yeah I'm trying out shots, that's all. 
+*STU:	Ten. Fifteen two fifteen four fifteen six   (  ) fourteen. 
+*:	 (  ) 
+*ANN:	Tut   (.) oh ah   (.) I can't win no matter what I do. 
+*STU:	Well you're not   (.)  (  ) . 
+*NON:	All the balls are on the table actually. 
+*ANN:	Least I know what to put in the box.  ((laugh)) Cos I worked out that was fifteen and there were a picture go  (  ) . 
+*STU:	Yeah. I need ten. 
+*ANN:	Or a three or a six. At least I'd   (.) erm four five, what  two in one. You know and that's   
+*STU:	 Yeah. Yeah. Any ten you wanted  didn't you? 
+*ANN:	Yeah  or a   
+*STU:	 I mean  you got the ten you wanted. 
+*ANN:	But er 
+*STU:	Or a six. 
+*ANN:	a six or   (.) so I knew what, that the nine was no good to me or the 
+*STU:	Yeah, yeah. 
+*ANN:	s  six. 
+*NON:	Who put the fifty pence in there? Who put the fifty pence in there? 
 *SHI:	 ((laugh)) 
-*NON:	Who asked me to?
+*NON:	Who asked me to? 
 *:	 ((laugh)) 
-*SHI:	Yeah   (        ) you go and stand in a corner in a minute.
-*NON:	No I didn't.
-*MAR:	Go to the headmaster.
-*STU:	Oh bloody hell.Can't do that seeing it's your box.
-*NON:	Got to get in closer to that. (        ) 
-*STU:	And I'm hoping as well.
-*SHI:	It's anybody's game isn't it, really?
-*NON:	Yeah.Anybody's game.It's nice though   (        ) what it's all about.
-*STU:	Try two. (.) In   (.) thirty.
-*NON:	Someone's gonna crack.
-*STU:	 (        ) 
-*SHI:	You don't get interest   (        ) 
-*ANN:	Just th just the   (.) turn up I wanted, (        ) or a five. ((laugh)) 
-*STU:	Yeah I wasn't too bad. (        ) eight.Seven eight.Oh you got one two three four five six seven eight nine ten, ten.
-*ANN:	Nothing in the box.
-*STU:	Ten.One for  (        ) 
-*SHI:	Try whatever you like dear. (.) If you can see it, hit it.
-*NON:	Well I can't see it so I'm going round  (        ) , I'm going round the back.
-*STU:	I'm in the lead.Not by many but I'm in the lead.
-*ANN:	I can see you're in the lead.It's where you usually are dear.
-*NON:	That was a crafty move that. (.) 
-*ANN:	Have the  been in any more since erm   (.) Monday?
-*SHI:	Yeah they came up   (        ) 
-*ANN:	Oh so they're all     (.)  ((laugh))  (.) Oh bloody hell.
-*NON:	They've fallen out haven't they?
-*SHI:	Mm. (.) 
-*ANN:	Can't do that   (.) See what happens if I give you them.
-*NON:	Like that  (        ) .
-*STU:	You're alright you won't hit   (        ) got your box so you're alright.
-*ANN:	I would if I give you them. (.) How do you know I won't?
-*STU:	Cos I know cos of what I've put in  (.) 
-*:	 (        ) 
-*ANN:	Oh I'll have to put you a pair in you two.Probably   (        ) eight probably. ((laugh)) 
-*STU:	 (        ) Hope you put the right pair in .
-*ANN:	Oh good.I ain't got nothing so   (.) oh I didn't know what to put in.
-*STU:	 (        ) Thirteen. (.) Twenty five. (.) Thirty   (.) yeah, couldn't get away from it.Thirty.Want four 
-*ANN:	No   (        ) 
-*NON:	That stirred it up a b oh.Good shot!
-*STU:	I only want four.Oh   (        ) the last card.Have you got   (        ) four?
-*ANN:	 (        ) 
-*STU:	Sorry?
-*ANN:	Didn't know what to give you.I got to give you two eights.
-*STU:	Oh that's alright.
-*ANN:	Yeah, you wouldn't let me box.What are you putting, two sevens?
-*STU:	Fifteen two No  (        ) .Fifteen two fifteen four four's eight.
-*ANN:	And a nine there.
-*STU:	If you put two eights in I did put another eight in, but that's   (        ) six or eight. (        ) 
-*ANN:	Didn't know what to do.Cos I'll have two 
-*STU:	Well 
-*ANN:	for two eights or like that for   (.) four that way, so.
-*STU:	yeah, yeah.
-*ANN:	That's all I had.
-*STU:	Yeah.It's difficult.It's your box Ann.
-*MAR:	I thought you said he he lost by a hundred.No, what did he lose by?
-*SHI:	Er   (.) eight hundred and fifty.
-*MAR:	He lost by?
-*TER:	I I played canny at the end rather than 
-*NON:	 (        ) by that many, surely?
-*SHI:	Yeah he did.You kept giving him a hundred.By not hitting the ball.
+*SHI:	Yeah   (  ) you go and stand in a corner in a minute. 
+*NON:	No I didn't. 
+*MAR:	Go to the headmaster. 
+*STU:	Oh bloody hell. Can't do that seeing it's your box. 
+*NON:	Got to get in closer to that. (  )  
+*STU:	And I'm hoping as well. 
+*SHI:	It's anybody's game isn't it, really? 
+*NON:	Yeah. Anybody's game. It's nice though   (  ) what it's all about. 
+*STU:	Try two.  (.) In   (.) thirty. 
+*NON:	Someone's gonna crack. 
+*STU:	  (  )  
+*SHI:	 You don't get interest   (  )   
+*ANN:	Just th  just the   (.) turn up I wanted, (  ) or a five. ((laugh))  
+*STU:	Yeah I wasn't too bad.  (  ) eight. Seven eight. Oh you got one two three four five six seven eight nine ten, ten. 
+*ANN:	Nothing in the box. 
+*STU:	Ten. One for  (  )  
+*SHI:	Try whatever you like dear.  (.) If you can see it, hit it. 
+*NON:	Well I can't see it so I'm going round  (  ) , I'm going round the back. 
+*STU:	I'm in the lead. Not by many but I'm in the lead. 
+*ANN:	I can see you're in the lead. It's where you usually are dear. 
+*NON:	That was a crafty move that. (.)  
+*ANN:	Have the   been in any more since erm   (.) Monday? 
+*SHI:	Yeah they came up    (  )   
+*ANN:	 Oh  so they're all     (.)  ((laugh))  (.) Oh bloody hell. 
+*NON:	They've fallen out haven't they? 
+*SHI:	Mm. (.)  
+*ANN:	Can't do that   (.) See what happens if I give you them. 
+*NON:	Like that  (  ) . 
+*STU:	You're alright you won't hit   (  ) got your box so you're alright. 
+*ANN:	I would if I give you them.  (.) How do you know I won't? 
+*STU:	Cos I know cos of what I've put in  (.)  
+*:	 (  ) 
+*ANN:	Oh I'll have to put you a pair in you two. Probably   (  ) eight probably. ((laugh))   
+*STU:	  (  )  Hope you  put the right pair in  . 
+*ANN:	 Oh good.  I ain't got nothing so   (.) oh I didn't know what to put in. 
+*STU:	 (  ) Thirteen.  (.) Twenty five.  (.) Thirty   (.) yeah, couldn't get away from it. Thirty.  Want four   
+*ANN:	 No   (  )   
+*NON:	That stirred it up a b   oh. Good shot! 
+*STU:	 I only want four. Oh   (  ) the last card.  Have you got   (  ) four? 
+*ANN:	 (  ) 
+*STU:	Sorry? 
+*ANN:	Didn't know what to give you. I got to give you two eights. 
+*STU:	Oh that's alright. 
+*ANN:	Yeah, you wouldn't let me box.  What are you putting, two sevens? 
+*STU:	 Fifteen two  No  (  ) . Fifteen two fifteen four four's eight. 
+*ANN:	And a nine there. 
+*STU:	If you put two eights in I did put another eight in, but that's   (  ) six or eight. (  )  
+*ANN:	Didn't know what to do. Cos I'll have  two   
+*STU:	 Well   
+*ANN:	for two eights or like that for   (.) four that way, so. 
+*STU:	yeah, yeah. 
+*ANN:	That's all I had. 
+*STU:	Yeah. It's difficult. It's your box Ann. 
+*MAR:	I thought you said he he lost by a hundred. No, what did he lose by? 
+*SHI:	Er   (.) eight hundred and fifty. 
+*MAR:	 He lost by? 
+*TER:	 I  I played canny at the end rather than  
+*NON:	  (  )  by that many, surely? 
+*SHI:	Yeah he did. You kept giving him a hundred. By not hitting the ball. 
 *NON:	 ((laugh)) 
-*SHI:	That's where it all mounts up.You know you keep giving, if you keep missing the ball.
-*:	 (        ) 
-*SHI:	Yeah, it does.Yeah.
-*MAR:	Good though.
-*SHI:	Have you done?Can I get up?
-*NON:	Yes, yeah.Thanks very much.
-*NON:	 ((laugh)) 
-*NON:	 (        ) want a game Bob?
-*BOB:	What?
-*NON:	Do you want a go?
-*BOB:	 (        ) 
-*NON:	I can't afford another game of that.
-*SHI:	He owes you a pint now doesn't he?
-*:	 (        ) 
-*STU:	Is it coming out for you?Four
-*:	 (        ) 
-*ANN:	Put your other one down.
-*STU:	Alright then, I will this time.Twelve.
-*ANN:	Ten.
-*STU:	Ooh. (.) Twenty five. (        ) . One.Ooh bloody hell.What have you got, have you, have you got a hand?I'd better get mine on quick fifteen two fifteen four    (.)  (        ) six pairs eight.Five six twelve eight.How many have you got?Bloody hell.Fifteen two fifteen four two six eight fourteen.
-*ANN:	Six in the box.
-*STU:	 (        ) six in the box.Now who's in the lead? (.) 
-*ANN:	I knew what to do with that one you see? ((laugh)) 
-*STU:	Now who's in the lead?
-*ANN:	I knew what to do with that one.Specially when the five come up, I thought I'll put   (.) the blooming
-*STU:	Two tens.
-*ANN:	Exactly, ten in there. ((laugh)) 
-*STU:	Now who's in the lead?
-*TER:	 (        ) I could have had two thousand   (        ) points ahead and John was on the skittle.I like that .
-*SHI:	Yeah, they did last night, it
-*TER:	Yeah.
-*SHI:	Yeah.They did that last night.
-*TER:	Yeah.
-*SHI:	Couple of their best players as well. (        ) 
-*NON:	 (        ) playing that.
-*SHI:	Yeah. (.) I like it when
-*NON:	It does tend to come   (        ) twenty forty
-*STU:	Now then. (.) 
-*SHI:	 (        ) 
-*STU:	Your lead dear. (        ) 
-*SHI:	You're a gentleman.Thankyou.
-*STU:	Eleven.Fifteen 
-*NON:	Well you have to keep your balls on the table.
-*SHI:	Pardon?
-*STU:	Twenty five.
-*NON:	He he doesn't put his balls on the table.
-*SHI:	Neither do you.
-*STU:	Six. (        ) 
-*SHI:	And it's his go first this time isn't it?
-*:	 (        ) 
-*STU:	 (        ) I tell you.
-*ANN:	Well I dunno, doubt if I've got any even.
-*STU:	Oh.
-*NON:	Oh, does it make any difference, actually?
-*NON:	Er   (.) well   (        ) 
-*SHI:	No it doesn't make any difference   (        ) 
-*STU:	Fifteen two fifteen four fifteen   (        ) eight. (.) One two three four five six seven eight nine ten.
-*NON:	That's a big difference.
-*SHI:	No.
-*NON:	Erm
-*SHI:	It's just the way it's always been 
-*NON:	I suppose   (        ) people are are playing   (        ) 
-*STU:	I'll have a queen   (.) four, king ten and four in.You know   (        ) played aces and fours   (        ) so two. (.) Two.Oh I'll just sneak back one.Sneak  (        ) .
-*:	 (        ) 
-*NON:	But it can work.When when people   (        ) table they keep on potting   (        ) thirty thirty all the time  (        ) 
-*:	 (        ) 
-*NON:	Oh sorry, you've got   (        ) cue  (        ) 
-*NON:	I just took one over there.Could be yours.Do you want this one?You can have it.
-*NON:	No   (        ) sit there cos   (.) red to there, white to there.Five times six  (        ) 
-*:	 (        ) 
-*SHI:	Now who's on where? (.) You started first so you're on a  (.) 
-*TER:	Alan got off to a   (.) less than 
-*ALA:	Bad start.
-*TER:	auspicious start.
-*SHI:	So Alan started first so he   (        ) on top.
-*STU:	 (        ) 
-*TER:	No erm   (.) I'm I'm on top.I'm I'm on the bottom.
-*SHI:	Well he gave you a hundred.
-*TER:	Yeah he's skilled. ((laugh)) 
-*STU:	Still wanna play one?
-*SHI:	So you're on the bottom?
-*TER:	Yeah I'm on the bottom.Yeah I've got four down.
-*SHI:	 (        ) he's started so he's on top.
-*ALA:	Exactly.There you are.
-*TER:	Yeah   (        ) Yeah that's right.
-*STU:	Twenty for two.
-*TER:	I've got four so far Shirley.
-*SHI:	I know what I'm doing.
-*STU:	Frankie goes to Hollywood. (        ) . Twenty nine.
-*ALA:	Don't upset the   (        ) cos we'll be back at   (.) you could toss a coin in under there.
-*STU:	Thirty   (.) fifteen two, fifteen   (        ) six   (        ) is eight. (.) Fifteen two   (        ) six.
-*ANN:	Hello.
-*NON:	Hello  (        ) 
-*NON:	Alright Sid?
-*NON:	Alright Frank.
-*ANN:	 (        )  (.) 
-*STU:	You're back in the lead dear. (.) You're favourite. (.) You're favourite to win this one.
-*ANN:	Depends on what the cards do.
-*SHI:	 (        ) Frank?
-*STU:	Yeah, the number of your hands are   (.) the number of your hands to mine.
-*ANN:	She's refereeing .
-*ALA:	 (        ) 
-*TER:	No erm   (.) because 
-*ANN:	Oh god.
-*TER:	 (        ) that's four and I won't do anything 
-*ALA:	Alright you're cheating me.
-*TER:	No  (.) 
-*NON:	Hello Sid.
-*NON:	Hallo chief.Alright? (.) 
-*ALA:	Teasing me.
-*TER:	No certainly bloody not.
-*:	 (        ) 
-*TER:	I'm not that bloody good Alan .
-*STU:	Eleven.
-*TER:	I don't know how to play the game.
-*NON:	Oops.
-*STU:	Your lead.
-*NON:	 (        ) that tap hasn't he?
-*SHI:	That's Strongbow 
-*STU:	Oh I'm   (        ) 
-*SHI:	you silly boy.Your lager's the other end.
-*NON:	You know what's    (.)  (        ) 
-*SHI:	Where've you been?
-*NON:	I've I've been  (.) 
-*STU:	Twenty two.
-*NON:	You know why?Cos I was served a pint up last night in   (.) our   (.) social club.And their pump's on that end.
-*STU:	Twenty six . (        )  (.) 
-*NON:	So I have to do this job everywhere I go   (        ) 
-*ANN:	Bloody hell you've got about four fives .
-*STU:	No.I've only got two of them.You're alright though.
-*ANN:	You   (        ) till I've got one.
-*SHI:	Don't make a mess.
-*STU:	I've got fifteen, yeah  (        ) .Fifteen two fifteen four four's eight. (.) Fifteen two fifteen four   (        ) 
-*:	 (        ) 
-*STU:	Well, I could do with a good box and that might put me in with a chance.Fifteen two fifteen four fifteen six.Outside chance though.Thirteen   (        ) 
-*SHI:	Stop yakking and get on with it.
-*:	 (        ) 
-*NON:	I suppose I've got to get the ice out as well have I?
-*:	Ah!Ooh! ((laugh)) 
-*:	 (        ) 
-*STU:	Two middles and a paper one here please.
-*:	 (        ) 
-*STU:	No.
-*ANN:	Oh no.Now what do I do?
-*STU:	Oh no.
-*:	 (        ) 
-*ANN:	Oh god. (.) 
-*TER:	Oh.That was absolutely lousy.
-*ALA:	I couldn't understand why you didn't do that in the first place.
+*SHI:	That's where it all mounts up. You know you keep giving, if you keep missing the ball. 
+*:	 (  ) 
+*SHI:	Yeah, it does. Yeah. 
+*MAR:	Good though. 
+*SHI:	Have you done? Can I get up? 
+*NON:	Yes, yeah. Thanks very much. 
+*NON:	  ((laugh))  
+*NON:	  (  )  want a game Bob? 
+*BOB:	What? 
+*NON:	Do you want a go? 
+*BOB:	 (  ) 
+*NON:	I can't afford another game of that. 
+*SHI:	He owes you a pint now doesn't he? 
+*:	 (  ) 
+*STU:	Is it coming out for you? Four 
+*:	 (  ) 
+*ANN:	Put your other one down. 
+*STU:	Alright then, I will this time. Twelve. 
+*ANN:	Ten. 
+*STU:	Ooh.  (.) Twenty five.  (  ) . One. Ooh bloody hell. What have you got, have you, have you got a hand? I'd better get mine on quick fifteen two fifteen four    (.)  (  ) six pairs eight. Five six twelve eight. How many have you got? Bloody hell. Fifteen two fifteen four two six eight fourteen. 
+*ANN:	Six in the box. 
+*STU:	 (  ) six in the box. Now who's in the lead? (.)  
+*ANN:	I knew what to do with that one  you see? ((laugh))   
+*STU:	 Now who's in the lead? 
+*ANN:	I knew what to do with that one. Specially when the five come up, I thought I'll put   (.) the blooming 
+*STU:	Two tens. 
+*ANN:	Exactly, ten in there. ((laugh))  
+*STU:	Now who's in the lead? 
+*TER:	 (  ) I could have had two thousand   (  ) points ahead and John was on the skittle.  I like that  . 
+*SHI:	 Yeah, they  did last night, it 
+*TER:	Yeah. 
+*SHI:	Yeah. They did that last night. 
+*TER:	Yeah. 
+*SHI:	Couple of their best players as well. (  )   
+*NON:	  (  )  playing that. 
+*SHI:	Yeah.  (.) I like it when 
+*NON:	It does tend to come   (  ) twenty forty 
+*STU:	Now then. (.)  
+*SHI:	 (  ) 
+*STU:	Your lead dear. (  )   
+*SHI:	 You're a gentleman.  Thankyou. 
+*STU:	Eleven.  Fifteen   
+*NON:	 Well you have to keep your  balls on the table. 
+*SHI:	 Pardon? 
+*STU:	 Twenty five. 
+*NON:	He he doesn't put his balls on the table. 
+*SHI:	Neither do you. 
+*STU:	Six. (  )   
+*SHI:	 And it's his go first this time isn't it? 
+*:	  (  )  
+*STU:	  (  )  I tell you. 
+*ANN:	Well I dunno, doubt if I've got any even. 
+*STU:	Oh. 
+*NON:	Oh, does it make any difference, actually? 
+*NON:	 Er   (.) well   (  )   
+*SHI:	 No it doesn't make any  difference   (  )   
+*STU:	 Fifteen two fifteen four  fifteen   (  ) eight.  (.) One two three four  five six seven eight nine ten. 
+*NON:	 That's a big difference. 
+*SHI:	No. 
+*NON:	Erm 
+*SHI:	It's just the way  it's always been   
+*NON:	 I suppose    (  ) people  are are playing   (  )   
+*STU:	 I'll have a queen   (.) four, king ten and four in.  You know   (  ) played aces and fours   (  ) so two.  (.) Two. Oh I'll just sneak back one. Sneak  (  ) . 
+*:	 (  ) 
+*NON:	But it can work. When when people   (  ) table they keep on potting   (  ) thirty thirty all the time  (  )  
+*:	 (  ) 
+*NON:	Oh sorry, you've got   (  ) cue  (  )  
+*NON:	I just took one over there. Could be yours. Do you want this one? You can have it. 
+*NON:	No   (  ) sit there cos   (.) red to there, white to there. Five times six  (  )  
+*:	 (  ) 
+*SHI:	Now who's on where?  (.) You started first so you're on a  (.)  
+*TER:	Alan got off to a   (.)  less than   
+*ALA:	 Bad start. 
+*TER:	auspicious start. 
+*SHI:	So Alan started first so he    (  ) on top. 
+*STU:	  (  )  
+*TER:	No erm   (.) I'm I'm on top. I'm I'm on the bottom. 
+*SHI:	Well he gave you a hundred. 
+*TER:	Yeah  he's skilled. ((laugh))   
+*STU:	 Still wanna play one? 
+*SHI:	So you're on the bottom? 
+*TER:	Yeah I'm on the bottom. Yeah  I've got four down. 
+*SHI:	  (  ) he's started  so he's on top. 
+*ALA:	 Exactly. There you are. 
+*TER:	 Yeah   (  )  Yeah that's right. 
+*STU:	Twenty for two. 
+*TER:	I've got four so far Shirley. 
+*SHI:	I know what I'm doing. 
+*STU:	Frankie goes to Hollywood.  (  ) . Twenty nine. 
+*ALA:	Don't upset the   (  ) cos we'll be back at   (.) you could toss a coin in under there. 
+*STU:	Thirty   (.) fifteen two, fifteen   (  ) six   (  ) is eight.  (.) Fifteen two   (  ) six. 
+*ANN:	Hello. 
+*NON:	Hello  (  )  
+*NON:	Alright Sid? 
+*NON:	Alright Frank. 
+*ANN:	 (  )  (.) 
+*STU:	You're back in the lead dear.  (.) You're favourite.  (.) You're favourite to win this one. 
+*ANN:	Depends on what the cards do. 
+*SHI:	 (  )  Frank? 
+*STU:	 Yeah, the number  of your hands are   (.) the number of your hands  to mine. 
+*ANN:	 She's refereeing  . 
+*ALA:	 (  ) 
+*TER:	 No erm   (.) because   
+*ANN:	 Oh god. 
+*TER:	  (  ) that's four and I won't do anything   
+*ALA:	 Alright you're cheating me. 
+*TER:	No  (.)  
+*NON:	Hello Sid. 
+*NON:	Hallo chief. Alright? (.)  
+*ALA:	Teasing me. 
+*TER:	 No certainly bloody not. 
+*:	  (  )  
+*TER:	I'm not that bloody good  Alan  . 
+*STU:	 Eleven. 
+*TER:	I don't know how to play the game. 
+*NON:	Oops. 
+*STU:	Your lead. 
+*NON:	 (  ) that tap hasn't he? 
+*SHI:	 That's Strongbow   
+*STU:	 Oh I'm   (  )   
+*SHI:	you silly boy. Your lager's the other end. 
+*NON:	You know what's    (.)   (  )   
+*SHI:	 Where've you been? 
+*NON:	I've I've been  (.)  
+*STU:	Twenty two. 
+*NON:	You know why? Cos I was served a pint up last night in   (.) our   (.) social club. And their pump's  on that end. 
+*STU:	 Twenty six  . (  )  (.)  
+*NON:	So I have to do this job everywhere I go    (  )   
+*ANN:	 Bloody hell you've got about four fives  . 
+*STU:	No. I've only got two of them.  You're alright though. 
+*ANN:	 You   (  )  till I've got one. 
+*SHI:	Don't make a mess. 
+*STU:	I've got fifteen, yeah  (  ) . Fifteen two fifteen four four's eight.  (.)  Fifteen two fifteen four   (  )   
+*:	  (  )  
+*STU:	Well, I could do with a good box and that might put me in with a chance. Fifteen two fifteen four fifteen six. Outside chance though. Thirteen    (  )   
+*SHI:	 Stop yakking  and get on with it. 
+*:	 (  ) 
+*NON:	I suppose I've got to get the ice out as well have I? 
+*:	Ah! Ooh! ((laugh))  
+*:	  (  )  
+*STU:	 Two middles and a paper one here  please. 
+*:	 (  ) 
+*STU:	No. 
+*ANN:	Oh no. Now what do I do? 
+*STU:	Oh no. 
+*:	 (  ) 
+*ANN:	Oh god. (.)  
+*TER:	Oh. That was absolutely lousy. 
+*ALA:	I couldn't understand why you didn't do that in the first place. 
 *SHI:	 ((laugh)) 
-*:	 (        ) 
-*ANN:	I'm sorry, it's taking me a long time cos I don't know what to do.
-*STU:	It's alright.Take as long as you like.
-*ALA:	Well.Someone's gotta do something about that Brian, (        ) ?
-*ANN:	I think I've gotta do that.That's probably 
-*STU:	 (        ) 
-*ANN:	wrong but
-*STU:	Top one, top one, top one.Oh!
-*ANN:	It is. (.) 
-*STU:	King. (.) 
-*ANN:	I've done the wrong one I think.
-*STU:	Twenty eight.
-*ANN:	Oh no.
-*STU:	Twenty nine for one. (.) Eleven. (.) Four is all I have.Fifteen two fifteen four, one two three four.Well that's alright isn't it?Fifteen two fifteen   (        ) a dozen.
-*ANN:	I know.I pu I had five.
-*STU:	You've got a dozen in there as well.You win.
-*ANN:	But I had
-*STU:	Yeah but you've won!
-*ANN:	but I had
-*STU:	Yeah.What did you do wrong there?
-*ANN:	and I had  (.) 
-*STU:	What nine five?No you didn't have nine five.
-*ANN:	No I had three nine.
-*STU:	Twenty nine.
-*ANN:	Three five sorry.
-*STU:	Three five. (        ) 
-*ANN:	I didn't know whether to put   (.) that out or er
-*STU:	No.No no.
-*ANN:	I done it right?
-*STU:	Perfect.Absolutely perfect.
-*ANN:	Thank god for that.
-*STU:	No you, it's your box.
-*ANN:	I know it is.
-*STU:	Box away   (.) yes.Not your box definitely eight three but three five on your own box, oh yeah.Close   (.) you put the five in   (.) keep 
-*ANN:	What you've gotta keep your double run?
-*STU:	You're keeping a good, yeah you're keep you're keeping your double run that way as well but 
-*ANN:	Yeah 
-*STU:	you're not scoring so many   (.) because you've got your fifteen at the end there.But   (.) oh yeah, oh yeah.Absolutely.
-*ANN:	And I won. ((laugh)) 
-*STU:	Yeah you got a dozen in your box.Wallop.Straight in.
+*:	 (  ) 
+*ANN:	I'm sorry, it's taking me a long time cos I don't know what to do. 
+*STU:	It's alright. Take as long as you like. 
+*ALA:	Well. Someone's gotta do something about that Brian, (  ) ? 
+*ANN:	 I think  I've gotta do that.  That's probably   
+*STU:	  (  )  
+*ANN:	wrong but 
+*STU:	Top one, top one, top one.  Oh! 
+*ANN:	 It is. (.)  
+*STU:	King. (.)  
+*ANN:	I've done the wrong one I think. 
+*STU:	Twenty eight. 
+*ANN:	Oh no. 
+*STU:	Twenty nine for one.  (.) Eleven.  (.) Four is all I have. Fifteen two fifteen four, one two three four. Well that's alright isn't it? Fifteen two fifteen   (  ) a dozen. 
+*ANN:	I know. I pu  I had five. 
+*STU:	You've got a dozen in there as well. You win. 
+*ANN:	But I had 
+*STU:	Yeah but you've won! 
+*ANN:	but I had 
+*STU:	Yeah. What did you do wrong there? 
+*ANN:	and I had  (.)  
+*STU:	What nine five? No you didn't  have nine five. 
+*ANN:	 No I had three  nine. 
+*STU:	Twenty nine. 
+*ANN:	Three five sorry. 
+*STU:	Three five. (  )  
+*ANN:	I didn't know whether to put   (.) that out or er 
+*STU:	No. No no. 
+*ANN:	I done it right? 
+*STU:	Perfect. Absolutely perfect. 
+*ANN:	Thank god for that. 
+*STU:	No you, it's your box. 
+*ANN:	I know  it is. 
+*STU:	 Box away    (.) yes. Not your box definitely eight three but three five on your own box, oh yeah. Close   (.) you put the five in   (.)  keep   
+*ANN:	 What  you've gotta keep your double run? 
+*STU:	You're keeping a good, yeah you're keep  you're keeping your double run that way as well  but   
+*ANN:	 Yeah   
+*STU:	you're not scoring so many   (.) because you've got your fifteen at the end there. But   (.) oh yeah, oh yeah. Absolutely. 
+*ANN:	And I won. ((laugh))  
+*STU:	Yeah you got a dozen in your box. Wallop. Straight in. 
 *ANN:	 ((laugh)) 
-*STU:	Bang bang, two hands, thank you ma'am. (.) Ha!It's your box still.Oh, how many's that?Five six seven eight.
-*ANN:	Erm
-*STU:	 (        ) five.
-*ANN:	can I just go to the  (.) 
-*NON:	Yes I do, I do.
-*SHI:	 (        ) .Teetering.
-*ANN:	It's my box isn't it?
-*STU:	Yes.
+*STU:	Bang bang, two hands, thank you ma'am.  (.) Ha! It's your box still. Oh, how many's that? Five six seven eight. 
+*ANN:	Erm 
+*STU:	 (  ) five. 
+*ANN:	can I just go to the  (.)  
+*NON:	Yes I do, I do. 
+*SHI:	 (  ) . Teetering. 
+*ANN:	It's my box isn't it? 
+*STU:	Yes. 
 *ANN:	 ((laugh)) 
-*ALA:	You teetered.
-*TER:	Oh thanks Al. ((laugh)) 
-*:	 (        ) 
-*STU:	Don't worry Bob.Don't worry. (.) It's only a little bit of   (.) cigarette ash  (        ) 
-*ANN:	Oh it's probably from me from me own cigarette.Don't worry.I'm sure I shall have worse than that before I'm done, a bit of fag ash in me drink. ((laugh)) Won't be the first time.
-*:	 (        ) 
-*ANN:	Won't be the first time Bob. ((laugh)) 
-*NON:	Oh, this is a real balls-up this one right.So if that thing will shoot off and hit that   (.) yes I have.Yes I know.
-*:	 (        ) 
-*MAR:	Ah!Too hard. (.) 
-*TER:	Pretty good. (.) That was, that was almost  (        ) 
-*:	 (        )  (        ) 
-*ANN:	No I didn't.
-*STU:	 (        ) .Can't have any of these. (.) Ah, play it safe.Oops.
-*ANN:	Hasn't helped. ((laugh)) It's done nothing for the box. (.) 
-*STU:	Two will play one. (.) Sixteen. (.) Seventeen. (.)  (        )  (.) Erm twenty. (        )  (.) 
-*NON:	Go on!
-*SHI:	Yes!
-*NON:	Twenty three.
-*NON:	Play for Alan.
-*ALA:	Rubbish.
+*ALA:	You teetered. 
+*TER:	Oh thanks Al. ((laugh))  
+*:	 (  ) 
+*STU:	Don't worry Bob. Don't worry.  (.) It's only a little bit of   (.) cigarette ash  (  )  
+*ANN:	Oh it's probably from me from me own cigarette. Don't worry. I'm sure I shall have worse than that before I'm done, a bit of fag ash in me drink.  ((laugh)) Won't be the first time. 
+*:	 (  ) 
+*ANN:	Won't be the first time Bob. ((laugh))  
+*NON:	Oh, this is a real balls-up this one right. So if that thing will shoot off and hit that   (.) yes I have. Yes I know. 
+*:	 (  ) 
+*MAR:	Ah! Too hard. (.)  
+*TER:	Pretty good.  (.) That was, that was almost  (  )  
+*:	 (  )  (  ) 
+*ANN:	No I didn't. 
+*STU:	 (  ) . Can't have any of these.  (.) Ah, play it safe. Oops. 
+*ANN:	Hasn't helped.  ((laugh)) It's done nothing for the box. (.)  
+*STU:	Two will play one.  (.) Sixteen.  (.) Seventeen.  (.)  (  )  (.) Erm twenty. (  )  (.)  
+*NON:	Go on! 
+*SHI:	Yes! 
+*NON:	Twenty three. 
+*NON:	Play for Alan. 
+*ALA:	Rubbish. 
 *:	 ((laugh)) 
-*NON:	I know what I'm doing.
+*NON:	I know what I'm doing. 
 *:	 ((laugh)) 
-*STU:	Now, where are we?Fifteen two fifteen four fifteen six and six is a dozen. (.) Ha!Fifteen two fifteen four and sixteen that's eight.
-*ANN:	Ten in the box.
-*STU:	Two greens.Level pegging now then.
-*ANN:	That's no good on my box.
-*STU:	Level pegging.
-*ANN:	That's no good on my box.
-*STU:	Yes it is.It's quite handy for me. (.) 
-*:	 (        ) 
-*NON:	Is that touching?
-*SHI:	No it isn't.
+*STU:	Now, where are we? Fifteen two fifteen four fifteen six and six is a dozen.  (.) Ha! Fifteen two fifteen four and sixteen that's eight. 
+*ANN:	Ten in the box. 
+*STU:	Two greens. Level pegging now then. 
+*ANN:	That's no good on my box. 
+*STU:	Level pegging. 
+*ANN:	That's no good on my box. 
+*STU:	Yes it is. It's quite handy for me. (.)  
+*:	 (  ) 
+*NON:	Is that touching? 
+*SHI:	No it isn't. 
 *:	 ((laugh)) 
-*STU:	Whose box?My box.Oh well.Try those. (.) Not very good, but there you go. (.) So, eight.
-*ANN:	No good to me.
-*STU:	Go on then.Your go. (.) Fifteen two  (        ) .Twenty five   (.) no! (.) No? (        ) one.One niner. (.) 
-*NON:	There's a hundred there, definitely.
-*STU:	Ten twenty nine. (        ) 
-*NON:	I'll try my best.A kiss   (.) on the left hand cheek of that red ball.
-*STU:	 (        ) 
-*ANN:	Six.Eight.
-*STU:	One two three four five six seven eight nine.
-*NON:	And that wasn't a bad shot. ((laugh)) 
-*STU:	Fifteen six fifteen four four's eight.Five six seven eight.Not a lot in it.Nothing  (        ) .Two   (.) four
-*NON:	Thanks Shirley.
-*SHI:	Just that little bit harder and that would have gone in there.
-*NON:	No  (        ) 
-*:	 (        ) 
-*ANN:	How did you get that far ahead?I've got nine you've got eight.
-*STU:	I pegged some.
-*ANN:	Oh.Gonna say, we were level.Ha!You pegged hell of a bloody lot then.About ten?Twelve?
-*STU:	No.
-*ANN:	We were level pegging
-*STU:	Yeah.
-*ANN:	I got nine, you got eight.
-*STU:	Yeah, I've taken about four or five.
-*ANN:	But you're all them in front.
-*STU:	I'm only   (.) oh half a dozen in front.Course I had the box, don't forget.I only pegged four.Or four more than you. (.) 
-*:	 (        ) 
-*STU:	Oh go on.Treat yourself.Treat the box.put the right ones in there darling, you've got a fortune. (.) If you put the right ones in there my love you've got a   (.) fortune. (.) Eight.
-*ANN:	 (        ) nothing in me hands so it don't make no   (.) three  (.) 
-*STU:	Twenty eight two.
-*ANN:	Oh.
-*STU:	Any good?
-*ANN:	 (        ) to do that.Yeah.
-*STU:	 (        ) 
-*ANN:	Put the wrong one down. (.) 
-*STU:	Thirteen. (.) Twenty eight for one.Nine  (        ) .One two three, four five six, seven eight.
-*ANN:	Three.
-*STU:	Three. (.) Didn't put your tens in the box did you?Oh, look at that.Unlucky eh? (.) Mormon's orchard   (.) four, that's all you got out of that lot.If you'd put one of them tens in   (.) with that turn up you gotta  (        ) .I put ace four in. (.) 
-*ANN:	And I put ace two in.
-*STU:	And when that and when that four turned up I thought oh bloody hell.If you put a ten in there you're   (.) well away.Any ten you got half a doz. (.) Oh well, spoils a good hand but there you go. (.) 
-*:	 (        ) 
-*STU:	Here we go. (.) Twelve. (.) 
-*SHI:	Eight hundred and sixty now.Oh dear. (        ) 
-*ANN:	Don't know if you put a five down there, I already had it.
-*STU:	Twenty seven. (.) Twenty eight, thirty. (.)  (        ) Might as well turn for a dozen.
-*ANN:	Bloody hell.How do you keep getting them?
-*STU:	Only got two in the box though.
-*ANN:	You always get a dozen or   (.) fourteen, sixteen 
-*STU:	 (        ) 
-*ANN:	You do. (.) 
-*NON:	Oh we didn't do that.
-*ANN:	We didn't do it.
-*SHI:	No   (        ) out the book.
-*NON:	 (        ) out the book.
-*ANN:	There weren't any, many of us so we didn't do it.By the end, it was quite fun in the end weren't it?
-*NON:	Yeah.
-*SHI:	Well we enjoyed what we did didn't we? ((laugh)) 
-*ANN:	Yeah, it was really good fun.There weren't, we did it singly and it made more people didn't it?
-*SHI:	Yeah, yeah.
-*ANN:	There was Tracey and John and   (.) Bob and  (.) 
-*TER:	Sorry Alan.Four. (.) 
-*STU:	Oh.Fiddle-dee-dee, now what do I do?
-*:	 (        ) 
-*STU:	Your box isn't it? (        ) seeing as it's your box. (.) Oh.No help at all. (        ) 
-*ANN:	No. (.) 
-*STU:	Twenty five.
-*ANN:	No.
-*STU:	No? (        ) waste paper  (        ) .All yours. (.)  (        )  (.) Four 
-*ANN:	Not a lot.
-*STU:	Not a lot. (.) What have you got?Fifteen two fifteen four pay six. (.)  (        ) tops.You jammy bugger.
-*ANN:	It's only six.
-*STU:	Yeah I know but   (.) I didn't think I treat I thought no I'll go safe put them   (.) far then you just happened to put two three in the   (        ) of two king.
-*ANN:	Yeah.
-*STU:	Nearly caught up again.Not that far behind.
-*ANN:	Far enough.It's your box.
-*STU:	 (        ) get very many this time. (        ) no competition.
-*ANN:	Mm that looks, sounds really nice. (.) Oh god I don't know.
-*TER:	Shirley's throwing the balls down the table at you. (.) 
-*ANN:	Should keep that I think. (        ) think.
-*SHI:	Hi Neil.
-*NON:	Hi Shirl.Alright?
-*SHI:	 (        ) 
-*NON:	Hallo Dave.
-*NON:	Hallo matey.Alright?
-*STU:	Turn me one up my darling.
-*SHI:	Ring the bell Neil.
-*NON:	 ((bell ring)) (        ) .I'll have half.
-*STU:	Your lead darling.Fifteen for two.
-*NON:	Lager shandy.
-*NON:	Pint?
-*NON:	Yeah.
-*STU:	Mm!
-*:	 (        ) 
-*STU:	 (        ) for two.Twenty nine for two.
-*ANN:	Tut. (.) No.
-*STU:	No. (.) Nine.
-*:	 (        ) 
-*STU:	What have you got?Fifteen two fifteen four and six pair's eight. (.) 
-*NON:	Give too many secrets away Shirl.
-*SHI:	Oh fair enough then.
-*STU:	Fifteen two fifteen four fifteen six two is eight  (        ) .
-*ANN:	Mm and I give you some in the box as well so you   (.) that's it, done.
-*STU:	No it's not many in here.
-*:	 (        ) 
-*STU:	Twenty two twenty four twenty six. (.) 
-*:	 (        ) 
-*NON:	Did they win Shirl?
-*SHI:	Yeah, unfortunately.
-*:	 (        ) 
-*SHI:	Really what you want to do is make him hit the ball up. (.) 
-*STU:	Oh.Treat the box? (.) Yeah go on, she's behind.Treat the box. (.) Put the right ones in there my darling you've got a fortune.
-*:	 (        ) 
-*STU:	Turn the top   (        ) 
-*ANN:	I doubt if it's right.
-*STU:	Turn the top one over darling.
-*ANN:	I'm sure it's wrong.
-*STU:	Three.
-*:	 (        ) 
-*ANN:	No I'm not doing it.
-*STU:	For fourteen. (.) 
-*:	 (        ) 
-*STU:	Nineteen.
-*:	 (        ) 
-*STU:	Four ten five.Right, oh  (        ) 
-*:	 (        ) 
-*ANN:	Oh thankyou.
-*STU:	One two three, four five six, seven eight nine and six is fifteen.Five
-*:	 (        ) 
-*STU:	Fifteen. (        ) . One two and three is five. (.)  (        ) is five.
-*ANN:	Six eight nine in the box.
-*STU:	One two three, four five six, seven eight nine.Oh yeah.Told you.
-*:	 (        ) 
-*STU:	I told you didn't I?I'm favourite to win though.But   (.) Told you you put   (.) put ten, I put jack queen in s same suit and close and everything.Had to for that. (.) 
-*:	 (        ) 
-*STU:	 ((laugh)) Now what do I do? (.) Mm   (        ) I suppose. (.) ooh it's nine.Mm mm mm mm     (.)  (        )  (.) Never mind.Up to you darling.Nineteen. (.) Well   (.) ten. (.) Thirty for three.
-*ANN:	I know you   (        ) any others.
-*STU:	 (        ) four.What have you got to finish with? (.) Come on darling.One two three, four five six, seven eight  (.) 
-*ANN:	I had another queen as well.
-*STU:	Sixteen. (.) Into the box.Oh dear darling.
-*ANN:	I've had it I know.Street.
-*STU:	Oh dear.
-*ANN:	You already won.
-*STU:	 (        ) two fifteen twenty twenty five thirty   (.) thirty five. (.) And I owe you five so that's thirty pence you owe me now isn't it?
-*ANN:	Yes dear. (.) 
-*STU:	Whose box?It's one two three, my box. (.) Yeah, my box isn't it?
-*:	 (        ) 
-*ANN:	 (        ) later I suppose. (.) 
-*STU:	Pass me a goody darling.Pass me a goody. (.) That's not a goody, that's a baddy.
-*ANN:	That's a goody.
-*STU:	No it's not, it's a baddy. (.) Your lead dear.
-*ANN:	See one, play one.
-*STU:	Nineteen. (.) Twenty nine, no?
-*:	 (        ) 
-*STU:	Seven. (.) Twenty four. (.)  (        ) 
-*:	 (        ) 
-*STU:	You jammy bugger.Fifteen two fifteen four fifteen six twenty eight two is ten, six is sixteen and one for his knob, is seventeen.
-*ANN:	Think I played right that time.
-*STU:	I think you did.Two.
-*ANN:	Can't remember what I put in the box, another picture I think.
-*STU:	Yeah but what else with it though?
-*ANN:	Or did I put a picture or ten?I dunno.
-*STU:	No you put four two in.
-*ANN:	Four two.
-*STU:	Four, I mean eight four.
-*ANN:	Eight four, yeah.
-*STU:	And I put a pair of twos in so you didn't   (        ) very much.I got two.I scored five in that  (        ) .And you scored all that lot.It's your box now.You're gonna get that thirty pence back plus interest this time aren't you?
-*ANN:	I doubt it.You'll catch up.
-*STU:	 (        ) No I won't. (.) 
-*ANN:	If, if we were once round then I'd say yes but not
-*STU:	Mhm. (.) Oh you can't have any of these.
-*ANN:	I don't want you to have any of these, so  (.) 
-*STU:	Oh I've got to take a chance on it.No.Turn up. (.) Turn up, please. (.) Seven  (.) 
-*ANN:	Teen.
-*STU:	Twenty seven. (        ) . Seventeen. (.) Twenty seven.Oh six. (.) Two
-*ANN:	Six.
-*STU:	Two four six.
-*ANN:	That's the other blooming one.Mind you that isn't too bad is it?
-*STU:	Oh bloody hell one two three four five six seven eight.
+*STU:	Whose box? My box. Oh well. Try those.  (.) Not very good, but there you go.  (.) So, eight. 
+*ANN:	No good to me. 
+*STU:	Go on then. Your go.  (.) Fifteen two  (  ) . Twenty five   (.) no!  (.) No? (  ) one. One niner. (.)  
+*NON:	There's a hundred there, definitely. 
+*STU:	Ten twenty nine. (  )  
+*NON:	I'll try my best. A kiss   (.)  on the left hand cheek of that red ball. 
+*STU:	  (  )  
+*ANN:	Six. Eight. 
+*STU:	One two three four five six seven eight nine. 
+*NON:	And that wasn't a bad shot. ((laugh))  
+*STU:	Fifteen six fifteen four four's eight. Five six seven eight. Not a lot in it. Nothing  (  ) . Two   (.) four 
+*NON:	Thanks Shirley. 
+*SHI:	Just that little bit harder and that would have gone in there. 
+*NON:	No  (  )  
+*:	 (  ) 
+*ANN:	How did you get that far ahead? I've got nine you've got eight. 
+*STU:	I pegged some. 
+*ANN:	Oh. Gonna say, we were level. Ha! You pegged hell of a bloody lot then. About ten? Twelve? 
+*STU:	No. 
+*ANN:	We were level pegging 
+*STU:	Yeah. 
+*ANN:	I got nine, you got eight. 
+*STU:	Yeah, I've taken about four or five. 
+*ANN:	But you're all them in front. 
+*STU:	I'm only   (.) oh half a dozen in front. Course I had the box, don't forget. I only pegged four. Or four more than you. (.)  
+*:	 (  ) 
+*STU:	Oh go on. Treat yourself. Treat the box. put the right ones in there darling, you've got a fortune.  (.) If you put the right ones in there my love you've got a   (.) fortune.  (.) Eight. 
+*ANN:	 (  ) nothing in me hands so it don't make no   (.) three  (.)  
+*STU:	Twenty eight two. 
+*ANN:	Oh. 
+*STU:	Any good? 
+*ANN:	 (  ) to do that. Yeah. 
+*STU:	 (  ) 
+*ANN:	Put the wrong one down. (.)  
+*STU:	Thirteen.  (.) Twenty eight for one. Nine  (  ) . One two three, four five six, seven eight. 
+*ANN:	Three. 
+*STU:	Three.  (.) Didn't put your tens in the box did you? Oh, look at that. Unlucky eh?  (.) Mormon's orchard   (.) four, that's all you got out of that lot. If you'd put one of them tens in   (.) with that turn up you gotta  (  ) . I put ace four in. (.)  
+*ANN:	And I put  ace two in. 
+*STU:	 And when that  and when that four turned up I thought oh bloody hell. If you put a ten in there you're   (.) well away. Any ten you got half a doz.  (.) Oh well, spoils a good hand but there you go. (8.0)  
+*:	 (  ) 
+*STU:	Here we go.  (.) Twelve. (.)  
+*SHI:	Eight hundred and sixty now. Oh dear. (  )  
+*ANN:	Don't know if you put a five down there, I already had it. 
+*STU:	Twenty seven.  (.) Twenty eight, thirty.  (.)  (  ) Might as well turn for a dozen. 
+*ANN:	Bloody hell. How do you keep getting them? 
+*STU:	Only got two in the box though. 
+*ANN:	You always get a dozen or   (.)  fourteen, sixteen   
+*STU:	  (  )  
+*ANN:	You do. (.)  
+*NON:	Oh we didn't do that. 
+*ANN:	We didn't do it. 
+*SHI:	No   (  ) out the book. 
+*NON:	 (  ) out the book. 
+*ANN:	There weren't any, many of us so we didn't do it. By the end, it was quite fun in the end weren't it? 
+*NON:	 Yeah. 
+*SHI:	 Well we enjoyed what we did  didn't we? ((laugh))  
+*ANN:	Yeah, it was really good fun. There weren't, we did it singly and it made more people didn't it? 
+*SHI:	Yeah, yeah. 
+*ANN:	There was Tracey and John and   (.) Bob and  (.)  
+*TER:	Sorry Alan. Four. (.)  
+*STU:	Oh. Fiddle-dee-dee, now what do I do? 
+*:	 (  ) 
+*STU:	Your box isn't it? (  ) seeing as it's your box.  (.) Oh. No help at all. (  )   
+*ANN:	 No. (.)  
+*STU:	Twenty five. 
+*ANN:	No. 
+*STU:	No? (  ) waste paper  (  ) . All yours.  (.)  (  )  (.)  Four   
+*ANN:	 Not a lot. 
+*STU:	Not a lot.  (.) What have you got? Fifteen two fifteen four pay six.  (.)  (  ) tops. You jammy bugger. 
+*ANN:	It's only six. 
+*STU:	Yeah I know but   (.) I didn't think I treat  I thought no I'll go safe put them   (.) far then you just happened to put two three in the   (  ) of two king. 
+*ANN:	Yeah. 
+*STU:	Nearly caught up again. Not that far behind. 
+*ANN:	Far enough. It's your box. 
+*STU:	 (  ) get very many this time.  (  ) no competition. 
+*ANN:	Mm that looks, sounds really nice.  (.) Oh god I don't know. 
+*TER:	Shirley's throwing the balls down the table at you. (10.0)  
+*ANN:	Should keep that I think.   (  ) think. 
+*SHI:	 Hi Neil. 
+*NON:	Hi Shirl. Alright? 
+*SHI:	 (  ) 
+*NON:	Hallo Dave. 
+*NON:	Hallo matey. Alright? 
+*STU:	Turn me one up my darling. 
+*SHI:	Ring the bell Neil. 
+*NON:	 ((bell ring)) (  ) . I'll have half. 
+*STU:	Your lead darling. Fifteen for two. 
+*NON:	Lager shandy. 
+*NON:	Pint? 
+*NON:	Yeah. 
+*STU:	Mm! 
+*:	 (  ) 
+*STU:	 (  ) for two. Twenty nine for two. 
+*ANN:	Tut.  (.) No. 
+*STU:	No.  (.) Nine. 
+*:	 (  ) 
+*STU:	What have you got? Fifteen two fifteen four and six pair's eight. (.)  
+*NON:	Give too many secrets away Shirl. 
+*SHI:	Oh fair enough then. 
+*STU:	Fifteen two fifteen four fifteen six two is  eight  (  ) . 
+*ANN:	 Mm and I give  you some in the box as well so you   (.) that's it, done. 
+*STU:	No it's not many in here. 
+*:	 (  ) 
+*STU:	Twenty two twenty four twenty six. (.)  
+*:	 (  ) 
+*NON:	Did they win Shirl? 
+*SHI:	Yeah, unfortunately. 
+*:	 (  ) 
+*SHI:	Really what you want to do is make him hit the ball up. (.)  
+*STU:	Oh. Treat the box?  (.) Yeah go on, she's behind. Treat the box.  (.) Put the right ones in there my darling you've got a fortune. 
+*:	 (  ) 
+*STU:	Turn the top    (  )   
+*ANN:	 I doubt if it's  right. 
+*STU:	Turn the top one over darling. 
+*ANN:	I'm sure it's wrong. 
+*STU:	Three. 
+*:	 (  ) 
+*ANN:	No I'm not doing it. 
+*STU:	For fourteen. (.)  
+*:	 (  ) 
+*STU:	Nineteen. 
+*:	 (  ) 
+*STU:	Four ten five. Right, oh  (  )  
+*:	 (  ) 
+*ANN:	Oh thankyou. 
+*STU:	One two three, four five six, seven eight nine and six is fifteen. Five 
+*:	 (  ) 
+*STU:	Fifteen.  (  ) . One two and three is five.  (.)  (  ) is five. 
+*ANN:	Six eight nine in the box. 
+*STU:	One two three, four five six, seven eight nine. Oh yeah. Told you. 
+*:	 (  ) 
+*STU:	I told you didn't I? I'm favourite to win though. But   (.) Told you you put   (.) put ten, I put jack queen in s  same suit and close and everything. Had to for that. (.)  
+*:	 (  ) 
+*STU:	 ((laugh)) Now what do I do?  (10.0) Mm   (  ) I suppose.  (.) ooh it's nine. Mm mm mm mm     (.)  (  )  (.) Never mind. Up to you darling. Nineteen.  (.) Well   (.) ten.  (.) Thirty for three. 
+*ANN:	I know you    (  ) any others. 
+*STU:	  (  )  four. What have you got to finish with?  (.) Come on darling. One two three, four five six, seven eight  (.)  
+*ANN:	I had another queen as well. 
+*STU:	Sixteen.  (.) Into the box. Oh dear darling. 
+*ANN:	I've had it I know.  Street. 
+*STU:	 Oh dear. 
+*ANN:	You  already won. 
+*STU:	  (  ) two  fifteen twenty twenty five thirty   (.) thirty five.  (.) And I owe you five so that's thirty pence you owe me now isn't it? 
+*ANN:	Yes dear. (.)  
+*STU:	Whose box? It's one two three, my box.  (10.0) Yeah, my box isn't it? 
+*:	 (  ) 
+*ANN:	 (  ) later I suppose. (.)  
+*STU:	Pass me a goody darling. Pass me a goody.  (.) That's not a goody, that's a baddy. 
+*ANN:	That's a goody. 
+*STU:	No it's not, it's a baddy.  (.) Your lead dear. 
+*ANN:	See one, play one. 
+*STU:	Nineteen.  (.) Twenty nine, no? 
+*:	 (  ) 
+*STU:	Seven.  (.) Twenty four. (.)  (  )  
+*:	 (  ) 
+*STU:	You jammy bugger. Fifteen two fifteen four fifteen six twenty eight two is ten, six is sixteen and one for his knob, is seventeen. 
+*ANN:	Think I played right that time. 
+*STU:	I think you did. Two. 
+*ANN:	Can't remember what I put in the box, another picture I think. 
+*STU:	Yeah but what else with it though? 
+*ANN:	Or did I put a picture or ten?  I dunno. 
+*STU:	 No you put  four two in. 
+*ANN:	Four two. 
+*STU:	Four, I mean eight four. 
+*ANN:	Eight four, yeah. 
+*STU:	And I put a pair of twos in so you didn't   (  ) very much. I got two. I scored five in that  (  ) . And you scored all that lot. It's your box now. You're gonna get that thirty pence back plus interest this time aren't you? 
+*ANN:	I doubt it. You'll catch up. 
+*STU:	 (  ) No I won't. (.)  
+*ANN:	If, if we were once round then I'd say yes but not 
+*STU:	Mhm.  (.) Oh you can't have any of these. 
+*ANN:	I don't want you to have any of these, so  (.)  
+*STU:	Oh I've got to take a chance on it. No. Turn up.  (.) Turn up, please.  (.) Seven  (.)  
+*ANN:	Teen. 
+*STU:	Twenty seven.  (  ) . Seventeen.  (.) Twenty seven. Oh six.  (.) Two 
+*ANN:	Six. 
+*STU:	Two four six. 
+*ANN:	That's the other blooming one. Mind you  that isn't too bad is it? 
+*STU:	 Oh bloody hell  one two three four five six seven eight. 
 *ANN:	 ((laugh)) 
-*STU:	Five six seven eight.I'm getting slaughtered Shirley, this time.
-*SHI:	Are you?
-*STU:	Absolutely completely and utterly slaughtered.
-*SHI:	Bob did yesterday.Bob did yesterday.
-*STU:	She said, yeah.
-*SHI:	Yeah.
-*STU:	I'm thirty pence up, but   (.) this game I'm getting absolutely trounced.
-*SHI:	I won him about I don't know it was three or four games  (        ) . ((laugh)) 
+*STU:	Five six seven eight. I'm getting slaughtered Shirley, this time. 
+*SHI:	Are you? 
+*STU:	Absolutely completely  and utterly slaughtered. 
+*SHI:	 Bob did yesterday.  Bob did yesterday. 
+*STU:	She said, yeah. 
+*SHI:	Yeah. 
+*STU:	I'm thirty pence up, but   (.) this game I'm getting absolutely trounced. 
+*SHI:	I won him about I don't know it was three or four games  (  ) . ((laugh))  
 *STU:	 ((laugh)) 
-*SHI:	Couldn't go wrong!
-*STU:	 ((laugh))  (.)  (        ) to get back. (.) A oner.
-*SHI:	Did you enjoy your little self?
-*NON:	Erm  (.) 
+*SHI:	Couldn't go wrong! 
+*STU:	 ((laugh))  (.)  (  ) to get back.  (.)  A oner. 
+*SHI:	 Did you enjoy  your little self? 
+*NON:	Erm  (.)  
 *SHI:	 ((laugh)) 
-*NON:	makes a change to have a   (        ) game rather than erm
-*SHI:	Yeah   ((laugh)) 
-*STU:	Thirteen 
-*NON:	something with an edge to it, you know.
-*SHI:	Yeah, that's right.Yeah.
-*STU:	Twenty, twenty five. (.) Thirty?No.
-*SHI:	Just takes your mind off your troubles for five minutes doesn't it?
-*STU:	Queen.
-*NON:	No, no I like the game but then I I like to play 
-*STU:	 (        ) 
-*NON:	the game   (        )  ((laugh)) .
-*SHI:	Mm.That's right.That's what it should be.
-*STU:	Well, look at this lot.Fifteen two fifteen four fifteen six two is eight one for his knob is nine. (.) Nine.Fifteen two fifteen four twenty six and three is nine. (.) Keeps her distance  (        ) .Pop a pair of sixes in   (.) don't put, what's on top? (.) Ace .
-*ANN:	Oh yeah one.
-*STU:	Fifteen two fifteen four and a pair is six.
-*:	 (        ) 
-*ANN:	 ((laugh)) Bubye.
-*STU:	See you Grace, see you Al.
-*SHI:	See you again.
-*NON:	Teach   (        ) how to play that game will you?
-*SHI:	 ((laugh)) Okay then.Oh dear, well it's all good fun,.
-*STU:	Ah.It certainly is.
-*SHI:	It's all good fun. (.) Hello Harold. (.) Maybe it's getting a bit chilly out there   (.) with that door open.
-*ANN:	There's talk of   (.) is it my box?
-*STU:	Yes, unfortunately.
-*SHI:	I haven't heard the weather.And I don't know what er
-*ANN:	Oh I've got sweet  (.) 
-*NON:	Well we're gonna get a lot of it.
-*SHI:	Are we?Oh.Okay.
-*STU:	No, I can't   (.) nothing I can do here.
-*NON:	All day.
-*SHI:	All day?
-*NON:	Lot of what?
-*NON:	Weather.
-*NON:	Oh well, yeah, yes.
+*NON:	makes a change to have a   (  ) game rather than erm 
+*SHI:	 Yeah   ((laugh))   
+*STU:	 Thirteen   
+*NON:	something with an edge to it, you know. 
+*SHI:	Yeah, that's right. Yeah. 
+*STU:	Twenty, twenty five.  (.) Thirty? No. 
+*SHI:	Just takes your mind off your troubles for five minutes doesn't it? 
+*STU:	Queen. 
+*NON:	No, no I like the game but then I  I like to play   
+*STU:	  (  )  
+*NON:	the game   (  )  ((laugh)) . 
+*SHI:	Mm. That's right. That's what it should be. 
+*STU:	Well, look at this lot. Fifteen two fifteen four fifteen six two is eight one for his knob is nine.  (.) Nine. Fifteen two fifteen four twenty six and three is nine.  (.) Keeps her distance  (  ) . Pop a pair of sixes in   (.) don't put, what's on top?  (.)  Ace  . 
+*ANN:	 Oh yeah  one. 
+*STU:	Fifteen two fifteen four and a pair is six. 
+*:	 (  ) 
+*ANN:	 ((laugh)) Bubye. 
+*STU:	See you Grace, see you Al. 
+*SHI:	See you again. 
+*NON:	Teach   (  ) how to play that game will you? 
+*SHI:	 ((laugh)) Okay then. Oh dear, well it's all good fun,. 
+*STU:	Ah. It certainly is. 
+*SHI:	It's all good fun.  (6.0) Hello Harold.  (.) Maybe it's getting a bit chilly out there   (.) with that door open. 
+*ANN:	There's talk of   (.) is it my box? 
+*STU:	Yes, unfortunately. 
+*SHI:	I haven't heard the weather. And I don't know what er 
+*ANN:	Oh I've got sweet  (.)  
+*NON:	Well we're gonna get a lot of it. 
+*SHI:	Are we?  Oh. Okay. 
+*STU:	 No, I can't    (.) nothing I can do here. 
+*NON:	All day. 
+*SHI:	All day? 
+*NON:	Lot of what? 
+*NON:	Weather. 
+*NON:	Oh well, yeah, yes. 
 *SHI:	 ((laugh)) 
-*STU:	Seven eight.
-*NON:	But what   (.) type of weather?
-*ANN:	I might have known the   (.) come on, put the third one down.
-*STU:	Ooh sixteen.Twenty five.
-*ANN:	Oh. (.)  ((laugh)) 
-*SHI:	They're dim. ((laugh)) 
-*STU:	 (        ) twenty five.Twenty seven, twenty nine for two.
-*ANN:	Mm.
-*STU:	 (        ) 
-*SHI:	 (        ) my other husband. ((laugh)) 
-*STU:	Twenty   (.) fifteen   (.) two
+*STU:	Seven eight. 
+*NON:	But what   (.) type of weather? 
+*ANN:	I might have known the   (.) come on, put the third one down. 
+*STU:	 Ooh  sixteen. Twenty five. 
+*ANN:	Oh. (.)  ((laugh))  
+*SHI:	They're dim. ((laugh))   
+*STU:	  (  ) twenty five.  Twenty seven, twenty nine for two. 
+*ANN:	Mm. 
+*STU:	  (  )  
+*SHI:	  (  )  my other husband. ((laugh))  
+*STU:	Twenty   (.) fifteen   (.) two 
 *:	 ((laugh)) 
-*ANN:	Nothing.
-*STU:	Fifteen two fifteen four for seven. (.) Two for  (        ) ?Yes. (        ) 
-*ANN:	 (        ) 
-*SHI:	 [laughing] Oh dear  [] .
-*STU:	Two for fours.Ooh.
-*ANN:	Caught up now.
-*STU:	No.Haven't caught up. (.) I'm still behind.
-*SHI:	Well hallo!
-*NON:	Hello.
-*SHI:	How the devil are you?
-*NON:	Alright thanks.How are you?
-*SHI:	Alright Johnny?
-*STU:	Alright?
-*NON:	 (        ) come to see you.
-*SHI:	I should damn well think so too. (.) Are you delivering? (        ) 
-*NON:	 (        ) 
-*SHI:	I don't know you Doug, no.Hello Doug. ((laugh)) 
-*:	 (        ) 
-*ANN:	Oh god. (.) Tut. (.) Can't do that can I? (.) 
-*:	 (        )  (        ) 
-*:	 (        ) 
-*ANN:	That'll give me four. (.) Gives me four.
-*:	 (        ) 
-*ANN:	Oh I'll do it that way and take a chance.I don't know whether I'm doing right or wrong.
-*STU:	 (        ) 
-*ANN:	Oh god I've give you a bloody handful now so that was stupid. (.)  (        ) let me have a look. (.) Oh I only need ten, well it depends on what you've put in.I give you two. ((laugh)) 
-*STU:	Your lead now. (.) Eight. (.) Eighteen   (.) seventeen. (.) Twenty two, twenty nine. (.) Mm  (        ) .Ann's take, fifteen two fifteen four two six   (.) six.I've got two. (.) Have you?No   (.) king, ten I've got two queens on I've got to get king jack   (        ) 
-*ANN:	 ((laugh)) 
-*STU:	No    (.)  (        ) put king   (.) king ten's fairly safe   (        ) jack queen is. (.) It's your 
-*ANN:	Yeah but I'm going to keep the two pictures and a five   (.) and then you had to put two twos in or   (.) two and a six or
-*STU:	Yeah, yeah.
-*ANN:	I don't blooming know and I thought if a seven comes up and I've got five and six and
-*STU:	Yeah.Oh yeah.Yeah.
-*ANN:	I thought oh   (.) I try to work it out.I can't always.
-*STU:	Mm.
-*ANN:	Whoops, I give you  (.) 
-*:	 (        ) 
-*STU:	Still well in the lead my love. (.) 
-*ANN:	Oh now again, what do I do? (.) I think I'm supposed to keep that.
-*STU:	Top, top.
-*ANN:	I don't know but I think I'm supposed to, yeah that'll do.
-*STU:	King of spuds. (.) Five, four. (.) 
-*ANN:	God. ((laugh)) Oh well I've   (.) put it down now.
-*STU:	Fifteen for two. (.) Seventeen.Twenty for two. (.) Twenty two, twenty three for three. (        ) four for two and a go is three. (.) ended up   (        ) right. (.) Fifteen two fifteen four and five is nine.Five six seven eight nine.Fifteen two fifteen four two   (        ) a dozen.
-*ANN:	Six in the box.
-*STU:	 (        ) king in the box.Bloody hell.Six for kings in the box.You did well out of that didn't you?
-*ANN:	Mm.
-*STU:	Stormed back into the   (.) a very very handy little lead. (.) Very handy little lead. (.) 
-*NON:	Is he beating you again?
-*ANN:	Erm   (.) he's beating me two one and then, but I'm winning in this one.
-*NON:	Ooh crikey.You've been taking lessons. ((laugh)) 
-*STU:	Thirty pence up I am though.
-*NON:	Oh.
-*STU:	But   (.) she's gonna get some of it back this time. (.) Aren't you dear?
-*ANN:	No. ((laugh))  (.) 
-*STU:	Mm could go the other way I suppose. (.) Yeah, put that on.Try that one. (.) Give them a, take a chance.Depends what you put in the box.
-*ANN:	I only   (        ) 
-*STU:	Depends what turns up.Mm.Maybe another
-*ANN:	Four.
-*STU:	Oh I've changed my mind. (.) Oh I don't know though.
-*ANN:	Oh bloody hell, I give you   (.) I might as well not be playing now cos I've    (.)  (        ) I've got nothing in me hand.
-*STU:	No.
-*ANN:	Nothing. ((laugh)) 
-*STU:	Your lead.Your lead.
-*ANN:	Nothing.
-*STU:	Nineteen.Only nine, oh got nine in the box as well eh.Twenty nine, thirty. (.) Ah   (.) two four one that would have been. (.) Three   (        ) gets four.
-*ANN:	Oh well .And nothing.
-*STU:	What do you mean, nothing?
-*ANN:	I haven't got anything.
-*STU:	Yes you have.You got one for his knob.
-*ANN:	One.
-*STU:	One for his knob. (.) I only got fifteen two and two is four. (.)  (        ) put a nine up for that  (        ) 
-*ANN:	I didn't know what to do.
-*STU:	I know.I only got fifteen.Just a minute, just a minute!Fifteen two two is four, give us chance to count them up.
-*ANN:	You've already got them counted up  (        ) .
-*STU:	What did you have?The nine jack   (.) two ace 
-*ANN:	Yeah.Two nines.
-*STU:	Why didn't you keep your nine, two nines your jack   (.) and put your king ace in the box? (.) Or your king two in the box?
-*ANN:	I don't know. (.) 
-*STU:	Cos jacks are not 
-*ANN:	Didn't know what to do with it.It was all
-*STU:	Hallo Ray.
-*ANN:	None of it made sense.
-*STU:	Jack two nines and the ten turns up. (.) 
-*ANN:	There was just nothing   (.) apart from the two nines was any
-*STU:	Oh no.
-*ANN:	then what do you do?
-*STU:	Oh go on, bugger it.Take a chance on it. (.) Turn it up darling.Oh   (.) one go one box.Try a jack. (.) Sixteen for two. (.) Twenty six, twenty nine   (.) two's in time. (        ) look at that.Try a jack.One to one.Fifteen two fifteen four two six two's eight one for his knob is nine.Five six seven eight nine, fifteen for two fifteen four
+*ANN:	Nothing. 
+*STU:	Fifteen two fifteen four for seven.  (.) Two for  (  ) ? Yes. (  )  
+*ANN:	 (  ) 
+*SHI:	 ((laughing)) Oh dear . 
+*STU:	Two for fours. Ooh. 
+*ANN:	Caught up now. 
+*STU:	No. Haven't caught up.  (.) I'm still behind. 
+*SHI:	Well hallo! 
+*NON:	Hello. 
+*SHI:	How the devil are you? 
+*NON:	Alright thanks. How are you? 
+*SHI:	 Alright Johnny? 
+*STU:	 Alright? 
+*NON:	 (  ) come to see you. 
+*SHI:	I should damn well think so too.  (.) Are you delivering? (  )  
+*NON:	 (  ) 
+*SHI:	I don't know you Doug, no. Hello Doug. ((laugh))  
+*:	 (  ) 
+*ANN:	Oh god.  (.) Tut.  (.) Can't do that can I? (.)  
+*:	 (  )  (  ) 
+*:	 (  ) 
+*ANN:	That'll give me four.  (.) Gives me four. 
+*:	 (  ) 
+*ANN:	Oh I'll do it that way and take a chance. I don't know whether I'm doing right or wrong. 
+*STU:	 (  ) 
+*ANN:	Oh god I've give you a bloody handful now so that was stupid.  (.)  (  ) let me have a look.  (.) Oh I only need ten, well it depends on what you've put in. I give you two. ((laugh))  
+*STU:	Your lead now.  (.) Eight.  (.) Eighteen   (.) seventeen.  (.) Twenty two, twenty nine.  (.) Mm  (  ) . Ann's take, fifteen two fifteen four two six   (.) six. I've got two.  (.) Have you? No   (.) king, ten I've got two queens on I've got to get king jack    (  )   
+*ANN:	  ((laugh))  
+*STU:	No    (.)  (  ) put king   (.) king ten's fairly safe   (  ) jack queen is.  (.)  It's your   
+*ANN:	 Yeah but  I'm going to keep the two pictures and a five   (.) and then you had to put two twos in or   (.) two and a six or 
+*STU:	Yeah, yeah. 
+*ANN:	I don't blooming know and I thought if a seven comes up and I've got five and six and 
+*STU:	Yeah. Oh yeah. Yeah. 
+*ANN:	I thought oh   (.) I try to work it out. I can't always. 
+*STU:	Mm. 
+*ANN:	Whoops, I give you  (.)  
+*:	 (  ) 
+*STU:	Still well in the lead my love. (.)  
+*ANN:	Oh now again, what do I do?  (.) I think I'm supposed to keep that. 
+*STU:	Top, top. 
+*ANN:	I don't know but I think I'm supposed to, yeah that'll do. 
+*STU:	King of spuds.  (.) Five, four. (.)  
+*ANN:	God.  ((laugh)) Oh well I've   (.) put it down now. 
+*STU:	Fifteen for two.  (.) Seventeen. Twenty for two.  (.) Twenty two, twenty three for three.  (  ) four for two and a go is three.  (.) ended up   (  ) right.  (.) Fifteen two fifteen four and five is nine. Five six seven eight nine. Fifteen two fifteen four two   (  ) a dozen. 
+*ANN:	Six in the box. 
+*STU:	 (  ) king in the box. Bloody hell. Six for kings in the box. You did well out of that didn't you? 
+*ANN:	Mm. 
+*STU:	Stormed back into the   (.) a very very handy little lead.  (.) Very handy little lead. (.)  
+*NON:	Is he beating you again? 
+*ANN:	Erm   (.) he's beating me two one and then, but I'm winning in this one. 
+*NON:	Ooh crikey. You've been taking lessons. ((laugh))  
+*STU:	Thirty pence up I am though. 
+*NON:	Oh. 
+*STU:	But   (.) she's gonna get some of it back this time.  (.) Aren't you dear? 
+*ANN:	No. ((laugh))  (.)  
+*STU:	Mm could go the other way I suppose.  (.) Yeah, put that on. Try that one.  (.) Give them a, take a chance. Depends what you put in the box. 
+*ANN:	I only    (  )   
+*STU:	 Depends what  turns up. Mm. Maybe another 
+*ANN:	Four. 
+*STU:	Oh I've changed my mind.  (.) Oh I don't know though. 
+*ANN:	Oh bloody hell, I give you   (.) I might as well not be playing now cos I've    (.)  (  ) I've got nothing in me hand. 
+*STU:	No. 
+*ANN:	Nothing. ((laugh))   
+*STU:	 Your lead.  Your lead. 
+*ANN:	Nothing. 
+*STU:	Nineteen. Only nine, oh got nine in the box as well eh. Twenty nine, thirty.  (.) Ah   (.) two four one that would have been.  (.) Three    (  ) gets four. 
+*ANN:	 Oh well  . And nothing. 
+*STU:	What do you mean, nothing? 
+*ANN:	I haven't got anything. 
+*STU:	Yes you have. You got  one for his knob. 
+*ANN:	 One. 
+*STU:	One for his knob.  (.) I only got fifteen two and two is four.  (.)  (  ) put a nine up for that  (  )  
+*ANN:	I didn't know what to do. 
+*STU:	I know. I only got fifteen. Just a minute, just a minute! Fifteen two two is four, give us chance to count them up. 
+*ANN:	You've already got them counted up  (  ) . 
+*STU:	What did you have? The nine jack   (.)  two ace   
+*ANN:	 Yeah.  Two nines. 
+*STU:	Why didn't you keep your nine, two nines your jack   (.) and put your king ace in the box?  (.) Or your king two in the box? 
+*ANN:	I don't know. (.)  
+*STU:	Cos  jacks are not   
+*ANN:	 Didn't know what to  do with it. It was all 
+*STU:	Hallo Ray. 
+*ANN:	None of it made sense. 
+*STU:	Jack two nines and the ten turns up. (.)  
+*ANN:	There was just nothing   (.) apart from the two nines was any 
+*STU:	Oh no. 
+*ANN:	then what do you do? 
+*STU:	Oh go on, bugger it. Take a chance on it.  (.) Turn it up darling. Oh   (.) one go one box. Try a jack.  (.) Sixteen for two.  (.) Twenty six, twenty nine   (.) two's in time.  (  ) look at that. Try a jack. One to one. Fifteen two fifteen four two six two's eight one for his knob is nine. Five six seven eight nine, fifteen for two fifteen four 
 @End

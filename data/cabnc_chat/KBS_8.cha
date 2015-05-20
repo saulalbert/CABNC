@@ -1,25 +1,25 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	unknown date:  
 @Location:	  at home  
-@Situation:	  chores and meals  
-@Media: 021A-C0897X0549XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  chores and meals   
+@Media:	021A-C0897X0549XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	DAD Dad self, MUM Mum wife
-@ID: eng|AudioBNC|DAD|~79;| |m|Ag5| |retired||PS079|
-@ID: eng|AudioBNC|MUM|~81;| |f|Ag5| |retired|wife|PS07A|
+@Options:	CA
+@ID:	eng|AudioBNC|DAD|79;|||||retired||PS079|
+@ID:	eng|AudioBNC|MUM|81;|||||retired|wife|PS07A|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0549XX-AAZZP0.wav
 @Comment:	conversation #8 (Tape 054902)
-*DAD:	I entered Whacker in the book   (.) and   (        ) 
-*MUM:	 (        ) 
-*DAD:	Well you have to make a list you see.
-*MUM:	Oh I see. (.) 
-*DAD:	I put him down as a schoolboy. (.)  (        )  (.) You know if you want to darling you 
-*MUM:	No I don't.
-*DAD:	cos I might look through there for a job you see.
-*MUM:	Oh yes? (.) 
-*DAD:	 (        ) 
+*DAD:	I entered Whacker in the book   (.) and    (  )   
+*MUM:	  (  )  
+*DAD:	Well you have to make a list you see. 
+*MUM:	Oh I see. (.)  
+*DAD:	I put him down as a schoolboy.  (.)  (  )  (22.0) You know if you want to darling  you   
+*MUM:	 No  I don't. 
+*DAD:	cos I might look through there for a job you see. 
+*MUM:	Oh yes? (.)  
+*DAD:	 (  ) 
 @End

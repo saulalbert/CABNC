@@ -1,64 +1,64 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
-@Date:	1991-02:  Unspecified
-@Media: 021A-C0897X0360XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
+@Date:	1991-02:  Unspecified 
+@Media:	021A-C0897X0360XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	COL Colin self, SHE Sheila wife, NIG Nigel friend, NEI Neil son, JOA Joanne daughter
-@ID: eng|AudioBNC|COL|unknown |m|X| |British Rail employee||PS069|
-@ID: eng|AudioBNC|SHE|unknown |f|X| |housekeeper|wife|PS10D|
-@ID: eng|AudioBNC|NIG|unknown |m|X| |electrician|friend|PS10E|
-@ID: eng|AudioBNC|NEI|unknown |m|X| |unemployed|son|PS10F|
-@ID: eng|AudioBNC|JOA|unknown |f|X| |daughter|PS10G|
+@Options:	CA
+@ID:	eng|AudioBNC|COL|unknown||||British Rail employee||PS069|
+@ID:	eng|AudioBNC|SHE|unknown||||housekeeper|wife|PS10D|
+@ID:	eng|AudioBNC|NIG|unknown||||electrician|friend|PS10E|
+@ID:	eng|AudioBNC|NEI|unknown||||unemployed|son|PS10F|
+@ID:	eng|AudioBNC|JOA|unknown||||daughter|PS10G|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0360XX-ABZZP0.wav
 @Comment:	conversation #17 (Tape 036008)
-*SHE:	So we're getting there.
-*NIG:	Oh yeah.
-*NEI:	Where's all my screwdrivers gone.
-*COL:	I don't know! (        ) !Over them   (        ) 
-*NIG:	Dunno mate.It's on the little table.
-*NEI:	Where?
-*NIG:	There.
-*NEI:	Where?
-*NIG:	Putting that  (        ) .
-*COL:	Shall look alright  (        ) .
-*SHE:	Yeah!Spend more time out there than they will out here!
-*COL:	 [laughing] Aha, they're joking ain't they  [] !
-*SHE:	Did you want any   (.) peas or anything with that?
-*COL:	No, no, no.That's 
-*SHE:	You sure?
-*COL:	okay. (.) Are these, are these   (        ) and er   (.)  (        ) ?
-*SHE:	Just like crisps.
-*COL:	Nice.
-*SHE:	 (        )  (.) Start what  (        ) ?
-*NEI:	What?
-*SHE:	 (        )  ((door bell))
-*NEI:	Oh!
-*SHE:	It's Tilly. (.) This  (        ) .
-*JOA:	Bye!
-*SHE:	 (        ) 
-*JOA:	Don't worry I'll walk home. (.)  ((drilling noise)) ((phone rings))
-*COL:	 ((speaking on phone))Oh yes, Gillian!Yeah! (.) Thursday night, yes.Yeah, we're not   (.) I'm not in tomorrow night. (.) Yes, yeah. (.) That's right, yeah. (.) I sa  (.) yes, no not   (.) I won't finish, I   (        ) in the meanti , I told Brian   (.) so he   (.) he most likely ringing li er Lynn. (.) Thank you.Yeah.Steve.Yes, yeah.Yep!Thursday night.Yep!
-*SHE:	Here you go  (        ) .
-*COL:	That's alright.No, that's alright.At half past eight, I'll   (.) okey-dokey.Okay love it's   (.) Yeah what he   (.) no,wha what the trouble is we got erm   (.) one o one our chap's retired   (.) and erm   (.) I'm gonna go there for the  (        ) , just ask him for it, just to say, you know   (.) have a, have a quick dri , now if you're popping over to  (        ) .Alright poppet. (.) Okay, okay love.Yeah, see yo , see you soon then.Alright.I I, I hope so too.At least some of ours got their money back.
-*NEI:	 (        ) 
-*COL:	 ((laugh))  (.) Alright? (.) Bye bye sci  (.) Yeah see you Thursday  [] .That was Gillian.
-*SHE:	So what you doing?Playing Thursday instead of Wednesday?
-*COL:	No.
-*SHE:	Oh!
-*COL:	This is the   (        ) for dad.
-*SHE:	Oh I see. (.) Take, those two there's.
-*COL:	Anything else?
-*SHE:	Erm  (        ) .
-*COL:	Oh!Oh!
-*SHE:	Stop!Well you will feel your, your gums won't you? (.) Mind you don't burn them or else that'll be a real terror!
-*NEI:	Yeah.
-*SHE:	I hope the light bulb shines the right way Nig?Down hill.
-*JOA:	See you later then.
-*SHE:	Cheerio now.
-*COL:	Night night.
-*JOA:	I won't need my keys will I?
-*SHE:	No.
+*SHE:	So we're getting there. 
+*NIG:	Oh yeah. 
+*NEI:	Where's all my screwdrivers gone. 
+*COL:	I don't know! (  ) ! Over them    (  )   
+*NIG:	 Dunno  mate. It's on the little table. 
+*NEI:	Where? 
+*NIG:	There. 
+*NEI:	Where? 
+*NIG:	Putting that  (  ) . 
+*COL:	Shall look alright  (  ) . 
+*SHE:	Yeah! Spend more time out there than they will out here! 
+*COL:	 ((laughing)) Aha, they're joking ain't they ! 
+*SHE:	Did you want any   (.) peas or anything with that? 
+*COL:	No, no, no.  That's   
+*SHE:	 You  sure? 
+*COL:	okay.  (6.0) Are these, are these   (  ) and er   (.)  (  ) ? 
+*SHE:	Just like crisps. 
+*COL:	Nice. 
+*SHE:	 (  )  (12.0) Start what  (  ) ? 
+*NEI:	What? 
+*SHE:	 (  )  ((door bell))
+*NEI:	Oh! 
+*SHE:	It's Tilly.  (7.0) This  (  ) . 
+*JOA:	Bye! 
+*SHE:	 (  ) 
+*JOA:	Don't worry I'll walk home. (.)  ((drilling noise)) ((phone rings)) 
+*COL:	 ((speaking on phone)) Oh yes, Gillian! Yeah!  (6.0) Thursday night, yes. Yeah, we're not   (.) I'm not in tomorrow night.  (8.0) Yes, yeah.  (6.0) That's right, yeah.  (6.0) I sa   (.) yes, no not   (.) I won't finish, I   (  ) in the meanti  , I told Brian   (.) so he   (.) he most likely ringing li  er Lynn.  (.) Thank you. Yeah. Steve. Yes, yeah. Yep! Thursday night. Yep! 
+*SHE:	Here you go  (  ) . 
+*COL:	That's alright. No, that's alright. At half past eight, I'll   (.) okey-dokey. Okay love it's   (7.0) Yeah what he   (.) no,wha  what the trouble is we got erm   (.) one o  one our chap's retired   (.) and erm   (.) I'm gonna go there for the  (  ) , just ask him for it, just to say, you know   (.) have a, have a quick dri  , now if you're popping over to  (  ) . Alright poppet.  (.) Okay, okay love. Yeah, see yo  , see you soon then. Alright. I I, I hope so too. At least some of ours got their money back. 
+*NEI:	 (  ) 
+*COL:	 ((laugh))  (.) Alright?  (.) Bye bye sci   (.) Yeah see you Thursday . That was Gillian. 
+*SHE:	So what you doing? Playing Thursday instead of Wednesday? 
+*COL:	No. 
+*SHE:	Oh! 
+*COL:	This is the   (  ) for dad. 
+*SHE:	Oh I see.  (6.0) Take, those two there's. 
+*COL:	Anything else? 
+*SHE:	Erm  (  ) . 
+*COL:	Oh! Oh! 
+*SHE:	Stop! Well you will feel your, your gums won't you?  (6.0) Mind you don't burn them or else that'll be a real terror! 
+*NEI:	Yeah. 
+*SHE:	I hope the light bulb shines the right way Nig? Down hill. 
+*JOA:	See you later then. 
+*SHE:	Cheerio now. 
+*COL:	Night night. 
+*JOA:	I won't need my keys will I? 
+*SHE:	No. 
 @End

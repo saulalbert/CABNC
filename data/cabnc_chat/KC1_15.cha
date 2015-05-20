@@ -1,18 +1,18 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-26:  
 @Location:	 home 
-@Situation:	 taking down wall cupboard 
-@Media: 021A-C0897X0409XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 taking down wall cupboard  
+@Media:	021A-C0897X0409XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	FRA Frank self, JON Jonny son
-@ID: eng|AudioBNC|FRA|~50;| |m|Ag4| |tv engineer||PS09E|
-@ID: eng|AudioBNC|JON|~4;| |m|Ag0| |pre-school|son|PS09M|
+@Options:	CA
+@ID:	eng|AudioBNC|FRA|50;|||||tv engineer||PS09E|
+@ID:	eng|AudioBNC|JON|4;|||||pre-school|son|PS09M|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0409XX-AAZZP0.wav
 @Comment:	conversation #15 (Tape 040902)
-*JON:	Dad, how did you catch the shelf   (.) when er it was just about to fall?
-*FRA:	 (        ) shelf  (.) 
+*JON:	Dad, how did you catch the shelf   (.) when er it was just about to fall? 
+*FRA:	 (  ) shelf  (.)  
 @End

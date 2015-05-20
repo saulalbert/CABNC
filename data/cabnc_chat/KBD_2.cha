@@ -1,31 +1,31 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-01:  
 @Location:	  in car  
-@Situation:	  going to get change for till  
-@Media: 021A-C0897X0639XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  going to get change for till   
+@Media:	021A-C0897X0639XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BAR Barry self, HUG Hugh employee
-@ID: eng|AudioBNC|BAR|~41;| |m|Ag3| |entertainments consultant||PS03W|
-@ID: eng|AudioBNC|HUG|~30;| |m|Ag2| |bar staff|employee|PS03Y|
+@Options:	CA
+@ID:	eng|AudioBNC|BAR|41;|||||entertainments consultant||PS03W|
+@ID:	eng|AudioBNC|HUG|30;|||||bar staff|employee|PS03Y|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0639XX-AAZZP0.wav
 @Comment:	conversation #2 (Tape 063902)
-*HUG:	No, they're fucking stuck!Thirty quid, that's it.Fuck!I, I might get forty pounds at the Empire   (.) Ballroom.
-*BAR:	Mm.
-*HUG:	He's difficult.
-*BAR:	Well he  (.) 
-*HUG:	He give me fucking 
-*BAR:	I'll tell you 
-*HUG:	 (        )  (.) he give me some a couple of months ago when we  (        ) .
-*BAR:	Well I'm er   (.) he wants me to 
-*HUG:	He just needs showing  (        ) .
-*BAR:	He wants me   (.) I mean   (.) he wants to do me a favour, Paul, so he might gi he might, you know I mean he   (.) say for us, I mean for us he would 
-*HUG:	Yeah, well   (        ) Peter's alright, he'll cash you  (        ) . (.) I hope  (        ) . ((laugh))  (.) So I got thirty, thirty in tens so
-*BAR:	Mm.
-*HUG:	Ah Jesus!Well, oh, oh seventy five you give me did you?
-*BAR:	Yeah.
-*HUG:	Oh right.I should have give him a fiver  (        ) .
+*HUG:	No, they're fucking stuck! Thirty quid, that's it. Fuck! I, I might get forty pounds at the Empire   (.) Ballroom. 
+*BAR:	Mm. 
+*HUG:	He's difficult. 
+*BAR:	Well he  (.)  
+*HUG:	 He give me fucking   
+*BAR:	 I'll tell you   
+*HUG:	 (  )  (.) he give me some a couple of months ago when we  (  ) . 
+*BAR:	Well I'm er   (.)  he wants me to   
+*HUG:	 He just needs  showing  (  ) . 
+*BAR:	He wants me   (.) I mean   (.) he wants to do me a favour, Paul, so he might gi  he might, you know I mean he   (.) say  for us, I mean for us he would   
+*HUG:	 Yeah, well   (  )  Peter's alright, he'll cash you  (  ) .  (.) I hope  (  ) .  ((laugh))  (9.0) So I got thirty, thirty in tens so 
+*BAR:	Mm. 
+*HUG:	Ah Jesus! Well, oh, oh seventy five you give me did you? 
+*BAR:	Yeah. 
+*HUG:	Oh right. I should have give him a fiver  (  ) . 
 @End

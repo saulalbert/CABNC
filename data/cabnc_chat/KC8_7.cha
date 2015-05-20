@@ -1,16 +1,16 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-05:  
 @Location:	 friend's house 
-@Situation:	 having coffee 
-@Media: 021A-C0897X0197XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 having coffee  
+@Media:	021A-C0897X0197XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	GIL Gillian self
-@ID: eng|AudioBNC|GIL|~32;| |f|Ag2| |housewife||PS0BY|
+@Options:	CA
+@ID:	eng|AudioBNC|GIL|32;|||||housewife||PS0BY|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0197XX-ABZZP0.wav
 @Comment:	conversation #7 (Tape 019704)
-*GIL:	This part of the conversation has been wiped off, it'll continue in a few minutes.
+*GIL:	This part of the conversation has been wiped off, it'll continue in a few minutes. 
 @End

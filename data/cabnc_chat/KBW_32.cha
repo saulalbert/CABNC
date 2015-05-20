@@ -1,84 +1,84 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-17:  
 @Location:	  nursery school  
-@Situation:	  settling 2 in at nursry  
-@Media: 021A-C0897X0226XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  settling 2 in at nursry   
+@Media:	021A-C0897X0226XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , DOR Dorothy self, TIM Tim son, GWE Gwen friend, LIL Lily acquaintance
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
-@ID: eng|AudioBNC|TIM|~3;| |m|Ag0| |student (private pre)|son|PS088|
-@ID: eng|AudioBNC|GWE|~50;| |f|Ag4| |teacher/nursery owner|friend|PS0XN|
-@ID: eng|AudioBNC|LIL|~40;| |f|Ag3| |nursery assistant|acquaintance|PS0XP|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|DOR|34;|||||teacher (pt)||PS087|
+@ID:	eng|AudioBNC|TIM|3;|||||student (private pre)|son|PS088|
+@ID:	eng|AudioBNC|GWE|50;|||||teacher/nursery owner|friend|PS0XN|
+@ID:	eng|AudioBNC|LIL|40;|||||nursery assistant|acquaintance|PS0XP|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0226XX-ABZZP0.wav
 @Comment:	conversation #32 (Tape 022604)
-*DOR:	Where are you gonna go? (.) What are you gonna do?
-*TIM:	 (        ) 
-*GWE:	 (        ) there's someone  (        ) 
-*DOR:	I know.I know.It's the same all the time.
-*GWE:	Oh yeah   (        ) 
-*DOR:	 (        ) aren't they?
-*GRO:	 (        ) 
-*DOR:	Where are you going to go?I think it's the initial sort of shyness of it all, you know?Going from one place to another. (.) Ooh.
-*GWE:	 (        ) She's a real teacher in school.
-*DOR:	Sometimes.
-*GWE:	Sometimes.
-*DOR:	Are you a clever reader?
-*GRO:	 (        ) 
-*GWE:	Would you like to get you a book? (.) Before you break a leg   [laughing] could you   (        )  [] .
-*UNK:	I can't get up.
-*DOR:	She can't cope.
-*GWE:	Oh dear.What are we going to do now then?
-*DOR:	What are you going to do Tim? (.) You don't know. (.) How about a Postman Pat jigsaw, ha?Oh I know what you fancied on the way over wasn't it   (.) was it Postman Pat snap? (.) 
-*GRO:	 (        ) 
-*DOR:	What are we gonna do dear? (.) 
-*LIL:	Oh they're very smart trainers Dot.
-*DOR:	Well it's my birthday you know Lil.
-*LIL:	Oh is it today?
-*DOR:	Mm.
-*LIL:	Oh happy birthday.
-*DOR:	So I'm wearing my birthday things, you know? [whispering] Thirty five today  [] . ((laugh)) 
-*LIL:	Happy birthday.They're very nice.
-*DOR:	Thank you very much.
-*LIL:	They look very very expensive.
-*DOR:	Well they weren't.They looked it but I got 
-*LIL:	Adidas 
-*DOR:	I got erm   (.) however much money it is off you know.I was 
-*LIL:	Oh yes yes yes.
-*DOR:	walking down the high street and  ((laugh)) 
-*LIL:	Oh good.And what did you take this morning, Postman Pat?
-*DOR:	Well it's Thomas today he's got.
-*LIL:	Thomas, sorry.Thomas the Tank.
-*DOR:	Come on really.
-*GWE:	Happy birthday Dot.
-*DOR:	Thank you.
-*GWE:	You're  (        ) 
-*DOR:	 ((laugh)) Or something. ((laugh)) Right.
-*UNK:	Mum, who's birthday is it?
-*GWE:	Oh it's Tim's mummy's birthday today.
-*DOR:	That's nice isn't it?What are you gonna get then? (.) You fancy what? (.) Postman Pat snap?Shall we have a look for it? (.) We're going to root in your drawers for Postman Pat snap.Is that alright?
-*GRO:	 (        ) 
-*UNK:	Erm Fireman Sam?
-*UNK:	No.
-*UNK:	Postman Pat?
-*UNK:	No.
-*UNK:	Well you'll have to tell us.
-*UNK:	 (        ) 
-*DOR:	Norman.Norman. ((laugh)) 
-*LIL:	Henry.
-*GRO:	 (        ) 
-*DOR:	I think those are jigsaws mainly in there, don't you?What's this at the bottom here? (.) Shall we have a look in a different one?Try this next one down here.Have a look in there.Excuse me dear.Thank you. (.) Can you see it?I think it's all jigsaws in this bit. (.) Don't you?Shall we try the top drawer?Would you like that one? (.)  [laughing]  (        ) rooting about in your drawers  [] . (.) 
-*TIM:	Here.
-*DOR:	Have you found it?
-*TIM:	Look.
-*DOR:	Would you like that one instead?
-*GRO:	 (        ) 
-*DOR:	No. (        ) Shall we shut this drawer then and have a look in a different one?Excuse me.Mind your fingers.Oops a daisy.That's it.Let's try this top one cos we didn't look in here. (.) Oh this looks promising.What's this? (.) Is that it?Goody, hooray, mummy can go.
-*GRO:	 (        ) 
-*DOR:	I'll see you later then now.
+*DOR:	Where are you gonna go?  (.) What are you gonna do? 
+*TIM:	 (  ) 
+*GWE:	 (  ) there's someone  (  )  
+*DOR:	I know. I know. It's the same all the time. 
+*GWE:	Oh yeah    (  )   
+*DOR:	  (  )  aren't they? 
+*GRO:	 (  ) 
+*DOR:	Where are you going to go? I think it's the initial sort of shyness of it all, you know? Going from one place to another.  (.) Ooh. 
+*GWE:	 (  ) She's a real teacher in school. 
+*DOR:	Sometimes. 
+*GWE:	Sometimes. 
+*DOR:	Are you a clever reader? 
+*GRO:	 (  ) 
+*GWE:	Would you like to get you a book?  (.) Before you break a leg   ((laughing)) could you   (  ) . 
+*UNK:	I can't get up. 
+*DOR:	She can't cope. 
+*GWE:	Oh dear. What are we going to do now then? 
+*DOR:	What are you going to do Tim?  (.) You don't know.  (.) How about a Postman Pat jigsaw, ha? Oh I know what you fancied on the way over wasn't it   (.) was it Postman Pat snap? (.)  
+*GRO:	 (  ) 
+*DOR:	What are we gonna do dear? (.)  
+*LIL:	Oh they're very smart trainers Dot. 
+*DOR:	Well it's my birthday you know Lil. 
+*LIL:	Oh is it today? 
+*DOR:	Mm. 
+*LIL:	Oh happy birthday. 
+*DOR:	So I'm wearing my birthday things, you know?  ((whispering)) Thirty five today . ((laugh))  
+*LIL:	Happy birthday. They're  very nice. 
+*DOR:	 Thank you  very much. 
+*LIL:	They look very very expensive. 
+*DOR:	Well they weren't. They looked it but  I got   
+*LIL:	 Adidas   
+*DOR:	I got erm   (.) however much money it is off you know.  I was   
+*LIL:	 Oh yes yes yes. 
+*DOR:	walking down the high street and  ((laugh))  
+*LIL:	Oh good. And what did you take this morning, Postman Pat? 
+*DOR:	Well it's Thomas today he's got. 
+*LIL:	Thomas, sorry. Thomas  the Tank. 
+*DOR:	 Come on  really. 
+*GWE:	Happy birthday Dot. 
+*DOR:	Thank you. 
+*GWE:	You're  (  )  
+*DOR:	 ((laugh)) Or something.  ((laugh)) Right. 
+*UNK:	Mum, who's birthday is it? 
+*GWE:	Oh it's Tim's mummy's birthday today. 
+*DOR:	That's nice isn't it? What are you gonna get then?  (.) You fancy what?  (.) Postman Pat snap? Shall we have a look for it?  (.) We're going to root in your drawers for Postman Pat snap. Is that alright? 
+*GRO:	 (  ) 
+*UNK:	Erm Fireman Sam? 
+*UNK:	No. 
+*UNK:	Postman Pat? 
+*UNK:	No. 
+*UNK:	Well you'll have to tell us. 
+*UNK:	 (  ) 
+*DOR:	Norman. Norman. ((laugh))  
+*LIL:	Henry. 
+*GRO:	 (  ) 
+*DOR:	I think those are jigsaws mainly in there, don't you? What's this at the bottom here?  (.) Shall we have a look in a different one? Try this next one down here. Have a look in there. Excuse me dear. Thank you.  (.) Can you see it? I think it's all jigsaws in this bit.  (.) Don't you? Shall we try the top drawer? Would you like that one? (.)  ((laughing))  (  ) rooting about in your drawers . (.)  
+*TIM:	Here. 
+*DOR:	Have you found it? 
+*TIM:	Look. 
+*DOR:	Would you like that one instead? 
+*GRO:	 (  ) 
+*DOR:	No.  (  ) Shall we shut this drawer then and have a look in a different one? Excuse me. Mind your fingers. Oops a daisy. That's it. Let's try this top one cos we didn't look in here.  (.) Oh this looks promising. What's this?  (.) Is that it? Goody, hooray, mummy can go. 
+*GRO:	 (  ) 
+*DOR:	I'll see you later then now. 
 @End

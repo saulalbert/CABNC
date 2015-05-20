@@ -1,48 +1,48 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 shopping 
-@Situation:	Unspecified
-@Media: 021A-C0897X0048XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0048XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
-@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
-@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
-@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Options:	CA
+@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
+@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
+@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0048XX-ABZZP0.wav
 @Comment:	conversation #31 (Tape 004818)
-*HEL:	Yes, it was at the back of the cupboard I think, I think I've seen it in there .
-*CLA:	That's where I've   (        ) .It's, pardon.
-*HEL:	I think I have seen it in there.
-*CLA:	Why didn't you bring it?
-*HEL:	Well, will, put it, put it into be washed tonight and then you can use it if you like.
-*CLA:	Hm.
-*HEL:	Alright.
-*CLA:	 (        ) .
-*HEL:	Yeah.She's awake, yes it's alright  (.) 
-*CLA:	I'll read a chapter to myself, (        ) .
-*HEL:	Yeah.
-*CLA:	 (        ) .I'm not gonna play  (        ) .
-*HEL:	Oh alright, you tell me if there's any words you don't know  (.) 
-*CLA:	 (        ) does that say  (        ) .
-*HEL:	Sure.
-*CLA:	 (        ) .
-*HEL:	Yes.
-*CLA:	I thought it were fair, but I read the next bit    (        )  (.) What's this one?One day it's discovered the pond.One day then they discovered the old apple orchard, what does that   (        ) mean?
-*HEL:	It stretched.
-*CLA:	Stretched right down  (        ) .
-*HEL:	 ((laugh)) . ((clears throat))  (.) 
-*CLA:	 (        ) .Does that say being?
-*HEL:	Behind.
-*CLA:	Oh    (        )  (.)  ((talk in background)).
-*HEL:	Oh gosh   (.)  ((cough)) . ((yawn)) 
-*CLA:	 (        ) .
-*HEL:	Chaffinch.Little bird, it's a little bird.That's a difficult word.
-*CLA:	 (        ) .
-*HEL:	Hm.
-*CLA:	 (        ) .
-*HEL:	Yeah, well brightening up a bit 
+*HEL:	Yes, it was at the back of the cupboard I think, I think  I've seen it in there  . 
+*CLA:	 That's where I've   (  )  . It's, pardon. 
+*HEL:	I think I have seen it in there. 
+*CLA:	Why didn't you bring it? 
+*HEL:	Well, will, put it, put it into be washed tonight and then you can use it if you like. 
+*CLA:	Hm. 
+*HEL:	Alright. 
+*CLA:	 (  ) . 
+*HEL:	Yeah. She's awake, yes it's alright  (15.0)  
+*CLA:	I'll read a chapter to myself, (  ) . 
+*HEL:	Yeah. 
+*CLA:	 (  ) . I'm not gonna play  (  ) . 
+*HEL:	Oh alright, you tell me if there's any words you don't know  (30.0)  
+*CLA:	 (  ) does that say  (  ) . 
+*HEL:	Sure. 
+*CLA:	 (  ) . 
+*HEL:	Yes. 
+*CLA:	I thought it were fair, but I read the next bit    (  )  (25.0) What's this one? One day it's discovered the pond. One day then they discovered the old apple orchard, what does that   (  ) mean? 
+*HEL:	It stretched. 
+*CLA:	Stretched right down  (  ) . 
+*HEL:	 ((laugh)) . ((clears throat))  (20.0)  
+*CLA:	 (  ) . Does that say being? 
+*HEL:	Behind. 
+*CLA:	Oh    (  )  (50.0)  ((talk in background)). 
+*HEL:	Oh gosh   (55.0)  ((cough)) . ((yawn))  
+*CLA:	 (  ) . 
+*HEL:	Chaffinch. Little bird, it's a little bird. That's a difficult word. 
+*CLA:	 (  ) . 
+*HEL:	Hm. 
+*CLA:	 (  ) . 
+*HEL:	Yeah, well brightening up a bit  
 @End

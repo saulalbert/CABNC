@@ -1,57 +1,57 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-03:  
 @Location:	 Brother's house 
-@Situation:	Unspecified
-@Media: 021A-C0897X0065XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0065XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	FRE Fred self, UNK Unknown Unknown None ?
-@ID: eng|AudioBNC|FRE|~78;| |m|Ag5| |retired||PS1E4|
-@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS1EB|
+@Options:	CA
+@ID:	eng|AudioBNC|FRE|78;|||||retired||PS1E4|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS1EB|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0065XX-ABZZP0.wav
 @Comment:	conversation #11 (Tape 006503)
-*NON:	Do you want any more tea Fred?
-*FRE:	Mm. (        ) .
-*NON:	Pardon?Been asleep.
-*FRE:	I'll go and get one, there's still in the pot.
-*NON:	Well if there isn't there's, I'll, yeah, be a bit thin now if, put some water in, put water in that kettle.
-*FRE:	Don't worry I'll got, this will do me mate.
-*NON:	O K  (.) 
-*FRE:	Mm, what time is it?
-*NON:	Twenty to four, by my watch.
-*FRE:	Yes, it's half past three by mine.
-*NON:	My, my watch is the one Irene bought me gone wrong, it's had to go in for repairs.
-*FRE:	Yes she told me.
-*NON:	Gonna cost about sixteen quid to have it repaired.
-*FRE:	Is it?Blimey.
-*NON:	It's had to go away to the makers.
-*FRE:	Oh.
-*NON:	I don't know what's wrong with it I'm sure. (        ) without a watch in this bloody thing.
-*FRE:	Yeah.
-*NON:	Keeps stopping.
-*FRE:	Does it?Oh dear.
-*NON:	Oh this is the one I had years ago this one, I've never used it.
-*FRE:	Oh.
-*NON:	It's donkey's years   (.) Is young Ben sailing this weekend or is he
-*FRE:	Eh, yes, oh he goes every Saturday.
-*NON:	Eh, Saturday does he  (        ) ?
-*FRE:	Yeah, yeah.
-*NON:	Where does he go to?
-*FRE:	On the erm   (.) well, down the Mer  (.) the Medway.
-*NON:	Medway?
-*FRE:	Behind the it's not the Medway  (        ) .
-*NON:	Chatham way.
-*FRE:	It's a, yes, Chatham way.It's a river that runs off the Medway.
-*NON:	Stewer?
-*FRE:	No it's not Stewer.
-*NON:	Isn't it?Oh.Oh, it comes up from Canterbury of course.
-*FRE:	No, I, I can't remember the name of it  (.) 
-*NON:	What is, what sort of a boat have they got, is it
-*FRE:	Oh, about a twenty six footer, something like that.
-*NON:	sailing boat?
-*FRE:	Oh it's a sailing boat, yeah, yeah.
-*NON:	I've never seen it.
+*NON:	Do you want any more tea Fred? 
+*FRE:	Mm. (  ) . 
+*NON:	Pardon? Been asleep. 
+*FRE:	I'll go and get one, there's still in the pot. 
+*NON:	Well if there isn't there's, I'll, yeah, be a bit thin now if, put some water in, put water in that kettle. 
+*FRE:	Don't worry I'll got, this will do me mate. 
+*NON:	O K  (.)  
+*FRE:	Mm, what time is it? 
+*NON:	Twenty to four, by my watch. 
+*FRE:	Yes, it's half past  three by mine. 
+*NON:	 My, my watch  is the one Irene bought me gone wrong, it's had to go in for repairs. 
+*FRE:	Yes she told me. 
+*NON:	Gonna cost about sixteen quid to have it repaired. 
+*FRE:	Is it? Blimey. 
+*NON:	It's had to go away to the makers. 
+*FRE:	Oh. 
+*NON:	I don't know what's wrong with it I'm sure.  (  ) without a watch in this  bloody thing. 
+*FRE:	 Yeah. 
+*NON:	Keeps stopping. 
+*FRE:	Does it? Oh dear. 
+*NON:	Oh this is the one I had years ago this one, I've never used it. 
+*FRE:	Oh. 
+*NON:	It's donkey's years   (.) Is young Ben sailing this weekend or is he 
+*FRE:	Eh, yes, oh he goes every Saturday. 
+*NON:	Eh, Saturday does he  (  ) ? 
+*FRE:	Yeah, yeah. 
+*NON:	Where does he go to? 
+*FRE:	On the erm   (.) well, down the Mer   (.) the Medway. 
+*NON:	 Medway? 
+*FRE:	 Behind the  it's not the Medway  (  ) . 
+*NON:	Chatham way. 
+*FRE:	It's a, yes, Chatham way. It's a river that runs off the Medway. 
+*NON:	Stewer? 
+*FRE:	No it's not Stewer. 
+*NON:	Isn't it? Oh. Oh, it comes up from Canterbury of course. 
+*FRE:	No, I, I can't remember the name of it  (10.0)  
+*NON:	What is, what sort of a boat have they got, is it 
+*FRE:	Oh, about a twenty six footer, something like that. 
+*NON:	sailing boat? 
+*FRE:	Oh it's a sailing boat, yeah, yeah. 
+*NON:	I've never seen it. 
 @End

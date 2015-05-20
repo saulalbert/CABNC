@@ -1,29 +1,29 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-04:  
 @Location:	 home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0159XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0159XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BRE Brenda self, DAV Dave husband, LEE Lee son
-@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
-@ID: eng|AudioBNC|DAV|~37;| |m|Ag3| |hgv driver|husband|PS04V|
-@ID: eng|AudioBNC|LEE|~15;| |m|Ag1| |student (state secondary)|son|PS04W|
+@Options:	CA
+@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
+@ID:	eng|AudioBNC|DAV|37;|||||hgv driver|husband|PS04V|
+@ID:	eng|AudioBNC|LEE|15;|||||student (state secondary)|son|PS04W|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0159XX-ABZZP0.wav
 @Comment:	conversation #95 (Tape 015906)
-*BRE:	I didn't think he'd be cooking tonight cos I knew they weren't shutting the  (        ) 
-*LEE:	I nearly forgot to tell him   (.)  (        ) 
-*DAV:	 (        ) didn't he wonder where I was?That's what  (        ) 
-*LEE:	No cos I told him you'd gone out.
-*BRE:	Gone out and not coming back? (.) How many Benolin you had today?
-*LEE:	Three.
-*BRE:	You gonna take one more? (.) Do you take it four times a day or
-*LEE:	Eh?
-*BRE:	Four times a day innit?
-*LEE:	Yeah.
-*BRE:	Only had three.
-*LEE:	Taking one more at eight and another   (.)  (        ) 
+*BRE:	I didn't think he'd be cooking tonight cos I knew they weren't shutting the  (  )  
+*LEE:	I nearly forgot to tell him   (.)  (  )  
+*DAV:	 (  ) didn't he wonder where I was? That's what  (  )  
+*LEE:	No cos I told him you'd gone out. 
+*BRE:	Gone out and not coming back?  (.) How many Benolin you had today? 
+*LEE:	Three. 
+*BRE:	You gonna take one more?  (.) Do you take it four times a day or 
+*LEE:	Eh? 
+*BRE:	Four times a day innit? 
+*LEE:	Yeah. 
+*BRE:	Only  had three. 
+*LEE:	 Taking one  more at eight and another   (.)  (  )  
 @End

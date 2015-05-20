@@ -1,382 +1,382 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-24:  
 @Location:	 at work 
-@Situation:	 talking to customers 
-@Media: 021A-C0897X0408XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 talking to customers  
+@Media:	021A-C0897X0408XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , FRA Frank self, STE Steve colleague, GER Gerry customer, REX Rex customer, MAR Marge customer
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|FRA|~50;| |m|Ag4| |tv engineer||PS09E|
-@ID: eng|AudioBNC|STE|~44;| |m|Ag3| |salesman|colleague|PS09G|
-@ID: eng|AudioBNC|GER|~46;| |m|Ag4| |tv dealer|customer|PS09H|
-@ID: eng|AudioBNC|REX|~60;| |m|Ag5| |tv dealer|customer|PS09K|
-@ID: eng|AudioBNC|MAR|~58;| |f|Ag4| |tv dealer|customer|PS09L|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|FRA|50;|||||tv engineer||PS09E|
+@ID:	eng|AudioBNC|STE|44;|||||salesman|colleague|PS09G|
+@ID:	eng|AudioBNC|GER|46;|||||tv dealer|customer|PS09H|
+@ID:	eng|AudioBNC|REX|60;|||||tv dealer|customer|PS09K|
+@ID:	eng|AudioBNC|MAR|58;|||||tv dealer|customer|PS09L|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0408XX-AAZZP0.wav
 @Comment:	conversation #8 (Tape 040801)
-*UNK:	I've ceased trading   (.) erm I'm now selling off all my stock which is left from my home
-*MAR:	Goodness.
-*REX:	over the weekend, done four grand.
-*STE:	 (        ) unless you're gonna   (        ) for it.
-*REX:	 (        ) same price   (.) no guarantee 
-*UNK:	 ((laugh)) 
-*MAR:	Yeah   (        ) 
-*REX:	 (        ) 
-*MAR:	he's being greedy.Cos we had a twenty, twenty two and a twenty six didn't we?And he, the first bloke come and he said oh I'll have all three of them.
+*UNK:	I've ceased trading   (.) erm I'm now selling off all my stock which is left from my home 
+*MAR:	Goodness. 
+*REX:	over the weekend, done four grand. 
+*STE:	 (  ) unless you're gonna    (  ) for it. 
+*REX:	  (  )  same price   (.)  no guarantee   
+*UNK:	  ((laugh))  
+*MAR:	Yeah    (  )   
+*REX:	  (  )  
+*MAR:	he's being greedy. Cos we had a twenty, twenty two and a twenty six didn't we? And he, the first bloke come and he said oh I'll have all three of them. 
 *FRA:	 ((laugh)) 
-*REX:	 [laughing] Yeah  [] 
-*MAR:	He, he didn't realize that I had more stacked in the other room ready to come out   (        ) 
-*GRO:	 (        )  ((laugh)) 
-*FRA:	Yeah.
-*MAR:	We sold one telly the other week about   (.) no we sold one, one telly about six or seven times didn't we?
-*REX:	Yes.T V and a video we sold six times.
-*MAR:	Yeah.
+*REX:	 ((laughing)) Yeah  
+*MAR:	He, he didn't realize that I had more stacked in the other room ready to come out    (  )   
+*GRO:	  (  )   ((laugh)) 
+*FRA:	Yeah. 
+*MAR:	We sold one telly the other week about   (.) no we sold one, one telly about six or seven times didn't we? 
+*REX:	Yes. T V and a video we sold six times. 
+*MAR:	Yeah. 
 *GRO:	 ((laugh)) 
-*REX:	We're not doing nobody down.No 
-*MAR:	No.
-*REX:	nobody wants to trade that way, I don't 
-*FRA:	No.
-*REX:	I don't wanna trade from home.Don't want 
-*MAR:	But last week 
-*REX:	people coming into my house buying gear.When I go home 
-*MAR:	Last week, yeah 
-*REX:	of an evening  (        ) 
-*MAR:	last week we had 
-*STE:	Do you tell them you're a trader then?
-*MAR:	No.
-*REX:	Not up until last week.Right my wife was selling as far as I was concerned.Not up until last week.But now this week, from what I put in the paper it's obvious that we're traders
-*MAR:	Mm
-*REX:	now like innit?So
-*MAR:	We had one bloke come last week   (.) he lives about fifty yards from the shop.
-*REX:	Yeah.
-*STE:	 [laughing] Yeah  [] ?
-*MAR:	Comes all the way home to buy a telly
+*REX:	We're not doing nobody down.  No   
+*MAR:	 No. 
+*REX:	nobody wants to trade that way, I don't   
+*FRA:	 No. 
+*REX:	I don't wanna trade from home.  Don't want   
+*MAR:	 But last week   
+*REX:	people coming into my house buying gear.  When I go home   
+*MAR:	 Last week, yeah   
+*REX:	of an evening  (  )  
+*MAR:	 last week we had   
+*STE:	 Do you tell them you're  a trader then? 
+*MAR:	No. 
+*REX:	Not up until last week. Right my wife was selling as far as I was concerned. Not up until last week. But now this week, from what I put in the paper it's obvious that we're traders 
+*MAR:	Mm 
+*REX:	now like innit? So 
+*MAR:	We had one bloke come last week   (.) he lives about fifty yards from the shop. 
+*REX:	Yeah. 
+*STE:	 ((laughing)) Yeah ? 
+*MAR:	Comes all the way home to buy a telly 
 *FRA:	 ((laugh)) 
-*MAR:	for fifty quid   (.) b bought a cheap one
-*STE:	Yeah
-*MAR:	for fifty quid and he only lives, well, hundred yards, if that, from the shop.
-*STE:	 [laughing] Get off  [] !
-*REX:	He could've come in the shop and bought them, yeah.
-*FRA:	Yeah.
-*MAR:	Oh I said   (        ) you'll have to go in K T V for servicing.And he never, he never queried it.He never said well are you anything to do with it or nothing.
-*STE:	Yeah.
-*MAR:	And there's a photograph in th I never told him that
-*FRA:	Mm
-*MAR:	photograph in the middle    (        )  (.) and you know, but  (.) 
-*REX:	 ((laugh)) 
-*MAR:	Oh he was thrilled, he had a good deal.
-*REX:	Well he had a nice little T V.No we don't stitch them, no.
-*MAR:	Oh yeah a nice   (.) no.
-*REX:	He had a Phillips G eleven, he took it home and plugged it in, it ran for two hours 
-*MAR:	 (        ) 
-*REX:	and the fuse went.So he phoned up, he said I know I didn't have a guarantee, can you do anything for me?I said yeah bring it back and have another one.
-*MAR:	Well the next the next 
-*STE:	 (        ) 
-*MAR:	the next one was a joke.Bloke come and bought a Teletext with his friend, come all the way from Falmouth, he pulled on the front, paid me his money, saw the telly working, put the remote in his pocket, my son carried the telly down, put it in the back of the car   (.) the bloke shut the boot, he drove off the front, I picked up the phone   (.) he er and he just swung round off the front, the boot come open   (.) out come the telly!
-*FRA:	Oh goodness.
-*GRO:	 ((laugh)) 
-*MAR:	So he just got out, picked it up, shoved it back in and drove away.
-*STE:	Get off!
-*MAR:	And I give him three mo cos I'd give him three months guarantee with that, I thought yes   (.) and I was standing there on the phone and I thought   (.) you dare come back! ((laugh)) 
-*FRA:	 [laughing] Oh yeah   [] 
-*MAR:	We haven't heard from him have we?
-*FRA:	Oh.
-*REX:	No   (        ) he probably ain't going to is he?
-*STE:	 (        ) 
-*FRA:	No.
-*REX:	He ain't going to is he?
-*MAR:	No  (        ) 
-*STE:	Oh did he?
+*MAR:	for fifty quid   (.) b  bought a cheap one 
+*STE:	Yeah 
+*MAR:	for fifty quid and he only lives, well, hundred yards, if that, from the shop. 
+*STE:	 ((laughing)) Get off ! 
+*REX:	He could've come in the shop and bought them, yeah. 
+*FRA:	Yeah. 
+*MAR:	Oh I said   (  ) you'll have to go in K T V for servicing. And he never, he never queried it. He never said well are you anything to do with it or nothing. 
+*STE:	Yeah. 
+*MAR:	And there's a photograph in th  I never told him that 
 *FRA:	Mm 
-*MAR:	Yeah.
-*FRA:	That's like a skating rink now then.
-*REX:	It may be alright though, it may be alright with a bit of luck, you know?I would've tried to help him out if we had a   (.) if we had a, a shot one with a case like, you know?Then we could've put it together for him.You know you can't be hard on people can you really?Or I don't think so anyhow, we'd've nailed it together for him for nothing and   (        ) 
-*MAR:	Well   (        ) 
-*FRA:	Yeah 
-*REX:	 (        ) ? (.) 
-*STE:	It depends on his attitude, if he'd been trying to pull a fast one on you and er 
-*STE:	Yeah   (        ) 
-*STE:	this was like this when I bought it off you
-*REX:	Oh no no, if he, if he tried to pull a fast one   (.) we've already had one like that   (.) th that came in and bought a set   (.) unfortunately   (.) his father paid by cheque, oh no, well he paid by two cheques which, they had a card on them I know very well they can't stop them very well   (.) and he went out and er, and er the T V was only in the car and he went round a corner quick and he went brrrm like that you know 
-*FRA:	Yeah 
-*REX:	and split the case and all on the T V and he come back in he said   (.) oh I picked this up he said and the case fell to bits.And I was there 
-*FRA:	Yeah, yeah 
-*MAR:	 (        ) 
-*REX:	 (        ) there and I said no   (.) my handsome you didn't pick that up and the case fell, fell to bi he, cos he was going on this is inferior   (.) not up to standard and so I said 
-*FRA:	 ((laugh)) 
-*REX:	 (        ) I said now you can shut that up right away, cos I said you know it's not   (.) I said er   (.) now if you want us to try to help you out   (        ) on this you just tell us what you did.Anyway his father was there and his father had paid   (.) and I said no   (.) you know, you've done that.So anyhow he, his father said well that's right he said we'll be probably covered on the house insurance.And they were anyhow so they had a brand new telly.
-*FRA:	Mm.
-*REX:	And we had that one back and nailed them together and sold them again.
+*MAR:	photograph in the middle    (  )  (.) and you know, but  (.)  
+*REX:	 ((laugh)) 
+*MAR:	Oh he was thrilled, he had a good deal. 
+*REX:	Well he had a nice little T V.  No we don't stitch them, no. 
+*MAR:	 Oh yeah a nice   (.) no. 
+*REX:	He had a Phillips G eleven, he took it home and plugged it in, it ran for two hours   
+*MAR:	  (  )  
+*REX:	and the fuse went. So he phoned up, he said I know I didn't have a guarantee, can you do anything for me? I said yeah bring it back and have another one. 
+*MAR:	Well the next  the next   
+*STE:	  (  )  
+*MAR:	the next one was a joke. Bloke come and bought a Teletext with his friend, come all the way from Falmouth, he pulled on the front, paid me his money, saw the telly working, put the remote in his pocket, my son carried the telly down, put it in the back of the car   (.) the bloke shut the boot, he drove off the front, I picked up the phone   (.) he er and he just swung round off the front, the boot come open   (.) out come the telly! 
+*FRA:	Oh goodness. 
+*GRO:	 ((laugh)) 
+*MAR:	So he just got out, picked it up, shoved it back in and drove away. 
+*STE:	Get off! 
+*MAR:	And I give him three mo  cos I'd give him three months guarantee with that, I thought yes   (.) and I was standing there on the phone and I thought   (.) you dare  come back! ((laugh))   
+*FRA:	  ((laughing)) Oh yeah    
+*MAR:	We haven't heard from him have we? 
+*FRA:	Oh. 
+*REX:	No    (  ) he probably ain't going to is he? 
+*STE:	  (  )  
+*FRA:	No. 
+*REX:	He ain't going to is he? 
+*MAR:	No  (  )  
+*STE:	 Oh did he? 
+*FRA:	 Mm   
+*MAR:	Yeah. 
+*FRA:	That's like a skating rink now then. 
+*REX:	It may be alright though, it may be alright with a bit of luck, you know? I would've tried to help him out if we had a   (.) if we had a, a shot one with a case like, you know? Then we could've put it together for him. You know you can't be hard on people can you really? Or I don't think so anyhow, we'd've nailed it together for him for nothing and    (  )   
+*MAR:	 Well   (  )   
+*FRA:	 Yeah   
+*REX:	 (  ) ? (.)  
+*STE:	It depends on his attitude, if he'd been trying to pull  a fast one on you and er   
+*STE:	 Yeah   (  )   
+*STE:	this was like this when I bought it off you 
+*REX:	Oh no no, if he, if he tried to pull a fast one   (.) we've already had one like that   (.) th  that came in and bought a set   (.) unfortunately   (.) his father paid by cheque, oh no, well he paid by two cheques which, they had a card on them I know very well they can't stop them very well   (.) and he went out and er, and er the T V was only in the car and he went round a corner quick and he went brrrm like that  you know   
+*FRA:	 Yeah   
+*REX:	and split the case and all on the T V and he come back in he said   (.) oh I picked this up he said and the case fell to bits.  And I was there   
+*FRA:	 Yeah, yeah   
+*MAR:	  (  )  
+*REX:	 (  ) there and I said no   (.) my handsome you didn't pick that up and the case fell, fell to bi  he, cos he was going on this is inferior   (.) not up to standard  and so I said   
+*FRA:	  ((laugh))  
+*REX:	 (  ) I said now you can shut that up right away, cos I said you know it's not   (.) I said er   (.) now if you want us to try to help you out   (  ) on this you just tell us what you did. Anyway his father was there and his father had paid   (.) and I said no   (.) you know, you've done that. So anyhow he, his father said well that's right he said we'll be probably covered on the house insurance. And they were anyhow so they had a brand new telly. 
+*FRA:	Mm. 
+*REX:	And we had that one back and nailed them together and sold them again. 
 *FRA:	 ((laugh)) 
 *UNK:	 ((laugh))  (.) 
-*REX:	But he tried it, you know
-*STE:	Yeah
-*REX:	sneaky   (.) like that. (.) Mind I know there's some that when you can pick up if you're, you know you could pick up something like that if you weren't careful and just pick it up from the inside
-*FRA:	Yeah.
-*REX:	 (        ) and the bloody   (        ) will fly off won't it?
-*FRA:	Yeah.
-*STE:	They're only stapled together in the corner aren't they?
-*REX:	Yeah
-*STE:	And then er     (.)  (        )  (.) That one just won't erm   (.) tune in in case 
-*FRA:	Oh.Toshiba
-*GRO:	 (        ) 
-*STE:	 (        ) aren't they?
-*REX:	Yeah we should   (        ) get sixty pound for them I should think.
-*STE:	That much you reckon?
-*REX:	Yeah.
-*STE:	 (        ) Well if you wanna pick the   (        ) up for them you've got one two three   (.) four   (        ) I don't know what you're gonna do  (        ) 
-*FRA:	Yeah the little Toshibas are remotes aren't they?
-*STE:	Yeah. (.) 
-*FRA:	They're only a couple of quid, the flaps for those   (        ) 
+*REX:	But he tried it, you know 
+*STE:	Yeah 
+*REX:	sneaky   (.) like that.  (.) Mind I know there's some that when you can pick up if you're, you know you could pick up something like that if you weren't careful and just pick it up from the inside 
+*FRA:	Yeah. 
+*REX:	 (  ) and the bloody   (  ) will fly off won't it? 
+*FRA:	Yeah. 
+*STE:	They're only stapled together in the corner aren't they? 
 *REX:	Yeah 
-*FRA:	if you wanna bother or not. (.) 
-*REX:	No I shall shove them out as they are. (        ) 
-*STE:	Nice little cabinets anyway  (        ) 
-*REX:	 (        )  (.) Actually we may have, we've got one or two mashed up sets, we may have flaps   (        ) for them, I dunno.
-*STE:	It doesn't detract from them anyway does it?I mean  (        ) 
-*REX:	Not really.That's what you want really, you want about a thousand of them now
-*STE:	Yes.Yes if we could buy a thousand I think we'd have a thousand of them.
-*REX:	Yeah, yes.
-*MAR:	 (        ) 
-*UNK:	 (        )  (.) 
-*REX:	You can get plenty of what you don't want and a little of what you do want. (.) 
-*STE:	Start of the season you just don't see   (.) start of the season and Christmas you just don't see  (        ) 
-*FRA:	No.
-*REX:	Well I'll be quite honest with you, when I came in the other day you had a couple and I'm amazed that you've still got them.
-*FRA:	We don't let them out.
-*REX:	Eh?
-*FRA:	We don't sell them.
-*STE:	We don't sell them unless people   (        ) 
-*FRA:	Unless people buy big sets we don't sell them.
-*STE:	We won't just sell a portable to anybody.
-*REX:	You won't?
-*FRA:	I mean you're lucky to get that one mate, I mean you must have been, caught him on a real good day.
-*STE:	I got forty six at Christmas.
+*STE:	And then er     (.)  (  )  (.) That one just won't erm   (.) tune in in case  
+*FRA:	Oh. Toshiba 
+*GRO:	 (  ) 
+*STE:	 (  ) aren't they? 
+*REX:	Yeah we should   (  ) get sixty pound for them I should think. 
+*STE:	That much you reckon? 
+*REX:	Yeah. 
+*STE:	 (  ) Well if you wanna pick the   (  ) up for them you've got one two three   (.) four   (  ) I don't know what you're gonna do  (  )  
+*FRA:	Yeah the little Toshibas are remotes aren't they? 
+*STE:	Yeah. (.)  
+*FRA:	They're only a couple of quid, the flaps for those    (  )   
+*REX:	 Yeah   
+*FRA:	if you wanna bother or not. (.)  
+*REX:	No I shall shove them out as they are. (  )  
+*STE:	Nice little cabinets anyway  (  )  
+*REX:	 (  )  (.) Actually we may have, we've got one or two mashed up sets, we may have flaps   (  ) for them, I dunno. 
+*STE:	It doesn't detract from them anyway does it? I mean  (  )  
+*REX:	Not really. That's what you want really, you want about a thousand of them now 
+*STE:	Yes. Yes if we could buy a thousand I think we'd have a thousand of them. 
+*REX:	Yeah, yes. 
+*MAR:	 (  ) 
+*UNK:	 (  )  (.) 
+*REX:	You can get plenty of what you don't want and a little of what you do want. (.)  
+*STE:	Start of the season you just don't see   (.) start of the season and Christmas you just don't see  (  )  
+*FRA:	No. 
+*REX:	Well I'll be quite honest with you, when I came in the other day you had a couple and I'm amazed that you've still got them. 
+*FRA:	We don't let them out. 
+*REX:	Eh? 
+*FRA:	We don't sell them. 
+*STE:	We don't sell them unless  people   (  )   
+*FRA:	 Unless people  buy big sets  we don't sell them. 
+*STE:	 We won't just sell  a portable to  anybody. 
+*REX:	 You won't? 
+*FRA:	I mean you're lucky to get that one mate, I mean you must have been, caught him on a real good day. 
+*STE:	I got forty six at Christmas. 
 *FRA:	 ((laugh)) 
-*STE:	Yeah if somebody's loaded down with them, if they've got   (        ) 
-*FRA:	End of season's the time to pick them up.
-*STE:	forty six videos.
-*FRA:	Yeah, that's right.
-*UNK:	Oh yeah, yeah  (        ) 
-*GRO:	 (        ) 
-*REX:	Oh no I don't blame you.If you've only got   (        ) 
-*STE:	Well it's unfair to everybody if somebody has the lot and then everybody can have a couple and keep a few of their customers happy.You can always sell them   (        ) within a couple of days of them coming in   (        )  (.) 
-*REX:	Thank you for the coffee. (.) I dunno who you were gonna make it out to but make it out to  (        ) 
-*STE:	I've just made it out to nobody at the moment.
-*MAR:	Just make it out to nobody  (        ) 
-*REX:	Right. (.) 
-*GRO:	 (        )  (.) 
-*FRA:	I was thinking Rex might like that little G E C out there, that's a nice little     (.)  (        )  (        ) 
-*REX:	Less ten less ten percent he said for being a good customer  (        ) .He ain't got that written down there has he?
-*STE:	That's true, no I haven't   (        ) 
-*GRO:	 (        ) 
-*REX:	You must, you must get fed up with hearing it. ((laugh)) 
-*STE:	How much do you want for the, the little er?
-*FRA:	Well I want forty quid   (        ) really.It's a very nice one owner set, we took it in 
-*STE:	I don't know if you want   (        ) 
-*FRA:	part exchange actually.
-*STE:	See the G E C down there?It's just a basic
-*FRA:	It's absolutely mint.
-*STE:	but it's a minty one.
-*FRA:	The chap's had it, a single bloke 
-*STE:	 (        ) box out there.On the far side 
-*REX:	I can't even see it.
-*MAR:	Underneath the   (        ) 
-*STE:	See   (        ) portables.
-*REX:	Yeah.
-*MAR:	There.
-*FRA:	It really is tidy.I'll put it on if you want.
-*STE:	It's just a twenty two inch basic but it's extremely  (        ) 
-*REX:	It is?And it's in 
-*MAR:	 (        ) 
-*REX:	perfect working order?
-*FRA:	Oh yeah, I'll put it on for you.
-*STE:	 (        ) 
-*FRA:	But we, I know the chap   (.) he doesn't watch telly that, he's a lon lon long distance lorry driver and he had to have remote and text so he swapped it, you know, and er
-*REX:	 (        ) 
-*FRA:	Oh well don't bother about it, we'll soon sell it.No problem.
-*STE:	 (        ) 
-*REX:	No let me take a look at it, let me take a look. (.) 
-*GRO:	 (        )  (.) 
-*UNK:	Right, I've got some money for you my man.
-*FRA:	Right you'd better see the   (.) cashier   (.) big fat chap with the glasses. ((laugh)) 
-*GRO:	 (        ) 
-*FRA:	 ((laugh))  (.) 
-*REX:	No I think   (        ) on that one.
-*FRA:	Okay fair enough. (.) 
-*REX:	Only to be quite honest I pick up some stuff and mainly now the basics we get free.
-*FRA:	No er when we get somebody in that
-*REX:	Yeah.
-*FRA:	that wants a reliable one owner, not ex-rental sort of set, you know?
-*REX:	No no I know what you mean yeah.Yeah yeah 
-*FRA:	We'll er  (.) 
-*REX:	I've had some basics   (        ) we got some nice, cos what we'll do if we have a set is stick it on the bench, we've got this foam cleaner, we spray it with the foam cleaner and clean it and when th 
-*FRA:	Yeah 
-*REX:	that set comes down you see 
-*FRA:	Yeah 
-*REX:	it's clean   (.) as he was when he was new.
-*FRA:	Yeah.
-*REX:	He may be scratched   (.) but he's as clean.And then we just spray them with a polish and when they go down they're good.
-*FRA:	Yeah but I mean when our loads come in we've got a chap here that p just purely cleans them.
-*REX:	Yeah, yeah.Well presentation is a great thing   (.) as far as er   (        ) have you got a loo handy?
-*FRA:	Yeah yeah   (.) it's that first   (.) first door there.
-*REX:	This one here?
-*FRA:	Yeah. (.) 
-*GER:	Right we'll see you an hour and a half from now.
-*FRA:	Right, okay.
-*GER:	 (        ) if you're looking for one.
-*FRA:	No this is just a pr it's a private, it's not an ex-rental one,i it really is in mint, it hasn't been used a lot.And erm we allowed 
-*GER:	What that set there?
-*FRA:	forty quid on it, well th that's what I've gotta get for it.
-*GER:	Oh
-*FRA:	But it is very clean, great pictures on it.
-*GER:	Is it text that one?
-*FRA:	No it's just it's 
-*STE:	Basic   (        ) 
-*FRA:	it's basic but I mean it is a nice
-*GER:	Yeah
-*FRA:	clean
-*GER:	No I've got a   (        ) 
-*FRA:	reliable set.
-*GER:	Hitachi chassis type job but er the tube's gone.
-*FRA:	Yeah.Well you see that was like mint that one.
-*GER:	So I'm just after the tube really.
-*FRA:	Mm.
-*GER:	 (        ) swap places with this gentleman   (        ) I can get him   (.) loaded up.Right. (        )  (.) 
-*GRO:	 (        )  (.) 
-*STE:	Looks like it'll be a brilliant one if you get it going er   (.) just the    (.)  (        ) things. (.) There
-*FRA:	Oh yeah.It's like the tuner's dead innit?
-*UNK:	 (        ) 
-*STE:	Oh   (        )  (.) 
-*GRO:	 (        )  (.) 
-*FRA:	It's getting colder innit? (.) 
-*STE:	Get through alright? (.) Mm?Get through alright? (        )  (.) 
-*REX:	That's a nice one. (.) What's this Kaitung one?
-*FRA:	It's sold to those lads that just came in actually.
-*REX:	Ah.
-*FRA:	It's not working.
-*STE:	 (        )  (        ) 
-*FRA:	It's it's   (.) it's not a worker.
-*REX:	No.I know, we're not er we ain't af we ain't afraid of a few bum workers cos we   (.) have got er   (.) good engineers like, you know? (.) 
-*FRA:	This won't tune in this one, it might be the tuner itself  (        ) .But these aerial sockets on these Toshibas are in a, such a funny place that er 
-*REX:	Yeah yeah. (.) See what you want is a little workshop out of sight don't you?
-*FRA:	Well I've got one in there but I'm just doing this as a   (.) to save me lifting it.
-*REX:	Oh I see. (.) 
-*FRA:	 (        )  (.) 
-*STE:	Er   (.) no they're   (.) all about the same depth aren't they? (.)  (        ) 
-*FRA:	Bring the   (        ) through?
-*STE:	That's the same, yeah. (.) 
-*MAR:	 (        )  (.) 
-*REX:	If they're gonna go towards the window   (        ) shove something 
-*MAR:	Yeah I know 
-*REX:	in between them.
-*MAR:	yeah.I   (.) is doing.
-*REX:	Right, okay. (.) Oh   (        ) reckon they'd get rid of some of this stuff  (        ) 
-*FRA:	No I don't understand it Rex.I suppose they've got a, they've got a certain contract to take new stuff all the time haven't they?
-*REX:	Yeah.I would've thought they could've   (.) like somebody with an older text, they could've took the old one out and shoved one of these back into it.
-*FRA:	Yeah I mean that is, that   (        ) is current now, that's what they use now isn't it? (.) That is their current model.
-*REX:	Yeah.
-*FRA:	They use that chassis in Thorns and Bairds and things.
-*REX:	Yeah.So what's the   (.) tube alright on that is it?
-*FRA:	Yeah it comes on, a   (        ) comes on and then it shuts down so it's some sort of shut down fault.
-*REX:	Yeah.
-*FRA:	We haven't looked er we haven't even got a manual for it.
-*REX:	No.No no no. (.) Well anybody that's anything like an engineer, as long as it's clean and tidy and not been chucked around
-*FRA:	That's right.
-*REX:	they can fix it can't they?
-*FRA:	Yeah, oh yeah it's all fixable.Long as the tube's alright, that's the main thing.
-*REX:	Yeah that's the main thing on that.That's a nice looking machine that one. (.) 
-*STE:	 (        ) 
-*FRA:	Probably would actually wouldn't it, yeah. (.) 
-*STE:	Which would leave us room for the    (.)  (        )  (.) 
-*FRA:	What have you got one, one more to g 
-*STE:	 (        ) 
-*FRA:	two more. (.) 
-*STE:	 (        )  (.) different.Put er that on top of those   (.) put a portable
-*MAR:	Have you got the little portable?
-*STE:	 (        ) 
-*MAR:	 (        ) like that?
-*STE:	Two more?
-*FRA:	Yeah there's that one and one more. (.) Wonder if they would go   (.) cos th n n they're no different on their ends are they really?
-*STE:	Not really, no they're practically squares aren't they?
-*MAR:	No they a yeah. (.) Which is the smaller of the portables?
-*STE:	They're all about the same, there's hardly any difference in them. (.) Hardly any difference at all. (        ) the blanket    (.)  (        ) portables on the blanket.
-*MAR:	We're not taking the blanket all out erm from underneath all of them. ((laugh)) 
-*STE:	 (        ) 
-*FRA:	Well we've got plenty of cardboard plenty of cardboard   (        ) 
-*STE:	Plenty of cardboard, yeah.
-*REX:	With the blanket though he would, they would stop them from moving like, you know?
-*MAR:	yeah.
-*STE:	Yeah.Erm   (.) haven't got anything like a blanket   (        )  (.) 
-*MAR:	And we've got them two to go?
-*FRA:	Yeah. (.) 
-*MAR:	Can't we put the bigger, the bigger of them   (.) in   (        ) under my feet.
-*REX:	I   (        ) 
-*FRA:	If you put them on their sides they're too   (.)  (        ) .They'd go on their sides wouldn't they?Perhaps. (.) If we had a 
-*REX:	 (        ) blanket though we could have done that easy enough.
-*FRA:	 (        ) 
-*STE:	Oh I see you're gonna turn them on their sides are you. (.) 
-*REX:	 (        ) catching on reasonably well for the time of the year?
-*STE:	 (        ) ?
-*REX:	Yeah.
-*STE:	Yes.They've converted people to it   (        ) so they they find that they 
-*REX:	 (        ) 
-*STE:	Well th they, they're used to selling cheapy stuff, they don't know if they can sell this, they've taken a couple on
-*REX:	Yeah
-*STE:	trial
-*REX:	Yeah
-*STE:	and they say you know that they've sold  (        ) 
-*REX:	Yeah.
-*STE:	I made myself a nice   (        ) profit out of it. (        ) 
-*FRA:	I think those two on the sides one on there er f  (        ) put that on its side as well perhaps.Oh no it's not any better is it on its side that one. (.) And Toshiba could go in there couldn't it and the other one on its side in there.
-*STE:	What erm top to   (.) top to top   (        ) 
-*FRA:	Top to top yeah. (.) And side to side. (.) 
-*STE:	 (        )  (.)  (        ) is easy we can pack   (        ) 
-*REX:	We're gonna need to put something in between that.
-*FRA:	 (        )  (.) 
-*UNK:	A bit of cardboard between that    (        )  (.) useful.
-*FRA:	Gotta fix that aerial back on. (.) 
-*STE:	If I lift it could you   (.) slide that in   (        )  (.) 
-*GRO:	 (        ) 
-*STE:	And I've put something in there so we don't get any   (        ) there
-*REX:	Yeah.We're away. (.) 
-*STE:	 (        ) but er   (.) I can't work out where   (        ) 
-*FRA:	Well if you put that one across under that one   (.) and then I can get this one up through the middle, it's just the depth in the middle there innit?
-*REX:	Yeah.
-*STE:	Oh I see, put this one
-*REX:	Over there.
-*STE:	 (        )  (.) Alright?And then something in between these to stop any rubbing
-*FRA:	That's it.
-*STE:	on there. (.) 
-*STE:	I need a little bit of wedge at the back there   (.) just to stop  (        ) 
-*REX:	 (        ) again. (.) 
-*MAR:	The keys are in the car then?
-*REX:	 (        )  (.) 
-*STE:	 (        ) 
-*REX:	Wonderful sir.
-*FRA:	 (        ) 
-*STE:	Alright?
-*REX:	Excellent.
-*FRA:	Is your catch alright there? (.) See if that closes alright.
-*REX:	Lovely.
-*FRA:	Lovely.
-*STE:	 (        ) down on the axle.
-*FRA:	Smashing.
-*STE:	Nice to see you again   (        ) 
-*REX:	 (        ) young man 
-*FRA:	Yeah see you again.Cheers then.
-*REX:	See you again.
-*STE:	Got your hand sets?
-*REX:	Got the hand sets? (.) I'll just have a word with my chief accountant   (        ) 
-*GRO:	 ((laugh)) 
-*REX:	Got the hand set?
-*MAR:	 (        ) 
-*FRA:	Right.
-*REX:	Right see you later.
-*FRA:	Bye then.Good trip.
-*STE:	Thanks a lot 
+*STE:	Yeah if somebody's loaded down with them, if they've got    (  )   
+*FRA:	 End of season's the time to pick them up. 
+*STE:	forty six videos. 
+*FRA:	Yeah, that's right. 
+*UNK:	Oh yeah, yeah  (  )  
+*GRO:	 (  ) 
+*REX:	Oh no I don't blame you.  If you've only got   (  )   
+*STE:	 Well  it's unfair to everybody if somebody has the lot and then everybody can have a couple and keep a few of their customers happy. You can always sell them   (  ) within a couple of days of them coming in   (  )  (.)  
+*REX:	Thank you for the coffee.  (.) I dunno who you were gonna make it out to but make it out to  (  )  
+*STE:	I've just made it out to nobody at the moment. 
+*MAR:	Just make it out to nobody  (  )  
+*REX:	Right. (.)  
+*GRO:	 (  )  (.) 
+*FRA:	I was thinking Rex might like that little G E C out there, that's a nice little     (.)  (  )   (  )   
+*REX:	 Less ten  less ten percent he said for being a good customer  (  ) . He ain't got that written down there has he? 
+*STE:	 That's true, no I haven't   (  )   
+*GRO:	  (  )  
+*REX:	You must, you must get fed up with hearing it. ((laugh))  
+*STE:	How much do you want for the, the little er? 
+*FRA:	Well I want forty quid   (  ) really. It's a very nice one owner  set, we took it in   
+*STE:	 I don't know if you want   (  )   
+*FRA:	part exchange  actually. 
+*STE:	 See the G E C down there?  It's just a basic 
+*FRA:	It's absolutely mint. 
+*STE:	but it's a minty one. 
+*FRA:	The chap's had it, a single bloke   
+*STE:	  (  )  box out there.  On the far side   
+*REX:	 I can't even see it. 
+*MAR:	Underneath the    (  )   
+*STE:	 See   (  ) portables. 
+*REX:	Yeah. 
+*MAR:	There. 
+*FRA:	It really is tidy.  I'll put it on if you want. 
+*STE:	 It's just a twenty two inch  basic but it's extremely  (  )  
+*REX:	It is?  And it's in   
+*MAR:	  (  )  
+*REX:	perfect working order? 
+*FRA:	 Oh yeah, I'll put it on for you. 
+*STE:	  (  )  
+*FRA:	But we, I know the chap   (.) he doesn't watch telly that, he's a lon  lon  long distance lorry driver and he had to have remote and text so he swapped it, you know, and er 
+*REX:	 (  ) 
+*FRA:	Oh well don't bother about it, we'll soon sell it. No problem. 
+*STE:	 (  ) 
+*REX:	No let me take a look at it, let me take a look. (.)  
+*GRO:	 (  )  (6.0) 
+*UNK:	Right, I've got some money for you my man. 
+*FRA:	Right you'd better see the   (.) cashier   (.) big fat chap with the glasses. ((laugh))  
+*GRO:	 (  ) 
+*FRA:	 ((laugh))  (6.0) 
+*REX:	No I think   (  ) on that one. 
+*FRA:	Okay fair enough. (.)  
+*REX:	Only to be quite honest I pick up some stuff and mainly now the basics we get free. 
+*FRA:	No er when we get somebody in that 
+*REX:	Yeah. 
+*FRA:	that wants a reliable one owner, not ex-rental  sort of set, you know? 
+*REX:	 No no I know what you mean  yeah. Yeah  yeah   
+*FRA:	 We'll er   (.)  
+*REX:	I've had some basics   (  ) we got some nice, cos what we'll do if we have a set is stick it on the bench, we've got this foam cleaner, we spray it with the foam cleaner and clean it and  when th    
+*FRA:	 Yeah   
+*REX:	that set comes down  you see   
+*FRA:	 Yeah   
+*REX:	it's clean   (.) as he was when he was new. 
+*FRA:	Yeah. 
+*REX:	He may be scratched   (.) but he's as clean. And then we just spray them with a polish and when they go down they're good. 
+*FRA:	Yeah but I mean when our loads come in we've got a chap here that p  just purely cleans them. 
+*REX:	Yeah, yeah. Well presentation is a great thing   (.) as far as er   (  ) have you got a loo handy? 
+*FRA:	Yeah yeah   (.) it's that first   (.) first door there. 
+*REX:	This one here? 
+*FRA:	Yeah. (43.0)  
+*GER:	Right we'll see you an hour and a half from now. 
+*FRA:	Right, okay. 
+*GER:	 (  ) if you're looking for one. 
+*FRA:	No this is just a pr  it's a private, it's not an ex-rental one,i  it really is in mint, it hasn't been used a lot.  And erm we allowed   
+*GER:	 What that set there? 
+*FRA:	forty quid on it, well th  that's what I've gotta get for it. 
+*GER:	Oh 
+*FRA:	But it is very clean, great pictures on it. 
+*GER:	Is it text that one? 
+*FRA:	No it's just  it's   
+*STE:	 Basic   (  )   
+*FRA:	it's basic but I mean it is a nice 
+*GER:	Yeah 
+*FRA:	clean 
+*GER:	No I've got a    (  )   
+*FRA:	 reliable set. 
+*GER:	Hitachi chassis type job but er the tube's gone. 
+*FRA:	Yeah. Well you see that was like mint that one. 
+*GER:	So I'm just after the tube really. 
+*FRA:	Mm. 
+*GER:	 (  ) swap places with this gentleman   (  ) I can get him   (.) loaded up. Right. (  )  (.)  
+*GRO:	 (  )  (8.0) 
+*STE:	Looks like it'll be a brilliant one if you get it going er   (.) just the    (.)  (  ) things.  (.) There 
+*FRA:	Oh yeah. It's like the tuner's dead innit? 
+*UNK:	 (  ) 
+*STE:	Oh   (  )  (38.0)  
+*GRO:	 (  )  (15.0) 
+*FRA:	It's getting colder innit? (75.0)  
+*STE:	Get through alright?  (.) Mm? Get through alright? (  )  (15.0)  
+*REX:	That's a nice one.  (6.0) What's this Kaitung one? 
+*FRA:	It's sold to those lads that just came in actually. 
+*REX:	Ah. 
+*FRA:	It's not  working. 
+*STE:	  (  )   (  ) 
+*FRA:	It's it's   (.) it's not a worker. 
+*REX:	No. I know, we're not er we ain't af  we ain't afraid of a few bum workers cos we   (.) have got er   (.) good engineers like, you know? (.)  
+*FRA:	This won't tune in this one, it might be the tuner itself  (  ) . But these aerial sockets on these Toshibas are in a, such a funny place  that er   
+*REX:	 Yeah  yeah.  (.) See what you want is a little workshop out of sight don't you? 
+*FRA:	Well I've got one in there but I'm just doing this as a   (.) to  save me lifting it. 
+*REX:	 Oh I see. (16.0)  
+*FRA:	 (  )  (.) 
+*STE:	Er   (.) no they're   (.) all about the same depth aren't they? (.)  (  )  
+*FRA:	Bring the   (  ) through? 
+*STE:	That's the same, yeah. (8.0)  
+*MAR:	 (  )  (8.0) 
+*REX:	If they're gonna go towards the window   (  )  shove something   
+*MAR:	 Yeah I know   
+*REX:	in between them. 
+*MAR:	yeah. I   (.) is doing. 
+*REX:	Right, okay.  (.) Oh   (  ) reckon they'd get rid of some of this stuff  (  )  
+*FRA:	No I don't understand it Rex. I suppose they've got a, they've got a certain contract to take new stuff all the time haven't they? 
+*REX:	Yeah. I would've thought they could've   (.) like somebody with an older text, they could've took the old one out and shoved one of these  back into it. 
+*FRA:	 Yeah I mean  that is, that   (  ) is current now, that's what they use now isn't it?  (.) That is their current model. 
+*REX:	Yeah. 
+*FRA:	They use that chassis in Thorns and Bairds and things. 
+*REX:	Yeah. So what's the   (.) tube alright on that is it? 
+*FRA:	Yeah it comes on, a   (  ) comes on and then it shuts down so it's some sort of shut down fault. 
+*REX:	Yeah. 
+*FRA:	We haven't looked er we haven't even got a manual for it. 
+*REX:	No. No no no.  (.) Well anybody that's anything like an engineer, as long as it's clean and tidy and not been chucked around 
+*FRA:	That's right. 
+*REX:	they can fix it can't they? 
+*FRA:	Yeah, oh yeah it's all fixable. Long as the tube's alright, that's the main thing. 
+*REX:	Yeah that's the main thing on that. That's a nice looking machine that one. (10.0)  
+*STE:	 (  ) 
+*FRA:	Probably would actually wouldn't it, yeah. (.)  
+*STE:	Which would leave us room for the    (.)  (  )  (19.0)  
+*FRA:	What have you got one, one more to g   
+*STE:	 (  ) 
+*FRA:	two more. (.)  
+*STE:	 (  )  (.) different. Put er that on top of those   (.) put a portable 
+*MAR:	Have you got the little portable? 
+*STE:	 (  ) 
+*MAR:	 (  ) like that? 
+*STE:	Two more? 
+*FRA:	Yeah there's that one and one more.  (.) Wonder if they would go   (.) cos th  n  n  they're no different on their ends are they really? 
+*STE:	Not really, no they're practically squares aren't they? 
+*MAR:	No they a  yeah.  (.) Which is the smaller of the portables? 
+*STE:	They're all about the same, there's hardly any difference in them.  (.) Hardly any difference at all.  (  ) the blanket    (.)  (  ) portables on the blanket. 
+*MAR:	We're not taking the blanket all out erm from underneath all of them. ((laugh))  
+*STE:	  (  )  
+*FRA:	 Well we've got plenty of cardboard  plenty of cardboard    (  )   
+*STE:	 Plenty  of cardboard, yeah. 
+*REX:	With the blanket though he would, they would stop them from moving like, you know? 
+*MAR:	yeah. 
+*STE:	Yeah. Erm   (.) haven't got anything like a blanket   (  )  (.)  
+*MAR:	And we've got them two to go? 
+*FRA:	Yeah. (.)  
+*MAR:	Can't we put the bigger, the bigger of them   (.) in   (  ) under my feet. 
+*REX:	I    (  )   
+*FRA:	 If you put them on  their sides they're too   (.)  (  ) . They'd go on their sides wouldn't they? Perhaps.  (.)  If we had a   
+*REX:	  (  )  blanket though we could have  done that easy enough. 
+*FRA:	  (  )  
+*STE:	Oh I see you're gonna turn them on their sides are you. (.)  
+*REX:	 (  ) catching on reasonably well for the time of the year? 
+*STE:	 (  ) ? 
+*REX:	Yeah. 
+*STE:	Yes. They've converted people to it   (  ) so they  they find that they   
+*REX:	  (  )  
+*STE:	Well th  they, they're used to selling cheapy stuff, they don't know if they can sell this, they've taken a couple on 
+*REX:	Yeah 
+*STE:	trial 
+*REX:	Yeah 
+*STE:	and they say you know that they've sold  (  )  
+*REX:	Yeah. 
+*STE:	I made myself a nice   (  ) profit out of it. (  )   
+*FRA:	 I think those two on the sides  one on there er f   (  ) put that on its side as well perhaps. Oh no it's not any better is it on its side that one.  (.) And Toshiba could go in there couldn't it and the other one on its side in there. 
+*STE:	What erm top to   (.) top to top    (  )   
+*FRA:	 Top to top  yeah.  (.) And side to side. (.)  
+*STE:	 (  )  (.)  (  ) is easy we can pack    (  )   
+*REX:	 We're gonna  need to put something in between that. 
+*FRA:	 (  )  (.) 
+*UNK:	A bit of cardboard between that    (  )  (.) useful. 
+*FRA:	Gotta fix that aerial back on. (.)  
+*STE:	If I lift it could you   (.) slide that in   (  )  (.)  
+*GRO:	 (  ) 
+*STE:	And I've put something in there so we don't get any   (  ) there 
+*REX:	Yeah. We're away. (.)  
+*STE:	 (  ) but er   (.) I can't work out where    (  )   
+*FRA:	 Well if you  put that one across under that one   (.) and then I can get this one up through the middle, it's just the depth in the middle there innit? 
+*REX:	Yeah. 
+*STE:	Oh I see, put this one 
+*REX:	Over there. 
+*STE:	 (  )  (8.0) Alright? And then something in between these to stop any rubbing 
+*FRA:	That's it. 
+*STE:	on there. (8.0)  
+*STE:	I need a little bit of wedge at the back there   (.) just to stop  (  )  
+*REX:	 (  ) again. (.)  
+*MAR:	The keys are in the car then? 
+*REX:	 (  )  (.) 
+*STE:	 (  ) 
+*REX:	Wonderful sir. 
+*FRA:	 (  ) 
+*STE:	Alright? 
+*REX:	Excellent. 
+*FRA:	Is your catch alright there?  (.) See if that closes alright. 
+*REX:	Lovely. 
+*FRA:	Lovely. 
+*STE:	 (  ) down on the axle. 
+*FRA:	Smashing. 
+*STE:	Nice to see you again    (  )   
+*REX:	  (  ) young man   
+*FRA:	 Yeah see you again.  Cheers then. 
+*REX:	See you again. 
+*STE:	Got your hand sets? 
+*REX:	Got the hand sets?  (.) I'll just have a word with my chief accountant    (  )   
+*GRO:	  ((laugh))  
+*REX:	Got the hand set? 
+*MAR:	 (  ) 
+*FRA:	Right. 
+*REX:	Right see you later. 
+*FRA:	Bye then. Good trip. 
+*STE:	Thanks a lot  
 @End

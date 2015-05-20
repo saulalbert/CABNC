@@ -1,27 +1,27 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-01:  
 @Location:	 restaurant 
-@Situation:	Unspecified
-@Media: 021A-C0897X0029XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0029XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0029XX-ABZZP0.wav
 @Comment:	conversation #208 (Tape 002916)
-*CHR:	What did you get to put in the middle of the erm lobelia in that other pot?
-*NOR:	Erm geraniums and er petunias, busy lizzy.
-*LYN:	Okay?
-*CHR:	Ya.Where did you get them in the end?
-*NOR:	All different places.
-*CHR:	Oh right.Were they better value than previously or  (.) 
-*NOR:	Well  (.) 
-*CHR:	similar or what?
-*NOR:	Thomsons' geraniums on the whole were very good value.One twenty five   (        ) one ninety.
-*CHR:	Goodness!Extraordinary!
-*NOR:	There were some cheaper geraniums around but they were the trailing kind.To have in hanging baskets.
+*CHR:	What did you get to put in the middle of the erm lobelia in that other pot? 
+*NOR:	Erm geraniums and er petunias, busy lizzy. 
+*LYN:	Okay? 
+*CHR:	Ya. Where did you get them in the end? 
+*NOR:	All different places. 
+*CHR:	Oh right. Were they better value than previously or  (.)  
+*NOR:	Well  (.)  
+*CHR:	similar or what? 
+*NOR:	Thomsons' geraniums on the whole were very good value. One twenty five   (  ) one ninety. 
+*CHR:	Goodness! Extraordinary! 
+*NOR:	There were some cheaper geraniums around but they were the trailing kind. To have in hanging baskets. 
 @End

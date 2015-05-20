@@ -1,20 +1,20 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-22:  
 @Location:	  in car  
-@Situation:	  travelling from Wimborne to Throop  
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  travelling from Wimborne to Throop   
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	GRA Graeme self, ANN Ann wife
-@ID: eng|AudioBNC|GRA|~62;| |m|Ag5| |company secretary||PS0DX|
-@ID: eng|AudioBNC|ANN|~58;| |f|Ag4| |housewife|wife|PS0DY|
+@Options:	CA
+@ID:	eng|AudioBNC|GRA|62;|||||company secretary||PS0DX|
+@ID:	eng|AudioBNC|ANN|58;|||||housewife|wife|PS0DY|
 @Comment:	conversation #8 (Tape 043008)
-*ANN:	I ca don't think I've been down here before have I?
-*GRA:	Yes.
-*ANN:	Have I?
-*GRA:	Yes.It's the road from Rin er from er Ferndown.You'll know where you are in a minute.
-*ANN:	I know where we are.
-*GRA:	That's right. (.) I think there's a footpath to walk on but you   (.) can walk the other side of the road, will that do it?
+*ANN:	I ca  don't think I've been down here before have I? 
+*GRA:	Yes. 
+*ANN:	Have I? 
+*GRA:	Yes. It's the road from Rin  er from er Ferndown. You'll know where you are in a minute. 
+*ANN:	I know where we are. 
+*GRA:	That's right.  (69.0) I think there's a footpath to walk on but you   (.) can walk the other side of the road, will that do it? 
 @End

@@ -1,89 +1,89 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-02:  
 @Location:	 football stadium 
-@Situation:	 recorded at football match with a 30,000 crowd 
-@Media: 021A-C0897X0363XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 recorded at football match with a 30,000 crowd  
+@Media:	021A-C0897X0363XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , COL Colin self, NEI Neil son, JOA Joanne daughter
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|COL|unknown |m|X| |British Rail employee||PS069|
-@ID: eng|AudioBNC|NEI|unknown |m|X| |unemployed|son|PS10F|
-@ID: eng|AudioBNC|JOA|unknown |f|X| |daughter|PS10G|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|COL|unknown||||British Rail employee||PS069|
+@ID:	eng|AudioBNC|NEI|unknown||||unemployed|son|PS10F|
+@ID:	eng|AudioBNC|JOA|unknown||||daughter|PS10G|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0363XX-AAZZP0.wav
 @Comment:	conversation #24 (Tape 036301)
-*COL:	What a bloody  (.) 
-*UNK:	 [singing] Come on you reds, come on you reds  [] 
-*COL:	I don't fucking believe it
-*UNK:	 [singing] come on your reds, come on you reds    []  (.)  (        ) 
+*COL:	What a bloody  (.)  
+*UNK:	 ((singing)) Come on you reds, come on you reds  
+*COL:	I don't fucking believe it 
+*UNK:	 ((singing)) come on your reds, come on you reds    (.)  (  )  
 *JOA:	 ((laugh))  (.) 
-*UNK:	 (        ) 
-*JOA:	must be happy now
-*COL:	Oh, go on  (.) 
-*JOA:	No  (.) 
-*UNK:	 (        )  (.)  (        )  (.)  (        ) 
-*NEI:	go on then
-*COL:	Go on
-*JOA:	Well played
-*COL:	get out of it  (.) 
-*UNK:	Oh
-*COL:	Ha  ((laugh)) 
-*UNK:	 (        )  (.) 
-*COL:	Go on then, get in there
-*JOA:	Come on
-*COL:	What happened there, what
-*UNK:	 (        )  (.)  (        )  (.) 
-*NEI:	Come on
-*UNK:	 (        ) 
-*COL:	four of them in there
-*NEI:	Come on
-*COL:	Come on Shaun, go on now  (.) 
-*JOA:	Come on Shaun
-*COL:	Oh, oh    (.)  ((clapping))well done  (.) 
-*JOA:	Oh
-*COL:	Oh god  (.) 
-*JOA:	They're right low in the league aren't they? (.) 
-*NEI:	Go on
-*UNK:	 (        ) 
-*JOA:	oh
-*COL:	Oh Christ
-*UNK:	 ((clapping)) (.)  (        ) 
-*JOA:	oh come on Neil
-*COL:	Is it over? ((laugh)) 
-*JOA:	Oh
-*COL:	Oh come on
-*UNK:	 (        ) 
-*COL:	er by bloody Christ, they've got more backs than bloody forwards I think
-*NEI:	Oh   (.) go on
-*COL:	Oh
-*JOA:	Where is it?
-*NEI:	Come on  (.) 
-*COL:	 [shouting] Oh come on, lazy lot of buggers you, come on    []  (.) ah, Jesus Christ, bloody wrap up
-*NEI:	Yeah
-*UNK:	 (        ) 
-*NEI:	yeah well, yeah, good business
-*JOA:	They're getting
-*COL:	Go on Matty, go on Matt oh
-*UNK:	 (        )  (.) 
-*COL:	Oh come on for Christ sake  (.) 
-*UNK:	 (        ) 
-*COL:	come on
-*NEI:	Oh dear, oh dear  (.) 
-*COL:	Feet high, bit high, keep those feet down  (.) 
-*NEI:	Come on
-*JOA:	Go on  (.) 
-*NEI:	bloody hell  (.) 
-*COL:	 [shouting] You're a rubbish manager, go back to Reading   [] ah you reds
-*JOA:	Come on Shaun
-*COL:	Come on Shaun   (.) well done Alan, come on Noddy pull your socks up, come on  (.) 
-*UNK:	No I didn't bring a picnic basket  (.) 
-*UNK:	 (        )  (.) 
-*NEI:	You know
-*UNK:	 (        ) 
-*NEI:	er they should be able to get
-*UNK:	 (        )  (.) 
+*UNK:	 (  ) 
+*JOA:	must be happy now 
+*COL:	Oh, go on  (.)  
+*JOA:	No  (8.0)  
+*UNK:	 (  )  (.)  (  )  (16.0)  (  ) 
+*NEI:	go on then 
+*COL:	Go on 
+*JOA:	Well played 
+*COL:	get out of it  (.)  
+*UNK:	Oh 
+*COL:	Ha  ((laugh))  
+*UNK:	 (  )  (.) 
+*COL:	Go on then, get in there 
+*JOA:	Come on 
+*COL:	What happened there, what 
+*UNK:	 (  )  (12.0)  (  )  (.) 
+*NEI:	Come on 
+*UNK:	 (  ) 
+*COL:	four of them in there 
+*NEI:	Come on 
+*COL:	Come on Shaun, go on now  (.)  
+*JOA:	Come on Shaun 
+*COL:	Oh, oh    (18.0)  ((clapping))well done  (.)  
+*JOA:	Oh 
+*COL:	Oh god  (9.0)  
+*JOA:	They're right low in the league aren't they? (.)  
+*NEI:	Go on 
+*UNK:	 (  ) 
+*JOA:	oh 
+*COL:	Oh Christ 
+*UNK:	 ((clapping)) (.)  (  ) 
+*JOA:	oh come on Neil 
+*COL:	Is it over? ((laugh))  
+*JOA:	Oh 
+*COL:	Oh come on 
+*UNK:	 (  ) 
+*COL:	er by bloody Christ, they've got more backs than bloody forwards I think 
+*NEI:	Oh   (.) go on 
+*COL:	Oh 
+*JOA:	Where is it? 
+*NEI:	Come on  (.)  
+*COL:	 ((shouting)) Oh come on, lazy lot of buggers you, come on    (.) ah, Jesus Christ, bloody wrap up 
+*NEI:	Yeah 
+*UNK:	 (  ) 
+*NEI:	yeah well, yeah, good business 
+*JOA:	They're getting 
+*COL:	Go on Matty, go on Matt oh 
+*UNK:	 (  )  (8.0) 
+*COL:	Oh come on for Christ sake  (.)  
+*UNK:	 (  ) 
+*COL:	come on 
+*NEI:	Oh dear, oh dear  (12.0)  
+*COL:	Feet high, bit high, keep those feet down  (.)  
+*NEI:	Come on 
+*JOA:	Go on  (.)  
+*NEI:	bloody hell  (18.0)  
+*COL:	 ((shouting)) You're a rubbish manager, go back to Reading  ah you reds 
+*JOA:	Come on Shaun 
+*COL:	Come on Shaun   (.) well done Alan, come on Noddy pull your socks up, come on  (9.0)  
+*UNK:	No I didn't bring a picnic basket  (15.0)  
+*UNK:	 (  )  (9.0) 
+*NEI:	You know 
+*UNK:	 (  ) 
+*NEI:	er they should be able to get 
+*UNK:	 (  )  (9.0) 
 @End

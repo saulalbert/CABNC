@@ -1,34 +1,34 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-02-03:  
 @Location:	  at home  
-@Situation:	Unspecified
-@Media: 021A-C0897X0640XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0640XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	BAR Barry self, SER Sergio son
-@ID: eng|AudioBNC|BAR|~41;| |m|Ag3| |entertainments consultant||PS03W|
-@ID: eng|AudioBNC|SER|~9;| |m|Ag0| |student (state primary)|son|PS045|
+@Options:	CA
+@ID:	eng|AudioBNC|BAR|41;|||||entertainments consultant||PS03W|
+@ID:	eng|AudioBNC|SER|9;|||||student (state primary)|son|PS045|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0640XX-AAZZP0.wav
 @Comment:	conversation #10 (Tape 064003)
-*SER:	They've planted a new tree there haven't they?
-*BAR:	Where?
-*SER:	There.
-*BAR:	Where?
-*SER:	The one right in front, at the very
-*BAR:	Well that's been there ever since we moved in!
-*SER:	No, not that bush.I mean that 
-*BAR:	No, the tree.Yeah.
-*SER:	Has it?
-*BAR:	Yeah.
-*SER:	Well I can't remember that   (.) now. (.) Unless it was small and   [laughing] it's grown  [] !
-*BAR:	So when   (.) you don't know when you go back in then?The time the trains are?
-*SER:	Nope! (.) Could do that 
-*BAR:	They're getting some more tomorrow aren't they?
-*SER:	I don't know yet.Cos in   (.) you don't know if it'll be moved by then.Cos she said they're moving it aren't they?From his bedroom.
-*BAR:	Yes.That'll take about ten minutes  (        ) .
-*SER:	Oh it would.If more comes   (.) in. ((phone rings)) (.) Do you want me to get that?
-*BAR:	No, I'll get it.
+*SER:	They've planted a new tree there haven't they? 
+*BAR:	Where? 
+*SER:	There. 
+*BAR:	Where? 
+*SER:	The one right in front, at the very 
+*BAR:	Well that's been there ever since we moved in! 
+*SER:	No, not that bush.  I mean that   
+*BAR:	 No, the tree.  Yeah. 
+*SER:	Has it? 
+*BAR:	Yeah. 
+*SER:	Well I can't remember that   (.) now.  (6.0) Unless it was small and   ((laughing)) it's grown ! 
+*BAR:	So when   (.) you don't know when you go back in then? The time the trains are? 
+*SER:	Nope!  (6.0)  Could do that   
+*BAR:	 They're getting some  more tomorrow aren't they? 
+*SER:	I don't know yet. Cos in   (.) you don't know if it'll be moved by then. Cos she said they're moving it aren't they? From his bedroom. 
+*BAR:	Yes. That'll take about ten minutes  (  ) . 
+*SER:	Oh it would. If more comes   (.) in.  ((phone rings)) (.) Do you want me to get that? 
+*BAR:	No, I'll get it. 
 @End

@@ -1,351 +1,351 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-12-02:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0113XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0113XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , ANG Angela self, ANG Angela friend, ZOE Zoe friend, BEN Ben son
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|ANG|~29;| |f|Ag2| |out work (pt)||PS029|
-@ID: eng|AudioBNC|ANG|~32;| |f|Ag2| |housewife|friend|PS02C|
-@ID: eng|AudioBNC|ZOE|~28;| |f|Ag2| |housewife|friend|PS02D|
-@ID: eng|AudioBNC|BEN|~3;| |m|Ag0| |student (state pre)|son|PS02F|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
+@ID:	eng|AudioBNC|ANG|29;|||||out work (pt)||PS029|
+@ID:	eng|AudioBNC|ANG|32;|||||housewife|friend|PS02C|
+@ID:	eng|AudioBNC|ZOE|28;|||||housewife|friend|PS02D|
+@ID:	eng|AudioBNC|BEN|3;|||||student (state pre)|son|PS02F|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0113XX-AAZZP0.wav
 @Comment:	conversation #3 (Tape 011303)
-*ANG:	leave it there, like that   (.) can you fix it.
-*ANG:	Is it on?
-*ANG:	Yeah.
-*ANG:	Oh right.
-*ANG:	Yeah you just talk normal, like you would normally as if you was having a cup of tea.
-*ANG:	Well you have got, you've got a cup of tea.
-*ANG:	Yes.Like we're having a cup of tea.
-*ANG:	 ((laugh)) 
-*ANG:	That's it and that's it.You ought to have seen Ange on it.She went  (        ) 
-*BEN:	 [shouting]  (        )  [] 
-*ANG:	 (        ) she knew it was there and then she forgot about it and she was chatting .
-*BEN:	 [shouting]  (        )  [] 
-*ANG:	Yeah, you'll be on there.
-*ZOE:	Here I better listen to that to see if they were talking about me.
-*ANG:	No there isn't nothing like that.
-*ZOE:	 ((laugh)) 
-*ANG:	 (        ) some juicy gossip?
-*ANG:	No, it's only me and Ange chatting about my kitchen.And me and Chris talking about money for the kitchen.And that's it.
-*BEN:	Mum, mum are we going  (        ) 
-*ANG:	 (        ) what?
-*ANG:	So you've done all your Christmas shopping have you?
-*ANG:	Yeah.
-*BEN:	 (        ) 
-*ANG:	What colour's the 
-*ANG:	We should have put it on in there.
-*ANG:	Yeah.
-*ANG:	We've been gossiping like anything.
-*BEN:	Mum!Mummy!
-*ANG:	People are funny though.You say I've got a tape recorder here.Oh well turn it off.
-*ANG:	Turn off yeah.Yes Ben?I'm not your mummy, but what?
-*BEN:	I'm going to go to the beach tomorrow Sunday.
-*ANG:	He's going on about the beach!
-*ANG:	He's going to the beach, tomorrow Sunday?
-*ANG:	No.No.
-*BEN:	Yeah.
-*ANG:	What's this, six foot   (        ) 
-*ANG:	What's Father Christmas bringing you Ben?
-*BEN:	Erm a bobblin
-*ANG:	A what?
-*BEN:	Bobblin 
-*ANG:	Bobblin 
-*ANG:	A bobblin?Oh Adam likes those.
-*ANG:	Yeah?
-*BEN:	 (        ) you having a bobblin? ((laugh)) 
-*UNK:	 ((laugh)) Oh Ben  ((laugh)) .You stupid thing. ((laugh)) Where's my drink, where's my drink?
-*ANG:	Where's your drink?In the cup.
-*UNK:	 ((scream))  ((laugh)) Where's my, where's my drink?
-*ANG:	It's in the cup.
+*ANG:	leave it there, like that   (.) can you fix it. 
+*ANG:	Is it on? 
+*ANG:	Yeah. 
+*ANG:	Oh right. 
+*ANG:	Yeah you just talk normal, like you would normally as if you was having a cup of tea. 
+*ANG:	Well you have got, you've got a cup of tea. 
+*ANG:	Yes. Like we're having a cup of tea. 
+*ANG:	  ((laugh))  
+*ANG:	 That's it and that's it.  You ought to have seen Ange on it. She went  (  )  
+*BEN:	  ((shouting))  (  )  
+*ANG:	  (  ) she knew it was there and then she forgot about it and she was chatting  . 
+*BEN:	 ((shouting))  (  ) 
+*ANG:	Yeah, you'll be on there. 
+*ZOE:	Here I better listen to that to see if they were talking about me. 
+*ANG:	No  there isn't nothing like that. 
+*ZOE:	  ((laugh))  
+*ANG:	 (  ) some juicy gossip? 
+*ANG:	No, it's only me and Ange chatting about my kitchen. And me and Chris talking about money for the kitchen. And that's it. 
+*BEN:	Mum, mum are we going  (  )  
+*ANG:	  (  ) what? 
+*ANG:	 So you've done all your Christmas shopping  have you? 
+*ANG:	Yeah. 
+*BEN:	  (  )  
+*ANG:	 What colour's the   
+*ANG:	We should have put it on in there. 
+*ANG:	Yeah. 
+*ANG:	We've been gossiping like anything. 
+*BEN:	 Mum! Mummy! 
+*ANG:	 People are funny though.  You say I've got a tape recorder here. Oh well turn it off. 
+*ANG:	Turn off yeah. Yes Ben? I'm not your mummy, but what? 
+*BEN:	I'm going to go to the beach tomorrow Sunday. 
+*ANG:	He's going on about the beach! 
+*ANG:	He's going to the beach, tomorrow Sunday? 
+*ANG:	No.  No. 
+*BEN:	 Yeah. 
+*ANG:	What's this, six foot    (  )   
+*ANG:	 What's Father Christmas  bringing you Ben? 
+*BEN:	Erm a bobblin 
+*ANG:	A what? 
+*BEN:	 Bobblin   
+*ANG:	 Bobblin   
+*ANG:	A bobblin? Oh Adam likes those. 
+*ANG:	Yeah? 
+*BEN:	 (  ) you having a bobblin? ((laugh))  
+*UNK:	 ((laugh)) Oh Ben  ((laugh)) . You stupid thing.  ((laugh)) Where's my drink, where's my drink? 
+*ANG:	Where's your drink? In the cup. 
+*UNK:	 ((scream))  ((laugh)) Where's my, where's my drink? 
+*ANG:	It's in the cup. 
 *UNK:	 ((laugh)) 
-*ANG:	 (        ) ?Erm so what eleven by eleven foot.Eleven by eleven and a half foot I want.
-*ZOE:	It's per foot then so you'd have to   (.) what do you want?
-*ANG:	Eleven   (.) eleven by eleven and a half foot.How much is that? (.)  (        )  ((kids playing in background))
-*ZOE:	Well you want to nip over there and see what they come on on the roll.
-*ANG:	 (        ) hang on.
-*ZOE:	No.
-*ANG:	That one but in the brown.
-*UNK:	 (        )  ((kids making a lot of noise))
-*ANG:	I don't know.Is that it there.No   (        ) 
-*ZOE:	Yeah.When you see   (        ) at the carpet place, they come on a nine foot  (.) 
-*ANG:	Here you are   (        ) there it is.That's beige though innit? (        ) it's the colour innit?
-*ZOE:	So it's off erm six foot six inch, what is yours eleven foot?
-*ANG:	Mm.I'd have to go to that one wouldn't I?
-*ZOE:	Yeah you'd have to have the
-*ANG:	Thirteen foot.
-*ZOE:	Thirteen foot.How much would that work out?
-*ANG:	 (        ) how much that is look. ((crash as kid falls over))Oh my god.
-*ZOE:	You alright Ben?
-*BEN:	 [crying] 
-*ANG:	 [crying] Oh my god   [] Is he alright?The chair's alright is it Zoe?
-*ZOE:	Oh yeah your chair's alright.
-*ANG:	You leaning back on the chair weren't you?Weren't you? (.) Was you?You alright?
-*BEN:	 [crying] I hurt my leg. [] 
-*ANG:	Your leg?Which leg?Which leg?
-*BEN:	 [crying] Oh this one. [] 
-*ANG:	Let's see.
-*ZOE:	Oh give it a good rub.Never mind.
-*ANG:	Don't lean back on the chairs.I told you about that before. (        ) . You just sit down nicely.
-*BEN:	No No 
-*ZOE:	 ((laugh)) Oh my god.
-*ANG:	Now, now just sit down!No swinging! (.) 
-*ZOE:	Thirteen  (        ) .How many, you want it that way, you want eleven.
-*ANG:	Mm.
-*ZOE:	So it's eleven times   (.) that. (        ) like that's that one, that's that foot, that's that foot.So you want it all the way round   (        ) 
-*ANG:	 (        ) 
-*ZOE:	So it's that per foot.So it'll be eleven times that.
-*ANG:	Oh my god. (        ) 
-*ZOE:	So that'll be over a hundred and forty pound innit?
-*ANG:	Yeah.Easy.
-*ZOE:	Easy.
-*ANG:	No I'll have to go to Great Mills then.
-*ZOE:	Unless there's any others.Which one's that?
-*ANG:	No I think this is the cheap one. (        ) Dear though innit?
-*ZOE:	Well it is a dear game.That's like us look.There  (        ) .
-*ANG:	Unless   (.) unless   (.) you had   (        ) together.If you had that
-*ANG:	Mm.
-*ANG:	and you had a   (        ) down the middle.
-*ANG:	Mm.Yeah, what's that?
-*ANG:	Well this?
-*ANG:	Yeah.
-*ANG:	That's two   (.) you'd have to have   (        ) more of that.
-*ANG:	Oh.Yeah 
-*ANG:	Yeah It would still probably work out the same though.
-*ANG:	Yeah
-*ANG:	Not much difference.
-*ANG:	Yeah.
-*ZOE:	Did he make those numbers?
-*ANG:	Sit down!Yeah he makes those, Zoe.And he makes that as well.
-*ANG:	 (        ) 
-*ZOE:	Yeah they're good aren't they?Sit down Ben. (.) I thought well they're nice.
-*ANG:	 (        ) school Zoe?
-*ZOE:	Mm? (.) 
-*UNK:	 (        ) 
-*ZOE:	Well, no I, I told her I needed something to encourage him.Get out of that drawer you!Oi!
-*ANG:	Has he coloured them in?
-*ZOE:	No!Yeah he's got paintbrushes, I know. (.) They done magic painting the other night  (        ) .Our   (        ) gets it everywhere and she was alright.
-*ANG:	And she was alright?
-*ZOE:	Mm. (.) 
-*ANG:	Mm, so er   (.) still got the fire on Zoe?
-*ZOE:	In there, yeah.
-*ANG:	 (        ) thought I'd better come round and have a chat  (        ) .
-*BEN:	We gotta go now.
-*ANG:	No we haven't gotta go.
-*ZOE:	He's having his drink.
-*ANG:	 (        ) funny the other week.Was you getting funny cos I ain't come to a   (        ) party every week?
-*ZOE:	No, cos I thought well Ian ain't very well look.
-*ANG:	No   (.) I can't afford it though see Ange.I said to Ange 
-*ZOE:	Zoe, Zoe I ain't Ange.
-*ANG:	Zoe   (.) but no I said to Ange, and she said to me are you going?
-*ZOE:	And what did she say?
-*ANG:	And I said well I can't really afford it Ange and er she said oh   (.) she said Zoe won't get funny with us then, I said no.
-*ZOE:	No.I did seventy five pound anyway.
-*ANG:	Did you?
-*ZOE:	Yeah.
-*ANG:	How much do you get back on that?
-*ZOE:	Well   (.) Steve's mum had fifty pounds worth off of Steve' aunty look, so erm   (.) I did about hundred and twenty five and I had twenty five pound back.I had that one as well up there up there look.
-*ANG:	Yeah that's nice.
-*ZOE:	And I gotta pay some myself. (.) I still got collect some more money in.I ain't having another one.
-*ANG:	Aren't you?
-*ZOE:	No. (.) can't have another one.It's too much hassle. (.) I had it here two days  (        ) 
-*ANG:	Mm.
-*ZOE:	too long.
-*ANG:	 (        ) twenty percent   (        ) haven't you?
-*ZOE:	Well yeah and   (.) you don't get nothing out case somebody come look or   (.) I can't put all me washing round like you know?
-*ANG:	Yeah.
-*ZOE:	And I was so tired by the end of the week.
-*ANG:	It it   (.) it it does get you like that don't it?
-*ZOE:	It does get you like that I reckon when you've got something like that.Cos you're chatting all the time aren't you?
-*ANG:	Yeah.Yeah you are.
-*ZOE:	 (        ) come.Do you reckon they'll come? (        ) . Got a  (        ) .She got a little boy.
-*ANG:	Yeah.
-*ZOE:	She come.And I thought she might have come today cos she said she'd bring up the money but   (.) she hasn't, not yet.
-*ANG:	I like that fish tank   (        ) those fishes are nice, they're big aren't they?
-*ZOE:	Yeah they're a bit looks a bit slow don't they?Probably wants cleaning out but the pump's   (        ) 
-*ANG:	They rising to the top a lot Zoe?
-*ZOE:	Yeah.
-*ANG:	You need, is the air pump on?
-*ZOE:	No.
-*ANG:	It ought to be put on cos it, if they rise to the top 
-*ZOE:	Oxygen dunnit?
-*ANG:	Yeah they want the oxygen.
-*ZOE:	Yeah but that drives me mad.Right, put it in the bin then.
-*ANG:	And they keep   (.) they keep popping to have air?
-*ZOE:	Mm?
-*ANG:	Do they keep popping up to have air?
-*ZOE:	Air?
-*ANG:	Yeah.
-*ZOE:	Well they don't seem to be   (.) too bad but they're ever so still.
-*ANG:	They're not swimming around, yeah they're staying at the top as well aren't they?
-*ZOE:	Yeah. (.) Yeah.
-*ANG:	They're not ill are they?
-*ZOE:	No   (.) well they've, I've had them three days look.So really it's just a matter of
-*ANG:	Is one diseased?
-*ZOE:	No, don't think so.
-*ANG:	I've read up on me fish.So I know all about fish, at the minute.
-*ZOE:	 (        ) he's a shebumkin look, that one.But they just look   (.) half dead look, don't they?
-*ANG:	No, they might be just   (.) I don't know .
-*ZOE:	No .
-*ANG:	They   (        ) sleep  (        ) .What did I do with that ashtray?
-*ZOE:	I mean the hamster died in that corner so .
-*ANG:	Oh did he?He died then did he Zoe?
-*ZOE:	Yeah he died. (.) Yeah we had him about   (.) we had him a year look cos I bought him just before Christmas 
-*ANG:	 (        ) 
-*ZOE:	last year when our Adam started school. (.) Yeah.
-*ANG:	Seemed like animal farm up here at one time, didn't it?
-*ZOE:	Yeah. (        ) hamster   (.) fish   (.) cat   (.) dog.
-*ANG:	 (        ) 
-*ZOE:	No.
-*ANG:	 (        ) fins or anything  (        ) ?
-*ZOE:	No. (.) But   (.) they say when their fins are down, like now   (.) then they're  (        ) 
-*ANG:	Mm.And if they hide a lot.
-*ZOE:	Yeah.
-*ANG:	If one of them bull , being bullied they wanna hide.They hide a lot.
-*ZOE:	Mm we have got some more weed upstairs, some more of that plastic weed that I could put in.
-*ANG:	Yeah that would, that   (.) If you brought proper weed
-*ZOE:	Weed, yeah.
-*ANG:	just floated it on the top, not down the bottom. (        ) 
-*ZOE:	Yeah but that   (        ) the pump look cos they don't, don't need so much weed look that, we don't put it on.Though I shall have to keep it on in the summer to keep er
-*ANG:	The water clean.
-*ZOE:	the water clean else it erm   (.) Do you clean yours out a lot?Cos you've got a little one haven't you?
-*ANG:	Yeah. (        ) if it starts getting milky then I change it but   (.) at the moment there's only one little fish see?
-*ZOE:	Yeah.
-*ANG:	Oops   (.) alright.
-*ZOE:	Here you are. (.) Louise!You hold that  (        ) 
-*ANG:	What'd she say?
-*ZOE:	A piddle?Doesn't get that from me. (.) 
-*ANG:	Is that Steve's shirt is it?
-*ZOE:	Yeah I hate ironing them shirts.
-*ANG:	Your kitchen looks nice though Zoe.I like the grill.
-*ZOE:	Yeah? (.) I gotta get some more   (        ) 
-*ANG:	Mine's like, it's a bit it's a bit like this but not as thick.It's Polyripple innit?
-*ZOE:	Mm.
-*ANG:	It's not as thick as that.It is width, like that
-*ZOE:	 (        ) 
-*ANG:	Yeah.But it ain't as thick. (.) But it's better than mine that is.Mine's like that but very   (.) not so much.And I want it like yours   (.) but like you said I'd have to buy erm   (        ) Artex and get Chris to do it. (.) 
-*ZOE:	Once it's on you can't get it off mind.
-*ANG:	Yeah I know.
-*ZOE:	Gotta sand it off.
-*ANG:	The Polyripple peels off though Zoe.It goes like rubber.
-*ZOE:	Does it?
-*ANG:	Yeah cos I had a   (.) I did one roll alright.And erm   (.) it was like crooked and I got my nail behind there like that   (.) right?And I went like that
-*ZOE:	 (        ) get it off.
-*ANG:	and it peels like rubber.Peels off like rubber.You can get it off   (        ) 
-*ZOE:	Mm  (        ) .Perhaps it's sort of on there yeah.
-*ANG:	Yeah.You gotta paint it like.
-*ZOE:	But it was, it was cheaper to by the artex like that cos it's only three pound a bag look, three fifty a bag   (.) for a bag of it.
-*ANG:	 (        ) Do you know how much I paid?
-*ZOE:	How much?
-*ANG:	I paid   (.) for a tub of polyripple already   (.) with the stuff in it
-*ZOE:	Yeah.
-*ANG:	I paid twelve pounds.
-*ZOE:	Yeah but there's stuff you put on before you gotta paint a certain square amount of area
-*ANG:	Mm.
-*ZOE:	and I can   (.) keep it on the wall innit?A bonding
-*ANG:	Yeah.
-*ZOE:	Unibond?
-*ANG:	Yeah.Something like that.
-*ZOE:	Is it?And then erm  (.) 
-*ANG:	Roll it out after.
-*ZOE:	You gotta roll it out af , and you've gotta leave it on so long like overnight, and it stinks.And then you've gotta   (.) well   (        ) area, this bit here
-*ANG:	Mm.
-*ZOE:	we had to plaster it underneath because erm   (.) he had to, we just had wires like this down the end?
-*ANG:	Yeah.
-*ZOE:	They weren't, they weren't in the wall?
-*ANG:	Yeah.
-*ZOE:	So Steve had to chisel all the wall out.
-*ANG:	Mhm.
-*ZOE:	Set them in the wall.I expect, you gotta  (        ) ?
-*ANG:	Mm.
-*ZOE:	Yeah?
-*ANG:	But I've gotta   (        ) though.I can't erm   (.) there's one lot that   (.) just one lot like that   (        ) 
-*ZOE:	 (        ) Yeah Steve uses a paintbrush .Find an old paintbrush.
-*ANG:	Mm.I've got a paintbrush.
-*ZOE:	Yeah?
-*ANG:	Cos I've been doing round the edges   (        ) 
-*ZOE:	Now my sister just   (.) just had her bathroom   (.) just had her bath bathroom artexed?
-*ANG:	Mm.
-*ZOE:	And do you know what she done it with?Her finger. (.) Her finger.And it looks lush
-*ANG:	What like   (.) bumps, like bumps?
-*ZOE:	All she done is S's.
-*ANG:	Oh S's.
-*ZOE:	Little S's all, all over, it like that?
-*ANG:	Yeah.
-*ZOE:	And it looks lovely. (.) Really nice.
-*ANG:	And I gotta do my bathroom as well.But only down to the tiles so mine'd only be half way.
-*ZOE:	And it's   (.) in a Rome pink it is, like a sort of a   (.) nice pink.It looks really nice it do.And she got her bath in the middle of the bathroom.
-*ANG:	So you buy a packet of Artex?You don't buy it in tubs?
-*ZOE:	No.It's a great big bag.Mind this took about   (.) well it's   (        ) innit   (        ) 
-*ANG:	Cos mine's only half way cos the tiles are up to here look 
-*ZOE:	Yeah.
-*ANG:	and then it's the bath.So it'd only be say from there   (.) to the roof round.
-*ZOE:	Yeah.
-*ANG:	So I could do that couldn't I?Artex that 
-*ZOE:	 (        ) Unibond then 
-*ANG:	Yeah first.How much is that?
-*ZOE:	And you've gotta have a bucket to mix it in.
-*ANG:	I've got a bucket.How much is that for   (.) Unibond?
-*ZOE:	I don't know.About a fiver I expect, the Unibond.And you gotta mix it up 
-*ANG:	 (        ) 
-*ZOE:	it's like mi mixing a cake.
-*ANG:	Is it?
-*ZOE:	You gotta have the right consistency and the right colour and
-*ANG:	Mm.
-*ZOE:	So you'd probably be better off with that stuff. (.) Cos it might be different texture then look if you've already started.
-*ANG:	I'm not gonna do it in the kitchen.
-*ZOE:	Oh.
-*ANG:	I gotta finish the kitchen off with the   (.) Polyripple.
-*ZOE:	The Polyripple.
-*ANG:	But the bathroom   (        ) bathroom 
-*ZOE:	 (        ) 
-*ANG:	it's only like from the tile to the ceiling.It's only about 
-*ZOE:	Yeah like   (        ) bit in there.
-*ANG:	Yeah.It's only half way round look.
-*ZOE:	Cos you gotta have windows out haven't you?
-*ANG:	Eh?
-*ZOE:	You gotta have your windows out haven't you?
-*ANG:	Yeah.
-*ZOE:	Yeah.
-*ANG:	Yeah.
-*UNK:	Benny won't   (.) Benny wouldn't  (        ) 
-*ANG:	He's not Benny. (.) Won't he? (.) Why not?Don't he wanna play?
-*UNK:	No he  (        ) 
-*ANG:	Ah.
-*ZOE:	Doesn't wanna play  (        ) ?
-*UNK:	 (        ) 
-*ANG:	Is that the trousers  (        ) ?
-*ZOE:	No. (.) No these ones I got up BeWise two ninety nine.
-*ANG:	No I like those they suit you those do. (.) See I can't wear anything like that they're all too bloody long on me.
-*ZOE:	Yeah   (        ) they'd be too big round the waist.
-*ANG:	Yeah.
-*ZOE:	Cos you're so tiny aren't you? (.)  (        ) 
-*ANG:	I'm on a eating diet, you won't believe it Zoe. ((laugh)) 
-*ZOE:	What   (.) what see food and eat it?
-*ANG:	Yeah.Chris  (.) up till Christmas cos I've gotta put some weight on.
-*ZOE:	You have?
-*ANG:	Yeah cos I went in that shop and I put on a size ten skirt and it was hanging.
-*ZOE:	Ooh.You'll have to give it a   (        ) 
-*ANG:	And then it   (        ) me a pair of trousers .Give me a pair of, brought me a pair of trousers.They fitted but they still looked a bit baggy.And I said to her well I'll have to go on a eating binge.She said yes   (.) go on   (.) stuff your face.So, yeah so what I have erm   (.) I don't really need to stuff my face cos I eat one meal a day see
-*ZOE:	Yeah.
-*ANG:	and that's it.I don't pick.
-*ZOE:	No I do see.That's why I'm so fat.
-*ANG:	So and I, so then I, I thought right.I'll do what I did last time.I'll eat breakfast dinner and tea   (.) and supper.And I'll bump the weight on then.
-*ZOE:	Yeah.
-*ANG:	Guess what I had yesterday, I stuffed, I had breakfast.Dinnertime I had pizza, tomatoes
-*ZOE:	Oh my god.
-*ANG:	tinned tomatoes, chip, egg   (.) two slices of bread and an apple afterwards
+*ANG:	 (  ) ? Erm so what eleven by eleven foot. Eleven by eleven and a half foot I want. 
+*ZOE:	It's per foot then so you'd have to   (.) what do you want? 
+*ANG:	Eleven   (.) eleven by eleven and a half foot. How much is that? (.)  (  )  ((kids playing in background)) 
+*ZOE:	Well you want to nip over there and see what they come on on the roll. 
+*ANG:	 (  ) hang on. 
+*ZOE:	No. 
+*ANG:	That one but in the brown. 
+*UNK:	 (  )  ((kids making a lot of noise))
+*ANG:	I don't know. Is that it there.  No   (  )   
+*ZOE:	 Yeah. When you see    (  ) at the carpet place, they come on a nine foot  (.)  
+*ANG:	Here you are   (  ) there it is. That's beige though innit? (  ) it's the colour innit? 
+*ZOE:	So it's off erm six foot six inch, what is yours eleven foot? 
+*ANG:	Mm. I'd have to go to that one wouldn't I? 
+*ZOE:	Yeah you'd have to have the 
+*ANG:	Thirteen foot. 
+*ZOE:	Thirteen foot. How much would that work out? 
+*ANG:	 (  ) how much that is look.  ((crash as kid falls over))Oh my god. 
+*ZOE:	You alright Ben? 
+*BEN:	  ((crying))  
+*ANG:	  ((crying)) Oh my god   Is he alright? The chair's alright is it Zoe? 
+*ZOE:	Oh yeah your chair's alright. 
+*ANG:	You leaning back on the chair weren't you? Weren't you?  (.) Was you? You alright? 
+*BEN:	 ((crying)) I hurt my leg. 
+*ANG:	Your leg? Which leg? Which leg? 
+*BEN:	 ((crying)) Oh this one. 
+*ANG:	Let's see. 
+*ZOE:	Oh give it a good rub.  Never mind. 
+*ANG:	 Don't lean  back on the chairs. I told you about that before.  (  ) . You just  sit down nicely. 
+*BEN:	 No No   
+*ZOE:	 ((laugh)) Oh my god. 
+*ANG:	Now, now just sit down! No swinging! (.)  
+*ZOE:	Thirteen  (  ) . How many, you want it that way, you want eleven. 
+*ANG:	Mm. 
+*ZOE:	So it's eleven times   (.) that.  (  ) like that's that one, that's that foot, that's that foot. So you want it all the way round    (  )   
+*ANG:	  (  )  
+*ZOE:	So it's that per foot. So it'll be eleven times that. 
+*ANG:	Oh my god. (  )   
+*ZOE:	 So that'll be  over a hundred and forty pound innit? 
+*ANG:	Yeah. Easy. 
+*ZOE:	Easy. 
+*ANG:	No I'll have to go to Great Mills then. 
+*ZOE:	Unless there's any others. Which one's that? 
+*ANG:	No I think this is the cheap one.  (  ) Dear though innit? 
+*ZOE:	Well it is a dear game. That's like us look. There  (  ) . 
+*ANG:	Unless   (.) unless   (.) you had   (  ) together. If you had that 
+*ANG:	Mm. 
+*ANG:	and you had a   (  ) down the middle. 
+*ANG:	Mm. Yeah, what's that? 
+*ANG:	Well this? 
+*ANG:	Yeah. 
+*ANG:	That's two   (.) you'd have to have   (  ) more of that. 
+*ANG:	Oh.  Yeah   
+*ANG:	 Yeah  It would still probably work out the same though. 
+*ANG:	Yeah 
+*ANG:	Not much difference. 
+*ANG:	Yeah. 
+*ZOE:	Did he make those numbers? 
+*ANG:	Sit down! Yeah he makes those, Zoe. And he makes that as well. 
+*ANG:	 (  ) 
+*ZOE:	Yeah they're good aren't they? Sit down Ben.  (6.0) I thought  well they're nice. 
+*ANG:	  (  )  school Zoe? 
+*ZOE:	Mm? (.)  
+*UNK:	 (  ) 
+*ZOE:	Well, no I, I told her I needed something to encourage him. Get out of that drawer you! Oi! 
+*ANG:	Has he coloured them  in? 
+*ZOE:	 No!  Yeah he's got paintbrushes, I know.  (.) They done magic painting the other night  (  ) . Our   (  ) gets it everywhere and she was alright. 
+*ANG:	And she was alright? 
+*ZOE:	Mm. (.)  
+*ANG:	Mm, so er   (.) still got the fire on Zoe? 
+*ZOE:	In there, yeah. 
+*ANG:	 (  ) thought I'd better come round and have a chat  (  ) . 
+*BEN:	We gotta go now. 
+*ANG:	No we haven't gotta go. 
+*ZOE:	 He's having his drink. 
+*ANG:	  (  ) funny the other week.  Was you getting funny cos I ain't come to a   (  ) party every week? 
+*ZOE:	No, cos I thought well Ian ain't very well look. 
+*ANG:	No   (.) I can't afford it though see Ange.  I said to Ange   
+*ZOE:	 Zoe, Zoe  I ain't Ange. 
+*ANG:	Zoe   (.) but no I said to Ange, and she said to me are you going? 
+*ZOE:	 And what did she say? 
+*ANG:	And I said well I can't really afford it Ange and er she said oh   (.) she said Zoe won't get funny with us then, I said no. 
+*ZOE:	No. I did seventy five pound anyway. 
+*ANG:	Did you? 
+*ZOE:	Yeah. 
+*ANG:	How much do you get back on that? 
+*ZOE:	Well   (.) Steve's mum had fifty pounds worth off of Steve' aunty look, so erm   (.) I did about hundred and twenty five and I had twenty five pound back. I had that one as well up there up there look. 
+*ANG:	Yeah that's nice. 
+*ZOE:	And I gotta pay some myself.  (.) I still got collect some more money in. I ain't having another one. 
+*ANG:	Aren't you? 
+*ZOE:	No.  (.) can't have another one. It's too much hassle.  (.) I had it here two days  (  )  
+*ANG:	Mm. 
+*ZOE:	too long. 
+*ANG:	 (  ) twenty percent   (  ) haven't you? 
+*ZOE:	Well yeah and   (.) you don't get nothing out case somebody come look or   (.) I can't put all me washing round like you know? 
+*ANG:	Yeah. 
+*ZOE:	And I was so tired by the end of the week. 
+*ANG:	It it   (.) it it does get you like that  don't it? 
+*ZOE:	 It does get you  like that I reckon when you've got something like that. Cos you're chatting all the time aren't you? 
+*ANG:	Yeah. Yeah  you are. 
+*ZOE:	  (  )  come. Do you reckon they'll come?  (  ) . Got a  (  ) . She got a little boy. 
+*ANG:	Yeah. 
+*ZOE:	She come. And I thought she might have come today cos she said she'd bring up the money but   (.) she  hasn't, not yet. 
+*ANG:	 I like that  fish tank   (  ) those fishes are nice, they're big aren't they? 
+*ZOE:	Yeah they're a bit looks a bit slow don't they? Probably wants cleaning out but the pump's    (  )   
+*ANG:	 They rising to the top a lot Zoe? 
+*ZOE:	Yeah. 
+*ANG:	You need, is the air pump on? 
+*ZOE:	No. 
+*ANG:	It ought to be put on cos it, if they rise to the top   
+*ZOE:	 Oxygen  dunnit? 
+*ANG:	Yeah they want the oxygen. 
+*ZOE:	Yeah but that drives me mad. Right, put it in the bin then. 
+*ANG:	And they keep   (.) they keep popping to have air? 
+*ZOE:	Mm? 
+*ANG:	Do they keep popping up to have air? 
+*ZOE:	Air? 
+*ANG:	Yeah. 
+*ZOE:	Well they don't seem to be   (.) too bad but they're ever so still. 
+*ANG:	They're not swimming around, yeah they're staying at the top as well aren't they? 
+*ZOE:	Yeah.  (.) Yeah. 
+*ANG:	They're not ill are they? 
+*ZOE:	No   (.) well they've, I've had them three days look. So really it's just a matter of 
+*ANG:	Is one diseased? 
+*ZOE:	No, don't think so. 
+*ANG:	I've read up on me fish. So  I know all about fish, at the minute. 
+*ZOE:	  (  ) he's  a shebumkin look, that one. But they just look   (.) half dead look, don't they? 
+*ANG:	No, they might be just   (.) I don't  know  . 
+*ZOE:	 No  . 
+*ANG:	They   (  ) sleep  (  ) . What did I do with that ashtray? 
+*ZOE:	I mean the hamster died in that corner  so  . 
+*ANG:	 Oh did he?  He died then did he Zoe? 
+*ZOE:	Yeah he died.  (.) Yeah we had him about   (.)  we had him a year look cos I bought him just before Christmas   
+*ANG:	  (  )  
+*ZOE:	last year when our Adam started school.  (.) Yeah. 
+*ANG:	Seemed like animal farm up here at one time, didn't it? 
+*ZOE:	Yeah.  (  ) hamster   (.) fish   (.) cat   (.) dog. 
+*ANG:	 (  ) 
+*ZOE:	No. 
+*ANG:	 (  ) fins or anything  (  ) ? 
+*ZOE:	No.  (.) But   (.) they say when their fins are down, like now   (.) then they're  (  )  
+*ANG:	Mm. And if they hide a lot. 
+*ZOE:	Yeah. 
+*ANG:	If one of them bull  , being bullied they wanna hide. They hide a lot. 
+*ZOE:	Mm we have got some more weed upstairs, some more of that plastic weed  that I could put in. 
+*ANG:	 Yeah that would, that    (.) If you brought proper weed 
+*ZOE:	Weed, yeah. 
+*ANG:	just floated it on the top, not down the bottom. (  )   
+*ZOE:	 Yeah but that   (  )  the pump look cos they don't, don't need so much weed look that, we don't put it on. Though I shall have to keep it on in the summer to keep er 
+*ANG:	The water clean. 
+*ZOE:	the water clean else it erm   (.) Do you clean yours out a lot? Cos you've got a little one haven't you? 
+*ANG:	Yeah.  (  ) if it starts getting milky then I change it but   (.) at the moment there's only one little fish see? 
+*ZOE:	Yeah. 
+*ANG:	Oops   (.) alright. 
+*ZOE:	Here you are.  (.) Louise! You hold that  (  )  
+*ANG:	What'd she say? 
+*ZOE:	A piddle? Doesn't get that from me. (10.0)  
+*ANG:	Is that Steve's shirt is it? 
+*ZOE:	Yeah I hate ironing them shirts. 
+*ANG:	Your kitchen looks nice though Zoe. I like the grill. 
+*ZOE:	Yeah?  (.)  I gotta get some more   (  )   
+*ANG:	 Mine's like, it's a bit it's a bit like this but not as thick. It's Polyripple innit? 
+*ZOE:	Mm. 
+*ANG:	It's not as thick as that. It is width, like that 
+*ZOE:	 (  ) 
+*ANG:	Yeah. But it ain't as thick.  (.) But it's better than mine that is. Mine's like that but very   (.) not so much. And I want it like yours   (.) but like you said I'd have to buy erm   (  ) Artex and get Chris to do it. (.)  
+*ZOE:	Once it's on you can't get it off mind. 
+*ANG:	Yeah I know. 
+*ZOE:	Gotta sand it off. 
+*ANG:	The Polyripple peels off though Zoe. It goes like rubber. 
+*ZOE:	Does it? 
+*ANG:	Yeah cos I had a   (.) I did one roll alright. And erm   (.) it was like crooked and I got my nail behind there like that   (.) right? And I went like that 
+*ZOE:	 (  ) get it off. 
+*ANG:	and it peels like rubber. Peels off like rubber.  You can get it off   (  )   
+*ZOE:	 Mm  (  ) . Perhaps it's sort of on there yeah. 
+*ANG:	Yeah. You gotta paint it like. 
+*ZOE:	But it was, it was cheaper to by the artex like that cos it's only three pound a bag look, three fifty a bag   (.)  for a bag of it. 
+*ANG:	  (  ) Do you know how much I paid? 
+*ZOE:	How much? 
+*ANG:	I paid   (.) for a tub of polyripple already   (.) with the stuff in it 
+*ZOE:	Yeah. 
+*ANG:	I paid twelve pounds. 
+*ZOE:	Yeah but there's stuff you put on before you gotta paint a certain square amount of area 
+*ANG:	Mm. 
+*ZOE:	and I can   (.) keep it on the wall innit? A bonding 
+*ANG:	Yeah. 
+*ZOE:	Unibond? 
+*ANG:	Yeah.  Something like that. 
+*ZOE:	 Is it?  And then erm  (.)  
+*ANG:	Roll it out after. 
+*ZOE:	You gotta roll it out af  , and you've gotta leave it on so long like overnight, and it stinks. And then you've gotta   (.) well   (  ) area, this bit here 
+*ANG:	Mm. 
+*ZOE:	we had to plaster it underneath because erm   (.) he had to, we just had wires like this down the end? 
+*ANG:	Yeah. 
+*ZOE:	They weren't, they weren't in the wall? 
+*ANG:	Yeah. 
+*ZOE:	So Steve had to chisel all the wall out. 
+*ANG:	Mhm. 
+*ZOE:	Set them in the wall. I expect, you gotta  (  ) ? 
+*ANG:	Mm. 
+*ZOE:	Yeah? 
+*ANG:	But I've gotta   (  ) though. I can't erm   (.)  there's one lot that   (.) just one lot like that   (  )   
+*ZOE:	  (  ) Yeah Steve uses a paintbrush  . Find an old paintbrush. 
+*ANG:	Mm. I've got a paintbrush. 
+*ZOE:	Yeah? 
+*ANG:	Cos I've been doing round the edges    (  )   
+*ZOE:	 Now my sister  just   (.) just had her bathroom   (.) just had her bath  bathroom artexed? 
+*ANG:	Mm. 
+*ZOE:	And do you know what she done it with? Her finger.  (.) Her finger. And it looks lush 
+*ANG:	What like   (.)  bumps, like bumps? 
+*ZOE:	 All she done  is S's. 
+*ANG:	Oh S's. 
+*ZOE:	Little S's all, all over, it like that? 
+*ANG:	Yeah. 
+*ZOE:	And it looks lovely.  (.) Really nice. 
+*ANG:	And I gotta do my bathroom as well. But only down to the tiles so mine'd only be half way. 
+*ZOE:	And it's   (.) in a Rome pink it is, like a sort of a   (.) nice pink. It looks really nice it do. And she got her bath in the middle of the bathroom. 
+*ANG:	So you buy a packet of Artex? You don't buy it in tubs? 
+*ZOE:	No. It's a great big bag. Mind this took about   (.) well  it's   (  ) innit   (  )   
+*ANG:	 Cos mine's only half way cos the tiles  are up to here  look   
+*ZOE:	 Yeah. 
+*ANG:	and then it's the bath. So it'd only be say from there   (.) to the roof round. 
+*ZOE:	Yeah. 
+*ANG:	So I could do that couldn't I?  Artex that   
+*ZOE:	  (  ) Unibond then   
+*ANG:	Yeah first.  How much is that? 
+*ZOE:	 And you've gotta have  a bucket to mix it in. 
+*ANG:	I've got a bucket. How much is that for   (.) Unibond? 
+*ZOE:	I don't know. About a fiver I expect, the Unibond. And you gotta  mix it up   
+*ANG:	  (  )  
+*ZOE:	it's like mi  mixing a cake. 
+*ANG:	Is it? 
+*ZOE:	You gotta have the right consistency and the right colour and 
+*ANG:	Mm. 
+*ZOE:	So you'd probably be better off with that stuff.  (.) Cos it might be different texture then look if you've already started. 
+*ANG:	I'm not gonna do it in the kitchen. 
+*ZOE:	Oh. 
+*ANG:	I gotta finish the kitchen off with the   (.) Polyripple. 
+*ZOE:	The Polyripple. 
+*ANG:	But the bathroom    (  ) bathroom   
+*ZOE:	  (  )  
+*ANG:	it's only like from the tile to the ceiling.  It's only about   
+*ZOE:	 Yeah like   (  ) bit in there. 
+*ANG:	Yeah.  It's only half way round look. 
+*ZOE:	 Cos you gotta have windows out haven't you? 
+*ANG:	Eh? 
+*ZOE:	You gotta have your windows out haven't you? 
+*ANG:	Yeah. 
+*ZOE:	Yeah. 
+*ANG:	Yeah. 
+*UNK:	Benny won't   (.) Benny wouldn't  (  )  
+*ANG:	He's not Benny.  (.) Won't he?  (.) Why not? Don't he wanna play? 
+*UNK:	No he  (  )  
+*ANG:	Ah. 
+*ZOE:	Doesn't wanna play  (  ) ? 
+*UNK:	 (  ) 
+*ANG:	Is that the trousers  (  ) ? 
+*ZOE:	No.  (.) No these ones I got up BeWise  two ninety nine. 
+*ANG:	 No I like those  they suit you those do.  (.) See I can't wear anything like that they're all too bloody long on me. 
+*ZOE:	Yeah   (  ) they'd be too big round the waist. 
+*ANG:	Yeah. 
+*ZOE:	Cos you're so tiny aren't you? (.)  (  )  
+*ANG:	I'm on a eating diet, you won't believe it Zoe. ((laugh))   
+*ZOE:	 What   (.)  what see food and eat it? 
+*ANG:	Yeah. Chris   (.) up till Christmas cos I've gotta put some weight on. 
+*ZOE:	You have? 
+*ANG:	Yeah cos I went in that shop and I put on a size ten skirt and it was hanging. 
+*ZOE:	Ooh.  You'll have to give it a   (  )   
+*ANG:	 And then it   (  ) me a pair of trousers  . Give me a pair of, brought me a pair of trousers. They fitted but they still looked a bit baggy. And I said to her well I'll have to go on a eating binge. She said yes   (.) go on   (.) stuff your face. So, yeah so what I have erm   (.) I don't really need to stuff my face cos I eat one meal a day see 
+*ZOE:	Yeah. 
+*ANG:	and that's it. I don't pick. 
+*ZOE:	No I do see. That's why I'm so fat. 
+*ANG:	So and I, so then I, I thought right. I'll do what I did last time. I'll eat breakfast dinner and tea   (.) and supper. And I'll bump the weight on then. 
+*ZOE:	Yeah. 
+*ANG:	Guess what I had yesterday, I stuffed, I had breakfast. Dinnertime I had pizza, tomatoes 
+*ZOE:	Oh my god. 
+*ANG:	tinned tomatoes, chip, egg   (.) two slices of bread and an apple afterwards 
 *ZOE:	 ((laugh)) 
-*ANG:	and teatime I had chicken, roast chicken, roast spuds, gravy
+*ANG:	and teatime I had chicken, roast chicken, roast spuds, gravy 
 *ZOE:	 ((laugh)) 
-*ANG:	and then I had supper and we bought these cakes.I ate three cakes   (.) erm and then I had another one at two o'clock.Erm   (.) cups of tea.
-*ZOE:	Oh my god.
-*ANG:	Yeah I stuffed me face. (.) Half the trouble with me is that I'm so busy Zoe I can't be bothered. (.)  (        )  (.) I'll wind it back a bit, you can listen.
+*ANG:	and then I had supper and we bought these cakes. I ate three cakes   (.) erm and then I had another one at two o'clock. Erm   (.) cups of tea. 
+*ZOE:	Oh my god. 
+*ANG:	Yeah I stuffed me face.  (.) Half the trouble with me is that I'm so busy Zoe I can't be bothered.  (.)  (  )  (.) I'll wind it back a bit, you can listen. 
 @End

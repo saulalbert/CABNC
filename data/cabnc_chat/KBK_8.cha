@@ -1,64 +1,64 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-05-31:  
 @Location:	 Home 
-@Situation:	Unspecified
-@Media: 021A-C0897X0020XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0020XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CHR Chris self, NOR Norrine wife, LYN Lynda colleague
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
-@ID: eng|AudioBNC|LYN|~44;| |f|Ag3| |export assistant|colleague|PS102|
+@Options:	CA
+@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID:	eng|AudioBNC|LYN|44;|||||export assistant|colleague|PS102|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0020XX-AAZZP0.wav
 @Comment:	conversation #8 (Tape 002008)
-*CHR:	Dear oh dear oh dear.This eight hundred H T order's slipped away.
-*LYN:	Oh dear.
-*CHR:	Not too surprising really I suppose but erm    ((cough))  (.) I went up and erm heard the jazz at the Crown last night.
-*LYN:	Manhattan?
-*CHR:	Manhattan yes.
-*LYN:	How were they?
-*CHR:	I thoroughly enjoyed it.I thought it was great.
-*LYN:	Oh that's good.
-*CHR:	In fact I was quite a busy little bee last night.Fixed to go and have a game of croquet on Saturday afternoon.
-*LYN:	Oh you said you were, you were threatening to do that weren't you?
-*CHR:	Yes.yes. (        ) ought to have a go.
-*LYN:	Where are you playing croquet?
-*CHR:	Oh Dulwich my dear.
-*LYN:	Dulwich.With She.
-*CHR:	Pardon?She?Ah yes, I I  ((laugh)) .
-*LYN:	Shall I put the kettle on?
-*CHR:	Yes please dear lovely.I wouldn't er, I wouldn't trust her with mallet. ((laugh)) Oh I've got bags of time I reckon to make notes on what I'm doing as we talk here.
-*LYN:	 (        ) 
-*CHR:	Yes, oh yes it's all sort of, relatively complex stuff.You, you read that did you?
-*LYN:	Yes.Did they send you the Walkman as well?
-*CHR:	Oh yes I've got that.And I've got boxes of, two boxes of tapes.
-*LYN:	Why do they trust you?
-*CHR:	I wondered.I must say I wondered.Yeah, I mean you're not particularly trad jazz inclined anyway are you?
-*LYN:	Oh I like trad jazz I don't like modern jazz at all.But I like trad jazz I mean that was, there was a great, there was a trad jazz   (.) era in the sixties
-*CHR:	Mm.
-*LYN:	and we were all very  (        ) .
-*CHR:	Well there's the programme.
-*LYN:	 (        ) 
-*CHR:	Yes.
-*LYN:	
-*CHR:	He lives there.I had a chat with him last night.And er he sort of admitted that he lives absolutely on the fringe of the no go area.Mm look at it, I mean the name of his house Wit's End.He's a very odd character.
-*LYN:	Yes.
-*CHR:	Out of interest, how much do you charge for your do?
-*LYN:	Erm   (.) no I didn't,Plum actually did the organizing.I think, I think it was about two hundred and forty pounds
-*CHR:	Right.
-*LYN:	but don't quote me on it.It might have been more it might have been
-*NOR:	Somebody mentioned the figure of three hundred pounds.
-*CHR:	For a jazz  (        ) 
-*NOR:	Mm.Does that sound right?
-*LYN:	It sounds a bit of a  (        ) 
-*NOR:	I don't know but that, that price, somebody in conversation mentioned it.
-*LYN:	Yes.But they, of course they may be now cos we booked them back in Feb
-*NOR:	Yes.
-*CHR:	Yes.
-*LYN:	and.But they were only relatively cheap because at the time I made that   (        ) change   (        ) musician   (        ) union.So they weren't charging union rates and we got them relatively cheap.
-*NOR:	Maybe whoever was telling me was making a  (        ) 
-*CHR:	Well when you look at how busy a programme they've got.You can't, it's difficult to believe why they don't charge full whack.I mean it was very interesting in the Crown last night because apparently they, they normally have some rhythm and blues and soul and things like that on a Thursday.And erm   (.) the youngsters weren't objecting to their music.I mean there were no real teeny boppers.Erm but the the old grey hairs like me were leaping around and  ((phone rings)).Yes alright.Good morning Mr  (        ) .
+*CHR:	Dear oh dear oh dear. This eight hundred H T order's slipped away. 
+*LYN:	Oh dear. 
+*CHR:	Not too surprising really I suppose but erm    ((cough))  (8.0) I went up and erm heard the jazz at the Crown last night. 
+*LYN:	Manhattan? 
+*CHR:	Manhattan yes. 
+*LYN:	How were they? 
+*CHR:	I thoroughly enjoyed it. I thought it was great. 
+*LYN:	Oh that's good. 
+*CHR:	In fact I was quite a busy little bee last night. Fixed to go and have a game of croquet on Saturday afternoon. 
+*LYN:	Oh you said you were, you were threatening to do that weren't you? 
+*CHR:	Yes. yes.  (  ) ought to have a go. 
+*LYN:	Where are you playing croquet? 
+*CHR:	Oh Dulwich my dear. 
+*LYN:	Dulwich. With She. 
+*CHR:	Pardon? She? Ah yes, I I  ((laugh)) . 
+*LYN:	Shall I put the kettle on? 
+*CHR:	Yes please dear lovely. I wouldn't er, I wouldn't trust her with mallet.  ((laugh)) Oh I've got bags of time I reckon to make notes on what I'm doing as we talk here. 
+*LYN:	 (  ) 
+*CHR:	Yes, oh yes it's all sort of, relatively complex stuff. You, you read that did you? 
+*LYN:	Yes. Did they send you the Walkman as well? 
+*CHR:	Oh yes I've got that. And I've got boxes of, two boxes of tapes. 
+*LYN:	Why do they trust you? 
+*CHR:	I wondered. I must say I wondered. Yeah, I mean you're not particularly trad jazz inclined anyway are you? 
+*LYN:	Oh I like trad jazz I don't like modern jazz at all. But I like trad jazz I mean that was, there was a great, there was a trad jazz   (.) era in the sixties 
+*CHR:	Mm. 
+*LYN:	and we were all very  (  ) . 
+*CHR:	Well there's the programme. 
+*LYN:	 (  ) 
+*CHR:	Yes. 
+*LYN:	 
+*CHR:	He lives there. I had a chat with him last night. And er he sort of admitted that he lives absolutely on the fringe of the no go area. Mm look at it, I mean the name of his house Wit's End. He's a very odd character. 
+*LYN:	Yes. 
+*CHR:	Out of interest, how much do you charge for your do? 
+*LYN:	Erm   (.) no I didn't,Plum actually did the organizing. I think, I think it was about two hundred and forty pounds 
+*CHR:	Right. 
+*LYN:	but don't quote me on it. It might have been more it might have been 
+*NOR:	Somebody mentioned the figure of three hundred pounds. 
+*CHR:	For a jazz  (  )  
+*NOR:	Mm. Does that sound right? 
+*LYN:	It sounds a bit of a  (  )  
+*NOR:	I don't know but that, that price, somebody in conversation mentioned it. 
+*LYN:	Yes. But they, of course they may be now cos we booked them back in Feb 
+*NOR:	Yes. 
+*CHR:	Yes. 
+*LYN:	and. But they were only relatively cheap because at the time I made that   (  ) change   (  ) musician   (  ) union. So they weren't charging union rates and we got them relatively cheap. 
+*NOR:	Maybe whoever was telling me was making a  (  )  
+*CHR:	Well when you look at how busy a programme they've got. You can't, it's difficult to believe why they don't charge full whack. I mean it was very interesting in the Crown last night because apparently they, they normally have some rhythm and blues and soul and things like that on a Thursday. And erm   (.) the youngsters weren't objecting to their music. I mean there were no real teeny boppers. Erm but the the old grey hairs like me were leaping around and  ((phone rings)). Yes alright. Good morning Mr  (  ) . 
 @End

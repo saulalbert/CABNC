@@ -1,65 +1,65 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1992-03-19:  
 @Location:	 in car park 
-@Situation:	 moving car 
-@Media: 021A-C0897X0266XX-ABZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	 moving car  
+@Media:	021A-C0897X0266XX-ABZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	CLA Clarence self, NIN Nina wife
-@ID: eng|AudioBNC|CLA|~65;| |m|Ag5| |retired||PS065|
-@ID: eng|AudioBNC|NIN|~67;| |f|Ag5| |retired|wife|PS066|
+@Options:	CA
+@ID:	eng|AudioBNC|CLA|65;|||||retired||PS065|
+@ID:	eng|AudioBNC|NIN|67;|||||retired|wife|PS066|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0266XX-ABZZP0.wav
 @Comment:	conversation #10 (Tape 026606)
-*CLA:	Loads a money.
-*NIN:	 [laughing] It isn't
-*CLA:	Mm?
-*NIN:	it's the bill, it's the milk bill  [] .
-*CLA:	Aha! (.) 
-*NIN:	I want to change another ten pound because with not getting two fivers
-*CLA:	Yes.
-*NIN:	er so I thought oh I'll change that when I go in to er   (.) the greengrocers.
-*CLA:	Oh are we, have you have you been to Boots?By the way.
-*NIN:	Oh lord, no. (.)  ((sigh)) I don't think that's really important.
-*CLA:	Are you sure?
-*NIN:	No.
-*CLA:	 (        ) I think
-*NIN:	Erm
-*CLA:	thirty six   (.) erm    (.)  (        ) thirty six   (.) this expires at   (.) half past four.That can't be right, this. (.) Expires at sixteen thirty six? (.) God it's erm
-*NIN:	 (        ) what time is it   (        ) 
-*CLA:	Well it's only fifteen thirty five now so   (.) Oh it is two hours you get for the er that's right, it's not an hour and a half, it's two hours you get isn't it?
-*NIN:	Mm.
-*CLA:	It could be right.Yes.It is right in fact.
-*NIN:	So we're okay?
-*CLA:	Yeah we're okay, if you want to.I, we can
-*NIN:	Er ooh
-*CLA:	Hang on, hang on, hang on. (.) I can run the car round the other side of the car park.
-*NIN:	Yeah.
-*CLA:	 [laughing] So it's less to walk  [] . (.) And walk from there.
-*NIN:	Well that's a good idea.
-*CLA:	Why not?
-*NIN:	Er I thought we were going to  (.) 
-*CLA:	Well   (.) somewhere else   (        ) High Street. (        ) Hang on. (.) 
-*NIN:	 (        ) 
-*CLA:	Pardon?
-*NIN:	 (        ) 
-*CLA:	Where will I go in there? (.) 
-*NIN:	Well erm
-*CLA:	Well you want to go to this other car park for   (.) Boots don't you?
-*NIN:	Mm.
-*CLA:	Yeah.
-*NIN:	Yeah. (.) And we've got how long? (.) Three thirty
-*CLA:	Oh you're alright.
-*NIN:	So we've got another hour?
-*CLA:	Yeah, it's two hours.
-*NIN:	 (        ) 
-*CLA:	 (        ) There we are. (.) 
-*NIN:	Are you staying here?
-*CLA:	Oh yes   [laughing] I haven't got the strength   (        )  [] .It's not my idea of a 
-*NIN:	Then are we going to the pa wallpaper shop?
-*CLA:	Yes.High Street, yes.
-*NIN:	Oh okay.Okay well there's no need to lock up   (        ) .
-*CLA:	No.No no.No need to lock up. (.) 
+*CLA:	Loads a money. 
+*NIN:	 ((laughing)) It isn't 
+*CLA:	Mm? 
+*NIN:	it's the bill, it's the milk bill . 
+*CLA:	Aha! (.)  
+*NIN:	I want to change another ten pound because with not getting two fivers 
+*CLA:	Yes. 
+*NIN:	er so I thought oh I'll change that when I go in to er   (.)  the greengrocers. 
+*CLA:	 Oh are we, have you  have you been to Boots? By the way. 
+*NIN:	Oh lord, no.  (.)  ((sigh)) I don't think that's really  important. 
+*CLA:	 Are you sure? 
+*NIN:	No. 
+*CLA:	 (  ) I think 
+*NIN:	Erm 
+*CLA:	thirty six   (.) erm    (.)  (  ) thirty six   (.) this expires at   (.) half past four. That can't be right, this.  (.) Expires at sixteen thirty six?  (.) God it's erm 
+*NIN:	 (  ) what time is it    (  )   
+*CLA:	 Well it's  only fifteen thirty five now so   (.) Oh it is two hours you get for the er that's right, it's not an hour and a half, it's two hours you get isn't it? 
+*NIN:	Mm. 
+*CLA:	It could be right. Yes. It is right in fact. 
+*NIN:	So we're okay? 
+*CLA:	Yeah we're okay, if you want to. I, we can 
+*NIN:	Er ooh 
+*CLA:	Hang on, hang on, hang on.  (.) I can run the car round the other side of the car park. 
+*NIN:	Yeah. 
+*CLA:	 ((laughing)) So it's less to walk .  (.) And walk from there. 
+*NIN:	Well that's a good idea. 
+*CLA:	Why not? 
+*NIN:	Er I thought we were going to  (.)  
+*CLA:	Well   (.) somewhere else   (  ) High Street.  (  ) Hang on. (.)  
+*NIN:	 (  ) 
+*CLA:	Pardon? 
+*NIN:	 (  ) 
+*CLA:	Where will I go in there? (.)  
+*NIN:	Well erm 
+*CLA:	Well you want to go to this other car park for   (.) Boots don't you? 
+*NIN:	Mm. 
+*CLA:	Yeah. 
+*NIN:	Yeah.  (.) And we've got how long?  (.) Three thirty 
+*CLA:	Oh you're alright. 
+*NIN:	So we've got another hour? 
+*CLA:	Yeah, it's two hours. 
+*NIN:	 (  ) 
+*CLA:	 (  ) There we are. (.)  
+*NIN:	Are you staying here? 
+*CLA:	Oh yes   ((laughing)) I haven't got the strength   (  ) .  It's not my idea of a   
+*NIN:	 Then are we going to the  pa  wallpaper shop? 
+*CLA:	Yes. High Street, yes. 
+*NIN:	Oh okay. Okay well there's no need to lock up    (  )  . 
+*CLA:	 No. No no.  No need to lock up. (.)  
 @End

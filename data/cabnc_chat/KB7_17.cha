@@ -1,16 +1,16 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-11-29:  
 @Location:	  pub  
-@Situation:	  drinking, chatting, playing crib  
-@Media: 021A-C0897X0185XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	  drinking, chatting, playing crib   
+@Media:	021A-C0897X0185XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	STU Stuart partner
-@ID: eng|AudioBNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
+@Options:	CA
+@ID:	eng|AudioBNC|STU|33;|||||factory operative|partner|PS02H|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0185XX-AAZZP0.wav
 @Comment:	conversation #17 (Tape 018504)
-*STU:	The only reason I've beaten you this time is look at that   (.) sixteen    (        )  (.) Don't even know   (        ) four one for   (        ) are you? (.) Got a got a pair of twos there   (.) ee by heck! (.)  (        ) for four and a pair is six   (.) well I think I'll have   (        ) I'm afraid   (.) two eights, two o , two eights, two tens and then nine    (        )  (.) didn't ask for that   (.) but I had to throw a pair of twos away for that   (.) and go in   (.) there you go.
+*STU:	The only reason I've beaten you this time is look at that   (.) sixteen    (  )  (.) Don't even know   (  ) four one for   (  ) are you?  (.) Got a got a pair of twos there   (.) ee by heck! (.)  (  ) for four and a pair is six   (.) well I think I'll have   (  ) I'm afraid   (.) two eights, two o  , two eights, two tens and then nine    (  )  (.) didn't ask for that   (.) but I had to throw a pair of twos away for that   (.) and go in   (.) there you go. 
 @End

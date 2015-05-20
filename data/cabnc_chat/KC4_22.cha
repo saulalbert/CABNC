@@ -1,92 +1,92 @@
-@Begin
-@Font:  CAfont:13:0
 @UTF8
-@Languages:     eng
-@Options:	CA
+@Begin	
+@Font:	CAfont:13:0
+@Languages:	eng
 @Date:	1991-06-05:  
 @Location:	 The Lion Inn 
-@Situation:	Unspecified
-@Media: 021A-C0897X0066XX-AAZZP0.wav, audio 
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Situation:	Unspecified 
+@Media:	021A-C0897X0066XX-AAZZP0.wav, audio 
+@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Participants:	UNK Unknown Unknown  , FRE Fred self
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|FRE|~78;| |m|Ag5| |retired||PS1E4|
+@Options:	CA
+@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
+@ID:	eng|AudioBNC|FRE|78;|||||retired||PS1E4|
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0066XX-AAZZP0.wav
 @Comment:	conversation #22 (Tape 006608)
-*FRE:	Now Kathleen, that has got to be yours, it's got to be, er, innit?
-*NON:	Thank you.
-*FRE:	And that's mine, and that's mine, and, no, no, would you like, would you like a drop of this in that, in that?
-*NON:	 (        ) 
-*FRE:	Now would you like me to put some of this, that in there?It'll do your bloody Guinness a world of good, do you want some?
-*NON:	 (        ) 
-*FRE:	This is  (        ) .No.There you are Kath, now try that.
-*NON:	 (        ) 
-*FRE:	It must be absolutely gorgeous, and cheers to you my darling.
-*NON:	Cor bloody hell, what is  (        ) ?
-*FRE:	Ah?
-*NON:	What  (        ) ?
-*FRE:	 (        ) , don't you like it?
-*NON:	I  (        ) .
-*FRE:	I   (        ) give me some  (        ) .
-*NON:	 (        ) 
-*FRE:	 ((laugh))  (.) You haven't seen Alexander for a long time, have you?
-*NON:	No.
-*FRE:	Mm, see him now, he's about, well no no, not as tall as me, but built like a brick shithouse   ((laugh)) and he brought forward, brought forward for his rugby team, you know, and he's erm, oh bloody hell, yes   ((fruit machine))oh yeah, he's very good at javelin, the old javelin, sorry.
-*NON:	Can you give me a packet of the  (        ) ?
-*FRE:	Eh can I what?Come on, come on, what, what do you want?
-*NON:	I don't know, if they do erm no, those chili things.
-*FRE:	What chili things? ((music))I haven't got the faintest bloody idea what you're talking about.Chili con carne?
-*NON:	No.
-*FRE:	What? ((music))
-*NON:	Oh  (        ) .
-*FRE:	No, what, what do you want Kath, come on?
-*NON:	A bag of crisps, called erm  (        ) .
-*FRE:	Crisps, yeah, come on.
-*NON:	Called erm, chili flavour.
-*FRE:	Chili flavoured crisps. ((music))Bloody hell, are they now, what do I go and ask for?Chili flavoured crisps?
-*NON:	You use to get these  (        ) 
-*FRE:	Not McCoys?McCoys, McCoys chili flavoured oh bloody hell 
-*NON:	 (        ) 
-*FRE:	McCoys are the finest crisp you can get, shut up.
-*NON:	 (        ) 
-*FRE:	Well I'll, I'll go and see if they've got some.Hang on, hang on
-*FRE:	Eh   (.) shh, come here, have you got any McCoys crisps?
-*NON:	Ah yeah, I'll just have a look for you.
-*FRE:	 ((laugh)) Eh, you got any McCoys, (        ) ?
-*NON:	I'll have to serve these people.
-*FRE:	Oh no, alright, you, no, no, O K, go on.
-*NON:	They're known as McCoys, they're Branagan crisp, or K P ones.
-*FRE:	Branagan?
-*NON:	Yeah.
-*FRE:	She wants some that got bloody erm
-*NON:	Who's this Kath again?
-*FRE:	Yeah, yeah.
-*NON:	Tell her we've got cheese and chives and beef and mustard in Branagan, O K?
-*FRE:	You give me cheese and bloody chives, go on, well if she doesn't like them, she can, she can eh, yeah, you know, you know what she can do?I'll tell you, give me two of them.
-*NON:	Thirty four, you want one?
-*FRE:	Well I don't know, I, I, you know, I'll try anything once.
-*NON:	So did I.
+*FRE:	Now Kathleen, that has got to be yours, it's got to be, er, innit? 
+*NON:	Thank you. 
+*FRE:	And that's mine, and that's mine, and, no, no, would you like, would you like a drop of this in that, in  that? 
+*NON:	  (  )  
+*FRE:	Now would you like me to put some of this, that in there? It'll do your bloody Guinness a world of good, do you want some? 
+*NON:	 (  ) 
+*FRE:	This is  (  ) . No. There you are Kath, now try that. 
+*NON:	 (  ) 
+*FRE:	It must be absolutely gorgeous, and cheers to you my darling. 
+*NON:	Cor bloody hell, what is  (  ) ? 
+*FRE:	Ah? 
+*NON:	What  (  ) ? 
+*FRE:	 (  ) , don't you like it? 
+*NON:	I  (  ) . 
+*FRE:	I   (  ) give me some  (  ) . 
+*NON:	 (  ) 
+*FRE:	 ((laugh))  (.) You haven't seen Alexander for a long time, have you? 
+*NON:	No. 
+*FRE:	Mm, see him now, he's about, well no no, not as tall as me, but built like a brick shithouse   ((laugh)) and he brought forward, brought forward for his rugby team, you know, and he's erm, oh bloody hell, yes   ((fruit machine))oh yeah, he's very good at javelin, the old javelin, sorry. 
+*NON:	Can you give me a packet of the  (  ) ? 
+*FRE:	Eh can I what? Come on, come on, what, what do you want? 
+*NON:	I don't know, if they do erm no, those chili things. 
+*FRE:	What chili things?  ((music))I haven't got the faintest bloody idea what you're talking about. Chili con carne? 
+*NON:	No. 
+*FRE:	What? ((music)) 
+*NON:	Oh  (  ) . 
+*FRE:	No, what, what do you want Kath, come on? 
+*NON:	A bag of crisps, called erm  (  ) . 
+*FRE:	Crisps, yeah, come on. 
+*NON:	Called erm, chili flavour. 
+*FRE:	Chili flavoured crisps.  ((music))Bloody hell, are they now, what do I go and ask for? Chili flavoured crisps? 
+*NON:	You use to get these  (  )  
+*FRE:	Not McCoys? McCoys, McCoys  chili flavoured oh bloody hell   
+*NON:	  (  )  
+*FRE:	McCoys are the finest crisp you can get, shut up. 
+*NON:	 (  ) 
+*FRE:	Well I'll, I'll go and see if they've got some. Hang on, hang on 
+*FRE:	Eh   (.) shh, come here, have you got any McCoys crisps? 
+*NON:	Ah yeah, I'll just have a look for you. 
+*FRE:	 ((laugh)) Eh, you got any McCoys, (  ) ? 
+*NON:	I'll have to serve these people. 
+*FRE:	Oh no, alright, you, no, no, O K, go on. 
+*NON:	They're known as McCoys, they're Branagan crisp, or K P ones. 
+*FRE:	Branagan? 
+*NON:	Yeah. 
+*FRE:	She wants some that got bloody erm 
+*NON:	Who's this Kath again? 
+*FRE:	Yeah, yeah. 
+*NON:	Tell her we've got cheese and chives and beef and mustard in Branagan, O K? 
+*FRE:	You give me cheese and bloody chives, go on, well if she doesn't like them, she can, she can eh, yeah, you know, you know what she can do? I'll tell you, give me two of them. 
+*NON:	Thirty four, you want one? 
+*FRE:	Well I don't know, I, I, you know, I'll try anything once. 
+*NON:	So did I. 
 *FRE:	 ((laugh)) 
-*NON:	Sixty eight then, please.
-*FRE:	Eh?
-*NON:	Sixty eight.
-*FRE:	Branagan, she couldn't remember the bloody name could she?She couldn't remember the name could she?No. ((laugh)) Alright?
-*UNK:	How are you?
-*FRE:	Fine, I'm better than I deserve to be.
-*UNK:	Yeah. ((laugh)) 
-*FRE:	And, I   (        ) that one, I'll tell you what, you know, ooh god, no, yes, yes, leave it at that, I better than I'd deserve to be.
-*FRE:	Kathleen, bloody Branagan's, here are, there you are, that's what you want. ((music))That's alright isn't it?That's it, that's the one you want Branagan's.
-*NON:	Well don't they sell those other things now then?
-*FRE:	Well I don't know, I said, no, no, we've got these now.
-*NON:	McCoys, McCoys.
-*FRE:	No they haven't got any McCoys, no.
-*NON:	Mm, what are these then?
-*FRE:	You've got bloody Branagan's  (        ) .
-*NON:	Bloody hell, cream cheese and chives.
+*NON:	Sixty eight then, please. 
+*FRE:	Eh? 
+*NON:	Sixty eight. 
+*FRE:	Branagan, she couldn't remember the bloody name could she? She couldn't remember the name could she? No.  ((laugh)) Alright? 
+*UNK:	How are you? 
+*FRE:	Fine, I'm better than I deserve to be. 
+*UNK:	Yeah. ((laugh))  
+*FRE:	And, I   (  ) that one, I'll tell you what, you know, ooh god, no, yes, yes, leave it at that, I better than I'd deserve to be. 
+*FRE:	Kathleen, bloody Branagan's, here are, there you are, that's what you want.  ((music))That's alright isn't it? That's it, that's the one you want Branagan's. 
+*NON:	Well don't they sell those other things now then? 
+*FRE:	Well I don't know, I said, no, no, we've got these now. 
+*NON:	McCoys, McCoys. 
+*FRE:	No they haven't got any McCoys, no. 
+*NON:	Mm, what are these then? 
+*FRE:	You've got bloody Branagan's  (  ) . 
+*NON:	Bloody hell, cream cheese and chives. 
 *FRE:	 ((laugh)) 
-*NON:	 (        )  ((music))What've you got?
-*FRE:	Hey they're not bad actually.
-*NON:	 (        ) cream cheese and chives   (        ) flavour.
-*FRE:	Mm.
-*NON:	 (        ) 
+*NON:	 (  )  ((music))What've you got? 
+*FRE:	Hey they're not bad actually. 
+*NON:	 (  ) cream cheese and chives   (  ) flavour. 
+*FRE:	Mm. 
+*NON:	 (  ) 
 @End

@@ -1,26 +1,26 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 Croquet club 
-@Situation:	 playing croquet  
-@Media:	021A-C0897X0027XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, DAV David neighbour
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|DAV|45;|||||property manager|neighbour|PS107|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|DAV|~45;| |m|Ag4| |property manager|neighbour|PS107|
+@Media: 021A-C0897X0027XX-ABZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	 playing croquet 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Croquet club 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0027XX-ABZZP0.wav
 @Comment:	conversation #171 (Tape 002719)
-*DAV:	I think you've got to move the yellow near one of my hoops. 
-*CHR:	Right. 
-*DAV:	 (  ) 
-*CHR:	Now that's your next hoop isn't it? 
-*DAV:	Yes. (  )  
-*CHR:	I am, I am indeed, yes, yes, I   (.) I've got to deal with it some way, somehow. 
-*DAV:	 (  ) 
-*CHR:	Move yellow onto red. 
-*DAV:	 (  ) 
-*CHR:	Yes, yes, O K. 
+*DAV:	I think you've got to move the yellow near one of my hoops.
+*CHR:	Right.
+*DAV:	 (        ) 
+*CHR:	Now that's your next hoop isn't it?
+*DAV:	Yes. (        ) 
+*CHR:	I am, I am indeed, yes, yes, I   (.) I've got to deal with it some way, somehow.
+*DAV:	 (        ) 
+*CHR:	Move yellow onto red.
+*DAV:	 (        ) 
+*CHR:	Yes, yes, O K.
 @End

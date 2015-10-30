@@ -1,45 +1,45 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0028XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, SUS Susan employee
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|SUS|30;|||||cleaner|employee|PS103|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|SUS|~30;| |f|Ag2| |cleaner|employee|PS103|
+@Media: 021A-C0897X0028XX-ABZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0028XX-ABZZP0.wav
 @Comment:	conversation #191 (Tape 002814)
-*CHR:	What do you expect to happen in the Tigers tonight? 
-*SUS:	Nothing. 
-*CHR:	Ah! What you and Sam thought you were going to be doing. 
-*SUS:	 (  ) 
-*SUS:	Some of his friends coming as well. 
-*CHR:	Are they? 
-*SUS:	Supposed to have a chat you know. 
-*CHR:	Yes. 
-*SUS:	I haven't seen any of them for ages. I haven't even seen Bret since   (  ) I was a bit drunk  (  )  
-*CHR:	Well don't get too drunk tonight please. 
-*SUS:	All right  
-*CHR:	Whose eighteenth birthday is this? Debbie's? So you still haven't sent the invitations out eh? 
-*SUS:	 (  ) don't worry about it. 
-*CHR:	Take them with you, won't you? 
-*SUS:	Yes. 
-*CHR:	 ((cough)) Has Mum told you that we're going out for a Chinese? 
-*SUS:	Mmm. To   's. 
-*CHR:	Fancy coming? 
-*SUS:	 (  ) Bring me back some prawn balls. 
-*CHR:	You don't get prawn balls in   's my dear 
-*SUS:	What? 
-*CHR:	You do not get prawn balls in   's. You get much superior   (.) Good heavens! 
-*SUS:	I thought it was prawn 
-*CHR:	What's that? 
-*SUS:	 (  ) 
-*CHR:	Who? 
-*SUS:	 (  ) 
-*CHR:	Good. Right we shall be off very shortly. 
-*SUS:	Alright. 
+*CHR:	What do you expect to happen in the Tigers tonight?
+*SUS:	Nothing.
+*CHR:	Ah!What you and Sam thought you were going to be doing.
+*SUS:	 (        ) 
+*SUS:	Some of his friends coming as well.
+*CHR:	Are they?
+*SUS:	Supposed to have a chat you know.
+*CHR:	Yes.
+*SUS:	I haven't seen any of them for ages.I haven't even seen Bret since   (        ) I was a bit drunk  (        ) 
+*CHR:	Well don't get too drunk tonight please.
+*SUS:	All right 
+*CHR:	Whose eighteenth birthday is this?Debbie's?So you still haven't sent the invitations out eh?
+*SUS:	 (        ) don't worry about it.
+*CHR:	Take them with you, won't you?
+*SUS:	Yes.
+*CHR:	 ((cough)) Has Mum told you that we're going out for a Chinese?
+*SUS:	Mmm.To  's.
+*CHR:	Fancy coming?
+*SUS:	 (        ) Bring me back some prawn balls.
+*CHR:	You don't get prawn balls in  's my dear
+*SUS:	What?
+*CHR:	You do not get prawn balls in  's.You get much superior   (.) Good heavens!
+*SUS:	I thought it was prawn
+*CHR:	What's that?
+*SUS:	 (        ) 
+*CHR:	Who?
+*SUS:	 (        ) 
+*CHR:	Good.Right we shall be off very shortly.
+*SUS:	Alright.
 @End

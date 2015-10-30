@@ -1,23 +1,23 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 Home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0026XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, NOR Norrine wife
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Media: 021A-C0897X0026XX-AAZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0026XX-AAZZP0.wav
 @Comment:	conversation #134 (Tape 002603)
-*CHR:	We've just had half an hour in Jubilee park, extremely brisk walk, I feel ext   (.) jolly toasty now. How was your outing? 
-*NOR:	Oh. 
-*CHR:	Good looking buds on there aren't they? 
-*NOR:	I do miss   (  ) that pole sticking up there  (  ) . 
-*CHR:	Don't worry about it. 
-*NOR:	 (  ) not quite right, but if I go   (  ) it'll break back off. (  )  
-*CHR:	A well exercised beast there I think. 
+*CHR:	We've just had half an hour in Jubilee park, extremely brisk walk, I feel ext  (.) jolly toasty now.How was your outing?
+*NOR:	Oh.
+*CHR:	Good looking buds on there aren't they?
+*NOR:	I do miss   (        ) that pole sticking up there  (        ) .
+*CHR:	Don't worry about it.
+*NOR:	 (        ) not quite right, but if I go   (        ) it'll break back off. (        ) 
+*CHR:	A well exercised beast there I think.
 @End

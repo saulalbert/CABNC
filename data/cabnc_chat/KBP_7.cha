@@ -1,26 +1,26 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-03-18:  
-@Location:	 home 
-@Situation:	 chatting before decorating  
-@Media:	021A-C0897X0266XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , CLA Clarence self, NIN Nina wife
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
-@ID:	eng|AudioBNC|CLA|65;|||||retired||PS065|
-@ID:	eng|AudioBNC|NIN|67;|||||retired|wife|PS066|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|AudioBNC|CLA|~65;| |m|Ag5| |retired||PS065|
+@ID: eng|AudioBNC|NIN|~67;| |f|Ag5| |retired|wife|PS066|
+@Media: 021A-C0897X0266XX-AAZZP0.wav, audio 		
+@Date:	1992-03-18:  
+@Situation:	 chatting before decorating 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0266XX-AAZZP0.wav
 @Comment:	conversation #7 (Tape 026601)
 *NIN:	 ((laugh)) 
-*CLA:	Mm. Depends how desperate the need is. 
-*NIN:	 (  )  (.) Have you finished with this  (  ) ? 
-*CLA:	Yes thank you. 
-*NIN:	 ((laughing)) They'll think we're always blooming eating . 
+*CLA:	Mm.Depends how desperate the need is.
+*NIN:	 (        )  (.) Have you finished with this  (        ) ?
+*CLA:	Yes thank you.
+*NIN:	 [laughing] They'll think we're always blooming eating  [] .
 *UNK:	 ((laugh)) 
-*CLA:	 (  ) puddings. 
-*NIN:	 ((laugh)) Oh dear. 
-*CLA:	Well let's face it   (  ) Mm. 
+*CLA:	 (        ) puddings.
+*NIN:	 ((laugh)) Oh dear.
+*CLA:	Well let's face it   (        ) Mm.
 @End

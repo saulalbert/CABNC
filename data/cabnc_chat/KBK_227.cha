@@ -1,23 +1,23 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0030XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, NOR Norrine wife
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Media: 021A-C0897X0030XX-AAZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0030XX-AAZZP0.wav
 @Comment:	conversation #228 (Tape 003012)
-*NOR:	I didn't know the Ethiopians had an imperial family, I suppose it was Haile Selassie's relatives is it? 
-*CHR:	Mhm   (.) that's right    ((yawn))  (10.0) yes some of the women were locked up for fifteen years. 
-*NOR:	Really    (.)  (  ) do to you. 
-*CHR:	  ((yawn))  
-*NOR:	 Some  kind of brain. 
-*CHR:	Not enough of it is the conclusion there. 
-*NOR:	 (  ) 
+*NOR:	I didn't know the Ethiopians had an imperial family, I suppose it was Haile Selassie's relatives is it?
+*CHR:	Mhm   (.) that's right    ((yawn))  (.) yes some of the women were locked up for fifteen years.
+*NOR:	Really    (.)  (        ) do to you.
+*CHR:	 ((yawn)) 
+*NOR:	Some kind of brain.
+*CHR:	Not enough of it is the conclusion there.
+*NOR:	 (        ) 
 @End

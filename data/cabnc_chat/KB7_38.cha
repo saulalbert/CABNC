@@ -1,25 +1,25 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-12-03:  
-@Location:	  home  
-@Situation:	Unspecified 
-@Media:	021A-C0897X0189XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	ANN Ann self, STU Stuart partner
 @Options:	CA
-@ID:	eng|AudioBNC|ANN|46;|||||team leader||PS02G|
-@ID:	eng|AudioBNC|STU|33;|||||factory operative|partner|PS02H|
+@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
+@ID: eng|AudioBNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
+@Media: 021A-C0897X0189XX-AAZZP0.wav, audio 		
+@Date:	1991-12-03:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0189XX-AAZZP0.wav
 @Comment:	conversation #38 (Tape 018906)
-*STU:	 ((shouting)) Hey Ann ! 
-*ANN:	What? 
-*STU:	Did you read your stars today? 
-*ANN:	No. 
-*STU:	You didn't? 
-*ANN:	What's it say? 
-*STU:	 ((reading+shouting)) Saturn your ruler is in exceptionally   (  ) mood now   (.) so it is likely that you will have to put up with rather spartan conditions   (.) but you know how much is at stake for the future so you are happy to do without    (.)  ((laugh))  
-*ANN:	That was  (  ) . 
-*STU:	How about that darling? 
+*STU:	 [shouting] Hey Ann  [] !
+*ANN:	What?
+*STU:	Did you read your stars today?
+*ANN:	No.
+*STU:	You didn't?
+*ANN:	What's it say?
+*STU:	 [reading+shouting] Saturn your ruler is in exceptionally   (        ) mood now   (.) so it is likely that you will have to put up with rather spartan conditions   (.) but you know how much is at stake for the future so you are happy to do without    []  (.)  ((laugh)) 
+*ANN:	That was  (        ) .
+*STU:	How about that darling?
 @End

@@ -1,62 +1,62 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-02-21:  
-@Location:	 at home 
-@Situation:	 cooking  
-@Media:	021A-C0897X0403XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , CHE Cherrilyn self, JES Jessica daughter, BRI Brian husband
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
-@ID:	eng|AudioBNC|CHE|43;|||||nursing auxiliary||PS06A|
-@ID:	eng|AudioBNC|JES|13;|||||student (state secondary)|daughter|PS06B|
-@ID:	eng|AudioBNC|BRI|43;|||||mortgage broker|husband|PS06F|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|AudioBNC|CHE|~43;| |f|Ag3| |nursing auxiliary||PS06A|
+@ID: eng|AudioBNC|JES|~13;| |f|Ag0| |student (state secondary)|daughter|PS06B|
+@ID: eng|AudioBNC|BRI|~43;| |m|Ag3| |mortgage broker|husband|PS06F|
+@Media: 021A-C0897X0403XX-ABZZP0.wav, audio 		
+@Date:	1992-02-21:  
+@Situation:	 cooking 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 at home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0403XX-ABZZP0.wav
 @Comment:	conversation #5 (Tape 040309)
-*UNK:	You've got to go cross country running today? 
-*JES:	Mm 
-*BRI:	What? (.)  
-*CHE:	she's got to go running this morning 
-*BRI:	oh no 
-*UNK:	 (  ) 
-*BRI:	oh god 
-*UNK:	 (  ) 
-*BRI:	why? 
-*JES:	I'm not doing it 
-*CHE:	Yes you are 
-*BRI:	got to do it 
-*JES:	I'll walk it, its the last one 
-*UNK:	 (  ) 
-*CHE:	why don't you just get the  crisps and   
-*JES:	 the whole school  doing it 
-*CHE:	banana and, do you want all this stuff? 
-*BRI:	I thought she was having a school lunch 
-*CHE:	well I mean if its, if its there 
-*BRI:	alright give it to Jessica 
-*CHE:	oh, I, I need fifty P in change though for her, I just haven't got the change, to do with 
-*JES:	I'll take it out of my pound then 
-*CHE:	when? 
-*JES:	when you came back with my 
-*UNK:	 (  ) 
-*CHE:	yeah, but then you'll only have fifty P for lunch  and that's not enough   
-*JES:	 no    (.) you give me a pound for my lunch out of there 
-*CHE:	that's it 
-*JES:	I know what, I'll swop that for a pound coin, yeah, and you give me back the pound coin and plus that fifty P, yeah? 
-*CHE:	well it, if you  have got a pound   
-*BRI:	 are you picking Jessica   
-*JES:	 yeah   
-*BRI:	will you pick Jessica up today? 
-*CHE:	no, I start at half past three 
-*BRI:	oh do you? 
-*CHE:	mm  (.)  
-*UNK:	 (  ) 
-*JES:	I think so 
-*CHE:	why did you take it?, its mummy's  (.)  
-*UNK:	 (  ) 
-*CHE:	I didn't realise its all gone, so 
-*JES:	ah, yeah the 
-*UNK:	 (  ) 
-*JES:	tape, its half of it  (.)  
+*UNK:	You've got to go cross country running today?
+*JES:	Mm
+*BRI:	What? (.) 
+*CHE:	she's got to go running this morning
+*BRI:	oh no
+*UNK:	 (        ) 
+*BRI:	oh god
+*UNK:	 (        ) 
+*BRI:	why?
+*JES:	I'm not doing it
+*CHE:	Yes you are
+*BRI:	got to do it
+*JES:	I'll walk it, its the last one
+*UNK:	 (        ) 
+*CHE:	why don't you just get the crisps and 
+*JES:	the whole school doing it
+*CHE:	banana and, do you want all this stuff?
+*BRI:	I thought she was having a school lunch
+*CHE:	well I mean if its, if its there
+*BRI:	alright give it to Jessica
+*CHE:	oh, I, I need fifty P in change though for her, I just haven't got the change, to do with
+*JES:	I'll take it out of my pound then
+*CHE:	when?
+*JES:	when you came back with my
+*UNK:	 (        ) 
+*CHE:	yeah, but then you'll only have fifty P for lunch and that's not enough 
+*JES:	no   (.) you give me a pound for my lunch out of there
+*CHE:	that's it
+*JES:	I know what, I'll swop that for a pound coin, yeah, and you give me back the pound coin and plus that fifty P, yeah?
+*CHE:	well it, if you have got a pound 
+*BRI:	are you picking Jessica 
+*JES:	yeah 
+*BRI:	will you pick Jessica up today?
+*CHE:	no, I start at half past three
+*BRI:	oh do you?
+*CHE:	mm  (.) 
+*UNK:	 (        ) 
+*JES:	I think so
+*CHE:	why did you take it?, its mummy's  (.) 
+*UNK:	 (        ) 
+*CHE:	I didn't realise its all gone, so
+*JES:	ah, yeah the
+*UNK:	 (        ) 
+*JES:	tape, its half of it  (.) 
 @End

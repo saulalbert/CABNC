@@ -1,47 +1,47 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-12-01:  
-@Location:	  Home  
-@Situation:	Unspecified 
-@Media:	021A-C0897X0091XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	BET Betty self, JUL Julie friend, SAL Sally daughter
 @Options:	CA
-@ID:	eng|AudioBNC|BET|57;|||||housewife||PS04B|
-@ID:	eng|AudioBNC|JUL|25;|||||production worker|friend|PS04F|
-@ID:	eng|AudioBNC|SAL|23;|||||production worker|daughter|PS04H|
+@ID: eng|AudioBNC|BET|~57;| |f|Ag4| |housewife||PS04B|
+@ID: eng|AudioBNC|JUL|~25;| |f|Ag2| |production worker|friend|PS04F|
+@ID: eng|AudioBNC|SAL|~23;| |f|Ag1| |production worker|daughter|PS04H|
+@Media: 021A-C0897X0091XX-ABZZP0.wav, audio 		
+@Date:	1991-12-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  Home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0091XX-ABZZP0.wav
 @Comment:	conversation #8 (Tape 009108)
-*JUL:	Into Neighbours again? 
-*BET:	 (  ) bank  (  ) . I'm not allowed to touch it. 
-*SAL:	Why? 
-*BET:	Because someone in America is vegetarian. 
-*SAL:	Yeah? 
-*BET:	And when that girl becomes vegetarian mix about and the other one   (  ) she's vegetarian still and she said she's not coming back in this house. She said it's nonsense. 
-*SAL:	It's good for them though. 
-*BET:	 (  ) 
-*SAL:	Yeah but what they've what they've done   (  ) but what one wants to do is not   (  ) is not bad for them one little bit. It's good for them. 
-*JUL:	That's like what's her name down the   (  ) down there. She's vegetarian three months ago er three years ago. But they worked out in three years she's put on seven stone because she eats  (  ) . She eats loads and loads and loads of cheese.  She buys four pounds of cheese a week. (  )   
-*BET:	  (  )  
-*SAL:	And she eats a load of cheese  (  )  
-*JUL:	Yeah but   (.) if she was proper vegetarian she wouldn't eat cheese. 
-*SAL:	Well if she was a vegan she wouldn't eat cheese. She can't eat cheese if you're a vegan. 
-*BET:	That's what James is. 
-*JUL:	 He's a prat   
-*SAL:	 You can't eat no animal  fat at all  
-*BET:	Yeah  (  )  
-*SAL:	 ((sneeze)) You've got the sou  I reckon you've still got to have er get your protein. 
-*BET:	Mm. Yes. 
-*JUL:	Yeah but she Karen   (  ) won't eat chicken. 
-*SAL:	Chicken and fish. 
-*BET:	 (  ) and fish  (  ) . 
-*SAL:	It's the only stuff they'll eat. No meat at all chicken and er fish  (  ) . 
-*JUL:	Do you know the reason why it's not? (  )  
-*JUL:	It's to do with red meat it's blood isn't it? Blood's red. 
-*BET:	That's right isn't it? 
-*JUL:	You can't you can't see no blood in chicken you can't see no blood in fish. 
-*BET:	No. 
-*JUL:	They've got this little thing in their head if it's not got blood in it no red blood they can eat it. 
+*JUL:	Into Neighbours again?
+*BET:	 (        ) bank  (        ) .I'm not allowed to touch it.
+*SAL:	Why?
+*BET:	Because someone in America is vegetarian.
+*SAL:	Yeah?
+*BET:	And when that girl becomes vegetarian mix about and the other one   (        ) she's vegetarian still and she said she's not coming back in this house.She said it's nonsense.
+*SAL:	It's good for them though.
+*BET:	 (        ) 
+*SAL:	Yeah but what they've what they've done   (        ) but what one wants to do is not   (        ) is not bad for them one little bit.It's good for them.
+*JUL:	That's like what's her name down the   (        ) down there.She's vegetarian three months ago er three years ago.But they worked out in three years she's put on seven stone because she eats  (        ) .She eats loads and loads and loads of cheese.She buys four pounds of cheese a week. (        ) 
+*BET:	 (        ) 
+*SAL:	And she eats a load of cheese  (        ) 
+*JUL:	Yeah but   (.) if she was proper vegetarian she wouldn't eat cheese.
+*SAL:	Well if she was a vegan she wouldn't eat cheese.She can't eat cheese if you're a vegan.
+*BET:	That's what James is.
+*JUL:	He's a prat 
+*SAL:	You can't eat no animal fat at all 
+*BET:	Yeah  (        ) 
+*SAL:	 ((sneeze)) You've got the sou I reckon you've still got to have er get your protein.
+*BET:	Mm.Yes.
+*JUL:	Yeah but she Karen   (        ) won't eat chicken.
+*SAL:	Chicken and fish.
+*BET:	 (        ) and fish  (        ) .
+*SAL:	It's the only stuff they'll eat.No meat at all chicken and er fish  (        ) .
+*JUL:	Do you know the reason why it's not? (        ) 
+*JUL:	It's to do with red meat it's blood isn't it?Blood's red.
+*BET:	That's right isn't it?
+*JUL:	You can't you can't see no blood in chicken you can't see no blood in fish.
+*BET:	No.
+*JUL:	They've got this little thing in their head if it's not got blood in it no red blood they can eat it.
 @End

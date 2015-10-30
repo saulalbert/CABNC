@@ -1,31 +1,31 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 Home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0026XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, NOR Norrine wife
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Media: 021A-C0897X0026XX-AAZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0026XX-AAZZP0.wav
 @Comment:	conversation #141 (Tape 002611)
-*CHR:	Are you going to do a proper Dennis? Come on. Does she actually sit  up for Dennis? 
-*NOR:	 You'll   (  )  , you'll have to say sit. 
-*CHR:	Sit. Emma, sit. Now come on, never   
-*NOR:	 Sit   
-*CHR:	mind the food. 
-*NOR:	sit, good girl. 
-*CHR:	Sit. Right, good dog. 
-*NOR:	Can you, can you do it  (  ) . 
-*CHR:	Oh really. 
-*NOR:	 (  ) all day  (  )  
-*CHR:	Oh, I see. 
-*NOR:	She's had   (  ) that's enough, she doesn't need  (  ) . 
-*CHR:	One last one, there you are dear, that's a good dog. 
-*NOR:	Dennis makes her sit and then   (  ) it in, snapping at your fingers. You're very good at it aren't you stinky? Quarter to two is it? (  ) coming at two or are you  (  ) ? 
-*CHR:	He said two, he'll call for me. 
+*CHR:	Are you going to do a proper Dennis?Come on.Does she actually sit up for Dennis?
+*NOR:	You'll   (        ) , you'll have to say sit.
+*CHR:	Sit.Emma, sit.Now come on, never 
+*NOR:	Sit 
+*CHR:	mind the food.
+*NOR:	sit, good girl.
+*CHR:	Sit.Right, good dog.
+*NOR:	Can you, can you do it  (        ) .
+*CHR:	Oh really.
+*NOR:	 (        ) all day  (        ) 
+*CHR:	Oh, I see.
+*NOR:	She's had   (        ) that's enough, she doesn't need  (        ) .
+*CHR:	One last one, there you are dear, that's a good dog.
+*NOR:	Dennis makes her sit and then   (        ) it in, snapping at your fingers.You're very good at it aren't you stinky?Quarter to two is it? (        ) coming at two or are you  (        ) ?
+*CHR:	He said two, he'll call for me.
 @End

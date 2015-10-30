@@ -1,37 +1,37 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-01-11:  
-@Location:	 mother-in-law's home 
-@Situation:	 visiting  
-@Media:	021A-C0897X0536XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HAZ Hazel self, CER Cerys daughter, MAR Marie mother-in-law
 @Options:	CA
-@ID:	eng|AudioBNC|HAZ|39;|||||vdu clerk (pt)||PS0F5|
-@ID:	eng|AudioBNC|CER|7;|||||schoolgirl (state primary)|daughter|PS0F6|
-@ID:	eng|AudioBNC|MAR|66;|||||housewife|mother-in-law|PS0F7|
+@ID: eng|AudioBNC|HAZ|~39;| |f|Ag3| |vdu clerk (pt)||PS0F5|
+@ID: eng|AudioBNC|CER|~7;| |f|Ag0| |schoolgirl (state primary)|daughter|PS0F6|
+@ID: eng|AudioBNC|MAR|~66;| |f|Ag5| |housewife|mother-in-law|PS0F7|
+@Media: 021A-C0897X0536XX-ABZZP0.wav, audio 		
+@Date:	1992-01-11:  
+@Situation:	 visiting 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 mother-in-law's home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0536XX-ABZZP0.wav
 @Comment:	conversation #1 (Tape 053602)
-*HAZ:	Have you tried it?  (.) No have you tried it? 
-*CER:	Yeah.  (.) I can't even    (  )  (.) The doorbell's not working. 
-*HAZ:	Push it hard. (.)  
-*CER:	I can't hear it. (.)  
-*HAZ:	Push it  (.)  
-*CER:	Oh it's gone. 
-*HAZ:	Yeah, you've gotta push in the middle. Go on push it hard.  (9.0)  (  )  (8.0)  ((dog barking))Ah. 
-*MAR:	 (  ) 
-*CER:	Hi   (  )  (.)  
-*MAR:	 (  ) ? 
-*CER:	Yeah. 
-*MAR:	 (  ) 
-*HAZ:	We've been to   (  ) haven't we? 
-*MAR:	Have you? ((laugh))  (  )   (  )   
-*CER:	 We went to  the crossing  (  )  
-*MAR:	I went up to the car park and across    (  )   
-*CER:	  (  )   (  ) 
-*MAR:	 (  ) 
-*CER:	 (  ) 
-*MAR:	That's handy  (  )  
+*HAZ:	Have you tried it? (.) No have you tried it?
+*CER:	Yeah. (.) I can't even    (        )  (.) The doorbell's not working.
+*HAZ:	Push it hard. (.) 
+*CER:	I can't hear it. (.) 
+*HAZ:	Push it  (.) 
+*CER:	Oh it's gone.
+*HAZ:	Yeah, you've gotta push in the middle.Go on push it hard. (.)  (        )  (.)  ((dog barking))Ah.
+*MAR:	 (        ) 
+*CER:	Hi   (        )  (.) 
+*MAR:	 (        ) ?
+*CER:	Yeah.
+*MAR:	 (        ) 
+*HAZ:	We've been to   (        ) haven't we?
+*MAR:	Have you? ((laugh))  (        )  (        ) 
+*CER:	We went to the crossing  (        ) 
+*MAR:	I went up to the car park and across   (        ) 
+*CER:	 (        )  (        ) 
+*MAR:	 (        ) 
+*CER:	 (        ) 
+*MAR:	That's handy  (        ) 
 @End

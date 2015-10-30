@@ -1,64 +1,64 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-12-02:  
-@Location:	  out  
-@Situation:	  in doctor's surgery   
-@Media:	021A-C0897X0188XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , ANN Ann self, STU Stuart partner
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|ANN|46;|||||team leader||PS02G|
-@ID:	eng|AudioBNC|STU|33;|||||factory operative|partner|PS02H|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
+@ID: eng|AudioBNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
+@Media: 021A-C0897X0188XX-AAZZP0.wav, audio 		
+@Date:	1991-12-02:  
+@Situation:	  in doctor's surgery  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  out  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0188XX-AAZZP0.wav
 @Comment:	conversation #29 (Tape 018802)
-*ANN:	You've better make this appointment or they won't know her name   (  ) and 
-*STU:	Oh   (.)  (  )  
-*ANN:	Aye? (.)  (  )  
-*NON:	Okay? 
-*NON:	Fine, thank you. 
+*ANN:	You've better make this appointment or they won't know her name   (        ) and
+*STU:	Oh   (.)  (        ) 
+*ANN:	Aye? (.)  (        ) 
+*NON:	Okay?
+*NON:	Fine, thank you.
 *ANN:	 ((laugh)) 
-*STU:	Don't forget  (  )  
-*NON:	 ((laughing)) Yeah . 
-*NON:	Yes, thank you erm could you come before five o'clock, because of their staff  (  ) . 
-*STU:	Oh I'd like to make an appointment   (.) to see Doctor   please. 
-*NON:	 (  ) 
-*NON:	Oh good. 
-*NON:	Just got married you see, she hasn't changed her address. 
-*NON:	 She hasn't changed her address. 
-*NON:	 (  ) 
-*ANN:	We're together thank you. 
-*NON:	Thank you. 
-*STU:	Can I make an appointment  please? 
-*NON:	 Next  there's one on Wednesday morning, (  )  ((phone rings)) 
-*STU:	Er   (.)  okay. 
-*NON:	 Pass me the  erm   (.) yeah, (  )  
-*STU:	Right. 
-*NON:	 (  ) 
-*NON:	Ethel's just gone in there. 
-*NON:	No    (  )  (.) and er   (.) I checked with 
-*NON:	Hello Ruth 
-*NON:	 (  ) 
-*NON:	I wasn't  (  )  
-*NON:	Penny's  (  )  
-*NON:	Oh and I    (  )   
-*NON:	 you see  I put it there. 
-*STU:	There's a real panic now! 
+*STU:	Don't forget  (        ) 
+*NON:	 [laughing] Yeah  [] .
+*NON:	Yes, thank you erm could you come before five o'clock, because of their staff  (        ) .
+*STU:	Oh I'd like to make an appointment   (.) to see Doctor  please.
+*NON:	 (        ) 
+*NON:	Oh good.
+*NON:	Just got married you see, she hasn't changed her address.
+*NON:	She hasn't changed her address.
+*NON:	 (        ) 
+*ANN:	We're together thank you.
+*NON:	Thank you.
+*STU:	Can I make an appointment please?
+*NON:	Next there's one on Wednesday morning, (        )  ((phone rings))
+*STU:	Er   (.) okay.
+*NON:	Pass me the erm   (.) yeah, (        ) 
+*STU:	Right.
+*NON:	 (        ) 
+*NON:	Ethel's just gone in there.
+*NON:	No    (        )  (.) and er   (.) I checked with
+*NON:	Hello Ruth
+*NON:	 (        ) 
+*NON:	I wasn't  (        ) 
+*NON:	Penny's  (        ) 
+*NON:	Oh and I   (        ) 
+*NON:	you see I put it there.
+*STU:	There's a real panic now!
 *ANN:	 ((laugh)) 
-*STU:	 (  )  (.) here we go! 
-*NON:	Here 
-*STU:	Yeah   (.) fine. 
-*NON:	 (  )  (8.0) Did you have one last week? 
-*NON:	 (  )  (  ) 
-*NON:	Thanks   (.) ah   (  ) that one. 
-*NON:	Oh right, (  )  
-*NON:	Get him to come     (  )  (.)   (  )   
-*NON:	  (  )  
-*NON:	Sorry! 
-*NON:	He's not here at the moment    (  )   
-*NON:	  (  )  so tired they really ought to find out  (  )  
-*NON:	Mm. 
-*NON:	About nine o'clock, you'll need to bring about a quarter of a bag   (.)  (  )  
+*STU:	 (        )  (.) here we go!
+*NON:	Here
+*STU:	Yeah   (.) fine.
+*NON:	 (        )  (.) Did you have one last week?
+*NON:	 (        )  (        ) 
+*NON:	Thanks   (.) ah   (        ) that one.
+*NON:	Oh right, (        ) 
+*NON:	Get him to come     (        )  (.)  (        ) 
+*NON:	 (        ) 
+*NON:	Sorry!
+*NON:	He's not here at the moment   (        ) 
+*NON:	 (        ) so tired they really ought to find out  (        ) 
+*NON:	Mm.
+*NON:	About nine o'clock, you'll need to bring about a quarter of a bag   (.)  (        ) 
 @End

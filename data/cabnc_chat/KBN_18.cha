@@ -1,32 +1,33 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-03-15:  Unspecified 
-@Media:	021A-C0897X0279XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , CLA Clare self, MAR Marilyn mother
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
-@ID:	eng|AudioBNC|CLA|15;|||||student||PS05Y|
-@ID:	eng|AudioBNC|MAR|50;|||||housewife|mother|PS064|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|AudioBNC|CLA|~15;| |f|Ag1| |student||PS05Y|
+@ID: eng|AudioBNC|MAR|~50;| |f|Ag4| |housewife|mother|PS064|
+@Media: 021A-C0897X0279XX-AAZZP0.wav, audio 		
+@Date:	1992-03-15:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0279XX-AAZZP0.wav
 @Comment:	conversation #18 (Tape 027906)
-*CLA:	Probably, probably the best lager in the world   (.) that's what I feel like now, is, is there any cornflakes in the cupboard? 
-*UNK:	 (  )  (.) 
-*CLA:	Yeah   (.) I've got a toothache     (.)  ((laugh))  (.) hello 
-*UNK:	 (  ) 
-*CLA:	cease her   (6.0) give way     (.)  ((laugh))  (.) wow, ma   (6.0) what? 
-*MAR:	Don't talk   (.) oh I'm lazy 
-*UNK:	 (  ) 
-*MAR:	Oh, I'm watching this on telly now 
-*CLA:	Oh, no   (7.0) I'll probably 
-*UNK:	 (  )  (.) 
-*CLA:	I  (12.0)  
-*UNK:	 (  ) 
-*CLA:	today then   (.) mm 
-*UNK:	 (  )  (6.0) 
-*CLA:	Where'd you get that spray from? 
-*MAR:	Eh? 
-*UNK:	 (  ) 
+*CLA:	Probably, probably the best lager in the world   (.) that's what I feel like now, is, is there any cornflakes in the cupboard?
+*UNK:	 (        )  (.) 
+*CLA:	Yeah   (.) I've got a toothache     (.)  ((laugh))  (.) hello
+*UNK:	 (        ) 
+*CLA:	cease her   (.) give way     (.)  ((laugh))  (.) wow, ma   (.) what?
+*MAR:	Don't talk   (.) oh I'm lazy
+*UNK:	 (        ) 
+*MAR:	Oh, I'm watching this on telly now
+*CLA:	Oh, no   (.) I'll probably
+*UNK:	 (        )  (.) 
+*CLA:	I  (.) 
+*UNK:	 (        ) 
+*CLA:	today then   (.) mm
+*UNK:	 (        )  (.) 
+*CLA:	Where'd you get that spray from?
+*MAR:	Eh?
+*UNK:	 (        ) 
 @End

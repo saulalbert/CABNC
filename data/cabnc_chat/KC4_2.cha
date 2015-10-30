@@ -1,26 +1,26 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 Home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0064XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	FRE Fred self, UNK Unknown Unknown None ?
 @Options:	CA
-@ID:	eng|AudioBNC|FRE|78;|||||retired||PS1E4|
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS1E6|
+@ID: eng|AudioBNC|FRE|~78;| |m|Ag5| |retired||PS1E4|
+@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS1E6|
+@Media: 021A-C0897X0064XX-AAZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0064XX-AAZZP0.wav
 @Comment:	conversation #2 (Tape 006402)
-*FRE:	Ah how's the old prep going eh? 
-*NON:	Well I've finished it. 
-*FRE:	Oh you've finished it, oh good.  (.) Alright? 
-*NON:	Mhm. 
-*FRE:	Well I hope you get on well with   (.) what you're doing for your scenery. 
-*NON:	Yeah. 
-*FRE:	Alright? 
-*NON:	O K. 
-*FRE:	See you later. 
-*NON:	Yeah. 
+*FRE:	Ah how's the old prep going eh?
+*NON:	Well I've finished it.
+*FRE:	Oh you've finished it, oh good. (.) Alright?
+*NON:	Mhm.
+*FRE:	Well I hope you get on well with   (.) what you're doing for your scenery.
+*NON:	Yeah.
+*FRE:	Alright?
+*NON:	O K.
+*FRE:	See you later.
+*NON:	Yeah.
 @End

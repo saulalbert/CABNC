@@ -1,43 +1,43 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 Restaurant 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0029XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, NOR Norrine wife
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Media: 021A-C0897X0029XX-ABZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Restaurant 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0029XX-ABZZP0.wav
 @Comment:	conversation #217 (Tape 002925)
-*NOR:	The young lady is talking as if she's a member of the family because she's paying so much over there. The boy sitting next to her 
-*CHR:	Saying little. 
-*NOR:	 (  )  (.) 
-*CHR:	Oh really? 
-*NOR:	Because he looks so like  (  ) . They're celebrating 
-*CHR:	Is she John's daughter or the other guy's? 
-*NOR:	I don't know for sure really. I think he must be because of sounds like it. 
-*CHR:	The mother the blond or the midway? 
-*NOR:	I only saw Robin   (  )  (.)  
-*CHR:	Did you? 
-*NOR:	Mm. I er 
-*CHR:	Sorry? 
-*NOR:	It's fine. He said his children are busy at school. Ella's about to do work experience. Residential primary school   (  )  (.)  
-*CHR:	Sounds if the girl plans to become a teacher. 
-*NOR:	 (  ) work experience   (  ) if you remember. 
-*CHR:	Didn't know what hit him did he? 
-*NOR:	No I don't think he's planning to become a teacher. 
-*CHR:	He certainly had himself a good varied he and his pal a good varied work experience, didn't he? 
-*NOR:	What in our school? 
-*CHR:	Mhm.  (  ) and tennis coaching and don't know what else he did do. 
-*NOR:	 (  ) things on the wall on the ceiling for  (  ) .  (  ) down off the table. He must have been shattered. All I'm supposed to be    (  )  (.) his friends cut up all morning    (  )  (.) And Maureen asked him to cut them out I E to go round the edge. 
-*CHR:	Yes. 
-*NOR:	Then he cut out    (  )  (.) cut them all up  (  )  
-*CHR:	Fatty like? 
-*NOR:	Maureen   (  )  ((laugh))  
-*CHR:	Good grief! She put them all back together again? ((laugh))  
-*NOR:	Yes. 
+*NOR:	The young lady is talking as if she's a member of the family because she's paying so much over there.The boy sitting next to her
+*CHR:	Saying little.
+*NOR:	 (        )  (.) 
+*CHR:	Oh really?
+*NOR:	Because he looks so like  (        ) .They're celebrating
+*CHR:	Is she John's daughter or the other guy's?
+*NOR:	I don't know for sure really.I think he must be because of sounds like it.
+*CHR:	The mother the blond or the midway?
+*NOR:	I only saw Robin   (        )  (.) 
+*CHR:	Did you?
+*NOR:	Mm.I er
+*CHR:	Sorry?
+*NOR:	It's fine.He said his children are busy at school.Ella's about to do work experience.Residential primary school   (        )  (.) 
+*CHR:	Sounds if the girl plans to become a teacher.
+*NOR:	 (        ) work experience   (        ) if you remember.
+*CHR:	Didn't know what hit him did he?
+*NOR:	No I don't think he's planning to become a teacher.
+*CHR:	He certainly had himself a good varied he and his pal a good varied work experience, didn't he?
+*NOR:	What in our school?
+*CHR:	Mhm. (        ) and tennis coaching and don't know what else he did do.
+*NOR:	 (        ) things on the wall on the ceiling for  (        ) . (        ) down off the table.He must have been shattered.All I'm supposed to be    (        )  (.) his friends cut up all morning    (        )  (.) And Maureen asked him to cut them out I E to go round the edge.
+*CHR:	Yes.
+*NOR:	Then he cut out    (        )  (.) cut them all up  (        ) 
+*CHR:	Fatty like?
+*NOR:	Maureen   (        )  ((laugh)) 
+*CHR:	Good grief!She put them all back together again? ((laugh)) 
+*NOR:	Yes.
 @End

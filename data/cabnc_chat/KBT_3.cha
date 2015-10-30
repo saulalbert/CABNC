@@ -1,22 +1,23 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-02-01:  Unspecified 
-@Media:	021A-C0897X0603XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , DEA Dean self
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|DEA|32;|||||miner chargehand||PS07E|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|DEA|~32;| |m|Ag2| |miner chargehand||PS07E|
+@Media: 021A-C0897X0603XX-AAZZP0.wav, audio 		
+@Date:	1992-02-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0603XX-AAZZP0.wav
 @Comment:	conversation #3 (Tape 060303)
-*UNK:	What? 
-*DEA:	Eh? What time's dinner at? 
-*UNK:	I don't know. About   (.) three. 
-*DEA:	Half two, three o'clock? 
-*UNK:	Yeah.   (  ) alright? 
-*UNK:	 No. 
-*DEA:	Yeah. 
-*UNK:	About that. 
+*UNK:	What?
+*DEA:	Eh?What time's dinner at?
+*UNK:	I don't know.About   (.) three.
+*DEA:	Half two, three o'clock?
+*UNK:	Yeah. (        ) alright?
+*UNK:	No.
+*DEA:	Yeah.
+*UNK:	About that.
 @End

@@ -1,28 +1,28 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-11-29:  
-@Location:	 Hair salon 
-@Situation:	 having hair done  
-@Media:	021A-C0897X0140XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	GIN Ginny self, TUR Turan friend
 @Options:	CA
-@ID:	eng|AudioBNC|GIN|65;|||||housewife||PS0CG|
-@ID:	eng|AudioBNC|TUR|50;|||||hair salon owner|friend|PS0CN|
+@ID: eng|AudioBNC|GIN|~65;| |f|Ag5| |housewife||PS0CG|
+@ID: eng|AudioBNC|TUR|~50;| |m|Ag4| |hair salon owner|friend|PS0CN|
+@Media: 021A-C0897X0140XX-ABZZP0.wav, audio 		
+@Date:	1991-11-29:  
+@Situation:	 having hair done 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Hair salon 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0140XX-ABZZP0.wav
 @Comment:	conversation #10 (Tape 014010)
-*GIN:	Oh it's cold. (.)  
-*TUR:	 (  ) if they have two minutes. Not now, later. (  )  
-*GIN:	Last Friday you were packed out. 
-*TUR:	No because that   (.) chair is there   (.) she can't sit comfortable, hair dryer's sitting behind. 
-*GIN:	But you were packed last Friday. You had got perms and heaven knows what on the go.  Strange isn't it? One   
-*TUR:	 Still   (.) we had  two ladies doesn't come. 
-*GIN:	Ah. 
-*TUR:	You see she was on telephone   (.) three o'clock she can't make it. Because she's going to take her daughter somewhere. It's alright for her but it doesn't suit us. 
-*GIN:	Well not, not at that short notice. 
-*TUR:	I know. 
-*GIN:	Unless it's an accident or something  when you can't   (  )   
-*TUR:	 No no no she's just  going out to daughter. 
+*GIN:	Oh it's cold. (.) 
+*TUR:	 (        ) if they have two minutes.Not now, later. (        ) 
+*GIN:	Last Friday you were packed out.
+*TUR:	No because that   (.) chair is there   (.) she can't sit comfortable, hair dryer's sitting behind.
+*GIN:	But you were packed last Friday.You had got perms and heaven knows what on the go.Strange isn't it?One 
+*TUR:	Still   (.) we had two ladies doesn't come.
+*GIN:	Ah.
+*TUR:	You see she was on telephone   (.) three o'clock she can't make it.Because she's going to take her daughter somewhere.It's alright for her but it doesn't suit us.
+*GIN:	Well not, not at that short notice.
+*TUR:	I know.
+*GIN:	Unless it's an accident or something when you can't   (        ) 
+*TUR:	No no no she's just going out to daughter.
 @End

@@ -1,23 +1,23 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0054XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, UNK Unknown Unknown None ?
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6ST|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6ST|
+@Media: 021A-C0897X0054XX-AAZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0054XX-AAZZP0.wav
 @Comment:	conversation #107 (Tape 005405)
-*NON:	 (  ) 
-*HEL:	Oh it was quite useful to find Half a Sixpence  (  ) . 
-*NON:	No. 
-*HEL:	she's not really a, sick for long. 
-*NON:	Give her any thing else? 
-*HEL:	No she's  (  ) . I thought for ten pence a week that was not bad rubbish. Wouldn't say a lot for it, but I don't think ten pence out of the way   (  ) any way. 
-*NON:	Hm. 
+*NON:	 (        ) 
+*HEL:	Oh it was quite useful to find Half a Sixpence  (        ) .
+*NON:	No.
+*HEL:	she's not really a, sick for long.
+*NON:	Give her any thing else?
+*HEL:	No she's  (        ) .I thought for ten pence a week that was not bad rubbish.Wouldn't say a lot for it, but I don't think ten pence out of the way   (        ) any way.
+*NON:	Hm.
 @End

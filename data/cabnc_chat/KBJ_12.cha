@@ -1,30 +1,30 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-01-12:  
-@Location:	 in car 
-@Situation:	 picking up daughter from school  
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CAR Carol self, EMM Emma daughter, ADE Adele daughter's friend
 @Options:	CA
-@ID:	eng|AudioBNC|CAR|44;|||||courier||PS1DP|
-@ID:	eng|AudioBNC|EMM|11;|||||student (state secondary)|daughter|PS1DR|
-@ID:	eng|AudioBNC|ADE|11;|||||schoolgirl|daughter's friend|PS1DV|
+@ID: eng|AudioBNC|CAR|~44;| |f|Ag3| |courier||PS1DP|
+@ID: eng|AudioBNC|EMM|~11;| |f|Ag0| |student (state secondary)|daughter|PS1DR|
+@ID: eng|AudioBNC|ADE|~11;| |f|Ag0| |schoolgirl|daughter's friend|PS1DV|		
+@Date:	1992-01-12:  
+@Situation:	 picking up daughter from school 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 in car 
 @Comment:	conversation #12 (Tape 052012)
-*EMM:	There she is look! 
-*CAR:	Oh yes. 
-*EMM:	Can, can she come round to our house, because 
-*CAR:	No! Because your dad's gotta ge  ready to go out. 
-*EMM:	But I want to watch Witches as well.  And if I don't   
-*CAR:	 Alright. 
-*EMM:	watch it now. Just going round to your house. 
-*ADE:	Erm   (.) have you just got here? 
-*EMM:	Mm   (.)  yes. 
-*CAR:	 Let  me move this car because they want to get in. 
-*EMM:	 (  ) 
-*CAR:	What you doing? Coming round to my house? Or stopping there? 
-*EMM:	Come to my house and   (.) want to watch    (  )   
-*CAR:	 Come on!  Cos they want to get in. Shut the door please! 
-*EMM:	Shut the door! Shut the door! 
+*EMM:	There she is look!
+*CAR:	Oh yes.
+*EMM:	Can, can she come round to our house, because
+*CAR:	No!Because your dad's gotta ge ready to go out.
+*EMM:	But I want to watch Witches as well.And if I don't 
+*CAR:	Alright.
+*EMM:	watch it now.Just going round to your house.
+*ADE:	Erm   (.) have you just got here?
+*EMM:	Mm   (.) yes.
+*CAR:	Let me move this car because they want to get in.
+*EMM:	 (        ) 
+*CAR:	What you doing?Coming round to my house?Or stopping there?
+*EMM:	Come to my house and   (.) want to watch   (        ) 
+*CAR:	Come on!Cos they want to get in.Shut the door please!
+*EMM:	Shut the door!Shut the door!
 @End

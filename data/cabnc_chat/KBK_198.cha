@@ -1,27 +1,27 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 restaurant 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0029XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, NOR Norrine wife
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Media: 021A-C0897X0029XX-AAZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 restaurant 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0029XX-AAZZP0.wav
 @Comment:	conversation #198 (Tape 002906)
-*CHR:	I was thinking of the seasons Chinese vegetables were born. 
-*NOR:	They were not born in the mushrooms. (  )  
-*CHR:	Mushrooms   (  ) right. 
-*NOR:	Right. We weren't going to put mushrooms with prawns. 
-*CHR:	Yes we are. I think we are. We'll both have Dim Sum, lemon chicken erm Chinese vegetables with prawns. Stuffed mushrooms. And some noodles. 
-*LYN:	Special noodles? 
-*CHR:	Singapore noodles. What is the difference between Singapore noodles and special noodles? 
-*LYN:	Singapore noodles have hot spices. But the others  (.)  
-*CHR:	Is not? Special noodles are not so spicy? 
-*LYN:	No. 
-*CHR:	We'll have special noodles. 
+*CHR:	I was thinking of the seasons Chinese vegetables were born.
+*NOR:	They were not born in the mushrooms. (        ) 
+*CHR:	Mushrooms   (        ) right.
+*NOR:	Right.We weren't going to put mushrooms with prawns.
+*CHR:	Yes we are.I think we are.We'll both have Dim Sum, lemon chicken erm Chinese vegetables with prawns.Stuffed mushrooms.And some noodles.
+*LYN:	Special noodles?
+*CHR:	Singapore noodles.What is the difference between Singapore noodles and special noodles?
+*LYN:	Singapore noodles have hot spices.But the others  (.) 
+*CHR:	Is not?Special noodles are not so spicy?
+*LYN:	No.
+*CHR:	We'll have special noodles.
 @End

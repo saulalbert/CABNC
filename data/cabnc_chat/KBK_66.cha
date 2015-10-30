@@ -1,29 +1,29 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 Home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0022XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, NOR Norrine wife
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Media: 021A-C0897X0022XX-ABZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0022XX-ABZZP0.wav
 @Comment:	conversation #66 (Tape 002233)
-*CHR:	Ah. 
-*NOR:	I think it's probably going to be more frustrating to have a fax sitting there and you can't get through. 
-*CHR:	Yes I agree. 
-*NOR:	So shall I make a fresh cup of tea? 
-*CHR:	Thank you, that was lovely, lovely, lovely, erm it's Mr  , erm, and I suppose we ought to, no,ju   (.) ju   (.) just can you just pause a mo on it please because I'm just looking at the possibilities, there are two names that John has found us   (  ) instrumentations. 
-*NOR:	Oh right. No   (  ) he wanted  (  )  
-*CHR:	Right, that's, that's O K.   
-*NOR:	 I've   (  ) done one. 
-*CHR:	I did actually say to John, that we would look   (  )   
-*NOR:	 That the instruction instrument  Sheffield. 
-*CHR:	He   (.) he   (.) he says they're probably a bit of a general  (  ) , but you can always ask them for their catalogue. 
-*NOR:	Yes. I thought, I honesty did  (  ) . 
-*CHR:	Mhm. 
+*CHR:	Ah.
+*NOR:	I think it's probably going to be more frustrating to have a fax sitting there and you can't get through.
+*CHR:	Yes I agree.
+*NOR:	So shall I make a fresh cup of tea?
+*CHR:	Thank you, that was lovely, lovely, lovely, erm it's Mr , erm, and I suppose we ought to, no,ju  (.) ju  (.) just can you just pause a mo on it please because I'm just looking at the possibilities, there are two names that John has found us   (        ) instrumentations.
+*NOR:	Oh right.No   (        ) he wanted  (        ) 
+*CHR:	Right, that's, that's O K. 
+*NOR:	I've   (        ) done one.
+*CHR:	I did actually say to John, that we would look   (        ) 
+*NOR:	That the instruction instrument Sheffield.
+*CHR:	He   (.) he   (.) he says they're probably a bit of a general  (        ) , but you can always ask them for their catalogue.
+*NOR:	Yes.I thought, I honesty did  (        ) .
+*CHR:	Mhm.
 @End

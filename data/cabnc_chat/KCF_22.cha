@@ -1,18 +1,18 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-03-19:  
-@Location:	 home 
-@Situation:	 talking  
-@Media:	021A-C0897X0285XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	IRI Iris self, MAR Mary mother
 @Options:	CA
-@ID:	eng|AudioBNC|IRI|54;|||||home care assistant||PS1EN|
-@ID:	eng|AudioBNC|MAR|76;|||||housewife|mother|PS1ET|
+@ID: eng|AudioBNC|IRI|~54;| |f|Ag4| |home care assistant||PS1EN|
+@ID: eng|AudioBNC|MAR|~76;| |f|Ag5| |housewife|mother|PS1ET|
+@Media: 021A-C0897X0285XX-AAZZP0.wav, audio 		
+@Date:	1992-03-19:  
+@Situation:	 talking 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0285XX-AAZZP0.wav
 @Comment:	conversation #22 (Tape 028501)
-*MAR:	Well they all haven't got a soft mum and dad like you. (16.0)  
-*IRI:	 (  ) mum? (  )  (.)  (  )  
+*MAR:	Well they all haven't got a soft mum and dad like you. (.) 
+*IRI:	 (        ) mum? (        )  (.)  (        ) 
 @End

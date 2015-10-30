@@ -1,23 +1,23 @@
-@Font:	Win95:CAfont:-15:0
-@UTF8
 @Begin
-@Languages:	eng
-@Date:	1991-12-01:
-@Location:	  5's home
-@Situation:	  chatting, doing crossword/quiz
-@Media:	021A-C0897X0187XX-ABZZP0.wav, audio
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , ANN Ann self, STU Stuart partner, JEA Jeanie partner's mother
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|ANN|46;|||||team leader||PS02G|
-@ID:	eng|AudioBNC|STU|33;|||||factory operative|partner|PS02H|
-@ID:	eng|AudioBNC|JEA|63;|||||retired|partner's mother|PS02L|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
+@ID: eng|AudioBNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
+@ID: eng|AudioBNC|JEA|~63;| |f|Ag5| |retired|partner's mother|PS02L|
+@Media: 021A-C0897X0187XX-ABZZP0.wav, audio 		
+@Date:	1991-12-01:  
+@Situation:	  chatting, doing crossword/quiz  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  5's home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0187XX-ABZZP0.wav
 @Comment:	conversation #27 (Tape 018702)
-*ANN:	Definitely crossword time, I've gotta have a go at it   (.) but there's not a lot left in there   (.) nothing in the teapot      ((laughing))  (  )
-*STU:	 No it's   (  )
-*ANN:	Sorry, do you want another one?  (.) Do you want me to go and make you another one?
+*ANN:	Definitely crossword time, I've gotta have a go at it   (.) but there's not a lot left in there   (.) nothing in the teapot     [laughing]  (        )  [] 
+*STU:	No it's   (        ) 
+*ANN:	Sorry, do you want another one? (.) Do you want me to go and make you another one?
 *STU:	No that's alright, I'll do it.
 *ANN:	He is erm
 *JEA:	He's got a twice as big a cup as you have.
@@ -36,200 +36,200 @@
 *JEA:	Okay   (.) okay   (.) one, two, three   (.) that's it.
 *ANN:	Really.
 *STU:	Right, are you ready girls?
-*ANN:	 Yeah.
-*JEA:	 Yes  Stuart.
+*ANN:	Yeah.
+*JEA:	Yes Stuart.
 *STU:	Alright, here we go then.
-*JEA:	Girls, we're called girls now, that sounds
-*ANN:	 Ha, ha, ha, ha.
+*JEA:	Girls, we're called girls now, that sounds 
+*ANN:	Ha, ha, ha, ha.
 *JEA:	good.
-*STU:	 ((reading)) Fish of a carp family, five letters .
-*JEA:	Oh    ((laughing)) god .
-*ANN:	  ((laugh))
-*JEA:	Yeah let's  not bother
-*ANN:	 Perch.
-*JEA:	doing it, cos that wo  , let's not bother doing the questions.
+*STU:	 [reading] Fish of a carp family, five letters  [] .
+*JEA:	Oh   [laughing] god  [] .
+*ANN:	 ((laugh)) 
+*JEA:	Yeah let's not bother 
+*ANN:	Perch.
+*JEA:	doing it, cos that wo , let's not bother doing the questions.
 *STU:	Could be a perch   (.) it's quite safe.
 *JEA:	Yes.
 *STU:	I don't think so   (.) er   (.) ha
 *JEA:	A mulch?
 *STU:	but I don't know any others.
 *JEA:	Carp.
-*STU:	No, I want one of the carp family   (.) never mind, ((reading)) a riddle in a cracker, five letters .
-*JEA:	Mot   (.) oh   (.) motto.
+*STU:	No, I want one of the carp family   (.) never mind, [reading] a riddle in a cracker, five letters  [] .
+*JEA:	Mot  (.) oh   (.) motto.
 *ANN:	Yes.
 *STU:	Motto.
-*ANN:	 Easy.
-*STU:	 Yeah.
+*ANN:	Easy.
+*STU:	Yeah.
 *JEA:	Should do it in pencil.
-*STU:	 ((reading)) Ancient name for the Spanish Peninsula, six letters
-*ANN:	Erm   (.) now that's one for you.  ((laugh))  (.) What is it?
+*STU:	 [reading] Ancient name for the Spanish Peninsula, six letters  [] 
+*ANN:	Erm   (.) now that's one for you. ((laugh))  (.) What is it?
 *STU:	Iberia.
 *ANN:	Mhm.
-*STU:	 ((reading)) A young eel, five letters
+*STU:	 [reading] A young eel, five letters  [] 
 *ANN:	Elver.
-*STU:	 ((reading)) Neutered cock bird, five letters .
+*STU:	 [reading] Neutered cock bird, five letters  [] .
 *ANN:	Oh what do they call it, what you have at Christmas instead of?
 *STU:	Capon.
 *ANN:	Capon.
 *STU:	Capon.
 *ANN:	It's not allowed now actually.
-*JEA:	Capon?  (.) Is that it?
-*ANN:	No can't sell you a capon any more, not  now.
-*JEA:	 Can't  he?  (.) Why not, European market again?
+*JEA:	Capon? (.) Is that it?
+*ANN:	No can't sell you a capon any more, not now.
+*JEA:	Can't he? (.) Why not, European market again?
 *ANN:	I don't think it's anything to do with that, but I know there's a you can't have a capon any more.
-*JEA:	Oh you can't an  all.
-*STU:	 ((reading)) Tree or shrub with white or yellow flowers, six letter .
+*JEA:	Oh you can't an all.
+*STU:	 [reading] Tree or shrub with white or yellow flowers, six letter  [] .
 *ANN:	Could   (.) be loads, couldn't it.
 *STU:	Yeah   (.) here's one
 *JEA:	It's white or yellow   (.) forsythia, they've got white   (.) yellow but
-*ANN:	They've got yellow on same white as  (  ) .
-*STU:	 (  )  (.) No? No    (.)  ((reading)) religion revealed through Mohammed .
+*ANN:	They've got yellow on same white as  (        ) .
+*STU:	 (        )  (.) No?No    (.)  [reading] religion revealed through Mohammed  [] .
 *JEA:	Islam innit?
-*STU:	 ((reading)) The Russian wolf hound, six letters .
+*STU:	 [reading] The Russian wolf hound, six letters  [] .
 *ANN:	Erm.
 *STU:	No takers?
 *ANN:	No.
-*STU:	 ((reading)) One nautical mile per hour, four letters
+*STU:	 [reading] One nautical mile per hour, four letters  [] 
 *JEA:	Knot.
-*STU:	 ((reading)) One of the gospels, four letters .
+*STU:	 [reading] One of the gospels, four letters  [] .
 *ANN:	Try Mark, Luke or John.
 *STU:	Ruth.
-*ANN:	 ((laugh))
+*ANN:	 ((laugh)) 
 *STU:	Better leave that one.
 *ANN:	Mark, Luke or John innit?
-*JEA:	Matthew, Mark oh eh, sorry   (.) The gospel   (  ) it might be  (  ) .
-*STU:	We'll have to wait until we get    (  )
-*JEA:	 Or they are   (  )
-*ANN:	It's only Matthew that it's   ((laughing)) not .
-*JEA:	Matthew, Mark, Luke and John   (.) yeah   (.) all those  I got.
-*STU:	 ((reading))  Meeting  for spiritualistic phenomena .
-*ANN:	A seance   (.)  That's what
-*STU:	 Spell that.
+*JEA:	Matthew, Mark oh eh, sorry   (.) The gospel   (        ) it might be  (        ) .
+*STU:	We'll have to wait until we get   (        ) 
+*JEA:	Or they are  (        ) 
+*ANN:	It's only Matthew that it's   [laughing] not  [] .
+*JEA:	Matthew, Mark, Luke and John   (.) yeah   (.) all those I got.
+*STU:	 [reading] Meeting for spiritualistic phenomena  [] .
+*ANN:	A seance   (.) That's what 
+*STU:	Spell that.
 *ANN:	Shirley wanted us to go to.
 *JEA:	Who did?
-*ANN:	That's what Shirley said, are you coming to church   (.) so she go  she goes to a spiritualist.
+*ANN:	That's what Shirley said, are you coming to church   (.) so she go she goes to a spiritualist.
 *JEA:	Oh does she?
-*ANN:	I said no   (.) staying at, mum, she said well bring mum   (.) I said I don't think her a  her her scene.
+*ANN:	I said no   (.) staying at, mum, she said well bring mum   (.) I said I don't think her a her her scene.
 *JEA:	Ha.
-*ANN:	 ((laugh))
+*ANN:	 ((laugh)) 
 *JEA:	Wouldn't of minded.
-*ANN:	Wouldn't you?  (.) Oh I'll take you some time then, I love it.
+*ANN:	Wouldn't you? (.) Oh I'll take you some time then, I love it.
 *JEA:	Yeah I wouldn't mind it Ann.
 *ANN:	I love it, I do.
-*JEA:	You been  before?
-*ANN:	 That's    (.) oh yes lots   (.) hundreds   (.) I  always go
-*JEA:	 Well  there you are, why didn't you say?
-*ANN:	Well I didn't think you might not be interested. ((laugh))
-*JEA:	Ann yo  yo   (.) I'm not yo  a
+*JEA:	You been before?
+*ANN:	That's   (.) oh yes lots   (.) hundreds   (.) I always go 
+*JEA:	Well there you are, why didn't you say?
+*ANN:	Well I didn't think you might not be interested. ((laugh)) 
+*JEA:	Ann yo yo  (.) I'm not yo a 
 *ANN:	Have you been before?
-*JEA:	No, but I've told you    (  )
-*ANN:	 You'd like to
+*JEA:	No, but I've told you   (        ) 
+*ANN:	You'd like to 
 *JEA:	thing   (.) got a book in here about it.
 *ANN:	Shirley's really into it, I used to be.
 *JEA:	Is she?
-*ANN:	I used to be, but I haven't been for a long while   (.) I used to we   (.) can't say that I was there last year but
-*JEA:	Alright then, can I go   (  )  there is
-*ANN:	 Well any  Sundays.
-*JEA:	It's a  (  )
-*ANN:	Isn't it behind Angles
+*ANN:	I used to be, but I haven't been for a long while   (.) I used to we  (.) can't say that I was there last year but
+*JEA:	Alright then, can I go   (        ) there is 
+*ANN:	Well any Sundays.
+*JEA:	It's a  (        ) 
+*ANN:	Isn't it behind Angles 
 *JEA:	Where?
 *ANN:	Behind Angles Theatre on Alexander Road.
 *JEA:	Oh that's right, that's right.
-*ANN:	It's every Sunday, Shirley goes ev   they've
-*STU:	  ((cough))
+*ANN:	It's every Sunday, Shirley goes ev they've 
+*STU:	 ((cough)) 
 *ANN:	gone now.
-*JEA:	She doesn't, does she?  (.)  Does she go?
-*ANN:	 Mm    (  )   (.) sometimes in the week she goes as well.
-*JEA:	Does she really?  (.) Look sorry, we're talking again.
-*ANN:	 ((laughing)) Sorry dear
-*JEA:	Ooh    (  )  (.)  (  ) .
-*ANN:	Alright we'll go then   (.) not next week cos She  er Sheila will be here.
+*JEA:	She doesn't, does she? (.) Does she go?
+*ANN:	Mm    (        )  (.) sometimes in the week she goes as well.
+*JEA:	Does she really? (.) Look sorry, we're talking again.
+*ANN:	 [laughing] Sorry dear  [] 
+*JEA:	Ooh    (        )  (.)  (        ) .
+*ANN:	Alright we'll go then   (.) not next week cos She er Sheila will be here.
 *JEA:	Aye alright   (.) alright.
-*ANN:	 ((laughing)) Next one dear, sorry .
-*STU:	 ((reading)) One who manages another's  business
-*JEA:	 We can take it up   (  )
-*STU:	 ((reading)) One who manages another's business
-*JEA:	 Nosey Parker!
-*ANN:	 Manager.
-*JEA:	 ((laugh))
+*ANN:	 [laughing] Next one dear, sorry  [] .
+*STU:	 [reading] One who manages another's business   [] 
+*JEA:	We can take it up  (        ) 
+*STU:	 [reading] One who manages another's business  [] 
+*JEA:	Nosey Parker!
+*ANN:	Manager.
+*JEA:	 ((laugh)) 
 *ANN:	Oh innit just.
-*STU:	Five letters, no?  (.)  ((reading)) Words of songs, six letters .
+*STU:	Five letters, no? (.)  [reading] Words of songs, six letters  [] .
 *ANN:	Lyrics.
-*STU:	 ((reading)) Birthplace of Saint Theresa, five letters .
-*ANN:	 Who knows.
-*JEA:	  (  )   (.)  (  )
+*STU:	 [reading] Birthplace of Saint Theresa, five letters  [] .
+*ANN:	Who knows.
+*JEA:	 (        )  (.)  (        ) 
 *ANN:	Yep.
-*JEA:	Theresa, India   (.) she's the she's the Indian   (.)  isn't she the
-*ANN:	 No birthplace  of   (.) not Mother Theresa, Saint Theresa.
+*JEA:	Theresa, India   (.) she's the she's the Indian   (.) isn't she the 
+*ANN:	No birthplace of   (.) not Mother Theresa, Saint Theresa.
 *JEA:	Oh   (.) sorry   (.) sorry.
-*STU:	 ((reading)) Italian city famous for its holy shroud, five letters .
+*STU:	 [reading] Italian city famous for its holy shroud, five letters  [] .
 *JEA:	Turin.
 *ANN:	Turin.
-*STU:	 ((reading)) Style of architecture etcetera, prevalent during the reign of Louis the fifteenth
+*STU:	 [reading] Style of architecture etcetera, prevalent during the reign of Louis the fifteenth
 *ANN:	Oh
-*STU:	six letters
-*ANN:	God!  (.) Ico  rococo or something like  that.
-*JEA:	 Yeah.
-*STU:	 ((laughing))  (  )
+*STU:	six letters  [] 
+*ANN:	God! (.) Ico rococo or something like that.
+*JEA:	Yeah.
+*STU:	 [laughing]  (        )  [] 
 *JEA:	Aye?
 *STU:	I think you're probably right.
-*ANN:	Yeah  probably is.
-*JEA:	 There you are     (.)  (  ) you are   (.) I'm not much good at these  (  )
-*STU:	 ((reading)) Device for drawing premium bonds winners
+*ANN:	Yeah probably is.
+*JEA:	There you are    (.)  (        ) you are   (.) I'm not much good at these  (        ) 
+*STU:	 [reading] Device for drawing premium bonds winners  [] 
 *ANN:	Ah I dunno.
-*STU:	 ((reading)) Bird, a female of the ruff, five letters .
-*JEA:	 (  )
-*ANN:	Female  of the ruff?
-*JEA:	 Female of the what?   (.)  The what?
-*STU:	 The ruff.
+*STU:	 [reading] Bird, a female of the ruff, five letters  [] .
+*JEA:	 (        ) 
+*ANN:	Female of the ruff?
+*JEA:	Female of the what? (.) The what?
+*STU:	The ruff.
 *ANN:	What is a
-*STU:	A ruff   (.) a bird    (.)   (  )
-*ANN:	 Yeah but you  wrote it in, so you must know the answer, I saw you write it in   (.) what's the answer?
+*STU:	A ruff   (.) a bird    (.)  (        ) 
+*ANN:	Yeah but you wrote it in, so you must know the answer, I saw you write it in   (.) what's the answer?
 *STU:	A reeve.
 *ANN:	Oh.
 *STU:	Yeah.
 *JEA:	Thank you, at least as if he knows.
 *ANN:	Aha.
-*STU:	 (  )  (.)  ((cough))  (.)  ((reading)) A Shakespeare comedy, three, seven, four
-*ANN:	Three, seven, four     (8.0)  (  )  (.) seven   (.) twelfth night   (.) The twelfth night?
+*STU:	 (        )  (.)  ((cough))  (.)  [reading] A Shakespeare comedy, three, seven, four  [] 
+*ANN:	Three, seven, four     (.)  (        )  (.) seven   (.) twelfth night   (.) The twelfth night?
 *STU:	No.
 *ANN:	What is it then?
 *STU:	Not a lot I can I do with this much, The Winter's Tale.
 *ANN:	The Winter's Tale.
-*STU:	 ((reading)) Kind of orange, five letters .
+*STU:	 [reading] Kind of orange, five letters  [] .
 *ANN:	Seville.
 *STU:	Five letters.
 *ANN:	That's six   (.) er what then?
 *STU:	Navel.
 *ANN:	Navel.
-*STU:	 ((reading)) King of Tire who assisted Solomon in the building of the Temple, five letters .
-*JEA:	 Charlie.
-*ANN:	 Dunno    (.) David
+*STU:	 [reading] King of Tire who assisted Solomon in the building of the Temple, five letters  [] .
+*JEA:	Charlie.
+*ANN:	Dunno   (.) David
 *JEA:	Charlie Bloggs.
-*STU:	Blank I R, blank    (  )
-*JEA:	 Paddy.
+*STU:	Blank I R, blank   (        ) 
+*JEA:	Paddy.
 *ANN:	Blank I R
-*STU:	Blank M   (.) know this one   (.) Tira  ?
+*STU:	Blank M   (.) know this one   (.) Tira ?
 *JEA:	Hieroglyphics.
-*ANN:	Tima
+*ANN:	Tima 
 *STU:	Tiram.
 *JEA:	Tiram.
 *ANN:	Don't know.
-*STU:	Tiram    (.)  ((reading)) One of the divisions of a flower calyx, five letters .
+*STU:	Tiram    (.)  [reading] One of the divisions of a flower calyx, five letters  [] .
 *ANN:	Petal.
 *JEA:	What is a flower calyx?
 *STU:	Probably a petal.
 *JEA:	Oh.
-*STU:	 ((reading)) Portuguese enclave in China, five letters    (.)  M A C
-*JEA:	 Oh god!
-*STU:	 blank
-*ANN:	  (  )
-*STU:	blank   (6.0) Macau  (.)  ((reading)) Semi precious stone, five letters    (.) T blank P blank, blank.
-*ANN:	 Topaz
-*JEA:	 Topez  =az.
-*STU:	 ((reading)) Vincenti Biasco  (.) writer of the Four Horseman of the Apocalypse etcetera
+*STU:	 [reading] Portuguese enclave in China, five letters    []  (.) M A C 
+*JEA:	Oh god!
+*STU:	blank 
+*ANN:	 (        ) 
+*STU:	blank   (.) Macau  (.)  [reading] Semi precious stone, five letters    []  (.) T blank P blank, blank.
+*ANN:	Topaz 
+*JEA:	Topez =az.
+*STU:	 [reading] Vincenti Biasco  (.) writer of the Four Horseman of the Apocalypse etcetera  [] 
 *ANN:	No idea.
-*STU:	We've got six letters    (.)  ((reading)) Comedy by Oscar Wilde   (.) one, five, two, two, ten .
+*STU:	We've got six letters    (.)  [reading] Comedy by Oscar Wilde   (.) one, five, two, two, ten  [] .
 *JEA:	A
 *ANN:	Yeah, a
 *STU:	A something
@@ -237,71 +237,71 @@
 *STU:	erm   (.) of the no something.
 *ANN:	And something of something.
 *STU:	Something of of of erm something.
-*JEA:	 (  ) ?
-*ANN:	No  that's
-*STU:	 No.
+*JEA:	 (        ) ?
+*ANN:	No that's 
+*STU:	No.
 *ANN:	Charles Dickens.
 *JEA:	Oh.
 *ANN:	No we'll have to see if we get some
-*JEA:	words and get that  (  )
-*STU:	 ((reading)) Sailor, not an officer, six letters .
-*ANN:	Mutloe
-*JEA:	 (  )  (  )
-*STU:	 ((reading)) Scrooge's late partner whose ghost appears in a  Christmas
-*ANN:	 Marley.
-*STU:	carol   (.)  six letters .
-*ANN:	 Marley's ghost.
-*STU:	 ((reading)) Native of the largest of the continents, five letters .
+*JEA:	words and get that  (        ) 
+*STU:	 [reading] Sailor, not an officer, six letters  [] .
+*ANN:	Mutloe 
+*JEA:	 (        )  (        ) 
+*STU:	 [reading] Scrooge's late partner whose ghost appears in a Christmas 
+*ANN:	Marley.
+*STU:	carol   (.) six letters  [] .
+*ANN:	Marley's ghost.
+*STU:	 [reading] Native of the largest of the continents, five letters  [] .
 *ANN:	Asia.
-*STU:	 ((reading)) County in Eire   (.) five letters    (.) C L blank R E   (.) Clare.  ((reading)) The American buffalo, five letters    (.) blank I blank O blank   (.) bison?
-*ANN:	 Bison.
-*JEA:	 Mhm.
-*STU:	 ((reading)) Lady Nancy   (.)  the first
-*JEA:	 Astor
-*STU:	woman MP to take    (  ) .
-*JEA:	 Astor
+*STU:	 [reading] County in Eire   (.) five letters    []  (.) C L blank R E   (.) Clare. [reading] The American buffalo, five letters    []  (.) blank I blank O blank   (.) bison?
+*ANN:	Bison.
+*JEA:	Mhm.
+*STU:	 [reading] Lady Nancy   (.) the first 
+*JEA:	Astor 
+*STU:	woman MP to take   (        )  [] .
+*JEA:	Astor 
 *STU:	blank S T O R.
-*JEA:	Well I know it without you telling me the blanks!  (.) Nancy Astor.
-*STU:	 ((reading)) Nest of a bird of prey , five  letters.
-*JEA:	  (  )
-*STU:	Bu  not bad, not bad, not bad at all.
+*JEA:	Well I know it without you telling me the blanks! (.) Nancy Astor.
+*STU:	 [reading] Nest of a bird of prey  [] , five letters.
+*JEA:	 (        ) 
+*STU:	Bu not bad, not bad, not bad at all.
 *JEA:	At first go through them.
 *STU:	Not bad at all.
-*JEA:	Go on then   (.)  try and s
-*STU:	  ((reading))  (  )  of the carp family, five letters , T blank N blank H.
+*JEA:	Go on then   (.) try and s 
+*STU:	 [reading]  (        ) of the carp family, five letters  [] , T blank N blank H.
 *ANN:	Tench.
-*STU:	Must be a    (  )  (.) the gospel is blank blank R blank, so it must be  Mark.
-*ANN:	 Mark.
-*STU:	Now what we got here    (.)  ((reading)) One who manages another's business  A G E blank blank.
+*STU:	Must be a    (        )  (.) the gospel is blank blank R blank, so it must be Mark.
+*ANN:	Mark.
+*STU:	Now what we got here    (.)  [reading] One who manages another's business   [] A G E blank blank.
 *JEA:	Agent.
 *ANN:	Agent.
 *STU:	The Russian wolf hound   (.) is the blank U R Z blank blank.
 *ANN:	Oh yeah, it's a funny name.
-*STU:	Bu  something, Burzoi?
+*STU:	Bu something, Burzoi?
 *ANN:	Yeah something like that.
-*STU:	Cos that Macau bit, sometimes they spell Macau with an O R or U   (.) could be Macau with an    (  )  (.) could be burzoi.
+*STU:	Cos that Macau bit, sometimes they spell Macau with an O R or U   (.) could be Macau with an    (        )  (.) could be burzoi.
 *ANN:	Yeah something like that, funny name.
 *STU:	Could be Burzoi   (.) not sure.
-*ANN:	You got a headache again?  (.) I knew you had   (.) We ain't going out tonight, we're stopping here   (.) well  I am
-*JEA:	 We are.
+*ANN:	You got a headache again? (.) I knew you had   (.) We ain't going out tonight, we're stopping here   (.) well I am 
+*JEA:	We are.
 *ANN:	I'm not!
 *STU:	What?
 *ANN:	Not going to bus stop tonight as well.
 *JEA:	No you're not!
 *ANN:	We are!
 *JEA:	I'm alright Ann.
-*ANN:	Well I'm stopping the  night
-*JEA:	 No  you're not.
+*ANN:	Well I'm stopping the night 
+*JEA:	No you're not.
 *ANN:	unless you're gonna chuck me out.
-*JEA:	I'm alright, (  )
-*ANN:	 No you're not  you got bad head again, you're    (  )
-*JEA:	 Well  alright, not  that bad.
-*ANN:	 Couple of    (.) couple of tablets.
+*JEA:	I'm alright, (        ) 
+*ANN:	No you're not you got bad head again, you're   (        ) 
+*JEA:	Well alright, not that bad.
+*ANN:	Couple of   (.) couple of tablets.
 *JEA:	I'm alright, tell her I'm alright.
-*STU:	 (  )
-*JEA:	Yeah for goodness sake!  (.) I'm alright Ann   (.) really I am, don't be silly.
-*ANN:	Couple of  tablets.
-*STU:	  ((reading)) Tree or  shrub with white of yellow flowers  begins in a and ends in a, six letters.
+*STU:	 (        ) 
+*JEA:	Yeah for goodness sake! (.) I'm alright Ann   (.) really I am, don't be silly.
+*ANN:	Couple of tablets.
+*STU:	 [reading] Tree or shrub with white of yellow flowers   [] begins in a and ends in a, six letters.
 *JEA:	Ah?
 *ANN:	Begins in a and ends with a.
 *STU:	Yeah.
@@ -310,521 +310,362 @@
 *STU:	Yeah.
 *JEA:	And ends with a?
 *STU:	Yeah.
-*JEA:	I don't know, (  ) , I better get my
-*ANN:	Gardening  book out.
-*JEA:	 gardening  catalogue ready, yes   (.) I got one there   (.) they keep sending me them   (6.0) I never    (  )  (.) Astor no
+*JEA:	I don't know, (        ) , I better get my
+*ANN:	Gardening book out.
+*JEA:	gardening catalogue ready, yes   (.) I got one there   (.) they keep sending me them   (.) I never    (        )  (.) Astor no
 *STU:	What about Acacia?
-*ANN:	Oh yeah  Acacia.
-*JEA:	 Acacia    (.) Mm   (.) Clever dick.
-*STU:	No   (.) looks as though it's    (  )  (.) well no it could be seeple
+*ANN:	Oh yeah Acacia.
+*JEA:	Acacia   (.) Mm   (.) Clever dick.
+*STU:	No   (.) looks as though it's    (        )  (.) well no it could be seeple 
 *JEA:	What?
 *ANN:	Oh.
-*STU:	Flower  (  )
+*STU:	Flower  (        ) 
 *ANN:	I don't know what a calyx is, I just thought petal fitted in, I mean I don't know.
-*STU:	Mm   (.)  could be seeple
-*ANN:	 What's a  calyx then?
+*STU:	Mm   (.) could be seeple 
+*ANN:	What's a calyx then?
 *STU:	Well calyx is in   (.) in the flower, in the
-*ANN:	Oh well if it's seeple  then it won't be the petal
-*STU:	  (  )
-*ANN:	will it? Because  isn't in there.
-*JEA:	  ((cough))
+*ANN:	Oh well if it's seeple then it won't be the petal 
+*STU:	 (        ) 
+*ANN:	will it?Because isn't in there.
+*JEA:	 ((cough)) 
 *STU:	six letters   (.) so, all you need is one   (.) two, three, four   (.) Birthplace of erm Saint Theresa is a blank I blank A.
 *ANN:	Mm sshh sshh better look that up.
 *STU:	I know.
 *JEA:	In Asia.
-*STU:	Erm   (.) comedy by Oscar Wilde is th  loo  I think it's Woman   (.) A Woman of no
+*STU:	Erm   (.) comedy by Oscar Wilde is th loo I think it's Woman   (.) A Woman of no
 *ANN:	Importance.
 *JEA:	Importance.
 *ANN:	A woman of no importance.
 *STU:	Is that what it is?
 *JEA:	I think so.
 *ANN:	Yeah.
-*STU:	Not sure   (13.0) Burzoi is it?  (.) Borz
-*ANN:	Yeah it is   (.)  But I couldn't tell you ho
-*STU:	  (  )
-*ANN:	how to spell it, but it is some  funny name like that.
-*STU:	 Vincenti Blasgo sh   writer of the Four Horseman of the Apocalypse is I B blank N blank blank.
+*STU:	Not sure   (.) Burzoi is it? (.) Borz 
+*ANN:	Yeah it is   (.) But I couldn't tell you ho 
+*STU:	 (        ) 
+*ANN:	how to spell it, but it is some funny name like that.
+*STU:	Vincenti Blasgo sh writer of the Four Horseman of the Apocalypse is I B blank N blank blank.
 *ANN:	Oh, no idea.
 *JEA:	I b?
 *STU:	Mm.
 *JEA:	It wouldn't be addition, would it?
 *ANN:	No   (.) be in a
-*STU:	It's the Burzoi
+*STU:	It's the Burzoi 
 *ANN:	Be in a
 *JEA:	In a way your book things.
-*ANN:	Be in a dic  er encyclopedia, won't it.
+*ANN:	Be in a dic er encyclopedia, won't it.
 *JEA:	Yeah.
 *STU:	Shall I go look it up?
 *ANN:	Mm.
 *JEA:	If you like    (.)  ((cough)) in with budgies.
 *ANN:	Yeah.
-*JEA:	Well   (.) pu  put the cover over them Stuart.
-*STU:	Put the cover on  them.
-*JEA:	 Or  shut the gate cos if not they'll come out   (.) you'll  find.
-*ANN:	 Can't  fly in the dark.
-*JEA:	 Yeah but he's gonna
-*STU:	  (  ) ?
+*JEA:	Well   (.) pu put the cover over them Stuart.
+*STU:	Put the cover on them.
+*JEA:	Or shut the gate cos if not they'll come out   (.) you'll find.
+*ANN:	Can't fly in the dark.
+*JEA:	Yeah but he's gonna 
+*STU:	 (        ) ?
 *JEA:	put the light on.
-*ANN:	Yeah, they'll come out of it   (.)  they think it's daylight again.
-*JEA:	 When you put the light on  then they come out and then I'm in trouble, I can't get  them back in
-*ANN:	 Yeah I know.
+*ANN:	Yeah, they'll come out of it   (.) they think it's daylight again.
+*JEA:	When you put the light on then they come out and then I'm in trouble, I can't get them back in 
+*ANN:	Yeah I know.
 *JEA:	again.
-*ANN:	No cos it's dark and they won't  fly.
-*JEA:	 Yeah  then yo  yo  you strip the light off, I've had all that.
-*ANN:	Yeah they won't fly when it's dark, they just stay where    (  )
-*JEA:	 If you  come out   (.) and then you put the light off   (.) yo  yo   (  ) they've got to   (.) su  the way you put them in the cage.
-*ANN: 	Ave you got a he::adache agin?
-	(0.8)
-*ANN:	°nmmm I knew you 'ad° ∙hhh ain' go:in out te'nigh' we're stoppin 806165_807717
-	he̲::re, (0.4) ⌈w e l l  I̲ am?⌉
-*JEA:	              ⌊(course y'are)⌋
-*ANN:	Im no̲::̲t?
-*JEA:	Wha?
-	(0.3)
-*ANN:	No' goin' t- we'll stop tonigh' as well.
-*JEA:	N↑O:̲:̲o̲ yer ↓NO::⌈t.
-*ANN:	                ⌊WE A̲::̲re?
-	(0.3)
-*JEA:	↑Ahm a::wri̲:ght ↓A::n⌈ne.
-*ANN:	                     ⌊Well I'm stoppin' te'nigh⌈t UNLESS YOURE GONNA
-	                                               ⌊NO:̲ yer n̲o̲t̲
-*ANN:	CHUCK ME O:UT? 818837_820222
-*JEA:	AHm ALL↓r̲i̲g̲h̲t̲ ⌈don' be s̲:̲i̲l̲l̲y̲
-*ANN:	              ⌊no you're n̲o̲t̲ you've go' bad 'eadache an yeh ⌈(   )
-	                                                            ⌊I'M
-	↑ALL↓RIght ⌈>NO' ⌉↑THAT ↓B̲A̲:D?= 823145_825081
-	           ⌊(   )⌋
-*ANN:	=couple a' t̲a̲b̲lets.
-*JEA:	Ì'm ↑ALL↓r̲i̲g̲h̲t̲. tell 'er I'm all↓right.=
-*STU:	=°she's allright°.=
-*JEA:	=(Be:have for goods ↓S̲:Ake.)
-	(1.0)
-*JEA:	I'm a:ll↓r̲i̲ght A::nne. (.) really a̲m̲. >don't be s̲i̲l̲ly.
-	(1.2)
-*ANN:	°°ah gi'yeh couuple tab⌈lets°°.
-*STU:	                       ⌊TREE OR SHRUB WITH WHITE or yellow flowers 837216_840864
-	begins with A:: and ends with A:: (0.8) six letters.
-	((playing crossword, lines omitted, then talk about parrots))
-*ANN:	They ca:n't fly:: at ni:ght.= 1020939_1023355
-*JEA:	=°yeh- ↑SIh don't w↓orry about me Ann, °↑↑I'm° al↓right.
-*ANN:	You're no:̲t ri:̲::̲ght. >you're not li:ke you sho̲u̲l̲d̲ be.
-*JEA:	W↑↑e::ll >a:h ↓know. >°but I'll be awwright. >I'm jus: geddin old
-	an 'at.°
-	(0.4)
-*ANN:	Na- ah- >Ah can't see that that Fri::day is now S̲u̲:̲nday night,
-	(1.2)
-*JEA:	↑O::h yeah >but it's< not to̲:: ↓bad (0.7) °I'm alri̲:ght.° (3.5) °I
-	really a::m,° (1.0) I feel a hell of a lot better.
-	(1.0)
-*ANN:	>Eh bu'yeh still go' a 'eada̲::̲che an' you're still not
-	ri̲::̲ght (.) ⌈you wouldn't o' gone t' sle̲e̲p̲ if ↓you were alr↑ight
-*JEA:	            ⌊(°I'm alright°.)
-	(1.3)
-*(JEA):	∙hhoh hhhh
-*ANN:  	N:̲↑:o never mi̲:↓::nd (.) you're going t' do̲c̲t̲o̲r̲'s. we'll
-	ma:ke appo̲i̲n̲t̲ment tom̲o̲rrow.
-*(JEA):	∙HHhh HHHhhhu ((heavy wheezing))
-	(0.4)
-*ANN:	Cos ↑y̲o̲u̲ ↓wo̲:n't an' if I m̲a̲::ke one ye'll 'ave to blummin'
-	go an' dHuhuo: iHht. ∙hh HHhhh ha hah hah
-*JEA:	°I promise (I will.)°
-*ANN:  	Hu:̲h:
-	(1.5)
-*JEA:  	↑I thi- I mu- af- I:: a̲::m I'm feelin' a lo̲:t better.
-*ANN:  	I: ca̲:n't see: tha' that could 'a been Fri::day's episo:de that's
-	still effectin' yeh toda̲::̲y,
-	(1.0)
-*JEA:  	Well wha' could they do:: anyweh.
-*ANN:  	Yeh don' kno:̲:w depends on whaddit ↑is?
-*JEA:  	°'Nnywa::⌈y::° (ah mean is:::,)
-*ANN:  	         ⌊Yeh mi::ght have ↑a touch o' blood pressure or somethin'
-	you don↑n̲o̲:: and ⌈ it- if y'have it wants tr̲e̲:̲a̲t̲in'. ∙hhh
-*JEA:  	                 ⌊°Ye̲::ah.°
-	(0.7)
-*ANN:  	No: good wa::itin' 'till yeh'really i̲l̲l̲ ↑i̲s̲ it.
-	(2.0)
-*ANN:	Better to go:: an it's n̲o̲t̲h̲in' then n̲o̲t̲ go:: and it i̲s̲
-	somethin'. ∙hhh °hm°
-	(1.2)
-*JEA:	(°Yo̲u̲ e:h°)
-*ANN:	°MHh hm⌈m°.
-*JEA:	       ⌊°You̲:↓::.°
-	(3.5)
-*JEA:  	I feel a lo' betteh, (1.0) pro::b'ly a (l̲o̲:̲:̲t̲ out o' the place)
-	here would do me good. >yih know just sitti⌈ng about (.) makes
-*ANN:  	                                           ⌊H m :̲:̲ m ,
-*JEA:  	yeh fe:̲el (.) ⌈tired D̲I̲D̲n̲'it?
-*ANN:  	              ⌊It does ma:kes you feel ti:red when yeh do:n't do:
-	an⌈ythin',
-*JEA:  	  ⌊↑It d̲o̲e̲s̲ ↓A̲::⌈nn.
-*ANN:  	                ⌊You seem mO:RE Ti̲:red than if you had of be-
-	⌈really 'ard e::h.
-*JEA:  	⌊↑Ye̲::ah (you kno-) yeh you've ↑'a̲d̲ a bit of a- (.) you kno̲::̲w
-	a din'- (.) busy (.) plate dn- Fri:dy's yeh see lasa̲g̲n̲::yehs?
-	freh the Inghams,
-	(1.0)
-*ANN:  	⌈A' THey (goin' ↑up here,)⌉
-*JEA:  	⌊ N o t  W O R t h  t e h ⌋ (go ⌈out even,)
-*STU:  	                                ⌊All done.
-*ANN:  	What is it then?
-*ANN: 	Ave you got a he::adache agin?
-	(0.8)
-*ANN:	°nmmm I knew you 'ad° ∙hhh ain' go:in out te'nigh' we're stoppin
-	he̲::re, (0.4) ⌈w e l l  I̲ am?⌉
-*JEA:	              ⌊(course y'are)⌋
-*ANN:	Im no̲::̲t?
-*JEA:	Wha?
-	(0.3)
-*ANN:	No' goin' t- we'll stop tonigh' as well.
-*JEA:	N↑O:̲:̲o̲ yer ↓NO::⌈t.
-*ANN:	                ⌊WE A̲::̲re?
-	(0.3)
-*JEA:	↑Ahm a::wri̲:ght ↓A::n⌈ne.
-*ANN:	                     ⌊Well I'm stoppin' te'nigh⌈t UNLESS YOURE GONNA
-	                                               ⌊NO:̲ yer n̲o̲t̲
-*ANN:	CHUCK ME O:UT?
-*JEA:	AHm ALL↓r̲i̲g̲h̲t̲ ⌈don' be s̲:̲i̲l̲l̲y̲
-*ANN:	              ⌊no you're n̲o̲t̲ you've go' bad 'eadache an yeh ⌈(   )
-	                                                            ⌊I'M
-	↑ALL↓RIght ⌈>NO' ⌉↑THAT ↓B̲A̲:D?=
-	           ⌊(   )⌋
-*ANN:	=couple a' t̲a̲b̲lets.
-*JEA:	Ì'm ↑ALL↓r̲i̲g̲h̲t̲. tell 'er I'm all↓right.=
-*STU:	=°she's allright°.=
-*JEA:	=(Be:have for goods ↓S̲:Ake.)
-	(1.0)
-*JEA:	I'm a:ll↓r̲i̲ght A::nne. (.) really a̲m̲. >don't be s̲i̲l̲ly.
-	(1.2)
-*ANN:	°°ah gi'yeh couuple tab⌈lets°°.
-*STU:	                       ⌊TREE OR SHRUB WITH WHITE or yellow flowers
-	begins with A:: and ends with A:: (0.8) six letters.
-	((playing crossword, lines omitted, then talk about parrots))
-*ANN:	They ca:n't fly:: at ni:ght.= 1020939_1023355
-*JEA:	=°yeh- ↑SIh don't w↓orry about me Ann, °↑↑I'm° al↓right.
-*ANN:	You're no:̲t ri:̲::̲ght. >you're not li:ke you sho̲u̲l̲d̲ be.
-*JEA:	W↑↑e::ll >a:h ↓know. >°but I'll be awwright. >I'm jus: geddin old
-	an 'at.°
-	(0.4)
-*ANN:	Na- ah- >Ah can't see that that Fri::day is now S̲u̲:̲nday night,
-	(1.2)
-*JEA:	↑O::h yeah >but it's< not to̲:: ↓bad (0.7) °I'm alri̲:ght.° (3.5) °I
-	really a::m,° (1.0) I feel a hell of a lot better.
-	(1.0)
-*ANN:	>Eh bu'yeh still go' a 'eada̲::̲che an' you're still not
-	ri̲::̲ght (.) ⌈you wouldn't o' gone t' sle̲e̲p̲ if ↓you were alr↑ight
-*JEA:	            ⌊(°I'm alright°.)
-	(1.3)
-*(JEA):	∙hhoh hhhh
-*ANN:  	N:̲↑:o never mi̲:↓::nd (.) you're going t' do̲c̲t̲o̲r̲'s. we'll
-	ma:ke appo̲i̲n̲t̲ment tom̲o̲rrow.
-*(JEA):	∙HHhh HHHhhhu ((heavy wheezing))
-	(0.4)
-*ANN:	Cos ↑y̲o̲u̲ ↓wo̲:n't an' if I m̲a̲::ke one ye'll 'ave to blummin'
-	go an' dHuhuo: iHht. ∙hh HHhhh ha hah hah
-*JEA:	°I promise (I will.)°
-*ANN:  	Hu:̲h:
-	(1.5)
-*JEA:  	↑I thi- I mu- af- I:: a̲::m I'm feelin' a lo̲:t better.
-*ANN:  	I: ca̲:n't see: tha' that could 'a been Fri::day's episo:de that's
-	still effectin' yeh toda̲::̲y,
-	(1.0)
-*JEA:  	Well wha' could they do:: anyweh.
-*ANN:  	Yeh don' kno:̲:w depends on whaddit ↑is?
-*JEA:  	°'Nnywa::⌈y::° (ah mean is:::,)
-*ANN:  	         ⌊Yeh mi::ght have ↑a touch o' blood pressure or somethin'
-	you don↑n̲o̲:: and ⌈ it- if y'have it wants tr̲e̲:̲a̲t̲in'. ∙hhh
-*JEA:  	                 ⌊°Ye̲::ah.°
-	(0.7)
-*ANN:  	No: good wa::itin' 'till yeh'really i̲l̲l̲ ↑i̲s̲ it.
-	(2.0)
-*ANN:	Better to go:: an it's n̲o̲t̲h̲in' then n̲o̲t̲ go:: and it i̲s̲
-	somethin'. ∙hhh °hm°
-	(1.2)
-*JEA:	(°Yo̲u̲ e:h°)
-*ANN:	°MHh hm⌈m°.
-*JEA:	       ⌊°You̲:↓::.°
-	(3.5)
-*JEA:  	I feel a lo' betteh, (1.0) pro::b'ly a (l̲o̲:̲:̲t̲ out o' the place)
-	here would do me good. >yih know just sitti⌈ng about (.) makes
-*ANN:  	                                           ⌊H m :̲:̲ m ,
-*JEA:  	yeh fe:̲el (.) ⌈tired D̲I̲D̲n̲'it?
-*ANN:  	              ⌊It does ma:kes you feel ti:red when yeh do:n't do:
-	an⌈ythin',
-*JEA:  	  ⌊↑It d̲o̲e̲s̲ ↓A̲::⌈nn.
-*ANN:  	                ⌊You seem mO:RE Ti̲:red than if you had of be-
-	⌈really 'ard e::h.
-*JEA:  	⌊↑Ye̲::ah (you kno-) yeh you've ↑'a̲d̲ a bit of a- (.) you kno̲::̲w
-	a din'- (.) busy (.) plate dn- Fri:dy's yeh see lasa̲g̲n̲::yehs?
-	freh the Inghams,
-	(1.0)
-*ANN:  	⌈A' THey (goin' ↑up here,)⌉
-*JEA:  	⌊ N o t  W O R t h  t e h ⌋ (go ⌈out even,)
-*STU:  	                                ⌊All done.
-*ANN:  	What is it then?
-	(6.0)
-*ANN:	Who wrote the  Four Horseman   (  )
-*STU:	 I  it's actually  spelt Ibanez   (.) I B A  N E Z
-*ANN:	 I mean I've  heard of the Four Horseman and the   (.) Apocalypse  but I never know who wrote it.
-*STU:	  (  )   (.) Ibanez   (.) but it's pronounced Ibania
+*ANN:	No cos it's dark and they won't fly.
+*JEA:	Yeah then yo yo you strip the light off, I've had all that.
+*ANN:	Yeah they won't fly when it's dark, they just stay where   (        ) 
+*JEA:	If you come out   (.) and then you put the light off   (.) yo yo  (        ) they've got to   (.) su the way you put them in the cage.
+*ANN:	They can't fly at night.
+*JEA:	Yeah, don't worry about me Ann, I'm alright.
+*ANN:	You're not right, you're not like you should be.
+*JEA:	Well I know  (        ) 
+*ANN:	No a I can't see that that Friday is now Sunday night.
+*JEA:	Oh yeah but it's not too bad   (.) I'm alright   (.) I really am   (.) I feel a hell of a lot better.
+*ANN:	Maybe, you still got a headache, and you're still not right   (.) you wouldn't of 
+*JEA:	I'm alright.
+*ANN:	gone to sleep if you were alright   (.) No never mind   (.) and you're going the doctor's we'll make appointment tomorrow   (.) cos you won't and if I make one you'll have to blooming go and   [laughing] do it  [] .
+*STU:	 (        ) 
+*ANN:	Oh.
+*JEA:	I think I'm a I'm a I am I feel a lot better.
+*ANN:	I can't see that that could of been Friday's episode that's still effecting you today.
+*JEA:	 (        ) give it to me.
+*ANN:	You don't know, depends on what it is.
+*JEA:	No way.
+*ANN:	You might have a touch of blood pressure or something, you don't know and i 
+*JEA:	Yes.
+*ANN:	if you have it wants treating   (.) no good waiting till you're really ill is it? (.) Better to go in to nothing and then not go and it is something.
+*STU:	You   (.)  (        ) 
+*JEA:	I feel a lot better   (.) probably   (        ) you're going to be with you, just sitting about 
+*ANN:	I know.
+*JEA:	makes you feel   (.) tired dunnit?
+*ANN:	Does makes you feel tired, when you don't do anything.
+*JEA:	It does Ann.
+*ANN:	You seem more tired than if you had of been   (.) a really hard day.
+*JEA:	Yeah   (        ) had a bit of   (.) you know, I didn't   (.) busy place and Friday   (        ) was lasagne for the Ininghams  (.)  (        ) 
+*ANN:	They not well?
+*JEA:	 (        ) 
+*STU:	All done.
+*ANN:	What is it then? (.) Who wrote the Four Horseman   (        ) 
+*STU:	I it's actually spelt Ibanez   (.) I B A N E Z 
+*ANN:	I mean I've heard of the Four Horseman and the   (.) Apocalypse but I never know who wrote it.
+*STU:	 (        )  (.) Ibanez   (.) but it's pronounced Ibania 
 *ANN:	Oh.
 *STU:	and Saint Theresa was born at Avila, A V I L A, Avila.
-*JEA:	  (  )
-*ANN:	 All done.
-*JEA:	Very good, is that the lot now  (  ) ?
+*JEA:	 (        ) 
+*ANN:	All done.
+*JEA:	Very good, is that the lot now  (        ) ?
 *STU:	Today.
 *JEA:	Yeah we're getting better.
-*STU:	And we've got time for a  for another quiz now ain't you?
+*STU:	And we've got time for a for another quiz now ain't you?
 *ANN:	Mm   (.) don't think mum's in the mood for a quiz read.
-*JEA:	Yeah I  don't mind.
-*ANN:	 Ha ha ha.
-*JEA:	What you want the cards?  (.) It's up to you.
+*JEA:	Yeah I don't mind.
+*ANN:	Ha ha ha.
+*JEA:	What you want the cards? (.) It's up to you.
 *STU:	I don't mind   (.) it's up to you.
 *JEA:	It's up to you!
 *STU:	No it's not it's up to you.
 *JEA:	There's nothing on the telly is there?
 *ANN:	No.
 *STU:	As far as I know   (.) no.
-*ANN:	No there never is at this time of day, there isn't   (.)  news
-*JEA:	 No.
-*ANN:	an
-*STU:	 ((looking at newspaper))Songs of Praise?  (.) The Money Programme   (.) The Cosby Show
+*ANN:	No there never is at this time of day, there isn't   (.) news 
+*JEA:	No.
+*ANN:	an 
+*STU:	 ((looking at newspaper))Songs of Praise? (.) The Money Programme   (.) The Cosby Show
 *ANN:	Oh yeah.
 *STU:	Highway   (.) Beadle's About at quarter past seven and the Ruth Rendell Mysteries at seven forty five.
-*ANN:	What time's London's Burning on, nine o'  clock?
-*STU:	 Eight  forty five.
-*ANN:	Oh eight forty five tonight, if yo   (.) what time till then, ten?
+*ANN:	What time's London's Burning on, nine o' clock?
+*STU:	Eight forty five.
+*ANN:	Oh eight forty five tonight, if yo  (.) what time till then, ten?
 *STU:	Nine forty five.
-*ANN:	  (  )
-*JEA:	 What eighty  twenty five, what's that Ann?
-*ANN:	London's Burning, second epis
-*STU:	 Oh eh that's what you watch  yes.
+*ANN:	 (        ) 
+*JEA:	What eighty twenty five, what's that Ann?
+*ANN:	London's Burning, second epis 
+*STU:	Oh eh that's what you watch yes.
 *ANN:	episode.
-*STU:	 ((reading)) Don't miss the last    (.)  this last of the episode?
-*ANN:	 Yeah it's the last one
-*STU:	 ((reading)) series as the massive warehouse finally    (  )  (.) While Howard is being put into the Ambulance the press are  hounding    (  )
-*ANN:	 Isn't that funny that reminds me of an old girl I had  at Dennis House   (.) the one I used to be on i   (.) I used to have to get her in bed   (.) get her all propped up   (.)  and then
-*STU:	 Did you?
+*STU:	 [reading] Don't miss the last    []  (.) this last of the episode?
+*ANN:	Yeah it's the last one 
+*STU:	 [reading] series as the massive warehouse finally    (        )  (.) While Howard is being put into the Ambulance the press are hounding    (        )  [] 
+*ANN:	Isn't that funny that reminds me of an old girl I had at Dennis House   (.) the one I used to be on i  (.) I used to have to get her in bed   (.) get her all propped up   (.) and then 
+*STU:	Did you?
 *ANN:	I used to have to go back up, after the supper   (.) and give her the   (.) and I had to go back up and turn London's Burning on   (.) then I used to have to go back up   (.) to turn it off
-*JEA:	 ((laugh))
-*ANN:	but usually when I went back up to do it, she'd be  sleeping.
-*JEA:	 She's sleeping  anyway, she'd fall asleep   ((laughing)) in the middle of it .
-*ANN:	And there would be London Burning bashing away   (.) and she'd be   (.) and I'd go in and I'd turn it off and then then then you know   (.) and she'd  say
-*JEA:	 I  don't watch it regular, now and then.
-*ANN:	 Oh I do  like that programme, ((laughing)) she'd say
-*JEA:	But I watch  the film
-*ANN:	 she   (  )
-*JEA:	the film, Jack Rosenthal wha  made a film
+*JEA:	 ((laugh)) 
+*ANN:	but usually when I went back up to do it, she'd be sleeping.
+*JEA:	She's sleeping anyway, she'd fall asleep   [laughing] in the middle of it  [] .
+*ANN:	And there would be London Burning bashing away   (.) and she'd be   (.) and I'd go in and I'd turn it off and then then then you know   (.) and she'd say 
+*JEA:	I don't watch it regular, now and then.
+*ANN:	Oh I do like that programme, [laughing] she'd say  [] 
+*JEA:	But I watch the film 
+*ANN:	she   (        ) 
+*JEA:	the film, Jack Rosenthal wha made a film
 *ANN:	Yeah.
-*JEA:	which the  then they did the series  off it.
-*ANN:	 Yeah    (.)  oh it's quite good I've seen some of that
-*JEA:	 But the film was really good, I've seen the odd  one, if there's been nothing on.
+*JEA:	which the then they did the series off it.
+*ANN:	Yeah   (.) oh it's quite good I've seen some of that 
+*JEA:	But the film was really good, I've seen the odd one, if there's been nothing on.
 *ANN:	Yeah.
-*JEA:	But last week   (.)  she went to the
-*ANN:	 It was good.
-*JEA:	pub an  it and it really was good,an  and because o  these fireman are trapped
+*JEA:	But last week   (.) she went to the 
+*ANN:	It was good.
+*JEA:	pub an it and it really was good,an and because o these fireman are trapped
 *ANN:	Yes.
-*JEA:	and that then I thought, and then when it finished I didn't realize it was two parts, you see, and I thought well  that's a funny way
-*ANN:	  (  )
+*JEA:	and that then I thought, and then when it finished I didn't realize it was two parts, you see, and I thought well that's a funny way 
+*ANN:	 (        ) 
 *JEA:	I mean you I don't know if they're dead or alive or   (.) and then it said see the next one, next week.
 *ANN:	Oh I see.
-*JEA:	I thought oh, ha
-*ANN:	 Yeah.
-*JEA:	We just, I mean I just started I'd   (.) I was ironing or something and I turned it over and it   (.)  so I
-*ANN:	 Yeah.
-*JEA:	didn't know it was two parts, till I and I thought what a funny way to end, I mean are they  dead
-*ANN:	 Yeah.
+*JEA:	I thought oh, ha 
+*ANN:	Yeah.
+*JEA:	We just, I mean I just started I'd   (.) I was ironing or something and I turned it over and it   (.) so I 
+*ANN:	Yeah.
+*JEA:	didn't know it was two parts, till I and I thought what a funny way to end, I mean are they dead 
+*ANN:	Yeah.
 *JEA:	or are they alive or   (.) are they gonna get them out.
 *STU:	Where's the cards then?
 *ANN:	Where are they?
 *JEA:	In the airing cupboard.
 *ANN:	What they've dropped down there?
 *JEA:	That's right   (.) It's funny when you don't it's gonna be two part, I mean you don't know what heck's going on, innit?
-*ANN:	 (  )
+*ANN:	 (        ) 
 *JEA:	Gotta pick a card, any card.
 *ANN:	Oh listen to it.
-*JEA:	Gonna tell my fortune, aren't you?  (.) Right then   (.) what's it gonna be   (.) what do you predict for my future, (  )
-*STU:	 (  )
-*JEA:	 ((laugh))
-*ANN:	Is, I say, is Shirley
-*STU:	 The longer  the longer you stay with me and Ann  the better.
-*JEA:	 Ooh  ooh ooh ooh!
-*ANN:	 Yeah and the longer   (  )
+*JEA:	Gonna tell my fortune, aren't you? (.) Right then   (.) what's it gonna be   (.) what do you predict for my future, (        ) 
+*STU:	 (        ) 
+*JEA:	 ((laugh)) 
+*ANN:	Is, I say, is Shirley 
+*STU:	The longer the longer you stay with me and Ann the better.
+*JEA:	Ooh ooh ooh ooh!
+*ANN:	Yeah and the longer  (        ) 
 *STU:	The longer your health and happiness will continue.
-*JEA:	Ooh listen  to
-*STU:	 Erm
+*JEA:	Ooh listen to 
+*STU:	Erm 
 *JEA:	him, will you.
-*ANN:	Oh for god's  sake!
-*JEA:	 Why  you want the cards?
-*STU:	Yeah ge  get a pen and then we  can add it up.
-*JEA:	 Shirley wants to be   (  ) .
+*ANN:	Oh for god's sake!
+*JEA:	Why you want the cards?
+*STU:	Yeah ge get a pen and then we can add it up.
+*JEA:	Shirley wants to be  (        ) .
 *STU:	Don't cheat   (.) don't look at the answers, take it away from her face.
-*JEA:	 I'm not
-*ANN:	  ((laugh))
+*JEA:	I'm not 
+*ANN:	 ((laugh)) 
 *JEA:	gonna see.
 *STU:	I'll do rounds.
 *JEA:	You want a   (.) bit of paper   (.) oh you got a bit.
 *STU:	No that will be alright.
-*ANN:	You predi   (.) predict we're gonna get a nice house and
+*ANN:	You predi  (.) predict we're gonna get a nice house and
 *STU:	Yes, yes.
-*ANN:	 and live  happily after do you?
+*ANN:	and live happily after do you?
 *STU:	Yes.
 *ANN:	Oh alright then.
-*JEA:	 (  )  (.) we haven't got much paper now.
-*ANN:	Mus   (.) mustn't make an offer of something before   (.) we lose that one.
-*JEA:	But then the thing is   (.) what are you on next week?  (.)  Earlies?
-*ANN:	 Earlies
+*JEA:	 (        )  (.) we haven't got much paper now.
+*ANN:	Mus  (.) mustn't make an offer of something before   (.) we lose that one.
+*JEA:	But then the thing is   (.) what are you on next week? (.) Earlies?
+*ANN:	Earlies 
 *JEA:	Oh well you're not so bad then are you?
-*ANN:	Well I mean we're off tomorrow so we might as well
+*ANN:	Well I mean we're off tomorrow so we might as well 
 *JEA:	Yeah got on with it.
 *STU:	Depends what time I get up.
 *ANN:	You get up all day, doesn't matter we'll go in the afternoon.
 *JEA:	Yeah you get out.
 *STU:	Don't normally get up till three o'clock.
 *JEA:	You get up!
-*ANN:	You'll be up before three o'clock, ((laughing)) matey !
-*STU:	 (  )
+*ANN:	You'll be up before three o'clock, [laughing] matey  [] !
+*STU:	 (        ) 
 *ANN:	I'll leave you till lunchtime but that's your lot.
 *JEA:	I tell you what you do Ann   (.) tonight
-*ANN:	Hide the whisky up. ((laugh))
-*JEA:	That's the  (  ) .
-*ANN:	And the records. ((laugh))
+*ANN:	Hide the whisky up. ((laugh)) 
+*JEA:	That's the  (        ) .
+*ANN:	And the records. ((laugh)) 
 *JEA:	That's my girl.
-*STU:	Mother!  Your
-*JEA:	 Yes.
+*STU:	Mother!Your 
+*JEA:	Yes.
 *STU:	question.
 *JEA:	See he's blushing now!
-*ANN:	 ((laugh))
+*ANN:	 ((laugh)) 
 *STU:	Mother, your question
-*JEA:	Don't have to stop up all night   (.)  and
-*STU:	 I
-*JEA:	sleep all day   (.) Ann will get fed up with you   (.) she won't wanna buy house with you  if you do
-*STU:	 No.
+*JEA:	Don't have to stop up all night   (.) and 
+*STU:	I 
+*JEA:	sleep all day   (.) Ann will get fed up with you   (.) she won't wanna buy house with you if you do 
+*STU:	No.
 *JEA:	that   (.) will you?
-*ANN:	 ((laugh))
+*ANN:	 ((laugh)) 
 *STU:	So
 *JEA:	Anyway living in a flat you might have somebody downstairs that'll beat you up.
 *STU:	Yes mum.
-*ANN:	 ((laugh))
+*ANN:	 ((laugh)) 
 *JEA:	Did you tell Ann about the noisy   (.) the television, no? (.) you didn't did you?
 *STU:	Yep.
 *JEA:	Good for you.
-*ANN:	Well if the people at the back of her were having   (.) terrible row   (.) ah I   (.) I ha  I hated it, it was horrible.
+*ANN:	Well if the people at the back of her were having   (.) terrible row   (.) ah I   (.) I ha I hated it, it was horrible.
 *JEA:	Who was?
-*ANN:	The people who were lived behind Ann   (.) there's a yo  young couple in there   (.) I think he beat her up, I mean that   (.) I wanted to go round me, because I know what it felt like and I wished somebody had come and help me.
+*ANN:	The people who were lived behind Ann   (.) there's a yo young couple in there   (.) I think he beat her up, I mean that   (.) I wanted to go round me, because I know what it felt like and I wished somebody had come and help me.
 *JEA:	What?
 *ANN:	She was a scream.
-*JEA:	Could  you
-*ANN:	 No.
+*JEA:	Could you 
+*ANN:	No.
 *JEA:	hear it?
 *ANN:	Oh it was terrible.
 *JEA:	You didn't?
-*ANN:	Yeah   (.) and Ann was on about it you see and I said oh well   (.) some noisy bloody neighbours and I    (.)  ((laughing)) and I said oh well it's like your telly innit !  (.) Our telly? I said yeah well that   ((laughing)) keeps us awake as well!
+*ANN:	Yeah   (.) and Ann was on about it you see and I said oh well   (.) some noisy bloody neighbours and I    (.)  [laughing] and I said oh well it's like your telly innit  [] ! (.) Our telly?I said yeah well that   [laughing] keeps us awake as well!
 *JEA:	Did she?
-*ANN:	Oh, she said   (.) oh oh.  ((laugh))  (.) Oh it was horrible   (.) not the first time.
+*ANN:	Oh, she said   (.) oh oh. ((laugh))  (.) Oh it was horrible   (.) not the first time.
 *JEA:	Well have you heard them?
-*ANN:	Well she screamed and he   (.) I reckon she locked herself in the bathroom and he about knocked the door down   (.)  (  )
-*JEA:	Well yo  you wouldn't think they'd do that when they know that people can hear you.
-*ANN:	They don't ca  they don't care   (.) I used to say that a   (.) if I said that to Steven   (.) pack it in, somebody will hear, he'd say well open the bloody windows and let them hear!
-*JEA:	Do you have you met the people? Have you seen them?
-*ANN:	I've seen her, well yeah I've seen them both but I don't know them, never spoken to  them.
-*JEA:	 Don't  know what they're like?
-*ANN:	He looks a bit rough   (.)  Police have
-*JEA:	 Does he?
+*ANN:	Well she screamed and he   (.) I reckon she locked herself in the bathroom and he about knocked the door down   (.)  (        ) 
+*JEA:	Well yo you wouldn't think they'd do that when they know that people can hear you.
+*ANN:	They don't ca they don't care   (.) I used to say that a   (.) if I said that to Steven   (.) pack it in, somebody will hear, he'd say well open the bloody windows and let them hear!
+*JEA:	Do you have you met the people?Have you seen them?
+*ANN:	I've seen her, well yeah I've seen them both but I don't know them, never spoken to them.
+*JEA:	Don't know what they're like?
+*ANN:	He looks a bit rough   (.) Police have 
+*JEA:	Does he?
 *ANN:	been round there once or twice after him for a different thing.
-*JEA:	A  is he? Oh dear!
-*ANN:	But it's her house   (.) I mean they ain't got no chi  children or   (.) feel like saying to her whatever do you keep him  there for.
-*JEA:	 Is he, did you  oh I see.
-*ANN:	It's her own home, I mean he come and live with her fo   (.) he does he belts her because I I y  I know the signs and it   (.) oh it makes me go cold.
+*JEA:	A is he?Oh dear!
+*ANN:	But it's her house   (.) I mean they ain't got no chi children or   (.) feel like saying to her whatever do you keep him there for.
+*JEA:	Is he, did you oh I see.
+*ANN:	It's her own home, I mean he come and live with her fo  (.) he does he belts her because I I y I know the signs and it   (.) oh it makes me go cold.
 *JEA:	Yeah.
 *ANN:	I feel like going round and
 *JEA:	Does he drink?
 *ANN:	I don't know.
 *JEA:	Does he get drunk or is he just violent?
 *STU:	Oh bloody hell!
-*JEA:	 Honestly
-*ANN:	 What's up love?
+*JEA:	Honestly 
+*ANN:	What's up love?
 *JEA:	you hear of these things don't you?
-*ANN:	But I say sometimes when I was i   (.) like that I wished somebody would come round and knock on the door, perhaps
+*ANN:	But I say sometimes when I was i  (.) like that I wished somebody would come round and knock on the door, perhaps
 *JEA:	Yes.
-*ANN:	just calm him down or  something but
-*JEA:	 I did    (.) I wonder how it  works
-*ANN:	 see people     (  )   (  )
-*JEA:	 Ann I wonder  how it it must feel   (.) if you hear that   (.) and you know it's a kid involved?
+*ANN:	just calm him down or something but 
+*JEA:	I did   (.) I wonder how it works 
+*ANN:	see people    (        )  (        ) 
+*JEA:	Ann I wonder how it it must feel   (.) if you hear that   (.) and you know it's a kid involved?
 *ANN:	Then I would report it.
 *JEA:	Would you?
 *ANN:	Oh yes.
 *JEA:	You feel a lot
-*ANN:	I wo  i  i  if I'd of had a phone I'd have phoned the police then, I said to Stuart.
+*ANN:	I wo i i if I'd of had a phone I'd have phoned the police then, I said to Stuart.
 *JEA:	Yeah.
-*ANN:	If I'd of had bi  I'd have phoned the police and told them there's something awful going on next door.
+*ANN:	If I'd of had bi I'd have phoned the police and told them there's something awful going on next door.
 *JEA:	Yes.
 *ANN:	Women screaming.
 *JEA:	But they're not interested are they?
 *ANN:	Oh they have to nowadays.
-*JEA:	Oh do they?  (.) I thought they just called it a  domestic
-*ANN:	  (  )
+*JEA:	Oh do they? (.) I thought they just called it a domestic 
+*ANN:	 (        ) 
 *JEA:	and that was it.
 *ANN:	Well they used, but not now.
 *STU:	No.
-*JEA:	But if it was a kid involved, I mean, well you would  wouldn't you?
-*ANN:	 Well I would.
+*JEA:	But if it was a kid involved, I mean, well you would wouldn't you?
+*ANN:	Well I would.
 *JEA:	Yeah   (.) yeah, right.
 *STU:	Mother's question.
-*ANN:	  ((laugh))
-*JEA:	 Sorry, oh here we go Ann!
+*ANN:	 ((laugh)) 
+*JEA:	Sorry, oh here we go Ann!
 *ANN:	Ooh we're in trouble!
-*STU:	Mother's  question.
-*JEA:	 Shut up     (  )
-*STU:	 Are you ready  for mother's question?
-*ANN:	You'll have your  peace
-*JEA:	 Yes.
-*ANN:	tonight, when I've gone to bed. ((laugh))
-*STU:	 ((playing quiz game)) ((reading)) What is the capital of Switzerland ?
-*JEA:	Er Bal   (.) Baddel
+*STU:	Mother's question.
+*JEA:	Shut up   (        ) 
+*STU:	Are you ready for mother's question?
+*ANN:	You'll have your peace 
+*JEA:	Yes.
+*ANN:	tonight, when I've gone to bed. ((laugh)) 
+*STU:	 ((playing quiz game)) [reading] What is the capital of Switzerland  [] ?
+*JEA:	Er Bal  (.) Baddel 
 *STU:	Incorrect, bonus to Ann.
 *ANN:	Geneva.
 *STU:	Incorrect.
-*ANN:	Oh what  is it then.
-*STU:	 Bern.
+*ANN:	Oh what is it then.
+*STU:	Bern.
 *ANN:	Oh.
 *JEA:	Oh.
 *STU:	I put that the other day, do you remember on the quiz?
-*JEA:	 Oh yeah we had that the other night  , cos I got it wrong   ((laughing)) the other night as well!
-*STU:	Yeah    (.)  (  ) quiz, I put Geneva down.
-*ANN:	Yeah so did I, (  )
-*STU:	 No a  no I put Ber   I put  Bern down.
-*JEA:	 You put  something else, I put Geneva, we were both wrong.
-*STU:	 I put Bern down  originally and then I thought to myself
+*JEA:	Oh yeah we had that the other night , cos I got it wrong   [laughing] the other night as well!
+*STU:	Yeah    (.)  (        ) quiz, I put Geneva down.
+*ANN:	Yeah so did I, (        ) 
+*STU:	No a no I put Ber I put Bern down.
+*JEA:	You put something else, I put Geneva, we were both wrong.
+*STU:	I put Bern down originally and then I thought to myself
 *JEA:	Where was this, up the pub?
 *STU:	Yeah.
-*JEA:	Oh you've had another quiz have you?  (.) Oh.
+*JEA:	Oh you've had another quiz have you? (.) Oh.
 *STU:	So then I crossed it out and put Geneva.
 *JEA:	Yeah.
-*STU:	So I got it wrong   (.) But I put Bern down originally   (.) Ann's question    (.)  ((reading)) Where is the Orange Free State ?
+*STU:	So I got it wrong   (.) But I put Bern down originally   (.) Ann's question    (.)  [reading] Where is the Orange Free State  [] ?
 *ANN:	South America.
-*STU:	Incorrect   (.)  Mother's
-*ANN:	 It is.
+*STU:	Incorrect   (.) Mother's 
+*ANN:	It is.
 *STU:	bonus.
 *JEA:	Africa.
-*STU:	South  Africa.
-*ANN:	 South  Africa that's what I meant, ((laugh)) not South America, that's what I meant.
-*STU:	 That's a bonus  point to mother.
-*JEA:	 Hooray!
-*ANN:	  (  )  that's what I  meant so
-*JEA:	  ((laugh))
+*STU:	South Africa.
+*ANN:	South Africa that's what I meant, ((laugh)) not South America, that's what I meant.
+*STU:	That's a bonus point to mother.
+*JEA:	Hooray!
+*ANN:	 (        ) that's what I meant so 
+*JEA:	 ((laugh)) 
 *ANN:	I knew where it was
-*STU:	Mother's question    (.)  ((reading)) Which is the land of milk and honey ?
-*JEA:	Oh blimey, I should know that   (.) the land of milk and honey   (6.0) Denmark.
+*STU:	Mother's question    (.)  [reading] Which is the land of milk and honey  [] ?
+*JEA:	Oh blimey, I should know that   (.) the land of milk and honey   (.) Denmark.
 *STU:	Incorrect   (.) Ann, for a bonus.
 *ANN:	Here.
 *STU:	No it's
 *ANN:	Ha ha.
-*STU:	in    (  )
-*ANN:	 Don't  know  er
-*STU:	 Israel.
+*STU:	in   (        ) 
+*ANN:	Don't know er 
+*STU:	Israel.
 *ANN:	Mm.
 *JEA:	Is it, I've never heard anything so daft!
-*STU:	Ann's question    (.)  ((reading)) The Atlas is the main mountain range of which country ?
+*STU:	Ann's question    (.)  [reading] The Atlas is the main mountain range of which country  [] ?
 *ANN:	Ah   (.) America.
 *STU:	Incorrect.
 *JEA:	Ha.
@@ -833,40 +674,40 @@
 *JEA:	It's, the Atlas mountains er   (.) they're in Europe   (.) but where?
 *STU:	Which country?
 *JEA:	They're in Spain.
-*STU:	Th  incorrect.
-*JEA:	 (  )
+*STU:	Th incorrect.
+*JEA:	 (        ) 
 *STU:	Morocco.
 *JEA:	Oh.
-*STU:	Mother's question    (.)  ((reading)) What is the modern name of the Muscovite Empire ?
+*STU:	Mother's question    (.)  [reading] What is the modern name of the Muscovite Empire  [] ?
 *JEA:	Pakistan.
 *STU:	Incorrect, bonus to Ann.
 *ANN:	Russia.
-*STU:	Well the card says the Union of Soviet  Socialist Republics.
-*ANN:	 Oh USSR!
+*STU:	Well the card says the Union of Soviet Socialist Republics.
+*ANN:	Oh USSR!
 *JEA:	Yeah.
 *STU:	So I think I'll give you that.
-*JEA:	 Yes   (  )
-*ANN:	 Yes   (  )
-*JEA:	 We're not   (  ) very good are we?
-*STU:	 Well   (  )
+*JEA:	Yes   (        ) 
+*ANN:	Yes   (        ) 
+*JEA:	We're not   (        ) very good are we?
+*STU:	Well   (        ) 
 *ANN:	What's the matter?
-*JEA:	We're doing te  I tell you these are rotten cards.
-*STU:	Ann's question   (.) Oh   ((reading)) what are rocks with an imprint of an animal or  plant
-*ANN:	 Fossil.
-*STU:	called ?
+*JEA:	We're doing te I tell you these are rotten cards.
+*STU:	Ann's question   (.) Oh   [reading] what are rocks with an imprint of an animal or plant 
 *ANN:	Fossil.
-*STU:	That's two points there   (.) mother    (.)  ((reading)) In which country are goods and services paid for in escudos ?
-*JEA:	Not    (  )  (9.0) Erm Yugoslavia.
+*STU:	called  [] ?
+*ANN:	Fossil.
+*STU:	That's two points there   (.) mother    (.)  [reading] In which country are goods and services paid for in escudos  [] ?
+*JEA:	Not    (        )  (.) Erm Yugoslavia.
 *STU:	Incorrect, bonus point to Ann.
-*ANN:	Portugal I  think.
-*STU:	 Correct   one bonus
-*JEA:	 Good for Ann.
+*ANN:	Portugal I think.
+*STU:	Correct one bonus 
+*JEA:	Good for Ann.
 *STU:	point.
-*JEA:	I've heard of it Ann, but I couldn't
-*STU:	 Ann, Ann's  question.
-*JEA:	I thought it was blooming escudos, yeah it is Portugal  innit?
-*STU:	 ((reading))  What  is the epicentre of an earthquake ?
-*ANN:	The centre. ((laugh))
+*JEA:	I've heard of it Ann, but I couldn't 
+*STU:	Ann, Ann's question.
+*JEA:	I thought it was blooming escudos, yeah it is Portugal innit?
+*STU:	 [reading] What is the epicentre of an earthquake  [] ?
+*ANN:	The centre. ((laugh)) 
 *JEA:	Might not be though.
 *ANN:	The core.
 *JEA:	She said the centre, the core, what are you looking it up for!
@@ -875,72 +716,72 @@
 *ANN:	What else is it?
 *STU:	Point on the surface   (.) immediately   (.) above
 *JEA:	Above the core.
-*STU:	the actual    (  )  (.) I'll looking up see if I can see    (  )  (6.0) mother    (.)  ((reading)) Are quakes stronger on the moon than on the earth ?
+*STU:	the actual    (        )  (.) I'll looking up see if I can see    (        )  (.) mother    (.)  [reading] Are quakes stronger on the moon than on the earth  [] ?
 *JEA:	Quakes or quacks?
 *STU:	Quakes.
 *JEA:	Quackers!
-*ANN:	 ((laugh))
+*ANN:	 ((laugh)) 
 *JEA:	Edd the duck!
-*ANN:	 ((laugh))
-*JEA:	Is it stronger on the moon, or  is it
-*STU:	 Are  quakes stronger on the moon than on the earth?
-*JEA:	We've never had any quakes    (  )  (.) er I should imagine, so yes.
+*ANN:	 ((laugh)) 
+*JEA:	Is it stronger on the moon, or is it 
+*STU:	Are quakes stronger on the moon than on the earth?
+*JEA:	We've never had any quakes    (        )  (.) er I should imagine, so yes.
 *STU:	Say no instead.
 *JEA:	No.
-*ANN:	 ((laugh))
+*ANN:	 ((laugh)) 
 *STU:	Alright I'll give you that.
 *JEA:	Mm.
-*STU:	Ann's question    (.)  ((reading)) What is the sea between Italy and Yugoslavia?
+*STU:	Ann's question    (.)  [reading] What is the sea between Italy and Yugoslavia? [] 
 *ANN:	Adriatic.
 *STU:	Correct, two points.
 *JEA:	You're doing well Ann.
 *STU:	Mother
 *JEA:	What?
-*STU:	 ((reading)) The distance from London to Moscow
-*JEA:	Oh  God!
-*STU:	 is  approximately fifteen hundred kilometres   (.) two and a half thousand kilometres or three and a half thousand kilometres ?
+*STU:	 [reading] The distance from London to Moscow
+*JEA:	Oh God!
+*STU:	is approximately fifteen hundred kilometres   (.) two and a half thousand kilometres or three and a half thousand kilometres  [] ?
 *JEA:	Three and half thousand kilometres.
-*STU:	Incorrect   (.)  Ann
-*ANN:	 Two  and a half.
-*STU:	Correct, bonus point   (.) Ann's question    (.)  ((reading)) In which country are the ports of East London and Port Elizabeth ?
-*ANN:	 ((laughing)) South Africa .
+*STU:	Incorrect   (.) Ann 
+*ANN:	Two and a half.
+*STU:	Correct, bonus point   (.) Ann's question    (.)  [reading] In which country are the ports of East London and Port Elizabeth  [] ?
+*ANN:	 [laughing] South Africa  [] .
 *STU:	Correct.
-*JEA:	Ooh you are doing  well.
-*ANN:	 Ha.
+*JEA:	Ooh you are doing well.
+*ANN:	Ha.
 *STU:	Mother.
 *JEA:	Yes.
-*STU:	 ((reading)) Which are
-*JEA:	Ask me something I know   (.)  (  )
-*STU:	which are the two major religions of She  of Japan ?
+*STU:	 [reading] Which are
+*JEA:	Ask me something I know   (.)  (        ) 
+*STU:	which are the two major religions of She of Japan  [] ?
 *JEA:	Ooh
 *ANN:	I only know one.
-*JEA:	Ishitu
-*ANN:	 Yeah
-*STU:	 Yep
-*ANN:	it's the only one I know. ((laugh))
+*JEA:	Ishitu 
+*ANN:	Yeah 
+*STU:	Yep 
+*ANN:	it's the only one I know. ((laugh)) 
 *STU:	And the other one?
 *JEA:	Christianity?
 *STU:	No.
-*JEA:	What is it?  (.) Buddhism?
-*STU:	That'll do, two points to mother   (.) Ann's question    (.)  ((reading)) Is it possible to re  to traverse under the North Pole in mid-winter ?
+*JEA:	What is it? (.) Buddhism?
+*STU:	That'll do, two points to mother   (.) Ann's question    (.)  [reading] Is it possible to re to traverse under the North Pole in mid-winter  [] ?
 *ANN:	Yeah in a   (.) in a a submarine.
-*STU:	Yes   (.) mother    (.)  ((reading)) What is the Yucatan Canal ?
-*JEA:	It's a canal! ((laugh))
+*STU:	Yes   (.) mother    (.)  [reading] What is the Yucatan Canal  [] ?
+*JEA:	It's a canal! ((laugh)) 
 *STU:	No it's not actually.
 *JEA:	A waterway.
 *STU:	Yes but where?
-*JEA:	Where?  (.) In the  (  ) ?
+*JEA:	Where? (.) In the  (        ) ?
 *STU:	Where is the Yucatan?
-*JEA:	In the Yucon
+*JEA:	In the Yucon 
 *STU:	No.
 *JEA:	Japan.
 *STU:	No   (.) no.
 *JEA:	Ha.
-*STU:	The Yucatan peninsula, you know if you look at th  the map of the South America mi   (.) Central America
+*STU:	The Yucatan peninsula, you know if you look at th the map of the South America mi  (.) Central America
 *JEA:	Mm.
-*STU:	and then sort of the bits will go round like that and  then
-*JEA:	 Mm.
-*STU:	and about   (  ) goes like that
+*STU:	and then sort of the bits will go round like that and then 
+*JEA:	Mm.
+*STU:	and about   (        ) goes like that
 *JEA:	Mm.
 *STU:	then Cuba's about there
 *JEA:	Oh.
@@ -950,25 +791,25 @@
 *JEA:	Oh.
 *STU:	And the Yucatan Canal is the   (.) waterway that separates that bit from
 *ANN:	Oh   (.) not many people know that.
-*STU:	 Alright?
-*JEA:	 No    (.) I certainly   ((laughing)) didn't !
+*STU:	Alright?
+*JEA:	No   (.) I certainly   [laughing] didn't  [] !
 *STU:	And   (.) Ann's question.
 *JEA:	Not many people know that.
-*STU:	 ((reading)) Which are the only mid-ocean group of islands made from Granite ?
+*STU:	 [reading] Which are the only mid-ocean group of islands made from Granite  [] ?
 *ANN:	Mm   (.) mid-ocean group of islands made of granite?
-*STU:	 ((cough))
+*STU:	 ((cough)) 
 *ANN:	Seychelles.
 *STU:	Correct.
 *JEA:	Good for you Ann.
-*ANN:	That's only a blooming guess, I don't know of any   ((laughing)) mid-ocean bloody islands !
+*ANN:	That's only a blooming guess, I don't know of any   [laughing] mid-ocean bloody islands  [] !
 *JEA:	Good for you.
-*STU:	Mother's  question.
-*ANN:	  ((laugh))
-*JEA:	Very clever, very  impressed
-*ANN:	 Impressed?
+*STU:	Mother's question.
+*ANN:	 ((laugh)) 
+*JEA:	Very clever, very impressed 
+*ANN:	Impressed?
 *JEA:	I am.
-*STU:	 ((reading)) Which country has the largest number of people employed in manufacturing ?
-*JEA:	Oh my goodness, that's    (  )  (.) China.
+*STU:	 [reading] Which country has the largest number of people employed in manufacturing  [] ?
+*JEA:	Oh my goodness, that's    (        )  (.) China.
 *STU:	No.
 *ANN:	Japan.
 *STU:	No   (.) no Russia.
@@ -977,125 +818,125 @@
 *JEA:	What's the matter, what's wrong with them then?
 *ANN:	I thought Japanese manufactured everything.
 *JEA:	Yeah, they don't make nothing.
-*STU:	 ((reading)) In which country is the
+*STU:	 [reading] In which country is the
 *JEA:	His card's already out.
-*STU:	in which country is the Quirrinelle Palace ?
-*JEA:	Quirrinelle
-*ANN:	 (  )
-*JEA:	Who's that   (.) question, Ann's or mine? Ann's.
-*ANN:	Quirrinelle
-*STU:	Quirrinelle Palace   (.)  which country?
-*JEA:	 I dunno    (.) no I dunno.
+*STU:	in which country is the Quirrinelle Palace  [] ?
+*JEA:	Quirrinelle 
+*ANN:	 (        ) 
+*JEA:	Who's that   (.) question, Ann's or mine?Ann's.
+*ANN:	Quirrinelle 
+*STU:	Quirrinelle Palace   (.) which country?
+*JEA:	I dunno   (.) no I dunno.
 *ANN:	India.
 *STU:	Nope, mum?
-*JEA:	 (  )
+*JEA:	 (        ) 
 *STU:	No, Italy.
-*ANN:	 ((laughing)) A few miles away, we were !
+*ANN:	 [laughing] A few miles away, we were  [] !
 *JEA:	Just a I think you should give us that, it's only a few miles away!
-*ANN:	  ((laugh))
-*JEA:	Ah?  (.) Give us that Stu, it's only a few miles away.
+*ANN:	 ((laugh)) 
+*JEA:	Ah? (.) Give us that Stu, it's only a few miles away.
 *STU:	Mother.
 *JEA:	Yes.
-*STU:	 ((reading)) The Asian capital   (.)
-*ANN:	 ((laughing)) Let's go through that again please .
-*STU:	No    (.)  ((reading)) is called what, foreigners ?
-*JEA:	 (  )
-*ANN:	 ((laugh))
-*STU:	 (  )
-*JEA:	 ((laugh))
-*STU:	 ((reading)) is called   (.) what, by  foreigners ?
-*JEA:	  (  )
-*ANN:	  ((laugh))
-*STU:	 The Asian capital!   (.) For crying out loud!
+*STU:	 [reading] The Asian capital   []  (.) 
+*ANN:	 [laughing] Let's go through that again please  [] .
+*STU:	No    (.)  [reading] is called what, foreigners  [] ?
+*JEA:	 (        ) 
+*ANN:	 ((laugh)) 
+*STU:	 (        ) 
+*JEA:	 ((laugh)) 
+*STU:	 [reading] is called   (.) what, by foreigners  [] ?
+*JEA:	 (        ) 
+*ANN:	 ((laugh)) 
+*STU:	The Asian capital! (.) For crying out loud!
 *JEA:	It sounds like a Welsh
-*ANN:	  ((laugh))
-*STU:	 The Asian capital!
+*ANN:	 ((laugh)) 
+*STU:	The Asian capital!
 *JEA:	Oh shut up!
-*ANN:	 ((laugh))
+*ANN:	 ((laugh)) 
 *JEA:	Shut up   (.) Ah but it sounded like like a Welsh name didn't it?
 *ANN:	Aha   (.) Karachi.
 *STU:	No.
-*ANN:	 ((laugh))
+*ANN:	 ((laugh)) 
 *JEA:	What then?
 *STU:	Bangkok.
-*ANN:	Oh  bloody hell!
-*JEA:	  (  )  yo  you're kidding?  (.) That isn't a question is it?
-*STU:	The Asian  capital
-*JEA:	 Oh shut up!
-*STU:	Krumfettmahanamanahulamoranosecanosemahanaritiraoosalalaramalapalapapopapopobaalacataltootoochepereelong
-*ANN:	  ((laugh))
-*STU:	 is called   (.) we  that's the question    (.) read it for yourself!  (.)  There it is
-*JEA:	  (  )
-*ANN:	 ((laughing)) Good job I didn't have to read it !
+*ANN:	Oh bloody hell!
+*JEA:	 (        ) yo you're kidding? (.) That isn't a question is it?
+*STU:	The Asian capital 
+*JEA:	Oh shut up!
+*STU:	Krumfettmahanamanahulamoranosecanosemahanaritiraoosalalaramalapalapapopapopobaalacataltootoochepereelong 
+*ANN:	 ((laugh)) 
+*STU:	is called   (.) we that's the question   (.) read it for yourself! (.) There it is 
+*JEA:	 (        ) 
+*ANN:	 [laughing] Good job I didn't have to read it  [] !
 *JEA:	So did I, that's ridiculous   (.) Our baby's kidding us!
-*STU:	 ((reading)) What is odd about the fact that admiral Horley ruled Hungary between the two War  World Wars ?
-*JEA:	Hungary?  (.) Well it ain't got no sea so it wouldn't have an admiral.
-*STU:	Correct   (.) two points   (.) Hungary had no navy for the simple reason that it did not and does not have a sea  (  ) .
+*STU:	 [reading] What is odd about the fact that admiral Horley ruled Hungary between the two War World Wars  [] ?
+*JEA:	Hungary? (.) Well it ain't got no sea so it wouldn't have an admiral.
+*STU:	Correct   (.) two points   (.) Hungary had no navy for the simple reason that it did not and does not have a sea  (        ) .
 *JEA:	Why the hell did he get an admiral in
-*ANN:	He must of been an admiral of   (.) title   (  ) somewhere else, ha ha.
+*ANN:	He must of been an admiral of   (.) title   (        ) somewhere else, ha ha.
 *JEA:	Mm.
 *ANN:	Somebody else's navy.
-*STU:	 ((shouting)) Ann    (.) sixteen.
-*ANN:	Good  God!
-*STU:	 Mother
-*ANN:	Must be  about most
-*STU:	 twelve points
-*ANN:	 ((laughing)) I've ever had !
+*STU:	 [shouting] Ann    []  (.) sixteen.
+*ANN:	Good God!
+*STU:	Mother 
+*ANN:	Must be about most 
+*STU:	twelve points 
+*ANN:	 [laughing] I've ever had  [] !
 *JEA:	You did well Ann.
 *STU:	You got most of them right.
 *JEA:	Yeah you did   (.) you did well.
-*STU:	So that's  twenty
-*JEA:	 Didn't she?
+*STU:	So that's twenty 
+*JEA:	Didn't she?
 *STU:	four
-*ANN:	Most I've ever done, most of them    (  )
-*JEA:	 Who's question's  this then  (  ) ? (.)   (  )
-*STU:	 That's a    (.) seven out of ten, on her own   (.) and the top three   (.) top   (  ) so
+*ANN:	Most I've ever done, most of them   (        ) 
+*JEA:	Who's question's this then  (        ) ? (.)  (        ) 
+*STU:	That's a   (.) seven out of ten, on her own   (.) and the top three   (.) top   (        ) so
 *JEA:	 ((cough)) Well done Ann.
 *STU:	Well done Ann   (.) sixteen play five.
-*JEA:	Do you want me to   (  ) you two now?
+*JEA:	Do you want me to   (        ) you two now?
 *STU:	Can do.
-*ANN:	Gonna beat me now, I should get that, can I have that card again please, ((laughing)) that was a good one !
+*ANN:	Gonna beat me now, I should get that, can I have that card again please, [laughing] that was a good one  [] !
 *JEA:	Where's the cards then Ann?
 *ANN:	Stuart's got them.
 *JEA:	Oh come on then.
 *STU:	Why, I ain't got them.
-*ANN:	Well  I haven't
-*STU:	 You got them.
+*ANN:	Well I haven't 
+*STU:	You got them.
 *ANN:	I give you them.
 *STU:	No you didn't.
-*ANN:	They're    (  )  (.) by on the fireplace.
+*ANN:	They're    (        )  (.) by on the fireplace.
 *STU:	Oh down there, I didn't know.
 *ANN:	You put them there, I give you them.
-*STU:	I didn't there, you put  them there!
-*ANN:	 Did.
+*STU:	I didn't there, you put them there!
+*ANN:	Did.
 *STU:	No I didn't, stop arguing!
-*ANN:	 ((laugh))
+*ANN:	 ((laugh)) 
 *JEA:	Mark that one, a
-*ANN:	 Yeah   (  )
-*JEA:	 cos that for hardness
-*ANN:	for Christmas   ((laughing)) I'll have that !
+*ANN:	Yeah   (        ) 
+*JEA:	cos that for hardness 
+*ANN:	for Christmas   [laughing] I'll have that  [] !
 *STU:	Mark it a for Ann.
 *JEA:	Yeah.
 *STU:	These are Ann's questions.
-*JEA:	Oh yeah but in, better make   (.) a    (  )  (.) Stuart's  (  ) .
-*ANN:	  ((laugh))
-*STU:	 Oh yes.
-*JEA:	No  oh no that could be Sam's Ann.
-*ANN:	 ((laugh))
-*JEA:	It could be Sam's Ann   (.) It'll be S M   (.) not S A, no   (.) A S put     (.)  (  )  (7.0) be fine now.
+*JEA:	Oh yeah but in, better make   (.) a    (        )  (.) Stuart's  (        ) .
+*ANN:	 ((laugh)) 
+*STU:	Oh yes.
+*JEA:	No oh no that could be Sam's Ann.
+*ANN:	 ((laugh)) 
+*JEA:	It could be Sam's Ann   (.) It'll be S M   (.) not S A, no   (.) A S put     (.)  (        )  (.) be fine now.
 *STU:	What?
-*ANN:	I'm not, he'll beat me this time, you watch, I'll have a real hard one, ((laughing)) I won't be able to answer anything !
+*ANN:	I'm not, he'll beat me this time, you watch, I'll have a real hard one, [laughing] I won't be able to answer anything  [] !
 *STU:	Mhm.
 *JEA:	Well I couldn't answer any of these.
 *ANN:	Mm.
-*STU:	 (  )
+*STU:	 (        ) 
 *JEA:	Right.
 *ANN:	Don't, stop shuffling them!
 *STU:	I'm not shuffling them, I'm just running through them   (.) that one
-*ANN:	 ((laugh)) Can't see without my  glasses on.
-*STU:	 That's Ann's    (.)  Right?
-*JEA:	 Yes    (.) Yes
-*STU:	And I'll pick one out for myself   (7.0) that's mine.
+*ANN:	 ((laugh)) Can't see without my glasses on.
+*STU:	That's Ann's   (.) Right?
+*JEA:	Yes   (.) Yes
+*STU:	And I'll pick one out for myself   (.) that's mine.
 *JEA:	Alright.
 *STU:	Alright?
 *JEA:	Yeah, Ann and Stuart, okay?
@@ -1105,56 +946,56 @@
 *JEA:	Yeah, you keep the scoring, alright   (.) that's Ann's   (.) Ann's   (.) Stuart, okay?
 *STU:	Right   (.) Ann first?
 *JEA:	Yep.
-*STU:	Right   (6.0) Right away you go then.
-*JEA:	Ann    (.)  ((reading)) Hibernia is another name for ?
-*ANN:	Could have somewhere in Scotland    (.)   (  )
-*JEA:	  (  )   (  )  (.)  ((reading)) Hibernia is another name for   (.) a country .
+*STU:	Right   (.) Right away you go then.
+*JEA:	Ann    (.)  [reading] Hibernia is another name for  [] ?
+*ANN:	Could have somewhere in Scotland    (.)  (        ) 
+*JEA:	 (        )  (        )  (.)  [reading] Hibernia is another name for   (.) a country  [] .
 *ANN:	A whole country? (.) not just Scotland   (.) Oh I don't know then   (.) Scotland   (.) no, dunno.
 *STU:	Ireland.
-*JEA:	That's right, (  ) , yep, Ireland
-*ANN:	 Oh I    (.) I thought   ((laughing)) Hibernians !
+*JEA:	That's right, (        ) , yep, Ireland 
+*ANN:	Oh I   (.) I thought   [laughing] Hibernians  [] !
 *JEA:	So did I.
-*ANN:	 ((laugh)) I I I didn't know they was  (  ) .
-*JEA:	Mhm   (8.0) Stuart    (.)  ((reading)) Where do   (.) meteorites come from ?
+*ANN:	 ((laugh)) I I I didn't know they was  (        ) .
+*JEA:	Mhm   (.) Stuart    (.)  [reading] Where do   (.) meteorites come from  [] ?
 *STU:	Meteorites?
-*JEA:	Met  M E T E R   (.) M E T E O R I T E S
-*STU:	Where do they  come from?
-*JEA:	 come, yeah  where do they come from?
+*JEA:	Met M E T E R   (.) M E T E O R I T E S
+*STU:	Where do they come from?
+*JEA:	come, yeah where do they come from?
 *STU:	The sky.
 *JEA:	Yeah   (.) well it says outer space but
 *STU:	Outer space, yeah.
-*JEA:	 Yeah    (.) alright?  (.) That's you, that was easy wasn't it?
-*ANN:	Mm, was for  him
-*JEA:	 Right
-*ANN:	He knows all about them kind of things, I don't   (.) well I knew where they  come
-*JEA:	  (  )
+*JEA:	Yeah   (.) alright? (.) That's you, that was easy wasn't it?
+*ANN:	Mm, was for him 
+*JEA:	Right 
+*ANN:	He knows all about them kind of things, I don't   (.) well I knew where they come 
+*JEA:	 (        ) 
 *ANN:	from but
-*JEA:	Ann    (.)  ((reading)) In which large   (.) sea   (.) is the    (.) oh that's a funny word, ((reading)) in which large sea   (.) is the Aegean sea ?
-*ANN:	The  Indian oce
-*JEA:	 There is  that's what  it say.
-*ANN:	 The  Indian ocean.
+*JEA:	Ann    (.)  [reading] In which large   (.) sea   (.) is the    (.)  [] oh that's a funny word, [reading] in which large sea   (.) is the Aegean sea  [] ?
+*ANN:	The Indian oce 
+*JEA:	There is that's what it say.
+*ANN:	The Indian ocean.
 *STU:	Mediterranean.
-*JEA:	Yes   (.) there's a funny  question.
-*ANN:	 I told you  I wouldn't answer any of these.
-*JEA:	Yeah but that says it, which large sea is the Aegean sea   (.)  it's not in India
-*ANN:	 Is it part of  another sea?
-*JEA:	 Bit of it is
-*STU:	 Yeah, part of it.   (.) Just like Adriatic's part of the Mediterranean
-*JEA:	Yeah  Right
-*STU:	 Alright
+*JEA:	Yes   (.) there's a funny question.
+*ANN:	I told you I wouldn't answer any of these.
+*JEA:	Yeah but that says it, which large sea is the Aegean sea   (.) it's not in India 
+*ANN:	Is it part of another sea?
+*JEA:	Bit of it is 
+*STU:	Yeah, part of it. (.) Just like Adriatic's part of the Mediterranean
+*JEA:	Yeah Right 
+*STU:	Alright 
 *JEA:	Stuart
 *STU:	Yes.
-*JEA:	 ((reading)) Which ocean
+*JEA:	 [reading] Which ocean
 *STU:	Yes.
-*JEA:	washes the North   (.) Carolina coast ?
+*JEA:	washes the North   (.) Carolina coast  [] ?
 *STU:	The North Carolina coast?
-*JEA:	Which ocean    (  )
-*STU:	 Atlantic    (.) North.
+*JEA:	Which ocean   (        ) 
+*STU:	Atlantic   (.) North.
 *JEA:	That's right   (.) Stuart again   (.) Ann
 *ANN:	Mhm mm mm.
-*JEA:	 ((reading)) Is la  is Labrador   (.) part of   (.) Newfoundland ?  (.) Newfoundland.
-*ANN:	What was   (  ) no, I dunno, no.
-*JEA:	No   (.) yes. ((laugh))
+*JEA:	 [reading] Is la is Labrador   (.) part of   (.) Newfoundland  [] ? (.) Newfoundland.
+*ANN:	What was   (        ) no, I dunno, no.
+*JEA:	No   (.) yes. ((laugh)) 
 *ANN:	Yes.
 *JEA:	You're right.
 *STU:	Do I give the point to?
@@ -1162,94 +1003,94 @@
 *STU:	Oh.
 *JEA:	She said yes.
 *STU:	No she didn't, she said no.
-*ANN:	 ((laugh))
-*JEA:	She didn't, she said yes   (.) I wouldn't make it   (  ) Ann, a bit hairy.
+*ANN:	 ((laugh)) 
+*JEA:	She didn't, she said yes   (.) I wouldn't make it   (        ) Ann, a bit hairy.
 *STU:	Oh I see yeah.
-*JEA:	Newfoundland is not only   (.) the   (.) the island on the south coast of   (  ) but includes   (  ) as a continent.
+*JEA:	Newfoundland is not only   (.) the   (.) the island on the south coast of   (        ) but includes   (        ) as a continent.
 *ANN:	Oh.
 *JEA:	Didn't know that, do you?
 *ANN:	No, no.
-*JEA:	Stuart    (.)  ((reading)) What does Rio Grandee mean ?  (.) Rio Grandee.
+*JEA:	Stuart    (.)  [reading] What does Rio Grandee mean  [] ? (.) Rio Grandee.
 *STU:	Big river.
 *JEA:	Mm?
 *STU:	Big river.
-*JEA:	Yep   (.) yes that's right   (.) Ann   (.) Ann    (.)  ((reading)) Forlosa  (.) meaning beautiful   (.) in Portuguese is the other name of which island ?
+*JEA:	Yep   (.) yes that's right   (.) Ann   (.) Ann    (.)  [reading] Forlosa  (.) meaning beautiful   (.) in Portuguese is the other name of which island  [] ?
 *ANN:	Taiwan.
-*JEA:	Yeah, correct, Ann's got that one, yes   (.) good for you, Ann   (.) Stuart    (.)  ((reading)) What   (.) and where is the Great Barrier Reef ?
-*ANN:	 ((laugh))
+*JEA:	Yeah, correct, Ann's got that one, yes   (.) good for you, Ann   (.) Stuart    (.)  [reading] What   (.) and where is the Great Barrier Reef  [] ?
+*ANN:	 ((laugh)) 
 *STU:	It is a coral reef
 *JEA:	Yes.
 *STU:	and it is off the eastern coast of Australia.
 *JEA:	Yeah, how many kilometres is   (.) is it?
-*ANN:	 ((laugh))
-*JEA:	 ((laugh))
+*ANN:	 ((laugh)) 
+*JEA:	 ((laugh)) 
 *STU:	Fifteen hundred.
 *JEA:	Yeah, you're bloody right!
-*ANN:	 ((laughing)) Oh bloody hell !
+*ANN:	 [laughing] Oh bloody hell  [] !
 *STU:	Can I have an extra bonus point?
-*ANN:	 No.
-*JEA:	  (  )  it's f  is, it is.
-*ANN:	 ((laugh))
+*ANN:	No.
+*JEA:	 (        ) it's f is, it is.
+*ANN:	 ((laugh)) 
 *JEA:	It is, really.
-*ANN:	  (  )   (  ) terrible!
-*JEA:	Yeah you've looked at these, haven't you?  (.)  He did.
-*ANN:	 Either that  or    (  )  ((laughing)) special !
+*ANN:	 (        )  (        ) terrible!
+*JEA:	Yeah you've looked at these, haven't you? (.) He did.
+*ANN:	Either that or    (        )  [laughing] special  [] !
 *JEA:	You cheating.
 *STU:	No.
 *JEA:	He's had this before, hasn't he?
 *ANN:	Mhm mm.
 *JEA:	Well how did you know that?
 *ANN:	Yeah.
-*JEA:	Well anyway, never mind   (.) here are, Ann   (.) Oh   ((reading)) which three European   (.) countries   (.) breed the finest , oh this should be in   ((reading)) racehorses ?
-*ANN:	Dunno, which  three?
-*JEA:	 A european    (.) country  breed
-*ANN:	 Ireland
+*JEA:	Well anyway, never mind   (.) here are, Ann   (.) Oh   [reading] which three European   (.) countries   (.) breed the finest  [] , oh this should be in  [reading] racehorses  [] ?
+*ANN:	Dunno, which three?
+*JEA:	A european   (.) country breed 
+*ANN:	Ireland 
 *JEA:	the finest   (.) racehorses.
 *ANN:	Be Ireland   (.) France and England.
 *STU:	Correct   (.) good for you!
-*ANN:	It's teaching me a little bit, you see. ((laugh))
-*JEA:	 Yeah you're getting  good, very good for you, good for you Ann. I thought that would be a trick question that   (.) but you're right, see   (.) now   (.) S  Stuart    (.)  ((reading)) which is the sunshine state of the USA ?
+*ANN:	It's teaching me a little bit, you see. ((laugh)) 
+*JEA:	Yeah you're getting good, very good for you, good for you Ann.I thought that would be a trick question that   (.) but you're right, see   (.) now   (.) S Stuart    (.)  [reading] which is the sunshine state of the USA  [] ?
 *STU:	California.
-*JEA:	Wrong   (.)  Ann.
-*ANN:	 Tex  Texas.
+*JEA:	Wrong   (.) Ann.
+*ANN:	Tex Texas.
 *STU:	New Orleans.
 *JEA:	Florida.
 *ANN:	Mm, of course.
-*JEA:	 (  )  (.) You don't get anything for that.
-*ANN:	 I know.
-*STU:	 Aha  aha.
-*JEA:	 (  ) for that   (.) Right, Ann    (.)  ((reading)) what wine    (.) oh God! (.)  ((reading)) is made in a   (.) oh, Departement of the Marne, M A R N E ?
+*JEA:	 (        )  (.) You don't get anything for that.
+*ANN:	I know.
+*STU:	Aha aha.
+*JEA:	 (        ) for that   (.) Right, Ann    (.)  [reading] what wine    []  (.) oh God! (.)  [reading] is made in a   (.) oh, Departement of the Marne, M A R N E  [] ?
 *ANN:	I've no idea.
-*JEA:	Which wine in the Depar  D E P A R T E M E N T
+*JEA:	Which wine in the Depar D E P A R T E M E N T
 *STU:	Departement.
 *JEA:	Departement.
-*STU:	But call it departement, it's like a cou  it's like an English County.
+*STU:	But call it departement, it's like a cou it's like an English County.
 *JEA:	Yeah, oh.
-*ANN:	No idea  whatsoever.
-*JEA:	 the Marne, M A R  N
+*ANN:	No idea whatsoever.
+*JEA:	the Marne, M A R N
 *ANN:	Grand Marnier    ((laugh))  (.) no idea.
 *JEA:	Do you?
-*STU:	I know a  (  ) , the Departement of Marne, what was, I would   (  ) but I'll have a guess at champagne.
+*STU:	I know a  (        ) , the Departement of Marne, what was, I would   (        ) but I'll have a guess at champagne.
 *JEA:	Yeah you're right   (.) it is champagne   (.) is that where it's made is it?
 *STU:	Yeah.
-*JEA:	I thought it was made in Champagne   (.) th  the district, Champagne, France   (.) that is a district innit?
+*JEA:	I thought it was made in Champagne   (.) th the district, Champagne, France   (.) that is a district innit?
 *STU:	It's obviously in the Departement
 *JEA:	Oh I see.
 *STU:	of Marne.
-*JEA:	Ann    (.)  ((reading))  what
-*ANN:	 No!
+*JEA:	Ann    (.)  [reading] what   [] 
+*ANN:	No!
 *JEA:	Oh Stuart, sorry
-*STU:	My  question   (  )
-*JEA:	 Yes your question now  sorry, sorry
-*ANN:	Yes, yes, yes, yes
-*JEA:	 ((reading))  what  is   (.) tundra ?
+*STU:	My question   (        ) 
+*JEA:	Yes your question now sorry, sorry
+*ANN:	Yes, yes, yes, yes 
+*JEA:	 [reading] what is   (.) tundra  [] ?
 *STU:	Tundra!
 *JEA:	Yes.
 *STU:	You really wanna know what tundra is?
-*JEA:	 (  ) yes.
+*JEA:	 (        ) yes.
 *STU:	What is tundra?
 *JEA:	Mm.
 *STU:	It is arctic wasteland   (.) erm   (.) it is the
-*JEA:	Yeah, (  ) , it's sub-arctic actually so I don't think you should get that.
-*ANN:	 ((laugh))
+*JEA:	Yeah, (        ) , it's sub-arctic actually so I don't think you should get that.
+*ANN:	 ((laugh)) 
 @End

@@ -1,56 +1,56 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 shopping 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0048XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
-@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
+@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Media: 021A-C0897X0048XX-ABZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 shopping 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0048XX-ABZZP0.wav
 @Comment:	conversation #23 (Tape 004810)
-*HEL:	I should hope so, they were quite expensive, one pound sixty eight. 
-*CLA:	Dear. 
-*AMY:	How much were  (  ) . 
-*HEL:	I can't remember. 
-*AMY:	My  (  ) . 
-*HEL:	Yes, there left handed ones, hm. 
-*AMY:	 (  ) I've taken one pair up to the tree house and now I can't find any up there. 
-*HEL:	Oh. 
-*AMY:	 (  ) . Oh well I bought all these stupid bent ones, there not very  (  ) . 
-*HEL:	Aren't they? 
-*AMY:	No, they don't hardly cut paper. They don't cut any thing else. 
-*HEL:	Well I don't think those I'll cut any thing but paper, you'll have to get  (  ) . 
-*AMY:	Yes they do, they cut a lot of   (  )  string  . 
-*CLA:	 Well sellotape  then. 
-*AMY:	They cut oh they cut sellotape, and they does cut string. 
-*HEL:	Well if you need another pair, next I go I'll get you a pair of. 
-*AMY:	They cut string. 
-*HEL:	Oh. 
-*AMY:	I don't think they quite   (  ) my other pair. 
-*HEL:	What your silver ones? 
-*AMY:	Yeah. 
-*CLA:	Where'da get them from? 
-*HEL:	Early Learning. 
-*CLA:	 And they cut something   (  )  . 
-*HEL:	 Why have you lost something, you have?. 
-*CLA:	No, don't worry. 
-*HEL:	They don't seem to have silver ones. 
-*CLA:	I bought two pairs. 
-*HEL:	Yeah, don't lose. 
-*CLA:	 (  ) . 
-*HEL:	Right. 
-*AMY:	I've only got one pairs of steel. 
-*HEL:	Oh you haven't, you've got lots of little silver ones. 
-*AMY:	Can't find them. 
-*HEL:	Oh, well, there around somewhere. 
-*AMY:	 (  ) . I know where there is some, in my collage  (  ) . Collage box. 
-*HEL:	Yeah. 
-*AMY:	 (  ) . 
-*HEL:	Well, you don't need to leave a pair of scissors in there, cos. 
+*HEL:	I should hope so, they were quite expensive, one pound sixty eight.
+*CLA:	Dear.
+*AMY:	How much were  (        ) .
+*HEL:	I can't remember.
+*AMY:	My  (        ) .
+*HEL:	Yes, there left handed ones, hm.
+*AMY:	 (        ) I've taken one pair up to the tree house and now I can't find any up there.
+*HEL:	Oh.
+*AMY:	 (        ) .Oh well I bought all these stupid bent ones, there not very  (        ) .
+*HEL:	Aren't they?
+*AMY:	No, they don't hardly cut paper.They don't cut any thing else.
+*HEL:	Well I don't think those I'll cut any thing but paper, you'll have to get  (        ) .
+*AMY:	Yes they do, they cut a lot of   (        ) string .
+*CLA:	Well sellotape then.
+*AMY:	They cut oh they cut sellotape, and they does cut string.
+*HEL:	Well if you need another pair, next I go I'll get you a pair of.
+*AMY:	They cut string.
+*HEL:	Oh.
+*AMY:	I don't think they quite   (        ) my other pair.
+*HEL:	What your silver ones?
+*AMY:	Yeah.
+*CLA:	Where'da get them from?
+*HEL:	Early Learning.
+*CLA:	And they cut something   (        ) .
+*HEL:	Why have you lost something, you have?.
+*CLA:	No, don't worry.
+*HEL:	They don't seem to have silver ones.
+*CLA:	I bought two pairs.
+*HEL:	Yeah, don't lose.
+*CLA:	 (        ) .
+*HEL:	Right.
+*AMY:	I've only got one pairs of steel.
+*HEL:	Oh you haven't, you've got lots of little silver ones.
+*AMY:	Can't find them.
+*HEL:	Oh, well, there around somewhere.
+*AMY:	 (        ) .I know where there is some, in my collage  (        ) .Collage box.
+*HEL:	Yeah.
+*AMY:	 (        ) .
+*HEL:	Well, you don't need to leave a pair of scissors in there, cos.
 @End

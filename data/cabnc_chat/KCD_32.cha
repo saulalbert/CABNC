@@ -1,64 +1,64 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 shopping 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0048XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
-@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
+@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Media: 021A-C0897X0048XX-ABZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 shopping 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0048XX-ABZZP0.wav
 @Comment:	conversation #32 (Tape 004819)
-*HEL:	Right, we'll go and home some lunch, dinner then shall we? 
-*CLA:	Let's just   (  ) finished yet. 
-*HEL:	Pardon. 
-*CLA:	 (  ) . 
-*HEL:	Pink. 
-*CLA:	 (  ) . 
-*HEL:	Goes on a long time does it? 
-*CLA:	 (  ) five, six, seven, eight, nine. 
-*HEL:	Oh that sounds a lot. Right come on then I'll get you some dinner. 
-*CLA:	 (  )  (5.0)  (  ) . 
-*HEL:	Right, would you, could you switch that off for me. 
-*CLA:	Haven't yet. 
-*HEL:	No the television poppet, I'll sort the oven out. Right if you sent the table, I'll serve up the dinner. 
-*CLA:	Ok mum. 
-*HEL:	Right  (5.0)  
-*CLA:	 ((singing)) . 
-*HEL:	Give Clare a shout, get my washing in as well. Clare. 
-*AMY:	Yeah. 
-*HEL:	Dinner time. 
-*AMY:	Ok. 
-*HEL:	Well that was very quick. (  )  (10.0)  
-*HEL:	Right, I'm hungry too. 
-*AMY:	Wash my hands  (  ) . 
-*HEL:	Right  (5.0)  
-*CLA:	 (  ) I used to get  (  ) . 
-*HEL:	Yes, that's right, no, that's right, very good  . 
-*CLA:	 That's right  for Clare. 
-*HEL:	Yes, that's right for Clare. I don't know what time daddies coming in. 
-*CLA:	Pardon. 
-*HEL:	I don't know what time daddies  gonna come  . 
-*CLA:	 His not going  to get any food. 
-*HEL:	Well I was going to put him some dinner out and he'll have to heat it up again I think. 
-*CLA:	You can't put him knives and forks out. 
-*HEL:	No, well, he can get some out I think if he wants some. 
-*CLA:	I think I'll get the knives and forks out  (  ) . 
-*HEL:	Well I've no id   (.) I wouldn't bother. I mean I don't know when he's, he might not be in for another two or three hours, I don't, I really don't know. I might find I've cooked him a dinner and he doesn't want it. Bit difficult isn't it? 
-*CLA:	So you don't have to. 
-*HEL:	Well I've cooked him one, cos it's no good if he waltzes in in half an hour and says his hungry. 
-*CLA:	He could   (  ) baked potato. 
-*HEL:	He could have a baked potato, I don't think he would have had very much all day knowing. I don't think there's much food available where it, in this building site. 
-*CLA:	What's he having? 
-*HEL:	Well making, given him the same as us. 
-*CLA:	We'd give him a  (  ) . 
-*HEL:	Hm. 
-*CLA:	Leave it, what do you do  (  ) . (  ) . 
-*HEL:	Well I'll leave it out and he can do it on the microwave can't he? Heat it up in the microwave   (.) otherwise he'll have to have it tomorrow. 
-*CLA:	 ((laugh)) . 
+*HEL:	Right, we'll go and home some lunch, dinner then shall we?
+*CLA:	Let's just   (        ) finished yet.
+*HEL:	Pardon.
+*CLA:	 (        ) .
+*HEL:	Pink.
+*CLA:	 (        ) .
+*HEL:	Goes on a long time does it?
+*CLA:	 (        ) five, six, seven, eight, nine.
+*HEL:	Oh that sounds a lot.Right come on then I'll get you some dinner.
+*CLA:	 (        )  (.)  (        ) .
+*HEL:	Right, would you, could you switch that off for me.
+*CLA:	Haven't yet.
+*HEL:	No the television poppet, I'll sort the oven out.Right if you sent the table, I'll serve up the dinner.
+*CLA:	Ok mum.
+*HEL:	Right  (.) 
+*CLA:	 [singing] .
+*HEL:	Give Clare a shout, get my washing in as well.Clare.
+*AMY:	Yeah.
+*HEL:	Dinner time.
+*AMY:	Ok.
+*HEL:	Well that was very quick. (        )  (.) 
+*HEL:	Right, I'm hungry too.
+*AMY:	Wash my hands  (        ) .
+*HEL:	Right  (.) 
+*CLA:	 (        ) I used to get  (        ) .
+*HEL:	Yes, that's right, no, that's right, very good .
+*CLA:	That's right for Clare.
+*HEL:	Yes, that's right for Clare.I don't know what time daddies coming in.
+*CLA:	Pardon.
+*HEL:	I don't know what time daddies gonna come .
+*CLA:	His not going to get any food.
+*HEL:	Well I was going to put him some dinner out and he'll have to heat it up again I think.
+*CLA:	You can't put him knives and forks out.
+*HEL:	No, well, he can get some out I think if he wants some.
+*CLA:	I think I'll get the knives and forks out  (        ) .
+*HEL:	Well I've no id   (.) I wouldn't bother.I mean I don't know when he's, he might not be in for another two or three hours, I don't, I really don't know.I might find I've cooked him a dinner and he doesn't want it.Bit difficult isn't it?
+*CLA:	So you don't have to.
+*HEL:	Well I've cooked him one, cos it's no good if he waltzes in in half an hour and says his hungry.
+*CLA:	He could   (        ) baked potato.
+*HEL:	He could have a baked potato, I don't think he would have had very much all day knowing.I don't think there's much food available where it, in this building site.
+*CLA:	What's he having?
+*HEL:	Well making, given him the same as us.
+*CLA:	We'd give him a  (        ) .
+*HEL:	Hm.
+*CLA:	Leave it, what do you do  (        ) . (        ) .
+*HEL:	Well I'll leave it out and he can do it on the microwave can't he?Heat it up in the microwave   (.) otherwise he'll have to have it tomorrow.
+*CLA:	 ((laugh)) .
 @End

@@ -1,48 +1,48 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-12-01:  
-@Location:	  Home  
-@Situation:	Unspecified 
-@Media:	021A-C0897X0091XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , BET Betty self, JUL Julie friend, SAL Sally daughter
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|BET|57;|||||housewife||PS04B|
-@ID:	eng|AudioBNC|JUL|25;|||||production worker|friend|PS04F|
-@ID:	eng|AudioBNC|SAL|23;|||||production worker|daughter|PS04H|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|BET|~57;| |f|Ag4| |housewife||PS04B|
+@ID: eng|AudioBNC|JUL|~25;| |f|Ag2| |production worker|friend|PS04F|
+@ID: eng|AudioBNC|SAL|~23;| |f|Ag1| |production worker|daughter|PS04H|
+@Media: 021A-C0897X0091XX-ABZZP0.wav, audio 		
+@Date:	1991-12-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  Home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0091XX-ABZZP0.wav
 @Comment:	conversation #6 (Tape 009106)
-*JUL:	Oh well Bet, that's a lot of cheese in that potato pie. 
-*BET:	Mm. 
-*JUL:	Because the potato pie's all soggy. 
-*BET:	Yes   (6.0) Well that's nice Julie  (6.0)  
-*UNK:	Yoo hoo. I'm here. 
-*JUL:	 (  ) your tea's ready   (.) Here you are    (.)  (  ) Don't read   (  ) eat your tea   (  )  (12.0)  
-*BET:	 (  ) 
-*JUL:	 (  ) I've only been here four years we had the white one remember the gas one got certified dangerous? 
-*BET:	Yeah. Yeah. (.)  
-*JUL:	Didn't know you had it for four years. 
-*SAL:	Well it was really weird right. We had the grill on and it was still on and it went off turned it off turned back on again didn't go on. Turned the top oven on nothing happened. Funny. 
-*UNK:	Yeah I'm listening can you   (  ) while you're talking? 
-*SAL:	No! 
-*UNK:	Well my tea is getting cold. 
-*BET:	What's it you want? 
-*UNK:	I want lemon. 
-*SAL:	Well  (  )  
-*UNK:	 (  ) 
-*BET:	 (  ) in the way. 
-*JUL:	Silly child! 
-*UNK:	You are. 
-*SAL:	You are 
-*UNK:	You. 
-*JUL:	Go back into bed Sal? 
-*SAL:	Nothing wrong with me. There's been nothing wrong with me all day is there Bet? 
-*BET:	No. 
-*SAL:	It's been ever since she wake up. 
-*UNK:	 (  ) 
-*BET:	David! 
-*UNK:	Coming. 
+*JUL:	Oh well Bet, that's a lot of cheese in that potato pie.
+*BET:	Mm.
+*JUL:	Because the potato pie's all soggy.
+*BET:	Yes   (.) Well that's nice Julie  (.) 
+*UNK:	Yoo hoo.I'm here.
+*JUL:	 (        ) your tea's ready   (.) Here you are    (.)  (        ) Don't read   (        ) eat your tea   (        )  (.) 
+*BET:	 (        ) 
+*JUL:	 (        ) I've only been here four years we had the white one remember the gas one got certified dangerous?
+*BET:	Yeah.Yeah. (.) 
+*JUL:	Didn't know you had it for four years.
+*SAL:	Well it was really weird right.We had the grill on and it was still on and it went off turned it off turned back on again didn't go on.Turned the top oven on nothing happened.Funny.
+*UNK:	Yeah I'm listening can you   (        ) while you're talking?
+*SAL:	No!
+*UNK:	Well my tea is getting cold.
+*BET:	What's it you want?
+*UNK:	I want lemon.
+*SAL:	Well  (        ) 
+*UNK:	 (        ) 
+*BET:	 (        ) in the way.
+*JUL:	Silly child!
+*UNK:	You are.
+*SAL:	You are
+*UNK:	You.
+*JUL:	Go back into bed Sal?
+*SAL:	Nothing wrong with me.There's been nothing wrong with me all day is there Bet?
+*BET:	No.
+*SAL:	It's been ever since she wake up.
+*UNK:	 (        ) 
+*BET:	David!
+*UNK:	Coming.
 @End

@@ -1,58 +1,58 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-03-18:  
-@Location:	  school  
-@Situation:	  helping in school   
-@Media:	021A-C0897X0229XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , DOR Dorothy self, UNK Unknown Unknown None son's teacher
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
-@ID:	eng|AudioBNC|DOR|34;|||||teacher (pt)||PS087|
-@ID:	eng|AudioBNC|UNK|unknown||||teacher|son's teacher|PS0Y4|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|AudioBNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
+@ID: eng|AudioBNC|UNK|unknown |f|X| |teacher|son's teacher|PS0Y4|
+@Media: 021A-C0897X0229XX-ABZZP0.wav, audio 		
+@Date:	1992-03-18:  
+@Situation:	  helping in school  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  school  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0229XX-ABZZP0.wav
 @Comment:	conversation #48 (Tape 022904)
-*DOR:	Shall we have a little introduction and then we'll set off shall we?  ((piano music))Everybody ready? 
-*GRO:	 ((singing)) If you want to be happy and have a happy face and spread a little joy around and then there is just one way, make a face, make a face, make it as happy as you can and make a face   (.) but spread a little joy around and then there is just one way  
-*DOR:	Scary this time 
-*GRO:	 ((singing)) Make a face, make a face, make it as scary as you can and make a face, if you want to be happy and have a happy face and spread a little joy around and then there is just one way, make a face, 
-*DOR:	Silly 
-*GRO:	make a face make it as silly as you can and make a face  
-*NON:	That was reasonably good 
-*DOR:	Consider 
-*NON:	 (  ) with a few interruptions in the middle with people coming in, we've still got interruptions now with people talking, Ross   (.) stand by me  (7.0)  
-*DOR:	Shall we do that one again, with them all standing up and taking part? ((laugh))  (.)  
-*UNK:	 (  ) 
-*NON:	If you stand up 
-*DOR:	Well they're sitting down again cos they were so hopeless Mrs  , no that was a sit down, listen, that's a   (  ) and it goes down, down   (  ) down  (  )  
-*NON:	Sit then please. 
-*DOR:	Right on your bottom 
-*NON:	When you feel that next time you can stand up   (.) without the chattering 
-*DOR:	Oh sshh   (.) are you ready?  (.)  ((piano music))Oh no, that was my bit, that was my introduction, you get ready with your first word, what's your first word go  (  )  
-*UNK:	Er, make your 
-*DOR:	Make, no it isn't, if is your first word. 
-*UNK:	Make a face. 
-*DOR:	No, if Gavin, ((piano music)) 
-*GRO:	 ((singing)) If you want to be happy and have a happy face then spread a little joy around and then there is just one way, make a face, make a face, make it as happy as you can and make a face, if you want to be happy and have a happy face and spread a little joy around then there is just one way. 
-*DOR:	 (  ) 
-*GRO:	make a face, make a face, make it as scary as you can and make a face, if you want to be happy and have a happy face and spread a little joy around and then there is just one way  
-*NON:	No, I'm sorry   (.) three times I've said it, it is not make a face at the end of the chorus, it's there it, and there is just one way, the chorus says if you want to be happy and have a happy face and spread a little joy around then there is just one way, then you make the face  (.)  
-*DOR:	Are we doing the silly one now? 
-*NON:	No, I think we'll just do the scary 
-*DOR:	OK, right, so what this one now we've got to do? 
-*NON:	Just sing the choruses again 
-*DOR:	Right 
-*NON:	See if we can get the chorus right 
-*GRO:	 ((singing)) If you want to be happy and have a happy face and spread a little joy around then there is just one way. 
-*NON:	Right 
-*UNK:	 (  ) I've got that  (  )  
-*NON:	No need to chatter 
-*UNK:	I've got  (  )  
+*DOR:	Shall we have a little introduction and then we'll set off shall we? ((piano music))Everybody ready?
+*GRO:	 [singing] If you want to be happy and have a happy face and spread a little joy around and then there is just one way, make a face, make a face, make it as happy as you can and make a face   (.) but spread a little joy around and then there is just one way  [] 
+*DOR:	Scary this time
+*GRO:	 [singing] Make a face, make a face, make it as scary as you can and make a face, if you want to be happy and have a happy face and spread a little joy around and then there is just one way, make a face,
+*DOR:	Silly
+*GRO:	make a face make it as silly as you can and make a face  [] 
+*NON:	That was reasonably good
+*DOR:	Consider
+*NON:	 (        ) with a few interruptions in the middle with people coming in, we've still got interruptions now with people talking, Ross   (.) stand by me  (.) 
+*DOR:	Shall we do that one again, with them all standing up and taking part? ((laugh))  (.) 
+*UNK:	 (        ) 
+*NON:	If you stand up
+*DOR:	Well they're sitting down again cos they were so hopeless Mrs , no that was a sit down, listen, that's a   (        ) and it goes down, down   (        ) down  (        ) 
+*NON:	Sit then please.
+*DOR:	Right on your bottom
+*NON:	When you feel that next time you can stand up   (.) without the chattering
+*DOR:	Oh sshh   (.) are you ready? (.)  ((piano music))Oh no, that was my bit, that was my introduction, you get ready with your first word, what's your first word go  (        ) 
+*UNK:	Er, make your
+*DOR:	Make, no it isn't, if is your first word.
+*UNK:	Make a face.
+*DOR:	No, if Gavin, ((piano music))
+*GRO:	 [singing] If you want to be happy and have a happy face then spread a little joy around and then there is just one way, make a face, make a face, make it as happy as you can and make a face, if you want to be happy and have a happy face and spread a little joy around then there is just one way.
+*DOR:	 (        ) 
+*GRO:	make a face, make a face, make it as scary as you can and make a face, if you want to be happy and have a happy face and spread a little joy around and then there is just one way  [] 
+*NON:	No, I'm sorry   (.) three times I've said it, it is not make a face at the end of the chorus, it's there it, and there is just one way, the chorus says if you want to be happy and have a happy face and spread a little joy around then there is just one way, then you make the face  (.) 
+*DOR:	Are we doing the silly one now?
+*NON:	No, I think we'll just do the scary
+*DOR:	OK, right, so what this one now we've got to do?
+*NON:	Just sing the choruses again
+*DOR:	Right
+*NON:	See if we can get the chorus right
+*GRO:	 [singing] If you want to be happy and have a happy face and spread a little joy around then there is just one way.
+*NON:	Right
+*UNK:	 (        ) I've got that  (        ) 
+*NON:	No need to chatter
+*UNK:	I've got  (        ) 
 *GRO:	 ((kids chattering))
 *DOR:	 ((playing piano))
-*NON:	When the introduction is being played you don't talk, now the quicker we get through these and practice these then we can have the other songs to sing, now I want   (  ) please. Right we'll begin by there are hundred of stars that shine 
-*DOR:	The introduction    ((playing piano)) ((singing)) There are hundred of stars that shine there are hundred of fish in the sea, there are hundreds of people the whole world over, there's only one mother for me, only one mother for me, I love her and she loves me, there are   (  ) and shells on the shore, there are   (  ) and shells on the beach there are   (  ) the whole world over but there's only one mother for me . 
+*NON:	When the introduction is being played you don't talk, now the quicker we get through these and practice these then we can have the other songs to sing, now I want   (        ) please.Right we'll begin by there are hundred of stars that shine
+*DOR:	The introduction    ((playing piano)) [singing] There are hundred of stars that shine there are hundred of fish in the sea, there are hundreds of people the whole world over, there's only one mother for me, only one mother for me, I love her and she loves me, there are   (        ) and shells on the shore, there are   (        ) and shells on the beach there are   (        ) the whole world over but there's only one mother for me  [] .
 @End

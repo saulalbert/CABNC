@@ -1,60 +1,60 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 shopping 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0047XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
-@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
+@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Media: 021A-C0897X0047XX-ABZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 shopping 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0047XX-ABZZP0.wav
 @Comment:	conversation #9 (Tape 004709)
-*UNK:	Have you got a soap box? 
-*CLA:	 (  ) 
-*HEL:	Have ou got a box for your soap?  (10.0) No that's a dish she wants a box. 
-*AMY:	Oh! Right. 
-*HEL:	They're only a pound. They're a pound. Deary me! 
-*CLA:	 (  ) 
-*HEL:	Yeah. Want that colour? Or a pink one or a blue one? 
-*AMY:	One sort of flesh coloured. (  )  (11.0)  
-*HEL:	Bit expensive aren't they?  (.) Can make up one. (.)  
-*CLA:	Amy have you seen my head shawl? 
-*AMY:	You haven't  (  )  
-*HEL:	Oh yeah   ((laugh)) oh look. Those the ones as well. No they weren't the ones. Yeah they got bristles. Maybe you'd like one of those. 
-*CLA:	 (  ) this is a fish. 
-*AMY:	That's the best one  (  )  
-*HEL:	There's a fish one.  (14.0) Well I should think the pink one look er hairbands apparently. 
-*AMY:	Come on then   (  )  (10.0)  
-*HEL:	No Amy. Come on. 
-*CLA:	Pardon? 
-*AMY:	Buy one. Why can't we buy one Mum? Why can't we buy one? 
-*HEL:	You're you're all right for a hair brush then are you? 
-*AMY:	I'll take mine er  (  )  
-*CLA:	Oh mummy! mummy! 
-*HEL:	Yeah that's sure. ((cough))  
-*AMY:	 (  ) Ah this is it. (7.0)  (  )  
-*CLA:	Mmm  (.)  
-*AMY:	Bright red   (  ) Oh there're good. I like the green one. 
-*HEL:	White do you think? Yeah yeah. 
-*AMY:	 (  ) 
-*HEL:	Right that will do I think. Right let's go and get this lot then. That's all you need isn't it? (.)  
-*AMY:	 (  ) 
-*HEL:	 (  ) Go on then. Oh we've still got next week if you   (.) here we are. There's a queue here. You need anything else  (.)  
-*CLA:	Hair conditioner Mummy. 
-*HEL:	Well we've got some hair conditioner. 
-*CLA:	Hair conditioner. 
-*HEL:	Yes I don't think we need any more at the moment   (.) Oh I know what I want. I want some stuff for my nails.  (  ) nail varnish   (.) No ah.  (20.0) Right right there's one here. 
-*CLA:	There's a hankie 
-*AMY:	When will  (  )  
-*HEL:	Well Amy I'll get you one another day hey? We are just getting Clare what she needed to go away with. 
-*CLA:	What's that? What's that? 
-*HEL:	A soap box   (.) to put soap in. Otherwise everything will be tasting of soap. (.)  
-*CLA:	Aren't you  (  ) ? (10.0)  
-*AMY:	 (  )  (10.0) 
-*HEL:	No no no no no Amy   (12.0) Now yu can put them out if you like.  (14.0) You wanted a er   (.) thing for your   (.) from erm Smith's didn't you? 
+*UNK:	Have you got a soap box?
+*CLA:	 (        ) 
+*HEL:	Have ou got a box for your soap? (.) No that's a dish she wants a box.
+*AMY:	Oh!Right.
+*HEL:	They're only a pound.They're a pound.Deary me!
+*CLA:	 (        ) 
+*HEL:	Yeah.Want that colour?Or a pink one or a blue one?
+*AMY:	One sort of flesh coloured. (        )  (.) 
+*HEL:	Bit expensive aren't they? (.) Can make up one. (.) 
+*CLA:	Amy have you seen my head shawl?
+*AMY:	You haven't  (        ) 
+*HEL:	Oh yeah   ((laugh)) oh look.Those the ones as well.No they weren't the ones.Yeah they got bristles.Maybe you'd like one of those.
+*CLA:	 (        ) this is a fish.
+*AMY:	That's the best one  (        ) 
+*HEL:	There's a fish one. (.) Well I should think the pink one look er hairbands apparently.
+*AMY:	Come on then   (        )  (.) 
+*HEL:	No Amy.Come on.
+*CLA:	Pardon?
+*AMY:	Buy one.Why can't we buy one Mum?Why can't we buy one?
+*HEL:	You're you're all right for a hair brush then are you?
+*AMY:	I'll take mine er  (        ) 
+*CLA:	Oh mummy! mummy!
+*HEL:	Yeah that's sure. ((cough)) 
+*AMY:	 (        ) Ah this is it. (.)  (        ) 
+*CLA:	Mmm  (.) 
+*AMY:	Bright red   (        ) Oh there're good.I like the green one.
+*HEL:	White do you think?Yeah yeah.
+*AMY:	 (        ) 
+*HEL:	Right that will do I think.Right let's go and get this lot then.That's all you need isn't it? (.) 
+*AMY:	 (        ) 
+*HEL:	 (        ) Go on then.Oh we've still got next week if you   (.) here we are.There's a queue here.You need anything else  (.) 
+*CLA:	Hair conditioner Mummy.
+*HEL:	Well we've got some hair conditioner.
+*CLA:	Hair conditioner.
+*HEL:	Yes I don't think we need any more at the moment   (.) Oh I know what I want.I want some stuff for my nails. (        ) nail varnish   (.) No ah. (.) Right right there's one here.
+*CLA:	There's a hankie
+*AMY:	When will  (        ) 
+*HEL:	Well Amy I'll get you one another day hey?We are just getting Clare what she needed to go away with.
+*CLA:	What's that?What's that?
+*HEL:	A soap box   (.) to put soap in.Otherwise everything will be tasting of soap. (.) 
+*CLA:	Aren't you  (        ) ? (.) 
+*AMY:	 (        )  (.) 
+*HEL:	No no no no no Amy   (.) Now yu can put them out if you like. (.) You wanted a er   (.) thing for your   (.) from erm Smith's didn't you?
 @End

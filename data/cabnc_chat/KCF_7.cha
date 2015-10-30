@@ -1,22 +1,22 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-03-17:  
-@Location:	 home 
-@Situation:	 preparing tea  
-@Media:	021A-C0897X0282XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	IRI Iris self, ALI Alison daughter
 @Options:	CA
-@ID:	eng|AudioBNC|IRI|54;|||||home care assistant||PS1EN|
-@ID:	eng|AudioBNC|ALI|21;|||||landscape gardener|daughter|PS1EP|
+@ID: eng|AudioBNC|IRI|~54;| |f|Ag4| |home care assistant||PS1EN|
+@ID: eng|AudioBNC|ALI|~21;| |f|Ag1| |landscape gardener|daughter|PS1EP|
+@Media: 021A-C0897X0282XX-AAZZP0.wav, audio 		
+@Date:	1992-03-17:  
+@Situation:	 preparing tea 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0282XX-AAZZP0.wav
 @Comment:	conversation #7 (Tape 028202)
-*IRI:	You can get days where you feel more tired than others don't you?  (.) But you had a late night last night. 
-*ALI:	 (  ) 
-*IRI:	Yeah. 
-*ALI:	 (  ) 
-*IRI:	Come on little 'un.  (7.0) Pardon? 
-*ALI:	 (  )  (.) 
+*IRI:	You can get days where you feel more tired than others don't you? (.) But you had a late night last night.
+*ALI:	 (        ) 
+*IRI:	Yeah.
+*ALI:	 (        ) 
+*IRI:	Come on little 'un. (.) Pardon?
+*ALI:	 (        )  (.) 
 @End

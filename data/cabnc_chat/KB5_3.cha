@@ -1,36 +1,36 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-30:  
-@Location:	 Home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0057XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	AND Andrew self, SUZ Suzanne girlfriend
 @Options:	CA
-@ID:	eng|AudioBNC|AND|16;|||||student||PS028|
-@ID:	eng|AudioBNC|SUZ|17;|||||student|girlfriend|PS0Y5|
+@ID: eng|AudioBNC|AND|~16;| |m|Ag1| |student||PS028|
+@ID: eng|AudioBNC|SUZ|~17;| |f|Ag1| |student|girlfriend|PS0Y5|
+@Media: 021A-C0897X0057XX-AAZZP0.wav, audio 		
+@Date:	1991-05-30:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0057XX-AAZZP0.wav
 @Comment:	conversation #3 (Tape 005703)
-*SUZ:	That tiggles. 
-*AND:	Tiggles? 
-*SUZ:	Yeah, (  ) what else  (  ) . 
-*AND:	Tickles, not tiggles. 
+*SUZ:	That tiggles.
+*AND:	Tiggles?
+*SUZ:	Yeah, (        ) what else  (        ) .
+*AND:	Tickles, not tiggles.
 *SUZ:	 ((laugh)) 
-*AND:	It's C, K. 
-*SUZ:	Alright. 
-*AND:	Not G, tickles. 
-*SUZ:	Yeah, it's very flash then  (  ) . 
-*AND:	 (  ) 
+*AND:	It's C, K.
+*SUZ:	Alright.
+*AND:	Not G, tickles.
+*SUZ:	Yeah, it's very flash then  (        ) .
+*AND:	 (        ) 
 *SUZ:	 ((laugh)) 
-*AND:	 (  ) 
-*SUZ:	Yeah. (  ) . 
-*AND:	What? Have a nice three piece suite for you. Take it  (10.0)  
-*SUZ:	Not 
-*AND:	Lucky   (  ) oh, (  ) . Sean Connery? 
-*SUZ:	 (  ) 
-*AND:	That on there, see? 
-*SUZ:	Mhm. 
-*AND:	Good. 
+*AND:	 (        ) 
+*SUZ:	Yeah. (        ) .
+*AND:	What?Have a nice three piece suite for you.Take it  (.) 
+*SUZ:	Not
+*AND:	Lucky   (        ) oh, (        ) .Sean Connery?
+*SUZ:	 (        ) 
+*AND:	That on there, see?
+*SUZ:	Mhm.
+*AND:	Good.
 @End

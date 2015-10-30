@@ -1,22 +1,22 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-02-03:  
-@Location:	  at home  
-@Situation:	  lunch with family   
-@Media:	021A-C0897X0621XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , ANN Annette self, TRA Tracy daughter
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|ANN|44;|||||administrative assistant||PS1CX|
-@ID:	eng|AudioBNC|TRA|24;|||||housewife|daughter|PS1D1|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|ANN|~44;| |f|Ag3| |administrative assistant||PS1CX|
+@ID: eng|AudioBNC|TRA|~24;| |f|Ag1| |housewife|daughter|PS1D1|
+@Media: 021A-C0897X0621XX-ABZZP0.wav, audio 		
+@Date:	1992-02-03:  
+@Situation:	  lunch with family  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  at home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0621XX-ABZZP0.wav
 @Comment:	conversation #10 (Tape 062106)
-*ANN:	Who's a clever girl, you dancing? Are ya, you dancing   (.) oh look at that bird   (.) look that bird  (40.0)  
-*TRA:	Come out of the cupboard, no  (.)  
-*UNK:	Can you eat a very big  potato? 
-*TRA:	 No   
-*ANN:	No, half a one. 
+*ANN:	Who's a clever girl, you dancing?Are ya, you dancing   (.) oh look at that bird   (.) look that bird  (.) 
+*TRA:	Come out of the cupboard, no  (.) 
+*UNK:	Can you eat a very big potato?
+*TRA:	No 
+*ANN:	No, half a one.
 @End

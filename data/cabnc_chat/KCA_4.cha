@@ -1,39 +1,39 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-01-11:  
-@Location:	  at home  
-@Situation:	  talking with children   
-@Media:	021A-C0897X0541XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	GOR Gordon self, DEB Debbie wife, SEA Sean son, KIR Kirsty daughter
 @Options:	CA
-@ID:	eng|AudioBNC|GOR|32;|||||unemployed||PS0DL|
-@ID:	eng|AudioBNC|DEB|29;|||||housewife|wife|PS0DM|
-@ID:	eng|AudioBNC|SEA|6;|||||student (state primary)|son|PS0DT|
-@ID:	eng|AudioBNC|KIR|3;|||||student (state pre)|daughter|PS0DU|
+@ID: eng|AudioBNC|GOR|~32;| |m|Ag2| |unemployed||PS0DL|
+@ID: eng|AudioBNC|DEB|~29;| |f|Ag2| |housewife|wife|PS0DM|
+@ID: eng|AudioBNC|SEA|~6;| |m|Ag0| |student (state primary)|son|PS0DT|
+@ID: eng|AudioBNC|KIR|~3;| |f|Ag0| |student (state pre)|daughter|PS0DU|
+@Media: 021A-C0897X0541XX-AAZZP0.wav, audio 		
+@Date:	1992-01-11:  
+@Situation:	  talking with children  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  at home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0541XX-AAZZP0.wav
 @Comment:	conversation #4 (Tape 054104)
-*DEB:	If you don't want it Kirsty'll have it cos Kirsty wants   (  )  don't you Kirst? 
-*SEA:	 Kirsty always wants  Kirsty always has something. 
-*DEB:	Well you just said you didn't want it! (.)  
-*SEA:	I said I do want it but I don't like the game. (.)  
-*DEB:	Well that's a bit simple Irish Sean, you either want it or you don't want it. It helps you to r  learn to write tidy. 
-*SEA:	Oh I learned. 
-*DEB:	Trouble is you're too lazy. You're too lazy to be bothered. 
-*SEA:	I'm lazy  (6.0)  
-*DEB:	That's the trouble. (.)  
-*GOR:	What are you making Kirst?  (.) Making it purple? (.)  
-*KIR:	No   (.) I'm taking them, that out. 
-*DEB:	Thirty five pounds  this is   
-*GOR:	 Taking it back  out. 
-*DEB:	these coats are, thirty five ninety nine. (.)  (  )  
-*SEA:	 (  ) 
-*GOR:	 (  )  (.) 
-*DEB:	Pardon? 
-*SEA:	Have you got a  (  ) ? (.)  
-*DEB:	Go over there and get the tea towel off the floor   (  )  (.)  
-*SEA:	This one? 
-*DEB:	Kirsty make sure you put all them back in there tidy please. (.)  
+*DEB:	If you don't want it Kirsty'll have it cos Kirsty wants   (        ) don't you Kirst?
+*SEA:	Kirsty always wants Kirsty always has something.
+*DEB:	Well you just said you didn't want it! (.) 
+*SEA:	I said I do want it but I don't like the game. (.) 
+*DEB:	Well that's a bit simple Irish Sean, you either want it or you don't want it.It helps you to r learn to write tidy.
+*SEA:	Oh I learned.
+*DEB:	Trouble is you're too lazy.You're too lazy to be bothered.
+*SEA:	I'm lazy  (.) 
+*DEB:	That's the trouble. (.) 
+*GOR:	What are you making Kirst? (.) Making it purple? (.) 
+*KIR:	No   (.) I'm taking them, that out.
+*DEB:	Thirty five pounds this is 
+*GOR:	Taking it back out.
+*DEB:	these coats are, thirty five ninety nine. (.)  (        ) 
+*SEA:	 (        ) 
+*GOR:	 (        )  (.) 
+*DEB:	Pardon?
+*SEA:	Have you got a  (        ) ? (.) 
+*DEB:	Go over there and get the tea towel off the floor   (        )  (.) 
+*SEA:	This one?
+*DEB:	Kirsty make sure you put all them back in there tidy please. (.) 
 @End

@@ -1,218 +1,218 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-03-14:  
-@Location:	  car/MacDonalds  
-@Situation:	  going to MacDonalds for tea   
-@Media:	021A-C0897X0222XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , DOR Dorothy self, TIM Tim son, CHR Christopher son, AND Andrew husband
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
-@ID:	eng|AudioBNC|DOR|34;|||||teacher (pt)||PS087|
-@ID:	eng|AudioBNC|TIM|3;|||||student (private pre)|son|PS088|
-@ID:	eng|AudioBNC|CHR|5;|||||student (state primary)|son|PS089|
-@ID:	eng|AudioBNC|AND|36;|||||purchasing manager|husband|PS08A|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|AudioBNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
+@ID: eng|AudioBNC|TIM|~3;| |m|Ag0| |student (private pre)|son|PS088|
+@ID: eng|AudioBNC|CHR|~5;| |m|Ag0| |student (state primary)|son|PS089|
+@ID: eng|AudioBNC|AND|~36;| |m|Ag3| |purchasing manager|husband|PS08A|
+@Media: 021A-C0897X0222XX-AAZZP0.wav, audio 		
+@Date:	1992-03-14:  
+@Situation:	  going to MacDonalds for tea  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  car/MacDonalds  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0222XX-AAZZP0.wav
 @Comment:	conversation #9 (Tape 022203)
-*DOR:	It was when you were playing with it with your fingers, do you remember? Anyway it won't matter. We can use some pliers or something to   (.) bend it back. (.)  
-*TIM:	 ((singing))  (  ) 
-*DOR:	Hello hello hello hello 
-*TIM:	 ((singing))  (  ) 
-*CHR:	 Mummy this is for winter this isn't it? 
-*AND:	 Hello. Your er  (  ) ? 
-*DOR:	Yes. 
-*CHR:	I don't suppose we could have it    (  )   
-*DOR:	 For   (.) for the chilly days.  Well in the summer you won't need jumpers will you like this? 
-*CHR:	No. 
-*DOR:	Hopefully. If we have a good summer. Mind you in the evening, if it gets quite chilly in the evenings so it might be a good jumper to wear in the evenings when we go for our   (.) evening walks by the sea. Oh what a lovely thought daddy. 
-*TIM:	 ((singing))  (  ) 
-*DOR:	Next time we go to the sea.  (  ) Oh it's the clip. He's been playing with it, he's bent it out so it  (  ) . It's on at the moment though.  (.)  (  ) I tried doing it with my fingers but  (  )  
-*AND:	I don't know. 
-*DOR:	Thank you dear. Very helpful.  (.) Very helpful. Oh. (.)  
-*CHR:	Mum, what about giving him something for being very   (.)  (  )  
-*DOR:	Giving who something? What do you mean? 
-*CHR:	Here, I'm gonna whisper you something. 
-*DOR:	Go on. 
-*CHR:	 ((whispering))  (  ) 
-*DOR:	Give you what? 
-*GRO:	 (  ) 
-*DOR:	Why? 
-*CHR:	 ((whispering))  (  ) 
-*DOR:	Oh I see. Oh right. 
-*TIM:	Biscuits. 
-*DOR:	No no. Nothing to do with biscuits. 
-*AND:	Right.  We'll have to go   
-*CHR:	 Nothing to do with biscuits. 
-*AND:	do we need to go upstairs first? 
-*DOR:	Er, I think we should. (.)  
-*TIM:	 (  ) 
-*DOR:	Come on. (.)  
-*TIM:	 ((laugh)) Chips. 
-*CHR:	 ((laugh)) Chips. 
-*DOR:	I think we should have chips, don't you? 
-*GRO:	 (  ) 
-*TIM:	MacDonalds. 
-*CHR:	Mac  (  )  
-*GRO:	 (  ) 
-*AND:	 (  ) Erm   (.) have you got the purse mummy? 
-*DOR:	Erm   (.) I don't know. Have you got some money? 
-*AND:	I haven't got any money  (  ) . 
-*DOR:	It's alright. I've got loads of money somewhere. It's just a matter of  (.)  
-*TIM:	It's stopped raining. 
-*AND:	Good. 
-*GRO:	 (  ) 
-*AND:	Has John got a new car do you think? 
-*DOR:	Oh well I saw that on Friday. In fact yesterday we said I wonder if he's got a new car or   (.) whether he's got visitors. 
-*AND:	 (  ) I should imagine  it's a new car. 
-*DOR:	 Very posh isn't  it? Is it new? I mean 
-*AND:	 (  ) 
-*DOR:	It's J reg is it? 
-*TIM:	 ((singing+shouting))  (  ) 
-*DOR:	I I I I told you to. 
-*TIM:	 ((singing+shouting))  (  ) 
-*DOR:	Will it fit in the garage? (.)  
-*AND:	It's a bit bigger than our   (  ) ford escort. 
-*TIM:	It won't mummy. I don't think it will. 
+*DOR:	It was when you were playing with it with your fingers, do you remember?Anyway it won't matter.We can use some pliers or something to   (.) bend it back. (.) 
+*TIM:	 [singing]  (        )  [] 
+*DOR:	Hello hello hello hello
+*TIM:	 [singing]  (        )  [] 
+*CHR:	Mummy this is for winter this isn't it?
+*AND:	Hello.Your er  (        ) ?
+*DOR:	Yes.
+*CHR:	I don't suppose we could have it   (        ) 
+*DOR:	For   (.) for the chilly days.Well in the summer you won't need jumpers will you like this?
+*CHR:	No.
+*DOR:	Hopefully.If we have a good summer.Mind you in the evening, if it gets quite chilly in the evenings so it might be a good jumper to wear in the evenings when we go for our   (.) evening walks by the sea.Oh what a lovely thought daddy.
+*TIM:	 [singing]  (        )  [] 
+*DOR:	Next time we go to the sea. (        ) Oh it's the clip.He's been playing with it, he's bent it out so it  (        ) .It's on at the moment though. (.)  (        ) I tried doing it with my fingers but  (        ) 
+*AND:	I don't know.
+*DOR:	Thank you dear.Very helpful. (.) Very helpful.Oh. (.) 
+*CHR:	Mum, what about giving him something for being very   (.)  (        ) 
+*DOR:	Giving who something?What do you mean?
+*CHR:	Here, I'm gonna whisper you something.
+*DOR:	Go on.
+*CHR:	 [whispering]  (        )  [] 
+*DOR:	Give you what?
+*GRO:	 (        ) 
+*DOR:	Why?
+*CHR:	 [whispering]  (        )  [] 
+*DOR:	Oh I see.Oh right.
+*TIM:	Biscuits.
+*DOR:	No no.Nothing to do with biscuits.
+*AND:	Right.We'll have to go 
+*CHR:	Nothing to do with biscuits.
+*AND:	do we need to go upstairs first?
+*DOR:	Er, I think we should. (.) 
+*TIM:	 (        ) 
+*DOR:	Come on. (.) 
+*TIM:	 ((laugh)) Chips.
+*CHR:	 ((laugh)) Chips.
+*DOR:	I think we should have chips, don't you?
+*GRO:	 (        ) 
+*TIM:	MacDonalds.
+*CHR:	Mac  (        ) 
+*GRO:	 (        ) 
+*AND:	 (        ) Erm   (.) have you got the purse mummy?
+*DOR:	Erm   (.) I don't know.Have you got some money?
+*AND:	I haven't got any money  (        ) .
+*DOR:	It's alright.I've got loads of money somewhere.It's just a matter of  (.) 
+*TIM:	It's stopped raining.
+*AND:	Good.
+*GRO:	 (        ) 
+*AND:	Has John got a new car do you think?
+*DOR:	Oh well I saw that on Friday.In fact yesterday we said I wonder if he's got a new car or   (.) whether he's got visitors.
+*AND:	 (        ) I should imagine it's a new car.
+*DOR:	Very posh isn't it?Is it new?I mean
+*AND:	 (        ) 
+*DOR:	It's J reg is it?
+*TIM:	 [singing+shouting]  (        )  [] 
+*DOR:	I I I I told you to.
+*TIM:	 [singing+shouting]  (        )  [] 
+*DOR:	Will it fit in the garage? (.) 
+*AND:	It's a bit bigger than our   (        ) ford escort.
+*TIM:	It won't mummy.I don't think it will.
 *DOR:	 ((laugh)) 
-*CHR:	If it doesn't mum   (.) anyway it wouldn't fit in the garage because there's another car in there. 
-*DOR:	Oh that's a point. That's a bit tricky. Well we think that that might be a new car. 
-*AND:	Yeah, we think it's    (  )   
-*TIM:	  ((shouting))  (  )  .  (  ) cos we're nearly there. 
-*DOR:	 ((laughing)) We're not nearly there. We haven't even started . (.)  
-*TIM:	Nearly there.  (.) Got to  be quick. 
-*AND:	  (  )  did you actually go to sleep mummy? 
-*DOR:	I did. 
-*AND:	Did you? (  )   
-*DOR:	 I was  absolutely whacked out. 
-*AND:	You've done very well  (  ) . 
-*DOR:	Well I haven't. You've done all the meals. ((laugh))  
-*CHR:	Dad, could you walk it to MacDonalds? 
-*AND:	Well you could. It would be a little bit far for us. But we could if we needed to. 
-*DOR:	Wouldn't be too bad cos you'd go down by the Jolly Farmer. 
-*AND:	Yeah. 
-*DOR:	You'd have to walk like Gemma walks to school wouldn't you? 
-*CHR:	Mm. 
-*AND:	Where does Gemma live? 
-*DOR:	Gemma lives   (.) Oakenshaw  
-*CHR:	Yeah, near MacDonalds. Near MacDonalds dad. She lives right near MacDonalds doesn't she? 
-*DOR:	She does actually.  ((laugh)) Wonder if she goes to MacDonalds every night for her tea? 
-*CHR:	No.  (.) But she could walk it from her house couldn't she? 
-*DOR:	She could. (.)  
-*CHR:	Because it's not far. Yeah all she has to do is go   (.) go round her bit   (.) round just a normal road, across the road   (.) down a little bit   (.) and she's there. 
-*DOR:	Mm. 
-*CHR:	It's not very far daddy, is it daddy? A teeny   (  ) bit. It's only round the corner   (.) from her isn't it mum?  (.) It's only  (  ) . (  )   
-*TIM:	  ((cough))  I found it   (.) over here. 
-*CHR:	I can't see it. There it is. 
-*TIM:	There it is. 
-*AND:	There's a lot of people there. Do you think we'll get a seat? 
-*DOR:	Ooh there's a lot of cars. 
-*TIM:	I see MacDonalds. 
-*DOR:	There's not normally that many people there are there? 
-*AND:	No. It's 
-*CHR:	What? 
-*AND:	it's a bit full. 
-*DOR:	Oh it looks crowded. Perhaps there's a party. (.)  
-*TIM:	It's not a party. (.)  
-*CHR:	Perhaps there's only one person in each car at MacDonalds. 
-*DOR:	 ((laugh)) That's true. I can't think that one person in a car on their own would want to go to MacDonalds too often. (.)  
-*CHR:	Like a mum or a dad or   (  )  (.)  
-*DOR:	Everybody must have thought what a dismal day this is. 
-*AND:	Mm. 
-*DOR:	Let's got to MacDonalds for our tea.  (.)  Mm it is quite full though. 
-*CHR:	 How do you know which way   
-*AND:	It is. Are we gonna get i  I don't think we're gonna get in. 
-*DOR:	Course we are. 
-*TIM:	What? 
-*DOR:	I've never known it that full before. (.)  
-*AND:	Where to park? (  )   
-*TIM:	 There's a space. 
-*AND:	There aren't  any spaces. 
-*DOR:	 Well just keep  going round. There was some space at the other end actually. 
-*TIM:	There's a space. Just missed a space. 
-*DOR:	I don't think we did  Tim  . 
-*AND:	 No  there weren't any. 
-*DOR:	No. I think there's one just over here.  (.) Oh  (  )  
-*TIM:	How you    (  ) space? 
-*CHR:	 Where? 
-*DOR:	There. That's the one I saw when I was coming in. Don't know if you're meant to use it. 
-*AND:	Well  (  )  
-*DOR:	Are those   (.) erm queuing up though? 
-*AND:	Yeah. 
-*DOR:	Oh. 
-*AND:	 (  ) I'd better get out this side I think. 
-*DOR:	Why? 
-*AND:	No, your side I mean. Cos it's flowers and things. 
+*CHR:	If it doesn't mum   (.) anyway it wouldn't fit in the garage because there's another car in there.
+*DOR:	Oh that's a point.That's a bit tricky.Well we think that that might be a new car.
+*AND:	Yeah, we think it's   (        ) 
+*TIM:	 [shouting]  (        )  [] . (        ) cos we're nearly there.
+*DOR:	 [laughing] We're not nearly there.We haven't even started  [] . (.) 
+*TIM:	Nearly there. (.) Got to be quick.
+*AND:	 (        ) did you actually go to sleep mummy?
+*DOR:	I did.
+*AND:	Did you? (        ) 
+*DOR:	I was absolutely whacked out.
+*AND:	You've done very well  (        ) .
+*DOR:	Well I haven't.You've done all the meals. ((laugh)) 
+*CHR:	Dad, could you walk it to MacDonalds?
+*AND:	Well you could.It would be a little bit far for us.But we could if we needed to.
+*DOR:	Wouldn't be too bad cos you'd go down by the Jolly Farmer.
+*AND:	Yeah.
+*DOR:	You'd have to walk like Gemma walks to school wouldn't you?
+*CHR:	Mm.
+*AND:	Where does Gemma live?
+*DOR:	Gemma lives   (.) Oakenshaw 
+*CHR:	Yeah, near MacDonalds.Near MacDonalds dad.She lives right near MacDonalds doesn't she?
+*DOR:	She does actually. ((laugh)) Wonder if she goes to MacDonalds every night for her tea?
+*CHR:	No. (.) But she could walk it from her house couldn't she?
+*DOR:	She could. (.) 
+*CHR:	Because it's not far.Yeah all she has to do is go   (.) go round her bit   (.) round just a normal road, across the road   (.) down a little bit   (.) and she's there.
+*DOR:	Mm.
+*CHR:	It's not very far daddy, is it daddy?A teeny   (        ) bit.It's only round the corner   (.) from her isn't it mum? (.) It's only  (        ) . (        ) 
+*TIM:	 ((cough)) I found it   (.) over here.
+*CHR:	I can't see it.There it is.
+*TIM:	There it is.
+*AND:	There's a lot of people there.Do you think we'll get a seat?
+*DOR:	Ooh there's a lot of cars.
+*TIM:	I see MacDonalds.
+*DOR:	There's not normally that many people there are there?
+*AND:	No.It's
+*CHR:	What?
+*AND:	it's a bit full.
+*DOR:	Oh it looks crowded.Perhaps there's a party. (.) 
+*TIM:	It's not a party. (.) 
+*CHR:	Perhaps there's only one person in each car at MacDonalds.
+*DOR:	 ((laugh)) That's true.I can't think that one person in a car on their own would want to go to MacDonalds too often. (.) 
+*CHR:	Like a mum or a dad or   (        )  (.) 
+*DOR:	Everybody must have thought what a dismal day this is.
+*AND:	Mm.
+*DOR:	Let's got to MacDonalds for our tea. (.) Mm it is quite full though.
+*CHR:	How do you know which way 
+*AND:	It is.Are we gonna get i I don't think we're gonna get in.
+*DOR:	Course we are.
+*TIM:	What?
+*DOR:	I've never known it that full before. (.) 
+*AND:	Where to park? (        ) 
+*TIM:	There's a space.
+*AND:	There aren't any spaces.
+*DOR:	Well just keep going round.There was some space at the other end actually.
+*TIM:	There's a space.Just missed a space.
+*DOR:	I don't think we did Tim .
+*AND:	No there weren't any.
+*DOR:	No.I think there's one just over here. (.) Oh  (        ) 
+*TIM:	How you   (        ) space?
+*CHR:	Where?
+*DOR:	There.That's the one I saw when I was coming in.Don't know if you're meant to use it.
+*AND:	Well  (        ) 
+*DOR:	Are those   (.) erm queuing up though?
+*AND:	Yeah.
+*DOR:	Oh.
+*AND:	 (        ) I'd better get out this side I think.
+*DOR:	Why?
+*AND:	No, your side I mean.Cos it's flowers and things.
 *DOR:	 ((laugh))  (.) 
-*TIM:	I   (  )  the door. 
-*DOR:	 See Ronald  MacDonald in person here on Sunday the twenty second of March. 
-*TIM:	I'll go round the door. 
-*DOR:	Appearances at noon and three PM.  (.) I thought the man was dead. 
-*TIM:	I'm going out here. 
-*CHR:	Who is dead? 
-*DOR:	 ((laughing)) Ronald MacDonald . Isn't he dead, Ronald MacDonald?  (.) Or perhaps it's sort of some dressed up character. 
-*TIM:	Don't! 
-*DOR:	Okay. Are you coming Christopher or are you going to sit here to have your meal? Just wait Tim cos there's lots of cars. 
-*TIM:	I just going go round. 
-*DOR:	Well just go and stand on that path there cos there's another   (.) another car then. Stay on the path.  Wait! (.) just there. 
-*AND:	 Okay just stay, Tim! Stay   (  )   
-*DOR:	On that path, go on. 
-*AND:	Stay there. 
-*DOR:	Right stay there, don't move. Yes. (.)  
-*CHR:	There's a car there. (.)  
-*DOR:	Okay, right. Away you go. 
-*TIM:	Ah be quick. 
-*GRO:	 (  )  (  ) 
-*TIM:	Look dad. 
-*DOR:	Yeah sit down. Come on. (.)  
-*CHR:	Mum, how many straws do we need? 
-*DOR:	How many what? 
-*CHR:	How many straws do we need? 
-*DOR:	I don't know. 
-*CHR:	Shall I ask daddy and Tim?  (.) How many we might need? 
-*DOR:	Yeah. Twenty chicken nuggets please. 
-*UNK:	Twenty chicken nuggets.  Any sauce? 
-*DOR:	 And  er yeah   (.) tomato ketchup and sweet and sour   (.) please. I can have two of each can't I? And   (.) french fries.  (.)  Yeah two large  (  ) . And two teas   (  ) two teas   (  ) two oranges.  (.) Erm   (.) that's it. 
-*TIM:	 Do you want a straw? Mum do you want a straw? (  ) straw. Do you want a straw?  ((shouting)) Oy   (.) mum . 
-*CHR:	Do you want a straw mum? 
-*DOR:	Would you not shout at me. 
-*TIM:	What? 
-*DOR:	Don't shout at me. 
-*CHR:	Do you want a straw please? 
-*TIM:	Mummy do you want a straw? 
-*DOR:	I don't want a straw, no. 
-*TIM:	I I I I want a straw. Mum mum    (  )  ((shouting)) mummy  I want a straw. 
-*DOR:	Right. 
-*UNK:	Two thirteen change. 
-*DOR:	Thank you. 
-*UNK:	Dave do you want to take   (  ) to that lady in the corner  (  ) . Can I help anyone? 
-*GRO:	 (  ) 
-*CHR:	Mum can I take these to the table? 
-*DOR:	Yes, just go and sit with daddy please. 
-*TIM:	 (  ) 
-*DOR:	Now stop  (  )  
-*TIM:	 (  ) 
-*CHR:	I'll take them. 
-*DOR:	No. 
-*CHR:	Why? 
-*GRO:	 (  ) 
-*DOR:	No thanks. Just milk.  (.) Can you two go and sit down with daddy please cos this is getting silly. 
-*TIM:	I want to watch. 
-*DOR:	No. Go and sit with daddy. 
-*TIM:	I want to watch you. 
-*DOR:	Go and sit with daddy. 
-*TIM:	 (  ) 
-*DOR:	No cos you keep shouting at me. Now go away, please. 
-*TIM:	 (  ) shout at you. 
-*DOR:	Now please. Go. 
-*GRO:	 (  ) 
-*DOR:	Go on please. 
-*TIM:	 (  ) . 
-*DOR:	No. I shall just say I'm sorry we don't want this meal and we'll go away. Go and sit down with daddy please. 
-*GRO:	 (  ) 
-*UNK:	Okay? 
-*DOR:	 (  ) french fries. 
-*GRO:	 (  ) 
+*TIM:	I   (        ) the door.
+*DOR:	See Ronald MacDonald in person here on Sunday the twenty second of March.
+*TIM:	I'll go round the door.
+*DOR:	Appearances at noon and three PM. (.) I thought the man was dead.
+*TIM:	I'm going out here.
+*CHR:	Who is dead?
+*DOR:	 [laughing] Ronald MacDonald  [] .Isn't he dead, Ronald MacDonald? (.) Or perhaps it's sort of some dressed up character.
+*TIM:	Don't!
+*DOR:	Okay.Are you coming Christopher or are you going to sit here to have your meal?Just wait Tim cos there's lots of cars.
+*TIM:	I just going go round.
+*DOR:	Well just go and stand on that path there cos there's another   (.) another car then.Stay on the path.Wait! (.) just there.
+*AND:	Okay just stay, Tim!Stay   (        ) 
+*DOR:	On that path, go on.
+*AND:	Stay there.
+*DOR:	Right stay there, don't move.Yes. (.) 
+*CHR:	There's a car there. (.) 
+*DOR:	Okay, right.Away you go.
+*TIM:	Ah be quick.
+*GRO:	 (        )  (        ) 
+*TIM:	Look dad.
+*DOR:	Yeah sit down.Come on. (.) 
+*CHR:	Mum, how many straws do we need?
+*DOR:	How many what?
+*CHR:	How many straws do we need?
+*DOR:	I don't know.
+*CHR:	Shall I ask daddy and Tim? (.) How many we might need?
+*DOR:	Yeah.Twenty chicken nuggets please.
+*UNK:	Twenty chicken nuggets.Any sauce?
+*DOR:	And er yeah   (.) tomato ketchup and sweet and sour   (.) please.I can have two of each can't I?And   (.) french fries. (.) Yeah two large  (        ) .And two teas   (        ) two teas   (        ) two oranges. (.) Erm   (.) that's it.
+*TIM:	Do you want a straw?Mum do you want a straw? (        ) straw.Do you want a straw? [shouting] Oy   (.) mum  [] .
+*CHR:	Do you want a straw mum?
+*DOR:	Would you not shout at me.
+*TIM:	What?
+*DOR:	Don't shout at me.
+*CHR:	Do you want a straw please?
+*TIM:	Mummy do you want a straw?
+*DOR:	I don't want a straw, no.
+*TIM:	I I I I want a straw.Mum mum    (        )  [shouting] mummy   [] I want a straw.
+*DOR:	Right.
+*UNK:	Two thirteen change.
+*DOR:	Thank you.
+*UNK:	Dave do you want to take   (        ) to that lady in the corner  (        ) .Can I help anyone?
+*GRO:	 (        ) 
+*CHR:	Mum can I take these to the table?
+*DOR:	Yes, just go and sit with daddy please.
+*TIM:	 (        ) 
+*DOR:	Now stop  (        ) 
+*TIM:	 (        ) 
+*CHR:	I'll take them.
+*DOR:	No.
+*CHR:	Why?
+*GRO:	 (        ) 
+*DOR:	No thanks.Just milk. (.) Can you two go and sit down with daddy please cos this is getting silly.
+*TIM:	I want to watch.
+*DOR:	No.Go and sit with daddy.
+*TIM:	I want to watch you.
+*DOR:	Go and sit with daddy.
+*TIM:	 (        ) 
+*DOR:	No cos you keep shouting at me.Now go away, please.
+*TIM:	 (        ) shout at you.
+*DOR:	Now please.Go.
+*GRO:	 (        ) 
+*DOR:	Go on please.
+*TIM:	 (        ) .
+*DOR:	No.I shall just say I'm sorry we don't want this meal and we'll go away.Go and sit down with daddy please.
+*GRO:	 (        ) 
+*UNK:	Okay?
+*DOR:	 (        ) french fries.
+*GRO:	 (        ) 
 @End

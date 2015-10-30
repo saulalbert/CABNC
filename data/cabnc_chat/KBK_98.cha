@@ -1,22 +1,22 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 Home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0023XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, NOR Norrine wife
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Media: 021A-C0897X0023XX-ABZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0023XX-ABZZP0.wav
 @Comment:	conversation #98 (Tape 002332)
-*NOR:	Busy road to live on this isn't it? 
-*CHR:	Yes it is actually. Too fast. 
-*NOR:	Does she find it busy? 
-*CHR:	Perhaps she can sell them a few sleeping policeman, I can't remember her saying so as such. I spoke to Tony   today. 
-*NOR:	Oh yeah, on what? 
-*CHR:	Oh, scientific instrumentation. Got a chap in Japan who wants some. He's a bit woolly about what he wants. Tony gave him the name of his, pal of his, who is professor of biochemical engineering as in University College, London. 
+*NOR:	Busy road to live on this isn't it?
+*CHR:	Yes it is actually.Too fast.
+*NOR:	Does she find it busy?
+*CHR:	Perhaps she can sell them a few sleeping policeman, I can't remember her saying so as such.I spoke to Tony  today.
+*NOR:	Oh yeah, on what?
+*CHR:	Oh, scientific instrumentation.Got a chap in Japan who wants some.He's a bit woolly about what he wants.Tony gave him the name of his, pal of his, who is professor of biochemical engineering as in University College, London.
 @End

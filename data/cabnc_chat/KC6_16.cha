@@ -1,59 +1,59 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-01-13:  
-@Location:	 in office 
-@Situation:	 working  
-@Media:	021A-C0897X0559XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , GAV Gavin self, RIC Richard colleague, SAR Saranne colleague, STE Steve colleague, NIC Nick colleague
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
-@ID:	eng|AudioBNC|GAV|25;|||||photographer||PS0BA|
-@ID:	eng|AudioBNC|RIC|24;|||||journalist|colleague|PS0BC|
-@ID:	eng|AudioBNC|SAR|23;|||||journalist|colleague|PS0BF|
-@ID:	eng|AudioBNC|STE|25;|||||journalist|colleague|PS0BH|
-@ID:	eng|AudioBNC|NIC|20;|||||office junior|colleague|PS0BJ|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|AudioBNC|GAV|~25;| |m|Ag2| |photographer||PS0BA|
+@ID: eng|AudioBNC|RIC|~24;| |m|Ag1| |journalist|colleague|PS0BC|
+@ID: eng|AudioBNC|SAR|~23;| |f|Ag1| |journalist|colleague|PS0BF|
+@ID: eng|AudioBNC|STE|~25;| |m|Ag2| |journalist|colleague|PS0BH|
+@ID: eng|AudioBNC|NIC|~20;| |m|Ag1| |office junior|colleague|PS0BJ|
+@Media: 021A-C0897X0559XX-ABZZP0.wav, audio 		
+@Date:	1992-01-13:  
+@Situation:	 working 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 in office 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0559XX-ABZZP0.wav
 @Comment:	conversation #16 (Tape 055904)
-*GAV:	Saturday. 
-*RIC:	 (  ) T one, two, three, four, fourteen 
-*GAV:	That Money Mail job   (.) Daily Mail. 
-*SAR:	What did you have to do? (.)  
-*STE:	Did you make it? 
-*GAV:	Eh? 
-*STE:	Has it made it? 
-*GAV:	Well it's not for today.  (.) You what Saranne? 
-*SAR:	 (  )  (.) 
-*GAV:	The one you set up. 
-*SAR:	Oh that one. 
-*GAV:	Hello! 
-*SAR:	Oh yeah. 
+*GAV:	Saturday.
+*RIC:	 (        ) T one, two, three, four, fourteen
+*GAV:	That Money Mail job   (.) Daily Mail.
+*SAR:	What did you have to do? (.) 
+*STE:	Did you make it?
+*GAV:	Eh?
+*STE:	Has it made it?
+*GAV:	Well it's not for today. (.) You what Saranne?
+*SAR:	 (        )  (.) 
+*GAV:	The one you set up.
+*SAR:	Oh that one.
+*GAV:	Hello!
+*SAR:	Oh yeah.
 *GAV:	 ((laugh)) 
-*UNK:	 (  ) 
-*SAR:	I've done so many of  (  )  
-*RIC:	 (  ) well if th  if the, just a little announcement, if the milkman comes in to claim his money 
-*STE:	He owes us some money  for the, for the, the milk that was off. 
-*RIC:	 He owes us some money but   (.) yeah  rotten milk, he sold us a couple of pints of rotten mi  the only trouble is Joan   have fucking thrown it out. 
-*STE:	Well we don't, we just don't pay  for it   
-*RIC:	 So   
-*STE:	 (  ) normally take your word. 
-*RIC:	Yeah. Because I'd k   I'd kept it like as evidence   
-*GAV:	  (  ) don't worry about it  he, he won't want evidence, just tell him. 
-*STE:	 (  ) 
-*RIC:	That's your story anyway Nick, the er white  deposit at the bottom of the   (  )   
-*GAV:	 Have you sent that teacher's story  out have you? 
-*NIC:	You mean, are you implying that I'm   (  ) wank    (  )   
-*GAV:	 The swearing teacher?   Was it any good? 
-*GRO:	  (  )  
-*GAV:	Won't you need a picture of her? 
-*GRO:	 (  ) 
-*GAV:	Was there a picture of her?  (.) I didn't know it was gonna go out yet. (.)  
-*GRO:	 (  ) 
-*GAV:	You just lifted the parents' quotes Rich? 
-*GRO:	 (  ) 
-*GAV:	You spoken to her? (.)  ((phone rings)) (  ) at the school.  ((phonecall starts)) . (.) Yeah hold on a second   ((telephone conversation ends)) (.)  
-*GRO:	 (  ) 
+*UNK:	 (        ) 
+*SAR:	I've done so many of  (        ) 
+*RIC:	 (        ) well if th if the, just a little announcement, if the milkman comes in to claim his money
+*STE:	He owes us some money for the, for the, the milk that was off.
+*RIC:	He owes us some money but   (.) yeah rotten milk, he sold us a couple of pints of rotten mi the only trouble is Joan  have fucking thrown it out.
+*STE:	Well we don't, we just don't pay for it 
+*RIC:	So 
+*STE:	 (        ) normally take your word.
+*RIC:	Yeah.Because I'd k I'd kept it like as evidence 
+*GAV:	 (        ) don't worry about it he, he won't want evidence, just tell him.
+*STE:	 (        ) 
+*RIC:	That's your story anyway Nick, the er white deposit at the bottom of the   (        ) 
+*GAV:	Have you sent that teacher's story out have you?
+*NIC:	You mean, are you implying that I'm   (        ) wank   (        ) 
+*GAV:	The swearing teacher?Was it any good?
+*GRO:	 (        ) 
+*GAV:	Won't you need a picture of her?
+*GRO:	 (        ) 
+*GAV:	Was there a picture of her? (.) I didn't know it was gonna go out yet. (.) 
+*GRO:	 (        ) 
+*GAV:	You just lifted the parents' quotes Rich?
+*GRO:	 (        ) 
+*GAV:	You spoken to her? (.)  ((phone rings)) (        ) at the school. ((phonecall starts)). (.) Yeah hold on a second   ((telephone conversation ends)) (.) 
+*GRO:	 (        ) 
 @End

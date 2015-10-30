@@ -1,32 +1,32 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 Home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0026XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, NOR Norrine wife
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Media: 021A-C0897X0026XX-AAZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0026XX-AAZZP0.wav
 @Comment:	conversation #142 (Tape 002612)
-*NOR:	I've got to get him some plants from that tub haven't I? 
-*CHR:	What's that you've put in there so far? 
-*NOR:	Lobelia. 
-*CHR:	Mm mm. 
-*NOR:	I   (  ) see how you can  (  ) . 
-*CHR:	Mm mm. Yes. I think they've still got a fair whack of root bedding plants in, particularly of good value. Try   (.) try the other place at the bottom of erm Mottingham lane. 
-*NOR:	 (  ) try that see if it's open. 
-*CHR:	If a, if it's not successful there 
-*NOR:	 (  ) 
-*CHR:	O K  (10.0)  
-*NOR:	 (  ) 
-*CHR:	Oh yes, do you know, I was trying to remember what it was you wanted from that place over in Homesdale, you, you know where I mean don't you? 
-*NOR:	I don't think so, I don't know if I'll find it. 
-*CHR:	Well it's where, next to the place I bought the tiles from. 
-*NOR:	Oh is it? 
-*CHR:	Well, yes, you know the tile shop don't you? 
+*NOR:	I've got to get him some plants from that tub haven't I?
+*CHR:	What's that you've put in there so far?
+*NOR:	Lobelia.
+*CHR:	Mm mm.
+*NOR:	I   (        ) see how you can  (        ) .
+*CHR:	Mm mm.Yes.I think they've still got a fair whack of root bedding plants in, particularly of good value.Try   (.) try the other place at the bottom of erm Mottingham lane.
+*NOR:	 (        ) try that see if it's open.
+*CHR:	If a, if it's not successful there
+*NOR:	 (        ) 
+*CHR:	O K  (.) 
+*NOR:	 (        ) 
+*CHR:	Oh yes, do you know, I was trying to remember what it was you wanted from that place over in Homesdale, you, you know where I mean don't you?
+*NOR:	I don't think so, I don't know if I'll find it.
+*CHR:	Well it's where, next to the place I bought the tiles from.
+*NOR:	Oh is it?
+*CHR:	Well, yes, you know the tile shop don't you?
 @End

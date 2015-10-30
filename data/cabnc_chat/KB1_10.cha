@@ -1,64 +1,64 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-02-03:  
-@Location:	  shop  
-@Situation:	  buying cough medicine   
-@Media:	021A-C0897X0600XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , ALB Albert self, UNK Unknown Unknown None stranger
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|ALB|53;|||||unemployed||PS01A|
-@ID:	eng|AudioBNC|UNK|46+;|||||shopkeeper|stranger|PS01J|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|ALB|~53;| |m|Ag4| |unemployed||PS01A|
+@ID: eng|AudioBNC|UNK|~46+;| |f|Ag4| |shopkeeper|stranger|PS01J|
+@Media: 021A-C0897X0600XX-AAZZP0.wav, audio 		
+@Date:	1992-02-03:  
+@Situation:	  buying cough medicine  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  shop  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0600XX-AAZZP0.wav
 @Comment:	conversation #10 (Tape 060003)
-*ALB:	Any cough mixture? 
-*NON:	Coffee? 
-*ALB:	Cough mixture? 
-*NON:	Oh! It's over here love. 
-*ALB:	Oh! 
-*NON:	We don't have it  (  ) . 
-*ALB:	Don't you? Eh up! You alright? 
-*UNK:	Are you alri  yes. Are you? 
-*ALB:	Ooh! Champion! Champion! 
-*UNK:	Ta love! 
-*ALB:	And er   (.) some cough mixture then. 
-*NON:	Which one do you want? 
-*ALB:	Have you, have you got Venos? 
-*NON:	Yes.  For dry or chesty cough? 
-*ALB:	 Er, not Ven  not Veno  , er   (.) Vic? 
-*NON:	Vic, yeah. Yes we have. (  )  
-*ALB:	Chesty.  (8.0)  ((cough))  (7.0) And I'm in bed yesterday, and she's in bed today! 
-*NON:	Oh dear! 
-*ALB:	 Going through it! 
-*NON:	 Tall size  that one? 
-*ALB:	That'll do it, yeah. 
-*UNK:	Tammy's not well. 
-*ALB:	Is she got it and all? 
-*UNK:	Mm! 
-*ALB:	Yeah. 
-*UNK:	Yeah, she, she's down at Bath. Ooh! She's full of it! She's been like it all weekend I think. 
-*NON:	Two pounds forty one love. 
-*ALB:	It er   (.) it comes on you all at once! 
-*UNK:	Oh it does! Just  hits you. 
-*ALB:	 You know  , you 
-*UNK:	Yeah. 
-*ALB:	whoop! And yo   
-*UNK:	 (  ) 
-*ALB:	I was right as rain other day, and then 
-*UNK:	And then    (  )   
-*ALB:	 yesterday  I were in bed all day I couldn't move! 
-*UNK:	Yeah? 
-*ALB:	And yet today I'm 
-*UNK:	Yeah. 
-*ALB:	hundred percent better. 
-*UNK:	Yeah. 
-*ALB:	Queer int it? 
-*UNK:	 Mm. 
-*NON:	 Mm. 
-*ALB:	That's how it goes though. See you later! 
-*UNK:	Tarrah love! 
-*ALB:	Tarrah! 
+*ALB:	Any cough mixture?
+*NON:	Coffee?
+*ALB:	Cough mixture?
+*NON:	Oh!It's over here love.
+*ALB:	Oh!
+*NON:	We don't have it  (        ) .
+*ALB:	Don't you?Eh up!You alright?
+*UNK:	Are you alri yes.Are you?
+*ALB:	Ooh!Champion!Champion!
+*UNK:	Ta love!
+*ALB:	And er   (.) some cough mixture then.
+*NON:	Which one do you want?
+*ALB:	Have you, have you got Venos?
+*NON:	Yes.For dry or chesty cough?
+*ALB:	Er, not Ven not Veno , er   (.) Vic?
+*NON:	Vic, yeah.Yes we have. (        ) 
+*ALB:	Chesty. (.)  ((cough))  (.) And I'm in bed yesterday, and she's in bed today!
+*NON:	Oh dear!
+*ALB:	Going through it!
+*NON:	Tall size that one?
+*ALB:	That'll do it, yeah.
+*UNK:	Tammy's not well.
+*ALB:	Is she got it and all?
+*UNK:	Mm!
+*ALB:	Yeah.
+*UNK:	Yeah, she, she's down at Bath.Ooh!She's full of it!She's been like it all weekend I think.
+*NON:	Two pounds forty one love.
+*ALB:	It er   (.) it comes on you all at once!
+*UNK:	Oh it does!Just hits you.
+*ALB:	You know , you
+*UNK:	Yeah.
+*ALB:	whoop!And yo 
+*UNK:	 (        ) 
+*ALB:	I was right as rain other day, and then
+*UNK:	And then   (        ) 
+*ALB:	yesterday I were in bed all day I couldn't move!
+*UNK:	Yeah?
+*ALB:	And yet today I'm
+*UNK:	Yeah.
+*ALB:	hundred percent better.
+*UNK:	Yeah.
+*ALB:	Queer int it?
+*UNK:	Mm.
+*NON:	Mm.
+*ALB:	That's how it goes though.See you later!
+*UNK:	Tarrah love!
+*ALB:	Tarrah!
 @End

@@ -1,36 +1,36 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0050XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter, UNK Unknown Unknown None ?
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
-@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6ST|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
+@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6ST|
+@Media: 021A-C0897X0050XX-AAZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0050XX-AAZZP0.wav
 @Comment:	conversation #47 (Tape 005001)
-*NON:	Sue's just gone past at a hundred miles per hour. 
-*HEL:	Oh she'd been taking Matthew to work. 
-*NON:	 (  ) . 
-*AMY:	Would you like to go one hundred miles an hour? (  ) . 
-*NON:	 (  ) . 
-*AMY:	 (  ) . 
-*HEL:	Yeah, (  ) . 
-*NON:	 (  ) car, car  (  ) . 
-*HEL:	 (  ) we have to pay for it   (5.0) About the   (  ) didn't leave it on the living, kitchen table. 
-*AMY:	Yeah. 
-*NON:	 (  ) . 
-*HEL:	What till next week end when you  (  ) . 
-*NON:	Oh your not going next weekend are you? 
-*AMY:	Yeah. 
-*NON:	I  (  ) . 
-*AMY:	No, I don't want  (  ) . 
-*NON:	What even if it means you  (  ) . 
-*AMY:	Yeah, even if it means I  (  ) . 
+*NON:	Sue's just gone past at a hundred miles per hour.
+*HEL:	Oh she'd been taking Matthew to work.
+*NON:	 (        ) .
+*AMY:	Would you like to go one hundred miles an hour? (        ) .
+*NON:	 (        ) .
+*AMY:	 (        ) .
+*HEL:	Yeah, (        ) .
+*NON:	 (        ) car, car  (        ) .
+*HEL:	 (        ) we have to pay for it   (.) About the   (        ) didn't leave it on the living, kitchen table.
+*AMY:	Yeah.
+*NON:	 (        ) .
+*HEL:	What till next week end when you  (        ) .
+*NON:	Oh your not going next weekend are you?
+*AMY:	Yeah.
+*NON:	I  (        ) .
+*AMY:	No, I don't want  (        ) .
+*NON:	What even if it means you  (        ) .
+*AMY:	Yeah, even if it means I  (        ) .
 @End

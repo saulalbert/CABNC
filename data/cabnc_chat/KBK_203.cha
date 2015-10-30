@@ -1,23 +1,23 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 restaurant 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0029XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, NOR Norrine wife
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Media: 021A-C0897X0029XX-AAZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 restaurant 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0029XX-AAZZP0.wav
 @Comment:	conversation #203 (Tape 002911)
-*CHR:	Her birthday's the fourteenth. Do you know which day of the week that is? 
-*NOR:	I know the first is a Monday. 
-*CHR:	So the fifteenth will be a Monday. So the fourteenth will be a Sunday. 
-*NOR:	How long have you been working on that? 
-*CHR:	Saturday. She finishes in August did you say? 
-*NOR:	 (  ) 
-*CHR:	Right. Thank you. Thank you. (  )  
+*CHR:	Her birthday's the fourteenth.Do you know which day of the week that is?
+*NOR:	I know the first is a Monday.
+*CHR:	So the fifteenth will be a Monday.So the fourteenth will be a Sunday.
+*NOR:	How long have you been working on that?
+*CHR:	Saturday.She finishes in August did you say?
+*NOR:	 (        ) 
+*CHR:	Right.Thank you.Thank you. (        ) 
 @End

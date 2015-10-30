@@ -1,51 +1,51 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-03-15:  
-@Location:	 home 
-@Situation:	 sitting in living room/kitchen-having tea-in bedroom  
-@Media:	021A-C0897X0277XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , CLA Clare self, WIL William father, KIM Kim niece
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
-@ID:	eng|AudioBNC|CLA|15;|||||student||PS05Y|
-@ID:	eng|AudioBNC|WIL|52;|||||carpenter|father|PS061|
-@ID:	eng|AudioBNC|KIM|9;|||||student|niece|PS062|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|AudioBNC|CLA|~15;| |f|Ag1| |student||PS05Y|
+@ID: eng|AudioBNC|WIL|~52;| |m|Ag4| |carpenter|father|PS061|
+@ID: eng|AudioBNC|KIM|~9;| |f|Ag0| |student|niece|PS062|
+@Media: 021A-C0897X0277XX-ABZZP0.wav, audio 		
+@Date:	1992-03-15:  
+@Situation:	 sitting in living room/kitchen-having tea-in bedroom 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0277XX-ABZZP0.wav
 @Comment:	conversation #9 (Tape 027709)
-*WIL:	Wahey  (.)  
+*WIL:	Wahey  (.) 
 *KIM:	 ((laugh)) 
-*UNK:	 (  )  (.) 
-*CLA:	Do you want to listen to what, what's just said? 
-*KIM:	Yeah  (.)  
-*CLA:	Right    (.)  ((humming)) there's a good one down here 
-*KIM:	What? ((laugh))  
-*CLA:	blank, I'll give the E 
-*WIL:	There's no D's left 
-*KIM:	I'm, 
-*UNK:	 (  ) 
-*KIM:	only when I like a D is that   (.) pardon me, ah pardon me   (.) no   (.) oh er, er Margaret Thatcher knocked at the door the other day 
-*CLA:	Mark who? 
-*KIM:	Margaret, Margaret Thatcher, she knocked on our door and actually came in, you wouldn't believe it she was talking like it 
-*UNK:	 (  ) 
-*WIL:	Who was it then? 
-*UNK:	 (  ) 
-*KIM:	Margaret Thatcher 
-*WIL:	Don't be daft 
-*CLA:	Shut up Kim, please 
-*UNK:	 (  ) 
-*CLA:	no 
-*WIL:	You two 
-*UNK:	 (  ) 
-*WIL:	hours ago 
-*CLA:	 ((laugh))  (.) Hours? 
-*WIL:	Well an hour 
-*UNK:	 (  ) 
-*KIM:	it wasn't hours 
-*CLA:	Have you 
-*UNK:	 (  ) 
-*WIL:	No 
-*CLA:	Oh      (.)  ((singing))  (  )  (.)  
+*UNK:	 (        )  (.) 
+*CLA:	Do you want to listen to what, what's just said?
+*KIM:	Yeah  (.) 
+*CLA:	Right    (.)  ((humming)) there's a good one down here
+*KIM:	What? ((laugh)) 
+*CLA:	blank, I'll give the E
+*WIL:	There's no D's left
+*KIM:	I'm,
+*UNK:	 (        ) 
+*KIM:	only when I like a D is that   (.) pardon me, ah pardon me   (.) no   (.) oh er, er Margaret Thatcher knocked at the door the other day
+*CLA:	Mark who?
+*KIM:	Margaret, Margaret Thatcher, she knocked on our door and actually came in, you wouldn't believe it she was talking like it
+*UNK:	 (        ) 
+*WIL:	Who was it then?
+*UNK:	 (        ) 
+*KIM:	Margaret Thatcher
+*WIL:	Don't be daft
+*CLA:	Shut up Kim, please
+*UNK:	 (        ) 
+*CLA:	no
+*WIL:	You two
+*UNK:	 (        ) 
+*WIL:	hours ago
+*CLA:	 ((laugh))  (.) Hours?
+*WIL:	Well an hour
+*UNK:	 (        ) 
+*KIM:	it wasn't hours
+*CLA:	Have you
+*UNK:	 (        ) 
+*WIL:	No
+*CLA:	Oh      (.)  [singing]  (        )  []  (.) 
 @End

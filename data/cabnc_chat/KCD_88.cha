@@ -1,29 +1,29 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0052XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, UNK Unknown Unknown None ?
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6ST|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6ST|
+@Media: 021A-C0897X0052XX-ABZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0052XX-ABZZP0.wav
 @Comment:	conversation #88 (Tape 005215)
-*HEL:	Are we going that way next? 
-*NON:	Well I  (  ) . 
-*HEL:	 ((clears throat)) , this is when you'll need a plumb line for that won't you? 
-*NON:	Yeah. 
-*HEL:	Is it a very good plumb, oh you've got   (  ) plumb line for the top and the bottom haven't you? ((laugh)) and hope. 
-*NON:	 (  ) . 
-*HEL:	Ah and the next piece is going to go over the window. 
-*NON:	Yeah. 
-*HEL:	So you need it. 
-*NON:	Yeah. 
-*HEL:	It down to get the line at the  bottom  . 
-*NON:	 Yeah  , yeah. ((clears throat)) . 
-*HEL:	You won't  (  ) . 
+*HEL:	Are we going that way next?
+*NON:	Well I  (        ) .
+*HEL:	 ((clears throat)) , this is when you'll need a plumb line for that won't you?
+*NON:	Yeah.
+*HEL:	Is it a very good plumb, oh you've got   (        ) plumb line for the top and the bottom haven't you? ((laugh)) and hope.
+*NON:	 (        ) .
+*HEL:	Ah and the next piece is going to go over the window.
+*NON:	Yeah.
+*HEL:	So you need it.
+*NON:	Yeah.
+*HEL:	It down to get the line at the bottom .
+*NON:	Yeah , yeah. ((clears throat)) .
+*HEL:	You won't  (        ) .
 @End

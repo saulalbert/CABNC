@@ -1,106 +1,107 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-02:  Unspecified 
-@Media:	021A-C0897X0626XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	ANN Annette self, TER Teresa daughter, TRA Tracy daughter
 @Options:	CA
-@ID:	eng|AudioBNC|ANN|44;|||||administrative assistant||PS1CX|
-@ID:	eng|AudioBNC|TER|19;|||||stable hand|daughter|PS1CY|
-@ID:	eng|AudioBNC|TRA|24;|||||housewife|daughter|PS1D1|
+@ID: eng|AudioBNC|ANN|~44;| |f|Ag3| |administrative assistant||PS1CX|
+@ID: eng|AudioBNC|TER|~19;| |f|Ag1| |stable hand|daughter|PS1CY|
+@ID: eng|AudioBNC|TRA|~24;| |f|Ag1| |housewife|daughter|PS1D1|
+@Media: 021A-C0897X0626XX-AAZZP0.wav, audio 		
+@Date:	1992-02:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0626XX-AAZZP0.wav
 @Comment:	conversation #41 (Tape 062602)
-*ANN:	I'm wondering if I should ring them actually, from unit, and ask them if   (.) tell them what's happening   (.) and   (.) will she be able to go on Income Support if she does give it up? 
-*TER:	Yeah. Well, you know. 
-*ANN:	Will I? Shall I? Wait while your dad's  out of room. 
-*TER:	 I don't think  you can do anything about me not getting an  erm   (.) they should just pay me more shouldn't they, if they ask to  (  ) ? 
-*TRA:	Well Jake was saying that   (.) he actually   (.) why you're owed the forty five quid is   (.) he put us down on the wrong one with your   (.)  (  ) . 
-*ANN:	 Yeah. 
-*TER:	 I do less  than her, but she usually   (  ) a tenner. 
-*ANN:	Yeah, you see, this is it isn't it? She's teaching you.  (15.0) It's whether  you feel   
-*TER:	 Well I'll  say to her rather than you teaching me, I'd rather you paid me! ((laugh))  
-*TRA:	You won't will you?  (7.0) See, you're hopeless! 
-*TER:	 Yeah but it's  like   (.) it gets me because   (.) like Jane   (.) Jane gets asked   (.) they only ask her every Saturday. Jane doesn't have to pay. 
-*ANN:	No. 
-*TER:	Jane's only paid  (  ) , twenty five pound for her 
-*ANN:	But she's helping 
-*TER:	Yeah. 
-*ANN:	int she? Cos she helps out.  Erm   
-*TER:	 Yeah.  That's right. 
-*ANN:	but point is Teresa, would you, if you went back on Income Support you've got that job club thing again don't you? 
-*TER:	 (  ) 
-*ANN:	So I   (.) can you not just stick it out till I ring Brian? Yeah?  (7.0) And then go, cos it's not far off Easter is it Tracy? 
-*TRA:	No. 
-*ANN:	April? 
-*TER:	April. 
-*ANN:	So you've only got like February and March   (.) and April. Yeah? 
-*TER:	Yes. 
-*ANN:	Yeah well do that   (.) and put up with it till then, and then just see how it goes. I'm afraid that she's  not gonna   
-*TER:	 Unless I er  , I do some 
-*TRA:	 (  ) 
-*ANN:	she int gonna get anybody to, to do for them sa  number of hours  and   
-*TRA:	 No  way! People would, you know, I mean it   (.) I mean   (.) that other lass was only there six weeks, Teresa's only been there   (.) a few weeks. She's got to start paying people more money. 
-*TER:	Is that in, that's got  (  ) ? And that will be 
-*ANN:	No, it's not.  (11.0) You can't just use people like this though. It's not on! I know she's teaching you but   (.) how, you're certainly earning your money it's hard graft! 
-*TER:	Honest! It is. 
-*ANN:	Right. Get Tupples.  (11.0) I don't want her to shit on your head. 
+*ANN:	I'm wondering if I should ring them actually, from unit, and ask them if   (.) tell them what's happening   (.) and   (.) will she be able to go on Income Support if she does give it up?
+*TER:	Yeah.Well, you know.
+*ANN:	Will I?Shall I?Wait while your dad's out of room.
+*TER:	I don't think you can do anything about me not getting an erm   (.) they should just pay me more shouldn't they, if they ask to  (        ) ?
+*TRA:	Well Jake was saying that   (.) he actually   (.) why you're owed the forty five quid is   (.) he put us down on the wrong one with your   (.)  (        ) .
+*ANN:	Yeah.
+*TER:	I do less than her, but she usually   (        ) a tenner.
+*ANN:	Yeah, you see, this is it isn't it?She's teaching you. (.) It's whether you feel 
+*TER:	Well I'll say to her rather than you teaching me, I'd rather you paid me! ((laugh)) 
+*TRA:	You won't will you? (.) See, you're hopeless!
+*TER:	Yeah but it's like   (.) it gets me because   (.) like Jane   (.) Jane gets asked   (.) they only ask her every Saturday.Jane doesn't have to pay.
+*ANN:	No.
+*TER:	Jane's only paid  (        ) , twenty five pound for her
+*ANN:	But she's helping
+*TER:	Yeah.
+*ANN:	int she?Cos she helps out.Erm 
+*TER:	Yeah.That's right.
+*ANN:	but point is Teresa, would you, if you went back on Income Support you've got that job club thing again don't you?
+*TER:	 (        ) 
+*ANN:	So I   (.) can you not just stick it out till I ring Brian?Yeah? (.) And then go, cos it's not far off Easter is it Tracy?
+*TRA:	No.
+*ANN:	April?
+*TER:	April.
+*ANN:	So you've only got like February and March   (.) and April.Yeah?
+*TER:	Yes.
+*ANN:	Yeah well do that   (.) and put up with it till then, and then just see how it goes.I'm afraid that she's not gonna 
+*TER:	Unless I er , I do some
+*TRA:	 (        ) 
+*ANN:	she int gonna get anybody to, to do for them sa number of hours and 
+*TRA:	No way!People would, you know, I mean it   (.) I mean   (.) that other lass was only there six weeks, Teresa's only been there   (.) a few weeks.She's got to start paying people more money.
+*TER:	Is that in, that's got  (        ) ?And that will be
+*ANN:	No, it's not. (.) You can't just use people like this though.It's not on!I know she's teaching you but   (.) how, you're certainly earning your money it's hard graft!
+*TER:	Honest!It is.
+*ANN:	Right.Get Tupples. (.) I don't want her to shit on your head.
 *TER:	 ((laugh)) 
-*ANN:	Whoops! All these peas rolling about.  (8.0) Whoops! And Rebecca's had her trifle.  (7.0) Have you?  (16.0) What? 
-*TER:	Come on! 
-*TRA:	Hello! 
-*TRA:	 ((phonecall starts))Yeah. 
-*ANN:	Here we go. Mind you   (.) head on the desks. She banged it this morning, didn't half cry! 
-*TER:	Come on then. 
-*TRA:	Mm. Mind   (.) her head. 
-*TER:	Yeah. 
-*ANN:	Go and get a plate for your dad. 
-*TRA:	You see they've accepted our terms in one   (.) way because of the stage payments  (  ) . Erm   (.) no. 
-*TRA:	Mm. 
-*ANN:	Oh! 
-*TER:	Leave the fish and chips in there. He's even got fish and chips for Steven. 
-*TRA:	Yeah. 
-*TER:	So are, these mine? 
-*TRA:	Yeah. 
-*TER:	Is there any plates? 
-*TRA:	No, in the kitchen. 
-*TRA:	That's it, yeah. 
-*TER:	 There  isn't. 
-*TRA:	Above, above perhaps. 
-*TRA:	Yep. Right. Well   (.) well I shall be up er, with, I'm  (  ) , I'm not sending these lads up on Monday. 
-*TRA:	 ((whispering)) Did Tony   (  ) all of this   (.) what he said about  that    
-*TRA:	 Er  , yeah. Er, we're  coming up   
-*TER:	 It's true. 
-*TRA:	all on Tuesday, because I'm to stand victory on Tuesday   (.) er   (.) and it gives us chance then to get some more er   (.) er   (.) erm, reproaching done on the equipment 
-*ANN:	 No mummy. 
-*TRA:	 that's down today. 
-*ANN:	Don't want it. 
-*TRA:	Er, so  the   
-*TRA:	 Right. 
-*TRA:	van'll be coming back loaded. Erm 
-*TRA:	 (  ) 
-*TRA:	and then we're just waiting with Western House, I'm going to give them a buzz about one o'clock and ask them what the hell they're playing at! Because we've got cylinders here   (.) erm   (.) waiting for more er   (.) equipment to come. So er   (.) we've got a lot to do, to come back, we've got a van load to come back. And, but er, we  wanna   
-*TRA:	 Wait! 
-*TRA:	fetch all the tools  up and everything   
-*ANN:	 Go get your dad one. 
-*TRA:	 (  ) for victory, because I'd like to get stuck  into that   
-*TER:	  (  )  
-*TRA:	and   (.) out of the way before I come up next Friday. Is the train acceptable to sleep on? ((laugh))  
-*ANN:	What she's gonna do? Take your chips off here or 
-*TRA:	Yeah. 
-*TRA:	I'll fetch you a new, other violin string I think. 
-*ANN:	Tell him  Frank, Frank's er   
-*TRA:	  ((laugh))  
-*ANN:	doing what he did, will he get it himself? 
-*TRA:	Yeah. 
-*ANN:	Shall we get a bottle  of   
-*TRA:	 Yeah. 
-*ANN:	booze for your daddy? ((baby squealing)) 
-*TRA:	 (  ) 
-*ANN:	Okay. You can  put her   
-*TRA:	 Oh right! 
-*ANN:	some on a   (.) piece of paper  (  ) . 
-*TRA:	Okay  ((phonecall ends)). 
-*ANN:	Oh she's   (.) Oh! 
+*ANN:	Whoops!All these peas rolling about. (.) Whoops!And Rebecca's had her trifle. (.) Have you? (.) What?
+*TER:	Come on!
+*TRA:	Hello!
+*TRA:	 ((phonecall starts))Yeah.
+*ANN:	Here we go.Mind you   (.) head on the desks.She banged it this morning, didn't half cry!
+*TER:	Come on then.
+*TRA:	Mm.Mind   (.) her head.
+*TER:	Yeah.
+*ANN:	Go and get a plate for your dad.
+*TRA:	You see they've accepted our terms in one   (.) way because of the stage payments  (        ) .Erm   (.) no.
+*TRA:	Mm.
+*ANN:	Oh!
+*TER:	Leave the fish and chips in there.He's even got fish and chips for Steven.
+*TRA:	Yeah.
+*TER:	So are, these mine?
+*TRA:	Yeah.
+*TER:	Is there any plates?
+*TRA:	No, in the kitchen.
+*TRA:	That's it, yeah.
+*TER:	There isn't.
+*TRA:	Above, above perhaps.
+*TRA:	Yep.Right.Well   (.) well I shall be up er, with, I'm  (        ) , I'm not sending these lads up on Monday.
+*TRA:	 [whispering] Did Tony   (        ) all of this   (.) what he said about that   [] 
+*TRA:	Er , yeah.Er, we're coming up 
+*TER:	It's true.
+*TRA:	all on Tuesday, because I'm to stand victory on Tuesday   (.) er   (.) and it gives us chance then to get some more er   (.) er   (.) erm, reproaching done on the equipment
+*ANN:	No mummy.
+*TRA:	that's down today.
+*ANN:	Don't want it.
+*TRA:	Er, so the 
+*TRA:	Right.
+*TRA:	van'll be coming back loaded.Erm
+*TRA:	 (        ) 
+*TRA:	and then we're just waiting with Western House, I'm going to give them a buzz about one o'clock and ask them what the hell they're playing at!Because we've got cylinders here   (.) erm   (.) waiting for more er   (.) equipment to come.So er   (.) we've got a lot to do, to come back, we've got a van load to come back.And, but er, we wanna 
+*TRA:	Wait!
+*TRA:	fetch all the tools up and everything 
+*ANN:	Go get your dad one.
+*TRA:	 (        ) for victory, because I'd like to get stuck into that 
+*TER:	 (        ) 
+*TRA:	and   (.) out of the way before I come up next Friday.Is the train acceptable to sleep on? ((laugh)) 
+*ANN:	What she's gonna do?Take your chips off here or
+*TRA:	Yeah.
+*TRA:	I'll fetch you a new, other violin string I think.
+*ANN:	Tell him Frank, Frank's er 
+*TRA:	 ((laugh)) 
+*ANN:	doing what he did, will he get it himself?
+*TRA:	Yeah.
+*ANN:	Shall we get a bottle of 
+*TRA:	Yeah.
+*ANN:	booze for your daddy? ((baby squealing))
+*TRA:	 (        ) 
+*ANN:	Okay.You can put her 
+*TRA:	Oh right!
+*ANN:	some on a   (.) piece of paper  (        ) .
+*TRA:	Okay  ((phonecall ends)).
+*ANN:	Oh she's   (.) Oh!
 @End

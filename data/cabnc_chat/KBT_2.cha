@@ -1,25 +1,26 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-02-01:  Unspecified 
-@Media:	021A-C0897X0603XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , DEA Dean self
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|DEA|32;|||||miner chargehand||PS07E|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|DEA|~32;| |m|Ag2| |miner chargehand||PS07E|
+@Media: 021A-C0897X0603XX-AAZZP0.wav, audio 		
+@Date:	1992-02-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0603XX-AAZZP0.wav
 @Comment:	conversation #2 (Tape 060302)
-*UNK:	And er, you can take that frigging fisherman's and all! 
-*DEA:	What fisherman's pie? 
-*UNK:	We don't like them! Well, I do but our Karen don't, so I'm not doing one for mesen. It'll do you on Friday. 
-*DEA:	Well leave it there till I'm ready. (  )  
-*UNK:	Well you're not going back there tomorrow are you? 
-*DEA:	Tonight. 
-*UNK:	Tonight. 
-*DEA:	See how I go.  (7.0) Sales meeting coming up. 
-*UNK:	Eggs with the fish.  Urgh! 
-*DEA:	 Down  here. 
-*UNK:	Oh! Oh! (  )  
+*UNK:	And er, you can take that frigging fisherman's and all!
+*DEA:	What fisherman's pie?
+*UNK:	We don't like them!Well, I do but our Karen don't, so I'm not doing one for mesen.It'll do you on Friday.
+*DEA:	Well leave it there till I'm ready. (        ) 
+*UNK:	Well you're not going back there tomorrow are you?
+*DEA:	Tonight.
+*UNK:	Tonight.
+*DEA:	See how I go. (.) Sales meeting coming up.
+*UNK:	Eggs with the fish.Urgh!
+*DEA:	Down here.
+*UNK:	Oh!Oh! (        ) 
 @End

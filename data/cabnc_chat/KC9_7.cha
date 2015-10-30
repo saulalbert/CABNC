@@ -1,28 +1,28 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-11-28:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0140XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	GIN Ginny self, KEI Keith husband
 @Options:	CA
-@ID:	eng|AudioBNC|GIN|65;|||||housewife||PS0CG|
-@ID:	eng|AudioBNC|KEI|63;|||||design engineer|husband|PS0CH|
+@ID: eng|AudioBNC|GIN|~65;| |f|Ag5| |housewife||PS0CG|
+@ID: eng|AudioBNC|KEI|~63;| |m|Ag5| |design engineer|husband|PS0CH|
+@Media: 021A-C0897X0140XX-AAZZP0.wav, audio 		
+@Date:	1991-11-28:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0140XX-AAZZP0.wav
 @Comment:	conversation #7 (Tape 014007)
-*GIN:	Oh you've got up off of the floor. How did you do it? 
-*KEI:	Climbed up the chair. 
-*GIN:	Climbed up the chair? 
-*KEI:	Mm. 
-*GIN:	And you   (  ) your side? 
-*KEI:	Yeah I climbed, I went, I came up properly. Crawled  (  ) . 
-*GIN:	Rolled over on your side. Would you like a cushion? 
-*KEI:	No it's alright. 
-*GIN:	Do you want a hot water bottle? 
-*KEI:	No   (.) it's okay. Ooh that's  (  ) .  Ooh it's   (  )   
-*GIN:	 It's better  when you sit up straight isn't it? 
-*KEI:	Trying to relax it. It's ever so difficult. 
+*GIN:	Oh you've got up off of the floor.How did you do it?
+*KEI:	Climbed up the chair.
+*GIN:	Climbed up the chair?
+*KEI:	Mm.
+*GIN:	And you   (        ) your side?
+*KEI:	Yeah I climbed, I went, I came up properly.Crawled  (        ) .
+*GIN:	Rolled over on your side.Would you like a cushion?
+*KEI:	No it's alright.
+*GIN:	Do you want a hot water bottle?
+*KEI:	No   (.) it's okay.Ooh that's  (        ) .Ooh it's   (        ) 
+*GIN:	It's better when you sit up straight isn't it?
+*KEI:	Trying to relax it.It's ever so difficult.
 @End

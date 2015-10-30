@@ -1,25 +1,25 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-02-03:  
-@Location:	  home  
-@Situation:	  talking to wife   
-@Media:	021A-C0897X0600XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	ALB Albert self, JUN June wife
 @Options:	CA
-@ID:	eng|AudioBNC|ALB|53;|||||unemployed||PS01A|
-@ID:	eng|AudioBNC|JUN|47;|||||forecourt attendant|wife|PS01B|
+@ID: eng|AudioBNC|ALB|~53;| |m|Ag4| |unemployed||PS01A|
+@ID: eng|AudioBNC|JUN|~47;| |f|Ag4| |forecourt attendant|wife|PS01B|
+@Media: 021A-C0897X0600XX-AAZZP0.wav, audio 		
+@Date:	1992-02-03:  
+@Situation:	  talking to wife  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0600XX-AAZZP0.wav
 @Comment:	conversation #11 (Tape 060004)
-*ALB:	I thought you were asleep love. 
-*JUN:	 (  ) 
-*ALB:	I'll leave you alone, let you get some sleep. Do you want   (.) yeah I'll leave you alone while you can get sleep if you want. Or do you want some company? 
-*JUN:	Come and sit up here now. 
-*ALB:	I'll sit up here now.  (10.0) Sit up and keep you company, no problem. I'll take my shoes off.  (8.0) What you watching? 
-*JUN:	Nothing really. I'm just staring  (  ) . (7.0)  (  )  
-*ALB:	Mm. ((tv on)) 
-*JUN:	Are they going and er 
-*ALB:	I didn't go in June with being full of cold, I just   (.) knocked on door and that   (.) got him out. I rang him up before I went down and said I wouldn't be going in, I said I'll just   (.) drop it off for you I says, cos er   (.) there's me and June full of cold, it's no good letting Ben get it is it? So   (.) I didn't stop.  (7.0) Mm. 
+*ALB:	I thought you were asleep love.
+*JUN:	 (        ) 
+*ALB:	I'll leave you alone, let you get some sleep.Do you want   (.) yeah I'll leave you alone while you can get sleep if you want.Or do you want some company?
+*JUN:	Come and sit up here now.
+*ALB:	I'll sit up here now. (.) Sit up and keep you company, no problem.I'll take my shoes off. (.) What you watching?
+*JUN:	Nothing really.I'm just staring  (        ) . (.)  (        ) 
+*ALB:	Mm. ((tv on))
+*JUN:	Are they going and er
+*ALB:	I didn't go in June with being full of cold, I just   (.) knocked on door and that   (.) got him out.I rang him up before I went down and said I wouldn't be going in, I said I'll just   (.) drop it off for you I says, cos er   (.) there's me and June full of cold, it's no good letting Ben get it is it?So   (.) I didn't stop. (.) Mm.
 @End

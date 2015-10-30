@@ -1,40 +1,40 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-02-01:  
-@Location:	  in car  
-@Situation:	  taking mother-in-law to hospital   
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , ALB Albert self, JUN June wife
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
-@ID:	eng|AudioBNC|ALB|53;|||||unemployed||PS01A|
-@ID:	eng|AudioBNC|JUN|47;|||||forecourt attendant|wife|PS01B|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|AudioBNC|ALB|~53;| |m|Ag4| |unemployed||PS01A|
+@ID: eng|AudioBNC|JUN|~47;| |f|Ag4| |forecourt attendant|wife|PS01B|		
+@Date:	1992-02-01:  
+@Situation:	  taking mother-in-law to hospital  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  in car  
 @Comment:	conversation #2 (Tape 059802)
-*ALB:	You don't look very well this morning ma. 
-*JUN:	We just had to stop half way. 
-*ALB:	Well we're not as far this way. 
-*JUN:	You should of said, I could've borrowed a chair. 
-*UNK:	 (  ) 
-*ALB:	yes love, come on then ma, can you manage? 
-*JUN:	We almost there? 
-*ALB:	We're only just walking in here. 
-*JUN:	Yeah. (  )  
-*ALB:	In here, don't run. 
-*JUN:	I know. 
-*ALB:	That's why you can't 
-*UNK:	 (  ) 
-*ALB:	there you go   (.) ooh   ((laugh)) it's lower than what I thought it were. 
-*JUN:	Eh? 
-*ALB:	I said it's lower than what I thought it were  (.)  
-*UNK:	 (  )  (.) 
+*ALB:	You don't look very well this morning ma.
+*JUN:	We just had to stop half way.
+*ALB:	Well we're not as far this way.
+*JUN:	You should of said, I could've borrowed a chair.
+*UNK:	 (        ) 
+*ALB:	yes love, come on then ma, can you manage?
+*JUN:	We almost there?
+*ALB:	We're only just walking in here.
+*JUN:	Yeah. (        ) 
+*ALB:	In here, don't run.
+*JUN:	I know.
+*ALB:	That's why you can't
+*UNK:	 (        ) 
+*ALB:	there you go   (.) ooh   ((laugh)) it's lower than what I thought it were.
+*JUN:	Eh?
+*ALB:	I said it's lower than what I thought it were  (.) 
+*UNK:	 (        )  (.) 
 *ALB:	 ((humming))  (.) 
-*UNK:	 (  ) 
-*ALB:	hello 
-*UNK:	 (  ) 
-*ALB:	well I think it would be easier to go straight down here and walk out other door, one of other doors, it's not as far I don't think, the way I've come it's not, it's quite a way like what er 
-*UNK:	 (  ) 
-*ALB:	it's twenty past nine, appointment's at half past innit? 
-*UNK:	 (  ) 
+*UNK:	 (        ) 
+*ALB:	hello
+*UNK:	 (        ) 
+*ALB:	well I think it would be easier to go straight down here and walk out other door, one of other doors, it's not as far I don't think, the way I've come it's not, it's quite a way like what er
+*UNK:	 (        ) 
+*ALB:	it's twenty past nine, appointment's at half past innit?
+*UNK:	 (        ) 
 @End

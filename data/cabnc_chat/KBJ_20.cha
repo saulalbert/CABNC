@@ -1,29 +1,29 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-01-16:  
-@Location:	 at home 
-@Situation:	 getting ready for work and eating breakfast  
-@Media:	021A-C0897X0522XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CAR Carol self, EMM Emma daughter
 @Options:	CA
-@ID:	eng|AudioBNC|CAR|44;|||||courier||PS1DP|
-@ID:	eng|AudioBNC|EMM|11;|||||student (state secondary)|daughter|PS1DR|
+@ID: eng|AudioBNC|CAR|~44;| |f|Ag3| |courier||PS1DP|
+@ID: eng|AudioBNC|EMM|~11;| |f|Ag0| |student (state secondary)|daughter|PS1DR|
+@Media: 021A-C0897X0522XX-AAZZP0.wav, audio 		
+@Date:	1992-01-16:  
+@Situation:	 getting ready for work and eating breakfast 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 at home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0522XX-AAZZP0.wav
 @Comment:	conversation #20 (Tape 052201)
-*CAR:	The tapes. 
-*EMM:	It's on there. 
-*CAR:	All you can ever hear, at home   (.) on weekends   (.) is television   (.)  (  ) !  (25.0)  ((cough))  (19.0) Turn that light out for me please? ((cough))  
-*EMM:	I'll just finish what I'm doing. 
-*CAR:	I want you to brush your hair 
-*EMM:	When 
-*CAR:	and then go and find the library books.  (6.0) I'll move these. 
-*EMM:	 (  ) 
-*CAR:	Are you going to brush your hair? 
-*EMM:	I will do now  (  ) . 
-*CAR:	Oh aye. Can you take these bobble in please? 
-*EMM:	Oh yeah. They'll only get lost in mine. 
-*CAR:	Look, if you put it somewhere sensible like on the side of the mirror. 
+*CAR:	The tapes.
+*EMM:	It's on there.
+*CAR:	All you can ever hear, at home   (.) on weekends   (.) is television   (.)  (        ) ! (.)  ((cough))  (.) Turn that light out for me please? ((cough)) 
+*EMM:	I'll just finish what I'm doing.
+*CAR:	I want you to brush your hair
+*EMM:	When
+*CAR:	and then go and find the library books. (.) I'll move these.
+*EMM:	 (        ) 
+*CAR:	Are you going to brush your hair?
+*EMM:	I will do now  (        ) .
+*CAR:	Oh aye.Can you take these bobble in please?
+*EMM:	Oh yeah.They'll only get lost in mine.
+*CAR:	Look, if you put it somewhere sensible like on the side of the mirror.
 @End

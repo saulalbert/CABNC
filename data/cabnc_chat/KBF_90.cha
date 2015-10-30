@@ -1,29 +1,29 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-12-04:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0159XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	BRE Brenda self, LEE Lee son
 @Options:	CA
-@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
-@ID:	eng|AudioBNC|LEE|15;|||||student (state secondary)|son|PS04W|
+@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
+@ID: eng|AudioBNC|LEE|~15;| |m|Ag1| |student (state secondary)|son|PS04W|
+@Media: 021A-C0897X0159XX-ABZZP0.wav, audio 		
+@Date:	1991-12-04:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0159XX-ABZZP0.wav
 @Comment:	conversation #94 (Tape 015905)
-*BRE:	Didn't Jenny phone? 
-*LEE:	No. (.)  
-*BRE:	Taken all your medicine today then? 
-*LEE:	What? 
-*BRE:	What are you due left to take? 
-*LEE:	Erm   (.) take er doctors capsules at seven. 
-*BRE:	Yeah. 
-*LEE:	And another Benolin at eight and that's it. 
-*BRE:	You didn't take nothing else?  (.) I take these, I've started on today. 
-*LEE:	 ((cough)) What are you taking, how many  (  ) ? There's a mixture of all of them   (  ) there. 
-*BRE:	 (  ) mixing  (  )  
-*LEE:	 (  ) 
-*BRE:	They just help the cold. Cos I wanna try and sort mine out cos after tomorrow I can't take any more.  (.) I can't take them on Friday. 
+*BRE:	Didn't Jenny phone?
+*LEE:	No. (.) 
+*BRE:	Taken all your medicine today then?
+*LEE:	What?
+*BRE:	What are you due left to take?
+*LEE:	Erm   (.) take er doctors capsules at seven.
+*BRE:	Yeah.
+*LEE:	And another Benolin at eight and that's it.
+*BRE:	You didn't take nothing else? (.) I take these, I've started on today.
+*LEE:	 ((cough)) What are you taking, how many  (        ) ?There's a mixture of all of them   (        ) there.
+*BRE:	 (        ) mixing  (        ) 
+*LEE:	 (        ) 
+*BRE:	They just help the cold.Cos I wanna try and sort mine out cos after tomorrow I can't take any more. (.) I can't take them on Friday.
 @End

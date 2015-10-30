@@ -1,43 +1,43 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-04-03:  
-@Location:	  at home  
-@Situation:	  having lunch with friend   
-@Media:	021A-C0897X0739XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	JAN Jane self, LYN Lynn friend
 @Options:	CA
-@ID:	eng|AudioBNC|JAN|33;|||||housewife||PS19L|
-@ID:	eng|AudioBNC|LYN|30;|||||housewife|friend|PS19U|
+@ID: eng|AudioBNC|JAN|~33;| |f|Ag2| |housewife||PS19L|
+@ID: eng|AudioBNC|LYN|~30;| |f|Ag2| |housewife|friend|PS19U|
+@Media: 021A-C0897X0739XX-AAZZP0.wav, audio 		
+@Date:	1992-04-03:  
+@Situation:	  having lunch with friend  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  at home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0739XX-AAZZP0.wav
 @Comment:	conversation #9 (Tape 073902)
-*JAN:	What are you doing? You're not having it 
-*LYN:	I'll have me mouth round the tap in a minute 
-*JAN:	 ((laugh))  not quite the same   
-*LYN:	 there's that bottle there  where did you  (  ) , is that what you meant the bottle? 
-*JAN:	Over there by the er red basket 
-*LYN:	 Oh right   
-*JAN:	 can you  see it? 
-*LYN:	Yeah  (.)  
-*JAN:	That marzipan on its own is filling though int it? 
-*LYN:	Yeah, well I  (  )  
-*LYN:	I can't eat any more   (.) oh dear  (.)  
-*JAN:	Was there enough? Oh God you've only got a little bit 
-*LYN:	No I've just filled   (  )  up there   
-*JAN:	 Oh   
-*LYN:	I know  there must be something wrong with me   
-*JAN:	 come on in the other room    (.) Michael, right, now you've got your dummy 
-*LYN:	 ((belch)) 
+*JAN:	What are you doing?You're not having it
+*LYN:	I'll have me mouth round the tap in a minute
+*JAN:	 ((laugh)) not quite the same 
+*LYN:	there's that bottle there where did you  (        ) , is that what you meant the bottle?
+*JAN:	Over there by the er red basket
+*LYN:	Oh right 
+*JAN:	can you see it?
+*LYN:	Yeah  (.) 
+*JAN:	That marzipan on its own is filling though int it?
+*LYN:	Yeah, well I  (        ) 
+*LYN:	I can't eat any more   (.) oh dear  (.) 
+*JAN:	Was there enough?Oh God you've only got a little bit
+*LYN:	No I've just filled   (        ) up there 
 *JAN:	Oh 
-*LYN:	Pardon me, hmm, ooh that's better, that's all I do is burp 
-*JAN:	With all that liquid I'm not surprised   (.) can you watch him with that tin? 
-*LYN:	You monkey 
-*JAN:	Okay 
-*LYN:	monkey, monkey, moo, yeah  (.)  
-*JAN:	just put some water in the sink and we'll go and sit down, I'm not bothered about washing   (.) I just don't like it when it's stuck to the plates 
-*LYN:	I know what you mean, it's harder to wash  when it's   
-*JAN:	 Mm   
-*LYN:	dried on, so you might as well  
+*LYN:	I know there must be something wrong with me 
+*JAN:	come on in the other room   (.) Michael, right, now you've got your dummy
+*LYN:	 ((belch)) 
+*JAN:	Oh
+*LYN:	Pardon me, hmm, ooh that's better, that's all I do is burp
+*JAN:	With all that liquid I'm not surprised   (.) can you watch him with that tin?
+*LYN:	You monkey
+*JAN:	Okay
+*LYN:	monkey, monkey, moo, yeah  (.) 
+*JAN:	just put some water in the sink and we'll go and sit down, I'm not bothered about washing   (.) I just don't like it when it's stuck to the plates
+*LYN:	I know what you mean, it's harder to wash when it's 
+*JAN:	Mm 
+*LYN:	dried on, so you might as well 
 @End

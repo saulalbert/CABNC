@@ -1,43 +1,44 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-02:    shopping   
-@Media:	021A-C0897X0623XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	ANN Annette self, TRA Tracy daughter
 @Options:	CA
-@ID:	eng|AudioBNC|ANN|44;|||||administrative assistant||PS1CX|
-@ID:	eng|AudioBNC|TRA|24;|||||housewife|daughter|PS1D1|
+@ID: eng|AudioBNC|ANN|~44;| |f|Ag3| |administrative assistant||PS1CX|
+@ID: eng|AudioBNC|TRA|~24;| |f|Ag1| |housewife|daughter|PS1D1|
+@Media: 021A-C0897X0623XX-ABZZP0.wav, audio 		
+@Date:	1992-02:  
+@Situation:	  shopping  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0623XX-ABZZP0.wav
 @Comment:	conversation #20 (Tape 062308)
-*TRA:	I fancy some sleepers. 
-*ANN:	Yeah. 
-*TRA:	Just some ordinary ones, just to stick in and  leave in all the time. 
-*ANN:	 That's nice as well Tracy. 
-*TRA:	Mm. I like that! 
-*ANN:	Int it nice?  That's not   
-*TRA:	 Is it nice. 
-*ANN:	expensive, but again, it can't be   (.) real. 
-*TRA:	Look at that bracelet! That three hundred and forty pound one. 
-*ANN:	Oh that's nice! 
-*TRA:	I quite like that, with that plain gold band.  Twenty seven   
-*ANN:	 That's nice! 
-*TRA:	pound  (  ) . 
-*ANN:	Have they got any earrings? 
-*TRA:	I think I like that brooch! 
-*ANN:	Oh that's nice  isn't it? 
-*TRA:	 It is  nice. Mm. 
-*ANN:	Nothing much, but   (.) oh look at the erm   (.)  things with the brooches! 
-*TRA:	 Oh int it nice!  They're nice! Got ages in. 
-*ANN:	Yeah.  (9.0) That'd be nice to get   (.) like, for Teresa, cos she never did get a 
-*TRA:	No. 
-*ANN:	pendant did she? 
-*TRA:	Nice coloured one. 
-*ANN:	Yeah. 
-*TRA:	Like to know though, in case it is anything to do with Nigel and then they can get it sorted out. 
-*ANN:	Yeah. Yeah cos does that stop now, or does it   (.) I mean, is that forever? 
-*TRA:	Oh I don't know. 
-*ANN:	Ha! 
-*TRA:	We'll have to   (.) we'll have to write to them. 
+*TRA:	I fancy some sleepers.
+*ANN:	Yeah.
+*TRA:	Just some ordinary ones, just to stick in and leave in all the time.
+*ANN:	That's nice as well Tracy.
+*TRA:	Mm.I like that!
+*ANN:	Int it nice?That's not 
+*TRA:	Is it nice.
+*ANN:	expensive, but again, it can't be   (.) real.
+*TRA:	Look at that bracelet!That three hundred and forty pound one.
+*ANN:	Oh that's nice!
+*TRA:	I quite like that, with that plain gold band.Twenty seven 
+*ANN:	That's nice!
+*TRA:	pound  (        ) .
+*ANN:	Have they got any earrings?
+*TRA:	I think I like that brooch!
+*ANN:	Oh that's nice isn't it?
+*TRA:	It is nice.Mm.
+*ANN:	Nothing much, but   (.) oh look at the erm   (.) things with the brooches!
+*TRA:	Oh int it nice!They're nice!Got ages in.
+*ANN:	Yeah. (.) That'd be nice to get   (.) like, for Teresa, cos she never did get a
+*TRA:	No.
+*ANN:	pendant did she?
+*TRA:	Nice coloured one.
+*ANN:	Yeah.
+*TRA:	Like to know though, in case it is anything to do with Nigel and then they can get it sorted out.
+*ANN:	Yeah.Yeah cos does that stop now, or does it   (.) I mean, is that forever?
+*TRA:	Oh I don't know.
+*ANN:	Ha!
+*TRA:	We'll have to   (.) we'll have to write to them.
 @End

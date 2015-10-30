@@ -1,37 +1,37 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-03-17:  
-@Location:	 home 
-@Situation:	 preparing tea  
-@Media:	021A-C0897X0282XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HER Herbert husband, IRI Iris self, ALI Alison daughter
 @Options:	CA
-@ID:	eng|AudioBNC|HER|56;|||||landscape gardener|husband|PS1EM|
-@ID:	eng|AudioBNC|IRI|54;|||||home care assistant||PS1EN|
-@ID:	eng|AudioBNC|ALI|21;|||||landscape gardener|daughter|PS1EP|
+@ID: eng|AudioBNC|HER|~56;| |m|Ag4| |landscape gardener|husband|PS1EM|
+@ID: eng|AudioBNC|IRI|~54;| |f|Ag4| |home care assistant||PS1EN|
+@ID: eng|AudioBNC|ALI|~21;| |f|Ag1| |landscape gardener|daughter|PS1EP|
+@Media: 021A-C0897X0282XX-AAZZP0.wav, audio 		
+@Date:	1992-03-17:  
+@Situation:	 preparing tea 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0282XX-AAZZP0.wav
 @Comment:	conversation #6 (Tape 028201)
-*ALI:	Do you want me to make him his tea? 
-*IRI:	Yeah you can do. 
-*ALI:	Cos you can   (  ) but nobody's gonna make them are they? (  )  
-*HER:	 (  ) er I don't know which one to order with them. I can't get hold of her now. We've gotta order the stuff before we can do it.  (.) And she didn't say which? 
-*IRI:	No she just said carry on. 
-*HER:	Oh. 
-*IRI:	Couldn't you get hold of her yesterday? 
-*HER:	No. (.)  
-*IRI:	Is this right? Have a look at this. 
-*HER:	What's that?  (45.0) One's with   (  ) and one's with new stuff. I think she wants the new stuff. But    (  )  (.) Are you gonna get them  (  ) ? (.)  
-*IRI:	You want the key to the car don't you? (.)  
-*HER:	Pardon? 
-*IRI:	If you want, if you're going in the car the keys inside. (.)  
-*ALI:	It's just one I'm taking out and lying on the floor.  (6.0) What?  (.) I'll just   (  ) tea up there cos she has a tablet   (  ) doesn't she? 
-*IRI:	Yeah. 
-*ALI:	Can she have one after? 
-*IRI:	No, I'll give it to her. 
-*ALI:	Er or shall I leave her a piece up there and give her her tea cos she knows it's ready? 
-*IRI:	Yeah. 
-*ALI:	Okay. 
+*ALI:	Do you want me to make him his tea?
+*IRI:	Yeah you can do.
+*ALI:	Cos you can   (        ) but nobody's gonna make them are they? (        ) 
+*HER:	 (        ) er I don't know which one to order with them.I can't get hold of her now.We've gotta order the stuff before we can do it. (.) And she didn't say which?
+*IRI:	No she just said carry on.
+*HER:	Oh.
+*IRI:	Couldn't you get hold of her yesterday?
+*HER:	No. (.) 
+*IRI:	Is this right?Have a look at this.
+*HER:	What's that? (.) One's with   (        ) and one's with new stuff.I think she wants the new stuff.But    (        )  (.) Are you gonna get them  (        ) ? (.) 
+*IRI:	You want the key to the car don't you? (.) 
+*HER:	Pardon?
+*IRI:	If you want, if you're going in the car the keys inside. (.) 
+*ALI:	It's just one I'm taking out and lying on the floor. (.) What? (.) I'll just   (        ) tea up there cos she has a tablet   (        ) doesn't she?
+*IRI:	Yeah.
+*ALI:	Can she have one after?
+*IRI:	No, I'll give it to her.
+*ALI:	Er or shall I leave her a piece up there and give her her tea cos she knows it's ready?
+*IRI:	Yeah.
+*ALI:	Okay.
 @End

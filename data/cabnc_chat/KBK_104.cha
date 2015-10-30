@@ -1,42 +1,42 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 Home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0024XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, NOR Norrine wife
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Media: 021A-C0897X0024XX-AAZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0024XX-AAZZP0.wav
 @Comment:	conversation #104 (Tape 002404)
-*CHR:	Your party fruit sherry my dear, I er 
-*NOR:	Sherry's a food, I'm not coming this month. I'm just doing the dogs though. 
-*CHR:	I just had a chat with Christine. 
-*NOR:	 (  ) fitted in? 
-*CHR:	Just fine. 
-*NOR:	Colin? 
-*CHR:	Fine, yes, yes, yes  (  ) . 
-*NOR:	 Oh Shep  , mate, what you treading on me again. 
-*CHR:	Christine says her blood pressure is O K, all's well then. 
-*NOR:	Been that   (  ) has she? 
-*CHR:	I think she's been back to her G P. Do you want anything? 
-*NOR:	No  (  ) . 
-*CHR:	Well we're having prawns and something are we? 
-*NOR:	 (  ) 
-*CHR:	I'll get the nibbles.  ((music)). Oh hello pussy cat, you look cosy. Oh you've got another pineapple, well done. 
-*NOR:	 (  ) 
-*CHR:	Great. 
-*NOR:	 (  ) next week. Here we are look. 
-*CHR:	Do we have some serviettes? 
-*NOR:	 (  ) 
-*CHR:	What'll we want, fish knives? 
-*NOR:	I don't mind. (  )  
-*CHR:	 (  ) is it fish pie or what? 
-*NOR:	 (  ) 
-*CHR:	Well you don't like the fish pie. 
-*NOR:	 (  ) 
+*CHR:	Your party fruit sherry my dear, I er
+*NOR:	Sherry's a food, I'm not coming this month.I'm just doing the dogs though.
+*CHR:	I just had a chat with Christine.
+*NOR:	 (        ) fitted in?
+*CHR:	Just fine.
+*NOR:	Colin?
+*CHR:	Fine, yes, yes, yes  (        ) .
+*NOR:	Oh Shep , mate, what you treading on me again.
+*CHR:	Christine says her blood pressure is O K, all's well then.
+*NOR:	Been that   (        ) has she?
+*CHR:	I think she's been back to her G P.Do you want anything?
+*NOR:	No  (        ) .
+*CHR:	Well we're having prawns and something are we?
+*NOR:	 (        ) 
+*CHR:	I'll get the nibbles. ((music)). Oh hello pussy cat, you look cosy.Oh you've got another pineapple, well done.
+*NOR:	 (        ) 
+*CHR:	Great.
+*NOR:	 (        ) next week.Here we are look.
+*CHR:	Do we have some serviettes?
+*NOR:	 (        ) 
+*CHR:	What'll we want, fish knives?
+*NOR:	I don't mind. (        ) 
+*CHR:	 (        ) is it fish pie or what?
+*NOR:	 (        ) 
+*CHR:	Well you don't like the fish pie.
+*NOR:	 (        ) 
 @End

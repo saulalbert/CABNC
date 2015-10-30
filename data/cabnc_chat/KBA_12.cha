@@ -1,22 +1,22 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-12-04:  
-@Location:	 Bingo Hall 
-@Situation:	 playing Bingo  
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	ANT Anthony self, CHR Chris wife
 @Options:	CA
-@ID:	eng|AudioBNC|ANT|62;|||||retired||PS1DA|
-@ID:	eng|AudioBNC|CHR|61;|||||housewife|wife|PS1DB|
+@ID: eng|AudioBNC|ANT|~62;| |m|Ag5| |retired||PS1DA|
+@ID: eng|AudioBNC|CHR|~61;| |f|Ag5| |housewife|wife|PS1DB|		
+@Date:	1991-12-04:  
+@Situation:	 playing Bingo 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Bingo Hall 
 @Comment:	conversation #12 (Tape 010001)
-*ANT:	What was the date Friday? 
-*CHR:	Twenty fourth today. 
-*ANT:	That's Wednesday   (.) twenty four, twenty three, two, one, twenty, Tuesday the seventeenth   (.) Thursday   (.) I've got it on there, look. 
-*CHR:	What? 
-*ANT:	Mm   (14.0) What time? 
-*CHR:	 (  ) 
-*ANT:	Oh   (.) four o'clock on there. 
-*CHR:	Mm. 
+*ANT:	What was the date Friday?
+*CHR:	Twenty fourth today.
+*ANT:	That's Wednesday   (.) twenty four, twenty three, two, one, twenty, Tuesday the seventeenth   (.) Thursday   (.) I've got it on there, look.
+*CHR:	What?
+*ANT:	Mm   (.) What time?
+*CHR:	 (        ) 
+*ANT:	Oh   (.) four o'clock on there.
+*CHR:	Mm.
 @End

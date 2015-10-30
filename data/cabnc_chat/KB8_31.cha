@@ -1,54 +1,54 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-04-03:  
-@Location:	  at work  
-@Situation:	Unspecified 
-@Media:	021A-C0897X0708XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	ANN Ann self, JAM James friend, BRY Bryony friend, ART Arthur neighbour
 @Options:	CA
-@ID:	eng|AudioBNC|ANN|53;|||||registered childminder||PS14B|
-@ID:	eng|AudioBNC|JAM|2;|||||pre-school|friend|PS14M|
-@ID:	eng|AudioBNC|BRY|2;|||||pre-school|friend|PS14N|
-@ID:	eng|AudioBNC|ART|70;|||||retired|neighbour|PS17L|
+@ID: eng|AudioBNC|ANN|~53;| |f|Ag4| |registered childminder||PS14B|
+@ID: eng|AudioBNC|JAM|~2;| |m|Ag0| |pre-school|friend|PS14M|
+@ID: eng|AudioBNC|BRY|~2;| |f|Ag0| |pre-school|friend|PS14N|
+@ID: eng|AudioBNC|ART|~70;| |m|Ag5| |retired|neighbour|PS17L|
+@Media: 021A-C0897X0708XX-AAZZP0.wav, audio 		
+@Date:	1992-04-03:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  at work  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0708XX-AAZZP0.wav
 @Comment:	conversation #31 (Tape 070801)
-*ANN:	Fruit and vegetables back. 
-*ART:	You got some    (  )   
-*ANN:	 Do you  know whose car was stolen from this road last week? 
-*ART:	 (  ) 
-*ANN:	Oh. Cost Kathy down the road was telling me that erm a Yugo car had been stolen from Alexandra Road 
-*ART:	 (  ) 
-*ANN:	Last week. I don't know anyone who's got a Yugo car do you? 
-*ART:	What's    (  )   
-*JAM:	  (  )  
-*ANN:	I don't know. But apparently it was stolen last week. 
-*ART:	Aye.  (  ) like. 
-*ANN:	No. 
-*ART:	I never tried   (  ) if I could help 
-*ANN:	Aha. 
-*ART:	you know just because of this cos the French on the right left of centre you know. 
-*ANN:	Jim can't get ours in it's it's all our garage is full of paper work  and things   
-*ART:	 You need a   
-*ANN:	from the front. 
-*ART:	There's people have got something on them you know for 
-*ANN:	Well he puts a krook-lo   gotta krook-lok when he goes   
-*ART:	  (  )  steering column you know. 
-*ANN:	Yeah. 
-*ART:	The steering wheel 
-*ANN:	Aha. 
-*ART:	 (  ) now like. 
-*ANN:	Yes. 
-*ART:	You got your hands full by time you do some shopping  with them  . 
-*ANN:	  ((laugh))  yes. Sit still Bryony. 
-*ART:	Right. 
-*ANN:	Sit still Bry  Yes it's lovely. 
-*BRY:	 (  ) 
-*ANN:	What d'ya want to do? What's the ma   
-*JAM:	She wants to walk. 
-*ANN:	You want what? You're not fastened. 
-*BRY:	 (  ) 
-*ANN:	Oh sorry. I'm careless aren't I turn round. 
+*ANN:	Fruit and vegetables back.
+*ART:	You got some   (        ) 
+*ANN:	Do you know whose car was stolen from this road last week?
+*ART:	 (        ) 
+*ANN:	Oh.Cost Kathy down the road was telling me that erm a Yugo car had been stolen from Alexandra Road
+*ART:	 (        ) 
+*ANN:	Last week.I don't know anyone who's got a Yugo car do you?
+*ART:	What's   (        ) 
+*JAM:	 (        ) 
+*ANN:	I don't know.But apparently it was stolen last week.
+*ART:	Aye. (        ) like.
+*ANN:	No.
+*ART:	I never tried   (        ) if I could help
+*ANN:	Aha.
+*ART:	you know just because of this cos the French on the right left of centre you know.
+*ANN:	Jim can't get ours in it's it's all our garage is full of paper work and things 
+*ART:	You need a 
+*ANN:	from the front.
+*ART:	There's people have got something on them you know for
+*ANN:	Well he puts a krook-lo gotta krook-lok when he goes 
+*ART:	 (        ) steering column you know.
+*ANN:	Yeah.
+*ART:	The steering wheel
+*ANN:	Aha.
+*ART:	 (        ) now like.
+*ANN:	Yes.
+*ART:	You got your hands full by time you do some shopping with them .
+*ANN:	 ((laugh)) yes.Sit still Bryony.
+*ART:	Right.
+*ANN:	Sit still Bry Yes it's lovely.
+*BRY:	 (        ) 
+*ANN:	What d'ya want to do?What's the ma 
+*JAM:	She wants to walk.
+*ANN:	You want what?You're not fastened.
+*BRY:	 (        ) 
+*ANN:	Oh sorry.I'm careless aren't I turn round.
 @End

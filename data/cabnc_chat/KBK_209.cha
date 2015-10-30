@@ -1,27 +1,27 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 Restaurant 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0029XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, NOR Norrine wife
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Media: 021A-C0897X0029XX-ABZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Restaurant 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0029XX-ABZZP0.wav
 @Comment:	conversation #209 (Tape 002917)
-*NOR:	They're having it earlier this afternoon   (  )  (.)  
-*CHR:	Oh yes. 
-*NOR:	If your marriage is consummated before   (  ) never consummated after the marriage service is that an annulment? (  )  
-*CHR:	Oddly I would have thought. (  )  (.)  
-*NOR:	It's false. 
-*CHR:	Really? 
-*NOR:	 (  ) quickly. Because presumably what you do before the marriage, (  ) of marriage. 
-*CHR:	It wasn't   (  ) mm. Yes. Well. Interesting idea. 
-*NOR:	 (  ) 
-*CHR:	One side said yes the other side says no. Ha? 
-*NOR:	That's what they said. Yeah. 
+*NOR:	They're having it earlier this afternoon   (        )  (.) 
+*CHR:	Oh yes.
+*NOR:	If your marriage is consummated before   (        ) never consummated after the marriage service is that an annulment? (        ) 
+*CHR:	Oddly I would have thought. (        )  (.) 
+*NOR:	It's false.
+*CHR:	Really?
+*NOR:	 (        ) quickly.Because presumably what you do before the marriage, (        ) of marriage.
+*CHR:	It wasn't   (        ) mm.Yes.Well.Interesting idea.
+*NOR:	 (        ) 
+*CHR:	One side said yes the other side says no.Ha?
+*NOR:	That's what they said.Yeah.
 @End

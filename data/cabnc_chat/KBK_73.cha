@@ -1,20 +1,20 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 Home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0023XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, LYN Lynda colleague
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|LYN|44;|||||export assistant|colleague|PS102|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|LYN|~44;| |f|Ag3| |export assistant|colleague|PS102|
+@Media: 021A-C0897X0023XX-AAZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0023XX-AAZZP0.wav
 @Comment:	conversation #73 (Tape 002307)
-*CHR:	Thank you for all that Lynda that's great. 
-*LYN:	I'm, I, well I have to put   (  ) this really ought to go in. 
-*CHR:	Well erm, ha ha ha ha may I, may I have a look at it? 
-*LYN:	Mm, don't forget the  (  ) . 
+*CHR:	Thank you for all that Lynda that's great.
+*LYN:	I'm, I, well I have to put   (        ) this really ought to go in.
+*CHR:	Well erm, ha ha ha ha may I, may I have a look at it?
+*LYN:	Mm, don't forget the  (        ) .
 @End

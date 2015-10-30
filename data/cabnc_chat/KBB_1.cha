@@ -1,27 +1,27 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-01-10:  
-@Location:	  home  
-@Situation:	Unspecified 
-@Media:	021A-C0897X0490XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	ART Arthur self, EVE Evelyn wife
 @Options:	CA
-@ID:	eng|AudioBNC|ART|82;|||||retired (precision engineer)||PS03S|
-@ID:	eng|AudioBNC|EVE|75;|||||retired|wife|PS03T|
+@ID: eng|AudioBNC|ART|~82;| |m|Ag5| |retired (precision engineer)||PS03S|
+@ID: eng|AudioBNC|EVE|~75;| |f|Ag5| |retired|wife|PS03T|
+@Media: 021A-C0897X0490XX-AAZZP0.wav, audio 		
+@Date:	1992-01-10:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0490XX-AAZZP0.wav
 @Comment:	conversation #1 (Tape 049001)
-*UNK:	Well you can do. I'm going to 
-*ART:	How long will you be doing your cake? 
-*EVE:	I'm not making a cake, I'm making marmalade  this   
-*ART:	 Oh. 
-*EVE:	this afternoon. Still got Christmas cake, so 
-*ART:	I know.  But   
-*EVE:	 Anyway  , what's on? 
-*ART:	 How much  of that is left? 
-*EVE:	Not  much. 
-*ART:	 Of  the cake? 
-*EVE:	Not much. 
+*UNK:	Well you can do.I'm going to
+*ART:	How long will you be doing your cake?
+*EVE:	I'm not making a cake, I'm making marmalade this 
+*ART:	Oh.
+*EVE:	this afternoon.Still got Christmas cake, so
+*ART:	I know.But 
+*EVE:	Anyway , what's on?
+*ART:	How much of that is left?
+*EVE:	Not much.
+*ART:	Of the cake?
+*EVE:	Not much.
 @End

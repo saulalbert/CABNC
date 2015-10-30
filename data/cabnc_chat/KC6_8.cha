@@ -1,44 +1,44 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-01-13:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0557XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	GAV Gavin self, SUE Sue fiancÃ©e
 @Options:	CA
-@ID:	eng|AudioBNC|GAV|25;|||||photographer||PS0BA|
-@ID:	eng|AudioBNC|SUE|24;|||||sales assistant|fiancÃ©e|PS0BB|
+@ID: eng|AudioBNC|GAV|~25;| |m|Ag2| |photographer||PS0BA|
+@ID: eng|AudioBNC|SUE|~24;| |f|Ag1| |sales assistant|fiancÃ©e|PS0BB|
+@Media: 021A-C0897X0557XX-ABZZP0.wav, audio 		
+@Date:	1992-01-13:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0557XX-ABZZP0.wav
 @Comment:	conversation #8 (Tape 055703)
-*UNK:	Hello love. 
-*SUE:	Hello love.  (7.0)  ((singing)) Sunshine on a rainy day  
-*GAV:	Mm.  (12.0) Where's my keys? Right.  (10.0) You alright then babe? 
-*SUE:	Yep! I'm ready. You got anything funny for your  (  ) ? 
-*GAV:	Mm. No. Have you Joe's pre  , Joe's money for the presents? 
-*SUE:	No cos I don't know. 
-*GAV:	You what? 
-*SUE:	No, because he's getting a  (  ) . And Joe's mum give me mostly pound coins and get it changed for a ten pound note. I said, what's that? (  )  
-*GAV:	 ((laugh))  (.) Your off your head you are! 
-*SUE:	And then I got all the   (.) she'd mis-changed me so I had to go back and get it.  (6.0) I was doing it for the drive anyway. (6.0)  ((yawn))  
-*GAV:	We're gonna be broke tomorrow! ((sniff))  
-*SUE:	How much you got? 
-*GAV:	 (  ) 
-*SUE:	I've got a fiver. 
-*GAV:	We shall probably spend   ((laughing)) that tonight ! 
-*SUE:	I'll spend the rest of that! 
-*GAV:	Eh? 
-*SUE:	I'm not gonna say that. 
-*GAV:	I know. It's true. 
-*SUE:	 (  ) 
-*GAV:	Mm. 
-*SUE:	Not a lot to live on then? 
-*GAV:	Not a lot. 
-*SUE:	Have to go shopping  soon. 
-*GAV:	 You  alright then? 
-*SUE:	Yeah. In the next few days. 
-*GAV:	Oh I know. Well that's three weeks to live on.  (8.0)  ((sniff))  (.) Oh I'm all bunged up this morning. 
-*SUE:	 ((singing))  (  ) . 
+*UNK:	Hello love.
+*SUE:	Hello love. (.)  [singing] Sunshine on a rainy day  [] 
+*GAV:	Mm. (.) Where's my keys?Right. (.) You alright then babe?
+*SUE:	Yep!I'm ready.You got anything funny for your  (        ) ?
+*GAV:	Mm.No.Have you Joe's pre , Joe's money for the presents?
+*SUE:	No cos I don't know.
+*GAV:	You what?
+*SUE:	No, because he's getting a  (        ) .And Joe's mum give me mostly pound coins and get it changed for a ten pound note.I said, what's that? (        ) 
+*GAV:	 ((laugh))  (.) Your off your head you are!
+*SUE:	And then I got all the   (.) she'd mis-changed me so I had to go back and get it. (.) I was doing it for the drive anyway. (.)  ((yawn)) 
+*GAV:	We're gonna be broke tomorrow! ((sniff)) 
+*SUE:	How much you got?
+*GAV:	 (        ) 
+*SUE:	I've got a fiver.
+*GAV:	We shall probably spend   [laughing] that tonight  [] !
+*SUE:	I'll spend the rest of that!
+*GAV:	Eh?
+*SUE:	I'm not gonna say that.
+*GAV:	I know.It's true.
+*SUE:	 (        ) 
+*GAV:	Mm.
+*SUE:	Not a lot to live on then?
+*GAV:	Not a lot.
+*SUE:	Have to go shopping soon.
+*GAV:	You alright then?
+*SUE:	Yeah.In the next few days.
+*GAV:	Oh I know.Well that's three weeks to live on. (.)  ((sniff))  (.) Oh I'm all bunged up this morning.
+*SUE:	 [singing]  (        )  [] .
 @End

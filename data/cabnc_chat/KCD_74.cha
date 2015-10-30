@@ -1,30 +1,30 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0052XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, AMY Amy daughter, UNK Unknown Unknown None ?
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6ST|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6ST|
+@Media: 021A-C0897X0052XX-AAZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0052XX-AAZZP0.wav
 @Comment:	conversation #74 (Tape 005201)
-*HEL:	 (  ) saves watching Half a Sixpence. 
-*NON:	Oh is she  (  ) . 
-*HEL:	Yeah, well, hm, don't think she's up too much, so, got Tommy Steele in it so she might as well he looks a bit younger  ((laugh)) . 
-*NON:	Does he? 
-*HEL:	About twenty years ago, wasn't it? 
-*NON:	Yeah, (  ) . 
-*HEL:	Right, shall I go and get. 
-*NON:	Yeah. 
-*HEL:	Changed. 
-*NON:	Yeah. 
-*HEL:	Lucky    (5.0)  (  ) on it, it'll be quite nice. 
-*NON:	Yeah. 
-*HEL:	See what it looks like, ((clears throat)) How are you pet? This quite good? Well, about your level today isn't it? About your   (.) hm. Need watering a bit, have those back up there and   (.) really you seem even worse than   (.) oh were going to go and do your bedroom. Try and get that drink drunk. 
+*HEL:	 (        ) saves watching Half a Sixpence.
+*NON:	Oh is she  (        ) .
+*HEL:	Yeah, well, hm, don't think she's up too much, so, got Tommy Steele in it so she might as well he looks a bit younger  ((laugh)) .
+*NON:	Does he?
+*HEL:	About twenty years ago, wasn't it?
+*NON:	Yeah, (        ) .
+*HEL:	Right, shall I go and get.
+*NON:	Yeah.
+*HEL:	Changed.
+*NON:	Yeah.
+*HEL:	Lucky    (.)  (        ) on it, it'll be quite nice.
+*NON:	Yeah.
+*HEL:	See what it looks like, ((clears throat)) How are you pet?This quite good?Well, about your level today isn't it?About your   (.) hm.Need watering a bit, have those back up there and   (.) really you seem even worse than   (.) oh were going to go and do your bedroom.Try and get that drink drunk.
 @End

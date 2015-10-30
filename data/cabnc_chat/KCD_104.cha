@@ -1,46 +1,46 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0054XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, UNK Unknown Unknown None ?
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6ST|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6ST|
+@Media: 021A-C0897X0054XX-AAZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0054XX-AAZZP0.wav
 @Comment:	conversation #104 (Tape 005401)
-*NON:	It doesn't at that section. 
-*HEL:	Haven't got any underlay for her  (  ) . 
-*NON:	There's gonna be wastage there isn't there? 
-*HEL:	Hm. 
-*NON:	Unless there join a  (  ) . 
-*HEL:	Oh I think not. 
-*NON:	Got to join it across the  (  ) . I suppose  (  ) . 
-*HEL:	 (  ) can't turn it around  (  ) . 
-*NON:	Uhum. 
-*HEL:	 (  ) the door way I think. Width of the door. And I don't  (  ) , can see where your going to have a strip the width of the room and add on the width of the door on the end. So they cut it off and re-join it. 
-*NON:	Cut it off where? (  ) . 
-*HEL:	Front. 
-*NON:	 (  ) . 
-*HEL:	Yes, I mean you've no choice you got to  (  ) . 
-*NON:	Oh  (  ) . 
-*HEL:	Just how many joins you'd have otherwise. 
-*NON:	Well, (  ) . 
-*HEL:	About  (  ) . You haven't lost a  (  ) . 
-*NON:	How long is it sixty feet? 
-*HEL:	Seventy isn't it? 
-*NON:	Yeah. 
-*HEL:	 (  ) . 
-*NON:	 (  ) . 
-*HEL:	I mean   (  ) oh use to run it length ways and then the width is fixed isn't it? (10.0)  
-*NON:	Have a lot of waste. 
-*HEL:	Hm. How wide is it? Well it's not ten foot wide is it? 
-*NON:	 (  ) the uhum seven foot wide, I should think, it's never six foot six. 
-*HEL:	So if the carpet was four foot wide you could. 
-*NON:	 (  ) . 
-*HEL:	 (  ) . 
+*NON:	It doesn't at that section.
+*HEL:	Haven't got any underlay for her  (        ) .
+*NON:	There's gonna be wastage there isn't there?
+*HEL:	Hm.
+*NON:	Unless there join a  (        ) .
+*HEL:	Oh I think not.
+*NON:	Got to join it across the  (        ) .I suppose  (        ) .
+*HEL:	 (        ) can't turn it around  (        ) .
+*NON:	Uhum.
+*HEL:	 (        ) the door way I think.Width of the door.And I don't  (        ) , can see where your going to have a strip the width of the room and add on the width of the door on the end.So they cut it off and re-join it.
+*NON:	Cut it off where? (        ) .
+*HEL:	Front.
+*NON:	 (        ) .
+*HEL:	Yes, I mean you've no choice you got to  (        ) .
+*NON:	Oh  (        ) .
+*HEL:	Just how many joins you'd have otherwise.
+*NON:	Well, (        ) .
+*HEL:	About  (        ) .You haven't lost a  (        ) .
+*NON:	How long is it sixty feet?
+*HEL:	Seventy isn't it?
+*NON:	Yeah.
+*HEL:	 (        ) .
+*NON:	 (        ) .
+*HEL:	I mean   (        ) oh use to run it length ways and then the width is fixed isn't it? (.) 
+*NON:	Have a lot of waste.
+*HEL:	Hm.How wide is it?Well it's not ten foot wide is it?
+*NON:	 (        ) the uhum seven foot wide, I should think, it's never six foot six.
+*HEL:	So if the carpet was four foot wide you could.
+*NON:	 (        ) .
+*HEL:	 (        ) .
 @End

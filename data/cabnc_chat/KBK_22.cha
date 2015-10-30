@@ -1,16 +1,16 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 home office 
-@Situation:	 work  
-@Media:	021A-C0897X0021XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@Media: 021A-C0897X0021XX-ABZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	 work 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home office 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0021XX-ABZZP0.wav
 @Comment:	conversation #22 (Tape 002120)
-*CHR:	It's very interesting that for hyper accurate barometers they still use mercury, and the  and these are real test barometers. 
+*CHR:	It's very interesting that for hyper accurate barometers they still use mercury, and the and these are real test barometers.
 @End

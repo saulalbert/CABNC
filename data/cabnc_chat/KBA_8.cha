@@ -1,19 +1,19 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-11-30:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , ANT Anthony self
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|ANT|62;|||||retired||PS1DA|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|ANT|~62;| |m|Ag5| |retired||PS1DA|		
+@Date:	1991-11-30:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	conversation #8 (Tape 009908)
-*ANT:	Shut myself out? 
-*UNK:	Yeah. Right, that brings you down now within the grant with those three over   (  ) right. 
-*ANT:	Mm 
-*UNK:	Yeah, so you only pay the fifteen.  (.) Okay, is that alright?  (.) That brings you right down now. So all you pay is the fifteen for the lock and  (  ) . 
-*UNK:	I suppose. 
+*ANT:	Shut myself out?
+*UNK:	Yeah.Right, that brings you down now within the grant with those three over   (        ) right.
+*ANT:	Mm
+*UNK:	Yeah, so you only pay the fifteen. (.) Okay, is that alright? (.) That brings you right down now.So all you pay is the fifteen for the lock and  (        ) .
+*UNK:	I suppose.
 @End

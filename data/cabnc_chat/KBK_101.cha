@@ -1,35 +1,35 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 Home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0024XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, SUS Susan employee
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|SUS|30;|||||cleaner|employee|PS103|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|SUS|~30;| |f|Ag2| |cleaner|employee|PS103|
+@Media: 021A-C0897X0024XX-AAZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0024XX-AAZZP0.wav
 @Comment:	conversation #101 (Tape 002401)
-*CHR:	There 
-*SUS:	Mm. 
-*CHR:	Why not? (  ) want any due? 
-*SUS:	No. 
-*CHR:	Oh. How many have you got next week? 
-*SUS:	About twelve. 
-*CHR:	Ha ha. I shall leave you to it. 
-*SUS:	How many have you got  (  ) ? 
-*CHR:	All   (  ) and they'zre tomorrow. 
-*SUS:	 (  ) 
-*CHR:	I'm sorry I've missed that. 
-*SUS:	 (  ) 
-*CHR:	Well, that doesn't matter, it's me it's recording and whoever I talk to. 
-*SUS:	Why are you recording you though? 
-*CHR:	Aha ha. 
-*SUS:	  (  )  
-*CHR:	 Cos I'm really rather super  that's why. Gosh mum leaves this lying around doesn't she? 
-*SUS:	Mm. 
-*CHR:	Wonderful for stubbing toes on. 
+*CHR:	There
+*SUS:	Mm.
+*CHR:	Why not? (        ) want any due?
+*SUS:	No.
+*CHR:	Oh.How many have you got next week?
+*SUS:	About twelve.
+*CHR:	Ha ha.I shall leave you to it.
+*SUS:	How many have you got  (        ) ?
+*CHR:	All   (        ) and they'zre tomorrow.
+*SUS:	 (        ) 
+*CHR:	I'm sorry I've missed that.
+*SUS:	 (        ) 
+*CHR:	Well, that doesn't matter, it's me it's recording and whoever I talk to.
+*SUS:	Why are you recording you though?
+*CHR:	Aha ha.
+*SUS:	 (        ) 
+*CHR:	Cos I'm really rather super that's why.Gosh mum leaves this lying around doesn't she?
+*SUS:	Mm.
+*CHR:	Wonderful for stubbing toes on.
 @End

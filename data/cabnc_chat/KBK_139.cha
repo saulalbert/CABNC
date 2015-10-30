@@ -1,30 +1,30 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 Home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0026XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, NOR Norrine wife
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Media: 021A-C0897X0026XX-AAZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0026XX-AAZZP0.wav
 @Comment:	conversation #139 (Tape 002608)
-*NOR:	I thought you might be going going  (  ) . 
-*CHR:	No. 
-*NOR:	A good  thing   
-*CHR:	 I hope  not. 
-*NOR:	It's a good thing I'm not going to go because you might end up   (  ) oh look at that? 
-*CHR:	Oh that looks good, yes. 
-*NOR:	Both playing croquet, and fighting each other I just get  (  ) . 
-*CHR:	Well I said to David, is there, I understand this is a game where people get very seedy with each other and he said no not at all not at all  (  ) . David is such a mild mannered fellow that er he wouldn't know how to.  ((laugh)) He said and he said it's a game of great tactics and erm 
-*NOR:	 (  ) 
-*CHR:	Can't think why, (  ) temptation to be intelligent to be tactician don't you? 
-*NOR:	Oh, I do  (  ) . Everybody says how nice you are, how lucky I am. 
-*CHR:	 What, what  has niceness got to do with confidence for goodness sake. 
-*NOR:	Well if you're a nice person, then you will  (  ) , like I help Susannah. (  ) . 
-*CHR:	No, you can't keep all these food dishes can you? 
+*NOR:	I thought you might be going going  (        ) .
+*CHR:	No.
+*NOR:	A good thing 
+*CHR:	I hope not.
+*NOR:	It's a good thing I'm not going to go because you might end up   (        ) oh look at that?
+*CHR:	Oh that looks good, yes.
+*NOR:	Both playing croquet, and fighting each other I just get  (        ) .
+*CHR:	Well I said to David, is there, I understand this is a game where people get very seedy with each other and he said no not at all not at all  (        ) .David is such a mild mannered fellow that er he wouldn't know how to. ((laugh)) He said and he said it's a game of great tactics and erm
+*NOR:	 (        ) 
+*CHR:	Can't think why, (        ) temptation to be intelligent to be tactician don't you?
+*NOR:	Oh, I do  (        ) .Everybody says how nice you are, how lucky I am.
+*CHR:	What, what has niceness got to do with confidence for goodness sake.
+*NOR:	Well if you're a nice person, then you will  (        ) , like I help Susannah. (        ) .
+*CHR:	No, you can't keep all these food dishes can you?
 @End

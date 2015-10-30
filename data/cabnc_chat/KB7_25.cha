@@ -1,272 +1,273 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-11-30:    shopping   
-@Media:	021A-C0897X0186XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , ANN Ann self, HEL Helen daughter, JON Jonathan son, RIC Richard grandson, ANN Anna_Marie granddaughter
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|ANN|46;|||||team leader||PS02G|
-@ID:	eng|AudioBNC|HEL|22;|||||housewife|daughter|PS02X|
-@ID:	eng|AudioBNC|JON|17;|||||Youth Training Scheme trainee|son|PS02Y|
-@ID:	eng|AudioBNC|RIC|2;|||||pre-school|grandson|PS031|
-@ID:	eng|AudioBNC|ANN|1;|||||pre-school|granddaughter|PS032|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
+@ID: eng|AudioBNC|HEL|~22;| |f|Ag1| |housewife|daughter|PS02X|
+@ID: eng|AudioBNC|JON|~17;| |m|Ag1| |Youth Training Scheme trainee|son|PS02Y|
+@ID: eng|AudioBNC|RIC|~2;| |m|Ag0| |pre-school|grandson|PS031|
+@ID: eng|AudioBNC|ANN|~1;| |f|Ag0| |pre-school|granddaughter|PS032|
+@Media: 021A-C0897X0186XX-ABZZP0.wav, audio 		
+@Date:	1991-11-30:  
+@Situation:	  shopping  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0186XX-ABZZP0.wav
 @Comment:	conversation #25 (Tape 018604)
-*ANN:	How much is this? 
-*HEL:	Eighty five. 
-*JON:	Oh   (.) so don't have any. 
-*HEL:	I guess that's twelve quid then about, I forgot now. 
-*JON:	That's a good idea. 
-*ANN:	Where's my  (  ) ? 
-*JON:	Standing at the checkout  (  ) . 
+*ANN:	How much is this?
+*HEL:	Eighty five.
+*JON:	Oh   (.) so don't have any.
+*HEL:	I guess that's twelve quid then about, I forgot now.
+*JON:	That's a good idea.
+*ANN:	Where's my  (        ) ?
+*JON:	Standing at the checkout  (        ) .
 *ANN:	 ((laugh)) 
-*JON:	Well   ((laugh))  (  )  
-*HEL:	How many's in here? 
-*JON:	Twenty. 
-*HEL:	Oh yeah, oh give us some. 
-*JON:	What? 
-*HEL:	Fourteen quid left out   (  ) . 
-*JON:	  (  )  
-*HEL:	Do you want some? 
-*ANN:	 (  ) 
-*HEL:	I bought him some of those cheekies     (.)  (  )  (9.0) Hey you know I'm   (.) said I knew I forgotten something out of Gateways, ((laughing)) don't you ?  (.) Filter coffee. 
-*ANN:	No   (9.0)  Where is she? 
-*HEL:	  ((laugh))  
-*ANN:	Where is she? 
-*HEL:	Boo! 
-*ANN:	 ((shouting)) Aah ! 
-*JON:	Shut up! 
-*HEL:	I've got two bags of cakes in here. 
-*ANN:	Don't expect me to carry them! 
-*JON:	Eeurgh! 
-*HEL:	 (  ) 
-*ANN:	You'll never push a pushchair with that lot on, Helen. 
-*HEL:	This one's got all weekend to sleep in it   (.) and her  (  )  
-*ANN:	Give me one of those bags, I suppose I've got to carry them!  (10.0) Go and get them. 
-*JON:	Yeah I know she did   (39.0) Well I suppose we better really  (  )  
-*ANN:	Go ahead, right open  your legs. 
-*JON:	 I'll be  just over there. 
-*HEL:	Yeah right   (.) good exercises. 
-*JON:	 (  ) what? 
-*ANN:	Mummy. 
-*JON:	Come here   (.) hold my hand   (.) Aha   ((laugh)) properly  (  ) !  (.) Scruffy little bugger! 
-*ANN:	He's pulling his trousers   ((laughing)) down !  (.) Ha. 
-*JON:	Ha   (7.0) He's  (  )  
-*ANN:	He's got his hands down in his pockets in the     (.)  ((laughing))  (  ) . 
-*JON:	Oh ho. 
-*ANN:	Hands in pockets   (.)  he's copying   
-*HEL:	 Where's he gone? 
-*ANN:	him   (.) you just can't see him, (  ) Jonathan   (  ) . 
-*HEL:	 Aha. 
-*ANN:	Kept on pulling his trousers down and putting his out   (  ) in  his pockets. 
-*HEL:	  ((laugh))  
-*ANN:	 (  )  (.) they're all hanging round his ankles. 
-*HEL:	Aha ha, typical. 
-*JON:	 I know    (.) baggy   (  ) aren't they?  (.) Bell bottoms. 
-*ANN:	It's only cos he's  doing it. 
-*JON:	 Fashion freak. 
-*HEL:	No Steven's   (  ) that's Jonathan  (  ) . 
-*ANN:	Yeah Jonathan does that, ah aha. 
-*HEL:	Oy! 
-*JON:	What? 
-*ANN:	 ((shouting)) Bib bib bib ! 
+*JON:	Well   ((laugh))  (        ) 
+*HEL:	How many's in here?
+*JON:	Twenty.
+*HEL:	Oh yeah, oh give us some.
+*JON:	What?
+*HEL:	Fourteen quid left out  (        ) .
+*JON:	 (        ) 
+*HEL:	Do you want some?
+*ANN:	 (        ) 
+*HEL:	I bought him some of those cheekies     (.)  (        )  (.) Hey you know I'm   (.) said I knew I forgotten something out of Gateways, [laughing] don't you  [] ? (.) Filter coffee.
+*ANN:	No   (.) Where is she?
 *HEL:	 ((laugh)) 
-*ANN:	Bib bib bib bib! 
-*ANN:	I was being a car. 
-*ANN:	That was a car, yeah. 
-*ANN:	 (  ) 
-*ANN:	Was a bus was it? 
-*HEL:	 (  ) 
-*ANN:	 Was it a bus   
-*NON:	  (  )  
-*ANN:	or a car? 
-*NON:	 (  ) 
-*HEL:	Hello David. 
-*NON:	And you? 
-*HEL:	 Alright   
-*ANN:	 Bib bib  bib 
-*HEL:	yes     (.)  (  )  (.) it was quite good  (  )  
-*JON:	 (  ) 
-*ANN:	When you meeting your mate then? 
-*JON:	Three o'clock. 
-*ANN:	Ooh have I got a  (  ) ? 
-*JON:	 (  ) 
-*ANN:	Got time to help her with this shopping and bloody   (.) come and get your mail!  (.) Pick up one of them bags for her   (.) I weren't watching anyway   (.) out    (  )   
-*JON:	 Come here  Ricky. 
-*ANN:	Come here. 
-*JON:	I can't hold that   (.) Just hold the   (  ) trolley with the bags in there. 
-*HEL:	Ha. 
-*JON:	 (  ) 
-*ANN:	Come here. 
-*HEL:	Er we'll go    (  )   
-*JON:	  (  )  
-*ANN:	Just    (  ) Ricky! 
-*JON:	  (  )  
-*HEL:	Doesn't make   (  ) round here, you can have the   (  ) with   (.)  (  )  
-*ANN:	It's our house    (  )  (8.0) Cos I we had a look at that one, that flat   (.)  (  )  
-*JON:	What does it say, (  ) ? 
-*HEL:	It says go across the back  (  )  
-*RIC:	Ma   (.) mum! 
-*JON:	Hey   (.) quiet   (.) in this shop. 
-*ANN:	No they're not in there   (10.0) I thought they it would be dark. ((music)) 
-*HEL:	What did you put it on there for? (.)  (  ) let's sit down   (.) sit down! (.) sit down! (.)  (  ) . 
-*ANN:	Oh there's  (  )  
-*JON:	Try London. 
-*HEL:	Lived in London, she's going out with someone, living with someone and she's five months pregnant! Think I  couldn't remember the way back. 
-*ANN:	 Oh my God! she'll be happy!  (.)  That's all she ever wanted   
-*HEL:	 She's staying over there. 
-*ANN:	was baby weren't it? 
-*HEL:	She's staying over there now she's pregnant. 
-*ANN:	Weren't it? 
-*HEL:	Bloody hell! 
-*ANN:	All she ever wanted  was a   
-*HEL:	 Erm   
-*ANN:	baby. 
-*HEL:	yeah   (6.0) five nearly six months. 
-*ANN:	She's not il  a   (.) bloody what do you call it  (  ) ? 
-*HEL:	At    (  )  (.) No. 
-*ANN:	Oh. 
-*HEL:	She left before she was pregnant. 
-*ANN:	Oh. 
-*HEL:	Got pregnant over there. 
-*ANN:	Bloody hell! 
-*HEL:	What? 
-*ANN:	Hoo hoo. 
-*HEL:	 (  ) 
-*ANN:	Who? 
-*HEL:	Steven. 
-*ANN:	Our Steven? 
-*HEL:	Yeah. 
-*ANN:	Why what's he  done? 
-*HEL:	 Alright     (  )  (.) th  the car blew up on a dual carriageway   (.) there's 
-*JON:	That's right. 
-*HEL:	a big bang   (.) I'm driving there's this great big bang and the  bonnet lit up   
-*JON:	  (  )  he went. 
-*HEL:	the bonnet lit up 
-*ANN:	Oh God! 
-*HEL:	right 
-*JON:	 (  ) 
-*HEL:	thought great!  (.) It's staying on the dual carriageway, well I went round Steven's to see if he thought to tow it round mine cos the   (  ) already been on my back once   (.) oh no he said I've only just walked in from work   (.) I'm having my tea then I'm going to bed he said, there's no way I'm towing no motor for the    (  )  (.) he said, just f off!  (.)  Well well we'd have   
-*ANN:	 What did you say? 
-*HEL:	done it for him! 
-*ANN:	So you should  have said to him   
-*HEL:	 Going mad because   
-*ANN:	wait till you need  some help. 
-*HEL:	 Bernie's  been out at ten o'clock at night before with him. 
-*ANN:	Aha. 
-*HEL:	That really got on my  nerves that did. 
-*ANN:	  (  )  he comes round, and just say no, I'm not doing nothing for  you. 
-*HEL:	 Oh. 
-*ANN:	What about when you borrowed our battery when yours wouldn't go? 
-*HEL:	That's what I mean. 
-*ANN:	Just say  no and if he   (  ) again say no. 
-*HEL:	  (  ) when I come out  (  ) .   (.) When I  (  ) , but he won't   (.) I put them all out, in fact  (  ) . 
-*ANN:	 (  ) . 
-*HEL:	Ah   (.) oh. 
-*ANN:	Go on. 
-*HEL:	No I won't   (  ) cos the police were at the car   (.) no   (.)  (  ) . 
-*JON:	Sounds like  it were a robbery. 
-*HEL:	  (  ) come out again    (.) police come out of the ca   (.) er er they were at the car there   (.) oh I said that's my car, he said oh yeah, I said yeah, he said, what's your name? 
-*ANN:	 (  ) felt like it. 
-*HEL:	 (  )  (.) checked with his radio, he goes alright then   (.) phoned back to the police station on his   (  ) radio, he said it's not stolen the owner's now here   (.) he said, can you please get it moved? I said well I'm trying to   (.) I said this bloke what happens to be my oldest brother I said, and he won't even tow it for me!  (.) So he said, oh why not?  (.) Steven thinks that just be  I only just got in he said, I'm having my tea   (.) and he said there's no way I'm gonna do nothing like that at this time of night when I've been fourteen hours at work   (7.0) So then he stormed off back home again   (.) so he said well you'll have to move it cos it's obstructing the dual carriageway   (.) someone might come round that corner fast and hit it.  (.) He said it's not an offence he said if you've broke down, you can't help, he said   (.) but you've gotta really move it   (.) so I went round to Paul   and   (.) there was about seven or eight blokes that pushed it all the way round to Bernie's. 
-*ANN:	No you don't forget Helen   (.)  he could come down   
-*HEL:	 I don't forget things like that. 
-*ANN:	and ask for any help in doing his car   (.) don't go to work   (.) or can he borrow this, just say   (.) no I'm sorry   (.) you couldn't help us   (.) and I'm your sister   (.) so now I can't    (  )   
-*HEL:	 I know   
-*ANN:	help you. 
-*HEL:	He has been like that for   (.) since he's been with her   (.)  he has   
-*ANN:	 I know  about it. 
-*HEL:	He used to help us with anything   (.) before he got with her   (.) he'd always help me   (.) he always looked happy, now he   (  )   
-*RIC:	  ((shouting)) Mum mum mum ! 
-*HEL:	But now he's with her, he don't wanna now. 
-*ANN:	Well, you can just do the same with him. 
-*HEL:	I 
-*ANN:	You're not that bothered are you? 
-*HEL:	Well no   (.) but I like to think that Steven's still my brother. 
-*ANN:	Yeah well I   (  ) my son but he don't treat  a mother. 
-*HEL:	 But he's not  he's not that when he's with her. 
-*ANN:	He wouldn't of come th  wa  on his   (.) Saturday before his birthday   (.) he wouldn't of come and seen me unless he thought he was getting something out of it. 
-*HEL:	I asked him to   (.)  I told him to. 
-*ANN:	 Yeah exactly!   (.) Didn't come cos he wanted to did he?  (.)  He   
-*HEL:	 No   
-*ANN:	couldn't wait to get away as soon as he got his bloody present, he was   
-*HEL:	 I was   
-*ANN:	gone! 
-*HEL:	I know. 
-*JON:	 (  )  (.)  Ricky. 
-*HEL:	 You should  of  kept his present. 
-*ANN:	 Don't worry  he's not getting nothing for Christmas   (.) but a card and that's it   (.) Can't even come and say hello, so bugger him!  (.) Doesn't bother me   (.) You, Stu and I have been broken hearted a few months ago and I've cried over him not coming to see me but   (.) not any more. 
-*HEL:	I've not cried! 
-*ANN:	Well I have. 
+*ANN:	Where is she?
+*HEL:	Boo!
+*ANN:	 [shouting] Aah  [] !
+*JON:	Shut up!
+*HEL:	I've got two bags of cakes in here.
+*ANN:	Don't expect me to carry them!
+*JON:	Eeurgh!
+*HEL:	 (        ) 
+*ANN:	You'll never push a pushchair with that lot on, Helen.
+*HEL:	This one's got all weekend to sleep in it   (.) and her  (        ) 
+*ANN:	Give me one of those bags, I suppose I've got to carry them! (.) Go and get them.
+*JON:	Yeah I know she did   (.) Well I suppose we better really  (        ) 
+*ANN:	Go ahead, right open your legs.
+*JON:	I'll be just over there.
+*HEL:	Yeah right   (.) good exercises.
+*JON:	 (        ) what?
+*ANN:	Mummy.
+*JON:	Come here   (.) hold my hand   (.) Aha   ((laugh)) properly  (        ) ! (.) Scruffy little bugger!
+*ANN:	He's pulling his trousers   [laughing] down  [] ! (.) Ha.
+*JON:	Ha   (.) He's  (        ) 
+*ANN:	He's got his hands down in his pockets in the     (.)  [laughing]  (        )  [] .
+*JON:	Oh ho.
+*ANN:	Hands in pockets   (.) he's copying 
+*HEL:	Where's he gone?
+*ANN:	him   (.) you just can't see him, (        ) Jonathan  (        ) .
+*HEL:	Aha.
+*ANN:	Kept on pulling his trousers down and putting his out   (        ) in his pockets.
 *HEL:	 ((laugh)) 
-*ANN:	Yeah and it turn them different. 
-*JON:	 (  ) 
-*ANN:	How do you think you'd feel like she didn't want to know  you when she grew up. 
-*JON:	  (  )   (.) Because her daddy drink drinks   ((laugh)) in there   (.) in the pub. 
+*ANN:	 (        )  (.) they're all hanging round his ankles.
+*HEL:	Aha ha, typical.
+*JON:	I know   (.) baggy   (        ) aren't they? (.) Bell bottoms.
+*ANN:	It's only cos he's doing it.
+*JON:	Fashion freak.
+*HEL:	No Steven's   (        ) that's Jonathan  (        ) .
+*ANN:	Yeah Jonathan does that, ah aha.
+*HEL:	Oy!
+*JON:	What?
+*ANN:	 [shouting] Bib bib bib  [] !
 *HEL:	 ((laugh)) 
-*JON:	He always in the pub. 
-*ANN:	Does daddy go in there drink drinks does he? 
-*RIC:	No. 
-*ANN:	Does Ricky go in there? 
-*ANN:	No he's never been there. 
-*JON:	 (  ) 
-*ANN:	You've been in there have you? 
-*HEL:	When you come across here   (  ) that bag mum. 
-*ANN:	I'll just leave it there   (6.0) he'll be at home with his mother now   (.) watching them on the telly. 
-*HEL:	Where's your  (  ) ? 
-*JON:	There Ricky. 
-*HEL:	Who's in there? 
-*RIC:	Look! 
-*HEL:	Ha ha ha   (.) Is it big? 
-*RIC:	Big. 
-*ANN:	Stuey   (.) Stuey going in there. 
-*JON:	Can't move inside there! 
-*ANN:	Gone home now. 
-*JON:	Gone home now. 
-*ANN:	Gone home to see his mummy. 
-*JON:	Gone to see his mummy     (7.0)  (  )  (.) Like   (  ) mum  (  )  
-*RIC:	 (  ) 
-*JON:	I've had a  (  )  
-*RIC:	That    (.)  (  ) that 
-*JON:	Oh go on, you heavy boy! 
-*ANN:	Careful. 
-*JON:	Oh boy    ((laughing))  (  )  
-*RIC:	 (  )   (  )  
-*JON:	  ((laughing)) Oh boy ! 
-*HEL:	When we get right to the   (  ) again. 
-*ANN:	Oh yeah   (8.0) Got a tre  got and tree and all the  decorations are there. 
-*JON:	 I'm not putting them up though! 
-*ANN:	He ain't putting them up is he   (.) take them down to Helen's then   (.) some lovely decorations   (.) we'll ask him for them Helen. 
-*HEL:	No. 
-*ANN:	Why? There's a lovely tree and a lovely decorations there   (.) Could do with tree   (.) they're not gonna use it, you might as well have them. 
-*JON:	Charge. 
-*ANN:	For the kids. 
-*JON:	Charge. 
-*RIC:	No. 
-*JON:	Why? 
-*ANN:	Mightn't you? 
-*JON:	 (  ) 
-*ANN:	Did you get in before Christmas? 
-*HEL:	Oh I don't think so, the way he's going!  (.) So the council informed Seth if I don't move in a month   (.) I'll have to put an  application in   
-*JON:	  (  )  
-*HEL:	and put another one in. 
-*ANN:	Bloody hell!  (.) Are yo  you signed the papers? 
-*HEL:	Yeah well, no   (.)  yeah. 
-*ANN:	 No? 
-*HEL:	Got   (.) got that form didn't we? 
-*ANN:	Yeah and it said  go in next   
-*HEL:	 Yeah I   
-*ANN:	week to sign them. 
-*HEL:	Yeah but   (.)  George   
-*JON:	 Hold onto  there. 
-*HEL:	I  can't go   (  )   
-*JON:	 Where are you? 
-*HEL:	before so I lent them, so he's gone in   (.) I go by the same time as him   (.)  we both gotta sign them   
-*ANN:	 And you both sign. 
-*HEL:	together   (.) and he's not going in there. 
-*ANN:	Oh well    (.)  (  ) post through there, yeah? 
-*HEL:	If they do   (.) Ah I don't think I'm gonna be a bit bloody pleased!  (10.0) Jonathan, do you know back slash?  (.) You know what Jodie and David's  (  ) ? 
+*ANN:	Bib bib bib bib!
+*ANN:	I was being a car.
+*ANN:	That was a car, yeah.
+*ANN:	 (        ) 
+*ANN:	Was a bus was it?
+*HEL:	 (        ) 
+*ANN:	Was it a bus 
+*NON:	 (        ) 
+*ANN:	or a car?
+*NON:	 (        ) 
+*HEL:	Hello David.
+*NON:	And you?
+*HEL:	Alright 
+*ANN:	Bib bib bib
+*HEL:	yes     (.)  (        )  (.) it was quite good  (        ) 
+*JON:	 (        ) 
+*ANN:	When you meeting your mate then?
+*JON:	Three o'clock.
+*ANN:	Ooh have I got a  (        ) ?
+*JON:	 (        ) 
+*ANN:	Got time to help her with this shopping and bloody   (.) come and get your mail! (.) Pick up one of them bags for her   (.) I weren't watching anyway   (.) out   (        ) 
+*JON:	Come here Ricky.
+*ANN:	Come here.
+*JON:	I can't hold that   (.) Just hold the   (        ) trolley with the bags in there.
+*HEL:	Ha.
+*JON:	 (        ) 
+*ANN:	Come here.
+*HEL:	Er we'll go   (        ) 
+*JON:	 (        ) 
+*ANN:	Just   (        ) Ricky!
+*JON:	 (        ) 
+*HEL:	Doesn't make   (        ) round here, you can have the   (        ) with   (.)  (        ) 
+*ANN:	It's our house    (        )  (.) Cos I we had a look at that one, that flat   (.)  (        ) 
+*JON:	What does it say, (        ) ?
+*HEL:	It says go across the back  (        ) 
+*RIC:	Ma   (.) mum!
+*JON:	Hey   (.) quiet   (.) in this shop.
+*ANN:	No they're not in there   (.) I thought they it would be dark. ((music))
+*HEL:	What did you put it on there for? (.)  (        ) let's sit down   (.) sit down! (.) sit down! (.)  (        ) .
+*ANN:	Oh there's  (        ) 
+*JON:	Try London.
+*HEL:	Lived in London, she's going out with someone, living with someone and she's five months pregnant!Think I couldn't remember the way back.
+*ANN:	Oh my God! she'll be happy! (.) That's all she ever wanted 
+*HEL:	She's staying over there.
+*ANN:	was baby weren't it?
+*HEL:	She's staying over there now she's pregnant.
+*ANN:	Weren't it?
+*HEL:	Bloody hell!
+*ANN:	All she ever wanted was a 
+*HEL:	Erm 
+*ANN:	baby.
+*HEL:	yeah   (.) five nearly six months.
+*ANN:	She's not il a   (.) bloody what do you call it  (        ) ?
+*HEL:	At    (        )  (.) No.
+*ANN:	Oh.
+*HEL:	She left before she was pregnant.
+*ANN:	Oh.
+*HEL:	Got pregnant over there.
+*ANN:	Bloody hell!
+*HEL:	What?
+*ANN:	Hoo hoo.
+*HEL:	 (        ) 
+*ANN:	Who?
+*HEL:	Steven.
+*ANN:	Our Steven?
+*HEL:	Yeah.
+*ANN:	Why what's he done?
+*HEL:	Alright    (        )  (.) th the car blew up on a dual carriageway   (.) there's
+*JON:	That's right.
+*HEL:	a big bang   (.) I'm driving there's this great big bang and the bonnet lit up 
+*JON:	 (        ) he went.
+*HEL:	the bonnet lit up
+*ANN:	Oh God!
+*HEL:	right
+*JON:	 (        ) 
+*HEL:	thought great! (.) It's staying on the dual carriageway, well I went round Steven's to see if he thought to tow it round mine cos the   (        ) already been on my back once   (.) oh no he said I've only just walked in from work   (.) I'm having my tea then I'm going to bed he said, there's no way I'm towing no motor for the    (        )  (.) he said, just f off! (.) Well well we'd have 
+*ANN:	What did you say?
+*HEL:	done it for him!
+*ANN:	So you should have said to him 
+*HEL:	Going mad because 
+*ANN:	wait till you need some help.
+*HEL:	Bernie's been out at ten o'clock at night before with him.
+*ANN:	Aha.
+*HEL:	That really got on my nerves that did.
+*ANN:	 (        ) he comes round, and just say no, I'm not doing nothing for you.
+*HEL:	Oh.
+*ANN:	What about when you borrowed our battery when yours wouldn't go?
+*HEL:	That's what I mean.
+*ANN:	Just say no and if he   (        ) again say no.
+*HEL:	 (        ) when I come out  (        ) . (.) When I  (        ) , but he won't   (.) I put them all out, in fact  (        ) .
+*ANN:	 (        ) .
+*HEL:	Ah   (.) oh.
+*ANN:	Go on.
+*HEL:	No I won't   (        ) cos the police were at the car   (.) no   (.)  (        ) .
+*JON:	Sounds like it were a robbery.
+*HEL:	 (        ) come out again   (.) police come out of the ca  (.) er er they were at the car there   (.) oh I said that's my car, he said oh yeah, I said yeah, he said, what's your name?
+*ANN:	 (        ) felt like it.
+*HEL:	 (        )  (.) checked with his radio, he goes alright then   (.) phoned back to the police station on his   (        ) radio, he said it's not stolen the owner's now here   (.) he said, can you please get it moved?I said well I'm trying to   (.) I said this bloke what happens to be my oldest brother I said, and he won't even tow it for me! (.) So he said, oh why not? (.) Steven thinks that just be I only just got in he said, I'm having my tea   (.) and he said there's no way I'm gonna do nothing like that at this time of night when I've been fourteen hours at work   (.) So then he stormed off back home again   (.) so he said well you'll have to move it cos it's obstructing the dual carriageway   (.) someone might come round that corner fast and hit it. (.) He said it's not an offence he said if you've broke down, you can't help, he said   (.) but you've gotta really move it   (.) so I went round to Paul  and   (.) there was about seven or eight blokes that pushed it all the way round to Bernie's.
+*ANN:	No you don't forget Helen   (.) he could come down 
+*HEL:	I don't forget things like that.
+*ANN:	and ask for any help in doing his car   (.) don't go to work   (.) or can he borrow this, just say   (.) no I'm sorry   (.) you couldn't help us   (.) and I'm your sister   (.) so now I can't   (        ) 
+*HEL:	I know 
+*ANN:	help you.
+*HEL:	He has been like that for   (.) since he's been with her   (.) he has 
+*ANN:	I know about it.
+*HEL:	He used to help us with anything   (.) before he got with her   (.) he'd always help me   (.) he always looked happy, now he   (        ) 
+*RIC:	 [shouting] Mum mum mum  [] !
+*HEL:	But now he's with her, he don't wanna now.
+*ANN:	Well, you can just do the same with him.
+*HEL:	I
+*ANN:	You're not that bothered are you?
+*HEL:	Well no   (.) but I like to think that Steven's still my brother.
+*ANN:	Yeah well I   (        ) my son but he don't treat a mother.
+*HEL:	But he's not he's not that when he's with her.
+*ANN:	He wouldn't of come th wa on his   (.) Saturday before his birthday   (.) he wouldn't of come and seen me unless he thought he was getting something out of it.
+*HEL:	I asked him to   (.) I told him to.
+*ANN:	Yeah exactly! (.) Didn't come cos he wanted to did he? (.) He 
+*HEL:	No 
+*ANN:	couldn't wait to get away as soon as he got his bloody present, he was 
+*HEL:	I was 
+*ANN:	gone!
+*HEL:	I know.
+*JON:	 (        )  (.) Ricky.
+*HEL:	You should of kept his present.
+*ANN:	Don't worry he's not getting nothing for Christmas   (.) but a card and that's it   (.) Can't even come and say hello, so bugger him! (.) Doesn't bother me   (.) You, Stu and I have been broken hearted a few months ago and I've cried over him not coming to see me but   (.) not any more.
+*HEL:	I've not cried!
+*ANN:	Well I have.
+*HEL:	 ((laugh)) 
+*ANN:	Yeah and it turn them different.
+*JON:	 (        ) 
+*ANN:	How do you think you'd feel like she didn't want to know you when she grew up.
+*JON:	 (        )  (.) Because her daddy drink drinks   ((laugh)) in there   (.) in the pub.
+*HEL:	 ((laugh)) 
+*JON:	He always in the pub.
+*ANN:	Does daddy go in there drink drinks does he?
+*RIC:	No.
+*ANN:	Does Ricky go in there?
+*ANN:	No he's never been there.
+*JON:	 (        ) 
+*ANN:	You've been in there have you?
+*HEL:	When you come across here   (        ) that bag mum.
+*ANN:	I'll just leave it there   (.) he'll be at home with his mother now   (.) watching them on the telly.
+*HEL:	Where's your  (        ) ?
+*JON:	There Ricky.
+*HEL:	Who's in there?
+*RIC:	Look!
+*HEL:	Ha ha ha   (.) Is it big?
+*RIC:	Big.
+*ANN:	Stuey   (.) Stuey going in there.
+*JON:	Can't move inside there!
+*ANN:	Gone home now.
+*JON:	Gone home now.
+*ANN:	Gone home to see his mummy.
+*JON:	Gone to see his mummy     (.)  (        )  (.) Like   (        ) mum  (        ) 
+*RIC:	 (        ) 
+*JON:	I've had a  (        ) 
+*RIC:	That    (.)  (        ) that
+*JON:	Oh go on, you heavy boy!
+*ANN:	Careful.
+*JON:	Oh boy    [laughing]  (        )  [] 
+*RIC:	 (        )  (        ) 
+*JON:	 [laughing] Oh boy  [] !
+*HEL:	When we get right to the   (        ) again.
+*ANN:	Oh yeah   (.) Got a tre got and tree and all the decorations are there.
+*JON:	I'm not putting them up though!
+*ANN:	He ain't putting them up is he   (.) take them down to Helen's then   (.) some lovely decorations   (.) we'll ask him for them Helen.
+*HEL:	No.
+*ANN:	Why?There's a lovely tree and a lovely decorations there   (.) Could do with tree   (.) they're not gonna use it, you might as well have them.
+*JON:	Charge.
+*ANN:	For the kids.
+*JON:	Charge.
+*RIC:	No.
+*JON:	Why?
+*ANN:	Mightn't you?
+*JON:	 (        ) 
+*ANN:	Did you get in before Christmas?
+*HEL:	Oh I don't think so, the way he's going! (.) So the council informed Seth if I don't move in a month   (.) I'll have to put an application in 
+*JON:	 (        ) 
+*HEL:	and put another one in.
+*ANN:	Bloody hell! (.) Are yo you signed the papers?
+*HEL:	Yeah well, no   (.) yeah.
+*ANN:	No?
+*HEL:	Got   (.) got that form didn't we?
+*ANN:	Yeah and it said go in next 
+*HEL:	Yeah I 
+*ANN:	week to sign them.
+*HEL:	Yeah but   (.) George 
+*JON:	Hold onto there.
+*HEL:	I can't go   (        ) 
+*JON:	Where are you?
+*HEL:	before so I lent them, so he's gone in   (.) I go by the same time as him   (.) we both gotta sign them 
+*ANN:	And you both sign.
+*HEL:	together   (.) and he's not going in there.
+*ANN:	Oh well    (.)  (        ) post through there, yeah?
+*HEL:	If they do   (.) Ah I don't think I'm gonna be a bit bloody pleased! (.) Jonathan, do you know back slash? (.) You know what Jodie and David's  (        ) ?
 @End

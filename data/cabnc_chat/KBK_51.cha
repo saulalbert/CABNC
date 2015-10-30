@@ -1,35 +1,35 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 Home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0022XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, NOR Norrine wife
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Media: 021A-C0897X0022XX-AAZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0022XX-AAZZP0.wav
 @Comment:	conversation #51 (Tape 002218)
-*CHR:	A quarter of drivers leave their cars unlocked, I think it's rather more than that in the summer. 
-*NOR:	I lock mine even in the drive here. 
-*CHR:	Mm, try to. 
-*NOR:	What do you mean, I try to? 
-*CHR:	Can't get the key in the lock sometimes. 
-*NOR:	You mean in your lock, why what's the problem? Shaky hand or  (.)  
-*CHR:	Room against the fence. 
-*NOR:	How do you manage to get out? 
-*CHR:	Don't know, just slippery as an eel. 
-*NOR:	I know you   (  ) come here, come, come on, come here, come, come on, there's a good girl, oh this is lovely, oh she's a lovely girl   (5.0) Oh she's a lovely girl, good girl, wet whiskers Emma   (5.0) Cloudy, misty, and with patchy drizzle, oh, oh, cloudy with patchy light rain. Cooler with isolated showers, but a bit brighter. Sounds delightful doesn't it? 
-*CHR:	Sorry what did you say? 
-*NOR:	I'm just saying there's a   (  ) not much different really. I know sometimes, still taking the day off today? 
-*CHR:	I guess so, it seems so, (  ) Graham, ((laugh)) oh, he's making people redundant, he's gone off, it's about the third time in three weeks take a day playing golf. ((laugh))  
-*NOR:	He's making people redundant, why are they, don't they have enough work? 
-*CHR:	 (  ) 
-*NOR:	That's why he's playing golf, nothing to do? 
-*CHR:	Bank invitation day. 
-*NOR:	Oh. What happens if you don't play golf very well? Your bank manager's quite pleased that you win? 
-*CHR:	Probably, yes. 
+*CHR:	A quarter of drivers leave their cars unlocked, I think it's rather more than that in the summer.
+*NOR:	I lock mine even in the drive here.
+*CHR:	Mm, try to.
+*NOR:	What do you mean, I try to?
+*CHR:	Can't get the key in the lock sometimes.
+*NOR:	You mean in your lock, why what's the problem?Shaky hand or  (.) 
+*CHR:	Room against the fence.
+*NOR:	How do you manage to get out?
+*CHR:	Don't know, just slippery as an eel.
+*NOR:	I know you   (        ) come here, come, come on, come here, come, come on, there's a good girl, oh this is lovely, oh she's a lovely girl   (.) Oh she's a lovely girl, good girl, wet whiskers Emma   (.) Cloudy, misty, and with patchy drizzle, oh, oh, cloudy with patchy light rain.Cooler with isolated showers, but a bit brighter.Sounds delightful doesn't it?
+*CHR:	Sorry what did you say?
+*NOR:	I'm just saying there's a   (        ) not much different really.I know sometimes, still taking the day off today?
+*CHR:	I guess so, it seems so, (        ) Graham, ((laugh)) oh, he's making people redundant, he's gone off, it's about the third time in three weeks take a day playing golf. ((laugh)) 
+*NOR:	He's making people redundant, why are they, don't they have enough work?
+*CHR:	 (        ) 
+*NOR:	That's why he's playing golf, nothing to do?
+*CHR:	Bank invitation day.
+*NOR:	Oh.What happens if you don't play golf very well?Your bank manager's quite pleased that you win?
+*CHR:	Probably, yes.
 @End

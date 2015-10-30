@@ -1,38 +1,38 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0053XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, AMY Amy daughter
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Media: 021A-C0897X0053XX-ABZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0053XX-ABZZP0.wav
 @Comment:	conversation #97 (Tape 005308)
-*AMY:	What do you think? 
-*HEL:	Can't decide whether I like those shell suits or not really. 
-*AMY:	What? 
-*HEL:	I can't decide whether I like those shell suits or not, you know, sort of thing. 
-*AMY:	Colour you mean. 
-*HEL:	No, I meant in general. 
-*AMY:	 (  ) . 
-*HEL:	I think. 
-*AMY:	I don't like the  (  ) . 
-*HEL:	Hm. 
-*AMY:	 (  ) . 
-*HEL:	I think a lot of them have, has Amy's got a hood? 
-*AMY:	No. 
-*HEL:	Hasn't it? 
-*AMY:	 (  ) . 
-*HEL:	Hm. The uhum, C & A's has a lot of them, went down there looking for some shoes for Amy. 
-*AMY:	Did you get  (  ) . 
-*HEL:	No, she wanted some flip flops, but they didn't have any there either, but they had a lot of shell suits, cos I thought it was skiing ones at first. 
-*AMY:	Hm. 
-*HEL:	I thought they were skiing one's at first, and then I  (  ) . 
-*AMY:	 (  ) . 
-*HEL:	There suppose to be quite warm I think. I think there wind proof aren't they? 
+*AMY:	What do you think?
+*HEL:	Can't decide whether I like those shell suits or not really.
+*AMY:	What?
+*HEL:	I can't decide whether I like those shell suits or not, you know, sort of thing.
+*AMY:	Colour you mean.
+*HEL:	No, I meant in general.
+*AMY:	 (        ) .
+*HEL:	I think.
+*AMY:	I don't like the  (        ) .
+*HEL:	Hm.
+*AMY:	 (        ) .
+*HEL:	I think a lot of them have, has Amy's got a hood?
+*AMY:	No.
+*HEL:	Hasn't it?
+*AMY:	 (        ) .
+*HEL:	Hm.The uhum, C & A's has a lot of them, went down there looking for some shoes for Amy.
+*AMY:	Did you get  (        ) .
+*HEL:	No, she wanted some flip flops, but they didn't have any there either, but they had a lot of shell suits, cos I thought it was skiing ones at first.
+*AMY:	Hm.
+*HEL:	I thought they were skiing one's at first, and then I  (        ) .
+*AMY:	 (        ) .
+*HEL:	There suppose to be quite warm I think.I think there wind proof aren't they?
 @End

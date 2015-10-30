@@ -1,45 +1,45 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-01-11:  
-@Location:	 at home 
-@Situation:	 going to school  
-@Media:	021A-C0897X0520XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CAR Carol self, ANN Ann friend
 @Options:	CA
-@ID:	eng|AudioBNC|CAR|44;|||||courier||PS1DP|
-@ID:	eng|AudioBNC|ANN|26;|||||hairdresser|friend|PS1DU|
+@ID: eng|AudioBNC|CAR|~44;| |f|Ag3| |courier||PS1DP|
+@ID: eng|AudioBNC|ANN|~26;| |f|Ag2| |hairdresser|friend|PS1DU|
+@Media: 021A-C0897X0520XX-AAZZP0.wav, audio 		
+@Date:	1992-01-11:  
+@Situation:	 going to school 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 at home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0520XX-AAZZP0.wav
 @Comment:	conversation #9 (Tape 052009)
-*ANN:	Well I've given some, I've not gone all the way round. I spent about an hour and a half this morning, I thought well it's time to stop. 
-*CAR:	 It's very time consuming  though innit? 
-*ANN:	Yeah. Cos I'm doing some mobile, well I'm hoping to get some mobile around Ruddington before it opens   (.) and so people can see me a bit before. 
-*CAR:	 Yes.  Yeah. Before. 
-*ANN:	So   (.) Lisa, it's it's going round at the moment with a mobile one, but after that it'll be from the shop  (  ) . 
-*CAR:	Mm! 
-*ANN:	 So   
-*CAR:	 Oh  good! Well I hope it all works out alright. 
-*ANN:	Oh I hope so. 
-*CAR:	Ha!  Such   
-*ANN:	 Oh! 
-*CAR:	a lot of bother and   (.) trouble  and trouble and   
-*ANN:	 Oh I know! 
-*CAR:	worry isn't it? 
-*ANN:	Definitely. Yeah. As long as everything goes through okay, and tha  I don't see why I should have any problems. 
-*CAR:	No. 
-*ANN:	Of course, but   
-*CAR:	 Mm. 
-*ANN:	the bank said yes, and the most important  thing   
-*CAR:	 That's  it!  That's right. 
-*ANN:	 It's just red  tape in't it? And, and then having it done. 
-*CAR:	And getting the custom afterwards. 
-*ANN:	I know!  Oh God! 
-*CAR:	  ((laughing)) I hope you do ! 
-*ANN:	  ((laugh))  
-*CAR:	  ((laugh))   (.) I'll see you anyway. 
-*ANN:	Okay.  See   
-*CAR:	 Bye! 
-*ANN:	you. 
+*ANN:	Well I've given some, I've not gone all the way round.I spent about an hour and a half this morning, I thought well it's time to stop.
+*CAR:	It's very time consuming though innit?
+*ANN:	Yeah.Cos I'm doing some mobile, well I'm hoping to get some mobile around Ruddington before it opens   (.) and so people can see me a bit before.
+*CAR:	Yes.Yeah.Before.
+*ANN:	So   (.) Lisa, it's it's going round at the moment with a mobile one, but after that it'll be from the shop  (        ) .
+*CAR:	Mm!
+*ANN:	So 
+*CAR:	Oh good!Well I hope it all works out alright.
+*ANN:	Oh I hope so.
+*CAR:	Ha!Such 
+*ANN:	Oh!
+*CAR:	a lot of bother and   (.) trouble and trouble and 
+*ANN:	Oh I know!
+*CAR:	worry isn't it?
+*ANN:	Definitely.Yeah.As long as everything goes through okay, and tha I don't see why I should have any problems.
+*CAR:	No.
+*ANN:	Of course, but 
+*CAR:	Mm.
+*ANN:	the bank said yes, and the most important thing 
+*CAR:	That's it!That's right.
+*ANN:	It's just red tape in't it?And, and then having it done.
+*CAR:	And getting the custom afterwards.
+*ANN:	I know!Oh God!
+*CAR:	 [laughing] I hope you do  [] !
+*ANN:	 ((laugh)) 
+*CAR:	 ((laugh))  (.) I'll see you anyway.
+*ANN:	Okay.See 
+*CAR:	Bye!
+*ANN:	you.
 @End

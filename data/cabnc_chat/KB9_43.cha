@@ -1,31 +1,31 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-02:  
-@Location:	  at work  
-@Situation:	Unspecified 
-@Media:	021A-C0897X0626XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	ANN Annette self, DAV David son-in-law
 @Options:	CA
-@ID:	eng|AudioBNC|ANN|44;|||||administrative assistant||PS1CX|
-@ID:	eng|AudioBNC|DAV|26;|||||engineer|son-in-law|PS1D0|
+@ID: eng|AudioBNC|ANN|~44;| |f|Ag3| |administrative assistant||PS1CX|
+@ID: eng|AudioBNC|DAV|~26;| |m|Ag2| |engineer|son-in-law|PS1D0|
+@Media: 021A-C0897X0626XX-ABZZP0.wav, audio 		
+@Date:	1992-02:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  at work  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0626XX-ABZZP0.wav
 @Comment:	conversation #43 (Tape 062604)
-*TRA:	Also, we ordered the armature, it came through a couple of days ago, we put it, but it's going the opposite direction. 
+*TRA:	Also, we ordered the armature, it came through a couple of days ago, we put it, but it's going the opposite direction.
 *ANN:	 ((cough)) 
-*TRA:	It actually er one lo  a  fa   (.) going into in detail, there's one load of armature's the wrong way. 
-*DAV:	 Turn it over. 
-*ANN:	  ((cough))  
-*TRA:	Eh? 
-*DAV:	Turn it over. 
-*TRA:	We co  we've tried to pull  (  ) , but if you pull all the  (  ) , swap the   (.) the leads round   (.) or shove the brush leads round which is the obvious thing to do in that case, you know, er   (.) in that   (.) no they're successfully sparking excessively. So, we're gonna have to obviously send the armature back for   (  ) at er 
-*DAV:	And they can also switch one. 
-*TRA:	No, I would   (.) recognize the    (  )  (.)  you know   
-*DAV:	  (  )  
-*TRA:	 (  ) . There's a colour code on  them. 
-*DAV:	 What  three more? 
-*TRA:	No, it won't be that long. 
-*DAV:	Well see, if you're desperate for a machine I'll lend you one 
+*TRA:	It actually er one lo a fa  (.) going into in detail, there's one load of armature's the wrong way.
+*DAV:	Turn it over.
+*ANN:	 ((cough)) 
+*TRA:	Eh?
+*DAV:	Turn it over.
+*TRA:	We co we've tried to pull  (        ) , but if you pull all the  (        ) , swap the   (.) the leads round   (.) or shove the brush leads round which is the obvious thing to do in that case, you know, er   (.) in that   (.) no they're successfully sparking excessively.So, we're gonna have to obviously send the armature back for   (        ) at er
+*DAV:	And they can also switch one.
+*TRA:	No, I would   (.) recognize the    (        )  (.) you know 
+*DAV:	 (        ) 
+*TRA:	 (        ) .There's a colour code on them.
+*DAV:	What three more?
+*TRA:	No, it won't be that long.
+*DAV:	Well see, if you're desperate for a machine I'll lend you one
 @End

@@ -1,23 +1,23 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-03-15:  
-@Location:	 home 
-@Situation:	 sitting in living room/kitchen-having tea-in bedroom  
-@Media:	021A-C0897X0277XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , CLA Clare self, KIM Kim niece
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
-@ID:	eng|AudioBNC|CLA|15;|||||student||PS05Y|
-@ID:	eng|AudioBNC|KIM|9;|||||student|niece|PS062|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|AudioBNC|CLA|~15;| |f|Ag1| |student||PS05Y|
+@ID: eng|AudioBNC|KIM|~9;| |f|Ag0| |student|niece|PS062|
+@Media: 021A-C0897X0277XX-ABZZP0.wav, audio 		
+@Date:	1992-03-15:  
+@Situation:	 sitting in living room/kitchen-having tea-in bedroom 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0277XX-ABZZP0.wav
 @Comment:	conversation #8 (Tape 027708)
-*KIM:	Electric was off last night   (.) was yours? 
-*CLA:	Mm   (.) Oh dear  (10.0)  
-*KIM:	 ((laugh))  (.) Phorrr  (.)  
-*CLA:	 ((humming))  (.)  ((singing)) you hold on tight, no one  
-*UNK:	 (  ) 
-*CLA:	but you, I never dreamt that I'll meet somebody like you, no I never dreamt   (8.0)  
+*KIM:	Electric was off last night   (.) was yours?
+*CLA:	Mm   (.) Oh dear  (.) 
+*KIM:	 ((laugh))  (.) Phorrr  (.) 
+*CLA:	 ((humming))  (.)  [singing] you hold on tight, no one 
+*UNK:	 (        ) 
+*CLA:	but you, I never dreamt that I'll meet somebody like you, no I never dreamt   []  (.) 
 @End

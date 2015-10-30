@@ -1,43 +1,43 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 shopping 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0048XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
-@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
+@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Media: 021A-C0897X0048XX-ABZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 shopping 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0048XX-ABZZP0.wav
 @Comment:	conversation #21 (Tape 004808)
-*HEL:	Daddy's stuck this on and it's not even right the way round. 
-*AMY:	Stuck what on? 
-*HEL:	His drove my car and the, where the gears where, came off. 
-*CLA:	Who did? 
-*HEL:	Daddy. Without a  (  ) . 
-*CLA:	He had  (  ) . 
-*HEL:	There are. You could of given me a little bit more room. 
-*AMY:	 (  ) . 
-*HEL:	Well if that car in front has not pulled up quite so far this way, I would of got out a little more easily.  (  ) . Ah. 
-*AMY:	We've got a lovely  (  ) . 
-*HEL:	Yes, well he could of gone a bit further back, it wouldn't of mattered to him. 
-*AMY:	 (  ) . 
-*HEL:	Any way, never mind, were out. Now I've got to turn around. I don't think I'm going to buy you any thing else or else this holiday's costing me a fortune. 
-*CLA:	 (  ) . 
-*HEL:	I think you can manage with your thin anorak and probably your thick one. 
-*CLA:	 (  ) . 
-*HEL:	Well that's right, I mean were see what the weather's like. 
-*CLA:	  (  )  . 
-*HEL:	 Before  . 
-*CLA:	 (  ) . 
-*HEL:	Oh yeah. 
-*CLA:	 (  ) . 
-*HEL:	That'll have to be quite useful for your holiday in France and every thing ain't it? 
-*CLA:	Yes. 
-*AMY:	What on earth he  (  ) . 
-*HEL:	What a back pack? 
+*HEL:	Daddy's stuck this on and it's not even right the way round.
+*AMY:	Stuck what on?
+*HEL:	His drove my car and the, where the gears where, came off.
+*CLA:	Who did?
+*HEL:	Daddy.Without a  (        ) .
+*CLA:	He had  (        ) .
+*HEL:	There are.You could of given me a little bit more room.
+*AMY:	 (        ) .
+*HEL:	Well if that car in front has not pulled up quite so far this way, I would of got out a little more easily. (        ) . Ah.
+*AMY:	We've got a lovely  (        ) .
+*HEL:	Yes, well he could of gone a bit further back, it wouldn't of mattered to him.
+*AMY:	 (        ) .
+*HEL:	Any way, never mind, were out.Now I've got to turn around.I don't think I'm going to buy you any thing else or else this holiday's costing me a fortune.
+*CLA:	 (        ) .
+*HEL:	I think you can manage with your thin anorak and probably your thick one.
+*CLA:	 (        ) .
+*HEL:	Well that's right, I mean were see what the weather's like.
+*CLA:	 (        ) .
+*HEL:	Before .
+*CLA:	 (        ) .
+*HEL:	Oh yeah.
+*CLA:	 (        ) .
+*HEL:	That'll have to be quite useful for your holiday in France and every thing ain't it?
+*CLA:	Yes.
+*AMY:	What on earth he  (        ) .
+*HEL:	What a back pack?
 @End

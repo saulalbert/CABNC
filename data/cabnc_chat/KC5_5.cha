@@ -1,36 +1,37 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	unknown date:  Unspecified 
-@Media:	021A-C0897X0097XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	GAI Gail self
 @Options:	CA
-@ID:	eng|AudioBNC|GAI|30;|||||housewife||PS0AJ|
+@ID: eng|AudioBNC|GAI|~30;| |f|Ag2| |housewife||PS0AJ|
+@Media: 021A-C0897X0097XX-ABZZP0.wav, audio 		
+@Date:	unknown date:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0097XX-ABZZP0.wav
 @Comment:	conversation #5 (Tape 009705)
-*UNK:	Hello, alright?, how much is left on me thing? 
-*NON:	 (  ) . 
-*GAI:	Yeah. 
-*NON:	What number? 
-*GAI:	One eighty eight    (.)  (  ) pay for it today  (.)  
-*NON:	One eighty eight, (  ) . 
-*GAI:	Oh yeah, it's getting quite cold, I reckon were in for some snow. 
-*NON:	Yeah, well were suppose to get it, oh I hope it doesn't snow yet, (  ) my son's got to come in yet. 
-*GAI:	Where's he? Where is he? 
-*NON:	He's at university  (  ) . 
-*GAI:	Is he? 
-*NON:	And he's coming in a fortnight Saturday gone, so it mustn't snow  not till he gets in  , 
-*GAI:	 No, not yet  , 
-*NON:	I'd hate for him to be stuck up there  for last week in March   
-*GAI:	 oh yeah   
-*NON:	sixty ninety nine. 
-*GAI:	yeah I'll pay for that then, alright, what is it Penny  . 
-*NON:	Yeah. 
-*GAI:	 (  ) . 
-*NON:	Oh there's so much, I could do with Christmas at the  (  ) . 
-*GAI:	Yeah. 
-*NON:	 (  ) hire someone. 
-*GAI:	 ((laugh)) . 
+*UNK:	Hello, alright?, how much is left on me thing?
+*NON:	 (        ) .
+*GAI:	Yeah.
+*NON:	What number?
+*GAI:	One eighty eight    (.)  (        ) pay for it today  (.) 
+*NON:	One eighty eight, (        ) .
+*GAI:	Oh yeah, it's getting quite cold, I reckon were in for some snow.
+*NON:	Yeah, well were suppose to get it, oh I hope it doesn't snow yet, (        ) my son's got to come in yet.
+*GAI:	Where's he?Where is he?
+*NON:	He's at university  (        ) .
+*GAI:	Is he?
+*NON:	And he's coming in a fortnight Saturday gone, so it mustn't snow not till he gets in ,
+*GAI:	No, not yet ,
+*NON:	I'd hate for him to be stuck up there for last week in March 
+*GAI:	oh yeah 
+*NON:	sixty ninety nine.
+*GAI:	yeah I'll pay for that then, alright, what is it Penny .
+*NON:	Yeah.
+*GAI:	 (        ) .
+*NON:	Oh there's so much, I could do with Christmas at the  (        ) .
+*GAI:	Yeah.
+*NON:	 (        ) hire someone.
+*GAI:	 ((laugh)) .
 @End

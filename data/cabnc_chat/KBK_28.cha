@@ -1,45 +1,45 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 home office 
-@Situation:	 work  
-@Media:	021A-C0897X0021XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, NOR Norrine wife, LYN Lynda colleague
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
-@ID:	eng|AudioBNC|LYN|44;|||||export assistant|colleague|PS102|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@ID: eng|AudioBNC|LYN|~44;| |f|Ag3| |export assistant|colleague|PS102|
+@Media: 021A-C0897X0021XX-ABZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	 work 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home office 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0021XX-ABZZP0.wav
 @Comment:	conversation #28 (Tape 002126)
-*NOR:	Lynda, you can tell   (  ) keep an eye on all my own letters. 
-*LYN:	 ((laugh)) . That's a   (  ) desperately needs this job. 
-*NOR:	Oh, well I don't to ask him cos I know he must be   (  ) his A levels. 
-*LYN:	Right. 
-*NOR:	And I thought if I come along with. I wish it was true that he was actually studying for A levels though. 
-*LYN:	Actually I wouldn't like to be the one  (  ) . (  ) . 
-*NOR:	Whom he, whom he can blame  (  ) . 
-*LYN:	He's actually gone, everyday we speak to erm various public libraries, to research   (  ) to get  (  ) . 
-*CHR:	Ha, ha, ha, ha, ha. (  ) . 
-*CHR:	Oh, I shall stay here if I were you  (  ) .  ((laugh)) , somebody's holding the door shut, ((laugh)) , wouldn't push open knock the end of the nose as usual, very startled dog  ((laugh)) . 
-*LYN:	What do you think we might have done  (  ) . 
-*CHR:	 (  ) is it not in the miscellaneous file? 
-*LYN:	No  (  ) . 
-*CHR:	I've no idea. Absolutely no idea Lynda, I haven't taken it out. 
-*LYN:	 (  ) . 
-*CHR:	Yes. Did I send a message to them, erm, I, I didn't send a message, no I'm sure I didn't send a message chasing them saying how about a fresh order or  whatever  . 
-*LYN:	 No, neither   (  )   (  ) . 
-*CHR:	No, no, I can't think why we can't find  (  ) . 
-*LYN:	 (  )  (5.0) 
-*CHR:	I think we might miss out on the er stimulant today Lynda. 
-*LYN:	 (  ) . 
-*CHR:	Oh your running Kate across, yes, yes, yes. 
-*LYN:	How  (  ) . (  ) . 
-*CHR:	So she's flitting around here and there, yes. I don't know which school the girl next door goes to but she's doing her erm, ((clears throat)) A levels and er her term's already finished. 
-*LYN:	  (  )  . 
-*CHR:	 Officially  she is not at school any more. 
-*LYN:	No, I mean, (  ) . 
-*CHR:	Hm. 
+*NOR:	Lynda, you can tell   (        ) keep an eye on all my own letters.
+*LYN:	 ((laugh)) .That's a   (        ) desperately needs this job.
+*NOR:	Oh, well I don't to ask him cos I know he must be   (        ) his A levels.
+*LYN:	Right.
+*NOR:	And I thought if I come along with.I wish it was true that he was actually studying for A levels though.
+*LYN:	Actually I wouldn't like to be the one  (        ) . (        ) .
+*NOR:	Whom he, whom he can blame  (        ) .
+*LYN:	He's actually gone, everyday we speak to erm various public libraries, to research   (        ) to get  (        ) .
+*CHR:	Ha, ha, ha, ha, ha. (        ) .
+*CHR:	Oh, I shall stay here if I were you  (        ) . ((laugh)) , somebody's holding the door shut, ((laugh)) , wouldn't push open knock the end of the nose as usual, very startled dog  ((laugh)) .
+*LYN:	What do you think we might have done  (        ) .
+*CHR:	 (        ) is it not in the miscellaneous file?
+*LYN:	No  (        ) .
+*CHR:	I've no idea.Absolutely no idea Lynda, I haven't taken it out.
+*LYN:	 (        ) .
+*CHR:	Yes.Did I send a message to them, erm, I, I didn't send a message, no I'm sure I didn't send a message chasing them saying how about a fresh order or whatever .
+*LYN:	No, neither   (        )  (        ) .
+*CHR:	No, no, I can't think why we can't find  (        ) .
+*LYN:	 (        )  (.) 
+*CHR:	I think we might miss out on the er stimulant today Lynda.
+*LYN:	 (        ) .
+*CHR:	Oh your running Kate across, yes, yes, yes.
+*LYN:	How  (        ) . (        ) .
+*CHR:	So she's flitting around here and there, yes.I don't know which school the girl next door goes to but she's doing her erm, ((clears throat)) A levels and er her term's already finished.
+*LYN:	 (        ) .
+*CHR:	Officially she is not at school any more.
+*LYN:	No, I mean, (        ) .
+*CHR:	Hm.
 @End

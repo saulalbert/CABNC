@@ -1,23 +1,23 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	unknown date:  
-@Location:	  at home  
-@Situation:	  chores and meals   
-@Media:	021A-C0897X0546XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	DAD Dad self, MUM Mum wife
 @Options:	CA
-@ID:	eng|AudioBNC|DAD|79;|||||retired||PS079|
-@ID:	eng|AudioBNC|MUM|81;|||||retired|wife|PS07A|
+@ID: eng|AudioBNC|DAD|~79;| |m|Ag5| |retired||PS079|
+@ID: eng|AudioBNC|MUM|~81;| |f|Ag5| |retired|wife|PS07A|
+@Media: 021A-C0897X0546XX-AAZZP0.wav, audio 		
+@Date:	unknown date:  
+@Situation:	  chores and meals  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  at home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0546XX-AAZZP0.wav
 @Comment:	conversation #2 (Tape 054603)
-*DAD:	 (  ) the Russians are accepting our beef. 
-*MUM:	Yes.  They   
-*DAD:	 Very  kind. 
-*MUM:	Oh Linda   she's having a bit of a 
-*DAD:	Mm.  (.) Some indication of what she's up against? 
-*MUM:	Yeah.  (10.0) I can't see  (  )  
-*DAD:	Perhaps they're not. (.)  
+*DAD:	 (        ) the Russians are accepting our beef.
+*MUM:	Yes.They 
+*DAD:	Very kind.
+*MUM:	Oh Linda  she's having a bit of a
+*DAD:	Mm. (.) Some indication of what she's up against?
+*MUM:	Yeah. (.) I can't see  (        ) 
+*DAD:	Perhaps they're not. (.) 
 @End

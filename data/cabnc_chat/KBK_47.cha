@@ -1,20 +1,20 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 Home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0022XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, NOR Norrine wife
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Media: 021A-C0897X0022XX-AAZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0022XX-AAZZP0.wav
 @Comment:	conversation #47 (Tape 002214)
-*CHR:	Lynda seems to be staying on a bit, oh no, no, she does have to stay till two sometimes. 
-*NOR:	She's been quite late lately.  (  ) four o'clock  (  ) . 
-*CHR:	Right. 
-*NOR:	She said if we didn't get stuck at the  (  ) . 
+*CHR:	Lynda seems to be staying on a bit, oh no, no, she does have to stay till two sometimes.
+*NOR:	She's been quite late lately. (        ) four o'clock  (        ) .
+*CHR:	Right.
+*NOR:	She said if we didn't get stuck at the  (        ) .
 @End

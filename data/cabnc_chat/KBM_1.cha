@@ -1,42 +1,42 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-04-02:  
-@Location:	 at home 
-@Situation:	 eating dinner  
-@Media:	021A-C0897X0723XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, LYN Lynne mother, ROB Robert father
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|15;|||||student||PS1BL|
-@ID:	eng|AudioBNC|LYN|45;|||||bookkeeper|mother|PS1BM|
-@ID:	eng|AudioBNC|ROB|48;|||||tax inspector|father|PS6P7|
+@ID: eng|AudioBNC|CHR|~15;| |m|Ag1| |student||PS1BL|
+@ID: eng|AudioBNC|LYN|~45;| |f|Ag4| |bookkeeper|mother|PS1BM|
+@ID: eng|AudioBNC|ROB|~48;| |m|Ag4| |tax inspector|father|PS6P7|
+@Media: 021A-C0897X0723XX-AAZZP0.wav, audio 		
+@Date:	1992-04-02:  
+@Situation:	 eating dinner 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 at home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0723XX-AAZZP0.wav
 @Comment:	conversation #1 (Tape 072301)
-*LYN:	Oh! 
-*CHR:	Come on! 
-*LYN:	What you doing?  Leave it on   
-*CHR:	  ((laugh))  
-*LYN:	like that. Put it on! 
-*CHR:	So er   (.) what's for tea mum? 
-*LYN:	Well er 
-*CHR:	 ((laugh))  (.)  ((laughing)) Can I have a bit more ? 
-*LYN:	Wait a minute! I'm getting the thick stuff out of the bottle. 
-*CHR:	Cheers. Oh that's ver  very nice. 
-*LYN:	Well you want the thick stuff don't you? 
-*CHR:	No. 
-*LYN:	Oh. 
-*CHR:	I hate thick stuff mum. 
-*LYN:	No you won't. 
-*CHR:	Where's yours? 
-*LYN:	 (  )  (.) Let's put on. 
-*CHR:	Don't like it. Slaved over a hot stove for you. 
-*ROB:	 ((laughing)) Have you ? (6.0)  ((cough))  
-*LYN:	Hot! 
-*CHR:	So you got enough dad? 
-*ROB:	Mhm.  (11.0) Ooh! Ooh!  (  ) . (7.0) What do you think of market research interviewer? 
-*CHR:	 ((laugh))  (8.0)  ((laugh)) 
-*LYN:	Give over Christopher! Here, there's a serviette. 
-*CHR:	Thank you mumsy. (9.0)  ((laugh))  
+*LYN:	Oh!
+*CHR:	Come on!
+*LYN:	What you doing?Leave it on 
+*CHR:	 ((laugh)) 
+*LYN:	like that.Put it on!
+*CHR:	So er   (.) what's for tea mum?
+*LYN:	Well er
+*CHR:	 ((laugh))  (.)  [laughing] Can I have a bit more  [] ?
+*LYN:	Wait a minute!I'm getting the thick stuff out of the bottle.
+*CHR:	Cheers.Oh that's ver very nice.
+*LYN:	Well you want the thick stuff don't you?
+*CHR:	No.
+*LYN:	Oh.
+*CHR:	I hate thick stuff mum.
+*LYN:	No you won't.
+*CHR:	Where's yours?
+*LYN:	 (        )  (.) Let's put on.
+*CHR:	Don't like it.Slaved over a hot stove for you.
+*ROB:	 [laughing] Have you  [] ? (.)  ((cough)) 
+*LYN:	Hot!
+*CHR:	So you got enough dad?
+*ROB:	Mhm. (.) Ooh!Ooh! (        ) . (.) What do you think of market research interviewer?
+*CHR:	 ((laugh))  (.)  ((laugh)) 
+*LYN:	Give over Christopher!Here, there's a serviette.
+*CHR:	Thank you mumsy. (.)  ((laugh)) 
 @End

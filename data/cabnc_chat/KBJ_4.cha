@@ -1,50 +1,50 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-01-10:  
-@Location:	 at home 
-@Situation:	 watching television and putting daughter to bed  
-@Media:	021A-C0897X0520XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CAR Carol self, EMM Emma daughter
 @Options:	CA
-@ID:	eng|AudioBNC|CAR|44;|||||courier||PS1DP|
-@ID:	eng|AudioBNC|EMM|11;|||||student (state secondary)|daughter|PS1DR|
+@ID: eng|AudioBNC|CAR|~44;| |f|Ag3| |courier||PS1DP|
+@ID: eng|AudioBNC|EMM|~11;| |f|Ag0| |student (state secondary)|daughter|PS1DR|
+@Media: 021A-C0897X0520XX-AAZZP0.wav, audio 		
+@Date:	1992-01-10:  
+@Situation:	 watching television and putting daughter to bed 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 at home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0520XX-AAZZP0.wav
 @Comment:	conversation #4 (Tape 052004)
-*CAR:	Have you got the cat? 
-*EMM:	I'm getting him now. 
-*CAR:	Have you cleaned your teeth?  (32.0) Your school bag's in my car you know. 
-*EMM:	Want that. 
-*CAR:	Can you take that up then and your school uniform, and go and put that away somewhere. 
-*EMM:	Are you gonna come and put me to bed or aren't you? 
-*CAR:	Yes! I am!  (16.0) Try and get in the bed like I told you, there's a good girl.  (6.0) And there's a sock here look. And there's another one in the lounge. 
-*EMM:	No. 
-*CAR:	Yes I will. 
-*EMM:	Course you will.  (7.0) Good puss! Don't worry puss, I'll get it in a minute.  Puss! Puss! 
-*CAR:	 Have you got your  plug in? 
-*EMM:	What plug? 
-*CAR:	Where's  your   
-*EMM:	 Is  it this low? Have I had it on before? 
-*CAR:	Yes, you've had that on before. 
-*EMM:	Mm.  Have you got that   
-*CAR:	 No, your light  , where's your light flo   (.) oh it's here! Okay? I'll do it for you babes. 
-*EMM:	You got it switched off. You little monkey! 
-*CAR:	I know. Get in. 
-*EMM:	Get on there. 
-*CAR:	Sorry! 
-*EMM:	Ah ah! 
-*CAR:	I'm sorry! It's my nails. You alright? Let's kiss it better.  ((kiss)) Come on. Lie down.  (6.0)  Now keep it tu  tucked in   
-*EMM:	  (  )  
-*CAR:	like that.  (6.0) Alright? They're thermal lined, plus a lining  you've got   
-*EMM:	 Get changed   
-*CAR:	on as well. Let's tuck this in. 
-*EMM:	Where's my   (.) arm? Tt. That's my arm you're standing on! 
-*CAR:	Ni-night! 
-*EMM:	Night! 
-*CAR:	God bless. 
-*EMM:	God bless. 
-*CAR:	See you in the morning. 
-*EMM:	See you in the morning. 
+*CAR:	Have you got the cat?
+*EMM:	I'm getting him now.
+*CAR:	Have you cleaned your teeth? (.) Your school bag's in my car you know.
+*EMM:	Want that.
+*CAR:	Can you take that up then and your school uniform, and go and put that away somewhere.
+*EMM:	Are you gonna come and put me to bed or aren't you?
+*CAR:	Yes!I am! (.) Try and get in the bed like I told you, there's a good girl. (.) And there's a sock here look.And there's another one in the lounge.
+*EMM:	No.
+*CAR:	Yes I will.
+*EMM:	Course you will. (.) Good puss!Don't worry puss, I'll get it in a minute.Puss!Puss!
+*CAR:	Have you got your plug in?
+*EMM:	What plug?
+*CAR:	Where's your 
+*EMM:	Is it this low?Have I had it on before?
+*CAR:	Yes, you've had that on before.
+*EMM:	Mm.Have you got that 
+*CAR:	No, your light , where's your light flo  (.) oh it's here!Okay?I'll do it for you babes.
+*EMM:	You got it switched off.You little monkey!
+*CAR:	I know.Get in.
+*EMM:	Get on there.
+*CAR:	Sorry!
+*EMM:	Ah ah!
+*CAR:	I'm sorry!It's my nails.You alright?Let's kiss it better. ((kiss)) Come on.Lie down. (.) Now keep it tu tucked in 
+*EMM:	 (        ) 
+*CAR:	like that. (.) Alright?They're thermal lined, plus a lining you've got 
+*EMM:	Get changed 
+*CAR:	on as well.Let's tuck this in.
+*EMM:	Where's my   (.) arm?Tt.That's my arm you're standing on!
+*CAR:	Ni-night!
+*EMM:	Night!
+*CAR:	God bless.
+*EMM:	God bless.
+*CAR:	See you in the morning.
+*EMM:	See you in the morning.
 @End

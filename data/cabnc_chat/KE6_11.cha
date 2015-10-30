@@ -1,0 +1,25 @@
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
+@Participants:	UNK Unknown Unknown  , WEN Wendy self, MIC Michael husband
+@Options:	CA
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|AudioBNC|WEN|~54;| |f|Ag4| |machine minder||PS0X8|
+@ID: eng|AudioBNC|MIC|~55;| |m|Ag4| |production engineer|husband|PS0XA|		
+@Date:	1992-02-22:  
+@Situation:	 talking 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 on bus from Wembley back to Andover 
+@Comment:	conversation #11 (Tape 036701)
+*WEN:	How many were there then Mick do you know?
+*MIC:	Well, forty eight originally
+*UNK:	 (        ) 
+*MIC:	another five
+*WEN:	Five
+*MIC:	Five
+*UNK:	 (        ) 
+*WEN:	so you should have forty eight?
+*MIC:	Forty eight I think yeah
+*WEN:	Who's missing then? (.) That's it then is it?
+@End

@@ -1,27 +1,27 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 Home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0023XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, LYN Lynda colleague
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|LYN|44;|||||export assistant|colleague|PS102|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|LYN|~44;| |f|Ag3| |export assistant|colleague|PS102|
+@Media: 021A-C0897X0023XX-AAZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0023XX-AAZZP0.wav
 @Comment:	conversation #70 (Tape 002304)
-*CHR:	The metals remain nice and weak, I do wish   (.) wish we'd get on and get those orders in. 
-*LYN:	 (  ) 
-*CHR:	He's gonna wait till the copper price zooms up again, then he'll be back, he never did, order those aluminum   (  ) rods you know  last year. 
-*LYN:	 No  . Getting to  be a hobby  . 
-*CHR:	 Darn it  . Yes. 
-*LYN:	 (  ) . 
-*CHR:	No, no I'd   (.) I rather suspect that the erm, the   (  ) cancelled the contract. 
-*LYN:	 (  ) 
-*CHR:	Well if they, they may have bought from Japan or something of that sort, erm, gotta little bit stronger yesterday, one seven one three five in New York. 
-*LYN:	 (  ) 
-*CHR:	Was it? 
+*CHR:	The metals remain nice and weak, I do wish   (.) wish we'd get on and get those orders in.
+*LYN:	 (        ) 
+*CHR:	He's gonna wait till the copper price zooms up again, then he'll be back, he never did, order those aluminum   (        ) rods you know last year.
+*LYN:	No .Getting to be a hobby .
+*CHR:	Darn it .Yes.
+*LYN:	 (        ) .
+*CHR:	No, no I'd   (.) I rather suspect that the erm, the   (        ) cancelled the contract.
+*LYN:	 (        ) 
+*CHR:	Well if they, they may have bought from Japan or something of that sort, erm, gotta little bit stronger yesterday, one seven one three five in New York.
+*LYN:	 (        ) 
+*CHR:	Was it?
 @End

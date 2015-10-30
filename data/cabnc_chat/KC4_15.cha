@@ -1,26 +1,26 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-05:  
-@Location:	 The Lion Inn 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0066XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	FRE Fred self
 @Options:	CA
-@ID:	eng|AudioBNC|FRE|78;|||||retired||PS1E4|
+@ID: eng|AudioBNC|FRE|~78;| |m|Ag5| |retired||PS1E4|
+@Media: 021A-C0897X0066XX-AAZZP0.wav, audio 		
+@Date:	1991-06-05:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 The Lion Inn 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0066XX-AAZZP0.wav
 @Comment:	conversation #15 (Tape 006601)
-*FRE:	Make mad passionate love to me Jan, eh?  ((music))No, bloody hell. 
-*NON:	Perhaps  (  ) . 
-*FRE:	 ((laugh)) that's  (  ) .  (  ) , I didn't mean it, I didn't mean it. I don't know whether I could manage to make mad passionate love to anybody now. 
-*NON:	I doubt it  (  ) . 
-*FRE:	 ((laugh)) At seventy eight, nearly seventy nine, you know. 
-*NON:	I suspect you  (  ) . 
-*FRE:	Well there might be snow on the roof, but the   (  ) fire is burning, eh, ((laugh)) oh shut up  (  ) .  ((music))Oh Kathleen 
-*NON:	 (  ) 
-*FRE:	Kathleen we've had, we've had our days, haven't we? 
-*NON:	Yeah, we've had our days  (  ) . 
-*FRE:	We've had our days  (  ) . Never mind. 
+*FRE:	Make mad passionate love to me Jan, eh? ((music))No, bloody hell.
+*NON:	Perhaps  (        ) .
+*FRE:	 ((laugh)) that's  (        ) . (        ) , I didn't mean it, I didn't mean it.I don't know whether I could manage to make mad passionate love to anybody now.
+*NON:	I doubt it  (        ) .
+*FRE:	 ((laugh)) At seventy eight, nearly seventy nine, you know.
+*NON:	I suspect you  (        ) .
+*FRE:	Well there might be snow on the roof, but the   (        ) fire is burning, eh, ((laugh)) oh shut up  (        ) . ((music))Oh Kathleen
+*NON:	 (        ) 
+*FRE:	Kathleen we've had, we've had our days, haven't we?
+*NON:	Yeah, we've had our days  (        ) .
+*FRE:	We've had our days  (        ) .Never mind.
 @End

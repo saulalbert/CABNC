@@ -1,49 +1,50 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-02-22:  Unspecified 
-@Media:	021A-C0897X0359XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , COL Colin self, SHE Sheila wife
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
-@ID:	eng|AudioBNC|COL|unknown||||British Rail employee||PS069|
-@ID:	eng|AudioBNC|SHE|unknown||||housekeeper|wife|PS10D|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|AudioBNC|COL|unknown |m|X| |British Rail employee||PS069|
+@ID: eng|AudioBNC|SHE|unknown |f|X| |housekeeper|wife|PS10D|
+@Media: 021A-C0897X0359XX-ABZZP0.wav, audio 		
+@Date:	1991-02-22:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0359XX-ABZZP0.wav
 @Comment:	conversation #8 (Tape 035908)
-*COL:	What number is Nigel at then? 
-*SHE:	Erm, oh sixty erm, sixty three 
-*COL:	Oh that's better then innit? 
-*SHE:	so what end'll that be then? 
-*COL:	Swallow end 
-*SHE:	Who? 
-*COL:	Swallow end, erm 
-*UNK:	 (  ) 
-*SHE:	if that's it then I can er write her card out later on 
-*COL:	Oh if you like I can put it through her door 
-*SHE:	Oh that's alright   (.) she must be about er sixty four, five I suppose 
-*COL:	Ah? 
-*SHE:	I say she should be about sixty four, erm eight four 
-*COL:	Is she eighty four? 
-*SHE:	Yeah 
-*UNK:	 (  ) 
-*SHE:	dunno  (.)  
-*UNK:	 (  ) 
-*SHE:	Ah? 
-*UNK:	 (  ) 
-*SHE:	no   (.) they're alright aren't they? 
-*COL:	Do you like them? Those other ones they come off it I think 
-*SHE:	What ones? Walnut 
-*COL:	No, I just 
-*UNK:	 (  ) 
-*SHE:	really 
-*COL:	Yeah  (.)  
-*SHE:	They always did taste a bit funny you know, didn't they? I mean they 
-*UNK:	 (  )  (.)  (  ) 
-*COL:	Is this still running is it? 
-*SHE:	Yeah 
-*COL:	Battery gone flat though is 
-*SHE:	Is it? 
-*COL:	Yeah  (.)  
+*COL:	What number is Nigel at then?
+*SHE:	Erm, oh sixty erm, sixty three
+*COL:	Oh that's better then innit?
+*SHE:	so what end'll that be then?
+*COL:	Swallow end
+*SHE:	Who?
+*COL:	Swallow end, erm
+*UNK:	 (        ) 
+*SHE:	if that's it then I can er write her card out later on
+*COL:	Oh if you like I can put it through her door
+*SHE:	Oh that's alright   (.) she must be about er sixty four, five I suppose
+*COL:	Ah?
+*SHE:	I say she should be about sixty four, erm eight four
+*COL:	Is she eighty four?
+*SHE:	Yeah
+*UNK:	 (        ) 
+*SHE:	dunno  (.) 
+*UNK:	 (        ) 
+*SHE:	Ah?
+*UNK:	 (        ) 
+*SHE:	no   (.) they're alright aren't they?
+*COL:	Do you like them?Those other ones they come off it I think
+*SHE:	What ones?Walnut
+*COL:	No, I just
+*UNK:	 (        ) 
+*SHE:	really
+*COL:	Yeah  (.) 
+*SHE:	They always did taste a bit funny you know, didn't they?I mean they
+*UNK:	 (        )  (.)  (        ) 
+*COL:	Is this still running is it?
+*SHE:	Yeah
+*COL:	Battery gone flat though is
+*SHE:	Is it?
+*COL:	Yeah  (.) 
 @End

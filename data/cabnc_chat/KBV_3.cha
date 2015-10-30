@@ -1,112 +1,112 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-03-13:  
-@Location:	 home 
-@Situation:	 having dinner  
-@Media:	021A-C0897X0215XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , DON Donald self, KAR Karen wife, LUK Luke son, GAR Gary son, MAR Marie daughter
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
-@ID:	eng|AudioBNC|DON|33;|||||telecommunication technician||PS07K|
-@ID:	eng|AudioBNC|KAR|32;|||||housewife|wife|PS07L|
-@ID:	eng|AudioBNC|LUK|6;|||||student|son|PS07M|
-@ID:	eng|AudioBNC|GAR|10;|||||student|son|PS07N|
-@ID:	eng|AudioBNC|MAR|1;|||||pre-school|daughter|PS07P|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|AudioBNC|DON|~33;| |m|Ag2| |telecommunication technician||PS07K|
+@ID: eng|AudioBNC|KAR|~32;| |f|Ag2| |housewife|wife|PS07L|
+@ID: eng|AudioBNC|LUK|~6;| |m|Ag0| |student|son|PS07M|
+@ID: eng|AudioBNC|GAR|~10;| |m|Ag0| |student|son|PS07N|
+@ID: eng|AudioBNC|MAR|~1;| |f|Ag0| |pre-school|daughter|PS07P|
+@Media: 021A-C0897X0215XX-AAZZP0.wav, audio 		
+@Date:	1992-03-13:  
+@Situation:	 having dinner 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0215XX-AAZZP0.wav
 @Comment:	conversation #4 (Tape 021502)
-*KAR:	Do you want a cake, want one of those? 
-*LUK:	Mum   (  ) got two  (  )  
-*KAR:	I know, you know 
-*LUK:	I don't know what they are 
-*KAR:	No   (  ) that's what the other ones were, they're all the same  
-*LUK:	I want it 
-*KAR:	well go and have another one 
-*DON:	What's wrong? (  )  
-*KAR:	Is it hot? 
-*LUK:	No 
-*DON:	 (  ) 
-*KAR:	Mm 
-*GAR:	That 
-*KAR:	Pancake 
-*DON:	 (  ) 
-*GAR:	 (  ) 
-*KAR:	I'll do it, I'll do the one  (  ) , mm 
-*DON:	 (  )  (.) 
-*KAR:	You having an apple?  (.) Are you going to bed? 
-*GAR:	 (  ) 
-*KAR:	Oh yeah 
-*GAR:	Er 
-*KAR:	you're tired you are, yeah  (.)  
-*GAR:	Dad, dad, dad, dad, dad 
-*KAR:	Gary there's apples if you want one 
-*DON:	I know 
-*LUK:	I'm not  (  )  
-*KAR:	well don't do that, it's not very nice, go get an apple  (.)  
-*MAR:	Don't like apple mum 
-*KAR:	Alright, you haven't had very much Luke have you? 
-*MAR:	  (  )  
-*KAR:	 There's an apple   
-*MAR:	 (  ) apple, I want something else instead of an rotten apple 
-*KAR:	There isn't anything else now 
-*MAR:	Oh  (  )  
-*KAR:	Not having chocolate till tomorrow  (.)  
-*DON:	Another Gary? 
-*LUK:	No thank you 
-*DON:	You can have some fruit 
-*MAR:	I don't wanna  (  )  
-*DON:	Do you want some pineapple Gary? 
-*LUK:	Yeah 
-*KAR:	Open a tin of pineapple 
-*MAR:	 (  ) 
-*KAR:	What do that for? 
-*MAR:	I like pineapple 
-*KAR:	Well what do you say? 
-*MAR:	You said he has pineapple, pineapple, pineapple 
-*KAR:	 (  ) 
-*MAR:	Oh 
-*KAR:	What you can 
-*LUK:	Can only have a bit I'm having  (  )  
-*MAR:	 (  ) he wouldn't give me some of these 
-*KAR:	Er, half each 
-*LUK:	I'm having all of them 
-*KAR:	No you're not 
-*LUK:	I am, cos they're mine 
-*KAR:	they're not yours it's ours 
-*LUK:	If I can't then  (  )  
-*KAR:	 (  ) could, yes  (.)  
-*MAR:	That isn't Gary's what he   (  ) nanny did 
-*KAR:	What? 
-*MAR:	You know    (  )   
-*LUK:	  (  )   (  ) 
-*MAR:	I  (  )  
-*KAR:	No I didn't say it was 
-*LUK:	 (  ) 
-*KAR:	 (  ) 
-*GAR:	 (  ) 
-*GRO:	 (  ) 
-*KAR:	come and watch the news it's just started 
-*GAR:	 (  ) 
-*GRO:	 (  ) 
-*KAR:	Has it? 
-*LUK:	 (  ) get more   (  ) portable 
-*GAR:	  (  )  
-*LUK:	  (  )  
-*KAR:	Well why don't you get a piece of paper and a pencil and jot it down then? 
-*LUK:	 (  ) 
-*KAR:	Oh Gary   (  ) now you've just said it  (.)  
-*LUK:	Me want a    (  )  (.) oh mum, Luke just strangled Marie  (.)  
-*KAR:	Pardon? 
-*LUK:	Mum   (  ) Marie's chair  (.)  
-*MAR:	Mum want to stand 
-*GAR:	 (  ) 
-*LUK:	 (  ) 
-*DON:	What a mess 
-*KAR:	Does  (  )  
-*MAR:	No thank you 
-*LUK:	Luke says yes, I say 
-*MAR:	I did not 
-*KAR:	Go   (  ) then 
+*KAR:	Do you want a cake, want one of those?
+*LUK:	Mum   (        ) got two  (        ) 
+*KAR:	I know, you know
+*LUK:	I don't know what they are
+*KAR:	No   (        ) that's what the other ones were, they're all the same 
+*LUK:	I want it
+*KAR:	well go and have another one
+*DON:	What's wrong? (        ) 
+*KAR:	Is it hot?
+*LUK:	No
+*DON:	 (        ) 
+*KAR:	Mm
+*GAR:	That
+*KAR:	Pancake
+*DON:	 (        ) 
+*GAR:	 (        ) 
+*KAR:	I'll do it, I'll do the one  (        ) , mm
+*DON:	 (        )  (.) 
+*KAR:	You having an apple? (.) Are you going to bed?
+*GAR:	 (        ) 
+*KAR:	Oh yeah
+*GAR:	Er
+*KAR:	you're tired you are, yeah  (.) 
+*GAR:	Dad, dad, dad, dad, dad
+*KAR:	Gary there's apples if you want one
+*DON:	I know
+*LUK:	I'm not  (        ) 
+*KAR:	well don't do that, it's not very nice, go get an apple  (.) 
+*MAR:	Don't like apple mum
+*KAR:	Alright, you haven't had very much Luke have you?
+*MAR:	 (        ) 
+*KAR:	There's an apple 
+*MAR:	 (        ) apple, I want something else instead of an rotten apple
+*KAR:	There isn't anything else now
+*MAR:	Oh  (        ) 
+*KAR:	Not having chocolate till tomorrow  (.) 
+*DON:	Another Gary?
+*LUK:	No thank you
+*DON:	You can have some fruit
+*MAR:	I don't wanna  (        ) 
+*DON:	Do you want some pineapple Gary?
+*LUK:	Yeah
+*KAR:	Open a tin of pineapple
+*MAR:	 (        ) 
+*KAR:	What do that for?
+*MAR:	I like pineapple
+*KAR:	Well what do you say?
+*MAR:	You said he has pineapple, pineapple, pineapple
+*KAR:	 (        ) 
+*MAR:	Oh
+*KAR:	What you can
+*LUK:	Can only have a bit I'm having  (        ) 
+*MAR:	 (        ) he wouldn't give me some of these
+*KAR:	Er, half each
+*LUK:	I'm having all of them
+*KAR:	No you're not
+*LUK:	I am, cos they're mine
+*KAR:	they're not yours it's ours
+*LUK:	If I can't then  (        ) 
+*KAR:	 (        ) could, yes  (.) 
+*MAR:	That isn't Gary's what he   (        ) nanny did
+*KAR:	What?
+*MAR:	You know   (        ) 
+*LUK:	 (        )  (        ) 
+*MAR:	I  (        ) 
+*KAR:	No I didn't say it was
+*LUK:	 (        ) 
+*KAR:	 (        ) 
+*GAR:	 (        ) 
+*GRO:	 (        ) 
+*KAR:	come and watch the news it's just started
+*GAR:	 (        ) 
+*GRO:	 (        ) 
+*KAR:	Has it?
+*LUK:	 (        ) get more   (        ) portable
+*GAR:	 (        ) 
+*LUK:	 (        ) 
+*KAR:	Well why don't you get a piece of paper and a pencil and jot it down then?
+*LUK:	 (        ) 
+*KAR:	Oh Gary   (        ) now you've just said it  (.) 
+*LUK:	Me want a    (        )  (.) oh mum, Luke just strangled Marie  (.) 
+*KAR:	Pardon?
+*LUK:	Mum   (        ) Marie's chair  (.) 
+*MAR:	Mum want to stand
+*GAR:	 (        ) 
+*LUK:	 (        ) 
+*DON:	What a mess
+*KAR:	Does  (        ) 
+*MAR:	No thank you
+*LUK:	Luke says yes, I say
+*MAR:	I did not
+*KAR:	Go   (        ) then
 @End

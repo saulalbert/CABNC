@@ -1,17 +1,17 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-02-22:  
-@Location:	  in car  
-@Situation:	  travelling from Wimborne to Throop   
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	GRA Graeme self, ANN Ann wife
 @Options:	CA
-@ID:	eng|AudioBNC|GRA|62;|||||company secretary||PS0DX|
-@ID:	eng|AudioBNC|ANN|58;|||||housewife|wife|PS0DY|
+@ID: eng|AudioBNC|GRA|~62;| |m|Ag5| |company secretary||PS0DX|
+@ID: eng|AudioBNC|ANN|~58;| |f|Ag4| |housewife|wife|PS0DY|		
+@Date:	1992-02-22:  
+@Situation:	  travelling from Wimborne to Throop  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  in car  
 @Comment:	conversation #5 (Tape 043005)
-*GRA:	It seems ages since we've driven down this road. 
-*ANN:	I haven't been here for  ages and ages! 
-*GRA:	 No! Normally  use the bypass when we come out at the 
+*GRA:	It seems ages since we've driven down this road.
+*ANN:	I haven't been here for ages and ages!
+*GRA:	No!Normally use the bypass when we come out at the
 @End

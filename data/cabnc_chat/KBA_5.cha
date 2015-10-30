@@ -1,22 +1,22 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-11-30:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris son
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|26;|||||warehouse op|son|PS1DC|
+@ID: eng|AudioBNC|CHR|~26;| |m|Ag2| |warehouse op|son|PS1DC|		
+@Date:	1991-11-30:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	conversation #5 (Tape 009905)
-*UNK:	What is that thing anyway? 
-*CHR:	It's for Father Christmas. 
-*UNK:	Why? 
-*CHR:	Cos he wants to know what sort of boy you are. 
-*NON:	Danny. 
-*UNK:	He, he doesn't speak    (  )   
-*CHR:	 And he already  heard you swear. So you'd better watch it. 
-*NON:	 (  ) 
-*UNK:	 (  )  ((crying)) I   (  ) to me. 
+*UNK:	What is that thing anyway?
+*CHR:	It's for Father Christmas.
+*UNK:	Why?
+*CHR:	Cos he wants to know what sort of boy you are.
+*NON:	Danny.
+*UNK:	He, he doesn't speak   (        ) 
+*CHR:	And he already heard you swear.So you'd better watch it.
+*NON:	 (        ) 
+*UNK:	 (        )  ((crying)) I   (        ) to me.
 @End

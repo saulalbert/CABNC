@@ -1,45 +1,45 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 shopping 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0049XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter, UNK Unknown Unknown None ?
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
-@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6ST|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
+@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6ST|
+@Media: 021A-C0897X0049XX-ABZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 shopping 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0049XX-ABZZP0.wav
 @Comment:	conversation #41 (Tape 004908)
-*CLA:	You done it? 
-*HEL:	No, look, I, I don't really feel like doing this at the moment. 
-*CLA:	But you said you've got to make cheesecake tonight. You did but  (  ) . 
-*HEL:	But when it comes down to it you can't do it can you? 
-*CLA:	You said we could.  (  ) . I'll get the margarine ready. 
-*HEL:	I've done the margarine, you   (.) you can get me the erm  thing  . 
-*CLA:	 Where's the margarine?. 
-*HEL:	It's in here, it's melted, you've just watched it melt. 
-*AMY:	 (  ) . 
-*HEL:	Can you get me the flan tin down there  (5.0)  
-*NON:	 (  ) . (  ) . 
-*HEL:	Yes thank you. 
-*CLA:	Do you want the bigger one? 
-*HEL:	No that one will do   (5.0)  (  ) . 
-*HEL:	Yeah and it causes me more washing up which I've only just finished. 
-*AMY:	Why do you have to turn to the other side, why can't you have it up the middle. (  ) . 
-*HEL:	Pardon. 
-*AMY:	Why haven't you got it on the  (  ) . 
-*HEL:	Well, then I'll boil that side won't I? with all the cuts, right, mix that round if you like. 
-*CLA:	Yeah. 
-*HEL:	Now don't spill it every where. 
-*AMY:	 (  ) after her. 
-*HEL:	I don't think you can both stir it at the same time. 
-*CLA:	Amy. (  ) . 
-*HEL:	Oh come on, you can't both stir it, I'm going to get very cross, I'm too tired for this. 
-*AMY:	 (  ) . 
-*HEL:	Now let Clare stir it for a bit and then let Amy have a turn, but don't slop it every where, or else you won't have a. 
+*CLA:	You done it?
+*HEL:	No, look, I, I don't really feel like doing this at the moment.
+*CLA:	But you said you've got to make cheesecake tonight.You did but  (        ) .
+*HEL:	But when it comes down to it you can't do it can you?
+*CLA:	You said we could. (        ) . I'll get the margarine ready.
+*HEL:	I've done the margarine, you   (.) you can get me the erm thing .
+*CLA:	Where's the margarine?.
+*HEL:	It's in here, it's melted, you've just watched it melt.
+*AMY:	 (        ) .
+*HEL:	Can you get me the flan tin down there  (.) 
+*NON:	 (        ) . (        ) .
+*HEL:	Yes thank you.
+*CLA:	Do you want the bigger one?
+*HEL:	No that one will do   (.)  (        ) .
+*HEL:	Yeah and it causes me more washing up which I've only just finished.
+*AMY:	Why do you have to turn to the other side, why can't you have it up the middle. (        ) .
+*HEL:	Pardon.
+*AMY:	Why haven't you got it on the  (        ) .
+*HEL:	Well, then I'll boil that side won't I? with all the cuts, right, mix that round if you like.
+*CLA:	Yeah.
+*HEL:	Now don't spill it every where.
+*AMY:	 (        ) after her.
+*HEL:	I don't think you can both stir it at the same time.
+*CLA:	Amy. (        ) .
+*HEL:	Oh come on, you can't both stir it, I'm going to get very cross, I'm too tired for this.
+*AMY:	 (        ) .
+*HEL:	Now let Clare stir it for a bit and then let Amy have a turn, but don't slop it every where, or else you won't have a.
 @End

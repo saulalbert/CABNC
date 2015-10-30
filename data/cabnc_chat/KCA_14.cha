@@ -1,63 +1,63 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-01-13:  
-@Location:	  Dawns' house  
-@Situation:	  Wallpapering and painting   
-@Media:	021A-C0897X0542XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	GOR Gordon self, DEB Debbie wife, SEA Sean son
 @Options:	CA
-@ID:	eng|AudioBNC|GOR|32;|||||unemployed||PS0DL|
-@ID:	eng|AudioBNC|DEB|29;|||||housewife|wife|PS0DM|
-@ID:	eng|AudioBNC|SEA|6;|||||student (state primary)|son|PS0DT|
+@ID: eng|AudioBNC|GOR|~32;| |m|Ag2| |unemployed||PS0DL|
+@ID: eng|AudioBNC|DEB|~29;| |f|Ag2| |housewife|wife|PS0DM|
+@ID: eng|AudioBNC|SEA|~6;| |m|Ag0| |student (state primary)|son|PS0DT|
+@Media: 021A-C0897X0542XX-ABZZP0.wav, audio 		
+@Date:	1992-01-13:  
+@Situation:	  Wallpapering and painting  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  Dawns' house  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0542XX-ABZZP0.wav
 @Comment:	conversation #19 (Tape 054207)
-*UNK:	You could have sat on this then! 
-*GOR:	No Sean. 
-*GOR:	Yeah I'm coming  out now. 
-*GOR:	 I was  watch him how to do it. 
-*SEA:	You could stand on that. I dunno how to  put   
-*GOR:	 You'd  break it if you stand on that wouldn't you? 
-*DEB:	Why don't you go and put it on the table love, over there. 
-*SEA:	There? 
-*DEB:	You want tea Gordon, yeah? 
-*DEB:	 And  you won't get it   (  )  on here. 
-*GOR:	 I'll have  a cup please, aye. 
-*DEB:	Ah! 
-*SEA:	Mm. Will mine 
-*GOR:	Ma, do you want him to do that down here love? 
-*DEB:	Ah, he's taking it all up. (  )  
-*GOR:	How many's there? How many down there? 
-*DEB:	Three fellers. It's not many. 
-*SEA:	Three! Three's a lot! 
-*GOR:	Kirsty don't like her dummy no more now! 
-*DEB:	She don't. No. She told me that last week! 
-*GOR:	Good girly, Kirst! 
-*SEA:	 Is this  three? One, two, three. 
-*DEB:	Good boy! 
-*SEA:	A stray 'copter. Brrr!  Brrr! 
-*DEB:	  (  )  
-*DEB:	I like that! 
-*GOR:	What's that er   (.) over there? Is that it? 
-*GOR:	Where? No, that's  Sean and Kirsty's. 
-*DEB:	 I mean in the    (.) they didn't  really like that. 
-*GOR:	 Took it back up  didn't they? 
-*GOR:	Oh cos 
-*DEB:	Wherever they are. 
-*DEB:	Down there? Are you? 
-*DEB:	Oh I got it! 
-*GOR:	See Manchester United won again yesterday. 
-*DEB:	 Did they? 
-*SEA:	 Yeah! 
-*DEB:	Go back up to  
-*GOR:	One nil against Everton. 
-*GOR:	Liverpool won too. 
-*GOR:	Two one  they did weren't they? 
-*DEB:	  (  )  I said it's three. 
-*SEA:	Here's a big one. 
-*DEB:	The game's off. 
-*GOR:	And Pontypool beat Swansea! 
-*DEB:	Better be good. Eh? 
+*UNK:	You could have sat on this then!
+*GOR:	No Sean.
+*GOR:	Yeah I'm coming out now.
+*GOR:	I was watch him how to do it.
+*SEA:	You could stand on that.I dunno how to put 
+*GOR:	You'd break it if you stand on that wouldn't you?
+*DEB:	Why don't you go and put it on the table love, over there.
+*SEA:	There?
+*DEB:	You want tea Gordon, yeah?
+*DEB:	And you won't get it   (        ) on here.
+*GOR:	I'll have a cup please, aye.
+*DEB:	Ah!
+*SEA:	Mm.Will mine
+*GOR:	Ma, do you want him to do that down here love?
+*DEB:	Ah, he's taking it all up. (        ) 
+*GOR:	How many's there?How many down there?
+*DEB:	Three fellers.It's not many.
+*SEA:	Three!Three's a lot!
+*GOR:	Kirsty don't like her dummy no more now!
+*DEB:	She don't.No.She told me that last week!
+*GOR:	Good girly, Kirst!
+*SEA:	Is this three?One, two, three.
+*DEB:	Good boy!
+*SEA:	A stray 'copter.Brrr!Brrr!
+*DEB:	 (        ) 
+*DEB:	I like that!
+*GOR:	What's that er   (.) over there?Is that it?
+*GOR:	Where?No, that's Sean and Kirsty's.
+*DEB:	I mean in the   (.) they didn't really like that.
+*GOR:	Took it back up didn't they?
+*GOR:	Oh cos
+*DEB:	Wherever they are.
+*DEB:	Down there?Are you?
+*DEB:	Oh I got it!
+*GOR:	See Manchester United won again yesterday.
+*DEB:	Did they?
+*SEA:	Yeah!
+*DEB:	Go back up to 
+*GOR:	One nil against Everton.
+*GOR:	Liverpool won too.
+*GOR:	Two one they did weren't they?
+*DEB:	 (        ) I said it's three.
+*SEA:	Here's a big one.
+*DEB:	The game's off.
+*GOR:	And Pontypool beat Swansea!
+*DEB:	Better be good.Eh?
 @End

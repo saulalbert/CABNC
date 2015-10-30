@@ -1,27 +1,27 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 Home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0022XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, NOR Norrine wife
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Media: 021A-C0897X0022XX-AAZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0022XX-AAZZP0.wav
 @Comment:	conversation #50 (Tape 002217)
-*CHR:	In Belgium, Netherlands and Luxembourg, drivers will have to use dipped headlights in daylight from nineteen ninety two. 
-*NOR:	Where in Luxembourg did you say? 
-*CHR:	 (  ) Belgium, Netherlands, Luxembourg. 
-*NOR:	Head   (.) headlights in daylight. 
-*CHR:	In daylight. It's, it's very normal in Scandinavia, most drivers there use their dipped  headlights in daylight. 
-*NOR:	 Well yes, we all know  they live in the land of the midnight sun  when it's dark all the time. 
-*CHR:	 No, they, they're not talking about that  , not talking about that. 
-*NOR:	Oh you'll be happy darling. 
-*CHR:	Sure. Mind you anybody would think that I sold headlights. 
-*NOR:	Probably do that's why. 
-*CHR:	Ah yes, that's right, I'm not going to tell you about it. 
+*CHR:	In Belgium, Netherlands and Luxembourg, drivers will have to use dipped headlights in daylight from nineteen ninety two.
+*NOR:	Where in Luxembourg did you say?
+*CHR:	 (        ) Belgium, Netherlands, Luxembourg.
+*NOR:	Head  (.) headlights in daylight.
+*CHR:	In daylight.It's, it's very normal in Scandinavia, most drivers there use their dipped headlights in daylight.
+*NOR:	Well yes, we all know they live in the land of the midnight sun when it's dark all the time.
+*CHR:	No, they, they're not talking about that , not talking about that.
+*NOR:	Oh you'll be happy darling.
+*CHR:	Sure.Mind you anybody would think that I sold headlights.
+*NOR:	Probably do that's why.
+*CHR:	Ah yes, that's right, I'm not going to tell you about it.
 @End

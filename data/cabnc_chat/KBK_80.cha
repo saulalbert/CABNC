@@ -1,40 +1,40 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 Home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0023XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, NOR Norrine wife, LYN Lynda colleague
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
-@ID:	eng|AudioBNC|LYN|44;|||||export assistant|colleague|PS102|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@ID: eng|AudioBNC|LYN|~44;| |f|Ag3| |export assistant|colleague|PS102|
+@Media: 021A-C0897X0023XX-AAZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0023XX-AAZZP0.wav
 @Comment:	conversation #80 (Tape 002314)
-*CHR:	They used Marsting that's quite   (  )  yes, yes. 
-*LYN:	  (  )  
-*CHR:	 (  ) tell me, didn't even ask me why I wanted to know. ((noseblow)) 
-*LYN:	Looking at this  (  ) . 
-*CHR:	Very wise of him, you taking the dog? 
-*NOR:	Yes. 
-*CHR:	Right, I'll come with you if I may. 
-*NOR:	Oh great. Erm going  (  ) . 
-*CHR:	Yes I had a feeling you might have done, we j   (.) we probably sent it and   (  ) bamboozle him. 
-*NOR:	Yes. We, that, which by the way is laboratory  (  ) . 
-*CHR:	Ah. 
-*NOR:	But it, I think it's   (  ) just about it. I think it  (  ) . 
-*CHR:	Really, yes, yes. 
-*NOR:	 (  ) 
-*CHR:	Ha, ha, ha. 
-*NOR:	But eh, (  ) . 
-*CHR:	Yes. 
-*NOR:	Anyhow I see what Richard comes up with, but I, I think it might be worth saying what about the  (  ) . 
-*CHR:	Yes, I think that's fair enough, let's get on with it and clear into out of the system anyway shall we? 
-*NOR:	Got a bubble in it. 
-*CHR:	Yes it has, it has   (6.0) Right well I hope you have a pleasant weekend. 
-*NOR:	You do too. 
-*CHR:	Yeah, we don't have any huge, oh of course I'm croqueting aren't I? Croquet, croquet. 
+*CHR:	They used Marsting that's quite   (        ) yes, yes.
+*LYN:	 (        ) 
+*CHR:	 (        ) tell me, didn't even ask me why I wanted to know. ((noseblow))
+*LYN:	Looking at this  (        ) .
+*CHR:	Very wise of him, you taking the dog?
+*NOR:	Yes.
+*CHR:	Right, I'll come with you if I may.
+*NOR:	Oh great.Erm going  (        ) .
+*CHR:	Yes I had a feeling you might have done, we j  (.) we probably sent it and   (        ) bamboozle him.
+*NOR:	Yes.We, that, which by the way is laboratory  (        ) .
+*CHR:	Ah.
+*NOR:	But it, I think it's   (        ) just about it.I think it  (        ) .
+*CHR:	Really, yes, yes.
+*NOR:	 (        ) 
+*CHR:	Ha, ha, ha.
+*NOR:	But eh, (        ) .
+*CHR:	Yes.
+*NOR:	Anyhow I see what Richard comes up with, but I, I think it might be worth saying what about the  (        ) .
+*CHR:	Yes, I think that's fair enough, let's get on with it and clear into out of the system anyway shall we?
+*NOR:	Got a bubble in it.
+*CHR:	Yes it has, it has   (.) Right well I hope you have a pleasant weekend.
+*NOR:	You do too.
+*CHR:	Yeah, we don't have any huge, oh of course I'm croqueting aren't I?Croquet, croquet.
 @End

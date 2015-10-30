@@ -1,23 +1,23 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0052XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, UNK Unknown Unknown None ?
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6ST|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6ST|
+@Media: 021A-C0897X0052XX-ABZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0052XX-ABZZP0.wav
 @Comment:	conversation #89 (Tape 005216)
-*HEL:	Oh it's quite pretty. That's about right cos you wouldn't want a big pattern in a room this size would you? 
-*NON:	No. 
-*HEL:	 ((cough)) . I tell you what, eh you wouldn't get any. 
-*NON:	 (  ) twenty. 
-*HEL:	Yes   (5.0) Steven's not having a particularly good week for his holidays is he? 
-*NON:	No he isn't. (  ) . 
-*HEL:	Yeah. I wouldn't be at all impressed with it. 
+*HEL:	Oh it's quite pretty.That's about right cos you wouldn't want a big pattern in a room this size would you?
+*NON:	No.
+*HEL:	 ((cough)) .I tell you what, eh you wouldn't get any.
+*NON:	 (        ) twenty.
+*HEL:	Yes   (.) Steven's not having a particularly good week for his holidays is he?
+*NON:	No he isn't. (        ) .
+*HEL:	Yeah.I wouldn't be at all impressed with it.
 @End

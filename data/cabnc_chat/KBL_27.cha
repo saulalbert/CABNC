@@ -1,21 +1,21 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-02-23:  
-@Location:	 at home 
-@Situation:	 breakfast  
-@Media:	021A-C0897X0405XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHE Cherrilyn self, BRI Brian husband
 @Options:	CA
-@ID:	eng|AudioBNC|CHE|43;|||||nursing auxiliary||PS06A|
-@ID:	eng|AudioBNC|BRI|43;|||||mortgage broker|husband|PS06F|
+@ID: eng|AudioBNC|CHE|~43;| |f|Ag3| |nursing auxiliary||PS06A|
+@ID: eng|AudioBNC|BRI|~43;| |m|Ag3| |mortgage broker|husband|PS06F|
+@Media: 021A-C0897X0405XX-ABZZP0.wav, audio 		
+@Date:	1992-02-23:  
+@Situation:	 breakfast 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 at home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0405XX-ABZZP0.wav
 @Comment:	conversation #27 (Tape 040512)
-*CHE:	Oh that's Jack's towel. 
-*BRI:	Oh! 
-*CHE:	He takes it out into the   (  ) so I put it out 
-*BRI:	Mm, yeah. 
-*CHE:	so he can't get up onto the   (44.0) There's a hole in Matt's stuff! 
+*CHE:	Oh that's Jack's towel.
+*BRI:	Oh!
+*CHE:	He takes it out into the   (        ) so I put it out
+*BRI:	Mm, yeah.
+*CHE:	so he can't get up onto the   (.) There's a hole in Matt's stuff!
 @End

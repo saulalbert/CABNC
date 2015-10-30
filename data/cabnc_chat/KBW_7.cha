@@ -1,432 +1,432 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-03-14:  
-@Location:	  home  
-@Situation:	  eating lunch   
-@Media:	021A-C0897X0222XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , DOR Dorothy self, TIM Tim son, CHR Christopher son, AND Andrew husband
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
-@ID:	eng|AudioBNC|DOR|34;|||||teacher (pt)||PS087|
-@ID:	eng|AudioBNC|TIM|3;|||||student (private pre)|son|PS088|
-@ID:	eng|AudioBNC|CHR|5;|||||student (state primary)|son|PS089|
-@ID:	eng|AudioBNC|AND|36;|||||purchasing manager|husband|PS08A|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|AudioBNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
+@ID: eng|AudioBNC|TIM|~3;| |m|Ag0| |student (private pre)|son|PS088|
+@ID: eng|AudioBNC|CHR|~5;| |m|Ag0| |student (state primary)|son|PS089|
+@ID: eng|AudioBNC|AND|~36;| |m|Ag3| |purchasing manager|husband|PS08A|
+@Media: 021A-C0897X0222XX-AAZZP0.wav, audio 		
+@Date:	1992-03-14:  
+@Situation:	  eating lunch  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0222XX-AAZZP0.wav
 @Comment:	conversation #7 (Tape 022201)
-*DOR:	I don't mind burnt toast.  (.) Adds to the flavour.  (.) Mm. Me mum and dad seem to have had trouble with their toaster don't they? Judging by their letter. 
-*AND:	Did you see their toaster?  What make   
-*DOR:	 Mm. 
-*AND:	was it? I don't remember  seeing it. 
-*DOR:	 It was a  new one. (.)  
-*AND:	 (  ) they had it. 
-*DOR:	Where they had it? 
-*AND:	No, ((laughing)) why they had it . 
-*DOR:	 ((laughing)) Why they had it . ((laugh))  
-*TIM:	Mum. 
-*DOR:	Well we had it in the evening. You know when I used to have my 
-*AND:	Oh yes  (  ) . 
-*DOR:	toast and marmalade and 
-*AND:	Was that nice? (  )  
-*DOR:	But that was where the trouble was because it didn't toast properly. Because you turned it up to number five   (.) and it was pale. And turn it down to  number one   (.) and it   (  )  . 
-*TIM:	  (  ) have any of that. (  )  
-*DOR:	I haven't had either. 
-*AND:	Right. What do you want on yours? 
-*UNK:	Erm 
-*DOR:	They're planning on taking it back  so   (  )   
-*GRO:	  (  )  
-*AND:	It's the cheese we've been having at work this week    (  )   
-*TIM:	 Mum, help. 
-*CHR:	 (  ) 
-*AND:	It's called dutch. 
-*CHR:	I've been having it? 
-*AND:	You've been having some of that, yeah. 
-*CHR:	Mm it's nice.  (  ) have that bit dad. 
-*AND:	Yeah. The trouble is this has   (.) erm   (.) crusts, sort of rind on it, that's all. Do you want a piece? (.)  
-*DOR:	It's called Edam. 
-*AND:	It's a bit different from  (  )  
-*DOR:	We don't usually have Edam do we? 
-*CHR:	Did I have it with my Marmite? 
-*AND:	Yes, you've had it with your Marmite. That much? Is that alright? 
-*TIM:	I want a bit of it.  (.) With my bread. 
-*DOR:	He's got cream cheese on there dear. 
-*AND:	Right. (.)  
-*CHR:	I like it better with Marmite.  (.) Can I have Marmite and cheese please?  (.) Mum I need some   (  ) not just a  (  ) . Cos that won't   (  ) very good.  (  ) I need three more    (  )   (  )   
-*TIM:	 Fold it over. 
-*AND:	 (  ) 
-*TIM:	 You   
-*CHR:	 What? (.)  
-*TIM:	 (  )  (.) Mum I finished my bit. (.)  (  )  
+*DOR:	I don't mind burnt toast. (.) Adds to the flavour. (.) Mm.Me mum and dad seem to have had trouble with their toaster don't they?Judging by their letter.
+*AND:	Did you see their toaster?What make 
+*DOR:	Mm.
+*AND:	was it?I don't remember seeing it.
+*DOR:	It was a new one. (.) 
+*AND:	 (        ) they had it.
+*DOR:	Where they had it?
+*AND:	No, [laughing] why they had it  [] .
+*DOR:	 [laughing] Why they had it  [] . ((laugh)) 
+*TIM:	Mum.
+*DOR:	Well we had it in the evening.You know when I used to have my
+*AND:	Oh yes  (        ) .
+*DOR:	toast and marmalade and
+*AND:	Was that nice? (        ) 
+*DOR:	But that was where the trouble was because it didn't toast properly.Because you turned it up to number five   (.) and it was pale.And turn it down to number one   (.) and it   (        ) .
+*TIM:	 (        ) have any of that. (        ) 
+*DOR:	I haven't had either.
+*AND:	Right.What do you want on yours?
+*UNK:	Erm
+*DOR:	They're planning on taking it back so   (        ) 
+*GRO:	 (        ) 
+*AND:	It's the cheese we've been having at work this week   (        ) 
+*TIM:	Mum, help.
+*CHR:	 (        ) 
+*AND:	It's called dutch.
+*CHR:	I've been having it?
+*AND:	You've been having some of that, yeah.
+*CHR:	Mm it's nice. (        ) have that bit dad.
+*AND:	Yeah.The trouble is this has   (.) erm   (.) crusts, sort of rind on it, that's all.Do you want a piece? (.) 
+*DOR:	It's called Edam.
+*AND:	It's a bit different from  (        ) 
+*DOR:	We don't usually have Edam do we?
+*CHR:	Did I have it with my Marmite?
+*AND:	Yes, you've had it with your Marmite.That much?Is that alright?
+*TIM:	I want a bit of it. (.) With my bread.
+*DOR:	He's got cream cheese on there dear.
+*AND:	Right. (.) 
+*CHR:	I like it better with Marmite. (.) Can I have Marmite and cheese please? (.) Mum I need some   (        ) not just a  (        ) .Cos that won't   (        ) very good. (        ) I need three more    (        )  (        ) 
+*TIM:	Fold it over.
+*AND:	 (        ) 
+*TIM:	You 
+*CHR:	What? (.) 
+*TIM:	 (        )  (.) Mum I finished my bit. (.)  (        ) 
 *DOR:	 ((laugh)) 
-*CHR:	Oh! 
-*TIM:	I can't do it.  (.) Why is there not very much left in? 
-*CHR:	Because I had it all when we had breakfast.  (.) Anyway, we've had it  a lot haven't we? 
-*AND:	  (  )  
-*CHR:	We've had Marmite a lot. I had it   (.) for my dinner at school a lot actually. 
-*AND:	Mm. Mm. (.)  (  )  
-*CHR:	Dad   (  )  (.)  
-*DOR:	Right, what's on the agenda for this afternoon then? 
-*AND:	 (  ) 
-*CHR:	Dad, it's not all over. 
-*TIM:	What's that? 
-*AND:	 (  ) 
+*CHR:	Oh!
+*TIM:	I can't do it. (.) Why is there not very much left in?
+*CHR:	Because I had it all when we had breakfast. (.) Anyway, we've had it a lot haven't we?
+*AND:	 (        ) 
+*CHR:	We've had Marmite a lot.I had it   (.) for my dinner at school a lot actually.
+*AND:	Mm.Mm. (.)  (        ) 
+*CHR:	Dad   (        )  (.) 
+*DOR:	Right, what's on the agenda for this afternoon then?
+*AND:	 (        ) 
+*CHR:	Dad, it's not all over.
+*TIM:	What's that?
+*AND:	 (        ) 
 *DOR:	 ((laugh)) 
-*TIM:	What's that? 
-*AND:	 (  ) 
-*TIM:	Mum, what's that? (.)  
-*DOR:	It looks like a sandwich going up and down to me. 
-*TIM:	No.  (.) It's a   (.) lid.  (.) It's a lid. 
-*DOR:	Oh. (.)  
-*AND:	What about you?  (.) A rest I suppose. 
-*DOR:	I dunno really. My body feels inactive, but my mind feels   (.) fed up, (  ) . 
-*AND:	 (  )  (.)  (  ) this week. (  )   
-*CHR:	 Dad, I like the cheese better than the Marmite. (.)  
-*AND:	That's why I like Saturday's and 
-*DOR:	Potter about. (.)  
-*AND:	Do the garden or   (.) walking or whatever it is.  (.) Something very different. (.)  
-*TIM:	Why did you toast   (  ) bread? (  ) toast. 
-*AND:	No, there won't be any more now. (.)  (  )  (.)  
-*DOR:	And that dozen in our garden can't decide   (.) which way to face.  (.) Have you noticed?  ((laugh))  (.) Cos in the morning they get the sun from that direction, then they don't see the sun again for a bit and then it turns up suddenly from over there. They don't know whether to face over there or over there. 
-*CHR:	Mum. 
-*DOR:	Hello. 
-*CHR:	What   (.) and then we had a lot of biscuits. 
-*DOR:	Did you? 
-*CHR:	Why? 
-*DOR:	I don't know why. (.)  
-*CHR:	 (  ) talking about Monday. 
-*DOR:	 Monday? (  ) questions. 
-*TIM:	 I know what it is. 
-*CHR:	What? 
-*DOR:	Questions on Monday. 
-*TIM:	I know what it is. (.)  
-*AND:	What is it? 
-*TIM:	Oranges. 
-*AND:	You're right. It is oranges. They've been sitting there for over a week    (  )   
-*TIM:	  (  )  I just see the orange. (  )  
-*DOR:	Well they were meant to go in a chicken but it never happened. 
-*TIM:	It's oranges, I guessed it. (.)  
-*CHR:	 I knew   (  )   
-*DOR:	 I was going to do chicken a l'orange. 
-*AND:	  (  )  
-*CHR:	 It's my turn. (.)  
-*DOR:	But you weren't here so  I thought ooh, blow this for a lark. ((laugh))   
-*CHR:	 I can see   (.) black. 
-*AND:	Oh. Sorry for that. 
-*CHR:	No I don't know what that is. 
-*TIM:	Red. 
-*CHR:	Yes. 
-*TIM:	 ((laugh)) And that's black. 
-*CHR:	Red. ((laugh))  
-*TIM:	I I guessed the oranges. 
-*AND:	That's right. Half each. 
-*DOR:	Mm.  Good idea. 
-*CHR:	 No, one each.  One each. 
-*DOR:	One each? 
-*AND:	No.  Too big. 
-*DOR:	 They're huge. (.)  
-*AND:	 (  )  (  ) 
-*DOR:	We'll be having half each. 
-*TIM:	Half! 
-*DOR:	Mm.  (.) Because they're rather large.  (.) Do you want to peel them? 
-*AND:	If you peel one I'll peel the other. 
-*DOR:	Okay. 
-*TIM:	If   (.) if you   (.) peel that one 
-*DOR:	Mm? 
-*TIM:	that's my friend mummy. 
-*DOR:	 ((laugh)) Your friend am I? That's nice. 
-*TIM:	 (  ) 
-*AND:	Am I a friend too? (  )   
-*DOR:	 We're all  friendly together. 
-*TIM:	 I'm I'm  mummy's friend and daddy's friend and    (  )   
-*AND:	 That's nice  isn't it? (  ) friends. 
-*DOR:	 Oh that's   (  )  friendly family. 
-*TIM:	All friendly. 
-*CHR:	Do you like everyone as well mum? 
-*DOR:	I do like  everyone, yes. I like everybody very much   (  )   
-*TIM:	 If   (.) if mummy do that one   
-*AND:	Well I'll do one and mummy does the other one. 
-*TIM:	Yeah. 
-*AND:	And you can   (.) share it up. 
-*TIM:	And you share it up. 
-*AND:	Yes. 
-*TIM:	They both have  (  ) . Oh, (  ) me. 
+*TIM:	What's that?
+*AND:	 (        ) 
+*TIM:	Mum, what's that? (.) 
+*DOR:	It looks like a sandwich going up and down to me.
+*TIM:	No. (.) It's a   (.) lid. (.) It's a lid.
+*DOR:	Oh. (.) 
+*AND:	What about you? (.) A rest I suppose.
+*DOR:	I dunno really.My body feels inactive, but my mind feels   (.) fed up, (        ) .
+*AND:	 (        )  (.)  (        ) this week. (        ) 
+*CHR:	Dad, I like the cheese better than the Marmite. (.) 
+*AND:	That's why I like Saturday's and
+*DOR:	Potter about. (.) 
+*AND:	Do the garden or   (.) walking or whatever it is. (.) Something very different. (.) 
+*TIM:	Why did you toast   (        ) bread? (        ) toast.
+*AND:	No, there won't be any more now. (.)  (        )  (.) 
+*DOR:	And that dozen in our garden can't decide   (.) which way to face. (.) Have you noticed? ((laugh))  (.) Cos in the morning they get the sun from that direction, then they don't see the sun again for a bit and then it turns up suddenly from over there.They don't know whether to face over there or over there.
+*CHR:	Mum.
+*DOR:	Hello.
+*CHR:	What   (.) and then we had a lot of biscuits.
+*DOR:	Did you?
+*CHR:	Why?
+*DOR:	I don't know why. (.) 
+*CHR:	 (        ) talking about Monday.
+*DOR:	Monday? (        ) questions.
+*TIM:	I know what it is.
+*CHR:	What?
+*DOR:	Questions on Monday.
+*TIM:	I know what it is. (.) 
+*AND:	What is it?
+*TIM:	Oranges.
+*AND:	You're right.It is oranges.They've been sitting there for over a week   (        ) 
+*TIM:	 (        ) I just see the orange. (        ) 
+*DOR:	Well they were meant to go in a chicken but it never happened.
+*TIM:	It's oranges, I guessed it. (.) 
+*CHR:	I knew   (        ) 
+*DOR:	I was going to do chicken a l'orange.
+*AND:	 (        ) 
+*CHR:	It's my turn. (.) 
+*DOR:	But you weren't here so I thought ooh, blow this for a lark. ((laugh)) 
+*CHR:	I can see   (.) black.
+*AND:	Oh.Sorry for that.
+*CHR:	No I don't know what that is.
+*TIM:	Red.
+*CHR:	Yes.
+*TIM:	 ((laugh)) And that's black.
+*CHR:	Red. ((laugh)) 
+*TIM:	I I guessed the oranges.
+*AND:	That's right.Half each.
+*DOR:	Mm.Good idea.
+*CHR:	No, one each.One each.
+*DOR:	One each?
+*AND:	No.Too big.
+*DOR:	They're huge. (.) 
+*AND:	 (        )  (        ) 
+*DOR:	We'll be having half each.
+*TIM:	Half!
+*DOR:	Mm. (.) Because they're rather large. (.) Do you want to peel them?
+*AND:	If you peel one I'll peel the other.
+*DOR:	Okay.
+*TIM:	If   (.) if you   (.) peel that one
+*DOR:	Mm?
+*TIM:	that's my friend mummy.
+*DOR:	 ((laugh)) Your friend am I?That's nice.
+*TIM:	 (        ) 
+*AND:	Am I a friend too? (        ) 
+*DOR:	We're all friendly together.
+*TIM:	I'm I'm mummy's friend and daddy's friend and   (        ) 
+*AND:	That's nice isn't it? (        ) friends.
+*DOR:	Oh that's   (        ) friendly family.
+*TIM:	All friendly.
+*CHR:	Do you like everyone as well mum?
+*DOR:	I do like everyone, yes.I like everybody very much   (        ) 
+*TIM:	If   (.) if mummy do that one 
+*AND:	Well I'll do one and mummy does the other one.
+*TIM:	Yeah.
+*AND:	And you can   (.) share it up.
+*TIM:	And you share it up.
+*AND:	Yes.
+*TIM:	They both have  (        ) .Oh, (        ) me.
 *GRO:	 ((laugh)) 
-*GRO:	 (  ) 
-*CHR:	Tim, put your hands over your eyes. 
-*TIM:	No. 
-*DOR:	Those satsumas we had or whatever they were   (.) clementines were   (.) they were quite nice for tea all this week.  Have you had one? 
-*AND:	  (  ) very difficult to peel.  One day I had them and they were full of pips. 
-*DOR:	Oh. 
-*AND:	Did you have that problem? 
-*DOR:	Oh no we've never had that problem. 
-*AND:	Mm.  Have you   
-*CHR:	 I've had  that problem. 
-*AND:	With lots of pips in? Mm. 
-*DOR:	Did you have one at school with lots of pips in? 
-*AND:	Mm. Sorry about that. 
-*DOR:	Oh. 
-*AND:	You just couldn't tell from the outside. 
-*DOR:	Beg your pardon. 
-*AND:	I had that problem once. 
-*CHR:	I kept looking in mine when I   (.) when I had it once I thought ooh. And now I'm going to have a look in my orange before I eat it. 
-*DOR:	 ((laugh)) Very wise. 
-*AND:	So I don't know whether this one will have pips in it, so be careful. 
-*TIM:	Daddy. 
-*DOR:	I would think the oranges will have pips in won't they?  Usually do. 
-*AND:	 Oh they  usually do. 
-*TIM:	I think these have pips in. 
-*DOR:	Mm. Orange pips are slightly bigger than satsuma pips so you can see them. (.)  
-*CHR:	Yeah but sat   (.) the satsuma pip was really big. 
-*AND:	They were quite big. 
-*CHR:	Actually I got it in my mouth. 
-*AND:	Did you? 
-*DOR:	 ((laugh)) That's alright. You spit it out again did you? 
-*CHR:	Yeah.  (.) Mum what's that hard thing? 
-*TIM:	 (  ) half. 
-*CHR:	 (  ) everybody was eating  (.)  
-*DOR:	Do other people get satsumas at school? 
-*TIM:	 (  ) half please. 
-*CHR:	 No. 
-*DOR:	 Yeah.  No?  (.) What do they have? 
-*CHR:	Half. 
-*AND:	Sorry. (.)  
-*CHR:	Dad   (.) give them  into little bits. 
-*DOR:	 Just check there's no pips  Tim. 
-*AND:	Yeah. 
-*CHR:	And I'll check mine. 
-*AND:	You're checking yours are you? 
-*CHR:	I'll check mine myself.  (.) All I do is look in the    (  )   
-*TIM:	 I think there's no  pips in mine. 
-*DOR:	Just as well innit? Seeing's you've eaten it.  (.)  Whoops careful. 
-*AND:	 Slow down a bit. 
-*DOR:	Just go slowly Tim. 
-*AND:	Yes. 
-*DOR:	Cos they're big slices, it's not like satsumas. 
-*AND:	 Chew them properly. 
-*TIM:	 (  )  (.)  (  ) Daddy. 
-*AND:	Yes. 
-*TIM:	You   (.) you do this. 
-*AND:	Mm. (.)  
-*TIM:	You you you do this    (  )  (.) you you suck  (  )  
-*AND:	No I'm not suck it I just eat it. 
-*TIM:	 I rescued you   (  )   
-*CHR:	 Mrs   and  Mrs   and Mrs   don't cut them properly. 
-*DOR:	Don't they? 
-*CHR:	If I had an orange mum 
-*DOR:	Mhm. 
-*CHR:	and they cut it all that  (  )  
-*DOR:	They leave the skin on?  (.) You don't have to eat the skin, surely? 
-*CHR:	No, but all they do, they leave the orange in the skin. 
-*AND:	Oh I see, they don't peel it. 
-*DOR:	And you have to suck it out? Oh.  (.) That's probably cos it would take them too long to   (.)  peel everybody's oranges wouldn't it? 
-*CHR:	 There's no skin on yours. (.)  
-*TIM:	I think this one's got pips in. 
-*DOR:	Oh. 
-*TIM:	 (  ) 
-*AND:	They're nice aren't they? 
-*GRO:	Mm. 
-*DOR:	Do you have Mrs   and Mrs   then with your class? (.) mm   (.) just Mrs  . 
-*CHR:	No. (.)  (  )  
-*DOR:	Mm. 
-*CHR:	What we do 
-*DOR:	Mm. 
-*CHR:	is we go to another class 
-*DOR:	Mm. 
-*CHR:	and we    (  )   
-*TIM:	  (  )  
-*DOR:	Ah I see, right. So two classes come together and you all, each have a dinner lady? And yours is Mrs  . Theirs is Mrs  .  (.) Got it now. 
-*TIM:	It's got a pip in. 
-*DOR:	Mm. Well put it that bit then in there. 
-*CHR:	Mum, none of mine had pips in. (.)  
-*DOR:	And mine  (  ) . Nice taste  (  ) . 
-*AND:	Very nice. 
-*CHR:	Mum. 
-*AND:	It's nicer than a satsuma really. 
-*DOR:	It is.  (.) Got more faff  (.)  
-*CHR:	What else is there? 
-*DOR:	What else is there? 
-*CHR:	Mm. 
+*GRO:	 (        ) 
+*CHR:	Tim, put your hands over your eyes.
+*TIM:	No.
+*DOR:	Those satsumas we had or whatever they were   (.) clementines were   (.) they were quite nice for tea all this week.Have you had one?
+*AND:	 (        ) very difficult to peel.One day I had them and they were full of pips.
+*DOR:	Oh.
+*AND:	Did you have that problem?
+*DOR:	Oh no we've never had that problem.
+*AND:	Mm.Have you 
+*CHR:	I've had that problem.
+*AND:	With lots of pips in?Mm.
+*DOR:	Did you have one at school with lots of pips in?
+*AND:	Mm.Sorry about that.
+*DOR:	Oh.
+*AND:	You just couldn't tell from the outside.
+*DOR:	Beg your pardon.
+*AND:	I had that problem once.
+*CHR:	I kept looking in mine when I   (.) when I had it once I thought ooh.And now I'm going to have a look in my orange before I eat it.
+*DOR:	 ((laugh)) Very wise.
+*AND:	So I don't know whether this one will have pips in it, so be careful.
+*TIM:	Daddy.
+*DOR:	I would think the oranges will have pips in won't they?Usually do.
+*AND:	Oh they usually do.
+*TIM:	I think these have pips in.
+*DOR:	Mm.Orange pips are slightly bigger than satsuma pips so you can see them. (.) 
+*CHR:	Yeah but sat  (.) the satsuma pip was really big.
+*AND:	They were quite big.
+*CHR:	Actually I got it in my mouth.
+*AND:	Did you?
+*DOR:	 ((laugh)) That's alright.You spit it out again did you?
+*CHR:	Yeah. (.) Mum what's that hard thing?
+*TIM:	 (        ) half.
+*CHR:	 (        ) everybody was eating  (.) 
+*DOR:	Do other people get satsumas at school?
+*TIM:	 (        ) half please.
+*CHR:	No.
+*DOR:	Yeah.No? (.) What do they have?
+*CHR:	Half.
+*AND:	Sorry. (.) 
+*CHR:	Dad   (.) give them into little bits.
+*DOR:	Just check there's no pips Tim.
+*AND:	Yeah.
+*CHR:	And I'll check mine.
+*AND:	You're checking yours are you?
+*CHR:	I'll check mine myself. (.) All I do is look in the   (        ) 
+*TIM:	I think there's no pips in mine.
+*DOR:	Just as well innit?Seeing's you've eaten it. (.) Whoops careful.
+*AND:	Slow down a bit.
+*DOR:	Just go slowly Tim.
+*AND:	Yes.
+*DOR:	Cos they're big slices, it's not like satsumas.
+*AND:	Chew them properly.
+*TIM:	 (        )  (.)  (        ) Daddy.
+*AND:	Yes.
+*TIM:	You   (.) you do this.
+*AND:	Mm. (.) 
+*TIM:	You you you do this    (        )  (.) you you suck  (        ) 
+*AND:	No I'm not suck it I just eat it.
+*TIM:	I rescued you   (        ) 
+*CHR:	Mrs  and Mrs  and Mrs  don't cut them properly.
+*DOR:	Don't they?
+*CHR:	If I had an orange mum
+*DOR:	Mhm.
+*CHR:	and they cut it all that  (        ) 
+*DOR:	They leave the skin on? (.) You don't have to eat the skin, surely?
+*CHR:	No, but all they do, they leave the orange in the skin.
+*AND:	Oh I see, they don't peel it.
+*DOR:	And you have to suck it out?Oh. (.) That's probably cos it would take them too long to   (.) peel everybody's oranges wouldn't it?
+*CHR:	There's no skin on yours. (.) 
+*TIM:	I think this one's got pips in.
+*DOR:	Oh.
+*TIM:	 (        ) 
+*AND:	They're nice aren't they?
+*GRO:	Mm.
+*DOR:	Do you have Mrs  and Mrs  then with your class? (.) mm   (.) just Mrs .
+*CHR:	No. (.)  (        ) 
+*DOR:	Mm.
+*CHR:	What we do
+*DOR:	Mm.
+*CHR:	is we go to another class
+*DOR:	Mm.
+*CHR:	and we   (        ) 
+*TIM:	 (        ) 
+*DOR:	Ah I see, right.So two classes come together and you all, each have a dinner lady?And yours is Mrs .Theirs is Mrs . (.) Got it now.
+*TIM:	It's got a pip in.
+*DOR:	Mm.Well put it that bit then in there.
+*CHR:	Mum, none of mine had pips in. (.) 
+*DOR:	And mine  (        ) .Nice taste  (        ) .
+*AND:	Very nice.
+*CHR:	Mum.
+*AND:	It's nicer than a satsuma really.
+*DOR:	It is. (.) Got more faff  (.) 
+*CHR:	What else is there?
+*DOR:	What else is there?
+*CHR:	Mm.
 *DOR:	 ((laugh)) 
-*AND:	I'll have a look and see what else there is. 
-*DOR:	You might find some biscuits in the biscuit tin. 
-*CHR:	Is it biscuits again? 
-*DOR:	Oh. See what daddy finds. (.)  
-*DOR:	 Mum   (  ) I didn't like   (  ) did I? I didn't have a home made one because I had a very funny tummy didn't I? But I haven't had one once and it tasted really nice. 
-*TIM:	 Oh what we gonna have? What we gonna have? Er what we going to have mum? What we gonna have dad? 
-*DOR:	Cloth by the sound of the water. 
-*CHR:	What? 
-*DOR:	We're going to have a cloth by the sound of the water. 
-*TIM:	I think I  (  ) . 
-*AND:	Yeah I think daddy's just erm making sure we haven't got such sticky fingers after our oranges I think. Then we'll have a biscuit. (.)  
-*GRO:	 (  ) 
-*DOR:	Can you pass me a cup please? (  )  
-*GRO:	 (  ) 
-*CHR:	 (  ) I want to wash my hands first cos  (  ) . 
-*GRO:	 (  )  (  ) 
-*CHR:	I'll have the next round. Tim you haven't washed your hands yet. 
-*TIM:	I have. 
-*CHR:	When? 
-*TIM:	Now. 
-*CHR:	Then daddy 
-*DOR:	Thank you. 
-*AND:	Yes? 
-*CHR:	You can keep this if you like. 
-*AND:	Right, thank you. 
-*CHR:	You can have it if you want. (.)  
-*AND:	 (  ) I've already washed my hands. 
-*CHR:	Oh. 
-*AND:	 (  )  (.) 
-*DOR:	Where's he going? Toilet? 
-*AND:	 (  )  (.) 
-*DOR:	He's only had three drinks. (  )  (.)  
-*TIM:	 (  ) 
-*DOR:	You definitely pay the penalty don't you, for leaving your children?  ((laugh)) Cos other people say you don't do things your way.  (.) It must be a problem if people sort of leave their children in nurseries all the time cos   (.) it's nice for a short time but   (.) for a long long time   (.) they're just not yours are they any more?  (.) Yeah.  (.) It seems a pity but it's not for very long. 
-*AND:	He's been chucked out a lot recently hasn't he? 
-*DOR:	He has yeah. That's why I'm feeling as if I ought to stay in tonight really.  (.) What do you think?  (.) Think I'm just chickening out? 
-*AND:	I think it's a bit of both. 
-*DOR:	I am chickening out cos I don't feel as if I've   (.) learnt an awful lot. 
-*AND:	Yeah. 
-*DOR:	Well do you want to chicken out?  (.) Instead. 
-*AND:	I think I ought to go. 
-*DOR:	Why? (.)  
-*AND:	I ought to go. 
-*DOR:	Why? (.)  
-*TIM:	 (  ) 
-*DOR:	You've said you'll go. Just because you've said you'll go or because you think  (  ) ? 
-*AND:	I think    (  )   
-*TIM:	  (  )  
-*AND:	 (  ) possibly. Even though I have heard it all before. 
-*DOR:	And do you think I ought to go then?  (.) Well I mean  there might well be something   
-*AND:	 I don't mind.  Well there might be. But  I can understand   
-*DOR:	 gripping and  of interest but at the same time   (.)  my priorities at this moment   
-*AND:	  (  )  
-*TIM:	 (  ) got a pip in.  (.) It's gone now. 
-*DOR:	It doesn't seem very fair. 
-*AND:	Fair on who? 
-*DOR:	Him. 
-*TIM:	Oh here. (.)  
-*DOR:	You alright? Oh it's here it's wet. I wondered what that was there. Must be the oranges do you think? (  ) tipped out of your  (  ) . (.)  
-*AND:	Considering everything put together like   (.) your tiredness   (.) your children 
-*DOR:	Mm. 
-*AND:	not a tremendous amount new   (  ) just to get there    (  )  (.)  (  )  
-*TIM:	Oh! (.)  
-*DOR:	It is with this one. I haven't seen him for two days. 
-*AND:	  (  )  
-*CHR:	  (  )  
-*DOR:	I might feel differently by five o'clock mind you. (.)  
-*AND:	But you ought to let Dawn know  (  ) . 
-*DOR:	That's true. 
-*TIM:	I get   (  ) a biscuit. (.)  
-*AND:	No more biscuits cos you've had 
-*DOR:	You've had six million biscuits already. 
-*AND:	three this morning. 
-*TIM:	One two three 
-*AND:	Did you? 
-*TIM:	four. 
-*AND:	You've had four now, (  ) . 
-*TIM:	Cos cos I've just had that one. 
-*AND:	That's right. 
-*TIM:	That's a plain one. 
-*AND:	That's right. 
-*TIM:	That's a chocolate one and another chocolate 
-*AND:	 ((laughing)) Chocolate . 
-*TIM:	and then I have another  (  ) . 
-*DOR:	Good gracious. 
-*AND:	You'll go pop. Did you have that many as well? Did you? 
-*DOR:	What is Rosemary thinking of? 
-*AND:	 (  ) 
-*TIM:	I'm gonna tell Rosemary I had a  biscuit at home. 
-*DOR:	 And I'll be telling Rosemary  what I think of her biscuit trips. 
-*CHR:	And yesterday we had a treat. 
-*DOR:	Why, what happened yesterday? 
-*CHR:	Because   (.) that girl came. 
-*DOR:	Oh yes, she gave you a lolly didn't she? And your teeth will be dropping out. 
-*CHR:	A lolly? 
-*DOR:	Mm. Wasn't that what it was? 
-*TIM:	Lolly? 
-*CHR:	What lolly? 
-*DOR:	Didn't you get a l  a chewy lolly or something on a stick? 
-*CHR:	Mm? 
-*DOR:	From that girl that he's had. (.)  
-*AND:	At school?  The one   
-*DOR:	 Wasn't that  what you came home with? 
-*AND:	Is that what you mean? This treat    (  )   
-*DOR:	 No? What  treat? Was there another one then? 
-*CHR:	Yeah. 
-*AND:	Yesterday at school this student girl, not the one at school? 
-*CHR:	 No. You know that girl came? 
-*TIM:	  (  )  I want to  watch the telly. 
-*DOR:	 Oh, Ellie. 
-*CHR:	Yeah. 
-*AND:	You want to watch the telly? 
-*TIM:	I want to watch  video. Video please. 
-*DOR:	 Well she didn't give you anything to eat. 
-*CHR:	She gave   (.) no she gave us a drink  what was   
-*AND:	 Right. I expect  you can watch a bit of video. A little bit. 
-*CHR:	I had 
-*DOR:	She gave you a drink did she   (.) before you went to bed?  (.) Oh. 
-*TIM:	Atchoo  
-*AND:	Oh. 
-*DOR:	No wonder they were soaked of a night. Yeah, go on. (.)  
-*CHR:	Nothing. I had to have a bit because when I put the blackcurrant in there wasn't enough so I had to mix it up with  (  ) . 
-*DOR:	Oh. We've run short of blackcurrant. 
-*AND:	We haven't got much. 
-*CHR:	No we've not got any now. 
-*AND:	But we've got some lemonade and things like that  (  ) . (.)  
-*DOR:	Thank you   (.) mister tom tom player. (.)  
-*CHR:	I've found a drum. 
-*DOR:	You know when these people came to school and played instruments, how many of them were there? 
-*CHR:	Erm let me count. (.)  
-*DOR:	Hard work. 
-*TIM:	Can you see me? 
-*DOR:	No not quite. (.)  
-*TIM:	There. 
-*DOR:	No, cheeks there. There's loads on your cheeks.  I don't know what it is. 
-*CHR:	 Eight. 
-*DOR:	Eight. A lot of them then? 
-*CHR:	Yeah, all    (  )   
-*TIM:	  (  )  
-*DOR:	Gosh. 
-*CHR:	Right let me have another 
-*DOR:	Eight people came? Oh goodness. I didn't realize that many. I thought it would be just two or three people.  (.) Right that cheek's fine. Now try the other cheek Tim. 
-*CHR:	Two violins    (.)   (  )   
-*TIM:	 Mummy that's done. 
-*DOR:	A cello. 
-*CHR:	Yeah. One cello.  One, two violins one cello   
-*TIM:	  ((shouting)) Mummy  Mum . (  )   
-*CHR:	 er   (.) then   
-*DOR:	No, bit more. 
-*CHR:	two things of them and I don't know what they are. That's one two  three four   
-*DOR:	 Clarinet? 
-*TIM:	There. 
-*CHR:	 (  )  one   
-*TIM:	  (  )  
-*DOR:	Bit more.  (.) Erm here. (.)  
-*CHR:	Seven. There's seven. There's that many mum. 
-*DOR:	Oh right. Was anybody on a drum? Or anything like that?  A little you know. 
-*TIM:	 I'm gonna  play the drum. I'm gonna play the drum. 
-*DOR:	Listen you're not even tidied up yet. Come round here and I'll sort that cheek out for you   (.) cos you've still missed it.  (.) Scrub it hard. No, you're still missing it. Bit further nearer your ea  that's it. Go on now try, no   (.) too far back. That's it, try there. 
-*CHR:	  ((banging)) 
-*DOR:	Better. What are your hands like?  (.) Okay. Can you take your bib off then? (.)  
-*TIM:	Er you please.  (.) No I'm playing. I'm gonna go somewhere    (  )   
-*CHR:	 No I had it first. 
-*DOR:	Can you take that in the kitchen please cos it is biscuits, actually. 
-*CHR:	And it could break. 
-*DOR:	Correct. 
-*TIM:	No it couldn't. 
-*DOR:	Timothy! Timothy, that is not a drum, that is a biscuit barrel. Please take it in the kitchen. Thank you. 
-*GRO:	 (  ) 
-*TIM:	Can I have paper please? Can I have paper? 
-*DOR:	What sort of paper? 
-*TIM:	Paper. 
-*DOR:	What for? 
-*TIM:	Just to write Tim on. 
-*DOR:	To draw on? 
-*TIM:	Mm. 
-*DOR:	I'll see what we can find. 
-*TIM:	With felt tip. 
-*DOR:	With felt tip? I think you're gonna get the felt tip on your hands. 
+*AND:	I'll have a look and see what else there is.
+*DOR:	You might find some biscuits in the biscuit tin.
+*CHR:	Is it biscuits again?
+*DOR:	Oh.See what daddy finds. (.) 
+*DOR:	Mum   (        ) I didn't like   (        ) did I?I didn't have a home made one because I had a very funny tummy didn't I?But I haven't had one once and it tasted really nice.
+*TIM:	Oh what we gonna have?What we gonna have?Er what we going to have mum?What we gonna have dad?
+*DOR:	Cloth by the sound of the water.
+*CHR:	What?
+*DOR:	We're going to have a cloth by the sound of the water.
+*TIM:	I think I  (        ) .
+*AND:	Yeah I think daddy's just erm making sure we haven't got such sticky fingers after our oranges I think.Then we'll have a biscuit. (.) 
+*GRO:	 (        ) 
+*DOR:	Can you pass me a cup please? (        ) 
+*GRO:	 (        ) 
+*CHR:	 (        ) I want to wash my hands first cos  (        ) .
+*GRO:	 (        )  (        ) 
+*CHR:	I'll have the next round.Tim you haven't washed your hands yet.
+*TIM:	I have.
+*CHR:	When?
+*TIM:	Now.
+*CHR:	Then daddy
+*DOR:	Thank you.
+*AND:	Yes?
+*CHR:	You can keep this if you like.
+*AND:	Right, thank you.
+*CHR:	You can have it if you want. (.) 
+*AND:	 (        ) I've already washed my hands.
+*CHR:	Oh.
+*AND:	 (        )  (.) 
+*DOR:	Where's he going?Toilet?
+*AND:	 (        )  (.) 
+*DOR:	He's only had three drinks. (        )  (.) 
+*TIM:	 (        ) 
+*DOR:	You definitely pay the penalty don't you, for leaving your children? ((laugh)) Cos other people say you don't do things your way. (.) It must be a problem if people sort of leave their children in nurseries all the time cos   (.) it's nice for a short time but   (.) for a long long time   (.) they're just not yours are they any more? (.) Yeah. (.) It seems a pity but it's not for very long.
+*AND:	He's been chucked out a lot recently hasn't he?
+*DOR:	He has yeah.That's why I'm feeling as if I ought to stay in tonight really. (.) What do you think? (.) Think I'm just chickening out?
+*AND:	I think it's a bit of both.
+*DOR:	I am chickening out cos I don't feel as if I've   (.) learnt an awful lot.
+*AND:	Yeah.
+*DOR:	Well do you want to chicken out? (.) Instead.
+*AND:	I think I ought to go.
+*DOR:	Why? (.) 
+*AND:	I ought to go.
+*DOR:	Why? (.) 
+*TIM:	 (        ) 
+*DOR:	You've said you'll go.Just because you've said you'll go or because you think  (        ) ?
+*AND:	I think   (        ) 
+*TIM:	 (        ) 
+*AND:	 (        ) possibly.Even though I have heard it all before.
+*DOR:	And do you think I ought to go then? (.) Well I mean there might well be something 
+*AND:	I don't mind.Well there might be.But I can understand 
+*DOR:	gripping and of interest but at the same time   (.) my priorities at this moment 
+*AND:	 (        ) 
+*TIM:	 (        ) got a pip in. (.) It's gone now.
+*DOR:	It doesn't seem very fair.
+*AND:	Fair on who?
+*DOR:	Him.
+*TIM:	Oh here. (.) 
+*DOR:	You alright?Oh it's here it's wet.I wondered what that was there.Must be the oranges do you think? (        ) tipped out of your  (        ) . (.) 
+*AND:	Considering everything put together like   (.) your tiredness   (.) your children
+*DOR:	Mm.
+*AND:	not a tremendous amount new   (        ) just to get there    (        )  (.)  (        ) 
+*TIM:	Oh! (.) 
+*DOR:	It is with this one.I haven't seen him for two days.
+*AND:	 (        ) 
+*CHR:	 (        ) 
+*DOR:	I might feel differently by five o'clock mind you. (.) 
+*AND:	But you ought to let Dawn know  (        ) .
+*DOR:	That's true.
+*TIM:	I get   (        ) a biscuit. (.) 
+*AND:	No more biscuits cos you've had
+*DOR:	You've had six million biscuits already.
+*AND:	three this morning.
+*TIM:	One two three
+*AND:	Did you?
+*TIM:	four.
+*AND:	You've had four now, (        ) .
+*TIM:	Cos cos I've just had that one.
+*AND:	That's right.
+*TIM:	That's a plain one.
+*AND:	That's right.
+*TIM:	That's a chocolate one and another chocolate
+*AND:	 [laughing] Chocolate  [] .
+*TIM:	and then I have another  (        ) .
+*DOR:	Good gracious.
+*AND:	You'll go pop.Did you have that many as well?Did you?
+*DOR:	What is Rosemary thinking of?
+*AND:	 (        ) 
+*TIM:	I'm gonna tell Rosemary I had a biscuit at home.
+*DOR:	And I'll be telling Rosemary what I think of her biscuit trips.
+*CHR:	And yesterday we had a treat.
+*DOR:	Why, what happened yesterday?
+*CHR:	Because   (.) that girl came.
+*DOR:	Oh yes, she gave you a lolly didn't she?And your teeth will be dropping out.
+*CHR:	A lolly?
+*DOR:	Mm.Wasn't that what it was?
+*TIM:	Lolly?
+*CHR:	What lolly?
+*DOR:	Didn't you get a l a chewy lolly or something on a stick?
+*CHR:	Mm?
+*DOR:	From that girl that he's had. (.) 
+*AND:	At school?The one 
+*DOR:	Wasn't that what you came home with?
+*AND:	Is that what you mean?This treat   (        ) 
+*DOR:	No?What treat?Was there another one then?
+*CHR:	Yeah.
+*AND:	Yesterday at school this student girl, not the one at school?
+*CHR:	No.You know that girl came?
+*TIM:	 (        ) I want to watch the telly.
+*DOR:	Oh, Ellie.
+*CHR:	Yeah.
+*AND:	You want to watch the telly?
+*TIM:	I want to watch video.Video please.
+*DOR:	Well she didn't give you anything to eat.
+*CHR:	She gave   (.) no she gave us a drink what was 
+*AND:	Right.I expect you can watch a bit of video.A little bit.
+*CHR:	I had
+*DOR:	She gave you a drink did she   (.) before you went to bed? (.) Oh.
+*TIM:	Atchoo 
+*AND:	Oh.
+*DOR:	No wonder they were soaked of a night.Yeah, go on. (.) 
+*CHR:	Nothing.I had to have a bit because when I put the blackcurrant in there wasn't enough so I had to mix it up with  (        ) .
+*DOR:	Oh.We've run short of blackcurrant.
+*AND:	We haven't got much.
+*CHR:	No we've not got any now.
+*AND:	But we've got some lemonade and things like that  (        ) . (.) 
+*DOR:	Thank you   (.) mister tom tom player. (.) 
+*CHR:	I've found a drum.
+*DOR:	You know when these people came to school and played instruments, how many of them were there?
+*CHR:	Erm let me count. (.) 
+*DOR:	Hard work.
+*TIM:	Can you see me?
+*DOR:	No not quite. (.) 
+*TIM:	There.
+*DOR:	No, cheeks there.There's loads on your cheeks.I don't know what it is.
+*CHR:	Eight.
+*DOR:	Eight.A lot of them then?
+*CHR:	Yeah, all   (        ) 
+*TIM:	 (        ) 
+*DOR:	Gosh.
+*CHR:	Right let me have another
+*DOR:	Eight people came?Oh goodness.I didn't realize that many.I thought it would be just two or three people. (.) Right that cheek's fine.Now try the other cheek Tim.
+*CHR:	Two violins    (.)  (        ) 
+*TIM:	Mummy that's done.
+*DOR:	A cello.
+*CHR:	Yeah.One cello.One, two violins one cello 
+*TIM:	 [shouting] Mummy Mum  [] . (        ) 
+*CHR:	er   (.) then 
+*DOR:	No, bit more.
+*CHR:	two things of them and I don't know what they are.That's one two three four 
+*DOR:	Clarinet?
+*TIM:	There.
+*CHR:	 (        ) one 
+*TIM:	 (        ) 
+*DOR:	Bit more. (.) Erm here. (.) 
+*CHR:	Seven.There's seven.There's that many mum.
+*DOR:	Oh right.Was anybody on a drum?Or anything like that?A little you know.
+*TIM:	I'm gonna play the drum.I'm gonna play the drum.
+*DOR:	Listen you're not even tidied up yet.Come round here and I'll sort that cheek out for you   (.) cos you've still missed it. (.) Scrub it hard.No, you're still missing it.Bit further nearer your ea that's it.Go on now try, no   (.) too far back.That's it, try there.
+*CHR:	 ((banging))
+*DOR:	Better.What are your hands like? (.) Okay.Can you take your bib off then? (.) 
+*TIM:	Er you please. (.) No I'm playing.I'm gonna go somewhere   (        ) 
+*CHR:	No I had it first.
+*DOR:	Can you take that in the kitchen please cos it is biscuits, actually.
+*CHR:	And it could break.
+*DOR:	Correct.
+*TIM:	No it couldn't.
+*DOR:	Timothy!Timothy, that is not a drum, that is a biscuit barrel.Please take it in the kitchen.Thank you.
+*GRO:	 (        ) 
+*TIM:	Can I have paper please?Can I have paper?
+*DOR:	What sort of paper?
+*TIM:	Paper.
+*DOR:	What for?
+*TIM:	Just to write Tim on.
+*DOR:	To draw on?
+*TIM:	Mm.
+*DOR:	I'll see what we can find.
+*TIM:	With felt tip.
+*DOR:	With felt tip?I think you're gonna get the felt tip on your hands.
 @End

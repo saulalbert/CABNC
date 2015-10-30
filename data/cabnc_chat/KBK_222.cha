@@ -1,63 +1,63 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 Car 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0030XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, NOR Norrine wife
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Media: 021A-C0897X0030XX-AAZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Car 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0030XX-AAZZP0.wav
 @Comment:	conversation #223 (Tape 003006)
-*NOR:	Have you had the accounts from John?  (.) From the office. 
-*CHR:	No not yet, it was started on Tuesday this week   (.) they have the books for ten days or something before they started on them. 
-*NOR:	How long do they take to do them? 
-*CHR:	Oh well I've had certain queries already  and   
-*NOR:	 so they're  working on them? 
-*CHR:	and the basis, basics would have been by the end of next week but certain, assuming that they are not interrupted and sort of dragged onto something more lucrative   (10.0) the bad news will have been quantified by then. 
-*NOR:	Well we can't have a bad year presumably it means you don't pay tax. 
-*CHR:	Mhm that's right. 
-*NOR:	Which can't be a bad thing. 
-*CHR:	Sure. 
-*NOR:	Or are you paying for a year in a  in arrears? 
-*CHR:	Oh you, in in in essence you do but even so it's a   (.)  you   
-*NOR:	  As long as you're pa  not paying in your bad for your good year. 
-*CHR:	Oh that, oh that happens too. 
-*NOR:	Is that likely to happen this year then   (.) paying for last year? 
-*CHR:	That's right. 
-*NOR:	And the year before so you will have to pay tax. 
-*CHR:	Something like that  yes. 
-*NOR:	 Or  or for bad year. 
-*CHR:	That's right yes. 
-*NOR:	But do you offset it, I mean can you? 
-*CHR:	You what s  normally happens is that the following year when you make profit you say ah but last year   (.) I made er you know I made a loss of ten thousand pound set that off against the profit of ten thousand pound I made this year so that tax pay   (.) losses can be carried forward   (.) there are other more complex ways of doing it too but that's the standard sort of way, I think. 
-*NOR:	But it's the year that you haven't, but yo  the year before that you haven't yet paid for   (.) you have to pay for it in the year that it you don't make any profit. 
-*CHR:	Yes   (.) you normally pay for it in the following year. 
-*NOR:	Yeah, so that's a bit of a disadvantage. 
-*CHR:	Because yet pulled together the figures for last year. 
-*NOR:	Sure. 
-*CHR:	Sure, I I had fork out corporation tax a few months ago for the previous good year. 
-*NOR:	Yes. ((car indicator)) 
-*CHR:	John   got a bit shirty about the ten pound or something, he reckoned his wife had didn't he? ((laugh))  
-*NOR:	 (  ) to pay his bill, no doubt. 
-*CHR:	 (  ) 
-*NOR:	I don't think she'll be very pleased would she? 
-*CHR:	 (  ) 
-*NOR:	 (  ) 
-*CHR:	That's not the point! 
-*NOR:	She's enjoying herself, we met her at John's house    (  )  (10.0) I felt nervous this morning for sleeping home late although in fact I have been awake quite a lot in between, but 
-*CHR:	Mm 
-*NOR:	it was only ten to eight and I got up because I thought I was getting late for work and I'd better get moving. 
-*CHR:	Was she walking in? 
-*NOR:	No, they went on the bus this morning. 
-*CHR:	Ah. 
-*NOR:	She caught the twenty to nine bus. 
-*CHR:	She might just about made it then   (.) because she certainly seemed to be a bit late on the move. 
-*NOR:	She was alright, I made her something to eat. 
-*CHR:	Mm, (  )   
-*NOR:	 she said  she wanted her jeans ironed and I er pressed them and then when I she came downstairs in her black trousers and  (  )  
+*NOR:	Have you had the accounts from John? (.) From the office.
+*CHR:	No not yet, it was started on Tuesday this week   (.) they have the books for ten days or something before they started on them.
+*NOR:	How long do they take to do them?
+*CHR:	Oh well I've had certain queries already and 
+*NOR:	so they're working on them?
+*CHR:	and the basis, basics would have been by the end of next week but certain, assuming that they are not interrupted and sort of dragged onto something more lucrative   (.) the bad news will have been quantified by then.
+*NOR:	Well we can't have a bad year presumably it means you don't pay tax.
+*CHR:	Mhm that's right.
+*NOR:	Which can't be a bad thing.
+*CHR:	Sure.
+*NOR:	Or are you paying for a year in a in arrears?
+*CHR:	Oh you, in in in essence you do but even so it's a   (.) you 
+*NOR:	As long as you're pa not paying in your bad for your good year.
+*CHR:	Oh that, oh that happens too.
+*NOR:	Is that likely to happen this year then   (.) paying for last year?
+*CHR:	That's right.
+*NOR:	And the year before so you will have to pay tax.
+*CHR:	Something like that yes.
+*NOR:	Or or for bad year.
+*CHR:	That's right yes.
+*NOR:	But do you offset it, I mean can you?
+*CHR:	You what s normally happens is that the following year when you make profit you say ah but last year   (.) I made er you know I made a loss of ten thousand pound set that off against the profit of ten thousand pound I made this year so that tax pay   (.) losses can be carried forward   (.) there are other more complex ways of doing it too but that's the standard sort of way, I think.
+*NOR:	But it's the year that you haven't, but yo the year before that you haven't yet paid for   (.) you have to pay for it in the year that it you don't make any profit.
+*CHR:	Yes   (.) you normally pay for it in the following year.
+*NOR:	Yeah, so that's a bit of a disadvantage.
+*CHR:	Because yet pulled together the figures for last year.
+*NOR:	Sure.
+*CHR:	Sure, I I had fork out corporation tax a few months ago for the previous good year.
+*NOR:	Yes. ((car indicator))
+*CHR:	John  got a bit shirty about the ten pound or something, he reckoned his wife had didn't he? ((laugh)) 
+*NOR:	 (        ) to pay his bill, no doubt.
+*CHR:	 (        ) 
+*NOR:	I don't think she'll be very pleased would she?
+*CHR:	 (        ) 
+*NOR:	 (        ) 
+*CHR:	That's not the point!
+*NOR:	She's enjoying herself, we met her at John's house    (        )  (.) I felt nervous this morning for sleeping home late although in fact I have been awake quite a lot in between, but
+*CHR:	Mm
+*NOR:	it was only ten to eight and I got up because I thought I was getting late for work and I'd better get moving.
+*CHR:	Was she walking in?
+*NOR:	No, they went on the bus this morning.
+*CHR:	Ah.
+*NOR:	She caught the twenty to nine bus.
+*CHR:	She might just about made it then   (.) because she certainly seemed to be a bit late on the move.
+*NOR:	She was alright, I made her something to eat.
+*CHR:	Mm, (        ) 
+*NOR:	she said she wanted her jeans ironed and I er pressed them and then when I she came downstairs in her black trousers and  (        ) 
 @End

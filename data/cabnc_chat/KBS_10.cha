@@ -1,38 +1,38 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	unknown date:  
-@Location:	  at home  
-@Situation:	  chores and meals   
-@Media:	021A-C0897X0549XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	DAD Dad self, MUM Mum wife, DOR Dorreen housekeeper
 @Options:	CA
-@ID:	eng|AudioBNC|DAD|79;|||||retired||PS079|
-@ID:	eng|AudioBNC|MUM|81;|||||retired|wife|PS07A|
-@ID:	eng|AudioBNC|DOR|50;|||||housekeeper|housekeeper|PS07B|
+@ID: eng|AudioBNC|DAD|~79;| |m|Ag5| |retired||PS079|
+@ID: eng|AudioBNC|MUM|~81;| |f|Ag5| |retired|wife|PS07A|
+@ID: eng|AudioBNC|DOR|~50;| |f|Ag4| |housekeeper|housekeeper|PS07B|
+@Media: 021A-C0897X0549XX-AAZZP0.wav, audio 		
+@Date:	unknown date:  
+@Situation:	  chores and meals  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  at home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0549XX-AAZZP0.wav
 @Comment:	conversation #10 (Tape 054904)
-*MUM:	I wish I could find out why this iron   (.) a bell rings in this   ((laughing)) iron . 
-*DOR:	Doesn't it say on the  (.)  
-*MUM:	I haven't found any, I must look for the instructions, I   
-*DOR:	 the  instructions. It probably   (.) I should, well, I should think  it would say on them. 
-*MUM:	 I should think it's  when it gets to the r  the required   (.)  heat or something. 
-*DOR:	  ((cough)) I would  I would think so. (13.0)  
-*MUM:	Oh no these didn't go pink. 
-*DOR:	No they haven't have they? (.)  
-*MUM:	So I dunno.  (.) It's just that interlock stuff I suppose, it's  so sort of  
-*DOR:	 Mm.   (7.0) Did the tea towel go pink? 
-*MUM:	I don't know, I'll go and fetch that    (  )   
-*DOR:	 Oh you  you haven't done it, that bit. 
-*MUM:	No I put, put that on the radiator there   (.) with his shirt. (10.0)  
-*DOR:	 ((laughing)) Just   ((laugh)) I'm just making sure you don't catch it  I know you're very careful. 
-*MUM:	You don't always think though. 
-*DOR:	No. (.)  
-*DAD:	Got to find some blotting paper. (20.0)  
-*MUM:	No this hasn't gone pink, or the shirt. 
-*DOR:	Oh. 
-*MUM:	It's just the   (.)  just that thick stuff, yeah. 
-*DOR:	 As you say about the interlock. (.)  
+*MUM:	I wish I could find out why this iron   (.) a bell rings in this   [laughing] iron  [] .
+*DOR:	Doesn't it say on the  (.) 
+*MUM:	I haven't found any, I must look for the instructions, I 
+*DOR:	the instructions.It probably   (.) I should, well, I should think it would say on them.
+*MUM:	I should think it's when it gets to the r the required   (.) heat or something.
+*DOR:	 ((cough)) I would I would think so. (.) 
+*MUM:	Oh no these didn't go pink.
+*DOR:	No they haven't have they? (.) 
+*MUM:	So I dunno. (.) It's just that interlock stuff I suppose, it's so sort of 
+*DOR:	Mm. (.) Did the tea towel go pink?
+*MUM:	I don't know, I'll go and fetch that   (        ) 
+*DOR:	Oh you you haven't done it, that bit.
+*MUM:	No I put, put that on the radiator there   (.) with his shirt. (.) 
+*DOR:	 [laughing] Just   ((laugh)) I'm just making sure you don't catch it   [] I know you're very careful.
+*MUM:	You don't always think though.
+*DOR:	No. (.) 
+*DAD:	Got to find some blotting paper. (.) 
+*MUM:	No this hasn't gone pink, or the shirt.
+*DOR:	Oh.
+*MUM:	It's just the   (.) just that thick stuff, yeah.
+*DOR:	As you say about the interlock. (.) 
 @End

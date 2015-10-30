@@ -1,37 +1,38 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-01-31:    having a cup of tea   
-@Media:	021A-C0897X0610XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , ALE Alec self, JOY Joyce wife
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
-@ID:	eng|AudioBNC|ALE|68;|||||retired||PS01T|
-@ID:	eng|AudioBNC|JOY|63;|||||retired|wife|PS01V|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|AudioBNC|ALE|~68;| |m|Ag5| |retired||PS01T|
+@ID: eng|AudioBNC|JOY|~63;| |f|Ag5| |retired|wife|PS01V|
+@Media: 021A-C0897X0610XX-ABZZP0.wav, audio 		
+@Date:	1992-01-31:  
+@Situation:	  having a cup of tea  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0610XX-ABZZP0.wav
 @Comment:	conversation #3 (Tape 061003)
-*JOY:	Ain't it? It's so easy to keep clean that and that it only wants wiping over, you know.  (.) No we ain't spent much on bedroom have we? (.)  
-*ALE:	No  ((clears throat))  
-*JOY:	Not if you want to buy some melamine and get some of that in that thirty five pound stuff put insides   (.) you can't do it now anyway you're no good standing you can't. (.)  
-*ALE:	 ((cough))  (8.0) 
-*JOY:	What do you sound like on the er thingummybob Alec? 
-*ALE:	Do what love? 
-*JOY:	What you sound like 
-*ALE:	 What? 
-*JOY:	 on it? 
-*ALE:	I've no idea 
-*JOY:	You go, is it on? 
-*ALE:	Yeah I've put it on to record yeah 
-*JOY:	Put it to record have you? 
-*ALE:	Yeah, oh where's that? 
-*JOY:	Mm 
-*GRO:	 (  ) 
-*JOY:	oh have you? (.)  
-*GRO:	 (  )  (.) 
-*JOY:	Would you like a 
-*GRO:	 (  ) 
-*ALE:	yeah  (7.0)  
-*JOY:	If I'd known this cake were gonna go so quick I wouldn't of fro  froze that other one. 
+*JOY:	Ain't it?It's so easy to keep clean that and that it only wants wiping over, you know. (.) No we ain't spent much on bedroom have we? (.) 
+*ALE:	No  ((clears throat)) 
+*JOY:	Not if you want to buy some melamine and get some of that in that thirty five pound stuff put insides   (.) you can't do it now anyway you're no good standing you can't. (.) 
+*ALE:	 ((cough))  (.) 
+*JOY:	What do you sound like on the er thingummybob Alec?
+*ALE:	Do what love?
+*JOY:	What you sound like
+*ALE:	What?
+*JOY:	on it?
+*ALE:	I've no idea
+*JOY:	You go, is it on?
+*ALE:	Yeah I've put it on to record yeah
+*JOY:	Put it to record have you?
+*ALE:	Yeah, oh where's that?
+*JOY:	Mm
+*GRO:	 (        ) 
+*JOY:	oh have you? (.) 
+*GRO:	 (        )  (.) 
+*JOY:	Would you like a
+*GRO:	 (        ) 
+*ALE:	yeah  (.) 
+*JOY:	If I'd known this cake were gonna go so quick I wouldn't of fro froze that other one.
 @End

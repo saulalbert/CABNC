@@ -1,25 +1,25 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 home office 
-@Situation:	 work  
-@Media:	021A-C0897X0021XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, LYN Lynda colleague
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|LYN|44;|||||export assistant|colleague|PS102|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|LYN|~44;| |f|Ag3| |export assistant|colleague|PS102|
+@Media: 021A-C0897X0021XX-ABZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	 work 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home office 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0021XX-ABZZP0.wav
 @Comment:	conversation #29 (Tape 002127)
-*LYN:	That there looks familiar in with the  (  ) . 
-*CHR:	Was in where? 
-*LYN:	It was in a  (  ) . 
-*CHR:	Has that got it's own file still? 
-*LYN:	Yes. 
-*CHR:	Good heavens. It's rather a long time isn't it? 
-*LYN:	 (  ) . 
-*CHR:	Well a, yes, of course were clear out the file drawer, but then  with got to find somewhere else to put the blessed stuff haven't we  ? 
-*LYN:	  (  )  . 
+*LYN:	That there looks familiar in with the  (        ) .
+*CHR:	Was in where?
+*LYN:	It was in a  (        ) .
+*CHR:	Has that got it's own file still?
+*LYN:	Yes.
+*CHR:	Good heavens.It's rather a long time isn't it?
+*LYN:	 (        ) .
+*CHR:	Well a, yes, of course were clear out the file drawer, but then with got to find somewhere else to put the blessed stuff haven't we ?
+*LYN:	 (        ) .
 @End

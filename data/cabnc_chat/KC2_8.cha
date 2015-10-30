@@ -1,354 +1,355 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-03-18:    visiting daughter   
-@Media:	021A-C0897X0262XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , FRE Fred self, CLI Clive son-in-law, MAR Marjorie daughter, GEM Gemma granddaughter
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
-@ID:	eng|AudioBNC|FRE|77;|||||retired||PS09T|
-@ID:	eng|AudioBNC|CLI|32;|||||unemployed|son-in-law|PS09W|
-@ID:	eng|AudioBNC|MAR|36;|||||housewife|daughter|PS09X|
-@ID:	eng|AudioBNC|GEM|11;|||||student|granddaughter|PS09Y|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|AudioBNC|FRE|~77;| |m|Ag5| |retired||PS09T|
+@ID: eng|AudioBNC|CLI|~32;| |m|Ag2| |unemployed|son-in-law|PS09W|
+@ID: eng|AudioBNC|MAR|~36;| |f|Ag3| |housewife|daughter|PS09X|
+@ID: eng|AudioBNC|GEM|~11;| |f|Ag0| |student|granddaughter|PS09Y|
+@Media: 021A-C0897X0262XX-ABZZP0.wav, audio 		
+@Date:	1992-03-18:  
+@Situation:	  visiting daughter  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0262XX-ABZZP0.wav
 @Comment:	conversation #8 (Tape 026201)
-*MAR:	Have you got any homework? 
-*GEM:	Yeah 
-*UNK:	 (  ) 
-*MAR:	Have yeah, what you got then? 
-*GEM:	Question, only one question 
-*MAR:	One question? 
-*GEM:	Yep   (.) he sh  , shouldn't of given it 
-*UNK:	  (  )  
-*CLI:	 That is a lot that is isn't it? 
-*GEM:	 Shouldn't of given any   
-*UNK:	  (  )   (  ) 
-*MAR:	Oh, so you've got nothing else? 
-*GEM:	Mm, mm. 
-*MAR:	Nothing, did you get any homework to do for tomorrow? 
-*GEM:	Mm, mm. 
-*MAR:	Cos 
-*UNK:	 (  ) 
-*GEM:	that bit  (.)  
-*UNK:	 (  ) 
-*MAR:	Come back yet, have they? 
-*GEM:	No 
-*CLI:	Why cos they're 
-*UNK:	 (  ) 
-*MAR:	Yes 
-*GEM:	I'm going to take another one off him I am 
-*CLI:	Can't 
-*UNK:	 (  ) 
-*FRE:	Yeah, it's Julia 
-*UNK:	  (  )  
-*FRE:	 it's Julia  , I said to  Julia   
-*UNK:	  (  )  
-*GEM:	Yeah 
-*MAR:	No, not now I have to take this 
-*UNK:	 (  ) 
-*FRE:	I do a, well I suppose it's twenty eight days like everything else, that's what it is 
-*CLI:	Mark at work he's always a 
-*UNK:	 (  ) 
-*FRE:	Where from? 
-*CLI:	Don't know where they're from 
-*MAR:	What's this you're saying? 
-*UNK:	 (  ) 
-*FRE:	Is that the one with the 
-*UNK:	 (  ) 
-*CLI:	Bigger that that 
-*FRE:	He won't set it out and call it a 
-*UNK:	 (  ) 
-*FRE:	No 
-*MAR:	Right, fine 
-*CLI:	Yeah, I 
-*UNK:	 (  )  (  ) 
-*FRE:	No, no 
-*UNK:	 (  ) 
-*MAR:	No I thought you said 
-*UNK:	 (  ) 
-*CLI:	They lost 
-*UNK:	 (  ) 
-*FRE:	Oh I don't know 
-*MAR:	No, I 
-*UNK:	 (  ) 
-*CLI:	Oh don't worry I'll get it  (.)  
-*UNK:	 (  ) 
-*MAR:	No, I'm alright 
-*CLI:	Yeah I 
-*FRE:	You know I ain't had a look at them yet, I shall have to have a look 
-*MAR:	You don't do it 
-*FRE:	Ah, but they are now, been that one we laid the 
-*UNK:	 (  ) 
-*MAR:	Yeah 
-*FRE:	I think I'll go and have a look this afternoon 
-*UNK:	 (  ) 
-*MAR:	it's the 
-*UNK:	 (  ) 
-*CLI:	yeah 
-*FRE:	the female does as  
-*MAR:	Oh you've got to cut 
-*UNK:	 (  ) 
-*MAR:	brown colour aren't they all over? 
-*FRE:	No they're a light 
-*UNK:	 (  ) 
-*FRE:	a bit nasty as well, but  they're just not big   
-*MAR:	 Oh I thought  they were, oh 
-*UNK:	 (  ) 
-*FRE:	No 
-*FRE:	Who's is this? 
-*CLI:	Paul's big erm 
-*UNK:	 (  ) 
-*FRE:	This afternoon we'll   (.) it says in the instruction, at the end of every third tape change the batteries, so er, we'll take them two out tomorrow 
-*CLI:	Yeah 
-*UNK:	 (  ) 
-*FRE:	and chuck them away 
-*CLI:	right 
-*MAR:	 OK   
-*FRE:	 That's  what she said, she said you'll want a  (.)  
+*MAR:	Have you got any homework?
+*GEM:	Yeah
+*UNK:	 (        ) 
+*MAR:	Have yeah, what you got then?
+*GEM:	Question, only one question
+*MAR:	One question?
+*GEM:	Yep   (.) he sh , shouldn't of given it
+*UNK:	 (        ) 
+*CLI:	That is a lot that is isn't it?
+*GEM:	Shouldn't of given any 
+*UNK:	 (        )  (        ) 
+*MAR:	Oh, so you've got nothing else?
+*GEM:	Mm, mm.
+*MAR:	Nothing, did you get any homework to do for tomorrow?
+*GEM:	Mm, mm.
+*MAR:	Cos
+*UNK:	 (        ) 
+*GEM:	that bit  (.) 
+*UNK:	 (        ) 
+*MAR:	Come back yet, have they?
+*GEM:	No
+*CLI:	Why cos they're
+*UNK:	 (        ) 
+*MAR:	Yes
+*GEM:	I'm going to take another one off him I am
+*CLI:	Can't
+*UNK:	 (        ) 
+*FRE:	Yeah, it's Julia
+*UNK:	 (        ) 
+*FRE:	it's Julia , I said to Julia 
+*UNK:	 (        ) 
+*GEM:	Yeah
+*MAR:	No, not now I have to take this
+*UNK:	 (        ) 
+*FRE:	I do a, well I suppose it's twenty eight days like everything else, that's what it is
+*CLI:	Mark at work he's always a
+*UNK:	 (        ) 
+*FRE:	Where from?
+*CLI:	Don't know where they're from
+*MAR:	What's this you're saying?
+*UNK:	 (        ) 
+*FRE:	Is that the one with the
+*UNK:	 (        ) 
+*CLI:	Bigger that that
+*FRE:	He won't set it out and call it a
+*UNK:	 (        ) 
+*FRE:	No
+*MAR:	Right, fine
+*CLI:	Yeah, I
+*UNK:	 (        )  (        ) 
+*FRE:	No, no
+*UNK:	 (        ) 
+*MAR:	No I thought you said
+*UNK:	 (        ) 
+*CLI:	They lost
+*UNK:	 (        ) 
+*FRE:	Oh I don't know
+*MAR:	No, I
+*UNK:	 (        ) 
+*CLI:	Oh don't worry I'll get it  (.) 
+*UNK:	 (        ) 
+*MAR:	No, I'm alright
+*CLI:	Yeah I
+*FRE:	You know I ain't had a look at them yet, I shall have to have a look
+*MAR:	You don't do it
+*FRE:	Ah, but they are now, been that one we laid the
+*UNK:	 (        ) 
+*MAR:	Yeah
+*FRE:	I think I'll go and have a look this afternoon
+*UNK:	 (        ) 
+*MAR:	it's the
+*UNK:	 (        ) 
+*CLI:	yeah
+*FRE:	the female does as 
+*MAR:	Oh you've got to cut
+*UNK:	 (        ) 
+*MAR:	brown colour aren't they all over?
+*FRE:	No they're a light
+*UNK:	 (        ) 
+*FRE:	a bit nasty as well, but they're just not big 
+*MAR:	Oh I thought they were, oh
+*UNK:	 (        ) 
+*FRE:	No
+*FRE:	Who's is this?
+*CLI:	Paul's big erm
+*UNK:	 (        ) 
+*FRE:	This afternoon we'll   (.) it says in the instruction, at the end of every third tape change the batteries, so er, we'll take them two out tomorrow
+*CLI:	Yeah
+*UNK:	 (        ) 
+*FRE:	and chuck them away
+*CLI:	right
+*MAR:	OK 
+*FRE:	That's what she said, she said you'll want a  (.) 
 *UNK:	 ((laugh)) 
-*FRE:	I think bloody batteries 
-*UNK:	 (  ) 
-*FRE:	So er  ((dog barking)) 
-*UNK:	 (  ) 
-*FRE:	so er, talking for half hour 
+*FRE:	I think bloody batteries
+*UNK:	 (        ) 
+*FRE:	So er  ((dog barking))
+*UNK:	 (        ) 
+*FRE:	so er, talking for half hour
+*CLI:	Yeah
+*FRE:	and er   (.) I thought er, I've been playing about with the old ear for a song for a long time, but I ain't worked the cords out
+*UNK:	 (        ) 
+*FRE:	so, well between the
+*UNK:	 (        ) 
+*FRE:	and er, I was saying to old
+*UNK:	 (        ) 
+*FRE:	and we had a conversation about it
+*UNK:	 (        ) 
+*GEM:	Hello, yo, hi, how you doing
+*MAR:	No, don't do that Gemma that's why, that's why you're not supposed to know
+*UNK:	 (        ) 
+*FRE:	but, and er Dave would
+*UNK:	 (        ) 
+*FRE:	our conversation we had, we were talking
+*UNK:	 (        ) 
 *CLI:	Yeah 
-*FRE:	and er   (.) I thought er, I've been playing about with the old ear for a song for a long time, but I ain't worked the cords out 
-*UNK:	 (  ) 
-*FRE:	so, well between the 
-*UNK:	 (  ) 
-*FRE:	and er, I was saying to old 
-*UNK:	 (  ) 
-*FRE:	and we had a conversation about it 
-*UNK:	 (  ) 
-*GEM:	Hello, yo, hi, how you doing 
-*MAR:	No, don't do that Gemma that's why, that's why you're not supposed to know 
-*UNK:	 (  ) 
-*FRE:	but, and er Dave would 
-*UNK:	 (  ) 
-*FRE:	our conversation we had, we were talking 
-*UNK:	 (  ) 
-*CLI:	 Yeah   
-*UNK:	  (  )  
-*FRE:	and then in the afternoon you come  up didn't you? 
-*CLI:	 That's right  that's correct, yeah. 
-*FRE:	Yeah   (.) and then er   (.) I'm told he works 
-*UNK:	 (  ) 
-*FRE:	 there up there all day and   
-*MAR:	 You can have it on later   
-*UNK:	 (  ) 
-*CLI:	Oh yeah 
-*FRE:	so this is the third of it, so have you got plenty of 
-*UNK:	 (  ) 
-*FRE:	Yeah I will do 
-*FRE:	Well 
-*UNK:	 (  ) 
-*FRE:	on that one 
-*MAR:	OK mate 
-*FRE:	But, I mean 
-*UNK:	 (  ) 
-*FRE:	the ten tapes and 
-*UNK:	 (  ) 
-*FRE:	and er, she said she needn't of left them, but er   (.) only the last batch you got, only if you get twenty tapes 
-*UNK:	 (  ) 
-*FRE:	oh, right oh then, she said it's been done all over the country 
-*MAR:	Oh 
-*UNK:	 (  ) 
-*FRE:	or whether she's covering Lancashire or 
-*UNK:	 (  ) 
-*CLI:	No, no, I think it's 
-*UNK:	 (  ) 
-*CLI:	innit? 
-*UNK:	 (  ) 
-*FRE:	They've just been 
-*FRE:	Yeah 
-*CLI:	Yeah 
-*UNK:	 (  ) 
-*CLI:	Direct, yeah 
-*FRE:	If, should she come here at our house 
-*UNK:	 (  ) 
-*FRE:	I mean, does she go and pick people at random? However she wondered about our pensioners 
-*CLI:	Oh 
-*FRE:	she just been over some house in Trafford Road   (.) and er, I think she left some, some by there by what she said or to who, who it were, but it must of been them who put them onto us, because she come in 
-*UNK:	 (  ) 
-*FRE:	and she said er, I understand you write a lot of letters in the paper, I said well, I, 
-*UNK:	 (  ) 
-*MAR:	It might of been a man. 
-*FRE:	so she asked us if we would like to do this 
-*CLI:	Oh, that's 
-*UNK:	 (  ) 
-*FRE:	seeing as we've got a big family, I thought well 
-*CLI:	Well yeah, that's right   
-*FRE:	 Get as many as I could  possible 
+*UNK:	 (        ) 
+*FRE:	and then in the afternoon you come up didn't you?
+*CLI:	That's right that's correct, yeah.
+*FRE:	Yeah   (.) and then er   (.) I'm told he works
+*UNK:	 (        ) 
+*FRE:	there up there all day and 
+*MAR:	You can have it on later 
+*UNK:	 (        ) 
+*CLI:	Oh yeah
+*FRE:	so this is the third of it, so have you got plenty of
+*UNK:	 (        ) 
+*FRE:	Yeah I will do
+*FRE:	Well
+*UNK:	 (        ) 
+*FRE:	on that one
+*MAR:	OK mate
+*FRE:	But, I mean
+*UNK:	 (        ) 
+*FRE:	the ten tapes and
+*UNK:	 (        ) 
+*FRE:	and er, she said she needn't of left them, but er   (.) only the last batch you got, only if you get twenty tapes
+*UNK:	 (        ) 
+*FRE:	oh, right oh then, she said it's been done all over the country
+*MAR:	Oh
+*UNK:	 (        ) 
+*FRE:	or whether she's covering Lancashire or
+*UNK:	 (        ) 
+*CLI:	No, no, I think it's
+*UNK:	 (        ) 
+*CLI:	innit?
+*UNK:	 (        ) 
+*FRE:	They've just been
+*FRE:	Yeah
+*CLI:	Yeah
+*UNK:	 (        ) 
+*CLI:	Direct, yeah
+*FRE:	If, should she come here at our house
+*UNK:	 (        ) 
+*FRE:	I mean, does she go and pick people at random?However she wondered about our pensioners
+*CLI:	Oh
+*FRE:	she just been over some house in Trafford Road   (.) and er, I think she left some, some by there by what she said or to who, who it were, but it must of been them who put them onto us, because she come in
+*UNK:	 (        ) 
+*FRE:	and she said er, I understand you write a lot of letters in the paper, I said well, I,
+*UNK:	 (        ) 
+*MAR:	It might of been a man.
+*FRE:	so she asked us if we would like to do this
+*CLI:	Oh, that's
+*UNK:	 (        ) 
+*FRE:	seeing as we've got a big family, I thought well
+*CLI:	Well yeah, that's right 
+*FRE:	Get as many as I could possible
 *MAR:	 ((laugh)) 
-*CLI:	Yeah, I'd have done. 
-*FRE:	Anyway, we'll all go down in posterity 
+*CLI:	Yeah, I'd have done.
+*FRE:	Anyway, we'll all go down in posterity
 *UNK:	 ((laugh)) 
-*CLI:	I should think we will 
-*FRE:	Do you want a tea ma? 
-*UNK:	 (  ) 
-*FRE:	Three years is no time 
-*UNK:	 (  ) 
-*CLI:	No 
-*MAR:	Three years? (.)  
-*FRE:	He's had all his hair cut and he's shaved his tash off 
-*MAR:	What short, short? 
-*FRE:	Yeah 
-*MAR:	Oh 
-*FRE:	and he's shaved his tash off as well and he's always had that tash ever since I've been there, it was really funny 
-*MAR:	Yeah, it's funny when someone's always had it. I remember when Sue worked behind 
-*UNK:	 (  ) 
-*MAR:	beard and that all the time and he shaved that off, oh 
-*FRE:	My boss was telling me about some old boy right he had a beard for all his life yeah? 
-*MAR:	yeah 
-*FRE:	a really long beard right? 
-*MAR:	yeah 
-*FRE:	And one day he shave it off, it took his wife three hours to notice and it took his mum  all day to notice   
-*MAR:	 I think that's terrible  and he's always  had it? 
-*FRE:	 Yeah he's  always had it, always, and they never noticed 
-*MAR:	That's terrible, poor bloke   (.) oh dear 
-*UNK:	 (  ) 
-*FRE:	mm 
-*UNK:	 (  )  (.)  (  ) 
-*MAR:	ain't she? 
-*GEM:	What? 
-*CLI:	No 
-*MAR:	Thought you were asleep 
-*UNK:	 (  )  (.)  (  )  (.) 
-*GEM:	Mum 
-*MAR:	What? 
-*GEM:	have you got 
-*UNK:	 (  ) 
-*CLI:	Can you go and get her please? 
-*MAR:	I'll get her 
-*UNK:	 (  )  (.) 
-*FRE:	Chew shut up 
-*FRE:	That's enough Chewy 
-*FRE:	Chewy  (.)  
-*MAR:	Ah, I called you 
-*FRE:	Look mum 
-*UNK:	 (  ) 
-*MAR:	What? (.)  
-*FRE:	there it is 
-*MAR:	it's just that 
-*UNK:	 (  ) 
-*FRE:	Yeah it's 
-*UNK:	 (  ) 
-*FRE:	but it's going white 
-*MAR:	It's cert  , it's going very pale yes 
-*FRE:	it's certain in it bleach innit? 
-*MAR:	Oh yes it's lots of 
-*UNK:	 (  ) 
-*FRE:	Oh 
-*UNK:	 (  ) 
-*FRE:	Yeah 
-*MAR:	Ah which was 
-*UNK:	  (  )  
-*FRE:	 probably it were not   
-*MAR:	Yes I hope so, 
-*UNK:	 (  ) 
-*MAR:	that one 
-*UNK:	 (  ) 
-*FRE:	Did I? 
-*MAR:	Yeah 
-*UNK:	 (  ) 
-*MAR:	I didn't notice it until later on 
-*FRE:	How's it spelt then? 
-*MAR:	A M E M D E I 
-*FRE:	Oh  (.)  
-*UNK:	 (  ) 
-*FRE:	I thought I'd catch his 
-*UNK:	 (  ) 
-*FRE:	more than that 
-*MAR:	Yeah, he'll probably come back, probably have lots to eat, who knows, he looks friendly, I don't know, oh you know at ruggers his mum came up to me and 
-*UNK:	 (  ) 
-*FRE:	yeah 
-*FRE:	Yeah 
-*MAR:	he's 
-*UNK:	 (  ) 
-*FRE:	Is it? 
-*FRE:	Yeah 
-*MAR:	I still don't know a few ideas though 
-*CLI:	It's prob  , probably got the odd market 
-*UNK:	 (  ) 
-*MAR:	and I thought well, I, I asked cos I was so sure that was a male 
-*UNK:	 (  ) 
-*CLI:	It's been a male and female 
-*MAR:	Just a male 
+*CLI:	I should think we will
+*FRE:	Do you want a tea ma?
+*UNK:	 (        ) 
+*FRE:	Three years is no time
+*UNK:	 (        ) 
+*CLI:	No
+*MAR:	Three years? (.) 
+*FRE:	He's had all his hair cut and he's shaved his tash off
+*MAR:	What short, short?
+*FRE:	Yeah
+*MAR:	Oh
+*FRE:	and he's shaved his tash off as well and he's always had that tash ever since I've been there, it was really funny
+*MAR:	Yeah, it's funny when someone's always had it.I remember when Sue worked behind
+*UNK:	 (        ) 
+*MAR:	beard and that all the time and he shaved that off, oh
+*FRE:	My boss was telling me about some old boy right he had a beard for all his life yeah?
+*MAR:	yeah
+*FRE:	a really long beard right?
+*MAR:	yeah
+*FRE:	And one day he shave it off, it took his wife three hours to notice and it took his mum all day to notice 
+*MAR:	I think that's terrible and he's always had it?
+*FRE:	Yeah he's always had it, always, and they never noticed
+*MAR:	That's terrible, poor bloke   (.) oh dear
+*UNK:	 (        ) 
+*FRE:	mm
+*UNK:	 (        )  (.)  (        ) 
+*MAR:	ain't she?
+*GEM:	What?
+*CLI:	No
+*MAR:	Thought you were asleep
+*UNK:	 (        )  (.)  (        )  (.) 
+*GEM:	Mum
+*MAR:	What?
+*GEM:	have you got
+*UNK:	 (        ) 
+*CLI:	Can you go and get her please?
+*MAR:	I'll get her
+*UNK:	 (        )  (.) 
+*FRE:	Chew shut up
+*FRE:	That's enough Chewy
+*FRE:	Chewy  (.) 
+*MAR:	Ah, I called you
+*FRE:	Look mum
+*UNK:	 (        ) 
+*MAR:	What? (.) 
+*FRE:	there it is
+*MAR:	it's just that
+*UNK:	 (        ) 
+*FRE:	Yeah it's
+*UNK:	 (        ) 
+*FRE:	but it's going white
+*MAR:	It's cert , it's going very pale yes
+*FRE:	it's certain in it bleach innit?
+*MAR:	Oh yes it's lots of
+*UNK:	 (        ) 
+*FRE:	Oh
+*UNK:	 (        ) 
+*FRE:	Yeah
+*MAR:	Ah which was
+*UNK:	 (        ) 
+*FRE:	probably it were not 
+*MAR:	Yes I hope so,
+*UNK:	 (        ) 
+*MAR:	that one
+*UNK:	 (        ) 
+*FRE:	Did I?
+*MAR:	Yeah
+*UNK:	 (        ) 
+*MAR:	I didn't notice it until later on
+*FRE:	How's it spelt then?
+*MAR:	A M E M D E I
+*FRE:	Oh  (.) 
+*UNK:	 (        ) 
+*FRE:	I thought I'd catch his
+*UNK:	 (        ) 
+*FRE:	more than that
+*MAR:	Yeah, he'll probably come back, probably have lots to eat, who knows, he looks friendly, I don't know, oh you know at ruggers his mum came up to me and
+*UNK:	 (        ) 
+*FRE:	yeah
+*FRE:	Yeah
+*MAR:	he's
+*UNK:	 (        ) 
+*FRE:	Is it?
+*FRE:	Yeah
+*MAR:	I still don't know a few ideas though
+*CLI:	It's prob , probably got the odd market
+*UNK:	 (        ) 
+*MAR:	and I thought well, I, I asked cos I was so sure that was a male
+*UNK:	 (        ) 
+*CLI:	It's been a male and female
+*MAR:	Just a male
 *FRE:	 ((laugh)) 
-*UNK:	 (  ) 
-*FRE:	big 
-*UNK:	 (  ) 
-*MAR:	I ain't been out 
-*UNK:	 (  ) 
-*FRE:	Shall I go and have a look to see if there's any 
-*UNK:	 (  ) 
-*MAR:	Yeah you could do   (.) I don't think 
-*UNK:	 (  ) 
-*MAR:	or not 
-*UNK:	 (  )  (.) 
-*CLI:	Try now then  (.)  
-*MAR:	Is that better Chewy? (.)  
-*UNK:	 (  ) 
-*CLI:	 ((laugh)) ouch  (.)  
-*MAR:	Oh Chewy 
-*CLI:	I know it sounds quieter 
-*UNK:	 (  ) 
-*MAR:	Is there any in there? 
-*FRE:	No 
-*FRE:	No 
-*MAR:	I don't know, mind you it's early yet really, cos they're all 
-*UNK:	 (  ) 
-*MAR:	ain't they? 
-*CLI:	Yeah, lines 
-*UNK:	 (  ) 
-*MAR:	yeah pulled it up to the shed and I've left it there 
-*UNK:	 (  ) 
-*MAR:	I didn't know what to do about that, I put 
-*UNK:	 (  ) 
-*MAR:	and they 
-*UNK:	  (  )  
-*FRE:	 I know it's not in there  unless it's under the 
-*UNK:	 (  ) 
-*FRE:	but I doubt it 
-*MAR:	Maybe 
-*UNK:	 (  ) 
-*MAR:	I doubt it anyway 
-*FRE:	Perhaps it's sold 
-*UNK:	 (  ) 
-*MAR:	yeah they do, I 
-*UNK:	 (  ) 
-*FRE:	they all love that there 
-*UNK:	 (  ) 
-*MAR:	Right I give you it, it's the same old 
-*UNK:	 (  )   (  )  
-*FRE:	 Could be   
-*MAR:	I mean six months been out there 
-*FRE:	Long time 
-*MAR:	Yeah 
-*FRE:	Yeah six months, not having no 
-*UNK:	 (  ) 
-*MAR:	right 
-*FRE:	may as well  
-*UNK:	 (  ) 
-*MAR:	alright  don't want them   
-*FRE:	 fix my   
-*UNK:	 (  ) 
-*CLI:	Were they 
-*UNK:	 (  ) 
-*MAR:	Thank you very much 
-*GEM:	I'm tying up shoes, 
-*UNK:	 (  ) 
-*MAR:	OK, do you want these Chewy? Finish all the lunch off. 
-*FRE:	That's nice 
-*MAR:	Yeah 
-*UNK:	 (  ) 
-*FRE:	Oh 
-*MAR:	Should think dear   ((laugh)) anything 
-*UNK:	 (  ) 
-*MAR:	Some more 
-*UNK:	 (  ) 
-*FRE:	I'm going upstairs to listen to some music 
-*UNK:	 (  ) 
+*UNK:	 (        ) 
+*FRE:	big
+*UNK:	 (        ) 
+*MAR:	I ain't been out
+*UNK:	 (        ) 
+*FRE:	Shall I go and have a look to see if there's any
+*UNK:	 (        ) 
+*MAR:	Yeah you could do   (.) I don't think
+*UNK:	 (        ) 
+*MAR:	or not
+*UNK:	 (        )  (.) 
+*CLI:	Try now then  (.) 
+*MAR:	Is that better Chewy? (.) 
+*UNK:	 (        ) 
+*CLI:	 ((laugh)) ouch  (.) 
+*MAR:	Oh Chewy
+*CLI:	I know it sounds quieter
+*UNK:	 (        ) 
+*MAR:	Is there any in there?
+*FRE:	No
+*FRE:	No
+*MAR:	I don't know, mind you it's early yet really, cos they're all
+*UNK:	 (        ) 
+*MAR:	ain't they?
+*CLI:	Yeah, lines
+*UNK:	 (        ) 
+*MAR:	yeah pulled it up to the shed and I've left it there
+*UNK:	 (        ) 
+*MAR:	I didn't know what to do about that, I put
+*UNK:	 (        ) 
+*MAR:	and they
+*UNK:	 (        ) 
+*FRE:	I know it's not in there unless it's under the
+*UNK:	 (        ) 
+*FRE:	but I doubt it
+*MAR:	Maybe
+*UNK:	 (        ) 
+*MAR:	I doubt it anyway
+*FRE:	Perhaps it's sold
+*UNK:	 (        ) 
+*MAR:	yeah they do, I
+*UNK:	 (        ) 
+*FRE:	they all love that there
+*UNK:	 (        ) 
+*MAR:	Right I give you it, it's the same old
+*UNK:	 (        )  (        ) 
+*FRE:	Could be 
+*MAR:	I mean six months been out there
+*FRE:	Long time
+*MAR:	Yeah
+*FRE:	Yeah six months, not having no
+*UNK:	 (        ) 
+*MAR:	right
+*FRE:	may as well 
+*UNK:	 (        ) 
+*MAR:	alright don't want them 
+*FRE:	fix my 
+*UNK:	 (        ) 
+*CLI:	Were they
+*UNK:	 (        ) 
+*MAR:	Thank you very much
+*GEM:	I'm tying up shoes,
+*UNK:	 (        ) 
+*MAR:	OK, do you want these Chewy?Finish all the lunch off.
+*FRE:	That's nice
+*MAR:	Yeah
+*UNK:	 (        ) 
+*FRE:	Oh
+*MAR:	Should think dear   ((laugh)) anything
+*UNK:	 (        ) 
+*MAR:	Some more
+*UNK:	 (        ) 
+*FRE:	I'm going upstairs to listen to some music
+*UNK:	 (        ) 
 @End

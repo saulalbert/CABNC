@@ -1,26 +1,26 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 Croquet club 
-@Situation:	 playing croquet  
-@Media:	021A-C0897X0027XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, DAV David neighbour
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|DAV|45;|||||property manager|neighbour|PS107|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|DAV|~45;| |m|Ag4| |property manager|neighbour|PS107|
+@Media: 021A-C0897X0027XX-ABZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	 playing croquet 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Croquet club 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0027XX-ABZZP0.wav
 @Comment:	conversation #165 (Tape 002713)
-*DAV:	What you really want to do is to get together through to there don't you? 
-*CHR:	Yes. 
-*DAV:	Or there, so you can rush, (  ) across to there. 
-*CHR:	Fine   (6.0) Oh twit, ((laugh))  
-*DAV:	Put it back where it was and then  (  ) . 
-*CHR:	Yes, quite, quite, out, I think I thought it was going to shudder against the post and the hoop and 
-*DAV:	 (  ) 
-*CHR:	Yes. ((hits ball)) 
-*DAV:	Lovely, great  (  ) . 
-*CHR:	Right, yep. 
+*DAV:	What you really want to do is to get together through to there don't you?
+*CHR:	Yes.
+*DAV:	Or there, so you can rush, (        ) across to there.
+*CHR:	Fine   (.) Oh twit, ((laugh)) 
+*DAV:	Put it back where it was and then  (        ) .
+*CHR:	Yes, quite, quite, out, I think I thought it was going to shudder against the post and the hoop and
+*DAV:	 (        ) 
+*CHR:	Yes. ((hits ball))
+*DAV:	Lovely, great  (        ) .
+*CHR:	Right, yep.
 @End

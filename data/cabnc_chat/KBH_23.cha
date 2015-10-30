@@ -1,38 +1,38 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	  home  
-@Situation:	Unspecified 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CAR Carole self, JOE Joelle employee, ADA Adam husband, TOB Toby nephew
 @Options:	CA
-@ID:	eng|AudioBNC|CAR|36;|||||administrator (pt)||PS05B|
-@ID:	eng|AudioBNC|JOE|18;|||||au pair|employee|PS05C|
-@ID:	eng|AudioBNC|ADA|36;|||||textile agent|husband|PS05D|
-@ID:	eng|AudioBNC|TOB|5;|||||nephew|PS05K|
+@ID: eng|AudioBNC|CAR|~36;| |f|Ag3| |administrator (pt)||PS05B|
+@ID: eng|AudioBNC|JOE|~18;| |f|Ag1| |au pair|employee|PS05C|
+@ID: eng|AudioBNC|ADA|~36;| |m|Ag3| |textile agent|husband|PS05D|
+@ID: eng|AudioBNC|TOB|~5;| |m|Ag0| |nephew|PS05K|		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  home  
 @Comment:	conversation #23 (Tape 004106)
-*ADA:	Why has everything suddenly become she   (.) you've only been doing this the last few days. 
+*ADA:	Why has everything suddenly become she   (.) you've only been doing this the last few days.
 *JOE:	 ((cough)) 
-*CAR:	Tis a funny girl. 
-*ADA:	Everything is it unless it's a person. 
-*CAR:	And that's he or she. 
-*ADA:	Right? 
-*CAR:	He for a boy and she for a girl   (.) and it for anything. 
-*JOE:	But I don't know   (.) I think 
-*ADA:	But you don't know where it is, you don't know where it is there's nothing you can do about it. 
-*CAR:	Well look, you've lost the needle? 
-*TOB:	 Yeah, be careful  what  you say. 
-*JOE:	 Yes. 
-*CAR:	When were you last using it   (.) for knitting or for your tapestry?  (.) It's probably   (.)  it's probably stuck   ((tv in background)) 
-*ADA:	 Toby can you turn it off please? 
-*CAR:	in a piece of er   (.)  knitting. 
-*ADA:	 Can you turn it off    (.) please   (.) Is this your question?  (.) Come here   (.) let's have a look. 
-*CAR:	Do we need to have the sound on this? 
-*ADA:	Er   (.) it's complicated no  (  ) . 
-*JOE:	What do you want to know? 
-*CAR:	Oh mince, I've got to get it out of the freezer   (10.0) Bye. 
-*JOE:	Can I listen? 
-*ADA:	Is this disturbing you?  (.) To the radio, of course, quiet. 
+*CAR:	Tis a funny girl.
+*ADA:	Everything is it unless it's a person.
+*CAR:	And that's he or she.
+*ADA:	Right?
+*CAR:	He for a boy and she for a girl   (.) and it for anything.
+*JOE:	But I don't know   (.) I think
+*ADA:	But you don't know where it is, you don't know where it is there's nothing you can do about it.
+*CAR:	Well look, you've lost the needle?
+*TOB:	Yeah, be careful what you say.
+*JOE:	Yes.
+*CAR:	When were you last using it   (.) for knitting or for your tapestry? (.) It's probably   (.) it's probably stuck  ((tv in background))
+*ADA:	Toby can you turn it off please?
+*CAR:	in a piece of er   (.) knitting.
+*ADA:	Can you turn it off   (.) please   (.) Is this your question? (.) Come here   (.) let's have a look.
+*CAR:	Do we need to have the sound on this?
+*ADA:	Er   (.) it's complicated no  (        ) .
+*JOE:	What do you want to know?
+*CAR:	Oh mince, I've got to get it out of the freezer   (.) Bye.
+*JOE:	Can I listen?
+*ADA:	Is this disturbing you? (.) To the radio, of course, quiet.
 @End

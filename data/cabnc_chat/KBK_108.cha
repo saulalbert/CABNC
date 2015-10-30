@@ -1,23 +1,23 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 Home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0024XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, SUS Susan employee
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|SUS|30;|||||cleaner|employee|PS103|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|SUS|~30;| |f|Ag2| |cleaner|employee|PS103|
+@Media: 021A-C0897X0024XX-AAZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0024XX-AAZZP0.wav
 @Comment:	conversation #108 (Tape 002408)
-*CHR:	Please don't burn the paintwork. 
-*SUS:	I won't. 
-*CHR:	Incidently 
-*SUS:	Sorry. 
-*CHR:	incidently it's not a good idea to leave the double glazing bit swinging, erm, or, or the other one. The other one come   (.) come   (.) come crashing through the double glazing. 
-*SUS:	 (  ) 
-*CHR:	Yes, exactly. 
+*CHR:	Please don't burn the paintwork.
+*SUS:	I won't.
+*CHR:	Incidently
+*SUS:	Sorry.
+*CHR:	incidently it's not a good idea to leave the double glazing bit swinging, erm, or, or the other one.The other one come   (.) come   (.) come crashing through the double glazing.
+*SUS:	 (        ) 
+*CHR:	Yes, exactly.
 @End

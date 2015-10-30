@@ -1,53 +1,53 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-03-14:  
-@Location:	  home  
-@Situation:	  relaxing   
-@Media:	021A-C0897X0223XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	DOR Dorothy self, TIM Tim son, CHR Christopher son
 @Options:	CA
-@ID:	eng|AudioBNC|DOR|34;|||||teacher (pt)||PS087|
-@ID:	eng|AudioBNC|TIM|3;|||||student (private pre)|son|PS088|
-@ID:	eng|AudioBNC|CHR|5;|||||student (state primary)|son|PS089|
+@ID: eng|AudioBNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
+@ID: eng|AudioBNC|TIM|~3;| |m|Ag0| |student (private pre)|son|PS088|
+@ID: eng|AudioBNC|CHR|~5;| |m|Ag0| |student (state primary)|son|PS089|
+@Media: 021A-C0897X0223XX-AAZZP0.wav, audio 		
+@Date:	1992-03-14:  
+@Situation:	  relaxing  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0223XX-AAZZP0.wav
 @Comment:	conversation #13 (Tape 022303)
-*TIM:	Here's my cracker? 
-*DOR:	Let me see. 
-*TIM:	It's gone. 
-*CHR:	Your colouring book's here. 
-*TIM:	It's yo   (.) that's my  colouring book. 
-*CHR:	 Well have you  noticed it's missing? 
-*TIM:	He's my colouring book. 
-*DOR:	Oh.  (.) I haven't looked actually. 
-*CHR:	It is. 
-*DOR:	Is it  (  ) . 
-*CHR:	And I haven't  been doing it. 
-*TIM:	 Here's my  cracker! 
-*DOR:	Oh what a lovely cracker! ((laugh))  
-*TIM:	Nothing in! 
-*DOR:	No you're not  (  )  
-*TIM:	 No. 
-*CHR:	 No.   (.) He's opened it already, at the top! 
-*TIM:	Oh there's your   (.) I'll go upstairs   (.) cos I was going to   (.) scramble a badge with Christopher. 
-*DOR:	And explorer badge for Christopher. 
-*CHR:	 (  ) 
-*DOR:	Scrambler badge for you.  (.) Right   (.) you can have a lie down now. 
-*CHR:	Mum I want to cuddled! 
-*TIM:	Bye! 
-*CHR:	 (  )  (8.0) I broke it!  (.)  I broke it! 
-*DOR:	 Do you want a cushion for  your head? 
-*CHR:	Yes please. 
-*TIM:	I've got it!  (.) I've got it! 
-*DOR:	Thank you Tim. 
-*TIM:	I've got it! 
-*DOR:	Oh do   
-*TIM:	Here you are. 
-*DOR:	Thank you   (.) we'll just put it on the little table here, look   (.) for a bit   (.) until it's time to   (.) put it on. 
-*TIM:	Here it is.  (.) I can go   (  ) pig!  (6.0) I did have a sweetie   (.) yesterday on the      (.)  ((singing))  (  )  (.) di dee dee   (.) der sweeties      (.)  (  )  (.) Bye!  (.)  Ooh! 
-*DOR:	 Whoops  a daisy!  (.) Rice Krispies on the floor! 
-*TIM:	I'm bringing them back. 
-*DOR:	If you suddenly feel sick, there's the bowl okay?  (9.0) No, just leave it on the edge, he doesn't want it up his nose!  (.) That's it. 
+*TIM:	Here's my cracker?
+*DOR:	Let me see.
+*TIM:	It's gone.
+*CHR:	Your colouring book's here.
+*TIM:	It's yo  (.) that's my colouring book.
+*CHR:	Well have you noticed it's missing?
+*TIM:	He's my colouring book.
+*DOR:	Oh. (.) I haven't looked actually.
+*CHR:	It is.
+*DOR:	Is it  (        ) .
+*CHR:	And I haven't been doing it.
+*TIM:	Here's my cracker!
+*DOR:	Oh what a lovely cracker! ((laugh)) 
+*TIM:	Nothing in!
+*DOR:	No you're not  (        ) 
+*TIM:	No.
+*CHR:	No. (.) He's opened it already, at the top!
+*TIM:	Oh there's your   (.) I'll go upstairs   (.) cos I was going to   (.) scramble a badge with Christopher.
+*DOR:	And explorer badge for Christopher.
+*CHR:	 (        ) 
+*DOR:	Scrambler badge for you. (.) Right   (.) you can have a lie down now.
+*CHR:	Mum I want to cuddled!
+*TIM:	Bye!
+*CHR:	 (        )  (.) I broke it! (.) I broke it!
+*DOR:	Do you want a cushion for your head?
+*CHR:	Yes please.
+*TIM:	I've got it! (.) I've got it!
+*DOR:	Thank you Tim.
+*TIM:	I've got it!
+*DOR:	Oh do 
+*TIM:	Here you are.
+*DOR:	Thank you   (.) we'll just put it on the little table here, look   (.) for a bit   (.) until it's time to   (.) put it on.
+*TIM:	Here it is. (.) I can go   (        ) pig! (.) I did have a sweetie   (.) yesterday on the      (.)  [singing]  (        )  (.) di dee dee   (.) der sweeties      (.)  (        )  []  (.) Bye! (.) Ooh!
+*DOR:	Whoops a daisy! (.) Rice Krispies on the floor!
+*TIM:	I'm bringing them back.
+*DOR:	If you suddenly feel sick, there's the bowl okay? (.) No, just leave it on the edge, he doesn't want it up his nose! (.) That's it.
 @End

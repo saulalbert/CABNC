@@ -1,36 +1,36 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 Home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0064XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	FRE Fred self, UNK Unknown Unknown None ?
 @Options:	CA
-@ID:	eng|AudioBNC|FRE|78;|||||retired||PS1E4|
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS1E6|
+@ID: eng|AudioBNC|FRE|~78;| |m|Ag5| |retired||PS1E4|
+@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS1E6|
+@Media: 021A-C0897X0064XX-AAZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0064XX-AAZZP0.wav
 @Comment:	conversation #1 (Tape 006401)
-*FRE:	Are you staying in all day today? 
-*NON:	Yes. 
-*FRE:	Erm, cos I've got to go down to Horley I've got to go to the bank. You'll be alright? 
-*NON:	Yeah, alright. 
-*FRE:	Here on your own? 
-*NON:	Yep. 
-*FRE:	 (  ) won't you? 
-*NON:	Yep. 
-*FRE:	You know I'm not going  (.)  
-*NON:	Yeah I've got a lot of English prep to do. 
-*FRE:	Have you? 
-*NON:	A lot of grammar work. 
-*FRE:	Have you? O K. 
-*NON:	Yeah. 
-*FRE:	Yes, O K well I'm going to er I've got lots of work to do before I can go. 
-*NON:	Yeah I know. 
-*FRE:	I shan't be going until about   (.) lunch time. And you'll be O K? 
-*NON:	Yep. 
-*FRE:	Alright.  (.) I'll leave it to you, to your prep then. 
-*NON:	Yeah. 
+*FRE:	Are you staying in all day today?
+*NON:	Yes.
+*FRE:	Erm, cos I've got to go down to Horley I've got to go to the bank.You'll be alright?
+*NON:	Yeah, alright.
+*FRE:	Here on your own?
+*NON:	Yep.
+*FRE:	 (        ) won't you?
+*NON:	Yep.
+*FRE:	You know I'm not going  (.) 
+*NON:	Yeah I've got a lot of English prep to do.
+*FRE:	Have you?
+*NON:	A lot of grammar work.
+*FRE:	Have you?O K.
+*NON:	Yeah.
+*FRE:	Yes, O K well I'm going to er I've got lots of work to do before I can go.
+*NON:	Yeah I know.
+*FRE:	I shan't be going until about   (.) lunch time.And you'll be O K?
+*NON:	Yep.
+*FRE:	Alright. (.) I'll leave it to you, to your prep then.
+*NON:	Yeah.
 @End

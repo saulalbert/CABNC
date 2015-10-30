@@ -1,29 +1,29 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 Car 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0026XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, DAV David neighbour
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|DAV|45;|||||property manager|neighbour|PS107|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|DAV|~45;| |m|Ag4| |property manager|neighbour|PS107|
+@Media: 021A-C0897X0026XX-ABZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Car 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0026XX-ABZZP0.wav
 @Comment:	conversation #147 (Tape 002617)
-*DAV:	That shows you how long our tank is, it's the other side. 
-*CHR:	 ((laugh))  (6.0) Don't you think it would reach? 
-*DAV:	Well it probably would, but I got to   (  ) anyway. 
-*CHR:	Yes   (6.0) What's that? That's an unleaded only pump I think. 
-*DAV:	Oh it's premium, it's premium unleaded. 
-*CHR:	Yes. 
-*DAV:	Mind you they talk about premium don't they? 
-*CHR:	You save a few more coppers don't you? 
-*DAV:	Yes, you do. 
-*CHR:	Forty five point four, I'll, I'll sort this out in a minute, I don't normally have this trouble at the station. Ah, I can't see what  (  )  
-*DAV:	It's the same price as the other one, so, presumably it's the same stuff. 
-*CHR:	Ah well. 
-*DAV:	Yes, yep, (  ) . It's the B S seventy seven premium, it's very small letters, I don't think it's anything different. 
+*DAV:	That shows you how long our tank is, it's the other side.
+*CHR:	 ((laugh))  (.) Don't you think it would reach?
+*DAV:	Well it probably would, but I got to   (        ) anyway.
+*CHR:	Yes   (.) What's that?That's an unleaded only pump I think.
+*DAV:	Oh it's premium, it's premium unleaded.
+*CHR:	Yes.
+*DAV:	Mind you they talk about premium don't they?
+*CHR:	You save a few more coppers don't you?
+*DAV:	Yes, you do.
+*CHR:	Forty five point four, I'll, I'll sort this out in a minute, I don't normally have this trouble at the station.Ah, I can't see what  (        ) 
+*DAV:	It's the same price as the other one, so, presumably it's the same stuff.
+*CHR:	Ah well.
+*DAV:	Yes, yep, (        ) .It's the B S seventy seven premium, it's very small letters, I don't think it's anything different.
 @End

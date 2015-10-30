@@ -1,46 +1,46 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 shopping 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0048XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
-@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
+@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Media: 021A-C0897X0048XX-ABZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 shopping 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0048XX-ABZZP0.wav
 @Comment:	conversation #30 (Tape 004817)
-*HEL:	So is, your dolls house is alright now, mind the flex on the iron. You shouldn't go that way, knock my iron off. So your happy. 
-*CLA:	Mum  (  ) . 
-*HEL:	Where are your what? (  ) . 
-*HEL:	Oh we took them all upstairs. Pardon. 
-*CLA:	 (  ) . 
-*HEL:	What your birthday presents, yes. 
-*CLA:	Pardon. 
-*HEL:	Your birthday presents are up stairs on your new shelves aren't they? 
-*CLA:	I know, I  (  ) . 
-*HEL:	 ((yawning)) I must go through the spare bedroom and sort that out as well. 
-*CLA:	Why? 
-*AMY:	Do I have too? 
-*HEL:	No I must, cos there's some of your stuff. 
-*CLA:	I'm not, I've just  tidied up my dolls house. 
-*HEL:	 I see  , jolly good. 
-*CLA:	 (  ) . 
-*HEL:	Well that's cos he moved it wasn't it? 
-*CLA:	Yeah. Bit of a problem, that made me cry didn't it? 
-*HEL:	That did make you cry, yes. 
-*CLA:	 (  ) . 
-*HEL:	It did. 
-*CLA:	 (  ) . 
-*HEL:	But still if you, you, otherwise when it's tidy you just leave it alone. 
-*CLA:	Pardon. 
-*HEL:	When it's tidy, you don't play with it   (20.0)  ((noise)). 
-*CLA:	I've stopped my traffic. 
-*HEL:	You've stop the traffic have you? 
-*CLA:	Pardon. 
-*HEL:	Oh. 
+*HEL:	So is, your dolls house is alright now, mind the flex on the iron.You shouldn't go that way, knock my iron off.So your happy.
+*CLA:	Mum  (        ) .
+*HEL:	Where are your what? (        ) .
+*HEL:	Oh we took them all upstairs.Pardon.
+*CLA:	 (        ) .
+*HEL:	What your birthday presents, yes.
+*CLA:	Pardon.
+*HEL:	Your birthday presents are up stairs on your new shelves aren't they?
+*CLA:	I know, I  (        ) .
+*HEL:	 [yawning] I must go through the spare bedroom and sort that out as well.
+*CLA:	Why?
+*AMY:	Do I have too?
+*HEL:	No I must, cos there's some of your stuff.
+*CLA:	I'm not, I've just tidied up my dolls house.
+*HEL:	I see , jolly good.
+*CLA:	 (        ) .
+*HEL:	Well that's cos he moved it wasn't it?
+*CLA:	Yeah.Bit of a problem, that made me cry didn't it?
+*HEL:	That did make you cry, yes.
+*CLA:	 (        ) .
+*HEL:	It did.
+*CLA:	 (        ) .
+*HEL:	But still if you, you, otherwise when it's tidy you just leave it alone.
+*CLA:	Pardon.
+*HEL:	When it's tidy, you don't play with it   (.)  ((noise)).
+*CLA:	I've stopped my traffic.
+*HEL:	You've stop the traffic have you?
+*CLA:	Pardon.
+*HEL:	Oh.
 @End

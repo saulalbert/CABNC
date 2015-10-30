@@ -1,22 +1,22 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-04-09:  
-@Location:	  at home  
-@Situation:	  talking while eating tea and washing up   
-@Media:	021A-C0897X0740XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	JAN Jane self
 @Options:	CA
-@ID:	eng|AudioBNC|JAN|33;|||||housewife||PS19L|
+@ID: eng|AudioBNC|JAN|~33;| |f|Ag2| |housewife||PS19L|
+@Media: 021A-C0897X0740XX-ABZZP0.wav, audio 		
+@Date:	1992-04-09:  
+@Situation:	  talking while eating tea and washing up  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  at home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0740XX-ABZZP0.wav
 @Comment:	conversation #19 (Tape 074005)
-*JAN:	Deana, pass us a chair from out of the whatsit please? 
-*UNK:	Eastenders are on. 
-*JAN:	Pardon? 
-*UNK:	Eastenders. 
-*JAN:	Right. 
-*UNK:	Pardon? 
-*JAN:	Alright, no Michael don't go out you've got nothing on your, come on you'll get cold, come here  (.)  
+*JAN:	Deana, pass us a chair from out of the whatsit please?
+*UNK:	Eastenders are on.
+*JAN:	Pardon?
+*UNK:	Eastenders.
+*JAN:	Right.
+*UNK:	Pardon?
+*JAN:	Alright, no Michael don't go out you've got nothing on your, come on you'll get cold, come here  (.) 
 @End

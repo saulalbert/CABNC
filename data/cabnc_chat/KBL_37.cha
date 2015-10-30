@@ -1,27 +1,27 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-02-26:  
-@Location:	 at work 
-@Situation:	 in nursing home  
-@Media:	021A-C0897X0406XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , CHE Cherrilyn self
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|CHE|43;|||||nursing auxiliary||PS06A|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|CHE|~43;| |f|Ag3| |nursing auxiliary||PS06A|
+@Media: 021A-C0897X0406XX-ABZZP0.wav, audio 		
+@Date:	1992-02-26:  
+@Situation:	 in nursing home 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 at work 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0406XX-ABZZP0.wav
 @Comment:	conversation #37 (Tape 040606)
-*CHE:	Right then! I've done   (.) erm   (.) I don't know where that smell is in that   (  ) but it's all horrible! 
-*UNK:	Trudy's first. 
-*CHE:	I know.  (7.0) Time to get dressed. Anything.  (6.0) What are you gonna have for dinner tomorrow night  (  ) ?  (47.0) Alright then Roy? 
-*JES:	Yeah fine! 
-*CHE:	What's for pudding? 
-*JES:	Rice today. 
-*CHE:	Rice pudding  is it? 
-*JES:	 Yeah. 
-*CHE:	 (  ) 
-*JES:	Yeah, it's nice! 
-*CHE:	Yeah, it does look nice! 
+*CHE:	Right then!I've done   (.) erm   (.) I don't know where that smell is in that   (        ) but it's all horrible!
+*UNK:	Trudy's first.
+*CHE:	I know. (.) Time to get dressed.Anything. (.) What are you gonna have for dinner tomorrow night  (        ) ? (.) Alright then Roy?
+*JES:	Yeah fine!
+*CHE:	What's for pudding?
+*JES:	Rice today.
+*CHE:	Rice pudding is it?
+*JES:	Yeah.
+*CHE:	 (        ) 
+*JES:	Yeah, it's nice!
+*CHE:	Yeah, it does look nice!
 @End

@@ -1,33 +1,34 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-12-06:  Unspecified 
-@Media:	021A-C0897X0146XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , GIN Ginny self
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|GIN|65;|||||housewife||PS0CG|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|GIN|~65;| |f|Ag5| |housewife||PS0CG|
+@Media: 021A-C0897X0146XX-AAZZP0.wav, audio 		
+@Date:	1991-12-06:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0146XX-AAZZP0.wav
 @Comment:	conversation #42 (Tape 014603)
-*GIN:	That wasn't very clever was it? 
-*UNK:	She's just placed apart. 
-*GIN:	You can't believe it can you? 
-*UNK:	She   (  ) isn't it? (.)  (  ) space. 
-*GIN:	Yes   (.) and there   (6.0) If I   (.) If I pull up a bit and back out there. 
-*UNK:	 (  )   (  )  
-*GIN:	 Ooh   (  ) you! 
-*UNK:	Yes  (  ) . 
-*GIN:	Oh dear, you poor soul   (.) ha, ha   (.) do you want me to move and come and help you? Or do you want to go in  the   
-*UNK:	 No    (.)  it's alright. 
-*GIN:	 vets and say   
-*UNK:	I'll go, I'll see if I ca  after you've moved I'll see if I can   (.)   (  ) . 
-*GIN:	 If not  I'd go in there and say please  could   
-*UNK:	 Yeah   
-*GIN:	somebody  move that car! 
-*UNK:	 I will do      (.)  ((laughing))  (  ) . 
-*GIN:	It's a Vauxhall isn't it? 
+*GIN:	That wasn't very clever was it?
+*UNK:	She's just placed apart.
+*GIN:	You can't believe it can you?
+*UNK:	She   (        ) isn't it? (.)  (        ) space.
+*GIN:	Yes   (.) and there   (.) If I   (.) If I pull up a bit and back out there.
+*UNK:	 (        )  (        ) 
+*GIN:	Ooh   (        ) you!
+*UNK:	Yes  (        ) .
+*GIN:	Oh dear, you poor soul   (.) ha, ha   (.) do you want me to move and come and help you?Or do you want to go in the 
+*UNK:	No   (.) it's alright.
+*GIN:	vets and say 
+*UNK:	I'll go, I'll see if I ca after you've moved I'll see if I can   (.)  (        ) .
+*GIN:	If not I'd go in there and say please could 
+*UNK:	Yeah 
+*GIN:	somebody move that car!
+*UNK:	I will do     (.)  [laughing]  (        )  [] .
+*GIN:	It's a Vauxhall isn't it?
 *UNK:	 ((laugh)) 
-*GIN:	Dear oh dear!  (8.0) Alright poppet,we  we're not going to vet   (.) we're not going to the vet   (.) we're not going to the vet   (10.0) I know you'd like to   (.) but you can't. 
+*GIN:	Dear oh dear! (.) Alright poppet,we we're not going to vet   (.) we're not going to the vet   (.) we're not going to the vet   (.) I know you'd like to   (.) but you can't.
 @End

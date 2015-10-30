@@ -1,22 +1,22 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 Home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0025XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, NOR Norrine wife
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Media: 021A-C0897X0025XX-ABZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0025XX-ABZZP0.wav
 @Comment:	conversation #128 (Tape 002506)
-*CHR:	Nothing in the mail this morning.  (  ) Hello   (  ) I'll have a look. There's only a bag of peat on the doorstep, here it is look, indoors  (10.0)  
-*NOR:	Have you had some breakfast? 
-*CHR:	No. 
-*NOR:	 (  ) 
-*CHR:	 (  ) 
-*CHR:	Take it off   (  ) the yoghurt pot  (  ) . 
+*CHR:	Nothing in the mail this morning. (        ) Hello   (        ) I'll have a look.There's only a bag of peat on the doorstep, here it is look, indoors  (.) 
+*NOR:	Have you had some breakfast?
+*CHR:	No.
+*NOR:	 (        ) 
+*CHR:	 (        ) 
+*CHR:	Take it off   (        ) the yoghurt pot  (        ) .
 @End

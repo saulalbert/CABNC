@@ -1,30 +1,30 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 shopping 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0047XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
-@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
+@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Media: 021A-C0897X0047XX-ABZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 shopping 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0047XX-ABZZP0.wav
 @Comment:	conversation #12 (Tape 004712)
-*UNK:	That's nice wrapping paper isn't it? 
-*CLA:	Hmm. 
-*AMY:	I don't like it at all that much. 
-*HEL:	Pardon? 
-*CLA:	I don't know that I like it all that much. Sorry. Yes yes she just clipped   (.) I like   (.) that's nicer with the teddy bear. Do you want to have a piece of that   (.) for Deborah? 
-*HEL:	 (  ) 
-*CLA:	No I'm not buying any more. You have you have pinched 
-*AMY:	I can  (  )  
-*CLA:	You have got about ten pencil cases okay. I am not buying any more pencil cases. 
-*AMY:	They are Amy's. I haven't got   (.) I haven't got  (  )  
-*CLA:	I am not buying any more pencil cases. No you go and take it back. You've got a lot of pencil cases.  (.) Come on then Amy.  (.) You want to give that to Deborah? 
-*HEL:	Hmm. 
-*CLA:	Hmm? Ah 
+*UNK:	That's nice wrapping paper isn't it?
+*CLA:	Hmm.
+*AMY:	I don't like it at all that much.
+*HEL:	Pardon?
+*CLA:	I don't know that I like it all that much.Sorry.Yes yes she just clipped   (.) I like   (.) that's nicer with the teddy bear.Do you want to have a piece of that   (.) for Deborah?
+*HEL:	 (        ) 
+*CLA:	No I'm not buying any more.You have you have pinched
+*AMY:	I can  (        ) 
+*CLA:	You have got about ten pencil cases okay.I am not buying any more pencil cases.
+*AMY:	They are Amy's.I haven't got   (.) I haven't got  (        ) 
+*CLA:	I am not buying any more pencil cases.No you go and take it back.You've got a lot of pencil cases. (.) Come on then Amy. (.) You want to give that to Deborah?
+*HEL:	Hmm.
+*CLA:	Hmm?Ah
 @End

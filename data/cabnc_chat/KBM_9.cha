@@ -1,508 +1,508 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-04-10:  
-@Location:	 at school 
-@Situation:	 in French lesson  
-@Media:	021A-C0897X0728XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , CHR Chris self, DAV David friend, STE Steven friend
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
-@ID:	eng|AudioBNC|CHR|15;|||||student||PS1BL|
-@ID:	eng|AudioBNC|DAV|16;|||||student|friend|PS1BN|
-@ID:	eng|AudioBNC|STE|16;|||||student|friend|PS1BP|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|AudioBNC|CHR|~15;| |m|Ag1| |student||PS1BL|
+@ID: eng|AudioBNC|DAV|~16;| |m|Ag1| |student|friend|PS1BN|
+@ID: eng|AudioBNC|STE|~16;| |m|Ag1| |student|friend|PS1BP|
+@Media: 021A-C0897X0728XX-AAZZP0.wav, audio 		
+@Date:	1992-04-10:  
+@Situation:	 in French lesson 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 at school 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0728XX-AAZZP0.wav
 @Comment:	conversation #9 (Tape 072801)
-*CHR:	Of the regional erm   (.) team and erm, and erm, he was asked to go, to go on to play international 
-*DAV:	And he  said no   
-*CHR:	 but he  couldn't, he couldn't    (  )   
-*UNK:	  (  )  
-*STE:	Couldn't he play for a club? 
-*DAV:	 He was going to the fair   
-*STE:	 Couldn't he play for a club? 
-*CHR:	 He was still young   
-*DAV:	 No, I don't think he was asked  playing football  internationally   
-*STE:	 How old was he? 
-*CHR:	I dunno seventeen something like that   (.) so, he had to go and get a job 
-*STE:	 Well what's wrong with footballer for a job? 
-*DAV:	 Ah, he'd rather work at home   
-*CHR:	Well if you don't make it you're skint are you? Aren't you? 
-*STE:	 Yeah well you're skint   
-*DAV:	 Are you? 
-*STE:	at the time anyway weren't he?  (.) He'd got nothing to lose 
-*CHR:	He wasn't actually, his parents were quite well off  
-*DAV:	Well then you could get the money off  him Chris   
-*STE:	 Are your  parents well off? (.)  
-*CHR:	Depends what you call well off really. 
-*STE:	Do they vote Conservative? 
-*CHR:	No. 
-*STE:	Poor then. ((laugh))  
-*CHR:	What do you vote? 
-*STE:	Er, my dad said he's voted Liberal Democrat, but he didn't   (  ) my mum voted Labour she's 
-*CHR:	My dad voted Labour, my brother and my sis  my brother and my dad,mu  my brother and my mum voted Liberal Democrat   (.) my dad pissed off   ((laugh)) said it was a wasted vote, but  (.)  
-*DAV:	Why don't you just give up 
-*UNK:	 (  ) 
-*DAV:	did he cry? 
-*STE:	I wouldn't blame him if he did. 
-*CHR:	He must, he must get so pissed off with that mustn't he? 
-*STE:	I know. 
-*CHR:	He must just feel like saying to everybody 
-*STE:	They should sack Neil Kinnock he's a daft Welsh git 
-*CHR:	only when they're close to it as well  
-*STE:	No, he's a good guy is Neil Kinnock 
-*CHR:	He's crap. Who would you vote for then   (  ) this year? I'd have voted in Labour 
-*STE:	Crap 
-*CHR:	Why? 
+*CHR:	Of the regional erm   (.) team and erm, and erm, he was asked to go, to go on to play international
+*DAV:	And he said no 
+*CHR:	but he couldn't, he couldn't   (        ) 
+*UNK:	 (        ) 
+*STE:	Couldn't he play for a club?
+*DAV:	He was going to the fair 
+*STE:	Couldn't he play for a club?
+*CHR:	He was still young 
+*DAV:	No, I don't think he was asked playing football internationally 
+*STE:	How old was he?
+*CHR:	I dunno seventeen something like that   (.) so, he had to go and get a job
+*STE:	Well what's wrong with footballer for a job?
+*DAV:	Ah, he'd rather work at home 
+*CHR:	Well if you don't make it you're skint are you?Aren't you?
+*STE:	Yeah well you're skint 
+*DAV:	Are you?
+*STE:	at the time anyway weren't he? (.) He'd got nothing to lose
+*CHR:	He wasn't actually, his parents were quite well off 
+*DAV:	Well then you could get the money off him Chris 
+*STE:	Are your parents well off? (.) 
+*CHR:	Depends what you call well off really.
+*STE:	Do they vote Conservative?
+*CHR:	No.
+*STE:	Poor then. ((laugh)) 
+*CHR:	What do you vote?
+*STE:	Er, my dad said he's voted Liberal Democrat, but he didn't   (        ) my mum voted Labour she's
+*CHR:	My dad voted Labour, my brother and my sis my brother and my dad,mu my brother and my mum voted Liberal Democrat   (.) my dad pissed off   ((laugh)) said it was a wasted vote, but  (.) 
+*DAV:	Why don't you just give up
+*UNK:	 (        ) 
+*DAV:	did he cry?
+*STE:	I wouldn't blame him if he did.
+*CHR:	He must, he must get so pissed off with that mustn't he?
+*STE:	I know.
+*CHR:	He must just feel like saying to everybody
+*STE:	They should sack Neil Kinnock he's a daft Welsh git
+*CHR:	only when they're close to it as well 
+*STE:	No, he's a good guy is Neil Kinnock
+*CHR:	He's crap.Who would you vote for then   (        ) this year?I'd have voted in Labour
+*STE:	Crap
+*CHR:	Why?
 *STE:	 ((cough)) 
-*CHR:	Conservative are for the rich. 
-*STE:	They're not. 
-*CHR:	They are. 
-*STE:	What about, what about the lower tax band they've brought out? 
-*UNK:	 (  ) 
-*CHR:	exactly, that's for rich people, it only really helps the rich  that's been   
-*STE:	 It does not   
-*UNK:	 (  ) 
-*CHR:	they pay no tax  anyway   
-*STE:	 That, that  well helps the er poor people, cos a lot of the poor people don't near enough pay tax now because if they do they only have to pay twenty P 
-*DAV:	The poor people, who are these poor  people? 
-*CHR:	 Look  look that helps out the rich 
-*STE:	 That does not   
-*CHR:	 that's the object of this   
-*STE:	that makes a very tiny difference in it, but to poorer people it makes a big difference  (.)  
-*UNK:	 (  ) 
-*STE:	that was brought in to help poor people 
-*UNK:	 (  ) 
-*CHR:	you, the likes of you 
-*UNK:	 (  ) 
-*CHR:	what do you mean who the fuck are these poor people? 
-*DAV:	The bastards 
-*CHR:	Yeah but, what you, what d'ya say 
-*UNK:	 (  ) 
-*STE:	a poor person summed up 
-*UNK:	 (  ) 
-*STE:	yeah, well that was what he said. 
-*DAV:	Yeah I know. 
+*CHR:	Conservative are for the rich.
+*STE:	They're not.
+*CHR:	They are.
+*STE:	What about, what about the lower tax band they've brought out?
+*UNK:	 (        ) 
+*CHR:	exactly, that's for rich people, it only really helps the rich that's been 
+*STE:	It does not 
+*UNK:	 (        ) 
+*CHR:	they pay no tax anyway 
+*STE:	That, that well helps the er poor people, cos a lot of the poor people don't near enough pay tax now because if they do they only have to pay twenty P
+*DAV:	The poor people, who are these poor people?
+*CHR:	Look look that helps out the rich
+*STE:	That does not 
+*CHR:	that's the object of this 
+*STE:	that makes a very tiny difference in it, but to poorer people it makes a big difference  (.) 
+*UNK:	 (        ) 
+*STE:	that was brought in to help poor people
+*UNK:	 (        ) 
+*CHR:	you, the likes of you
+*UNK:	 (        ) 
+*CHR:	what do you mean who the fuck are these poor people?
+*DAV:	The bastards
+*CHR:	Yeah but, what you, what d'ya say
+*UNK:	 (        ) 
+*STE:	a poor person summed up
+*UNK:	 (        ) 
+*STE:	yeah, well that was what he said.
+*DAV:	Yeah I know.
 *CHR:	 ((laugh)) 
-*STE:	Aha    (.)  ((clears throat))  (.)  
-*UNK:	 (  ) 
-*STE:	thank you.  (.) So what was your favourite then? 
-*CHR:	What, what's on the tape? 
-*STE:	 What's on? 
-*CHR:	Yeah. 
-*STE:	First one on the second side 
-*CHR:	You like that did ya? 
-*STE:	I like that. 
-*CHR:	Did you record it? 
-*STE:	No, I've got to tape that 
-*CHR:	See, he's got all this bloody one thousand quid bloody hi-fi, hasn't got a double  deck   
-*STE:	 Single one  holds that 
-*CHR:	Yeah, but you can't record then 
-*STE:	So what, when you're paying that much for the hi-fi you don't expect sound quality   (  ) you'll get from a tape to tape, it's thought, the sound quality is so crap you might as well just do it on a shit thing  (.)  
-*CHR:	Did you follow this saying? 
-*DAV:	No I ain't got a clue what  he said then   
-*STE:	 Look  when you, when you tape  tape to tape   
-*CHR:	 Why's it, why   
-*STE:	it's gonna be 
-*CHR:	Yeah. 
-*STE:	a really crap sound quality 
-*CHR:	It's not 
-*STE:	It is, it's crap. (.)  
-*CHR:	don't bloody notice the difference 
-*STE:	You do 
-*DAV:	You don't 
-*STE:	well you do on mine put it that way 
-*DAV:	Oh well we would wouldn't we? (.)  
-*CHR:	Shit 
-*STE:	What more d'ya put? ((laugh))  
-*UNK:	 (  )  (.) 
-*CHR:	 aren't you suppose to   
-*DAV:	 you taping or   
-*CHR:	into a  ((laugh))  
-*DAV:	you're taping all this? 
-*CHR:	aren't you supposed to put it into a conversation though? 
-*UNK:	 (  ) 
-*STE:	supposed to find out, supposed to say what it is first 
-*DAV:	 What for? 
-*CHR:	 Shut up   
-*STE:	say what's it for, I bet he's put in a conversation 
-*DAV:	What? 
-*STE:	don't say what the  proper   
-*DAV:	 Don't  put it in a conversation 
-*STE:	Yeah 
-*DAV:	No 
-*STE:	do have to. 
-*DAV:	 you don't   
-*CHR:	 You don't   
-*STE:	You do. 
-*DAV:	You don't 
-*CHR:	What's 
-*DAV:	go in and ask the following questions, just write what the questions are 
-*STE:	Oh right 
-*CHR:	Yeah, well let's see yours a minute. 
-*DAV:	without ripping it 
-*CHR:	Without ripping it   (.) do 
-*STE:	Thank you, er it's gonna be dead er good this summer 
-*CHR:	 What? 
-*STE:	 sit  the exams, on about twenty fifth of June we'll be going on holiday, for a week, then shall go and see, well hope I should say, then I'll probably go and see U Two, hopefully, then I'll get to go on holiday on me own for two weeks 
-*UNK:	 (  ) 
-*STE:	oh well I'm going 
-*DAV:	I'll be 
-*UNK:	 (  ) 
-*STE:	nowhere 
+*STE:	Aha    (.)  ((clears throat))  (.) 
+*UNK:	 (        ) 
+*STE:	thank you. (.) So what was your favourite then?
+*CHR:	What, what's on the tape?
+*STE:	What's on?
+*CHR:	Yeah.
+*STE:	First one on the second side
+*CHR:	You like that did ya?
+*STE:	I like that.
+*CHR:	Did you record it?
+*STE:	No, I've got to tape that
+*CHR:	See, he's got all this bloody one thousand quid bloody hi-fi, hasn't got a double deck 
+*STE:	Single one holds that
+*CHR:	Yeah, but you can't record then
+*STE:	So what, when you're paying that much for the hi-fi you don't expect sound quality   (        ) you'll get from a tape to tape, it's thought, the sound quality is so crap you might as well just do it on a shit thing  (.) 
+*CHR:	Did you follow this saying?
+*DAV:	No I ain't got a clue what he said then 
+*STE:	Look when you, when you tape tape to tape 
+*CHR:	Why's it, why 
+*STE:	it's gonna be
+*CHR:	Yeah.
+*STE:	a really crap sound quality
+*CHR:	It's not
+*STE:	It is, it's crap. (.) 
+*CHR:	don't bloody notice the difference
+*STE:	You do
+*DAV:	You don't
+*STE:	well you do on mine put it that way
+*DAV:	Oh well we would wouldn't we? (.) 
+*CHR:	Shit
+*STE:	What more d'ya put? ((laugh)) 
+*UNK:	 (        )  (.) 
+*CHR:	aren't you suppose to 
+*DAV:	you taping or 
+*CHR:	into a  ((laugh)) 
+*DAV:	you're taping all this?
+*CHR:	aren't you supposed to put it into a conversation though?
+*UNK:	 (        ) 
+*STE:	supposed to find out, supposed to say what it is first
+*DAV:	What for?
+*CHR:	Shut up 
+*STE:	say what's it for, I bet he's put in a conversation
+*DAV:	What?
+*STE:	don't say what the proper 
+*DAV:	Don't put it in a conversation
+*STE:	Yeah
+*DAV:	No
+*STE:	do have to.
+*DAV:	you don't 
+*CHR:	You don't 
+*STE:	You do.
+*DAV:	You don't
+*CHR:	What's
+*DAV:	go in and ask the following questions, just write what the questions are
+*STE:	Oh right
+*CHR:	Yeah, well let's see yours a minute.
+*DAV:	without ripping it
+*CHR:	Without ripping it   (.) do
+*STE:	Thank you, er it's gonna be dead er good this summer
+*CHR:	What?
+*STE:	sit the exams, on about twenty fifth of June we'll be going on holiday, for a week, then shall go and see, well hope I should say, then I'll probably go and see U Two, hopefully, then I'll get to go on holiday on me own for two weeks
+*UNK:	 (        ) 
+*STE:	oh well I'm going
+*DAV:	I'll be
+*UNK:	 (        ) 
+*STE:	nowhere
 *CHR:	 ((laugh)) 
-*STE:	no, I might be going to London 
-*DAV:	How d'ya spell tout suite? 
-*STE:	What? For a laugh with erm Sally, this lad called Ben, one of Sally's pals from Sweden 
-*DAV:	Hmm, Sweden? 
-*STE:	Yeah, and this other lad called Mark 
-*CHR:	What you going for? 
-*STE:	To get pissed basically  (.)  
-*CHR:	Why don't you just do it here? 
-*STE:	Because, because you can do it properly there, you can get really plastered. 
-*CHR:	You can do it here. 
-*STE:	No you can't. 
-*CHR:	You can do, when you're that pissed it doesn't make any difference just    (  ) anyway   
-*STE:	 We're going out, we're going out  probably to a strip party 
+*STE:	no, I might be going to London
+*DAV:	How d'ya spell tout suite?
+*STE:	What?For a laugh with erm Sally, this lad called Ben, one of Sally's pals from Sweden
+*DAV:	Hmm, Sweden?
+*STE:	Yeah, and this other lad called Mark
+*CHR:	What you going for?
+*STE:	To get pissed basically  (.) 
+*CHR:	Why don't you just do it here?
+*STE:	Because, because you can do it properly there, you can get really plastered.
+*CHR:	You can do it here.
+*STE:	No you can't.
+*CHR:	You can do, when you're that pissed it doesn't make any difference just   (        ) anyway 
+*STE:	We're going out, we're going out probably to a strip party
 *CHR:	 ((laugh)) 
-*STE:	we're gonna do all the things that 
-*UNK:	 (  )  (.) 
-*STE:	a strip bar followed by a 
-*UNK:	 (  )  (.) 
-*CHR:	Eh? 
-*STE:	What you do? 
-*UNK:	 (  ) 
-*CHR:	stuff like school and hobbies 
-*UNK:	 (  ) 
-*STE:	was it hard? 
-*CHR:	No it's 
-*UNK:	 (  ) 
-*STE:	do you say it in English or in French? 
-*DAV:	French 
-*CHR:	no it's just, it's just the same as these, it's easy 
-*STE:	Oh, aye 
-*DAV:	You what? 
-*CHR:	It's just the same as what we've done in the first one, and we're   
-*UNK:	  (  )  
-*CHR:	gonna be well up on this 
-*STE:	You've just wasted your time? 
-*CHR:	No 
-*STE:	You didn't? 
-*CHR:	 no, it's to    
-*DAV:	 Well what's   (  )   
-*CHR:	cos I learnt this for my, for the, for the mock and that just    (  )   
-*UNK:	  (  )  
-*CHR:	who's fault was that? 
-*DAV:	was that? 
-*STE:	Did they 
-*CHR:	That's ra  that's rather humorous 
-*STE:	Aye, I thought it was  ((laugh))  
-*CHR:	and I, I'm sure   (  ) did as well, a very nice one  (.)  
-*STE:	Half bottle of white wine  (.)  
-*CHR:	is a bottle of  (  ) ? 
-*STE:	we, so I can still talk French, yes, yeah it is 
-*CHR:	Oh don't start, I hate people who do that 
-*STE:	No I didn't do it on purpose I'm sorry   I'll try and stop 
-*CHR:	You'd bloody like to go on holiday to America and they come back with an American accent   (.) I could shoot people who do that. 
-*DAV:	Why, you, he goes home and comes back full of the Scottish accent. 
-*CHR:	The, I'm naturally Scottish so that's erm 
-*STE:	Come let's hear your Scottish accent. 
-*CHR:	No 
-*STE:	Why not? 
-*CHR:	Hannah does that a lot, right, she goes to America and she comes back with an American accent, she goes to Scotland, she comes back with a Scottish accent, oh 
-*STE:	Oh 
-*DAV:	and Steve you can't help picking up things can ya? 
-*STE:	bollocks  you go for two weeks, no you can   
-*CHR:	 But hers is really false  hers is like no, like this 
-*STE:	My sister picks up a 
-*UNK:	 (  ) 
-*CHR:	oh well that's bloody normal  innit? 
-*STE:	 Go on  let's listen, let's hear it 
-*CHR:	No 
-*UNK:	 (  ) 
-*STE:	no, why not? 
-*CHR:	No 
-*STE:	You're embarrassed 
-*UNK:	  (  )  
-*CHR:	 I did my Irish  one in front of him  it was really good   
-*DAV:	 Yeah his Irish one is so top   
-*STE:	Go on then let's hear your Irish one. 
-*CHR:	Wanna hear yours first. 
-*STE:	No, no, no, I wanna hear your Irish one 
-*DAV:	His is so top, go on just do it, go on you, you git   
-*STE:	  ((laugh))  Sorry 
-*DAV:	do your bloody thing, go on 
+*STE:	we're gonna do all the things that
+*UNK:	 (        )  (.) 
+*STE:	a strip bar followed by a
+*UNK:	 (        )  (.) 
+*CHR:	Eh?
+*STE:	What you do?
+*UNK:	 (        ) 
+*CHR:	stuff like school and hobbies
+*UNK:	 (        ) 
+*STE:	was it hard?
+*CHR:	No it's
+*UNK:	 (        ) 
+*STE:	do you say it in English or in French?
+*DAV:	French
+*CHR:	no it's just, it's just the same as these, it's easy
+*STE:	Oh, aye
+*DAV:	You what?
+*CHR:	It's just the same as what we've done in the first one, and we're 
+*UNK:	 (        ) 
+*CHR:	gonna be well up on this
+*STE:	You've just wasted your time?
+*CHR:	No
+*STE:	You didn't?
+*CHR:	no, it's to 
+*DAV:	Well what's   (        ) 
+*CHR:	cos I learnt this for my, for the, for the mock and that just   (        ) 
+*UNK:	 (        ) 
+*CHR:	who's fault was that?
+*DAV:	was that?
+*STE:	Did they
+*CHR:	That's ra that's rather humorous
+*STE:	Aye, I thought it was  ((laugh)) 
+*CHR:	and I, I'm sure   (        ) did as well, a very nice one  (.) 
+*STE:	Half bottle of white wine  (.) 
+*CHR:	is a bottle of  (        ) ?
+*STE:	we, so I can still talk French, yes, yeah it is
+*CHR:	Oh don't start, I hate people who do that
+*STE:	No I didn't do it on purpose I'm sorry  I'll try and stop
+*CHR:	You'd bloody like to go on holiday to America and they come back with an American accent   (.) I could shoot people who do that.
+*DAV:	Why, you, he goes home and comes back full of the Scottish accent.
+*CHR:	The, I'm naturally Scottish so that's erm
+*STE:	Come let's hear your Scottish accent.
+*CHR:	No
+*STE:	Why not?
+*CHR:	Hannah does that a lot, right, she goes to America and she comes back with an American accent, she goes to Scotland, she comes back with a Scottish accent, oh
+*STE:	Oh
+*DAV:	and Steve you can't help picking up things can ya?
+*STE:	bollocks you go for two weeks, no you can 
+*CHR:	But hers is really false hers is like no, like this
+*STE:	My sister picks up a
+*UNK:	 (        ) 
+*CHR:	oh well that's bloody normal innit?
+*STE:	Go on let's listen, let's hear it
+*CHR:	No
+*UNK:	 (        ) 
+*STE:	no, why not?
+*CHR:	No
+*STE:	You're embarrassed
+*UNK:	 (        ) 
+*CHR:	I did my Irish one in front of him it was really good 
+*DAV:	Yeah his Irish one is so top 
+*STE:	Go on then let's hear your Irish one.
+*CHR:	Wanna hear yours first.
+*STE:	No, no, no, I wanna hear your Irish one
+*DAV:	His is so top, go on just do it, go on you, you git 
+*STE:	 ((laugh)) Sorry
+*DAV:	do your bloody thing, go on
 *CHR:	 ((laugh)) 
 *STE:	 ((laugh)) 
-*DAV:	 ((mimicking)) just a sec, just do your accent will ya ? 
-*CHR:	I can't do it like that  I can't just turn it on   
-*DAV:	 Go on do it   
-*UNK:	 (  ) 
-*CHR:	who you trying to turn it on, with everybody 
-*UNK:	 (  ) 
-*CHR:	speaking Scottish, you speak Scottish 
-*STE:	Yeah 
-*CHR:	 ((mimicking)) Ooh aye Jimmy   ((laugh))  
-*STE:	Oh alright then 
-*CHR:	 ((laugh)) Have you got my haggis? 
+*DAV:	 [mimicking] just a sec, just do your accent will ya  [] ?
+*CHR:	I can't do it like that I can't just turn it on 
+*DAV:	Go on do it 
+*UNK:	 (        ) 
+*CHR:	who you trying to turn it on, with everybody
+*UNK:	 (        ) 
+*CHR:	speaking Scottish, you speak Scottish
+*STE:	Yeah
+*CHR:	 [mimicking] Ooh aye Jimmy   []  ((laugh)) 
+*STE:	Oh alright then
+*CHR:	 ((laugh)) Have you got my haggis?
 *DAV:	 ((laugh)) 
-*CHR:	Not very stereotype then, go on, I did mine 
-*STE:	I've gotta, I've gotta think of one, I've gotta  think of what to say   
-*CHR:	 go on   
-*DAV:	Can you say er, can, can you tell me the way to the nearest post office please? 
+*CHR:	Not very stereotype then, go on, I did mine
+*STE:	I've gotta, I've gotta think of one, I've gotta think of what to say 
+*CHR:	go on 
+*DAV:	Can you say er, can, can you tell me the way to the nearest post office please?
 *UNK:	 ((laugh)) 
-*DAV:	No go on, just say something   (.)  ((laugh))  
-*STE:	I'm bound to do it break better 
-*CHR:	Oh come on do it 
-*DAV:	Come on you big girl do it 
-*CHR:	 ((laugh)) you big Jessie 
-*DAV:	oh aye 
-*STE:	You a conomy ? 
-*DAV:	conomy ? 
-*STE:	Instead of Cockney 
-*DAV:	Oh 
-*STE:	what's, what's white wine 
-*DAV:	Cockney alright, er 
-*STE:	What? I'm    (  )  (.) actually have I got to know 
-*DAV:	Scottish   (  ) can, can you do your big Rab Nesbit, really broad? 
-*STE:	 No, I won't try that   
-*DAV:	 Broad Glasgow   
-*UNK:	 (  ) 
-*STE:	I'm thinking, I'm thinking 
-*DAV:	Go on 
-*UNK:	 (  ) 
-*STE:	it's hard you know  you can't just do it   
-*DAV:	 Oh I've heard you do it before   
-*CHR:	 I just come straight out with it   
-*STE:	 When I'm, when I'm   when I'm in an   
-*DAV:	 I've heard you do it before   
-*STE:	environment with other Scottish people I can do it 
-*CHR:	I didn't with my Irish thing, just spit out with it 
-*STE:	Yeah I know, but I can't do that 
-*CHR:	Can't ya? 
-*STE:	 No   
-*DAV:	 Well that's  no good is it? 
-*CHR:	Can't you come out with anything? 
-*STE:	I've been down here for bloody nine years  I've missed it a bit  
-*CHR:	 I, I put on   
-*DAV:	Yeah, but you can still talk 
-*CHR:	I haven't, I, I, I've never been to Ireland 
-*DAV:	you can still talk it over though 
-*CHR:	I have never been  to Ireland   
-*STE:	 Well is that a  proper Scott  Irish accent then? 
-*DAV:	Have you got an Irish  mum or dad? 
-*CHR:	 Yes that's a  a perfect Irish accent 
-*STE:	Do your mum and dad have an Irish accent? 
-*CHR:	Slightly, just a bit, not much though, just pick it up from, you know people talking on T V and stuff  (.)  
-*UNK:	 (  ) 
-*CHR:	come on 
-*STE:	Yours comes natural you see 
-*CHR:	Oh just try it then we don't care, we won't laugh, much 
-*STE:	You will laugh 
-*CHR:	  ((laugh))  
-*STE:	 I know you'll  laugh, but 
-*DAV:	Er 
-*CHR:	is your hair thickener working  (  ) ? ((laugh))   
-*STE:	 I don't use it   (.)  
-*DAV:	That was out of order that  (.)  
-*CHR:	Oh that was tight that moment 
-*DAV:	get him back, is that spot cream working? 
-*STE:	  ((laugh))  
-*DAV:	  ((laugh))   (.)  ((laugh)) 
-*STE:	 ((laugh)) You are a tight bastard  (  )  
-*CHR:	That was, that was, that was uncalled for 
-*STE:	Mr sensitivity there, is your fucking hair thickener working. 
-*DAV:	 ((laugh)) Well is it? ((laugh))  
-*UNK:	Come on   
-*UNK:	 (  ) 
-*CHR:	ah, he's upset now, I'm sorry  about it   
-*STE:	 I'm not   (.)  
-*CHR:	you should laugh look, less fortunate  (.)  
-*DAV:	God  ((laugh))  
-*STE:	You'll go bald 
-*CHR:	No I won't 
-*DAV:	What's this, I'm not very hungry? 
-*STE:	I dunno 
-*CHR:	Je ne faim pas innit? 
-*DAV:	Yeah 
-*STE:	 (  ) 
-*CHR:	Is your brother still going out with that bird? 
-*STE:	Yeah 
-*UNK:	 (  ) 
-*STE:	well I don't know 
-*UNK:	 (  ) 
-*CHR:	how long, how long's he been out with her? (.)  
-*STE:	Since  about Christmas now   
-*DAV:	 What, is that, is that  the blonde brassy? 
-*CHR:	So he's shagged her now? 
-*DAV:	 The one who's   
-*UNK:	  (  )  
-*DAV:	no the blonde   lad, the one who used to sit on the door, er 
-*CHR:	Has he gone completely bald yet? 
-*DAV:	stopping us going, ooh 
-*STE:	He's very very thin 
-*UNK:	 (  ) 
-*DAV:	aha 
-*CHR:	Is he   (  ) yet? 
-*DAV:	Is that the one who used to be 
-*STE:	No  he   
-*DAV:	 used to  be a six former at ours? 
-*STE:	so what if 
-*UNK:	 (  ) 
-*CHR:	no, no, don't, don't you tend to er stand in front of the mirror and  admiring your   (  )   
-*DAV:	  , should keep  should keep it growing really long so when you go a bit thin, just grease it over like this 
-*STE:	That's worse that  it looks terrible that   
-*DAV:	 and brush it all in   ((laugh))  
-*UNK:	I think you should shave it all off, aye 
-*DAV:	Yeah you should go in, you right, right said   
-*UNK:	Oh 
+*DAV:	No go on, just say something   (.)  ((laugh)) 
+*STE:	I'm bound to do it break better
+*CHR:	Oh come on do it
+*DAV:	Come on you big girl do it
+*CHR:	 ((laugh)) you big Jessie
+*DAV:	oh aye
+*STE:	You a conomy ?
+*DAV:	conomy ?
+*STE:	Instead of Cockney
+*DAV:	Oh
+*STE:	what's, what's white wine
+*DAV:	Cockney alright, er
+*STE:	What?I'm    (        )  (.) actually have I got to know
+*DAV:	Scottish   (        ) can, can you do your big Rab Nesbit, really broad?
+*STE:	No, I won't try that 
+*DAV:	Broad Glasgow 
+*UNK:	 (        ) 
+*STE:	I'm thinking, I'm thinking
+*DAV:	Go on
+*UNK:	 (        ) 
+*STE:	it's hard you know you can't just do it 
+*DAV:	Oh I've heard you do it before 
+*CHR:	I just come straight out with it 
+*STE:	When I'm, when I'm when I'm in an 
+*DAV:	I've heard you do it before 
+*STE:	environment with other Scottish people I can do it
+*CHR:	I didn't with my Irish thing, just spit out with it
+*STE:	Yeah I know, but I can't do that
+*CHR:	Can't ya?
+*STE:	No 
+*DAV:	Well that's no good is it?
+*CHR:	Can't you come out with anything?
+*STE:	I've been down here for bloody nine years I've missed it a bit 
+*CHR:	I, I put on 
+*DAV:	Yeah, but you can still talk
+*CHR:	I haven't, I, I, I've never been to Ireland
+*DAV:	you can still talk it over though
+*CHR:	I have never been to Ireland 
+*STE:	Well is that a proper Scott Irish accent then?
+*DAV:	Have you got an Irish mum or dad?
+*CHR:	Yes that's a a perfect Irish accent
+*STE:	Do your mum and dad have an Irish accent?
+*CHR:	Slightly, just a bit, not much though, just pick it up from, you know people talking on T V and stuff  (.) 
+*UNK:	 (        ) 
+*CHR:	come on
+*STE:	Yours comes natural you see
+*CHR:	Oh just try it then we don't care, we won't laugh, much
+*STE:	You will laugh
+*CHR:	 ((laugh)) 
+*STE:	I know you'll laugh, but
+*DAV:	Er
+*CHR:	is your hair thickener working  (        ) ? ((laugh)) 
+*STE:	I don't use it  (.) 
+*DAV:	That was out of order that  (.) 
+*CHR:	Oh that was tight that moment
+*DAV:	get him back, is that spot cream working?
+*STE:	 ((laugh)) 
+*DAV:	 ((laugh))  (.)  ((laugh)) 
+*STE:	 ((laugh)) You are a tight bastard  (        ) 
+*CHR:	That was, that was, that was uncalled for
+*STE:	Mr sensitivity there, is your fucking hair thickener working.
+*DAV:	 ((laugh)) Well is it? ((laugh)) 
+*UNK:	Come on 
+*UNK:	 (        ) 
+*CHR:	ah, he's upset now, I'm sorry about it 
+*STE:	I'm not  (.) 
+*CHR:	you should laugh look, less fortunate  (.) 
+*DAV:	God  ((laugh)) 
+*STE:	You'll go bald
+*CHR:	No I won't
+*DAV:	What's this, I'm not very hungry?
+*STE:	I dunno
+*CHR:	Je ne faim pas innit?
+*DAV:	Yeah
+*STE:	 (        ) 
+*CHR:	Is your brother still going out with that bird?
+*STE:	Yeah
+*UNK:	 (        ) 
+*STE:	well I don't know
+*UNK:	 (        ) 
+*CHR:	how long, how long's he been out with her? (.) 
+*STE:	Since about Christmas now 
+*DAV:	What, is that, is that the blonde brassy?
+*CHR:	So he's shagged her now?
+*DAV:	The one who's 
+*UNK:	 (        ) 
+*DAV:	no the blonde  lad, the one who used to sit on the door, er
+*CHR:	Has he gone completely bald yet?
+*DAV:	stopping us going, ooh
+*STE:	He's very very thin
+*UNK:	 (        ) 
+*DAV:	aha
+*CHR:	Is he   (        ) yet?
+*DAV:	Is that the one who used to be
+*STE:	No he 
+*DAV:	used to be a six former at ours?
+*STE:	so what if
+*UNK:	 (        ) 
+*CHR:	no, no, don't, don't you tend to er stand in front of the mirror and admiring your   (        ) 
+*DAV:	, should keep should keep it growing really long so when you go a bit thin, just grease it over like this
+*STE:	That's worse that it looks terrible that 
+*DAV:	and brush it all in  ((laugh)) 
+*UNK:	I think you should shave it all off, aye
+*DAV:	Yeah you should go in, you right, right said 
+*UNK:	Oh
 *DAV:	 ((laugh)) 
-*CHR:	What she called? 
-*STE:	Lyndsey 
-*CHR:	Ooh I hate that name 
-*STE:	What? 
-*CHR:	I hate that name  (.)  
-*STE:	What's your girl friend called? 
-*CHR:	Rhiannon 
-*STE:	Rhiannon, oh, no comment, I rest my case   ((laugh)) no it's alright that 
-*CHR:	Has he shagged her yet though? 
-*STE:	No    (  )   
-*UNK:	  (  )  
-*STE:	he doesn't intend to 
-*DAV:	 Oh you're, you're the er   
-*CHR:	 He doesn't intend to   
-*DAV:	not before marriage, marriage either 
-*UNK:	 (  ) 
-*DAV:	is she like that as well? 
-*CHR:	Yeah. 
-*DAV:	She, er, whatever 
-*CHR:	What, what ever? 
-*DAV:	Does she go to  church? 
-*CHR:	 Yeah   
-*DAV:	 She what ever   
-*CHR:	 she does, yeah   
-*DAV:	I think she's a what ever, yeah 
-*STE:	She's an interesting person then? 
-*CHR:	She is actually 
-*DAV:	You are so bloody cheeky you are 
-*CHR:	What's wrong with that about, oh what's wrong with that? I don't know 
-*UNK:	 (  ) 
-*CHR:	it is, yeah 
-*STE:	So it's a bit of a   (.) a bit boring  (  )  
-*CHR:	It is  (  )  
-*UNK:	 (  ) 
-*DAV:	what time do you have to get up on a Sunday morning? 
-*STE:	Er seven 
-*CHR:	It starts at eleven 
-*DAV:	Oh that's alright 
-*CHR:	that's, that's the modern church cos he knows everyone's getting pissed on a Saturday night, so they've gotta  let it   
-*DAV:	 What you do? 
-*CHR:	Sing songs and 
-*STE:	In the church? 
+*CHR:	What she called?
+*STE:	Lyndsey
+*CHR:	Ooh I hate that name
+*STE:	What?
+*CHR:	I hate that name  (.) 
+*STE:	What's your girl friend called?
+*CHR:	Rhiannon
+*STE:	Rhiannon, oh, no comment, I rest my case   ((laugh)) no it's alright that
+*CHR:	Has he shagged her yet though?
+*STE:	No   (        ) 
+*UNK:	 (        ) 
+*STE:	he doesn't intend to
+*DAV:	Oh you're, you're the er 
+*CHR:	He doesn't intend to 
+*DAV:	not before marriage, marriage either
+*UNK:	 (        ) 
+*DAV:	is she like that as well?
+*CHR:	Yeah.
+*DAV:	She, er, whatever
+*CHR:	What, what ever?
+*DAV:	Does she go to church?
 *CHR:	Yeah 
-*DAV:	Sing, you sing some songs and    (  )   
-*STE:	 I, I, I've been to church twice   
-*DAV:	does it get a bit boring? 
-*CHR:	It doesn't, no 
-*STE:	Have you ever been to church at night? 
-*DAV:	No 
-*STE:	I went with the Cubs once  and we sat there pissing ourselves   
-*DAV:	 Yeah I did go   
-*STE:	and I went erm at Christmas once and it was bollocks, I just went hey, I wish I, glad I don't go to church 
-*DAV:	Do you believe in it all? 
-*CHR:	I dunno 
-*DAV:	Why d'ya go if you don't believe in it? 
-*STE:	What are you? Are you er one of them blokes that don't believe in it? 
-*CHR:	I'm not, I'm not sure about it all, it's interesting that's why I go 
-*STE:	I don't believe in it 
-*DAV:	Not in 
-*STE:	I did it I think  that the way they, they've explained it scientifically but   
-*DAV:	 not in, I have to go, but not interested   
-*CHR:	That's crap that place, that is so boring 
-*UNK:	D'ya go to church? 
-*STE:	Which one do you go? 
-*DAV:	No, I used to 
-*STE:	In Altrincham 
-*UNK:	D'ya sing? 
-*STE:	What sort is it? Is it a Catholic one? 
-*CHR:	Baptist 
-*STE:	Baptist, what's that mean? I don't understand all these  differences   
-*DAV:	 Just pay your money   (  )   and you put it in the tray   
-*CHR:	 It's just  you believe in baptizing 
-*STE:	Were you baptized? 
-*DAV:	No 
-*STE:	 ((laugh)) That makes sense 
-*CHR:	Baptize you     (.) why not? 
-*STE:	Why weren't you baptized? 
-*DAV:	You make such a decision you make when you, when 
-*STE:	The decision you make  when you   
-*DAV:	 Yeah   
-*STE:	Right aargh 
-*UNK:	 (  ) 
-*STE:	you don't christened at a baptist church 
-*DAV:	Of course you can get baptized when ya, er at any age can't ya? 
-*STE:	It's not baptizing, christening is different 
-*DAV:	You can get baptized any time can't ya? 
-*STE:	Yeah 
-*UNK:	 (  ) 
-*DAV:	 when you're baptized   
-*STE:	 it's your own  decision 
-*DAV:	when you're baptized it's like a pool of water  (.)  
-*UNK:	 (  ) 
-*UNK:	Three or four of us start, er three or four of us talking yesterday, day before yesterday, erm, about   (.) the attitude generally of erm students in the, the sixth form, years twelve and  thirteen, and   
-*UNK:	  (  )  
-*UNK:	and erm, it struck us that erm possibly in this year's lower sixth erm there, there are one or two people, boys and er lads and girls, erm  who are not aware   
-*CHR:	 Boys and lads and girls   
-*UNK:	of what sixth form courses entails, now, erm, three or four of us thought it might be worth our while, or your while if you just briefly said what I'm going to say now, that erm, the, the   
-*CHR:	 It's a bit vague  innit? 
-*UNK:	work you do up to G C S E is very difficult, that it should be very different from erm, when you're in the sixth form 
-*CHR:	Why? 
-*UNK:	Because until G C S E you are fed, the school is fed, in that you are told fairly quickly what you have to do and although I know that a number of you spends the right amount of time or a lot of time on homework, you are told usually, er you have erm a night or two nights in which to do this particular piece of work   (.) now once you  get into the sixth form   
-*CHR:	 I can tell I'm not gonna like this   
-*UNK:	you are given very much more freedom or independence would be a better word, and  erm   
-*CHR:	 Shit   
-*UNK:	you'd be expected to, to do a lot of work by yourself, and that's reflecting the fact that erm you'll probably have four or five lessons in each of your three subjects, but most people would choose three subjects for A level, and that means that er, when you're not having lessons, you've got a lot of time that is not accountable for, you will have been, or going to a general studies period and stuff like that, but there will be a fair number of private study periods, erm, there are some people I think who, who go overboard, and you've got such a different approach erm from er the lower sixth, people don't use the time that they have, erm, what I'm really saying is that if you go into the sixth form   (.) and you spend less school time in the sixth form  you don't need to be prepared   
-*CHR:	 Well what's   (  )   
-*UNK:	to, to make wise use of your  non-teaching   
-*UNK:	  (  )  
-*UNK:	time, erm presumably going into a library quite a lot. You would also be expected to  for example to prepare for   
-*CHR:	 Eh I'm not going into a library, fuck that 
-*UNK:	for certain lessons, I just give you an example with literature it would work with erm science and er other things as well, you might be told in the next lesson we are going to discuss, for example the first act of a particular play, or we're going to discuss which particular scientific  experiment or the cause of whatever it is   
-*UNK:	  (  )  
-*UNK:	you will be expected to have done some research, done some preparation before coming along to the lesson, if you go along to the lesson not having done that, you will be able to play back certain tips from what the other people say, but you will not er, you will find that   (  )   
-*UNK:	  (  )  
-*UNK:	anywhere near   (  ) as if you were prepared, because if you were prepared there are bound to be one or two things that you would want to ask for, own by the standard of interpretation of whatever it is, or a particular word if it's a language and so on, erm and that is something that er I think people erm come across as    (  )   
-*CHR:	 Oh yeah, sure   
-*UNK:	and the other, the other, the other thing, I don't want to make this sound a lecture or anything like that, but the other thing is that erm  erm you have   
-*CHR:	 You can stuff your lecture   
-*UNK:	twenty one months in the sixth form, please don't think that everybody has two years, erm and those, those   
-*CHR:	 Oh okay   
-*UNK:	short two years may make a big difference at this stage now, erm 
-*CHR:	  ((sigh))  
-*UNK:	 A levels    (  ) only happen when the most, a month, more from school and then they have study leave as you are, now erm   (.) when you consider the, the year since September has gone very, very quickly, those who have done very little work in that first year, year twelve, will find that   (  ) been packed in there and that first year in the sixth is just like your year ten ought to have been, perhaps, one or two of you are  are realizing   
-*CHR:	 Oh oh   
-*UNK:	that you could have done a bit more last year 
-*CHR:	That's likely 
-*UNK:	and it's even more noticeable once you go into the, the year twelve, that first twelve months is crucial, if you just kick your heels and do nothing, you'll find it very  very difficult to work to pull up   (  )   
-*CHR:	 Is he finished this? Finished this? 
-*UNK:	but whichever work  you study   
-*CHR:	 Yeah, all of it? 
-*UNK:	you know that is the, erm two or three things there, you're working by yourself in your, your personal preparation   (  ) prepa  preparation are crucial parts, erm, if any of the people were thinking of going to erm, erm, a college, erm, the same sort of thing will arise and I suppose the big difference for   (  ) if you don't have lessons then I think I'm right in saying you don't necessarily have to go in, I don't know whether that still applies, erm, you would be expected of course to erm, erm, to turn up at school here, erm, now there are advantages and disadvantages, you may feel that you prefer, knowing on your own what you're like, you'll prefer erm some fairly rigid rules, erm, because if there weren't rules you might think you'd take advantage of us 
-*CHR:	You got rules here 
-*UNK:	erm, only that sort of rules, probably a big advantage I think of staying in er sixth form is that erm you know the staff, you know the system and it and they know you, erm  if you go to   (  )   
-*CHR:	 A big problem man   
-*UNK:	you will take you a matter of months of course for you to settle in, and those first few months are crucial, again, I maybe just mention this that you are aware of   (  ) okay so that's   (  )  (.)  
-*CHR:	Okay, let's go  (6.0)  
-*UNK:	 (  ) 
-*CHR:	eh? What? 
-*UNK:	 (  ) 
-*CHR:	was a bit out of order    (  )  (.) we have nothing to do with it   (  ) hmm  (  )  
-*DAV:	What? It was an accident 
-*CHR:	hair, leave the hair  (  )  
-*DAV:	it was an accident  ((laugh))  
-*CHR:	Cor I bet 
-*STE:	You'd been planning it for about    (  )   
-*DAV:	 It just came out   ((laugh))   (.)  
+*DAV:	She what ever 
+*CHR:	she does, yeah 
+*DAV:	I think she's a what ever, yeah
+*STE:	She's an interesting person then?
+*CHR:	She is actually
+*DAV:	You are so bloody cheeky you are
+*CHR:	What's wrong with that about, oh what's wrong with that?I don't know
+*UNK:	 (        ) 
+*CHR:	it is, yeah
+*STE:	So it's a bit of a   (.) a bit boring  (        ) 
+*CHR:	It is  (        ) 
+*UNK:	 (        ) 
+*DAV:	what time do you have to get up on a Sunday morning?
+*STE:	Er seven
+*CHR:	It starts at eleven
+*DAV:	Oh that's alright
+*CHR:	that's, that's the modern church cos he knows everyone's getting pissed on a Saturday night, so they've gotta let it 
+*DAV:	What you do?
+*CHR:	Sing songs and
+*STE:	In the church?
+*CHR:	Yeah
+*DAV:	Sing, you sing some songs and   (        ) 
+*STE:	I, I, I've been to church twice 
+*DAV:	does it get a bit boring?
+*CHR:	It doesn't, no
+*STE:	Have you ever been to church at night?
+*DAV:	No
+*STE:	I went with the Cubs once and we sat there pissing ourselves 
+*DAV:	Yeah I did go 
+*STE:	and I went erm at Christmas once and it was bollocks, I just went hey, I wish I, glad I don't go to church
+*DAV:	Do you believe in it all?
+*CHR:	I dunno
+*DAV:	Why d'ya go if you don't believe in it?
+*STE:	What are you?Are you er one of them blokes that don't believe in it?
+*CHR:	I'm not, I'm not sure about it all, it's interesting that's why I go
+*STE:	I don't believe in it
+*DAV:	Not in
+*STE:	I did it I think that the way they, they've explained it scientifically but 
+*DAV:	not in, I have to go, but not interested 
+*CHR:	That's crap that place, that is so boring
+*UNK:	D'ya go to church?
+*STE:	Which one do you go?
+*DAV:	No, I used to
+*STE:	In Altrincham
+*UNK:	D'ya sing?
+*STE:	What sort is it?Is it a Catholic one?
+*CHR:	Baptist
+*STE:	Baptist, what's that mean?I don't understand all these differences 
+*DAV:	Just pay your money   (        ) and you put it in the tray 
+*CHR:	It's just you believe in baptizing
+*STE:	Were you baptized?
+*DAV:	No
+*STE:	 ((laugh)) That makes sense
+*CHR:	Baptize you    (.) why not?
+*STE:	Why weren't you baptized?
+*DAV:	You make such a decision you make when you, when
+*STE:	The decision you make when you 
+*DAV:	Yeah 
+*STE:	Right aargh
+*UNK:	 (        ) 
+*STE:	you don't christened at a baptist church
+*DAV:	Of course you can get baptized when ya, er at any age can't ya?
+*STE:	It's not baptizing, christening is different
+*DAV:	You can get baptized any time can't ya?
+*STE:	Yeah
+*UNK:	 (        ) 
+*DAV:	when you're baptized 
+*STE:	it's your own decision
+*DAV:	when you're baptized it's like a pool of water  (.) 
+*UNK:	 (        ) 
+*UNK:	Three or four of us start, er three or four of us talking yesterday, day before yesterday, erm, about   (.) the attitude generally of erm students in the, the sixth form, years twelve and thirteen, and 
+*UNK:	 (        ) 
+*UNK:	and erm, it struck us that erm possibly in this year's lower sixth erm there, there are one or two people, boys and er lads and girls, erm who are not aware 
+*CHR:	Boys and lads and girls 
+*UNK:	of what sixth form courses entails, now, erm, three or four of us thought it might be worth our while, or your while if you just briefly said what I'm going to say now, that erm, the, the 
+*CHR:	It's a bit vague innit?
+*UNK:	work you do up to G C S E is very difficult, that it should be very different from erm, when you're in the sixth form
+*CHR:	Why?
+*UNK:	Because until G C S E you are fed, the school is fed, in that you are told fairly quickly what you have to do and although I know that a number of you spends the right amount of time or a lot of time on homework, you are told usually, er you have erm a night or two nights in which to do this particular piece of work   (.) now once you get into the sixth form 
+*CHR:	I can tell I'm not gonna like this 
+*UNK:	you are given very much more freedom or independence would be a better word, and erm 
+*CHR:	Shit 
+*UNK:	you'd be expected to, to do a lot of work by yourself, and that's reflecting the fact that erm you'll probably have four or five lessons in each of your three subjects, but most people would choose three subjects for A level, and that means that er, when you're not having lessons, you've got a lot of time that is not accountable for, you will have been, or going to a general studies period and stuff like that, but there will be a fair number of private study periods, erm, there are some people I think who, who go overboard, and you've got such a different approach erm from er the lower sixth, people don't use the time that they have, erm, what I'm really saying is that if you go into the sixth form   (.) and you spend less school time in the sixth form you don't need to be prepared 
+*CHR:	Well what's   (        ) 
+*UNK:	to, to make wise use of your non-teaching 
+*UNK:	 (        ) 
+*UNK:	time, erm presumably going into a library quite a lot.You would also be expected to for example to prepare for 
+*CHR:	Eh I'm not going into a library, fuck that
+*UNK:	for certain lessons, I just give you an example with literature it would work with erm science and er other things as well, you might be told in the next lesson we are going to discuss, for example the first act of a particular play, or we're going to discuss which particular scientific experiment or the cause of whatever it is 
+*UNK:	 (        ) 
+*UNK:	you will be expected to have done some research, done some preparation before coming along to the lesson, if you go along to the lesson not having done that, you will be able to play back certain tips from what the other people say, but you will not er, you will find that   (        ) 
+*UNK:	 (        ) 
+*UNK:	anywhere near   (        ) as if you were prepared, because if you were prepared there are bound to be one or two things that you would want to ask for, own by the standard of interpretation of whatever it is, or a particular word if it's a language and so on, erm and that is something that er I think people erm come across as   (        ) 
+*CHR:	Oh yeah, sure 
+*UNK:	and the other, the other, the other thing, I don't want to make this sound a lecture or anything like that, but the other thing is that erm erm you have 
+*CHR:	You can stuff your lecture 
+*UNK:	twenty one months in the sixth form, please don't think that everybody has two years, erm and those, those 
+*CHR:	Oh okay 
+*UNK:	short two years may make a big difference at this stage now, erm
+*CHR:	 ((sigh)) 
+*UNK:	A levels   (        ) only happen when the most, a month, more from school and then they have study leave as you are, now erm   (.) when you consider the, the year since September has gone very, very quickly, those who have done very little work in that first year, year twelve, will find that   (        ) been packed in there and that first year in the sixth is just like your year ten ought to have been, perhaps, one or two of you are are realizing 
+*CHR:	Oh oh 
+*UNK:	that you could have done a bit more last year
+*CHR:	That's likely
+*UNK:	and it's even more noticeable once you go into the, the year twelve, that first twelve months is crucial, if you just kick your heels and do nothing, you'll find it very very difficult to work to pull up   (        ) 
+*CHR:	Is he finished this?Finished this?
+*UNK:	but whichever work you study 
+*CHR:	Yeah, all of it?
+*UNK:	you know that is the, erm two or three things there, you're working by yourself in your, your personal preparation   (        ) prepa preparation are crucial parts, erm, if any of the people were thinking of going to erm, erm, a college, erm, the same sort of thing will arise and I suppose the big difference for   (        ) if you don't have lessons then I think I'm right in saying you don't necessarily have to go in, I don't know whether that still applies, erm, you would be expected of course to erm, erm, to turn up at school here, erm, now there are advantages and disadvantages, you may feel that you prefer, knowing on your own what you're like, you'll prefer erm some fairly rigid rules, erm, because if there weren't rules you might think you'd take advantage of us
+*CHR:	You got rules here
+*UNK:	erm, only that sort of rules, probably a big advantage I think of staying in er sixth form is that erm you know the staff, you know the system and it and they know you, erm if you go to   (        ) 
+*CHR:	A big problem man 
+*UNK:	you will take you a matter of months of course for you to settle in, and those first few months are crucial, again, I maybe just mention this that you are aware of   (        ) okay so that's   (        )  (.) 
+*CHR:	Okay, let's go  (.) 
+*UNK:	 (        ) 
+*CHR:	eh?What?
+*UNK:	 (        ) 
+*CHR:	was a bit out of order    (        )  (.) we have nothing to do with it   (        ) hmm  (        ) 
+*DAV:	What?It was an accident
+*CHR:	hair, leave the hair  (        ) 
+*DAV:	it was an accident  ((laugh)) 
+*CHR:	Cor I bet
+*STE:	You'd been planning it for about   (        ) 
+*DAV:	It just came out   ((laugh))  (.) 
 @End

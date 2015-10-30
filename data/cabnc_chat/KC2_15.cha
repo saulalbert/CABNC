@@ -1,35 +1,35 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-03-19:  
-@Location:	  work  
-@Situation:	  working at bench on printed circuit boards   
-@Media:	021A-C0897X0262XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	GRO Group_of_unknown_speakers other
 @Options:	CA
-@ID:	eng|AudioBNC|GRO|unknown||||other|KC2PSUGP|
+@ID: eng|AudioBNC|GRO|unknown |u|X| |other|KC2PSUGP|
+@Media: 021A-C0897X0262XX-ABZZP0.wav, audio 		
+@Date:	1992-03-19:  
+@Situation:	  working at bench on printed circuit boards  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  work  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0262XX-ABZZP0.wav
 @Comment:	conversation #15 (Tape 026208)
-*FLO:	I've got a power supply at home I want to bring in and have it checked out. 
-*FRE:	Have it checked out, you want me to check it out? 
-*FLO:	See if it works. 
-*FRE:	Mm 
-*FLO:	Ever since I check that what's your board 
-*UNK:	 (  ) 
-*FRE:	no 
-*FLO:	I mean look that 
-*FRE:	See look all that down there, you've blown it all up, and you're supposed to be clever 
-*FLO:	Clever, I am clever   (.) I'm the cleverest one here 
-*FRE:	Oh is checked at the 
-*UNK:	 (  ) 
-*FLO:	innit? 
-*FRE:	Mm 
-*FLO:	It's only like a C B power supply 
-*FRE:	Ah 
-*UNK:	 (  ) 
-*FRE:	missing as well  
-*UNK:	 (  ) 
-*FLO:	it's not me, it must be your boards  (.)  
+*FLO:	I've got a power supply at home I want to bring in and have it checked out.
+*FRE:	Have it checked out, you want me to check it out?
+*FLO:	See if it works.
+*FRE:	Mm
+*FLO:	Ever since I check that what's your board
+*UNK:	 (        ) 
+*FRE:	no
+*FLO:	I mean look that
+*FRE:	See look all that down there, you've blown it all up, and you're supposed to be clever
+*FLO:	Clever, I am clever   (.) I'm the cleverest one here
+*FRE:	Oh is checked at the
+*UNK:	 (        ) 
+*FLO:	innit?
+*FRE:	Mm
+*FLO:	It's only like a C B power supply
+*FRE:	Ah
+*UNK:	 (        ) 
+*FRE:	missing as well 
+*UNK:	 (        ) 
+*FLO:	it's not me, it must be your boards  (.) 
 @End

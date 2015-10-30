@@ -1,38 +1,38 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-11-29:  
-@Location:	  car  
-@Situation:	  driving to Wisbech   
-@Media:	021A-C0897X0183XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , ANN Ann self, STU Stuart partner
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|ANN|46;|||||team leader||PS02G|
-@ID:	eng|AudioBNC|STU|33;|||||factory operative|partner|PS02H|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
+@ID: eng|AudioBNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
+@Media: 021A-C0897X0183XX-AAZZP0.wav, audio 		
+@Date:	1991-11-29:  
+@Situation:	  driving to Wisbech  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  car  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0183XX-AAZZP0.wav
 @Comment:	conversation #8 (Tape 018301)
-*ANN:	We have made him an offer but he's not very keen. 
-*NON:	 (  ) 
-*STU:	I don't think, I don't think he will. He's not like that. 
-*NON:	 (  ) 
-*ANN:	It looks as if he's not very keen on the price we want to pay. He said he knows the market's low and he'd rather wait. But then we wouldn't be able to afford it if the market goes up and   (.)  ((laugh))  
-*NON:	That's right.  (  ) same time  (  ) . 
-*STU:	If it's on, if it's on the market for a long while.  (.) He can have it on the market for a year or so. 
-*NON:	Yeah. 
-*STU:	And he's and he's 
-*NON:	He's got you there and    (  )   
-*STU:	 Well at the  moment he's  got us   
-*ANN:	 Well that's it.  I mean we're paying two hundred and fifty pound a month so at least he's getting that coming in. But then you can really have a mortgage for that. ((laugh))  
-*NON:	 (  ) and the thing is as well  (  )  
-*ANN:	No. But at the moment he's   (.) well he's not come back to us with any answer from our offer at all so   (.) we're we're presuming that means no so we thought we'd better start looking. ((laugh))  
-*NON:	Oh and if you're paying that kind of money you could afford a mortgage couldn't you? 
-*ANN:	That's it. 
-*STU:	Thereabouts anyway. 
-*NON:	  (  )  
-*ANN:	 Yeah it's it's not much more. And Stuart's been and  enquired and it wouldn't be much more for a small property. 
-*NON:	When the market lifts then you'd  (  ) . 
-*ANN:	That's it. 
+*ANN:	We have made him an offer but he's not very keen.
+*NON:	 (        ) 
+*STU:	I don't think, I don't think he will.He's not like that.
+*NON:	 (        ) 
+*ANN:	It looks as if he's not very keen on the price we want to pay.He said he knows the market's low and he'd rather wait.But then we wouldn't be able to afford it if the market goes up and   (.)  ((laugh)) 
+*NON:	That's right. (        ) same time  (        ) .
+*STU:	If it's on, if it's on the market for a long while. (.) He can have it on the market for a year or so.
+*NON:	Yeah.
+*STU:	And he's and he's
+*NON:	He's got you there and   (        ) 
+*STU:	Well at the moment he's got us 
+*ANN:	Well that's it.I mean we're paying two hundred and fifty pound a month so at least he's getting that coming in.But then you can really have a mortgage for that. ((laugh)) 
+*NON:	 (        ) and the thing is as well  (        ) 
+*ANN:	No.But at the moment he's   (.) well he's not come back to us with any answer from our offer at all so   (.) we're we're presuming that means no so we thought we'd better start looking. ((laugh)) 
+*NON:	Oh and if you're paying that kind of money you could afford a mortgage couldn't you?
+*ANN:	That's it.
+*STU:	Thereabouts anyway.
+*NON:	 (        ) 
+*ANN:	Yeah it's it's not much more.And Stuart's been and enquired and it wouldn't be much more for a small property.
+*NON:	When the market lifts then you'd  (        ) .
+*ANN:	That's it.
 @End

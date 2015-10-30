@@ -1,486 +1,486 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-03-18:  
-@Location:	  home  
-@Situation:	  having tea   
-@Media:	021A-C0897X0230XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , DOR Dorothy self, AND Andrew husband, ROS Rosemary friend, MAR Mary friend
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
-@ID:	eng|AudioBNC|DOR|34;|||||teacher (pt)||PS087|
-@ID:	eng|AudioBNC|AND|36;|||||purchasing manager|husband|PS08A|
-@ID:	eng|AudioBNC|ROS|50;|||||housewife|friend|PS0XU|
-@ID:	eng|AudioBNC|MAR|45;|||||drawing plans|friend|PS0XV|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|AudioBNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
+@ID: eng|AudioBNC|AND|~36;| |m|Ag3| |purchasing manager|husband|PS08A|
+@ID: eng|AudioBNC|ROS|~50;| |f|Ag4| |housewife|friend|PS0XU|
+@ID: eng|AudioBNC|MAR|~45;| |f|Ag4| |drawing plans|friend|PS0XV|
+@Media: 021A-C0897X0230XX-ABZZP0.wav, audio 		
+@Date:	1992-03-18:  
+@Situation:	  having tea  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0230XX-ABZZP0.wav
 @Comment:	conversation #51 (Tape 023001)
-*DOR:	Like when you go round National Trust Homes don't you, they're all a 
-*GRO:	 (  )  (.) 
-*DOR:	You didn't get me any song books did you? 
-*MAR:	No 
-*DOR:	 ((laugh)) I was just thinking of  two minutes ago like last week   
-*GRO:	  (  )  
-*MAR:	that's all 
-*DOR:	all two minutes I thought, oh she's brought song books home, she's keen and enthusiastic with 
-*GRO:	 (  ) 
-*DOR:	that, because it would of been a lot of effort on part   
-*MAR:	 I would, I, I just get them out  . 
-*ROS:	You were damn rude darling 
-*GRO:	 (  ) 
-*MAR:	Yeah 
-*ROS:	being in an attitude you've forgot to 
-*GRO:	 (  ) 
-*DOR:	 ((laugh)) , no it's alright. 
-*AND:	But it's more convenient for you to go in that church  if anybody else   
-*ROS:	 Oh it is   
-*GRO:	 (  ) 
-*DOR:	Probably a bit of a strain   ((laugh))  (.)  
-*AND:	Nice school? 
-*DOR:	Yeah, you can volunteer if you like 
-*AND:	No 
-*GRO:	 (  ) 
-*MAR:	that school 
-*DOR:	also there's a 
-*GRO:	 (  ) 
-*DOR:	it won't be 
-*GRO:	 (  ) 
-*AND:	Did it come off once didn't it? (.)  
-*ROS:	What have you done? 
-*DOR:	Nothing  (.)  
-*MAR:	I, erm, Barry and 
-*GRO:	 (  ) 
-*DOR:	Do what Mary? 
-*MAR:	I'm not sure if they're going away this weekend, I'm not sure when they're going  (.)  
-*DOR:	Oh, well they're not going tomorrow  ((laugh))  
-*MAR:	Oh, must be Friday then, I knew they were going away for the week, weekend 
-*ROS:	That's very nice too. 
-*MAR:	The first time 
-*GRO:	 (  ) 
-*MAR:	were saying this  (.)  
-*DOR:	It's tricky to have to get here 
-*MAR:	I know  ((laugh))  
+*DOR:	Like when you go round National Trust Homes don't you, they're all a
+*GRO:	 (        )  (.) 
+*DOR:	You didn't get me any song books did you?
+*MAR:	No
+*DOR:	 ((laugh)) I was just thinking of two minutes ago like last week 
+*GRO:	 (        ) 
+*MAR:	that's all
+*DOR:	all two minutes I thought, oh she's brought song books home, she's keen and enthusiastic with
+*GRO:	 (        ) 
+*DOR:	that, because it would of been a lot of effort on part 
+*MAR:	I would, I, I just get them out .
+*ROS:	You were damn rude darling
+*GRO:	 (        ) 
+*MAR:	Yeah
+*ROS:	being in an attitude you've forgot to
+*GRO:	 (        ) 
+*DOR:	 ((laugh)) , no it's alright.
+*AND:	But it's more convenient for you to go in that church if anybody else 
+*ROS:	Oh it is 
+*GRO:	 (        ) 
+*DOR:	Probably a bit of a strain   ((laugh))  (.) 
+*AND:	Nice school?
+*DOR:	Yeah, you can volunteer if you like
+*AND:	No
+*GRO:	 (        ) 
+*MAR:	that school
+*DOR:	also there's a
+*GRO:	 (        ) 
+*DOR:	it won't be
+*GRO:	 (        ) 
+*AND:	Did it come off once didn't it? (.) 
+*ROS:	What have you done?
+*DOR:	Nothing  (.) 
+*MAR:	I, erm, Barry and
+*GRO:	 (        ) 
+*DOR:	Do what Mary?
+*MAR:	I'm not sure if they're going away this weekend, I'm not sure when they're going  (.) 
+*DOR:	Oh, well they're not going tomorrow  ((laugh)) 
+*MAR:	Oh, must be Friday then, I knew they were going away for the week, weekend
+*ROS:	That's very nice too.
+*MAR:	The first time
+*GRO:	 (        ) 
+*MAR:	were saying this  (.) 
+*DOR:	It's tricky to have to get here
+*MAR:	I know  ((laugh)) 
 *AND:	 ((laugh)) 
-*MAR:	the evil look, I shall move in a minute  ((laugh))  
-*ROS:	 Bite back   
-*MAR:	 Funny old tramp  , the leaves fall of him without those, they get stalkier and stalkier as time goes on 
-*ROS:	Yeah, yeah well I've got an ordinary   
-*GRO:	  (  )  
-*MAR:	A 
-*GRO:	 (  ) 
-*MAR:	pot, it came from 
-*GRO:	 (  ) 
+*MAR:	the evil look, I shall move in a minute  ((laugh)) 
+*ROS:	Bite back 
+*MAR:	Funny old tramp , the leaves fall of him without those, they get stalkier and stalkier as time goes on
+*ROS:	Yeah, yeah well I've got an ordinary 
+*GRO:	 (        ) 
+*MAR:	A
+*GRO:	 (        ) 
+*MAR:	pot, it came from
+*GRO:	 (        ) 
 *DOR:	 ((laugh)) 
-*ROS:	I've got an ordinary 
-*GRO:	 (  ) 
-*ROS:	just keep peeling the bottom ones off it, just get 
-*GRO:	 (  ) 
-*ROS:	missing 
-*MAR:	My yucca's dying 
-*DOR:	Oh dear 
-*ROS:	That could well be the compost, poor leaves and things 
-*GRO:	 (  ) 
-*DOR:	Maybe 
-*GRO:	 (  ) 
-*MAR:	Well I think I've over watered it 
-*AND:	Best to  let it   
-*GRO:	  (  )  
-*MAR:	I know I'm, I'm 
-*GRO:	 (  ) 
-*ROS:	I don't water mine very often I wait till the, one of the leaves start to go a bit yellow and then 
-*MAR:	Oh 
-*GRO:	 (  ) 
-*ROS:	I don't like them personally 
-*DOR:	Why not? 
-*MAR:	 somebody else wanted one   
-*ROS:	 I hated it   
-*DOR:	Ah, there you are. 
-*GRO:	 (  ) 
-*MAR:	similar to 
-*GRO:	 (  ) 
-*MAR:	chopped it up and then 
-*GRO:	 (  ) 
-*MAR:	and I've got twins 
-*ROS:	Oh that's nice 
-*DOR:	We've got one at work that looks like a tree 
-*GRO:	 (  )  (  ) 
-*DOR:	together? 
-*MAR:	it's about twelve feet, no, yeah about twelve feet tall. 
-*AND:	I've put it on the stairs you see so it's got like double height to go to, it's nearly filled that, the thing is, the 
-*GRO:	 (  ) 
-*AND:	at the bottom then about six foot gap and then 
-*GRO:	 (  ) 
-*AND:	at the top 
-*DOR:	Yeah, ((laugh))  
-*AND:	the 
-*GRO:	 (  ) 
-*AND:	the branch goes to the top 
-*DOR:	You won't do it like that, you'll have to sort of  
-*GRO:	 (  ) 
-*DOR:	I suppose a handle of 
-*GRO:	 (  )  (.) 
-*DOR:	Well now, that'll do us 
-*GRO:	 (  ) 
-*ROS:	instead of having, I mean you don't think at the time, but what she should of said was can I go away, come back for another interview another day, which means she, she's 
-*GRO:	 (  ) 
-*ROS:	for the hour because all she could think of was this 
-*GRO:	 (  ) 
-*ROS:	of course if she told me as soon as she'd done it 
-*DOR:	Yeah 
-*ROS:	I cou  , I would of said well right tell them 
-*DOR:	yeah, yeah 
-*MAR:	Mm 
-*ROS:	ask them for another go, of course she left it till she had the results and then told me   (.) so I'm writing now to the 
-*GRO:	 (  ) 
-*DOR:	yeah 
-*AND:	Mm. 
-*ROS:	 so, cos she's stuck in working   
-*MAR:	 Even if she's not   
-*GRO:	 (  ) 
-*ROS:	selling curtains for them and erm obviously she was 
-*GRO:	 (  )  (  ) 
-*DOR:	Is there anybody we know that's any good at tuitioning? 
-*MAR:	Oh, I come back from 
-*GRO:	 (  ) 
-*MAR:	of private lessons but I just really can't get a grip of it. 
-*DOR:	No, I meant just sort of somebody we know 
-*ROS:	 What would we have to do? 
-*AND:	 The trouble is that   
-*GRO:	 (  ) 
-*DOR:	like if you were dyslexic I could help you. 
-*GRO:	 (  ) 
-*AND:	I could help with maths 
-*GRO:	 (  ) 
-*ROS:	You've got to know the syllabus though and you've got to know what, I don't know what 
-*DOR:	Yeah you've got to know what you're doing 
-*GRO:	 (  ) 
-*ROS:	It's not a case of helping because in the letters I know what, I know what I'm doing, I'm just, I'm just gone to, 
-*DOR:	yeah 
-*ROS:	I've got everything right, actually what I did and I couldn't give you, I haven't got a clue, trigonometry, well I couldn't tell you how to do it, I should 
-*GRO:	  (  )  
-*DOR:	 That's why you need  somebody you can ring up and say look, we did this yesterday what am I doing wrong today? 
-*MAR:	Yeah. 
-*ROS:	It goes out my head from one week to the next, I can't keep it, I know what I'm doing   
-*DOR:	 Keep it up   
-*ROS:	at the time 
-*GRO:	 (  ) 
-*DOR:	some sort of 
-*GRO:	 (  ) 
-*DOR:	 but again if, if somebody who knows about the G C S E actual course   
-*GRO:	  (  )  
-*MAR:	you know the G C S E, did you know about 
-*GRO:	 (  ) 
-*MAR:	yeah I did that  at school   
-*DOR:	 Someone  must teach it somewhere. 
-*ROS:	Erm, oh erm  (.)  
-*DOR:	Who? 
-*ROS:	Mike   
-*AND:	I was gonna say Mike   has had a degree in that 
-*ROS:	He 
-*GRO:	 (  ) 
-*ROS:	but he might know 
-*AND:	What you'd have to do, you know, you tell him what you need to know, he'll be able to tell you how to do it. 
-*MAR:	Oh I don't even wanna do it, I just need 
-*GRO:	 (  ) 
-*AND:	It's good book though isn't it? 
-*GRO:	 (  ) 
-*MAR:	books here, yeah, I just, read them, I don't know if I can do it I 
-*GRO:	 (  ) 
-*AND:	but it, he needs to find out what he needs to teach you through the book so you know 
-*ROS:	What you need to do is to find 
-*AND:	books are they 
-*ROS:	a memory thing, that will, you know, click your memory, you know how some people have an a 
-*GRO:	 (  ) 
-*ROS:	yeah  (.)  
-*DOR:	well 
-*MAR:	I know what you mean 
-*AND:	I can just remember though you know over  the   
-*GRO:	  (  )  
-*DOR:	 No I remember   
-*GRO:	 (  ) 
-*DOR:	I just need something that reminds you of what you've done rather than, er  (.)  
-*MAR:	Like my 
-*GRO:	 (  ) 
-*MAR:	I just can't remember that twenty  (.)  
-*DOR:	Well, you'll pass 
-*MAR:	No you don't pass or fail you get given marks out 
-*GRO:	 (  ) 
-*DOR:	Yeah, but I mean you only 
-*MAR:	that was 
-*GRO:	 (  ) 
-*MAR:	and I'd written down 
-*GRO:	 (  ) 
-*MAR:	just sit down and listen, then read the question wrong 
-*GRO:	 (  ) 
-*MAR:	write down the answer 
-*GRO:	 (  ) 
-*MAR:	anything from 
-*GRO:	 (  )  (  ) 
-*AND:	What I could never do was 
-*GRO:	 (  ) 
-*AND:	but I could never do them 
-*GRO:	 (  ) 
-*MAR:	being those things like  well I can't do those tables   
-*DOR:	 all the   
-*GRO:	  (  )  
-*DOR:	 and what not   
-*MAR:	at all, I've never since a child remember 
-*AND:	Well you should of been learning those 
-*MAR:	I've tried, I can't for the life of me  remember them   
-*AND:	 I can't remember   
-*MAR:	I've tried 
-*GRO:	  (  )  
-*DOR:	 Can you get up to five, fives? 
-*MAR:	twenty five 
-*DOR:	Yeah, but can you get up to that, like get all your other tables? 
-*MAR:	No, I can't  remember   
-*GRO:	  (  )  
-*GRO:	  (  )  
-*DOR:	Right, you know the twos, threes and fours and fives tables? 
-*MAR:	Twos no, no 
-*DOR:	Oh dear 
-*MAR:	I can't do them, I've learnt them 
-*DOR:	sixes onwards I'll show you how dyslexic to do it with their hands  ((laugh))  
-*ROS:	 ((laugh)) I've got my sheet of paper  ((laugh))  
-*DOR:	 You don't need   
-*GRO:	  (  )  
-*ROS:	 One two   
-*GRO:	 (  ) 
-*MAR:	Ooh somehow. 
-*GRO:	 (  ) 
-*AND:	We learnt them by chart. 
-*ROS:	Yeah I did that at  school we had to stay in most break times as a child cos I couldn't remember, and I, I know that my mum bought me a books so I used to sit for days and days, then my mum going over and then my nan going over and I couldn't remember if I wanted to   
-*DOR:	 The number you have put them together in different places and as usual I got the numbers that fell of the   
-*GRO:	 (  ) 
-*DOR:	couldn't sort out, so those things, bit confusing so 
-*GRO:	 (  ) 
-*DOR:	complicated when you start it out, but if you can't remember for the life of you then, it's quite 
-*GRO:	 (  ) 
-*MAR:	Yeah I have to do it, you know, four, fours, five, fives erm providing I remember those middles then I can carry on, anything  over   
-*DOR:	 I know   
-*MAR:	you know, say seven, sevens I know are forty nine 
-*ROS:	Mm 
-*MAR:	so that eight sevens are fifty six and I carry on from there, but you can't do that   
-*ROS:	 you've got to have  something like 
-*GRO:	 (  ) 
-*MAR:	well I, I 
-*GRO:	 (  ) 
-*ROS:	I can't do it, yeah I can't do it 
-*DOR:	And are there things like that then, tables?  Or is it more complicated? Yeah I was gonna say   
-*MAR:	 No, they're much more complicated, if you get an equation  what's X 
-*DOR:	Right 
-*MAR:	and you've gotta find, you've gotta know  what happens   
-*AND:	 I'll take Wednesday   
-*DOR:	Yeah 
-*MAR:	and like they give you a secret number of what comes next 
-*DOR:	Yeah 
-*AND:	I could never do those of, I never got one of those right. 
-*DOR:	I would hate to do that orally I could only do that with 
-*GRO:	 (  ) 
-*DOR:	I think 
-*MAR:	Yeah 
-*ROS:	You can write it down, by the time you've written it down and thought about it 
-*DOR:	Should of had the answer 
-*ROS:	yeah, I find that, that I've done it and I've written down the answer and then I can't think which number does it go to, and by the time I've got to number one they're on about six, so I might as well, I'm lost it completely, so I can't do that either and my project work, course work, goes towards certain percent of my marks and I can't think for the life of me why 
-*GRO:	 (  ) 
-*ROS:	cos I don't want 
-*GRO:	 (  ) 
-*ROS:	you get one percent on explaining how you do it 
-*GRO:	 (  ) 
-*ROS:	so that's that, I can't rely on my course work for my marks so that's 
-*GRO:	 (  ) 
-*ROS:	I can't do it, so that I've got to get full marks for the exam to pass, without the other two bits on it, I can't do that 
-*GRO:	 (  ) 
-*DOR:	Why is the project work so 
-*AND:	You don't have to have English? 
-*ROS:	No, cos I'm old 
-*AND:	Brilliant cos I 
-*GRO:	 (  ) 
-*ROS:	pass mark, I've done the work and I've 
-*GRO:	 (  ) 
-*AND:	We've all stood teaching, I've got maths I haven't got English. 
-*MAR:	This is, is this O level? 
-*ROS:	A level English, Language and Literature I'm doing which isn't really 
-*GRO:	 (  ) 
-*ROS:	but I might not pass, I haven't got the time and difficult when I'm working I can't 
-*GRO:	 (  ) 
-*ROS:	if I start and it starts getting boring 
-*GRO:	 (  ) 
-*ROS:	motivation is 
-*GRO:	 (  ) 
-*AND:	I can do an essay to prove I can 
-*GRO:	 (  ) 
-*MAR:	It's all too much for me 
-*DOR:	That can go next 
-*GRO:	 (  ) 
-*ROS:	Yeah 
-*DOR:	They're nice 
-*GRO:	 (  ) 
-*DOR:	these two, really nice, I like this one 
-*GRO:	 (  ) 
-*DOR:	exactly that's what I was thinking  ((laugh))  
-*GRO:	 (  ) 
-*DOR:	you could come on our weekend if you're not going 
-*GRO:	 (  ) 
-*DOR:	if you're not going to 
-*GRO:	 (  ) 
-*DOR:	cos they're going all weekend 
-*GRO:	 (  ) 
-*ROS:	Did he tell you? 
-*DOR:	He said, he was hoping to go and work there, so 
-*ROS:	And what did he say, three months? 
-*DOR:	For a year and that's all I need 
-*GRO:	 (  ) 
-*DOR:	this is what he would liked to do 
-*ROS:	Too frightened to ask him now 
-*MAR:	No we don't about it 
-*ROS:	oh 
-*MAR:	because he told me 
-*GRO:	 (  ) 
-*DOR:	Oh I think we will, well it's 
-*GRO:	 (  ) 
-*MAR:	yeah after a year, yeah 
-*GRO:	 (  ) 
-*ROS:	Unless he can get a work  permit   
-*DOR:	 been  before he said, yeah, and come back   
-*MAR:	 They don't always  come back, they don't always use the 
-*GRO:	 (  ) 
-*MAR:	 the main thing being   
-*ROS:	 I know if going for at least  
-*MAR:	luckily 
-*GRO:	 (  )  (.) 
-*DOR:	Anyway, unfortunately  he was gonna go in   
-*MAR:	 I wasn't   
-*GRO:	 (  ) 
-*DOR:	October which is a pity really cos that was when our weekend 
-*GRO:	 (  ) 
-*DOR:	 ooh quite keen   
-*MAR:	 Enjoyed your   
-*GRO:	 (  ) 
-*MAR:	for a year? 
-*DOR:	quite keen, well it isn't as if I'm gonna stay for a year, he's sort of thinking sort of you know going out there to work and I 
-*GRO:	 (  ) 
-*ROS:	What does he do? 
-*GRO:	 (  )  (6.0) 
-*GRO:	 (  ) 
-*ROS:	See it driving, actually see me driving 
-*GRO:	 (  ) 
-*DOR:	Yeah 
-*ROS:	car park, drove in very slowly 
-*GRO:	 (  ) 
-*ROS:	me driving this blooming car 
-*GRO:	 (  ) 
-*ROS:	somebody saw me 
-*DOR:	crash 
-*GRO:	 (  ) 
-*ROS:	got the keys out, pressed the alarm, hello  ((laugh)) , I'm quite impressed, cos my car's a scrap heap 
-*DOR:	And why is your car a scrap heap? 
-*ROS:	cos I haven't got any money to do it up, nineteen sixty 
-*GRO:	 (  ) 
-*ROS:	no 
-*GRO:	 (  )  (  ) 
-*ROS:	really, you see I was hoping that I was going anyway to 
-*GRO:	 (  ) 
-*ROS:	and that was gonna be it, I won't need it any more, but it turns out that I will so I'll, I've got a car 
-*GRO:	 (  ) 
-*ROS:	Oh I   (.) patched together 
-*GRO:	 (  ) 
-*AND:	Right this is er 
-*GRO:	 (  ) 
-*MAR:	 ((laugh)) both  ((laugh))  
-*GRO:	 (  ) 
-*AND:	I have you know I've been going round and testing how many miles per galleon you can get out of it 
-*DOR:	Per galleon? 
-*AND:	per galleon, yeah  ((laugh))  
-*GRO:	 (  ) 
-*DOR:	Well that's the trouble really, it's 
-*GRO:	 (  ) 
-*DOR:	Good 
-*GRO:	 (  ) 
-*ROS:	get depressed about it, I've been feeling very depressed about it 
-*GRO:	 (  ) 
-*DOR:	Why? You still very depressed about it? 
-*GRO:	 (  ) 
-*MAR:	 Remind him Barry he's got something to ask Pat   
-*GRO:	  (  )  
-*DOR:	homework afterwards 
-*ROS:	I don't know I 
-*DOR:	 You might have a bit of a whirl   
-*GRO:	  (  )  
-*DOR:	project 
-*GRO:	 (  ) 
-*ROS:	 I can't do it, I'll try   
-*GRO:	  (  )  
-*DOR:	Well ask him, he can only say 
-*GRO:	 (  ) 
-*ROS:	You're not 
-*DOR:	No I'm not  ((yawn)) . Are you comfortable there? 
-*AND:	It's surprising 
-*GRO:	 (  ) 
-*ROS:	Oh I've got a lovely 
-*GRO:	 (  ) 
-*DOR:	Lucky girl, what about your toes? 
-*ROS:	the one I had, Ernie my instructor at work was this thick from bottom to top 
-*DOR:	Well it would look such a 
-*ROS:	and they were black 
-*DOR:	obvious 
-*ROS:	 this thick   
-*DOR:	 this thick   
-*ROS:	and I didn't change them all day cos I haven't got any money to buy any more  so I have to wear them   
-*AND:	 Why not, you  should put one of hers on and say it was patterned 
-*ROS:	No, it was horrific, it really did look 
-*GRO:	 (  ) 
-*ROS:	I ask you and someone got up and like turned the 
-*GRO:	 (  ) 
-*DOR:	Oh do you want bits and pieces back? 
-*GRO:	 (  )  (  ) 
-*DOR:	Are we 
-*GRO:	 (  ) 
-*DOR:	how embarrassing, what will that be? 
-*AND:	We've raised   (.) half that size 
-*DOR:	I don't think I've ever had that amount in it  (.)  
-*GRO:	 (  ) 
-*DOR:	 ((yawn)) cos really, we didn't really go into cost relations 
-*MAR:	No 
-*DOR:	did we really? 
-*GRO:	 (  ) 
-*MAR:	I think we ought to anyway, I think it, it's, ought to be priority. 
-*GRO:	 (  ) 
-*DOR:	Can you imagine them sending the whole lot? 
-*GRO:	 (  ) 
-*DOR:	Mind you, we've got some quite, quite music and things and 
-*GRO:	 (  ) 
-*DOR:	or just have a, you know, start us off because it begin with something, that is 
-*GRO:	 (  ) 
-*DOR:	you know 
-*MAR:	yeah 
-*DOR:	plays the 
-*GRO:	 (  ) 
-*DOR:	otherwise you're just complete cold 
-*GRO:	 (  ) 
-*DOR:	it comes to you too late, and also 
-*GRO:	 (  ) 
-*ROS:	Oh, shall we go home now? 
-*GRO:	 (  ) 
-*ROS:	we go home now? 
-*DOR:	Well I'd like to say stay a long time but actually I thought 
-*GRO:	 (  ) 
-*ROS:	can we go? When can we go? Come visiting 
-*DOR:	Nice to see you 
-*GRO:	 (  ) 
-*DOR:	I'll miss you otherwise cos I don't see much of you. 
-*GRO:	 (  ) 
-*DOR:	Right, what am I doing? 
-*AND:	I'm not sure which 
-*GRO:	 (  ) 
-*DOR:	what am I doing? Chris what am I doing on Sunday? 
-*UNK:	I don't know 
-*DOR:	Oh dear. 
-*GRO:	 (  ) 
-*DOR:	Do you know what I'm doing on Sunday? 
-*UNK:	I don't know what you're doing actually 
-*DOR:	I might be doing 
-*GRO:	 (  ) 
+*ROS:	I've got an ordinary
+*GRO:	 (        ) 
+*ROS:	just keep peeling the bottom ones off it, just get
+*GRO:	 (        ) 
+*ROS:	missing
+*MAR:	My yucca's dying
+*DOR:	Oh dear
+*ROS:	That could well be the compost, poor leaves and things
+*GRO:	 (        ) 
+*DOR:	Maybe
+*GRO:	 (        ) 
+*MAR:	Well I think I've over watered it
+*AND:	Best to let it 
+*GRO:	 (        ) 
+*MAR:	I know I'm, I'm
+*GRO:	 (        ) 
+*ROS:	I don't water mine very often I wait till the, one of the leaves start to go a bit yellow and then
+*MAR:	Oh
+*GRO:	 (        ) 
+*ROS:	I don't like them personally
+*DOR:	Why not?
+*MAR:	somebody else wanted one 
+*ROS:	I hated it 
+*DOR:	Ah, there you are.
+*GRO:	 (        ) 
+*MAR:	similar to
+*GRO:	 (        ) 
+*MAR:	chopped it up and then
+*GRO:	 (        ) 
+*MAR:	and I've got twins
+*ROS:	Oh that's nice
+*DOR:	We've got one at work that looks like a tree
+*GRO:	 (        )  (        ) 
+*DOR:	together?
+*MAR:	it's about twelve feet, no, yeah about twelve feet tall.
+*AND:	I've put it on the stairs you see so it's got like double height to go to, it's nearly filled that, the thing is, the
+*GRO:	 (        ) 
+*AND:	at the bottom then about six foot gap and then
+*GRO:	 (        ) 
+*AND:	at the top
+*DOR:	Yeah, ((laugh)) 
+*AND:	the
+*GRO:	 (        ) 
+*AND:	the branch goes to the top
+*DOR:	You won't do it like that, you'll have to sort of 
+*GRO:	 (        ) 
+*DOR:	I suppose a handle of
+*GRO:	 (        )  (.) 
+*DOR:	Well now, that'll do us
+*GRO:	 (        ) 
+*ROS:	instead of having, I mean you don't think at the time, but what she should of said was can I go away, come back for another interview another day, which means she, she's
+*GRO:	 (        ) 
+*ROS:	for the hour because all she could think of was this
+*GRO:	 (        ) 
+*ROS:	of course if she told me as soon as she'd done it
+*DOR:	Yeah
+*ROS:	I cou , I would of said well right tell them
+*DOR:	yeah, yeah
+*MAR:	Mm
+*ROS:	ask them for another go, of course she left it till she had the results and then told me   (.) so I'm writing now to the
+*GRO:	 (        ) 
+*DOR:	yeah
+*AND:	Mm.
+*ROS:	so, cos she's stuck in working 
+*MAR:	Even if she's not 
+*GRO:	 (        ) 
+*ROS:	selling curtains for them and erm obviously she was
+*GRO:	 (        )  (        ) 
+*DOR:	Is there anybody we know that's any good at tuitioning?
+*MAR:	Oh, I come back from
+*GRO:	 (        ) 
+*MAR:	of private lessons but I just really can't get a grip of it.
+*DOR:	No, I meant just sort of somebody we know
+*ROS:	What would we have to do?
+*AND:	The trouble is that 
+*GRO:	 (        ) 
+*DOR:	like if you were dyslexic I could help you.
+*GRO:	 (        ) 
+*AND:	I could help with maths
+*GRO:	 (        ) 
+*ROS:	You've got to know the syllabus though and you've got to know what, I don't know what
+*DOR:	Yeah you've got to know what you're doing
+*GRO:	 (        ) 
+*ROS:	It's not a case of helping because in the letters I know what, I know what I'm doing, I'm just, I'm just gone to,
+*DOR:	yeah
+*ROS:	I've got everything right, actually what I did and I couldn't give you, I haven't got a clue, trigonometry, well I couldn't tell you how to do it, I should
+*GRO:	 (        ) 
+*DOR:	That's why you need somebody you can ring up and say look, we did this yesterday what am I doing wrong today?
+*MAR:	Yeah.
+*ROS:	It goes out my head from one week to the next, I can't keep it, I know what I'm doing 
+*DOR:	Keep it up 
+*ROS:	at the time
+*GRO:	 (        ) 
+*DOR:	some sort of
+*GRO:	 (        ) 
+*DOR:	but again if, if somebody who knows about the G C S E actual course 
+*GRO:	 (        ) 
+*MAR:	you know the G C S E, did you know about
+*GRO:	 (        ) 
+*MAR:	yeah I did that at school 
+*DOR:	Someone must teach it somewhere.
+*ROS:	Erm, oh erm  (.) 
+*DOR:	Who?
+*ROS:	Mike 
+*AND:	I was gonna say Mike  has had a degree in that
+*ROS:	He
+*GRO:	 (        ) 
+*ROS:	but he might know
+*AND:	What you'd have to do, you know, you tell him what you need to know, he'll be able to tell you how to do it.
+*MAR:	Oh I don't even wanna do it, I just need
+*GRO:	 (        ) 
+*AND:	It's good book though isn't it?
+*GRO:	 (        ) 
+*MAR:	books here, yeah, I just, read them, I don't know if I can do it I
+*GRO:	 (        ) 
+*AND:	but it, he needs to find out what he needs to teach you through the book so you know
+*ROS:	What you need to do is to find
+*AND:	books are they
+*ROS:	a memory thing, that will, you know, click your memory, you know how some people have an a
+*GRO:	 (        ) 
+*ROS:	yeah  (.) 
+*DOR:	well
+*MAR:	I know what you mean
+*AND:	I can just remember though you know over the 
+*GRO:	 (        ) 
+*DOR:	No I remember 
+*GRO:	 (        ) 
+*DOR:	I just need something that reminds you of what you've done rather than, er  (.) 
+*MAR:	Like my
+*GRO:	 (        ) 
+*MAR:	I just can't remember that twenty  (.) 
+*DOR:	Well, you'll pass
+*MAR:	No you don't pass or fail you get given marks out
+*GRO:	 (        ) 
+*DOR:	Yeah, but I mean you only
+*MAR:	that was
+*GRO:	 (        ) 
+*MAR:	and I'd written down
+*GRO:	 (        ) 
+*MAR:	just sit down and listen, then read the question wrong
+*GRO:	 (        ) 
+*MAR:	write down the answer
+*GRO:	 (        ) 
+*MAR:	anything from
+*GRO:	 (        )  (        ) 
+*AND:	What I could never do was
+*GRO:	 (        ) 
+*AND:	but I could never do them
+*GRO:	 (        ) 
+*MAR:	being those things like well I can't do those tables 
+*DOR:	all the 
+*GRO:	 (        ) 
+*DOR:	and what not 
+*MAR:	at all, I've never since a child remember
+*AND:	Well you should of been learning those
+*MAR:	I've tried, I can't for the life of me remember them 
+*AND:	I can't remember 
+*MAR:	I've tried
+*GRO:	 (        ) 
+*DOR:	Can you get up to five, fives?
+*MAR:	twenty five
+*DOR:	Yeah, but can you get up to that, like get all your other tables?
+*MAR:	No, I can't remember 
+*GRO:	 (        ) 
+*GRO:	 (        ) 
+*DOR:	Right, you know the twos, threes and fours and fives tables?
+*MAR:	Twos no, no
+*DOR:	Oh dear
+*MAR:	I can't do them, I've learnt them
+*DOR:	sixes onwards I'll show you how dyslexic to do it with their hands  ((laugh)) 
+*ROS:	 ((laugh)) I've got my sheet of paper  ((laugh)) 
+*DOR:	You don't need 
+*GRO:	 (        ) 
+*ROS:	One two 
+*GRO:	 (        ) 
+*MAR:	Ooh somehow.
+*GRO:	 (        ) 
+*AND:	We learnt them by chart.
+*ROS:	Yeah I did that at school we had to stay in most break times as a child cos I couldn't remember, and I, I know that my mum bought me a books so I used to sit for days and days, then my mum going over and then my nan going over and I couldn't remember if I wanted to 
+*DOR:	The number you have put them together in different places and as usual I got the numbers that fell of the 
+*GRO:	 (        ) 
+*DOR:	couldn't sort out, so those things, bit confusing so
+*GRO:	 (        ) 
+*DOR:	complicated when you start it out, but if you can't remember for the life of you then, it's quite
+*GRO:	 (        ) 
+*MAR:	Yeah I have to do it, you know, four, fours, five, fives erm providing I remember those middles then I can carry on, anything over 
+*DOR:	I know 
+*MAR:	you know, say seven, sevens I know are forty nine
+*ROS:	Mm
+*MAR:	so that eight sevens are fifty six and I carry on from there, but you can't do that 
+*ROS:	you've got to have something like
+*GRO:	 (        ) 
+*MAR:	well I, I
+*GRO:	 (        ) 
+*ROS:	I can't do it, yeah I can't do it
+*DOR:	And are there things like that then, tables?Or is it more complicated?Yeah I was gonna say 
+*MAR:	No, they're much more complicated, if you get an equation what's X
+*DOR:	Right
+*MAR:	and you've gotta find, you've gotta know what happens 
+*AND:	I'll take Wednesday 
+*DOR:	Yeah
+*MAR:	and like they give you a secret number of what comes next
+*DOR:	Yeah
+*AND:	I could never do those of, I never got one of those right.
+*DOR:	I would hate to do that orally I could only do that with
+*GRO:	 (        ) 
+*DOR:	I think
+*MAR:	Yeah
+*ROS:	You can write it down, by the time you've written it down and thought about it
+*DOR:	Should of had the answer
+*ROS:	yeah, I find that, that I've done it and I've written down the answer and then I can't think which number does it go to, and by the time I've got to number one they're on about six, so I might as well, I'm lost it completely, so I can't do that either and my project work, course work, goes towards certain percent of my marks and I can't think for the life of me why
+*GRO:	 (        ) 
+*ROS:	cos I don't want
+*GRO:	 (        ) 
+*ROS:	you get one percent on explaining how you do it
+*GRO:	 (        ) 
+*ROS:	so that's that, I can't rely on my course work for my marks so that's
+*GRO:	 (        ) 
+*ROS:	I can't do it, so that I've got to get full marks for the exam to pass, without the other two bits on it, I can't do that
+*GRO:	 (        ) 
+*DOR:	Why is the project work so
+*AND:	You don't have to have English?
+*ROS:	No, cos I'm old
+*AND:	Brilliant cos I
+*GRO:	 (        ) 
+*ROS:	pass mark, I've done the work and I've
+*GRO:	 (        ) 
+*AND:	We've all stood teaching, I've got maths I haven't got English.
+*MAR:	This is, is this O level?
+*ROS:	A level English, Language and Literature I'm doing which isn't really
+*GRO:	 (        ) 
+*ROS:	but I might not pass, I haven't got the time and difficult when I'm working I can't
+*GRO:	 (        ) 
+*ROS:	if I start and it starts getting boring
+*GRO:	 (        ) 
+*ROS:	motivation is
+*GRO:	 (        ) 
+*AND:	I can do an essay to prove I can
+*GRO:	 (        ) 
+*MAR:	It's all too much for me
+*DOR:	That can go next
+*GRO:	 (        ) 
+*ROS:	Yeah
+*DOR:	They're nice
+*GRO:	 (        ) 
+*DOR:	these two, really nice, I like this one
+*GRO:	 (        ) 
+*DOR:	exactly that's what I was thinking  ((laugh)) 
+*GRO:	 (        ) 
+*DOR:	you could come on our weekend if you're not going
+*GRO:	 (        ) 
+*DOR:	if you're not going to
+*GRO:	 (        ) 
+*DOR:	cos they're going all weekend
+*GRO:	 (        ) 
+*ROS:	Did he tell you?
+*DOR:	He said, he was hoping to go and work there, so
+*ROS:	And what did he say, three months?
+*DOR:	For a year and that's all I need
+*GRO:	 (        ) 
+*DOR:	this is what he would liked to do
+*ROS:	Too frightened to ask him now
+*MAR:	No we don't about it
+*ROS:	oh
+*MAR:	because he told me
+*GRO:	 (        ) 
+*DOR:	Oh I think we will, well it's
+*GRO:	 (        ) 
+*MAR:	yeah after a year, yeah
+*GRO:	 (        ) 
+*ROS:	Unless he can get a work permit 
+*DOR:	been before he said, yeah, and come back 
+*MAR:	They don't always come back, they don't always use the
+*GRO:	 (        ) 
+*MAR:	the main thing being 
+*ROS:	I know if going for at least 
+*MAR:	luckily
+*GRO:	 (        )  (.) 
+*DOR:	Anyway, unfortunately he was gonna go in 
+*MAR:	I wasn't 
+*GRO:	 (        ) 
+*DOR:	October which is a pity really cos that was when our weekend
+*GRO:	 (        ) 
+*DOR:	ooh quite keen 
+*MAR:	Enjoyed your 
+*GRO:	 (        ) 
+*MAR:	for a year?
+*DOR:	quite keen, well it isn't as if I'm gonna stay for a year, he's sort of thinking sort of you know going out there to work and I
+*GRO:	 (        ) 
+*ROS:	What does he do?
+*GRO:	 (        )  (.) 
+*GRO:	 (        ) 
+*ROS:	See it driving, actually see me driving
+*GRO:	 (        ) 
+*DOR:	Yeah
+*ROS:	car park, drove in very slowly
+*GRO:	 (        ) 
+*ROS:	me driving this blooming car
+*GRO:	 (        ) 
+*ROS:	somebody saw me
+*DOR:	crash
+*GRO:	 (        ) 
+*ROS:	got the keys out, pressed the alarm, hello  ((laugh)) , I'm quite impressed, cos my car's a scrap heap
+*DOR:	And why is your car a scrap heap?
+*ROS:	cos I haven't got any money to do it up, nineteen sixty
+*GRO:	 (        ) 
+*ROS:	no
+*GRO:	 (        )  (        ) 
+*ROS:	really, you see I was hoping that I was going anyway to
+*GRO:	 (        ) 
+*ROS:	and that was gonna be it, I won't need it any more, but it turns out that I will so I'll, I've got a car
+*GRO:	 (        ) 
+*ROS:	Oh I   (.) patched together
+*GRO:	 (        ) 
+*AND:	Right this is er
+*GRO:	 (        ) 
+*MAR:	 ((laugh)) both  ((laugh)) 
+*GRO:	 (        ) 
+*AND:	I have you know I've been going round and testing how many miles per galleon you can get out of it
+*DOR:	Per galleon?
+*AND:	per galleon, yeah  ((laugh)) 
+*GRO:	 (        ) 
+*DOR:	Well that's the trouble really, it's
+*GRO:	 (        ) 
+*DOR:	Good
+*GRO:	 (        ) 
+*ROS:	get depressed about it, I've been feeling very depressed about it
+*GRO:	 (        ) 
+*DOR:	Why?You still very depressed about it?
+*GRO:	 (        ) 
+*MAR:	Remind him Barry he's got something to ask Pat 
+*GRO:	 (        ) 
+*DOR:	homework afterwards
+*ROS:	I don't know I
+*DOR:	You might have a bit of a whirl 
+*GRO:	 (        ) 
+*DOR:	project
+*GRO:	 (        ) 
+*ROS:	I can't do it, I'll try 
+*GRO:	 (        ) 
+*DOR:	Well ask him, he can only say
+*GRO:	 (        ) 
+*ROS:	You're not
+*DOR:	No I'm not  ((yawn)) .Are you comfortable there?
+*AND:	It's surprising
+*GRO:	 (        ) 
+*ROS:	Oh I've got a lovely
+*GRO:	 (        ) 
+*DOR:	Lucky girl, what about your toes?
+*ROS:	the one I had, Ernie my instructor at work was this thick from bottom to top
+*DOR:	Well it would look such a
+*ROS:	and they were black
+*DOR:	obvious
+*ROS:	this thick 
+*DOR:	this thick 
+*ROS:	and I didn't change them all day cos I haven't got any money to buy any more so I have to wear them 
+*AND:	Why not, you should put one of hers on and say it was patterned
+*ROS:	No, it was horrific, it really did look
+*GRO:	 (        ) 
+*ROS:	I ask you and someone got up and like turned the
+*GRO:	 (        ) 
+*DOR:	Oh do you want bits and pieces back?
+*GRO:	 (        )  (        ) 
+*DOR:	Are we
+*GRO:	 (        ) 
+*DOR:	how embarrassing, what will that be?
+*AND:	We've raised   (.) half that size
+*DOR:	I don't think I've ever had that amount in it  (.) 
+*GRO:	 (        ) 
+*DOR:	 ((yawn)) cos really, we didn't really go into cost relations
+*MAR:	No
+*DOR:	did we really?
+*GRO:	 (        ) 
+*MAR:	I think we ought to anyway, I think it, it's, ought to be priority.
+*GRO:	 (        ) 
+*DOR:	Can you imagine them sending the whole lot?
+*GRO:	 (        ) 
+*DOR:	Mind you, we've got some quite, quite music and things and
+*GRO:	 (        ) 
+*DOR:	or just have a, you know, start us off because it begin with something, that is
+*GRO:	 (        ) 
+*DOR:	you know
+*MAR:	yeah
+*DOR:	plays the
+*GRO:	 (        ) 
+*DOR:	otherwise you're just complete cold
+*GRO:	 (        ) 
+*DOR:	it comes to you too late, and also
+*GRO:	 (        ) 
+*ROS:	Oh, shall we go home now?
+*GRO:	 (        ) 
+*ROS:	we go home now?
+*DOR:	Well I'd like to say stay a long time but actually I thought
+*GRO:	 (        ) 
+*ROS:	can we go?When can we go?Come visiting
+*DOR:	Nice to see you
+*GRO:	 (        ) 
+*DOR:	I'll miss you otherwise cos I don't see much of you.
+*GRO:	 (        ) 
+*DOR:	Right, what am I doing?
+*AND:	I'm not sure which
+*GRO:	 (        ) 
+*DOR:	what am I doing?Chris what am I doing on Sunday?
+*UNK:	I don't know
+*DOR:	Oh dear.
+*GRO:	 (        ) 
+*DOR:	Do you know what I'm doing on Sunday?
+*UNK:	I don't know what you're doing actually
+*DOR:	I might be doing
+*GRO:	 (        ) 
 @End

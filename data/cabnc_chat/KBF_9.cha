@@ -1,16 +1,16 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-11-28:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0150XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	BRE Brenda self
 @Options:	CA
-@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
+@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
+@Media: 021A-C0897X0150XX-AAZZP0.wav, audio 		
+@Date:	1991-11-28:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0150XX-AAZZP0.wav
 @Comment:	conversation #9 (Tape 015009)
-*BRE:	We can buy you that then, if you want it, we never know what to buy you. Right now that's it, were now in the Argos   (.)  ((tv on)). 
+*BRE:	We can buy you that then, if you want it, we never know what to buy you.Right now that's it, were now in the Argos   (.)  ((tv on)).
 @End

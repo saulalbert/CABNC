@@ -1,22 +1,22 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-12-04:  
-@Location:	 Shops 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0143XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	GIN Ginny self, KEI Keith husband, DIN Dinda daughter
 @Options:	CA
-@ID:	eng|AudioBNC|GIN|65;|||||housewife||PS0CG|
-@ID:	eng|AudioBNC|KEI|63;|||||design engineer|husband|PS0CH|
-@ID:	eng|AudioBNC|DIN|25;|||||customs controller|daughter|PS0CJ|
+@ID: eng|AudioBNC|GIN|~65;| |f|Ag5| |housewife||PS0CG|
+@ID: eng|AudioBNC|KEI|~63;| |m|Ag5| |design engineer|husband|PS0CH|
+@ID: eng|AudioBNC|DIN|~25;| |f|Ag2| |customs controller|daughter|PS0CJ|
+@Media: 021A-C0897X0143XX-AAZZP0.wav, audio 		
+@Date:	1991-12-04:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Shops 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0143XX-AAZZP0.wav
 @Comment:	conversation #23 (Tape 014302)
-*GIN:	  ((laugh))  
-*KEI:	 Who's that?  John, John  ? 
-*DIN:	Yeah. Can you ring him some time after eight or between eight thirty and nine cos he's gonna be   (  ) so we  (  )  
-*GIN:	He can't because one of his favourite programmes is on. 
-*DIN:	Well make it after nine o'clock then. It's going up. It could be eleven o'clock  (  ) . 
+*GIN:	 ((laugh)) 
+*KEI:	Who's that?John, John ?
+*DIN:	Yeah.Can you ring him some time after eight or between eight thirty and nine cos he's gonna be   (        ) so we  (        ) 
+*GIN:	He can't because one of his favourite programmes is on.
+*DIN:	Well make it after nine o'clock then.It's going up.It could be eleven o'clock  (        ) .
 @End

@@ -1,19 +1,19 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-04-10:  
-@Location:	  at home  
-@Situation:	  playing   
-@Media:	021A-C0897X0764XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Christopher son, DAV David son
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|9;|||||student (state primary)|son|PS1BU|
-@ID:	eng|AudioBNC|DAV|6;|||||student (state primary)|son|PS1BV|
+@ID: eng|AudioBNC|CHR|~9;| |m|Ag0| |student (state primary)|son|PS1BU|
+@ID: eng|AudioBNC|DAV|~6;| |m|Ag0| |student (state primary)|son|PS1BV|
+@Media: 021A-C0897X0764XX-ABZZP0.wav, audio 		
+@Date:	1992-04-10:  
+@Situation:	  playing  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  at home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0764XX-ABZZP0.wav
 @Comment:	conversation #19 (Tape 076406)
-*CHR:	This is Thunderbird Four David. 
-*DAV:	Yeah. 
-*CHR:	Right, come on. Let's go! 
+*CHR:	This is Thunderbird Four David.
+*DAV:	Yeah.
+*CHR:	Right, come on.Let's go!
 @End

@@ -1,36 +1,36 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0054XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, UNK Unknown Unknown None ?
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6ST|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6ST|
+@Media: 021A-C0897X0054XX-AAZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0054XX-AAZZP0.wav
 @Comment:	conversation #106 (Tape 005404)
-*NON:	What're you doing now? 
-*HEL:	If it doesn't rain I'll get a bit in the garden  (  ) . 
-*NON:	 (  ) . 
-*HEL:	If it doesn't rain I'll get a bit done in the garden tomorrow. Get some plants  (  ) . 
-*NON:	Yeah. Is she, she sounds  (  ) . 
-*HEL:	Well they took her at the   (  ) there was a   (  ) I was gonna give one  (  ) . Got one with a bigger bit gave  (  ) . She hasn't had any thing think to eat since she had that biscuit. 
-*NON:	 (  ) . 
-*HEL:	 (  )  (10.0) Oh, it's quite hard work isn't it? 
-*NON:	I. 
-*HEL:	The trouble is you know she's get   (  ) and have a good go at it, it's not worth it with all the  (  ) .  ((cough)) . Cheese cake had  (  ) . 
-*NON:	 (  ) . 
-*HEL:	No I don't think she does, I, no need for putting it off. 
-*NON:	No. 
-*HEL:	She's dying to go out and play with her tennis racket. She isn't very well. 
-*NON:	No. 
-*HEL:	Oh, I just hope she does get better next week.  ((scraping plates)). The weather is so dreadful isn't it? 
-*NON:	 (  ) . 
-*HEL:	Yes. Sue said it rained on Gregory's birthday last year. 
-*NON:	Did it? (  ) . 
-*HEL:	Did you say that? (  ) dead lucky, never of done   (  ) last three years it's rained. 
+*NON:	What're you doing now?
+*HEL:	If it doesn't rain I'll get a bit in the garden  (        ) .
+*NON:	 (        ) .
+*HEL:	If it doesn't rain I'll get a bit done in the garden tomorrow.Get some plants  (        ) .
+*NON:	Yeah.Is she, she sounds  (        ) .
+*HEL:	Well they took her at the   (        ) there was a   (        ) I was gonna give one  (        ) .Got one with a bigger bit gave  (        ) .She hasn't had any thing think to eat since she had that biscuit.
+*NON:	 (        ) .
+*HEL:	 (        )  (.) Oh, it's quite hard work isn't it?
+*NON:	I.
+*HEL:	The trouble is you know she's get   (        ) and have a good go at it, it's not worth it with all the  (        ) . ((cough)) . Cheese cake had  (        ) .
+*NON:	 (        ) .
+*HEL:	No I don't think she does, I, no need for putting it off.
+*NON:	No.
+*HEL:	She's dying to go out and play with her tennis racket.She isn't very well.
+*NON:	No.
+*HEL:	Oh, I just hope she does get better next week. ((scraping plates)). The weather is so dreadful isn't it?
+*NON:	 (        ) .
+*HEL:	Yes.Sue said it rained on Gregory's birthday last year.
+*NON:	Did it? (        ) .
+*HEL:	Did you say that? (        ) dead lucky, never of done   (        ) last three years it's rained.
 @End

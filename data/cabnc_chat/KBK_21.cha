@@ -1,40 +1,40 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 home office 
-@Situation:	 work  
-@Media:	021A-C0897X0021XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, LYN Lynda colleague
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|LYN|44;|||||export assistant|colleague|PS102|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|LYN|~44;| |f|Ag3| |export assistant|colleague|PS102|
+@Media: 021A-C0897X0021XX-ABZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	 work 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home office 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0021XX-ABZZP0.wav
 @Comment:	conversation #21 (Tape 002119)
-*CHR:	Have you a thrilling weekend ahead of you? 
-*LYN:	Erm, were going in   (  ) tomorrow  (  ) . 
-*CHR:	Hm, hm. 
-*LYN:	And then to the   (  ) er, I think that's   (  )  (5.0)  
-*CHR:	Well I, I've got a, got to a, got to go and play croquet  but apart from that   ((laugh)) . 
-*LYN:	  (  )  . 
-*CHR:	Got to go and get another crate of Sam's. 
-*LYN:	 ((laugh)) . A fairly packed weekend then really. 
-*CHR:	Yes, yes, I've a. 
-*LYN:	 (  ) . 
-*CHR:	Did you see the thing, piece in the paper this morning Kew gardens says don't water your plants, we don't. 
-*LYN:	No. 
-*CHR:	Yeah, there is no water so don't use it. Funny old business. 
-*LYN:	 (  ) . 
-*CHR:	Well I've heard it before that a, said, said before that a, that, that the plant roots curl up to the surface to meet, rather than digging down deep and. 
-*LYN:	Hm. 
-*CHR:	Heading for the goodies that way. 
-*LYN:	It makes you   (  ) tree die  (  ) . 
-*CHR:	They died from being watered? 
-*LYN:	Lack of water. 
-*CHR:	From lack of water yes, well our, our, our did, our did to, our er Rosemary. 
-*LYN:	Did it? 
-*CHR:	 (  ) distress. 
-*LYN:	 (  ) . 
+*CHR:	Have you a thrilling weekend ahead of you?
+*LYN:	Erm, were going in   (        ) tomorrow  (        ) .
+*CHR:	Hm, hm.
+*LYN:	And then to the   (        ) er, I think that's   (        )  (.) 
+*CHR:	Well I, I've got a, got to a, got to go and play croquet but apart from that  ((laugh)) .
+*LYN:	 (        ) .
+*CHR:	Got to go and get another crate of Sam's.
+*LYN:	 ((laugh)) .A fairly packed weekend then really.
+*CHR:	Yes, yes, I've a.
+*LYN:	 (        ) .
+*CHR:	Did you see the thing, piece in the paper this morning Kew gardens says don't water your plants, we don't.
+*LYN:	No.
+*CHR:	Yeah, there is no water so don't use it.Funny old business.
+*LYN:	 (        ) .
+*CHR:	Well I've heard it before that a, said, said before that a, that, that the plant roots curl up to the surface to meet, rather than digging down deep and.
+*LYN:	Hm.
+*CHR:	Heading for the goodies that way.
+*LYN:	It makes you   (        ) tree die  (        ) .
+*CHR:	They died from being watered?
+*LYN:	Lack of water.
+*CHR:	From lack of water yes, well our, our, our did, our did to, our er Rosemary.
+*LYN:	Did it?
+*CHR:	 (        ) distress.
+*LYN:	 (        ) .
 @End

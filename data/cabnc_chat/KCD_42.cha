@@ -1,50 +1,50 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0049XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter, UNK Unknown Unknown None ?
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
-@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6ST|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
+@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6ST|
+@Media: 021A-C0897X0049XX-ABZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0049XX-ABZZP0.wav
 @Comment:	conversation #42 (Tape 004909)
-*NON:	What've you been doing all day today? (  ) . 
-*HEL:	Well we've been, I mean we were at Jenny's for a while, I went to the bank and eh, then we've been into Bromley all afternoon. 
-*NON:	 (  ) . 
-*HEL:	Shopping. 
-*NON:	What? 
-*HEL:	Well stuff for Clare for the Isle of Wight really. 
-*NON:	 (  ) . 
-*HEL:	She needed a back pack and she needed some soap and a tooth travelling tooth brush, eh, yes that looks alright, knock   (.) knock it of the. 
-*AMY:	Can you get me a spoon please. 
-*NON:	 (  ) . 
-*AMY:	Eh a knife I think. 
-*CLA:	Pardon. 
-*AMY:	A knife I think. 
-*CLA:	 (  ) . I'll do it  (5.0)  
-*NON:	That's about all really, nothing very exciting, I mean we were probably at Jenny's an hour. 
-*HEL:	 (  ) . 
-*NON:	Erm, there's a sort of shop in the mall that sort of sells, oh it, it does key cutting and heeling and stuff, we got one from there in the end. We had a look in Salisbury's but she didn't like any of them there. There so expensive. 
-*AMY:	Now what shall we do? 
-*NON:	You can wash the erm, the beaters, and you can put the cream next to the other bowl and I'll mix them altogether when I've got the lemon juice in. 
-*AMY:	 (  ) .  (  ) in my hair. 
-*NON:	Oh Clare you have, tt. 
-*AMY:	I thought I'd  (  ) . 
-*NON:	tt oh. Go on put the cream down, you don't wonder around with that. Put it down here. Oh come on. 
-*AMY:	I didn't mean to. 
-*NON:	Well, would you like to wash and dry your hair? Oh  come on I'm tired  . 
-*CLA:	 Look what's Clare done  . 
-*AMY:	Sorry. 
-*NON:	Right. 
-*AMY:	 (  ) . 
-*NON:	Right, well would you like to go up and run Amy a bath then please, cos I haven't got this finished and. 
-*HEL:	What's this? 
-*NON:	Oh my dress I need to shorten it. 
+*NON:	What've you been doing all day today? (        ) .
+*HEL:	Well we've been, I mean we were at Jenny's for a while, I went to the bank and eh, then we've been into Bromley all afternoon.
+*NON:	 (        ) .
+*HEL:	Shopping.
+*NON:	What?
+*HEL:	Well stuff for Clare for the Isle of Wight really.
+*NON:	 (        ) .
+*HEL:	She needed a back pack and she needed some soap and a tooth travelling tooth brush, eh, yes that looks alright, knock   (.) knock it of the.
+*AMY:	Can you get me a spoon please.
+*NON:	 (        ) .
+*AMY:	Eh a knife I think.
+*CLA:	Pardon.
+*AMY:	A knife I think.
+*CLA:	 (        ) .I'll do it  (.) 
+*NON:	That's about all really, nothing very exciting, I mean we were probably at Jenny's an hour.
+*HEL:	 (        ) .
+*NON:	Erm, there's a sort of shop in the mall that sort of sells, oh it, it does key cutting and heeling and stuff, we got one from there in the end.We had a look in Salisbury's but she didn't like any of them there.There so expensive.
+*AMY:	Now what shall we do?
+*NON:	You can wash the erm, the beaters, and you can put the cream next to the other bowl and I'll mix them altogether when I've got the lemon juice in.
+*AMY:	 (        ) . (        ) in my hair.
+*NON:	Oh Clare you have, tt.
+*AMY:	I thought I'd  (        ) .
+*NON:	tt oh.Go on put the cream down, you don't wonder around with that.Put it down here.Oh come on.
+*AMY:	I didn't mean to.
+*NON:	Well, would you like to wash and dry your hair?Oh come on I'm tired .
+*CLA:	Look what's Clare done .
+*AMY:	Sorry.
+*NON:	Right.
+*AMY:	 (        ) .
+*NON:	Right, well would you like to go up and run Amy a bath then please, cos I haven't got this finished and.
+*HEL:	What's this?
+*NON:	Oh my dress I need to shorten it.
 @End

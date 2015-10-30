@@ -1,17 +1,18 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	unknown date:  Unspecified 
-@Media:	021A-C0897X0092XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , BET Betty self
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|BET|57;|||||housewife||PS04B|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|BET|~57;| |f|Ag4| |housewife||PS04B|
+@Media: 021A-C0897X0092XX-ABZZP0.wav, audio 		
+@Date:	unknown date:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0092XX-ABZZP0.wav
 @Comment:	conversation #13 (Tape 009203)
-*UNK:	She says are you coming down for Christmas and I said I don't know yet. I said things is bothering me a little bit. So she said well why? So I said look Pam, I said you know why. I said you know what's all about and to start with it's bloody nonsense. It's the bloody daftest thing I've ever bloody heard. I   (  ) Sophie can walk over. She walks in and out and you don't even bloody see her. I said it's a lot of bloody rubbish. I said and another thing I said I'm going to tell you straight. I said  (  )  
-*UNK:	Ah! 
-*BET:	And I 
+*UNK:	She says are you coming down for Christmas and I said I don't know yet.I said things is bothering me a little bit.So she said well why?So I said look Pam, I said you know why.I said you know what's all about and to start with it's bloody nonsense.It's the bloody daftest thing I've ever bloody heard.I   (        ) Sophie can walk over.She walks in and out and you don't even bloody see her.I said it's a lot of bloody rubbish.I said and another thing I said I'm going to tell you straight.I said  (        ) 
+*UNK:	Ah!
+*BET:	And I
 @End

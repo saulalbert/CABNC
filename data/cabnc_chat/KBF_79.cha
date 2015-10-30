@@ -1,33 +1,33 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-12-01:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0158XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	BRE Brenda self, LEE Lee son, CAR Carla daughter
 @Options:	CA
-@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
-@ID:	eng|AudioBNC|LEE|15;|||||student (state secondary)|son|PS04W|
-@ID:	eng|AudioBNC|CAR|11;|||||student (state primary)|daughter|PS04X|
+@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
+@ID: eng|AudioBNC|LEE|~15;| |m|Ag1| |student (state secondary)|son|PS04W|
+@ID: eng|AudioBNC|CAR|~11;| |f|Ag0| |student (state primary)|daughter|PS04X|
+@Media: 021A-C0897X0158XX-AAZZP0.wav, audio 		
+@Date:	1991-12-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0158XX-AAZZP0.wav
 @Comment:	conversation #83 (Tape 015803)
-*BRE:	What's the maths revision then?  (.) What's the maths revision? 
-*LEE:	 ((cough)) He's been given the   (  ) today in maths. 
-*BRE:	Here you are. Spit that Locket out and have that   (  ) better. Have this one. Sorry could you get it Carla it's gone behind. It's a lot stronger.  (.) Here you are, Carla. 
+*BRE:	What's the maths revision then? (.) What's the maths revision?
+*LEE:	 ((cough)) He's been given the   (        ) today in maths.
+*BRE:	Here you are.Spit that Locket out and have that   (        ) better.Have this one.Sorry could you get it Carla it's gone behind.It's a lot stronger. (.) Here you are, Carla.
 *CAR:	 ((scream)) 
-*BRE:	That's  (  )  
+*BRE:	That's  (        ) 
 *LEE:	 ((cough)) 
-*BRE:	Spit that out. 
-*LEE:	 (  ) first. (  )  
-*BRE:	Yeah. What's the maths? 
-*LEE:	 (  ) revision paper  (  ) . 
-*BRE:	 (  ) has he got one for  (  ) ? (.)  
-*LEE:	No, he   (  ) this one. 
-*BRE:	So did you miss much? Did you get any homework? 
-*LEE:	 (  ) 
-*BRE:	Mm. 
+*BRE:	Spit that out.
+*LEE:	 (        ) first. (        ) 
+*BRE:	Yeah.What's the maths?
+*LEE:	 (        ) revision paper  (        ) .
+*BRE:	 (        ) has he got one for  (        ) ? (.) 
+*LEE:	No, he   (        ) this one.
+*BRE:	So did you miss much?Did you get any homework?
+*LEE:	 (        ) 
+*BRE:	Mm.
 *LEE:	 ((cough)) 
 @End

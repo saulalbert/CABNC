@@ -1,45 +1,45 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-01-11:  
-@Location:	 at home 
-@Situation:	 going to school  
-@Media:	021A-C0897X0520XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CAR Carol self, ANN Ann friend
 @Options:	CA
-@ID:	eng|AudioBNC|CAR|44;|||||courier||PS1DP|
-@ID:	eng|AudioBNC|ANN|26;|||||hairdresser|friend|PS1DU|
+@ID: eng|AudioBNC|CAR|~44;| |f|Ag3| |courier||PS1DP|
+@ID: eng|AudioBNC|ANN|~26;| |f|Ag2| |hairdresser|friend|PS1DU|
+@Media: 021A-C0897X0520XX-AAZZP0.wav, audio 		
+@Date:	1992-01-11:  
+@Situation:	 going to school 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 at home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0520XX-AAZZP0.wav
 @Comment:	conversation #8 (Tape 052008)
-*ANN:	Hello! 
-*CAR:	I saw you this morning on erm   (.) Churchill Drive, I were working, and you were. 
-*ANN:	Churchill Drive. 
-*CAR:	Mm. Ruddington. 
-*ANN:	Yeah, I'm opening a shop round Ruddington. 
-*CAR:	Oh are you? What is it? 
-*ANN:	Yeah. Erm   (.) hairdressers. 
-*CAR:	Oh is it? What's it  called? 
-*ANN:	 Well  it isn't at the moment. It's called the Clothes Peg. 
-*CAR:	Clothes Peg on  the main road? 
-*ANN:	 The ma  on  the main road. 
-*CAR:	Yes. But he's now closing down? 
-*ANN:	Yeah. Mm. (  )   
-*CAR:	 Shop's  been a smashing shop, you know that has! 
-*ANN:	I know. 
-*CAR:	Really lovely! 
-*ANN:	That's what everybody says. 
-*CAR:	It's a shame. 
-*ANN:	Mm. 
-*CAR:	I've bought some smashing things from them! It'll be in city whe  er th  to  there is a hairdre  all there is is one further down on the corner of  Parkin Street. 
-*ANN:	 There is, but  they're old fashioned you know. 
-*CAR:	Where's your er, information then, for us to look at? 
-*ANN:	I know! No, I haven't got a    ((laughing))  (  ) ! 
-*CAR:	Well I want one. 
-*ANN:	Yeah. I'll give some.  Yeah. 
-*CAR:	 Will you? 
-*ANN:	Yeah, definitely. Yeah. Erm, no Julie's working with me as well you see, she's coming from London   (.) and we're gonna work together.  So   
-*CAR:	 Mm.  Good! 
-*ANN:	That's if I 
+*ANN:	Hello!
+*CAR:	I saw you this morning on erm   (.) Churchill Drive, I were working, and you were.
+*ANN:	Churchill Drive.
+*CAR:	Mm.Ruddington.
+*ANN:	Yeah, I'm opening a shop round Ruddington.
+*CAR:	Oh are you?What is it?
+*ANN:	Yeah.Erm   (.) hairdressers.
+*CAR:	Oh is it?What's it called?
+*ANN:	Well it isn't at the moment.It's called the Clothes Peg.
+*CAR:	Clothes Peg on the main road?
+*ANN:	The ma on the main road.
+*CAR:	Yes.But he's now closing down?
+*ANN:	Yeah.Mm. (        ) 
+*CAR:	Shop's been a smashing shop, you know that has!
+*ANN:	I know.
+*CAR:	Really lovely!
+*ANN:	That's what everybody says.
+*CAR:	It's a shame.
+*ANN:	Mm.
+*CAR:	I've bought some smashing things from them!It'll be in city whe er th to there is a hairdre all there is is one further down on the corner of Parkin Street.
+*ANN:	There is, but they're old fashioned you know.
+*CAR:	Where's your er, information then, for us to look at?
+*ANN:	I know!No, I haven't got a    [laughing]  (        )  [] !
+*CAR:	Well I want one.
+*ANN:	Yeah.I'll give some.Yeah.
+*CAR:	Will you?
+*ANN:	Yeah, definitely.Yeah.Erm, no Julie's working with me as well you see, she's coming from London   (.) and we're gonna work together.So 
+*CAR:	Mm.Good!
+*ANN:	That's if I
 @End

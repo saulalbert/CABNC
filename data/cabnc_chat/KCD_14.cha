@@ -1,40 +1,41 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:   shopping  
-@Media:	021A-C0897X0048XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
-@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
+@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Media: 021A-C0897X0048XX-AAZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	 shopping 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0048XX-AAZZP0.wav
 @Comment:	conversation #14 (Tape 004801)
-*AMY:	Where was that last one? 
-*HEL:	I think, umm   (.) we looked in Boots didn't we, they had cheap ones, but they were all black. 
-*AMY:	Might like    (  )  . 
-*HEL:	 Get one from Marks  and take it back after wards. No, yes, I don't think I need chocolates, I don't think I need chocolates. I thought your going to give her some flowers? (5.0)  
-*AMY:	I like flowers. 
-*HEL:	Oh they've definitely have some, I don't think there awfully cheap. I think erm, lets have a look in the shopping mall cos I think there's a sort of bag shop there Caroline said. 
-*AMY:	Where'd you meet her? 
-*HEL:	Just down here. 
-*AMY:	 (  ) . 
-*HEL:	This is a nuisance this is. 
-*CLA:	 (  ) . 
-*HEL:	I don't know otherwise. I thought Salisbury's would of had loads   (10.0) Will have a look in a Army & Navy otherwise   (10.0) It's in here I think, oh I don't know whether C & A's would have any   (5.0) Now then, watch out for, I mean I think there's must be a logic shop or something. I think that's where Caroline said we go for a cake. Oh here I should think where these banks are. Yeah. I mean there's loads of   (.) bags like that, let's have a look. It's all there've got. Here's back packs. 
-*AMY:	Mum. 
-*HEL:	No, no, she's got to have something that goes on here back. Oh it's a bit cheaper. Price six ninety nine I think. 
-*AMY:	Where? 
-*HEL:	Eight ninety nine. Well we've got  (  ) . It's better isn't it? That one. Nine ninety nine. 
-*AMY:	Like that one. 
-*HEL:	Nine ninety nine.  (  ) Yes, I quite like that one. 
-*AMY:	 (  ) school. 
-*HEL:	Which one? 
-*AMY:	That one. 
-*HEL:	One like that has she? 
-*AMY:	Yeah. 
-*HEL:	Red one. 
-*AMY:	 (  ) . 
+*AMY:	Where was that last one?
+*HEL:	I think, umm   (.) we looked in Boots didn't we, they had cheap ones, but they were all black.
+*AMY:	Might like   (        ) .
+*HEL:	Get one from Marks and take it back after wards.No, yes, I don't think I need chocolates, I don't think I need chocolates.I thought your going to give her some flowers? (.) 
+*AMY:	I like flowers.
+*HEL:	Oh they've definitely have some, I don't think there awfully cheap.I think erm, lets have a look in the shopping mall cos I think there's a sort of bag shop there Caroline said.
+*AMY:	Where'd you meet her?
+*HEL:	Just down here.
+*AMY:	 (        ) .
+*HEL:	This is a nuisance this is.
+*CLA:	 (        ) .
+*HEL:	I don't know otherwise.I thought Salisbury's would of had loads   (.) Will have a look in a Army & Navy otherwise   (.) It's in here I think, oh I don't know whether C & A's would have any   (.) Now then, watch out for, I mean I think there's must be a logic shop or something.I think that's where Caroline said we go for a cake.Oh here I should think where these banks are.Yeah.I mean there's loads of   (.) bags like that, let's have a look.It's all there've got.Here's back packs.
+*AMY:	Mum.
+*HEL:	No, no, she's got to have something that goes on here back.Oh it's a bit cheaper.Price six ninety nine I think.
+*AMY:	Where?
+*HEL:	Eight ninety nine.Well we've got  (        ) .It's better isn't it?That one.Nine ninety nine.
+*AMY:	Like that one.
+*HEL:	Nine ninety nine. (        ) Yes, I quite like that one.
+*AMY:	 (        ) school.
+*HEL:	Which one?
+*AMY:	That one.
+*HEL:	One like that has she?
+*AMY:	Yeah.
+*HEL:	Red one.
+*AMY:	 (        ) .
 @End

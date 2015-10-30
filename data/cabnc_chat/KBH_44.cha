@@ -1,39 +1,39 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-04:  
-@Location:	  home  
-@Situation:	Unspecified 
-@Media:	021A-C0897X0042XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CAR Carole self, CHA Charlotte daughter
 @Options:	CA
-@ID:	eng|AudioBNC|CAR|36;|||||administrator (pt)||PS05B|
-@ID:	eng|AudioBNC|CHA|2;|||||pre-school|daughter|PS05E|
+@ID: eng|AudioBNC|CAR|~36;| |f|Ag3| |administrator (pt)||PS05B|
+@ID: eng|AudioBNC|CHA|~2;| |f|Ag0| |pre-school|daughter|PS05E|
+@Media: 021A-C0897X0042XX-ABZZP0.wav, audio 		
+@Date:	1991-06-04:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0042XX-ABZZP0.wav
 @Comment:	conversation #44 (Tape 004217)
-*CAR:	Sit still lovey, come on get your hands out, now put your bottom in the seat properly, so I can do this, there we are. 
-*CHA:	Oh. 
-*CAR:	Alright, alright, off we go, let's go and get some petrol, otherwise we won't be going anywhere   ((car starting))will we? If we run out of petrol, won't be very clever. 
-*CHA:	 (  ) all raining now. 
-*CAR:	It's all raining, isn't it nasty? 
-*CHA:	Nasty. It's cold. 
-*CAR:	Oh it's not very cold. 
-*CHA:	Yes. 
-*CAR:	It's not cold, just wet. 
-*CHA:	It's wet, it should be nice and warm. 
-*CAR:	You're nice and warm in there are you? Eh? 
-*CHA:	 (  ) and warm. 
-*CAR:	You're nice and warm, I'm very glad you're nice and warm. 
-*CHA:	 (  ) warm, raining. 
-*CAR:	It's raining, yes. 
-*CHA:	It's raining, look, see   (  ) cover. 
-*CAR:	Mm. 
-*CHA:	All the car under  (  ) , what colour is the car, what colour is my car? What colour my   (  ) car? 
-*CAR:	Mm? 
-*CHA:	Black. 
-*CAR:	Right, now here we are, this the right kind of petrol. 
-*CHA:	 (  ) 
-*CAR:	Right, now you be a good girl for a minute, while I'll fill up the, fill up the car alright? 
+*CAR:	Sit still lovey, come on get your hands out, now put your bottom in the seat properly, so I can do this, there we are.
+*CHA:	Oh.
+*CAR:	Alright, alright, off we go, let's go and get some petrol, otherwise we won't be going anywhere   ((car starting))will we?If we run out of petrol, won't be very clever.
+*CHA:	 (        ) all raining now.
+*CAR:	It's all raining, isn't it nasty?
+*CHA:	Nasty.It's cold.
+*CAR:	Oh it's not very cold.
+*CHA:	Yes.
+*CAR:	It's not cold, just wet.
+*CHA:	It's wet, it should be nice and warm.
+*CAR:	You're nice and warm in there are you?Eh?
+*CHA:	 (        ) and warm.
+*CAR:	You're nice and warm, I'm very glad you're nice and warm.
+*CHA:	 (        ) warm, raining.
+*CAR:	It's raining, yes.
+*CHA:	It's raining, look, see   (        ) cover.
+*CAR:	Mm.
+*CHA:	All the car under  (        ) , what colour is the car, what colour is my car?What colour my   (        ) car?
+*CAR:	Mm?
+*CHA:	Black.
+*CAR:	Right, now here we are, this the right kind of petrol.
+*CHA:	 (        ) 
+*CAR:	Right, now you be a good girl for a minute, while I'll fill up the, fill up the car alright?
 @End

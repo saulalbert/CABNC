@@ -1,29 +1,29 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-04:  
-@Location:	  home  
-@Situation:	Unspecified 
-@Media:	021A-C0897X0043XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CAR Carole self, JOE Joelle employee, ADA Adam husband
 @Options:	CA
-@ID:	eng|AudioBNC|CAR|36;|||||administrator (pt)||PS05B|
-@ID:	eng|AudioBNC|JOE|18;|||||au pair|employee|PS05C|
-@ID:	eng|AudioBNC|ADA|36;|||||textile agent|husband|PS05D|
+@ID: eng|AudioBNC|CAR|~36;| |f|Ag3| |administrator (pt)||PS05B|
+@ID: eng|AudioBNC|JOE|~18;| |f|Ag1| |au pair|employee|PS05C|
+@ID: eng|AudioBNC|ADA|~36;| |m|Ag3| |textile agent|husband|PS05D|
+@Media: 021A-C0897X0043XX-ABZZP0.wav, audio 		
+@Date:	1991-06-04:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0043XX-ABZZP0.wav
 @Comment:	conversation #57 (Tape 004313)
-*CAR:	She was asking me what Brian it was, you were talking to her. 
-*ADA:	Mm. 
-*JOE:	What's her name  (  ) . 
-*ADA:	 eh   (  ) or something like that. 
-*JOE:	 ((laugh))  (  ) 
-*ADA:	Mon amie. (  ) . 
-*JOE:	 ((laugh))  (  ) 
-*CAR:	My, what does it mean? 
-*JOE:	 (  ) erm 
-*ADA:	 (  ) is something that I would not say to a French lady, something that I could say to my daughter, right? 
-*JOE:	You can say that your French  (  ) . ((laugh))  
-*ADA:	 (  ) 
+*CAR:	She was asking me what Brian it was, you were talking to her.
+*ADA:	Mm.
+*JOE:	What's her name  (        ) .
+*ADA:	eh   (        ) or something like that.
+*JOE:	 ((laugh))  (        ) 
+*ADA:	Mon amie. (        ) .
+*JOE:	 ((laugh))  (        ) 
+*CAR:	My, what does it mean?
+*JOE:	 (        ) erm
+*ADA:	 (        ) is something that I would not say to a French lady, something that I could say to my daughter, right?
+*JOE:	You can say that your French  (        ) . ((laugh)) 
+*ADA:	 (        ) 
 @End

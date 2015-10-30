@@ -1,16 +1,16 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-12-04:  
-@Location:	 Shops 
-@Situation:	 Walking  
-@Media:	021A-C0897X0143XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	GIN Ginny self
 @Options:	CA
-@ID:	eng|AudioBNC|GIN|65;|||||housewife||PS0CG|
+@ID: eng|AudioBNC|GIN|~65;| |f|Ag5| |housewife||PS0CG|
+@Media: 021A-C0897X0143XX-AAZZP0.wav, audio 		
+@Date:	1991-12-04:  
+@Situation:	 Walking 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Shops 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0143XX-AAZZP0.wav
 @Comment:	conversation #27 (Tape 014306)
-*GIN:	Get them Rock. Rocket.  (.) Rock. Rocket.  ((kiss)) Hello baby. Hello. 
+*GIN:	Get them Rock.Rocket. (.) Rock.Rocket. ((kiss)) Hello baby.Hello.
 @End

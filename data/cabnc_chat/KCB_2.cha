@@ -1,25 +1,25 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-02-22:  
-@Location:	  in car  
-@Situation:	  travelling to Wimborne   
-@Media:	021A-C0897X0430XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	GRA Graeme self, ANN Ann wife
 @Options:	CA
-@ID:	eng|AudioBNC|GRA|62;|||||company secretary||PS0DX|
-@ID:	eng|AudioBNC|ANN|58;|||||housewife|wife|PS0DY|
+@ID: eng|AudioBNC|GRA|~62;| |m|Ag5| |company secretary||PS0DX|
+@ID: eng|AudioBNC|ANN|~58;| |f|Ag4| |housewife|wife|PS0DY|
+@Media: 021A-C0897X0430XX-AAZZP0.wav, audio 		
+@Date:	1992-02-22:  
+@Situation:	  travelling to Wimborne  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  in car  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0430XX-AAZZP0.wav
 @Comment:	conversation #2 (Tape 043002)
-*GRA:	A nice load of logs on the back of that for somebody's fire isn't there? 
-*ANN:	Lovely! I'd like to go to   (.) the logs. 
-*GRA:	Yes. 
-*ANN:	They're lovely! 
-*GRA:	 ((sighing)) Well    (48.0) A few cars about in the car park! 
-*ANN:	Yep.  (11.0) Do you always get this here? 
-*GRA:	Well I   (.) don't get down to  (  ) .  (8.0) There we are! I shouldn't be a minute! 
-*ANN:	I'll stay here. 
-*GRA:	Okay. 
+*GRA:	A nice load of logs on the back of that for somebody's fire isn't there?
+*ANN:	Lovely!I'd like to go to   (.) the logs.
+*GRA:	Yes.
+*ANN:	They're lovely!
+*GRA:	 [sighing] Well    []  (.) A few cars about in the car park!
+*ANN:	Yep. (.) Do you always get this here?
+*GRA:	Well I   (.) don't get down to  (        ) . (.) There we are!I shouldn't be a minute!
+*ANN:	I'll stay here.
+*GRA:	Okay.
 @End

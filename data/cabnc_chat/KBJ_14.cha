@@ -1,31 +1,31 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-01-14:  
-@Location:	 in car 
-@Situation:	 driving to airport  
-@Media:	021A-C0897X0520XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , CAR Carol self, EMM Emma daughter, CHR Chris husband
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|CAR|44;|||||courier||PS1DP|
-@ID:	eng|AudioBNC|EMM|11;|||||student (state secondary)|daughter|PS1DR|
-@ID:	eng|AudioBNC|CHR|47;|||||area organiser for union|husband|PS1DS|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|CAR|~44;| |f|Ag3| |courier||PS1DP|
+@ID: eng|AudioBNC|EMM|~11;| |f|Ag0| |student (state secondary)|daughter|PS1DR|
+@ID: eng|AudioBNC|CHR|~47;| |m|Ag4| |area organiser for union|husband|PS1DS|
+@Media: 021A-C0897X0520XX-ABZZP0.wav, audio 		
+@Date:	1992-01-14:  
+@Situation:	 driving to airport 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 in car 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0520XX-ABZZP0.wav
 @Comment:	conversation #14 (Tape 052014)
-*EMM:	Did you like your ride on the   (.) thing? 
-*CAR:	Yes I did. Did you? 
-*EMM:	I wish they'd have gone a bit faster. Is that how fast they goes? 
-*CAR:	Mm. They don't go any faster than that. So   (.) are you sitting in the front or at the back? 
-*EMM:	Erm, sit in the back. 
-*CAR:	Right, I'll sit in the front then. 
-*EMM:	Ooh! 
-*CAR:	I'll lock these gates as well. 
-*UNK:	 (  ) 
-*CAR:	I know!  ((laugh))  (14.0)  ((car starting)) (.)  ((sighing)) Ah ! Right are we all ready then? 
-*CHR:	 (  ) 
-*CAR:	It's not shut. 
-*CHR:	Oh! 
+*EMM:	Did you like your ride on the   (.) thing?
+*CAR:	Yes I did.Did you?
+*EMM:	I wish they'd have gone a bit faster.Is that how fast they goes?
+*CAR:	Mm.They don't go any faster than that.So   (.) are you sitting in the front or at the back?
+*EMM:	Erm, sit in the back.
+*CAR:	Right, I'll sit in the front then.
+*EMM:	Ooh!
+*CAR:	I'll lock these gates as well.
+*UNK:	 (        ) 
+*CAR:	I know! ((laugh))  (.)  ((car starting)) (.)  [sighing] Ah  [] !Right are we all ready then?
+*CHR:	 (        ) 
+*CAR:	It's not shut.
+*CHR:	Oh!
 @End

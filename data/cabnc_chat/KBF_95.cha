@@ -1,24 +1,24 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-12-04:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0159XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	BRE Brenda self, CAR Carla daughter
 @Options:	CA
-@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
-@ID:	eng|AudioBNC|CAR|11;|||||student (state primary)|daughter|PS04X|
+@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
+@ID: eng|AudioBNC|CAR|~11;| |f|Ag0| |student (state primary)|daughter|PS04X|
+@Media: 021A-C0897X0159XX-ABZZP0.wav, audio 		
+@Date:	1991-12-04:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0159XX-ABZZP0.wav
 @Comment:	conversation #99 (Tape 015910)
-*BRE:	You looking forward to Greece? 
-*CAR:	Yeah. (.)  
-*BRE:	Who's going then? Just   (.) year seven?  (.) Carla? 
-*CAR:	Yeah. (.)  
-*BRE:	Carla. Can you talk. 
-*CAR:	I am talking. 
-*BRE:	Is it just year seven. 
-*CAR:	Yeah. 
+*BRE:	You looking forward to Greece?
+*CAR:	Yeah. (.) 
+*BRE:	Who's going then?Just   (.) year seven? (.) Carla?
+*CAR:	Yeah. (.) 
+*BRE:	Carla.Can you talk.
+*CAR:	I am talking.
+*BRE:	Is it just year seven.
+*CAR:	Yeah.
 @End

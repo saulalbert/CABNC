@@ -1,34 +1,34 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 Home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0023XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	CHR Chris self, NOR Norrine wife
 @Options:	CA
-@ID:	eng|AudioBNC|CHR|51;|||||export merchant||PS05X|
-@ID:	eng|AudioBNC|NOR|54;|||||teacher|wife|PS101|
+@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|AudioBNC|NOR|~54;| |f|Ag4| |teacher|wife|PS101|
+@Media: 021A-C0897X0023XX-ABZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0023XX-ABZZP0.wav
 @Comment:	conversation #87 (Tape 002321)
-*NOR:	I don't think they make they make those   (  ) any more, nobody seemed to have one yesterday 
-*CHR:	Really? Mm. 
-*NOR:	In Bromley, (  ) . 
-*CHR:	Alright now. 
-*NOR:	Alright  (  ) . 
-*CHR:	Thank you. 
-*NOR:	Are you good dog  (  ) , are you good dog? She is  (  ) . 
-*CHR:	We want to go back up again don't we? 
-*NOR:	We can go down to that one, oh no we don't, no you're right, we want to go back up again  (  ) . Unless we go from this end, yes  you can go. 
-*CHR:	 It doesn't  really go through, does it? 
-*NOR:	Oh  (  ) , I don't mean that road, no. 
-*CHR:	 There it is the end look. 
-*NOR:	 Found it, yes that's right.  You got to go  (  ) . 
-*CHR:	Aha. 
-*NOR:	We have to then drive round again to get home. You can get into Mottingham when   (  ) there. 
-*CHR:	 (  )  ((laugh)) 
-*NOR:	Or you can go in there. 
-*CHR:	We do that well. 
+*NOR:	I don't think they make they make those   (        ) any more, nobody seemed to have one yesterday
+*CHR:	Really?Mm.
+*NOR:	In Bromley, (        ) .
+*CHR:	Alright now.
+*NOR:	Alright  (        ) .
+*CHR:	Thank you.
+*NOR:	Are you good dog  (        ) , are you good dog?She is  (        ) .
+*CHR:	We want to go back up again don't we?
+*NOR:	We can go down to that one, oh no we don't, no you're right, we want to go back up again  (        ) .Unless we go from this end, yes you can go.
+*CHR:	It doesn't really go through, does it?
+*NOR:	Oh  (        ) , I don't mean that road, no.
+*CHR:	There it is the end look.
+*NOR:	Found it, yes that's right.You got to go  (        ) .
+*CHR:	Aha.
+*NOR:	We have to then drive round again to get home.You can get into Mottingham when   (        ) there.
+*CHR:	 (        )  ((laugh)) 
+*NOR:	Or you can go in there.
+*CHR:	We do that well.
 @End

@@ -1,25 +1,25 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-11-29:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0152XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	BRE Brenda self, DAV Dave husband, JEA Jean friend
 @Options:	CA
-@ID:	eng|AudioBNC|BRE|34;|||||housewife||PS04U|
-@ID:	eng|AudioBNC|DAV|37;|||||hgv driver|husband|PS04V|
-@ID:	eng|AudioBNC|JEA|62;|||||housewife|friend|PS04Y|
+@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
+@ID: eng|AudioBNC|DAV|~37;| |m|Ag3| |hgv driver|husband|PS04V|
+@ID: eng|AudioBNC|JEA|~62;| |f|Ag5| |housewife|friend|PS04Y|
+@Media: 021A-C0897X0152XX-AAZZP0.wav, audio 		
+@Date:	1991-11-29:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0152XX-AAZZP0.wav
 @Comment:	conversation #29 (Tape 015201)
-*BRE:	Got a burning in the tum now. 
-*JEA:	What dear? 
-*BRE:	Got a burning in the tum. 
-*JEA:	Oh yes, you would have   (.) I mean that that   (.)  i  it is a   
-*DAV:	  (  )  
-*JEA:	stress   (.) symptom yes   (.) and it's not funny, I've had it. 
-*BRE:	So did Carla go off okay? 
-*DAV:	Yeah. 
+*BRE:	Got a burning in the tum now.
+*JEA:	What dear?
+*BRE:	Got a burning in the tum.
+*JEA:	Oh yes, you would have   (.) I mean that that   (.) i it is a 
+*DAV:	 (        ) 
+*JEA:	stress   (.) symptom yes   (.) and it's not funny, I've had it.
+*BRE:	So did Carla go off okay?
+*DAV:	Yeah.
 @End

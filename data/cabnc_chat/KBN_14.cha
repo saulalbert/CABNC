@@ -1,39 +1,40 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-03-15:  Unspecified 
-@Media:	021A-C0897X0279XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , CLA Clare self, MEL Melissa friend
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
-@ID:	eng|AudioBNC|CLA|15;|||||student||PS05Y|
-@ID:	eng|AudioBNC|MEL|16;|||||student|friend|PS060|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|AudioBNC|CLA|~15;| |f|Ag1| |student||PS05Y|
+@ID: eng|AudioBNC|MEL|~16;| |f|Ag1| |student|friend|PS060|
+@Media: 021A-C0897X0279XX-AAZZP0.wav, audio 		
+@Date:	1992-03-15:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0279XX-AAZZP0.wav
 @Comment:	conversation #14 (Tape 027902)
-*CLA:	She's a bit chubby on the face like 
-*MEL:	That's her jaws innit? 
+*CLA:	She's a bit chubby on the face like
+*MEL:	That's her jaws innit?
 *CLA:	 ((laugh)) 
-*UNK:	 (  )  (10.0) 
-*CLA:	Oh they slept in the caravan together he didn't complain then  (14.0)  
-*UNK:	 (  )  (.) 
-*CLA:	Oh my god 
-*UNK:	 (  ) 
-*CLA:	ever since you've had that place 
-*UNK:	 (  ) 
-*MEL:	yeah  (.)  
-*CLA:	look at those timetables, everybody exactly the same 
-*MEL:	Yeah, I guess it 
-*UNK:	 (  ) 
-*CLA:	no I mean, this, the paper is the same and you 
-*UNK:	 (  ) 
-*MEL:	Where'd you get yours from? 
-*CLA:	I don't think you can get one now 
-*MEL:	How 
-*UNK:	 (  ) 
-*CLA:	Have you signed this thing in Mrs   room?  (.) You're supposed to of signed it and to, to let you know when your 
-*UNK:	 (  ) 
-*CLA:	if you haven't signed it, I don't think you can do it 
-*UNK:	 (  )  (.) 
+*UNK:	 (        )  (.) 
+*CLA:	Oh they slept in the caravan together he didn't complain then  (.) 
+*UNK:	 (        )  (.) 
+*CLA:	Oh my god
+*UNK:	 (        ) 
+*CLA:	ever since you've had that place
+*UNK:	 (        ) 
+*MEL:	yeah  (.) 
+*CLA:	look at those timetables, everybody exactly the same
+*MEL:	Yeah, I guess it
+*UNK:	 (        ) 
+*CLA:	no I mean, this, the paper is the same and you
+*UNK:	 (        ) 
+*MEL:	Where'd you get yours from?
+*CLA:	I don't think you can get one now
+*MEL:	How
+*UNK:	 (        ) 
+*CLA:	Have you signed this thing in Mrs  room? (.) You're supposed to of signed it and to, to let you know when your
+*UNK:	 (        ) 
+*CLA:	if you haven't signed it, I don't think you can do it
+*UNK:	 (        )  (.) 
 @End

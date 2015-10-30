@@ -1,24 +1,24 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-01-11:  
-@Location:	 in car 
-@Situation:	 travelling to work  
-@Media:	021A-C0897X0556XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	GAV Gavin self, RIC Richard colleague
 @Options:	CA
-@ID:	eng|AudioBNC|GAV|25;|||||photographer||PS0BA|
-@ID:	eng|AudioBNC|RIC|24;|||||journalist|colleague|PS0BC|
+@ID: eng|AudioBNC|GAV|~25;| |m|Ag2| |photographer||PS0BA|
+@ID: eng|AudioBNC|RIC|~24;| |m|Ag1| |journalist|colleague|PS0BC|
+@Media: 021A-C0897X0556XX-AAZZP0.wav, audio 		
+@Date:	1992-01-11:  
+@Situation:	 travelling to work 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 in car 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0556XX-AAZZP0.wav
 @Comment:	conversation #2 (Tape 055602)
-*RIC:	What's the address? 
-*GAV:	Some street like   (.) Sunny Bank Close. 
-*RIC:	Sunny Bank Close. (.)  
-*GAV:	Ooh it's horrible and cold. 
-*RIC:	 ((yawning)) Oh it's so cold it's    ((singing)) unbelievable . 
-*GAV:	 ((singing)) Unbelievable . Sunny Bank Close   (.) Walsall?  (.) Mm?  (.) Hope it's not a new one.  ((cough))  (.) Ah it could be actually.  (8.0)  (  )  (.) Sutton.  (.) Says like street like, ah s  see that's street  (  )  
-*RIC:	 (  )  (14.0) 
-*GAV:	Oh must be  (  ) , yeah.  (  )  ((muttering to self)) That must be it.  ((singing)) Please lend a hand I'm only a person   (.) won't you listen  Oh oh oh!  ((sigh))  (9.0) It's so cold, it's fucking    (  )  (15.0) Want some petrol, we want some batteries, (  )  (.) I need some cigarettes. ((yawn))  
+*RIC:	What's the address?
+*GAV:	Some street like   (.) Sunny Bank Close.
+*RIC:	Sunny Bank Close. (.) 
+*GAV:	Ooh it's horrible and cold.
+*RIC:	 [yawning] Oh it's so cold it's    []  [singing] unbelievable  [] .
+*GAV:	 [singing] Unbelievable  [] .Sunny Bank Close   (.) Walsall? (.) Mm? (.) Hope it's not a new one. ((cough))  (.) Ah it could be actually. (.)  (        )  (.) Sutton. (.) Says like street like, ah s see that's street  (        ) 
+*RIC:	 (        )  (.) 
+*GAV:	Oh must be  (        ) , yeah. (        )  [muttering to self] That must be it. [singing] Please lend a hand I'm only a person   (.) won't you listen   [] Oh oh oh! ((sigh))  (.) It's so cold, it's fucking    (        )  (.) Want some petrol, we want some batteries, (        )  (.) I need some cigarettes. ((yawn)) 
 @End

@@ -1,49 +1,49 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 shopping 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0048XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
-@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
+@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Media: 021A-C0897X0048XX-AAZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 shopping 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0048XX-AAZZP0.wav
 @Comment:	conversation #20 (Tape 004807)
-*CLA:	Aren't supposed to do that. They look really nice those shoes. I don't like the colours. Mummy I don't really like those shoes. 
-*HEL:	 Don't you?. 
-*CLA:	 I don't like  the colours there to dark. 
-*HEL:	Yes, I thought they might be quite useful for the summer, they don't seem to have any erm  (  ) .  Do you like these  . 
-*CLA:	 They do dark colours  . 
-*HEL:	Do you like these sort of doesn't it? 
-*CLA:	I don't, these are nice colour, I like them. 
-*HEL:	Yes, well I   (  ) another pair  (  ) . 
-*CLA:	Pardon. 
-*HEL:	You like these better? 
-*CLA:	Yeah, there nice. There's a pair of fours. There's a pair of fours. 
-*HEL:	You like those better Clare? 
-*CLA:	Yeah. 
-*AMY:	No. 
-*CLA:	I do. 
-*HEL:	No. 
-*AMY:	No. 
-*HEL:	What you like those better? 
-*CLA:	I do. 
-*AMY:	Don't you? 
-*HEL:	Hm don't know really. 
-*CLA:	There's a pair of fours. 
-*AMY:	Take a pair of  (  ) . 
-*HEL:	Hm, quite like the white ones   (5.0) I think I probably like the white ones better Am's, let's have the white ones. 
-*CLA:	Can you take that one off, cos that one  (  ) . 
-*HEL:	Well there's a pair of four, right, let me, let my ones that I've got. 
-*CLA:	I didn't want the dark ones. 
-*HEL:	No, I don't. 
-*CLA:	There too dark. 
-*HEL:	They did do them in white, but they don't seem to have them here, I only saw one pair, they weren't my size the other day. 
-*AMY:	 (  ) . 
-*HEL:	Right, let's just have a look at this other dress. 
+*CLA:	Aren't supposed to do that.They look really nice those shoes.I don't like the colours.Mummy I don't really like those shoes.
+*HEL:	Don't you?.
+*CLA:	I don't like the colours there to dark.
+*HEL:	Yes, I thought they might be quite useful for the summer, they don't seem to have any erm  (        ) .Do you like these .
+*CLA:	They do dark colours .
+*HEL:	Do you like these sort of doesn't it?
+*CLA:	I don't, these are nice colour, I like them.
+*HEL:	Yes, well I   (        ) another pair  (        ) .
+*CLA:	Pardon.
+*HEL:	You like these better?
+*CLA:	Yeah, there nice.There's a pair of fours.There's a pair of fours.
+*HEL:	You like those better Clare?
+*CLA:	Yeah.
+*AMY:	No.
+*CLA:	I do.
+*HEL:	No.
+*AMY:	No.
+*HEL:	What you like those better?
+*CLA:	I do.
+*AMY:	Don't you?
+*HEL:	Hm don't know really.
+*CLA:	There's a pair of fours.
+*AMY:	Take a pair of  (        ) .
+*HEL:	Hm, quite like the white ones   (.) I think I probably like the white ones better Am's, let's have the white ones.
+*CLA:	Can you take that one off, cos that one  (        ) .
+*HEL:	Well there's a pair of four, right, let me, let my ones that I've got.
+*CLA:	I didn't want the dark ones.
+*HEL:	No, I don't.
+*CLA:	There too dark.
+*HEL:	They did do them in white, but they don't seem to have them here, I only saw one pair, they weren't my size the other day.
+*AMY:	 (        ) .
+*HEL:	Right, let's just have a look at this other dress.
 @End

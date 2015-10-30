@@ -1,20 +1,20 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-02-28:  
-@Location:	 at work 
-@Situation:	 servicing televisions  
-@Media:	021A-C0897X0411XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	FRA Frank self
 @Options:	CA
-@ID:	eng|AudioBNC|FRA|50;|||||tv engineer||PS09E|
+@ID: eng|AudioBNC|FRA|~50;| |m|Ag4| |tv engineer||PS09E|
+@Media: 021A-C0897X0411XX-AAZZP0.wav, audio 		
+@Date:	1992-02-28:  
+@Situation:	 servicing televisions 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 at work 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0411XX-AAZZP0.wav
 @Comment:	conversation #28 (Tape 041102)
-*UNK:	Mm. 
-*FRA:	Oh no! That's just, no isn't it? Erm   (.) de  depends whether it's path or not. If it was path it would point one five wouldn't it? 
-*UNK:	Mm. Point one will do, thousand volts then won't it? 
-*FRA:	Mm. 
-*UNK:	I'll see if I've got one out in the van. 
+*UNK:	Mm.
+*FRA:	Oh no!That's just, no isn't it?Erm   (.) de depends whether it's path or not.If it was path it would point one five wouldn't it?
+*UNK:	Mm.Point one will do, thousand volts then won't it?
+*FRA:	Mm.
+*UNK:	I'll see if I've got one out in the van.
 @End

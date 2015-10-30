@@ -1,22 +1,22 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-12-04:  
-@Location:	 Bingo Hall 
-@Situation:	 playing Bingo  
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	ANT Anthony self, CHR Chris wife
 @Options:	CA
-@ID:	eng|AudioBNC|ANT|62;|||||retired||PS1DA|
-@ID:	eng|AudioBNC|CHR|61;|||||housewife|wife|PS1DB|
+@ID: eng|AudioBNC|ANT|~62;| |m|Ag5| |retired||PS1DA|
+@ID: eng|AudioBNC|CHR|~61;| |f|Ag5| |housewife|wife|PS1DB|		
+@Date:	1991-12-04:  
+@Situation:	 playing Bingo 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 Bingo Hall 
 @Comment:	conversation #15 (Tape 010004)
-*ANT:	It either is or it ain't. 
-*CHR:	Make sure you've got, you've got your tickets. 
-*ANT:	Alright. 
-*CHR:	February the fifteenth you were out a lot   (.)  (  ) . 
-*ANT:	I got two. 
-*CHR:	Yes, make sure they're planned. 
-*ANT:	Yeah   (.) it is   (31.0) I wonder if I should find it  (  ) ? 
-*CHR:	Hello cat! 
+*ANT:	It either is or it ain't.
+*CHR:	Make sure you've got, you've got your tickets.
+*ANT:	Alright.
+*CHR:	February the fifteenth you were out a lot   (.)  (        ) .
+*ANT:	I got two.
+*CHR:	Yes, make sure they're planned.
+*ANT:	Yeah   (.) it is   (.) I wonder if I should find it  (        ) ?
+*CHR:	Hello cat!
 @End

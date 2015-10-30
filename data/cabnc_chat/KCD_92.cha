@@ -1,31 +1,31 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 home 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0052XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, AMY Amy daughter, UNK Unknown Unknown None ?
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS6ST|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS6ST|
+@Media: 021A-C0897X0052XX-ABZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0052XX-ABZZP0.wav
 @Comment:	conversation #92 (Tape 005219)
-*HEL:	Yeah, she looks as though she's got a bit more colour and she says she feels a bit better. 
-*NON:	 (  ) . 
-*HEL:	Oh I think you better cut, she's watching Kipps, says quite good, Half a Sixpence, she says it's quite good. Enjoying it. Would you like to come and cut this bit, cos it's left handed. 
-*NON:	Which bit? 
-*HEL:	The top. 
-*NON:	Yeah  (  ) . 
-*HEL:	Oh   (5.0) That bits left handed. 
-*NON:	I can't, I can't left handed with right handed scissors can I? 
-*HEL:	Oh no, no, you seem better at left handed than I did. 
-*NON:	Right, is that level? Yeah? 
-*HEL:	No, I don't mean that, I mean here. 
-*NON:	Oh there. 
-*HEL:	I not   (  ) the top. It's gonna brighten up now. 
-*NON:	Yeah it is. 
+*HEL:	Yeah, she looks as though she's got a bit more colour and she says she feels a bit better.
+*NON:	 (        ) .
+*HEL:	Oh I think you better cut, she's watching Kipps, says quite good, Half a Sixpence, she says it's quite good.Enjoying it.Would you like to come and cut this bit, cos it's left handed.
+*NON:	Which bit?
+*HEL:	The top.
+*NON:	Yeah  (        ) .
+*HEL:	Oh   (.) That bits left handed.
+*NON:	I can't, I can't left handed with right handed scissors can I?
+*HEL:	Oh no, no, you seem better at left handed than I did.
+*NON:	Right, is that level?Yeah?
+*HEL:	No, I don't mean that, I mean here.
+*NON:	Oh there.
+*HEL:	I not   (        ) the top.It's gonna brighten up now.
+*NON:	Yeah it is.
 @End

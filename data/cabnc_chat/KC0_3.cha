@@ -1,71 +1,71 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-02-22:  
-@Location:	  out  
-@Situation:	  shopping   
-@Media:	021A-C0897X0333XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , ENI Enid self, JOH John friend
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS000|
-@ID:	eng|AudioBNC|ENI|70;|||||housewife||PS08Y|
-@ID:	eng|AudioBNC|JOH|40;|||||butcher|friend|PS093|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|AudioBNC|ENI|~70;| |f|Ag5| |housewife||PS08Y|
+@ID: eng|AudioBNC|JOH|~40;| |m|Ag3| |butcher|friend|PS093|
+@Media: 021A-C0897X0333XX-ABZZP0.wav, audio 		
+@Date:	1992-02-22:  
+@Situation:	  shopping  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  out  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0333XX-ABZZP0.wav
 @Comment:	conversation #3 (Tape 033303)
-*ENI:	I'll just close that door for a minute, because  my   
-*JOH:	 Yeah. 
-*ENI:	goodness the wind! 
-*JOH:	That is er, yeah. 
-*ENI:	Mm! 
-*JOH:	Hello again! 
-*UNK:	Hello John. 
-*JOH:	Er   (.) yes please? 
-*ENI:	Yes please. Er two slices of ham  please? 
-*JOH:	  (  )  right.  (20.0) One twenty nine please. 
-*ENI:	And his bit of fat please, for the birds? If you may? 
-*JOH:	Anything else? 
-*ENI:	Yes please. What about er, this steak for braising John? 
-*JOH:	Yeah, that's alright, yeah. 
-*ENI:	It's nice, is it? 
-*JOH:	Yeah. 
-*ENI:	A pound and a half please? 
-*JOH:	Thank you. Do you want it cut up? 
-*ENI:	Er, no I shall use it probably in 
-*JOH:	In   (  ) ? 
-*ENI:	 se   , serving pieces. 
-*JOH:	Yeah. 
-*UNK:	That's lovely beef that you know? 
-*JOH:	Yeah, it's lovely beef that. 
-*ENI:	It looks nice. 
-*JOH:	You'll be alright with that.  (.) Pound, five ounces, do you want a  wee bit more? 
-*ENI:	 Er, erm    (.)  can I see it? 
-*JOH:	 You can have a little  bit more, here are. 
-*ENI:	I think that's   (.) yes, just a wee bit more  to bring it er   
-*JOH:	 Yeah, just a bit  
-*ENI:	only a little bit John. 
-*JOH:	 (  ) 
-*ENI:	Thank you. 
-*JOH:	Yeah, that's it then.  Pound and   
-*ENI:	 Thank you. 
-*JOH:	a half. Alright? 
-*ENI:	Yes. 
-*JOH:	Anything else? 
-*ENI:	That's all just now  thank you. 
-*JOH:	 Thank you.   (.) That's four seventy five then altogether. 
-*ENI:	Thank you. And you've put the price on the eggs, I expect? 
-*JOH:	 Yeah  , that's on the box 
-*ENI:	 Lovely! 
-*JOH:	 see  , yep! 
-*ENI:	Thank you. 
-*JOH:	Yeah. There you go. 
-*ENI:	Thank you very much. 
-*JOH:	Alright 
-*ENI:	Thank you! 
-*JOH:	thank you very much. 
-*UNK:	Can I have two chicken  breasts please? 
-*JOH:	 Bye bye  then  (  ) ! 
-*ENI:	Bye bye John! 
-*JOH:	Yeah. 
+*ENI:	I'll just close that door for a minute, because my 
+*JOH:	Yeah.
+*ENI:	goodness the wind!
+*JOH:	That is er, yeah.
+*ENI:	Mm!
+*JOH:	Hello again!
+*UNK:	Hello John.
+*JOH:	Er   (.) yes please?
+*ENI:	Yes please.Er two slices of ham please?
+*JOH:	 (        ) right. (.) One twenty nine please.
+*ENI:	And his bit of fat please, for the birds?If you may?
+*JOH:	Anything else?
+*ENI:	Yes please.What about er, this steak for braising John?
+*JOH:	Yeah, that's alright, yeah.
+*ENI:	It's nice, is it?
+*JOH:	Yeah.
+*ENI:	A pound and a half please?
+*JOH:	Thank you.Do you want it cut up?
+*ENI:	Er, no I shall use it probably in
+*JOH:	In  (        ) ?
+*ENI:	se , serving pieces.
+*JOH:	Yeah.
+*UNK:	That's lovely beef that you know?
+*JOH:	Yeah, it's lovely beef that.
+*ENI:	It looks nice.
+*JOH:	You'll be alright with that. (.) Pound, five ounces, do you want a wee bit more?
+*ENI:	Er, erm   (.) can I see it?
+*JOH:	You can have a little bit more, here are.
+*ENI:	I think that's   (.) yes, just a wee bit more to bring it er 
+*JOH:	Yeah, just a bit 
+*ENI:	only a little bit John.
+*JOH:	 (        ) 
+*ENI:	Thank you.
+*JOH:	Yeah, that's it then.Pound and 
+*ENI:	Thank you.
+*JOH:	a half.Alright?
+*ENI:	Yes.
+*JOH:	Anything else?
+*ENI:	That's all just now thank you.
+*JOH:	Thank you. (.) That's four seventy five then altogether.
+*ENI:	Thank you.And you've put the price on the eggs, I expect?
+*JOH:	Yeah , that's on the box
+*ENI:	Lovely!
+*JOH:	see , yep!
+*ENI:	Thank you.
+*JOH:	Yeah.There you go.
+*ENI:	Thank you very much.
+*JOH:	Alright
+*ENI:	Thank you!
+*JOH:	thank you very much.
+*UNK:	Can I have two chicken breasts please?
+*JOH:	Bye bye then  (        ) !
+*ENI:	Bye bye John!
+*JOH:	Yeah.
 @End

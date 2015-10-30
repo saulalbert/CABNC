@@ -1,28 +1,28 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	unknown date:  
-@Location:	  at home  
-@Situation:	  chores and meals   
-@Media:	021A-C0897X0549XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	DAD Dad self, MUM Mum wife
 @Options:	CA
-@ID:	eng|AudioBNC|DAD|79;|||||retired||PS079|
-@ID:	eng|AudioBNC|MUM|81;|||||retired|wife|PS07A|
+@ID: eng|AudioBNC|DAD|~79;| |m|Ag5| |retired||PS079|
+@ID: eng|AudioBNC|MUM|~81;| |f|Ag5| |retired|wife|PS07A|
+@Media: 021A-C0897X0549XX-AAZZP0.wav, audio 		
+@Date:	unknown date:  
+@Situation:	  chores and meals  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  at home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0549XX-AAZZP0.wav
 @Comment:	conversation #9 (Tape 054903)
-*MUM:	Is that on or off? 
-*DAD:	On. 
-*MUM:	Oh. 
-*DAD:	Got to find something for it. 
+*MUM:	Is that on or off?
+*DAD:	On.
+*MUM:	Oh.
+*DAD:	Got to find something for it.
 *MUM:	 ((laugh)) 
-*DAD:	Now look you should be pleased about that! 
-*MUM:	Yes I am, I'll go and stick them in in a minute. 
-*DAD:	Look at that, I tell you   (.) that's cos I    (  )  ((laugh))  (6.0)  
-*MUM:	 ((sigh)) There's still a nice fresh smell of  (  )  
-*DAD:	 (  ) 
+*DAD:	Now look you should be pleased about that!
+*MUM:	Yes I am, I'll go and stick them in in a minute.
+*DAD:	Look at that, I tell you   (.) that's cos I    (        )  ((laugh))  (.) 
+*MUM:	 ((sigh)) There's still a nice fresh smell of  (        ) 
+*DAD:	 (        ) 
 *MUM:	 ((laugh)) 
-*DAD:	There's a lot of rain   (  )  (.)  
+*DAD:	There's a lot of rain   (        )  (.) 
 @End

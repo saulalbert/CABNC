@@ -1,36 +1,36 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-06-01:  
-@Location:	 car journey 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0050XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, AMY Amy daughter
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Media: 021A-C0897X0050XX-ABZZP0.wav, audio 		
+@Date:	1991-06-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 car journey 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0050XX-ABZZP0.wav
 @Comment:	conversation #57 (Tape 005011)
-*AMY:	I've seen Jason Donovan live on stage. 
-*HEL:	Have you, where? 
-*AMY:	Yeah, it's Jason and his technicolour dream coat. 
-*HEL:	Well you won't of seen it yet. 
-*AMY:	I've seen it. 
-*HEL:	No, it hasn't started yet. It starts today. 
-*AMY:	What does? 
-*HEL:	Jason Donovan and technicolour dream coat. 
-*AMY:	When are we going to see it? 
-*HEL:	Next Saturday. 
-*AMY:	Well actually it was on quite, quite a while ago when I was six it was on. 
-*HEL:	Yes, but not with Jason Donovan in it. 
-*AMY:	Yes, cos Jason Donovan, on that one Jason wore   (  ) Joseph. 
-*HEL:	Well yes his Joseph this time. 
-*AMY:	One that I watch Jason Donovan was actually Joseph. 
-*HEL:	Ah right. Yes, well with seen it once before, but that was at Bromley. 
-*AMY:	Pardon. 
-*HEL:	We've seen it before haven't we? But that was at Bromley. 
-*AMY:	 (  ) . 
-*HEL:	No. There going up to London to see it. 
+*AMY:	I've seen Jason Donovan live on stage.
+*HEL:	Have you, where?
+*AMY:	Yeah, it's Jason and his technicolour dream coat.
+*HEL:	Well you won't of seen it yet.
+*AMY:	I've seen it.
+*HEL:	No, it hasn't started yet.It starts today.
+*AMY:	What does?
+*HEL:	Jason Donovan and technicolour dream coat.
+*AMY:	When are we going to see it?
+*HEL:	Next Saturday.
+*AMY:	Well actually it was on quite, quite a while ago when I was six it was on.
+*HEL:	Yes, but not with Jason Donovan in it.
+*AMY:	Yes, cos Jason Donovan, on that one Jason wore   (        ) Joseph.
+*HEL:	Well yes his Joseph this time.
+*AMY:	One that I watch Jason Donovan was actually Joseph.
+*HEL:	Ah right.Yes, well with seen it once before, but that was at Bromley.
+*AMY:	Pardon.
+*HEL:	We've seen it before haven't we?But that was at Bromley.
+*AMY:	 (        ) .
+*HEL:	No.There going up to London to see it.
 @End

@@ -1,34 +1,34 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-04-02:  
-@Location:	  at home  
-@Situation:	  working around the house   
-@Media:	021A-C0897X0719XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	AUD Audrey self, JOA Joan acquaintance
 @Options:	CA
-@ID:	eng|AudioBNC|AUD|61;|||||housewife||PS1A9|
-@ID:	eng|AudioBNC|JOA|50+;|||||clerk|acquaintance|PS1AC|
+@ID: eng|AudioBNC|AUD|~61;| |f|Ag5| |housewife||PS1A9|
+@ID: eng|AudioBNC|JOA|~50+;| |f|Ag4| |clerk|acquaintance|PS1AC|
+@Media: 021A-C0897X0719XX-AAZZP0.wav, audio 		
+@Date:	1992-04-02:  
+@Situation:	  working around the house  		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  at home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0719XX-AAZZP0.wav
 @Comment:	conversation #3 (Tape 071903)
-*AUD:	Hello. 
-*JOA:	Hello. 
-*AUD:	How's your husband? 
-*JOA:	He's doing fine thank you. 
-*AUD:	Oh that's good!  Oh! 
-*JOA:	 Are  you alright? 
-*AUD:	Yes thank you.  And   
-*JOA:	 Good. 
-*AUD:	and you? 
-*JOA:	Oh yes! Oh I have to be  don't I? 
-*AUD:	 Don't we?   All   
-*JOA:	 Yeah. 
-*AUD:	us women  have to be don't we? 
-*JOA:	 We've got to be. Yeah.  We're martyrs to ourselves. 
-*AUD:	Absolutely! 
+*AUD:	Hello.
+*JOA:	Hello.
+*AUD:	How's your husband?
+*JOA:	He's doing fine thank you.
+*AUD:	Oh that's good!Oh!
+*JOA:	Are you alright?
+*AUD:	Yes thank you.And 
+*JOA:	Good.
+*AUD:	and you?
+*JOA:	Oh yes!Oh I have to be don't I?
+*AUD:	Don't we?All 
+*JOA:	Yeah.
+*AUD:	us women have to be don't we?
+*JOA:	We've got to be.Yeah.We're martyrs to ourselves.
+*AUD:	Absolutely!
 *JOA:	 ((laugh)) 
-*AUD:	Bye-bye. 
-*JOA:	Bye. 
+*AUD:	Bye-bye.
+*JOA:	Bye.
 @End

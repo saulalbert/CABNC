@@ -1,48 +1,49 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-02:  Unspecified 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	COL Colin self, SHE Sheila wife, NIG Nigel friend, NEI Neil son
 @Options:	CA
-@ID:	eng|AudioBNC|COL|unknown||||British Rail employee||PS069|
-@ID:	eng|AudioBNC|SHE|unknown||||housekeeper|wife|PS10D|
-@ID:	eng|AudioBNC|NIG|unknown||||electrician|friend|PS10E|
-@ID:	eng|AudioBNC|NEI|unknown||||unemployed|son|PS10F|
+@ID: eng|AudioBNC|COL|unknown |m|X| |British Rail employee||PS069|
+@ID: eng|AudioBNC|SHE|unknown |f|X| |housekeeper|wife|PS10D|
+@ID: eng|AudioBNC|NIG|unknown |m|X| |electrician|friend|PS10E|
+@ID: eng|AudioBNC|NEI|unknown |m|X| |unemployed|son|PS10F|		
+@Date:	1991-02:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
 @Comment:	conversation #20 (Tape 036011)
-*COL:	Yes, no, no  (  ) . Should see him when he acts right. 
-*NIG:	I lost my wallet  (  ) .  (45.0) How you getting on  (  ) , alright? (  )  
-*SHE:	 (  ) 
-*COL:	No, (  ) . I am. 
+*COL:	Yes, no, no  (        ) .Should see him when he acts right.
+*NIG:	I lost my wallet  (        ) . (.) How you getting on  (        ) , alright? (        ) 
+*SHE:	 (        ) 
+*COL:	No, (        ) .I am.
 *NIG:	 ((laugh)) 
-*COL:	  ((laugh))  
-*NIG:	  ((laugh))  
-*NEI:	Going down the pub? 
-*NIG:	Yeah. (  )  
 *COL:	 ((laugh)) 
-*NIG:	Where's the cheese box? 
-*NEI:	Where's the cheese box under there? 
-*COL:	Yeah. 
-*NEI:	Oy!  (7.0) Ah no!  (8.0) I've got to set the video again. 
-*NIG:	What happened? 
-*COL:	Sorry! 
-*NEI:	Well what did you pull out? 
-*NIG:	 (  ) 
-*NEI:	That's up   (  ) is that   (.) it looks that way  (  ) . 
-*COL:	 (  ) .  (7.0) But   (.) that's not like, that does fit somewhere. 
-*NIG:	What? I know, but it's switched and it's still working? 
-*COL:	No, that   (  ) off your hand there Nigel. 
-*NEI:	Oh no! Set each side. 
-*COL:	Yes. 
-*NIG:	Yeah, that's where you keep  (  )  
-*NEI:	It's not! 
-*NIG:	Well what is then? 
-*NEI:	I dunno do I? I don't know. 
-*NIG:	That's the  (  ) . 
-*NEI:	It's alright there now.  (  ) . Do you want, do you want er   (.)  (  ) . 
-*NIG:	The 
-*NEI:	Eh? 
-*NIG:	Oh well! 
+*NIG:	 ((laugh)) 
+*NEI:	Going down the pub?
+*NIG:	Yeah. (        ) 
+*COL:	 ((laugh)) 
+*NIG:	Where's the cheese box?
+*NEI:	Where's the cheese box under there?
+*COL:	Yeah.
+*NEI:	Oy! (.) Ah no! (.) I've got to set the video again.
+*NIG:	What happened?
+*COL:	Sorry!
+*NEI:	Well what did you pull out?
+*NIG:	 (        ) 
+*NEI:	That's up   (        ) is that   (.) it looks that way  (        ) .
+*COL:	 (        ) . (.) But   (.) that's not like, that does fit somewhere.
+*NIG:	What?I know, but it's switched and it's still working?
+*COL:	No, that   (        ) off your hand there Nigel.
+*NEI:	Oh no!Set each side.
+*COL:	Yes.
+*NIG:	Yeah, that's where you keep  (        ) 
+*NEI:	It's not!
+*NIG:	Well what is then?
+*NEI:	I dunno do I?I don't know.
+*NIG:	That's the  (        ) .
+*NEI:	It's alright there now. (        ) . Do you want, do you want er   (.)  (        ) .
+*NIG:	The
+*NEI:	Eh?
+*NIG:	Oh well!
 *NEI:	 ((laugh)) 
 @End

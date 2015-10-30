@@ -1,36 +1,36 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-03-18:  
-@Location:	 home 
-@Situation:	 talking  
-@Media:	021A-C0897X0282XX-ABZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	UNK Unknown Unknown  , IRI Iris self, ALI Alison daughter, GOR Gordon friend
 @Options:	CA
-@ID:	eng|AudioBNC|UNK|unknown||||role unspecified|PS001|
-@ID:	eng|AudioBNC|IRI|54;|||||home care assistant||PS1EN|
-@ID:	eng|AudioBNC|ALI|21;|||||landscape gardener|daughter|PS1EP|
-@ID:	eng|AudioBNC|GOR|72;|||||retired|friend|PS1ES|
+@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|AudioBNC|IRI|~54;| |f|Ag4| |home care assistant||PS1EN|
+@ID: eng|AudioBNC|ALI|~21;| |f|Ag1| |landscape gardener|daughter|PS1EP|
+@ID: eng|AudioBNC|GOR|~72;| |m|Ag5| |retired|friend|PS1ES|
+@Media: 021A-C0897X0282XX-ABZZP0.wav, audio 		
+@Date:	1992-03-18:  
+@Situation:	 talking 		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0282XX-ABZZP0.wav
 @Comment:	conversation #9 (Tape 028204)
-*ALI:	He stands over me and says   (  ) I'm not doing it then he stands over me   (.) oh god it's gone, it's gone, it's   (.) oh look pick them up, oh what's he gonna do? Oh how many do you want? Five     (  )  (.)  ((laughing)) Don't you ? 
-*GOR:	Yeah  it's like   
-*ALI:	 Mother   
-*GOR:	you Alison. 
-*ALI:	Mother, if you want to   
-*GOR:	 Answer phone. 
-*ALI:	do it you ring up next time.  (.) And where's nan going off  (  ) ? 
-*GOR:	She's like you when you're   (.) when I'm on the phone. You don't have anybody interfering with you when you're answer the phone. 
-*ALI:	Well   (.) Aren't you gonna get changed? (  )  
-*IRI:	 ((laugh)) That's it. (.)  
-*UNK:	 (  ) 
-*IRI:	You'd know   (.) you'd know what you'd had to go through if you  (  ) . 
-*GOR:	Ooh! 
-*IRI:	Ooh! 
-*ALI:	  (  )  
-*GOR:	 Dear me. Go away. 
-*ALI:	 (  ) on the phone mum. 
-*GOR:	 (  ) 
+*ALI:	He stands over me and says   (        ) I'm not doing it then he stands over me   (.) oh god it's gone, it's gone, it's   (.) oh look pick them up, oh what's he gonna do?Oh how many do you want?Five     (        )  (.)  [laughing] Don't you  [] ?
+*GOR:	Yeah it's like 
+*ALI:	Mother 
+*GOR:	you Alison.
+*ALI:	Mother, if you want to 
+*GOR:	Answer phone.
+*ALI:	do it you ring up next time. (.) And where's nan going off  (        ) ?
+*GOR:	She's like you when you're   (.) when I'm on the phone.You don't have anybody interfering with you when you're answer the phone.
+*ALI:	Well   (.) Aren't you gonna get changed? (        ) 
+*IRI:	 ((laugh)) That's it. (.) 
+*UNK:	 (        ) 
+*IRI:	You'd know   (.) you'd know what you'd had to go through if you  (        ) .
+*GOR:	Ooh!
+*IRI:	Ooh!
+*ALI:	 (        ) 
+*GOR:	Dear me.Go away.
+*ALI:	 (        ) on the phone mum.
+*GOR:	 (        ) 
 @End

@@ -1,27 +1,27 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1992-02-01:  
-@Location:	  home and car  
-@Situation:	Unspecified 
-@Media:	021A-C0897X0599XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	ALB Albert self, JUN June wife
 @Options:	CA
-@ID:	eng|AudioBNC|ALB|53;|||||unemployed||PS01A|
-@ID:	eng|AudioBNC|JUN|47;|||||forecourt attendant|wife|PS01B|
+@ID: eng|AudioBNC|ALB|~53;| |m|Ag4| |unemployed||PS01A|
+@ID: eng|AudioBNC|JUN|~47;| |f|Ag4| |forecourt attendant|wife|PS01B|
+@Media: 021A-C0897X0599XX-AAZZP0.wav, audio 		
+@Date:	1992-02-01:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	  home and car  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0599XX-AAZZP0.wav
 @Comment:	conversation #4 (Tape 059901)
-*JUN:	He'll have ya, Barney. (  )  ((cough))  
+*JUN:	He'll have ya, Barney. (        )  ((cough)) 
 *ALB:	 ((cough)) 
-*JUN:	You grot bag. George. 
-*ALB:	 (  ) last year. 
-*JUN:	I know, that's what he were after. Wants to chew the basket, 'cos when he  (  ) , I think he started chewing photo. You bugger, George. George. George. What you doing? George. What you doing, you bald headed bugger. 
-*ALB:	He'll come out with it, you know. 
-*JUN:	I don't think he will. The only thing he's picked up since we've had him, is me name. And how long we had 'im. We 'ad 'im a good six months, ain't we? 
-*ALB:	Aye. 
-*JUN:	Georgie babes. Georgie, look at   (.) look. 
-*ALB:	He won't pick the names, he he picks up, it's the ones he already knows. 
-*JUN:	Oi, (  ) basket, (  ) look. Oi 
+*JUN:	You grot bag.George.
+*ALB:	 (        ) last year.
+*JUN:	I know, that's what he were after.Wants to chew the basket, 'cos when he  (        ) , I think he started chewing photo.You bugger, George.George.George.What you doing?George.What you doing, you bald headed bugger.
+*ALB:	He'll come out with it, you know.
+*JUN:	I don't think he will.The only thing he's picked up since we've had him, is me name.And how long we had 'im.We 'ad 'im a good six months, ain't we?
+*ALB:	Aye.
+*JUN:	Georgie babes.Georgie, look at   (.) look.
+*ALB:	He won't pick the names, he he picks up, it's the ones he already knows.
+*JUN:	Oi, (        ) basket, (        ) look.Oi
 @End

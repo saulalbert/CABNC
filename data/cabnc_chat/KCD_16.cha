@@ -1,33 +1,33 @@
-@UTF8
-@Begin	
-@Font:	CAfont:13:0
-@Languages:	eng
-@Date:	1991-05-31:  
-@Location:	 shopping 
-@Situation:	Unspecified 
-@Media:	021A-C0897X0048XX-AAZZP0.wav, audio 
-@Tanscriber:	CABNC project (https://saulalbert.github.io/CABNC/)
+@Begin
+@Font:  CAfont:13:0
+@Languages:     eng
 @Participants:	HEL Helen self, CLA Clare daughter, AMY Amy daughter
 @Options:	CA
-@ID:	eng|AudioBNC|HEL|40;|||||laboratory technician||PS0E8|
-@ID:	eng|AudioBNC|CLA|11;|||||student (state primary)|daughter|PS0E9|
-@ID:	eng|AudioBNC|AMY|7;|||||student (state primary)|daughter|PS0EA|
+@ID: eng|AudioBNC|HEL|~40;| |f|Ag3| |laboratory technician||PS0E8|
+@ID: eng|AudioBNC|CLA|~11;| |f|Ag0| |student (state primary)|daughter|PS0E9|
+@ID: eng|AudioBNC|AMY|~7;| |f|Ag0| |student (state primary)|daughter|PS0EA|
+@Media: 021A-C0897X0048XX-AAZZP0.wav, audio 		
+@Date:	1991-05-31:  
+@Situation:	Unspecified		
+@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)		
+		
+@Location:	 shopping 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0048XX-AAZZP0.wav
 @Comment:	conversation #16 (Tape 004803)
-*HEL:	It used to   (.) yes left handed, Blue one. Oh. 
-*CLA:	Can I have some? 
-*HEL:	Why do you need some more? 
-*CLA:	Yeah. 
-*HEL:	Right, I suppose so. ((cough)) . 
-*CLA:	Shall I go and pay for them  (  ) . 
-*HEL:	Amy. 
-*CLA:	What time is it? 
-*HEL:	Half past four, so I don't want to be too much longer. I don't know, is that what you want? Whoops   (5.0) I don't know. They won't be all for it, Amy is that what you want? Hm. 
-*AMY:	 (  ) . What's that. 
-*HEL:	That's sewing. 
-*AMY:	What do they give ya? How can you sew it? 
-*HEL:	Well you give you the, this. 
-*CLA:	What age? Can I pay for this? 
-*HEL:	Well, will pay for  them all together  . 
-*CLA:	  (  )  . 
+*HEL:	It used to   (.) yes left handed, Blue one.Oh.
+*CLA:	Can I have some?
+*HEL:	Why do you need some more?
+*CLA:	Yeah.
+*HEL:	Right, I suppose so. ((cough)) .
+*CLA:	Shall I go and pay for them  (        ) .
+*HEL:	Amy.
+*CLA:	What time is it?
+*HEL:	Half past four, so I don't want to be too much longer.I don't know, is that what you want?Whoops   (.) I don't know.They won't be all for it, Amy is that what you want?Hm.
+*AMY:	 (        ) .What's that.
+*HEL:	That's sewing.
+*AMY:	What do they give ya?How can you sew it?
+*HEL:	Well you give you the, this.
+*CLA:	What age?Can I pay for this?
+*HEL:	Well, will pay for them all together .
+*CLA:	 (        ) .
 @End

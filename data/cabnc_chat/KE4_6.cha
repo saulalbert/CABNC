@@ -6,11 +6,13 @@
 @ID: eng|AudioBNC|VAL|~36;| |f|Ag3| |staff nurse (pt)||PS0WN|
 @ID: eng|AudioBNC|PET|~34;| |m|Ag2| |sales representative|husband|PS0WP|
 @ID: eng|AudioBNC|JAC|~8;| |f|Ag0| |student (state primary)|daughter|PS0WR|
-@ID: eng|AudioBNC|DAV|~10;| |m|Ag0| |student (state primary)|son|PS0WS|		
+@ID: eng|AudioBNC|DAV|~10;| |m|Ag0| |student (state primary)|son|PS0WS|
+@Media: 021A-C0897X0673XX-AAZZP0.wav, audio 		
 @Date:	1992-01-31:  
 @Situation:	 breakfast 		
 @Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 at home 
+@Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0673XX-AAZZP0.wav
 @Comment:	conversation #6 (Tape 067307)
 *VAL:	Morning David.
 *DAV:	Morning.

@@ -5,11 +5,13 @@
 @Options:	CA
 @ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
 @ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|TON|~37;| |m|Ag3| |civil service||PS0V4|		
+@ID: eng|AudioBNC|TON|~37;| |m|Ag3| |civil service||PS0V4|
+@Media: 021A-C0897X0109XX-AAZZP0.wav, audio 		
 @Date:	1991-12-03:  
 @Situation:	 training session 		
 @Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 Work 
+@Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0109XX-AAZZP0.wav
 @Comment:	conversation #107 (Tape 010901)
 *TON:	Right. (.) Who can claim income support?
 *REN:	Er   (.) to be over eighteen is it?

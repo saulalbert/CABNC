@@ -6,11 +6,13 @@
 @ID: eng|AudioBNC|VAL|~36;| |f|Ag3| |staff nurse (pt)||PS0WN|
 @ID: eng|AudioBNC|JAC|~8;| |f|Ag0| |student (state primary)|daughter|PS0WR|
 @ID: eng|AudioBNC|DAV|~10;| |m|Ag0| |student (state primary)|son|PS0WS|
-@ID: eng|AudioBNC|UNK|~40+;| |f|Ag3| |dentist|stranger|PS0WU|		
+@ID: eng|AudioBNC|UNK|~40+;| |f|Ag3| |dentist|stranger|PS0WU|
+@Media: 021A-C0897X0673XX-ABZZP0.wav, audio 		
 @Date:	1992-01-31:  
 @Situation:	 going to dentists 		
 @Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 out 
+@Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0673XX-ABZZP0.wav
 @Comment:	conversation #8 (Tape 067309)
 *VAL:	Right, here's your coat.
 *DAV:	No I don't want it.

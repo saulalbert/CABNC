@@ -77,7 +77,7 @@
 @Media: <xsl:value-of select="audioFile"/>, audio </xsl:if>		
 @Date:	<xsl:if test="//recording[@n = $id]/not(@date)">unknown date</xsl:if><xsl:value-of select="//recording[@n = $id]/@date"></xsl:value-of><xsl:text>:  </xsl:text>
 @Situation:	<xsl:value-of select="activity"/>		
-@Tanscriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)<!--<xsl:value-of select="@who"/>-->		
+@Transcriber:	<xsl:text>AudioBNC project (https://saulalbert.github.io/CABNC/)<!--<xsl:value-of select="@who"/>--></xsl:text>
 		<xsl:if test="locale">
 @Location:	<xsl:value-of select="locale"/>
 		</xsl:if>

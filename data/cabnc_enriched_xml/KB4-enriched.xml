@@ -1,0 +1,1932 @@
+<?xml version="1.0" encoding="UTF-8"?><bncDoc xml:id="KB4">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>  1 conversation recorded by `Alan2' (PS1CP) [dates unknown] with 5 interlocutors, totalling 174 s-units, 828 words, and 8 minutes 0 seconds of recordings. </title>
+        <respStmt>
+          <resp> Data capture and transcription </resp>
+          <name> Longman ELT </name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>BNC XML Edition, December 2006</edition>
+      </editionStmt>
+      <extent> 837 tokens; 904 w-units; 174 s-units </extent>
+      <publicationStmt>
+        <distributor>Distributed under licence by Oxford University Computing Services on behalf of the BNC Consortium.</distributor>
+        <availability> This material is protected by international copyright laws and may not be copied or redistributed in any way. Consult the BNC Web Site at http://www.natcorp.ox.ac.uk for full licencing and distribution conditions.</availability>
+        <idno type="bnc">KB4</idno>
+        <idno type="old"> XAl1CP </idno>
+      </publicationStmt>
+      <sourceDesc>
+        <recordingStmt>
+          <recording xml:id="KB4RE000" n="011402" dur="480" type="Walkman"/>
+        </recordingStmt>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <namespace name="">
+          <tagUsage gi="align" occurs="29"/>
+          <tagUsage gi="c" occurs="174"/>
+          <tagUsage gi="div" occurs="1"/>
+          <tagUsage gi="event" occurs="3"/>
+          <tagUsage gi="gap" occurs="1"/>
+          <tagUsage gi="mw" occurs="2"/>
+          <tagUsage gi="pause" occurs="39"/>
+          <tagUsage gi="s" occurs="174"/>
+          <tagUsage gi="shift" occurs="8"/>
+          <tagUsage gi="trunc" occurs="3"/>
+          <tagUsage gi="u" occurs="131"/>
+          <tagUsage gi="unclear" occurs="25"/>
+          <tagUsage gi="vocal" occurs="14"/>
+          <tagUsage gi="w" occurs="904"/>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation date="0000">0000-00-00 Origination/creation date not known </creation>
+      <particDesc n="17">
+        <person ageGroup="Ag4" xml:id="PS1CP" role="self" sex="m" soc="DE" dialect="XLO">
+          <age>55</age>
+          <persName>Alan</persName>
+          <occupation>driver</occupation>
+          <dialect>London</dialect>
+        </person>
+        <person ageGroup="X" xml:id="PS1CR" role="?" sex="f" soc="UU" dialect="XLO">
+          <persName>Mandy</persName>
+          <dialect>London</dialect>
+        </person>
+        <person ageGroup="Ag1" xml:id="PS1CS" role="son" sex="m" soc="DE" dialect="XLO">
+          <age>24</age>
+          <persName>Darren</persName>
+          <occupation>unemployed</occupation>
+          <dialect>London</dialect>
+        </person>
+        <person ageGroup="X" xml:id="PS1CU" role="?" sex="m" soc="UU" dialect="XLO">
+          <persName>Gary</persName>
+          <dialect>London</dialect>
+        </person>
+        <person ageGroup="X" xml:id="PS1CV" role="?" sex="f" soc="UU" dialect="XOT">
+          <persName>Tracey</persName>
+        </person>
+        <person ageGroup="X" dialect="NONE" n="W0000" role="other" sex="u" soc="UU" xml:id="KB4PSUNK">
+          <persName>Unknown speaker</persName>
+        </person>
+        <person ageGroup="X" dialect="NONE" n="W000M" role="other" sex="u" soc="UU" xml:id="KB4PSUGP">
+          <persName>Group of unknown speakers</persName>
+        </person>
+      </particDesc>
+      <settingDesc>
+        <setting xml:id="KB4SE000" n="011402" who="PS000 PS001 PS1CP PS1CR PS1CS PS1CU PS1CV">
+          <audioFile>021A-C0897X0114XX-ABZZP0.wav</audioFile>
+          <placeName>Avon</placeName>
+          <locale> Home </locale>
+          <activity spont="H">Unspecified</activity>
+        </setting>
+      </settingDesc>
+      <textClass>
+        <catRef targets="SPO ALLTIM3 ALLAVA2 ALLTYP1 SDEAGE5 SDECLA4 SDESEX1 SPOLOG2 SPOREG1"/>
+        <classCode scheme="DLEE">S conv</classCode>
+        <keywords>
+          <term> (none) </term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change date="2006-10-21" who="#OUCS">Tag usage updated for BNC-XML</change>
+      <change date="2000-12-13" who="#OUCS">Last check for BNC World first release</change>
+      <change date="2000-09-01" who="#OUCS">Check all tagcounts</change>
+      <change date="2000-06-23" who="#OUCS">Resequenced s-units and added headers</change>
+      <change date="2000-01-29" who="#OUCS">Revised participant details</change>
+      <change date="2000-01-21" who="#OUCS">Added date info</change>
+      <change date="2000-01-09" who="#OUCS">Updated all catrefs</change>
+      <change date="2000-01-09" who="#OUCS">Updated REC elements to include tape number</change>
+      <change date="2000-01-08" who="#OUCS">Updated titles</change>
+      <change date="1999-12-25" who="#OUCS">corrected tagUsage</change>
+      <change date="1999-09-21" who="#UCREL">POS codes revised for BNC-2; header updated</change>
+      <change date="1994-11-27" who="#dominic">Initial accession to corpus</change>
+    </revisionDesc>
+  </teiHeader>
+  <stext type="CONVRSN">
+    <div n="011402" decls="KB4RE000 KB4SE000" nbw="904">
+      <u who="PS1CS">
+        <s n="1" nbw="0" startTime="2.7725" endTime="3.3825">
+          <w c5="PNP" hw="it" pos="PRON" startTime="2.7725" endTime="2.8825">It </w>
+          <w c5="VBD" hw="be" pos="VERB" startTime="2.8825" endTime="3.1025">was </w>
+          <w c5="AV0" hw="actually" pos="ADV" startTime="3.1025" endTime="3.3825">actually </w>
+          <vocal desc="laugh"/>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="2" nbw="3" startTime="5.5925" endTime="8.2425">
+          <unclear/>
+          <w c5="PRP" hw="to" pos="PREP" startTime="5.5925" endTime="5.9525">to </w>
+          <w c5="DPS" hw="i" pos="PRON" startTime="6.3025" endTime="6.7425">my </w>
+          <w c5="AJ0" hw="deaf" pos="ADJ" startTime="7.2425" endTime="7.5125">deaf </w>
+          <w c5="AJ0" hw="mute" pos="ADJ" startTime="7.5125" endTime="7.7925">mute </w>
+          <w c5="NN1" hw="son" pos="SUBST" startTime="7.7925" endTime="8.2425">son</w>
+          <c c5="PUN">.</c>
+          <pause dur="6"/>
+        </s>
+      </u>
+      <u who="PS1CV">
+        <s n="3" nbw="8" startTime="14.6025" endTime="15.7725">
+          <w c5="PNI" hw="everyone" pos="PRON" startTime="14.6025" endTime="15.0225">Everyone </w>
+          <w c5="VVZ" hw="shut" pos="VERB" startTime="15.0225" endTime="15.3725">shuts </w>
+          <w c5="AVP" hw="up" pos="ADV" startTime="15.3725" endTime="15.5925">up </w>
+          <w c5="AV0" hw="now" pos="ADV" startTime="15.5925" endTime="15.7725">now</w>
+          <c c5="PUN">.</c>
+          <vocal desc="laugh"/>
+        </s>
+      </u>
+      <u who="PS1CS">
+        <s n="4" nbw="12" startTime="16.2225" endTime="16.4825">
+          <w c5="ITJ" hw="mm" pos="INTERJ" startTime="16.2225" endTime="16.4825">Mm</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="5" nbw="13" startTime="17.0225" endTime="17.2025">
+          <w c5="ITJ" hw="yeah" pos="INTERJ" startTime="17.0225" endTime="17.2025">Yeah</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <unclear/>
+      </u>
+      <u who="PS1CP">
+        <s n="6" nbw="14" startTime="22.0025" endTime="23.6025">
+          <w c5="DT0" hw="that" pos="ADJ" startTime="22.0025" endTime="22.1825">That</w>
+          <w c5="VM0" hw="will" pos="VERB" startTime="22.1925" endTime="22.2025">'ll </w>
+          <w c5="VBI" hw="be" pos="VERB" startTime="22.2025" endTime="22.2625">be </w>
+          <w c5="AT0" hw="a" pos="ART" startTime="22.2625" endTime="22.3225">a </w>
+          <w c5="AJ0" hw="good" pos="ADJ" startTime="22.3225" endTime="22.4825">good </w>
+          <w c5="NN1" hw="dictionary" pos="SUBST" startTime="22.4825" endTime="22.8925">dictionary </w>
+          <w c5="CJS" hw="when" pos="CONJ" startTime="22.8925" endTime="23.0425">when </w>
+          <w c5="PNP" hw="it" pos="PRON" startTime="23.0425" endTime="23.1525">it </w>
+          <w c5="VVZ" hw="come" pos="VERB" startTime="23.1525" endTime="23.4325">comes </w>
+          <w c5="AVP" hw="out" pos="ADV" startTime="23.4325" endTime="23.6025">out</w>
+          <c c5="PUN">.</c>
+          <pause/>
+        </s>
+      </u>
+      <u who="PS1CV">
+        <s n="7" nbw="24" startTime="25.7325" endTime="26.7725">
+          <w c5="VBZ" hw="be" pos="VERB" startTime="25.7325" endTime="25.8125">Is </w>
+          <w c5="DT0" hw="that" pos="ADJ" startTime="25.8125" endTime="26.0025">that </w>
+          <w c5="DTQ" hw="what" pos="PRON" startTime="26.0025" endTime="26.1425">what </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="26.1425" endTime="26.3225">they</w>
+          <w c5="VBB" hw="be" pos="VERB" startTime="26.3325" endTime="26.3425">'re </w>
+          <w c5="VDG" hw="do" pos="VERB" startTime="26.3425" endTime="26.4625">doing </w>
+          <w c5="PNP" hw="it" pos="PRON" startTime="26.4625" endTime="26.5525">it </w>
+          <w c5="PRP" hw="for" pos="PREP" startTime="26.5525" endTime="26.7725">for</w>
+          <c c5="PUN">?</c>
+        </s>
+      </u>
+      <u who="KB4PSUNK">
+        <s n="8" nbw="32" startTime="26.7725" endTime="26.9325">
+          <w c5="ITJ" hw="mm" pos="INTERJ" startTime="26.7725" endTime="26.9325">Mm</w>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="9" nbw="33" startTime="27.5625" endTime="28.6825">
+          <w c5="AJ0-VVN" hw="spoken" pos="ADJ" startTime="27.5625" endTime="28.0725">Spoken </w>
+          <w c5="NN1-AJ0" hw="english" pos="SUBST" startTime="28.0725" endTime="28.4625">English </w>
+          <w c5="XX0" hw="not" pos="ADV" startTime="28.4625" endTime="28.6825">not </w>
+          <pause/>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="10" nbw="36" startTime="29.4925" endTime="31.4825">
+          <w c5="DTQ" hw="what" pos="PRON" startTime="29.4925" endTime="29.8025">What  </w>
+          <unclear/>
+          <w c5="NN2" hw="bollock" pos="SUBST" startTime="30.1125" endTime="30.5825">bollocks </w>
+          <w c5="CJC" hw="and" pos="CONJ" startTime="30.5825" endTime="30.6925">and </w>
+          <w c5="NN2" hw="thing" pos="SUBST" startTime="30.6925" endTime="30.9225">things </w>
+          <w c5="PRP" hw="like" pos="PREP" startTime="30.9225" endTime="31.2825">like </w>
+          <w c5="DT0" hw="that" pos="ADJ" startTime="31.2825" endTime="31.4825">that</w>
+          <c c5="PUN">.</c>
+          <vocal desc="laugh"/>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="11" nbw="42" startTime="31.7425" endTime="34.4925">
+          <w c5="XX0" hw="not" pos="ADV" startTime="31.7425" endTime="31.8725">not  </w>
+          <pause/>
+          <w c5="XX0" hw="not" pos="ADV" startTime="31.8725" endTime="32.0725">not </w>
+          <w c5="PRP" hw="like" pos="PREP" startTime="32.0725" endTime="32.3125">like </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="32.3125" endTime="32.4325">them  </w>
+          <pause/>
+          <w c5="PNP" hw="you" pos="PRON" startTime="32.4625" endTime="32.5425">you </w>
+          <w c5="VVB" hw="know" pos="VERB" startTime="32.5425" endTime="32.7525">know </w>
+          <w c5="PRP" hw="in" pos="PREP" startTime="32.7525" endTime="32.8125">in </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="32.8125" endTime="32.8925">the </w>
+          <trunc>
+            <w c5="UNC" hw="ord" pos="UNC" startTime="32.8925" endTime="33.0825">ord </w>
+          </trunc>
+          <w c5="PRP" hw="in" pos="PREP" startTime="32.8925" endTime="33.0825">in </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="33.0825" endTime="33.2025">the </w>
+          <w c5="AJ0" hw="ordinary" pos="ADJ" startTime="33.2025" endTime="33.2625">ordinary </w>
+          <w c5="NN1" hw="dictionary" pos="SUBST" startTime="33.2625" endTime="33.5925">dictionary </w>
+          <w c5="PNP" hw="it" pos="PRON" startTime="33.5925" endTime="34.0025">it</w>
+          <w c5="VBZ" hw="be" pos="VERB" startTime="34.0025" endTime="34.1425">'s </w>
+          <w c5="DT0" hw="all" pos="ADJ" startTime="34.1525" endTime="34.1625">all </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="34.1625" endTime="34.3325">the  </w>
+          <pause/>
+          <w c5="NN1" hw="sort" pos="SUBST" startTime="34.3325" endTime="34.4025">sort </w>
+          <w c5="PRF" hw="of" pos="PREP" startTime="34.4025" endTime="34.4925">of</w>
+        </s>
+      </u>
+      <u who="PS1CS">
+        <s n="12" nbw="61" startTime="34.7025" endTime="35.9325">
+          <w c5="AJ0" hw="hairy" pos="ADJ" startTime="34.7025" endTime="35.3925">Hairy </w>
+          <w c5="NN1" hw="minge" pos="SUBST" startTime="35.6925" endTime="35.9325">minge</w>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="13" nbw="63" startTime="35.9525" endTime="37.8725">
+          <shift new="laughing"/>
+          <w c5="ITJ" hw="yeah" pos="INTERJ" startTime="35.9525" endTime="36.1925">yeah </w>
+          <w c5="PNP" hw="you" pos="PRON" startTime="36.1925" endTime="36.4625">you </w>
+          <w c5="VM0" hw="can" pos="VERB" startTime="36.4625" endTime="36.7525">can </w>
+          <w c5="VVI" hw="imagine" pos="VERB" startTime="36.7525" endTime="37.1125">imagine </w>
+          <w c5="VVG" hw="look" pos="VERB" startTime="37.1125" endTime="37.2825">looking </w>
+          <w c5="PRP" hw="through" pos="PREP" startTime="37.2825" endTime="37.3925">through </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="37.3925" endTime="37.5125">the </w>
+          <w c5="NN1" hw="book" pos="SUBST" startTime="37.5125" endTime="37.8725">book</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="14" nbw="71" startTime="37.8725" endTime="38.9825">
+          <align with="KB4LC001"/>
+          <w c5="ITJ" hw="oh" pos="INTERJ" startTime="37.8725" endTime="38.0225">Oh </w>
+          <w c5="VVB" hw="look" pos="VERB" startTime="38.0225" endTime="38.1825">look</w>
+          <c c5="PUN">, </c>
+          <w c5="AJ0" hw="hairy" pos="ADJ" startTime="38.1825" endTime="38.4625">hairy </w>
+          <w c5="NN1" hw="minge" pos="SUBST" startTime="38.4625" endTime="38.9825">minge  </w>
+          <shift/>
+          <align with="KB4LC002"/>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="15" nbw="75" startTime="40.3025" endTime="40.6625">
+          <align with="KB4LC001"/>
+          <w c5="AT0" hw="the" pos="ART" startTime="40.3025" endTime="40.4425">The </w>
+          <w c5="UNC" hw="er" pos="UNC" startTime="40.5125" endTime="40.6625">er   </w>
+          <pause/>
+          <unclear/>
+          <align with="KB4LC002"/>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <vocal desc="laugh"/>
+      </u>
+      <u who="PS1CS">
+        <s n="16" nbw="77" startTime="41.1625" endTime="41.7325">
+          <align with="KB4LC003"/>
+          <w c5="VVG-AJ0" hw="cuddle" pos="VERB" startTime="41.1625" endTime="41.7325">Cuddling</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="17" nbw="78" startTime="42.0525" endTime="44.1225">
+          <align with="KB4LC003"/>
+          <w c5="NN1" hw="college" pos="SUBST" startTime="42.0525" endTime="42.4025">College </w>
+          <w c5="NN1" hw="style" pos="SUBST" startTime="42.4625" endTime="43.0725">style </w>
+          <align with="KB4LC004"/>
+          <w c5="NN1" hw="vocabulary" pos="SUBST" startTime="43.0725" endTime="44.1225">vocabulary </w>
+          <unclear/>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="18" nbw="81" startTime="45.9325" endTime="46.1325">
+          <w c5="ITJ" hw="yeah" pos="INTERJ" startTime="45.9325" endTime="46.1325">Yeah</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="KB4PSUNK">
+        <unclear/>
+      </u>
+      <u who="PS1CR">
+        <s n="19" nbw="82" startTime="46.1325" endTime="46.1925">
+          <w c5="ITJ" hw="mm" pos="INTERJ" startTime="46.1325" endTime="46.1925">Mm</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="20" nbw="83" startTime="47.8425" endTime="48.5825">
+          <w c5="AV0" hw="like" pos="ADV" startTime="47.8425" endTime="48.2625">Like </w>
+          <w c5="ITJ" hw="eh" pos="INTERJ" startTime="48.2625" endTime="48.3625">eh </w>
+          <w c5="VVB-NN1" hw="oop" pos="VERB" startTime="48.3625" endTime="48.5825">oop</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="21" nbw="86" startTime="48.8825" endTime="50.0025">
+          <w c5="PNP" hw="you" pos="PRON" startTime="48.8825" endTime="48.9625">You </w>
+          <w c5="AV0" hw="never" pos="ADV" startTime="48.9625" endTime="49.1425">never </w>
+          <w c5="VVB" hw="see" pos="VERB" startTime="49.1425" endTime="49.2725">see </w>
+          <w c5="DT0" hw="that" pos="ADJ" startTime="49.2725" endTime="49.4225">that </w>
+          <w c5="PRP" hw="in" pos="PREP" startTime="49.4225" endTime="49.4925">in </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="49.4925" endTime="49.5525">the </w>
+          <w c5="NN1" hw="dictionary" pos="SUBST" startTime="49.5525" endTime="50.0025">dictionary</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="22" nbw="93" startTime="50.0025" endTime="50.1825">
+          <align with="KB4LC005"/>
+          <w c5="ITJ" hw="eh" pos="INTERJ" startTime="50.0025" endTime="50.0325">Eh </w>
+          <w c5="VVB-NN1" hw="oop" pos="VERB" startTime="50.0325" endTime="50.1825">oop</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="23" nbw="95" startTime="50.2825" endTime="50.6725">
+          <w c5="ITJ" hw="eh" pos="INTERJ" startTime="50.2825" endTime="50.4125">Eh </w>
+          <w c5="NN1-VVB" hw="oop" pos="SUBST" startTime="50.4125" endTime="50.5825">oop </w>
+          <w c5="NN1" hw="lad" pos="SUBST" startTime="50.5825" endTime="50.6725">lad</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="24" nbw="98" startTime="50.6725" endTime="51.6325">
+          <align with="KB4LC005"/>
+          <w c5="PNP" hw="you" pos="PRON" startTime="50.6725" endTime="50.842499999999994">You</w>
+          <w c5="VBB" hw="be" pos="VERB" startTime="50.8525" endTime="50.8625">'re </w>
+          <w c5="AV0" hw="never" pos="ADV" startTime="50.8625" endTime="51.0725">never </w>
+          <w c5="AJ0" hw="likely" pos="ADJ" startTime="51.0725" endTime="51.3025">likely </w>
+          <w c5="PRP" hw="to" pos="PREP" startTime="51.3025" endTime="51.4325">to </w>
+          <w c5="DT0" hw="either" pos="ADJ" startTime="51.4325" endTime="51.6325">either</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="25" nbw="104" startTime="51.6625" endTime="52.4625">
+          <align with="KB4LC005"/>
+          <unclear/>
+          <align with="KB4LC006"/>
+          <w c5="AT0" hw="the" pos="ART" startTime="51.6625" endTime="51.9025">the </w>
+          <w c5="AJ0" hw="new" pos="ADJ" startTime="51.9025" endTime="52.3225">new </w>
+          <w c5="PNI" hw="one" pos="PRON" startTime="52.3225" endTime="52.4625">one</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="26" nbw="107" startTime="52.4625" endTime="53.8225">
+          <w c5="XX0" hw="not" pos="ADV" startTime="52.4625" endTime="52.6725">Not  </w>
+          <unclear/>
+          <w c5="PNP" hw="you" pos="PRON" startTime="52.9125" endTime="53.2225">you </w>
+          <w c5="VM0" hw="will" pos="VERB" startTime="53.2225" endTime="53.5325">wo</w>
+          <w c5="XX0" hw="not" pos="ADV" startTime="53.542500000000004" endTime="53.5525">n't </w>
+          <w c5="AV0" hw="either" pos="ADV" startTime="53.5525" endTime="53.8225">either</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="27" nbw="112" startTime="53.8225" endTime="55.3225">
+          <w c5="PNP" hw="it" pos="PRON" startTime="53.8225" endTime="54.052499999999995">It</w>
+          <w c5="VM0" hw="will" pos="VERB" startTime="54.0625" endTime="54.0725">'ll </w>
+          <w c5="VBI" hw="be" pos="VERB" startTime="54.0725" endTime="54.1725">be </w>
+          <w c5="PRP" hw="in" pos="PREP" startTime="54.1725" endTime="54.3125">in </w>
+          <w c5="DT0" hw="that" pos="ADJ" startTime="54.3125" endTime="54.7725">that </w>
+          <w c5="PNI" hw="one" pos="PRON" startTime="54.7725" endTime="55.3225">one</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="28" nbw="118" startTime="55.3225" endTime="56.7025">
+          <w c5="PNP" hw="you" pos="PRON" startTime="55.3225" endTime="55.4225">You</w>
+          <w c5="VM0" hw="will" pos="VERB" startTime="55.432500000000005" endTime="55.4425">'ll </w>
+          <w c5="VVI" hw="get" pos="VERB" startTime="55.4425" endTime="55.7125">get  </w>
+          <shift new="shouting"/>
+          <w c5="AJ0" hw="fucking" pos="ADJ" startTime="55.8025" endTime="56.1725">fucking </w>
+          <w c5="NN1" hw="hell" pos="SUBST" startTime="56.1725" endTime="56.7025">hell </w>
+          <shift/>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="29" nbw="123" startTime="56.8125" endTime="61.4825">
+          <w c5="NN2" hw="thing" pos="SUBST" startTime="56.8125" endTime="57.0425">Things </w>
+          <w c5="PRP" hw="like" pos="PREP" startTime="57.0425" endTime="57.6025">like </w>
+          <w c5="DT0" hw="that" pos="ADJ" startTime="61.3025" endTime="61.4825">that</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="30" nbw="126" startTime="61.4825" endTime="63.0325">
+          <pause/>
+          <w c5="AT0" hw="the" pos="ART" startTime="61.4825" endTime="61.5425">The </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="61.5425" endTime="61.6425">the </w>
+          <w c5="NP0" hw="whitstable" pos="SUBST" startTime="61.6425" endTime="62.1625">Whitstable </w>
+          <w c5="NN1" hw="dictionary" pos="SUBST" startTime="62.6125" endTime="63.0325">dictionary</w>
+        </s>
+      </u>
+      <u who="PS1CS">
+        <s n="31" nbw="130" startTime="63.1525" endTime="63.4325">
+          <w c5="ITJ" hw="yeah" pos="INTERJ" startTime="63.1525" endTime="63.4325">Yeah</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="32" nbw="131" startTime="63.5325" endTime="64.4525">
+          <w c5="NN2" hw="bollock" pos="SUBST" startTime="63.5325" endTime="63.9825">bollocks </w>
+          <w c5="PNP" hw="you" pos="PRON" startTime="63.9825" endTime="64.1125">you </w>
+          <w c5="NN1" hw="cunt" pos="SUBST" startTime="64.1125" endTime="64.4525">cunt</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="33" nbw="134" startTime="65.1825" endTime="65.7125">
+          <vocal desc="laugh"/>
+          <w c5="DT0" hw="that" pos="ADJ" startTime="65.1825" endTime="65.4025">That</w>
+          <w c5="VBZ" hw="be" pos="VERB" startTime="65.4125" endTime="65.4225">'s </w>
+          <w c5="PNP" hw="it" pos="PRON" startTime="65.4225" endTime="65.7125">it</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CS">
+        <unclear/>
+      </u>
+      <u who="PS1CU">
+        <s n="34" nbw="137" startTime="65.8725" endTime="67.9125">
+          <w c5="NP0" hw="dave" pos="SUBST" startTime="65.8725" endTime="66.1025">Dave  </w>
+          <pause/>
+          <w c5="NP0" hw="dave" pos="SUBST" startTime="67.6725" endTime="67.9125">Dave</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="35" nbw="139" startTime="68.1525" endTime="70.1325">
+          <w c5="PNP" hw="i" pos="PRON" startTime="68.1525" endTime="68.3925">I</w>
+          <w c5="VBB" hw="be" pos="VERB" startTime="68.40249999999999" endTime="68.4125">'m </w>
+          <w c5="VVG" hw="gon" pos="VERB" startTime="68.4125" endTime="68.5625">gon</w>
+          <w c5="TO0" hw="na" pos="PREP" startTime="68.5625" endTime="68.6225">na </w>
+          <w c5="VVI" hw="miss" pos="VERB" startTime="68.6225" endTime="68.7625">miss </w>
+          <w c5="AJ0" hw="old" pos="ADJ" startTime="68.7625" endTime="68.9225">old </w>
+          <w c5="NP0" hw="dave" pos="SUBST" startTime="68.9225" endTime="69.1125">Dave </w>
+          <w c5="AV0" hw="really" pos="ADV" startTime="69.1125" endTime="69.2425">really </w>
+          <w c5="PRP" hw="for" pos="PREP" startTime="69.2725" endTime="69.3525">for </w>
+          <w c5="DPS" hw="he" pos="PRON" startTime="69.3525" endTime="69.4925">his </w>
+          <w c5="NN2" hw="word" pos="SUBST" startTime="69.4925" endTime="69.7025">words </w>
+          <w c5="PRF" hw="of" pos="PREP" startTime="69.7025" endTime="69.7725">of </w>
+          <w c5="NN1" hw="wisdom" pos="SUBST" startTime="69.7725" endTime="70.1325">wisdom</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CS">
+        <s n="36" nbw="152" startTime="70.1325" endTime="71.0425">
+          <w c5="PNP" hw="i" pos="PRON" startTime="70.1325" endTime="70.1725">I</w>
+          <w c5="VBB" hw="be" pos="VERB" startTime="70.18249999999999" endTime="70.1925">'m </w>
+          <w c5="VVG" hw="gon" pos="VERB" startTime="70.3825" endTime="70.6225">gon</w>
+          <w c5="TO0" hw="na" pos="PREP" startTime="70.6225" endTime="70.7125">na </w>
+          <w c5="VVI" hw="miss" pos="VERB" startTime="70.7125" endTime="70.8825">miss </w>
+          <w c5="PNP" hw="he" pos="PRON" startTime="70.8825" endTime="71.0425">him</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="37" nbw="158" startTime="71.4625" endTime="72.1825">
+          <w c5="CJC" hw="and" pos="CONJ" startTime="71.4625" endTime="71.8725">And </w>
+          <w c5="NP0" hw="les" pos="SUBST" startTime="71.8725" endTime="72.1825">Les </w>
+          <gap desc="name" reason="anonymization"/>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CS">
+        <s n="38" nbw="160" startTime="72.2425" endTime="72.7725">
+          <w c5="PNP" hw="he" pos="PRON" startTime="72.2425" endTime="72.3225">He</w>
+          <w c5="VBZ" hw="be" pos="VERB" startTime="72.3325" endTime="72.3425">'s </w>
+          <w c5="AT0" hw="a" pos="ART" startTime="72.3425" endTime="72.3725">a </w>
+          <w c5="AJ0" hw="nice" pos="ADJ" startTime="72.3725" endTime="72.5725">nice </w>
+          <w c5="NN1" hw="bloke" pos="SUBST" startTime="72.5725" endTime="72.7725">bloke</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="39" nbw="165" startTime="72.7725" endTime="74.0325">
+          <w c5="ITJ" hw="no" pos="INTERJ" startTime="72.7725" endTime="72.9725">No </w>
+          <w c5="NP0" hw="les" pos="SUBST" startTime="72.9725" endTime="73.1225">Les</w>
+          <w c5="VBZ" hw="be" pos="VERB" startTime="73.1225" endTime="73.2025">'s </w>
+          <w c5="AT0" hw="a" pos="ART" startTime="73.4925" endTime="73.5225">a </w>
+          <w c5="NN1" hw="pain" pos="SUBST" startTime="73.5225" endTime="73.6625">pain </w>
+          <w c5="PRP" hw="in" pos="PREP" startTime="73.6625" endTime="73.7525">in </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="73.7525" endTime="73.8625">the </w>
+          <w c5="NN1" hw="arse" pos="SUBST" startTime="73.8625" endTime="74.0325">arse</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="40" nbw="173" startTime="74.1025" endTime="74.6925">
+          <w c5="NP0" hw="dave" pos="SUBST" startTime="74.1025" endTime="74.38250000000001">Dave</w>
+          <w c5="VBZ" hw="be" pos="VERB" startTime="74.3925" endTime="74.4025">'s </w>
+          <w c5="AJ0" hw="alright" pos="ADJ" startTime="74.4025" endTime="74.6925">alright</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="41" nbw="176" startTime="76.1125" endTime="76.2725">
+          <unclear/>
+          <w c5="AV0" hw="please" pos="ADV" startTime="76.1125" endTime="76.2725">please</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="42" nbw="177" startTime="77.7125" endTime="77.8525">
+          <w c5="UNC" hw="er" pos="UNC" startTime="77.7125" endTime="77.8525">Er</w>
+          <c c5="PUN">?</c>
+        </s>
+        <s n="43" nbw="178" startTime="77.9925" endTime="78.7325">
+          <pause/>
+          <w c5="NP0" hw="les" pos="SUBST" startTime="77.9925" endTime="78.2025">Les</w>
+          <w c5="VBZ" hw="be" pos="VERB" startTime="78.2025" endTime="78.2525">'s </w>
+          <w c5="AJ0" hw="alright" pos="ADJ" startTime="78.2525" endTime="78.7325">alright</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CS">
+        <s n="44" nbw="181" startTime="79.1825" endTime="82.0425">
+          <w c5="PNP" hw="he" pos="PRON" startTime="79.1825" endTime="79.4325">He</w>
+          <w c5="VBZ" hw="be" pos="VERB" startTime="79.4425" endTime="79.4525">'s </w>
+          <w c5="AJ0" hw="alright" pos="ADJ" startTime="79.4525" endTime="79.8125">alright </w>
+          <w c5="PNP" hw="he" pos="PRON" startTime="79.8125" endTime="79.9225">he</w>
+          <w c5="VBZ" hw="be" pos="VERB" startTime="79.93249999999999" endTime="79.9425">'s </w>
+          <w c5="AV0" hw="just" pos="ADV" startTime="79.9425" endTime="80.0925">just </w>
+          <w c5="AT0" hw="a" pos="ART" startTime="80.0925" endTime="80.1225">a </w>
+          <w c5="NN1" hw="pain" pos="SUBST" startTime="80.1225" endTime="80.4825">pain  </w>
+          <unclear/>
+          <w c5="AVP-PRP" hw="on" pos="ADV" startTime="80.6025" endTime="81.1225">on </w>
+          <w c5="CJC" hw="and" pos="CONJ" startTime="81.1225" endTime="81.3225">and </w>
+          <w c5="AVP-PRP" hw="on" pos="ADV" startTime="81.3225" endTime="81.4625">on </w>
+          <w c5="CJC" hw="and" pos="CONJ" startTime="81.4625" endTime="81.5325">and </w>
+          <w c5="AVP-PRP" hw="on" pos="ADV" startTime="81.5325" endTime="81.7525">on </w>
+          <w c5="CJC" hw="and" pos="CONJ" startTime="81.7525" endTime="81.8625">and </w>
+          <w c5="AVP-PRP" hw="on" pos="ADV" startTime="81.8625" endTime="82.0425">on</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="45" nbw="196" startTime="82.0425" endTime="83.0425">
+          <w c5="CJS" hw="when" pos="CONJ" startTime="82.0425" endTime="82.1425">When </w>
+          <w c5="PNP" hw="i" pos="PRON" startTime="82.1425" endTime="82.1725">I </w>
+          <w c5="VBD" hw="be" pos="VERB" startTime="82.2425" endTime="82.5525">was </w>
+          <w c5="PRP" hw="at" pos="PREP" startTime="82.5525" endTime="82.6125">at </w>
+          <w c5="NP0" hw="tesco" pos="SUBST" startTime="82.6125" endTime="83.0125">Tesco</w>
+          <w c5="POS" hw="'s" pos="UNC" startTime="83.0125" endTime="83.0425">'s</w>
+          <c c5="PUN">.</c>
+          <vocal desc="laugh"/>
+        </s>
+      </u>
+      <u who="PS1CS">
+        <s n="46" nbw="202" startTime="83.0725" endTime="83.8725">
+          <w c5="ITJ" hw="oh" pos="INTERJ" startTime="83.0725" endTime="83.3625">Oh </w>
+          <w c5="PNP" hw="i" pos="PRON" startTime="83.3625" endTime="83.3925">I  </w>
+          <pause/>
+          <w c5="ITJ" hw="yeah" pos="INTERJ" startTime="83.5025" endTime="83.8725">yeah</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="47" nbw="205" startTime="84.5025" endTime="86.3825">
+          <w c5="PNP" hw="i" pos="PRON" startTime="84.5025" endTime="84.8525">Me</w>
+          <c c5="PUN">, </c>
+          <w c5="PNP" hw="i" pos="PRON" startTime="84.8525" endTime="84.9725">me </w>
+          <w c5="CJC" hw="and" pos="CONJ" startTime="84.9725" endTime="85.0425">and </w>
+          <w c5="NP0" hw="jock" pos="SUBST" startTime="85.0425" endTime="85.2825">Jock </w>
+          <w c5="VM0" hw="used" pos="VERB" startTime="85.2825" endTime="85.4125">used </w>
+          <w c5="TO0" hw="to" pos="PREP" startTime="85.4125" endTime="85.4925">to </w>
+          <w c5="VVI" hw="wind" pos="VERB" startTime="85.4925" endTime="85.7225">wind </w>
+          <w c5="PNP" hw="he" pos="PRON" startTime="85.7225" endTime="85.8125">him </w>
+          <w c5="AVP" hw="up" pos="ADV" startTime="85.8125" endTime="86.3825">up</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="48" nbw="214" startTime="86.3825" endTime="87.3325">
+          <w c5="PNP" hw="i" pos="PRON" startTime="86.3825" endTime="86.7525">I</w>
+          <w c5="VM0" hw="would" pos="VERB" startTime="86.76249999999999" endTime="86.7725">'d </w>
+          <w c5="VVI" hw="say" pos="VERB" startTime="86.7725" endTime="86.8325">say </w>
+          <w c5="VVB" hw="shut" pos="VERB" startTime="86.8325" endTime="86.9525">shut </w>
+          <w c5="AVP" hw="up" pos="ADV" startTime="86.9525" endTime="87.0925">up </w>
+          <w c5="NP0" hw="jock" pos="SUBST" startTime="87.0925" endTime="87.3325">Jock</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="49" nbw="220" startTime="87.3325" endTime="87.9125">
+          <w c5="PNP" hw="he" pos="PRON" startTime="87.3325" endTime="87.4025">He</w>
+          <w c5="VM0" hw="would" pos="VERB" startTime="87.4125" endTime="87.4225">'d </w>
+          <w c5="VVI" hw="say" pos="VERB" startTime="87.4225" endTime="87.5225">say </w>
+          <w c5="AVQ" hw="why" pos="ADV" startTime="87.5225" endTime="87.9125">why</w>
+          <c c5="PUN">?</c>
+        </s>
+        <s n="50" nbw="224" startTime="87.9125" endTime="88.6125">
+          <w c5="PNP" hw="i" pos="PRON" startTime="87.9125" endTime="87.9625">I</w>
+          <w c5="VM0" hw="would" pos="VERB" startTime="87.9725" endTime="87.9825">'d </w>
+          <w c5="VVI" hw="say" pos="VERB" startTime="87.9825" endTime="88.1025">say </w>
+          <w c5="VVB" hw="shut" pos="VERB" startTime="88.1025" endTime="88.3825">shut </w>
+          <w c5="AVP" hw="up" pos="ADV" startTime="88.3825" endTime="88.4625">up</w>
+          <c c5="PUN">, </c>
+          <w c5="ITJ" hw="shush" pos="INTERJ" startTime="88.4625" endTime="88.6125">shush</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="51" nbw="230" startTime="88.6125" endTime="89.4325">
+          <w c5="PNP" hw="he" pos="PRON" startTime="88.6125" endTime="88.6725">He </w>
+          <w c5="VVD" hw="say" pos="VERB" startTime="89.1225" endTime="89.2225">said </w>
+          <w c5="AVQ" hw="why" pos="ADV" startTime="89.2225" endTime="89.4325">why</w>
+          <c c5="PUN">?</c>
+        </s>
+        <s n="52" nbw="233" startTime="89.4325" endTime="94.2825">
+          <w c5="PNP" hw="i" pos="PRON" startTime="89.4325" endTime="89.4825">I </w>
+          <w c5="VVD" hw="say" pos="VERB" startTime="89.4825" endTime="89.6725">said </w>
+          <w c5="CJS" hw="cos" pos="CONJ" startTime="90.1025" endTime="90.2425">cos  </w>
+          <pause/>
+          <w c5="NP0" hw="les" pos="SUBST" startTime="90.7525" endTime="90.9525">Les</w>
+          <c c5="PUN">, </c>
+          <w c5="NP0" hw="les" pos="SUBST" startTime="91.0725" endTime="91.2325">Les </w>
+          <w c5="VBZ" hw="be" pos="VERB" startTime="91.2725" endTime="91.4925">is </w>
+          <w c5="VVG" hw="gon" pos="VERB" startTime="91.4925" endTime="91.6925">gon</w>
+          <w c5="TO0" hw="na" pos="PREP" startTime="91.6925" endTime="91.8325">na </w>
+          <w c5="VVI" hw="tell" pos="VERB" startTime="91.8325" endTime="92.0025">tell </w>
+          <w c5="PNP" hw="we" pos="PRON" startTime="92.0025" endTime="92.1325">us </w>
+          <w c5="AT0" hw="a" pos="ART" startTime="92.5525" endTime="92.7225">a </w>
+          <w c5="NP0" hw="tesco" pos="SUBST" startTime="93.0925" endTime="93.3325">Tesco</w>
+          <w c5="POS" hw="'s" pos="UNC" startTime="93.3325" endTime="93.3625">'s </w>
+          <w c5="NN1" hw="story" pos="SUBST" startTime="93.3625" endTime="93.8325">story </w>
+          <w c5="AV0" hw="otherwise" pos="ADV" startTime="93.9425" endTime="94.2825">otherwise</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="KB4PSUNK">
+        <vocal desc="laugh"/>
+      </u>
+      <u who="PS1CS">
+        <s n="53" nbw="248" startTime="94.2825" endTime="96.0625">
+          <shift new="laughing"/>
+          <w c5="PNP" hw="you" pos="PRON" startTime="94.2825" endTime="94.4425">You </w>
+          <w c5="AJ0" hw="little" pos="ADJ" startTime="94.6825" endTime="95.0025">little </w>
+          <w c5="NN2" hw="cunt" pos="SUBST" startTime="95.4925" endTime="96.0025">cunts </w>
+          <w c5="PNP" hw="you" pos="PRON" startTime="96.0025" endTime="96.0625">you </w>
+          <shift/>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="54" nbw="252" startTime="96.0625" endTime="96.7625">
+          <w c5="PNP" hw="you" pos="PRON" startTime="96.0625" endTime="96.1225">You </w>
+          <w c5="AJ0" hw="young" pos="ADJ" startTime="96.1225" endTime="96.3325">young </w>
+          <w c5="NN2" hw="bastard" pos="SUBST" startTime="96.3325" endTime="96.7625">bastards</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="55" nbw="255" startTime="96.7625" endTime="98.0625">
+          <w c5="PNP" hw="you" pos="PRON" startTime="96.7625" endTime="96.8925">You </w>
+          <w c5="VDB" hw="do" pos="VERB" startTime="96.8925" endTime="97.0125">do</w>
+          <w c5="XX0" hw="not" pos="ADV" startTime="97.0225" endTime="97.0325">n't </w>
+          <w c5="VVI" hw="know" pos="VERB" startTime="97.0325" endTime="97.2525">know </w>
+          <w c5="DTQ" hw="what" pos="PRON" startTime="97.2525" endTime="97.3525">what </w>
+          <w c5="PNP" hw="it" pos="PRON" startTime="97.3525" endTime="97.4525">it</w>
+          <w c5="VBZ" hw="be" pos="VERB" startTime="97.46249999999999" endTime="97.4725">'s </w>
+          <w c5="PRP" hw="like" pos="PREP" startTime="97.4725" endTime="97.6725">like </w>
+          <w c5="PRP" hw="to" pos="PREP" startTime="97.6725" endTime="97.7625">to </w>
+          <w c5="NN1" hw="work" pos="SUBST" startTime="97.7625" endTime="98.0625">work</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="56" nbw="265" startTime="98.7925" endTime="99.8725">
+          <w c5="CJS" hw="when" pos="CONJ" startTime="98.7925" endTime="98.9825">When </w>
+          <w c5="PNP" hw="we" pos="PRON" startTime="98.9825" endTime="99.1125">we </w>
+          <w c5="VBD" hw="be" pos="VERB" startTime="99.1125" endTime="99.2225">was </w>
+          <w c5="AV0" hw="here" pos="ADV" startTime="99.2225" endTime="99.4225">here</w>
+          <c c5="PUN">, </c>
+          <w c5="CJS" hw="when" pos="CONJ" startTime="99.5325" endTime="99.6825">when </w>
+          <w c5="PNP" hw="it" pos="PRON" startTime="99.6825" endTime="99.7625">it </w>
+          <w c5="VBD" hw="be" pos="VERB" startTime="99.7625" endTime="99.8725">was </w>
+          <unclear/>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="57" nbw="272" startTime="99.9125" endTime="100.2125">
+          <w c5="ITJ" hw="oh" pos="INTERJ" startTime="99.9125" endTime="99.9425">Oh </w>
+          <w c5="ITJ" hw="dear" pos="INTERJ" startTime="99.9425" endTime="100.2125">dear</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CV">
+        <s n="58" nbw="274" startTime="100.5025" endTime="100.7825">
+          <w c5="PNP" hw="you" pos="PRON" startTime="100.5025" endTime="100.7825">You </w>
+          <unclear/>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="59" nbw="275" startTime="102.5125" endTime="102.7425">
+          <w c5="ITJ" hw="yeah" pos="INTERJ" startTime="102.5125" endTime="102.7425">Yeah</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <unclear/>
+      </u>
+      <u who="PS1CU">
+        <s n="60" nbw="276" startTime="104.4825" endTime="106.0125">
+          <w c5="VVB" hw="take" pos="VERB" startTime="104.4825" endTime="104.6225">Take </w>
+          <w c5="DPS" hw="i" pos="PRON" startTime="104.6225" endTime="104.8425">my</w>
+          <c c5="PUN">, </c>
+          <w c5="DPS" hw="i" pos="PRON" startTime="104.9525" endTime="105.0825">my </w>
+          <w c5="AJ0" hw="super" pos="ADJ" startTime="105.0825" endTime="105.3825">super </w>
+          <w c5="NN1" hw="mini" pos="SUBST" startTime="105.3825" endTime="105.5625">mini </w>
+          <w c5="AVP" hw="out" pos="ADV" startTime="105.5625" endTime="106.0125">out</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="61" nbw="282" startTime="106.0125" endTime="107.7425">
+          <w c5="PRP" hw="with" pos="PREP" startTime="106.0125" endTime="106.1925">With </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="106.1925" endTime="106.2825">the </w>
+          <w c5="ZZ0" hw="l" pos="SUBST" startTime="106.3325" endTime="106.3925">L </w>
+          <w c5="NN2" hw="plate" pos="SUBST" startTime="106.3925" endTime="107.4625">plates </w>
+          <w c5="AVP-PRP" hw="on" pos="ADV" startTime="107.6525" endTime="107.7425">on</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="62" nbw="287" startTime="110.9525" endTime="111.3725">
+          <shift new="laughing"/>
+          <w c5="ITJ" hw="yeah" pos="INTERJ" startTime="110.9525" endTime="111.3725">Yeah </w>
+          <shift/>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="63" nbw="288" startTime="112.3725" endTime="112.8625">
+          <w c5="ZZ0" hw="l" pos="SUBST" startTime="112.3725" endTime="112.4725">L </w>
+          <w c5="NN2" hw="plate" pos="SUBST" startTime="112.4725" endTime="112.7225">plates </w>
+          <w c5="AVP-PRP" hw="on" pos="ADV" startTime="112.7225" endTime="112.8625">on</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="64" nbw="291" startTime="112.8625" endTime="113.5025">
+          <w c5="PNP" hw="they" pos="PRON" startTime="112.8625" endTime="112.9325">They</w>
+          <w c5="VBB" hw="be" pos="VERB" startTime="112.9425" endTime="112.9525">'re </w>
+          <w c5="XX0" hw="not" pos="ADV" startTime="112.9525" endTime="113.0625">not </w>
+          <w c5="VBG" hw="be" pos="VERB" startTime="113.0625" endTime="113.2125">being </w>
+          <w c5="VVN" hw="use" pos="VERB" startTime="113.2125" endTime="113.4425">used </w>
+          <w c5="AV0" hw="though" pos="ADV" startTime="113.4425" endTime="113.5025">though</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="65" nbw="297" startTime="113.5025" endTime="114.9725">
+          <w c5="VVN" hw="get" pos="VERB" startTime="113.5025" endTime="113.6025">Got</w>
+          <w c5="TO0" hw="ta" pos="PREP" startTime="113.6025" endTime="113.8025">ta </w>
+          <align with="KB4LC007"/>
+          <w c5="VVI" hw="learn" pos="VERB" startTime="113.8025" endTime="114.0725">learn </w>
+          <w c5="TO0" hw="to" pos="PREP" startTime="114.0725" endTime="114.1625">to  </w>
+          <pause/>
+          <w c5="VVN" hw="get" pos="VERB" startTime="114.1625" endTime="114.3525">Got</w>
+          <w c5="TO0" hw="ta" pos="PREP" startTime="114.3525" endTime="114.4225">ta </w>
+          <w c5="VVI" hw="learn" pos="VERB" startTime="114.4225" endTime="114.5325">learn </w>
+          <w c5="TO0" hw="to" pos="PREP" startTime="114.5325" endTime="114.5925">to </w>
+          <w c5="VVI" hw="drive" pos="VERB" startTime="114.5925" endTime="114.7525">drive </w>
+          <w c5="ORD" hw="first" pos="ADJ" startTime="114.7525" endTime="114.9725">first</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="66" nbw="307" startTime="114.9725" endTime="115.3325">
+          <align with="KB4LC007"/>
+          <w c5="AV0" hw="here" pos="ADV" startTime="114.9725" endTime="115.0625">Here </w>
+          <w c5="NP0" hw="tracy" pos="SUBST" startTime="115.0625" endTime="115.3325">Tracy</w>
+          <c c5="PUN">!</c>
+        </s>
+      </u>
+      <u who="PS1CV">
+        <s n="67" nbw="309" startTime="115.3325" endTime="115.7425">
+          <w c5="DTQ" hw="what" pos="PRON" startTime="115.3325" endTime="115.7425">What</w>
+          <c c5="PUN">?</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="68" nbw="310" startTime="115.7425" endTime="116.2725">
+          <w c5="NP0" hw="martin" pos="SUBST" startTime="115.7425" endTime="116.1225">Martin </w>
+          <w c5="PRP" hw="at" pos="PREP" startTime="116.1225" endTime="116.1825">at </w>
+          <w c5="NN1" hw="work" pos="SUBST" startTime="116.1825" endTime="116.2725">work</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="69" nbw="313" startTime="116.3325" endTime="118.3125">
+          <w c5="CJS" hw="when" pos="CONJ" startTime="116.3325" endTime="116.4425">When </w>
+          <w c5="PNP" hw="he" pos="PRON" startTime="116.4425" endTime="116.5425">he </w>
+          <w c5="VVD" hw="find" pos="VERB" startTime="116.5425" endTime="116.7925">found </w>
+          <w c5="AVP" hw="out" pos="ADV" startTime="116.7925" endTime="116.8825">out </w>
+          <w c5="PNP" hw="you" pos="PRON" startTime="116.8825" endTime="117.0125">you </w>
+          <w c5="VVD-VVN" hw="get" pos="VERB" startTime="117.0125" endTime="117.1825">got </w>
+          <w c5="AT0" hw="a" pos="ART" startTime="117.1825" endTime="117.2125">a </w>
+          <w c5="NN1-AJ0" hw="mini" pos="SUBST" startTime="117.2125" endTime="117.4225">mini </w>
+          <w c5="PNP" hw="he" pos="PRON" startTime="117.4225" endTime="117.4925">he </w>
+          <w c5="VVD" hw="say" pos="VERB" startTime="117.4925" endTime="117.6925">said </w>
+          <w c5="AVQ" hw="where" pos="ADV" startTime="117.6925" endTime="117.8425">where </w>
+          <w c5="VDZ" hw="do" pos="VERB" startTime="117.8425" endTime="117.9325">does </w>
+          <w c5="NP0" hw="tracey" pos="SUBST" startTime="117.9325" endTime="118.2025">Tracey </w>
+          <w c5="VVI" hw="sit" pos="VERB" startTime="118.2025" endTime="118.3125">sit</w>
+          <c c5="PUN">?</c>
+        </s>
+        <s n="70" nbw="327" startTime="118.3125" endTime="119.6225">
+          <w c5="PRP" hw="in" pos="PREP" startTime="118.3125" endTime="118.4225">In </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="118.4225" endTime="118.5125">the </w>
+          <w c5="NN1" hw="back" pos="SUBST" startTime="118.5125" endTime="118.7025">back </w>
+          <w c5="CJC" hw="and" pos="CONJ" startTime="118.7025" endTime="118.7825">and </w>
+          <w c5="NP0" hw="darren" pos="SUBST" startTime="118.7825" endTime="118.9925">Darren </w>
+          <w c5="VVZ" hw="sit" pos="VERB" startTime="118.9925" endTime="119.1525">sits </w>
+          <w c5="PRP" hw="in" pos="PREP" startTime="119.1525" endTime="119.2125">in </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="119.2125" endTime="119.2825">the </w>
+          <w c5="NN1-AJ0" hw="front" pos="SUBST" startTime="119.2825" endTime="119.6225">front</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <align with="KB4LC009"/>
+        <vocal desc="laugh"/>
+        <align with="KB4LC00A"/>
+      </u>
+      <u who="PS1CS">
+        <s n="71" nbw="336" startTime="119.9625" endTime="121.0425">
+          <align with="KB4LC009"/>
+          <w c5="DT0" hw="that" pos="ADJ" startTime="119.9625" endTime="120.2425">That </w>
+          <w c5="VBD" hw="be" pos="VERB" startTime="120.2425" endTime="120.5125">was </w>
+          <w c5="NP0" hw="jim" pos="SUBST" startTime="120.5125" endTime="120.7325">Jim </w>
+          <align with="KB4LC00A"/>
+          <w c5="VBD" hw="be" pos="VERB" startTime="120.7325" endTime="120.8725">were</w>
+          <w c5="XX0" hw="not" pos="ADV" startTime="120.8825" endTime="120.8925">n't </w>
+          <w c5="PNP" hw="it" pos="PRON" startTime="120.8925" endTime="121.0425">it</w>
+          <c c5="PUN">?</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="72" nbw="342" startTime="121.1225" endTime="121.7925">
+          <w c5="CJC" hw="and" pos="CONJ" startTime="121.1225" endTime="121.3425">And </w>
+          <w c5="NP0" hw="jim" pos="SUBST" startTime="121.3425" endTime="121.5025">Jim </w>
+          <w c5="VVD" hw="say" pos="VERB" startTime="121.5025" endTime="121.6625">said </w>
+          <w c5="PNP" hw="it" pos="PRON" startTime="121.6625" endTime="121.7925">it</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CV">
+        <s n="73" nbw="346" startTime="122.0425" endTime="123.1025">
+          <w c5="VVB" hw="tell" pos="VERB" startTime="122.0425" endTime="122.1925">Tell </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="122.3525" endTime="122.5625">them </w>
+          <w c5="TO0" hw="to" pos="PREP" startTime="122.5625" endTime="122.6325">to </w>
+          <w c5="VVI" hw="shut" pos="VERB" startTime="122.6625" endTime="122.8225">shut </w>
+          <w c5="DPS" hw="they" pos="PRON" startTime="122.8225" endTime="122.9625">their </w>
+          <w c5="NN2" hw="mouth" pos="SUBST" startTime="122.9625" endTime="123.1025">mouths</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="74" nbw="352" startTime="123.1025" endTime="123.5925">
+          <w c5="PNP" hw="i" pos="PRON" startTime="123.1025" endTime="123.1325">I </w>
+          <w c5="VM0" hw="will" pos="VERB" startTime="123.1725" endTime="123.5925">will</w>
+          <c c5="PUN">.</c>
+          <pause/>
+        </s>
+      </u>
+      <u who="PS1CS">
+        <s n="75" nbw="354" startTime="126.1925" endTime="127.5225">
+          <w c5="NP0" hw="tracey" pos="SUBST" startTime="126.1925" endTime="126.4225">Tracey </w>
+          <w c5="PRP" hw="in" pos="PREP" startTime="126.4225" endTime="126.5225">in </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="126.5225" endTime="126.6025">the </w>
+          <w c5="NN1" hw="back" pos="SUBST" startTime="126.6025" endTime="126.7425">back </w>
+          <w c5="CJC" hw="and" pos="CONJ" startTime="126.7425" endTime="126.8125">and </w>
+          <w c5="NP0" hw="darren" pos="SUBST" startTime="126.8125" endTime="127.0625">Darren </w>
+          <w c5="PRP" hw="in" pos="PREP" startTime="127.0625" endTime="127.1225">in </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="127.2325" endTime="127.3025">the </w>
+          <w c5="NN1-AJ0" hw="front" pos="SUBST" startTime="127.3025" endTime="127.5225">front</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="76" nbw="363" startTime="128.3925" endTime="131.0425">
+          <w c5="AV0" hw="well" pos="ADV" startTime="128.3925" endTime="128.5025">Well </w>
+          <w c5="PNP" hw="he" pos="PRON" startTime="128.5025" endTime="128.5625">he </w>
+          <w c5="VVD" hw="say" pos="VERB" startTime="128.5625" endTime="128.6725">said </w>
+          <w c5="PNP" hw="you" pos="PRON" startTime="128.6725" endTime="128.7725">you </w>
+          <w c5="VM0" hw="can" pos="VERB" startTime="128.7725" endTime="129.0125">ca</w>
+          <w c5="XX0" hw="not" pos="ADV" startTime="129.0225" endTime="129.0325">n't </w>
+          <w c5="AV0" hw="both" pos="ADV" startTime="129.0325" endTime="129.2025">both</w>
+          <c c5="PUN">, </c>
+          <w c5="VM0" hw="can" pos="VERB" startTime="129.2025" endTime="129.39249999999998">ca</w>
+          <w c5="XX0" hw="not" pos="ADV" startTime="129.4025" endTime="129.4125">n't </w>
+          <w c5="VVI" hw="get" pos="VERB" startTime="129.4125" endTime="129.6325">get </w>
+          <w c5="PRP" hw="in" pos="PREP" startTime="129.6325" endTime="129.7525">in </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="129.7525" endTime="130.2025">the </w>
+          <w c5="NN1" hw="front" pos="SUBST" startTime="130.4025" endTime="130.6725">front </w>
+          <w c5="PRF" hw="of" pos="PREP" startTime="130.8125" endTime="130.9025">of </w>
+          <w c5="DT0" hw="that" pos="ADJ" startTime="130.9025" endTime="131.0425">that</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="77" nbw="378" startTime="133.0525" endTime="133.0825">
+          <vocal desc="laugh"/>
+          <pause/>
+          <w c5="ITJ" hw="ooh" pos="INTERJ" startTime="133.0525" endTime="133.0825">ooh</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="78" nbw="379" startTime="133.0825" endTime="135.6525">
+          <w c5="VVB" hw="cheer" pos="VERB" startTime="133.0825" endTime="133.1725">Cheer </w>
+          <w c5="AVP" hw="up" pos="ADV" startTime="133.1725" endTime="133.2825">up </w>
+          <w c5="NP0" hw="mandy" pos="SUBST" startTime="135.2025" endTime="135.6525">Mandy</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="79" nbw="382" startTime="135.6525" endTime="136.0325">
+          <w c5="ITJ" hw="mm" pos="INTERJ" startTime="135.6525" endTime="136.0325">Mm</w>
+          <c c5="PUN">?</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="80" nbw="383" startTime="139.2425" endTime="139.6225">
+          <w c5="VVB" hw="cheer" pos="VERB" startTime="139.2425" endTime="139.5125">Cheer </w>
+          <w c5="AVP" hw="up" pos="ADV" startTime="139.5125" endTime="139.6225">up</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="81" nbw="385" startTime="139.6225" endTime="139.9525">
+          <w c5="PNP" hw="i" pos="PRON" startTime="139.6225" endTime="139.7025">I</w>
+          <w c5="VBB" hw="be" pos="VERB" startTime="139.7125" endTime="139.7225">'m </w>
+          <w c5="AJ0" hw="alright" pos="ADJ" startTime="139.7225" endTime="139.9525">alright</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="82" nbw="388" startTime="140.3725" endTime="145.8025">
+          <pause/>
+          <w c5="AV0" hw="just" pos="ADV" startTime="140.3725" endTime="140.5925">Just </w>
+          <w c5="VVG-NN1" hw="think" pos="VERB" startTime="140.7225" endTime="141.0425">thinking </w>
+          <w c5="PRF" hw="of" pos="PREP" startTime="141.0425" endTime="141.3425">of </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="141.4625" endTime="141.5325">the </w>
+          <w c5="NN2" hw="thing" pos="SUBST" startTime="141.5925" endTime="141.7225">things </w>
+          <w c5="PNP" hw="i" pos="PRON" startTime="141.7225" endTime="141.7525">I </w>
+          <w c5="VVN" hw="get" pos="VERB" startTime="141.7525" endTime="141.8625">got</w>
+          <w c5="TO0" hw="ta" pos="PREP" startTime="142.4625" endTime="142.5225">ta </w>
+          <w c5="VDI" hw="do" pos="VERB" startTime="144.4925" endTime="144.6925">do </w>
+          <w c5="CJS" hw="when" pos="CONJ" startTime="145.0025" endTime="145.2225">when </w>
+          <w c5="PNP" hw="i" pos="PRON" startTime="145.2225" endTime="145.2525">I </w>
+          <w c5="VVB" hw="get" pos="VERB" startTime="145.4425" endTime="145.6725">get </w>
+          <w c5="AV0" hw="home" pos="ADV" startTime="145.6725" endTime="145.8025">home</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="83" nbw="401" startTime="146.7925" endTime="147.0025">
+          <w c5="ITJ" hw="oh" pos="INTERJ" startTime="146.7925" endTime="147.0025">Oh</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="84" nbw="402" startTime="147.0025" endTime="148.8225">
+          <w c5="PNP" hw="i" pos="PRON" startTime="147.0025" endTime="147.0325">I </w>
+          <w c5="VVB" hw="put" pos="VERB" startTime="147.3425" endTime="147.5025">put </w>
+          <w c5="AT0" hw="an" pos="ART" startTime="147.5025" endTime="147.6025">an </w>
+          <w c5="NN1" hw="agenda" pos="SUBST" startTime="147.6025" endTime="148.0725">agenda </w>
+          <w c5="PRP" hw="in" pos="PREP" startTime="148.0725" endTime="148.2225">in </w>
+          <w c5="DPS" hw="i" pos="PRON" startTime="148.2225" endTime="148.3025">my </w>
+          <w c5="NN1" hw="head" pos="SUBST" startTime="148.3025" endTime="148.5825">head </w>
+          <w c5="PNP" hw="you" pos="PRON" startTime="148.5825" endTime="148.7025">you </w>
+          <w c5="VVB" hw="know" pos="VERB" startTime="148.7025" endTime="148.8225">know</w>
+          <c c5="PUN">?</c>
+        </s>
+        <s n="85" nbw="411" startTime="148.9825" endTime="150.5025">
+          <vocal desc="laugh"/>
+          <w c5="DTQ" hw="what" pos="PRON" startTime="148.9825" endTime="149.5325">What </w>
+          <w c5="PNP" hw="i" pos="PRON" startTime="149.5325" endTime="149.5725">I</w>
+          <w c5="VBB" hw="be" pos="VERB" startTime="149.5825" endTime="149.5925">'m </w>
+          <w c5="VVN" hw="get" pos="VERB" startTime="149.7925" endTime="150.0325">got</w>
+          <w c5="TO0" hw="ta" pos="PREP" startTime="150.0325" endTime="150.0925">ta </w>
+          <w c5="VDI" hw="do" pos="VERB" startTime="150.0925" endTime="150.2525">do </w>
+          <w c5="ORD" hw="first" pos="ADJ" startTime="150.2525" endTime="150.3725">first </w>
+          <w c5="CJC" hw="and" pos="CONJ" startTime="150.3725" endTime="150.5025">and</w>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="86" nbw="419" startTime="150.5025" endTime="152.0725">
+          <w c5="DTQ" hw="what" pos="PRON" startTime="150.5025" endTime="150.5925">What </w>
+          <w c5="VHB" hw="have" pos="VERB" startTime="150.5925" endTime="150.9025">have </w>
+          <w c5="PNP" hw="you" pos="PRON" startTime="151.2925" endTime="151.4025">you </w>
+          <w c5="VVN" hw="get" pos="VERB" startTime="151.5525" endTime="151.6625">got</w>
+          <w c5="TO0" hw="ta" pos="PREP" startTime="151.7125" endTime="151.7725">ta </w>
+          <w c5="VDI" hw="do" pos="VERB" startTime="151.7725" endTime="151.9325">do </w>
+          <w c5="AV0" hw="then" pos="ADV" startTime="151.9325" endTime="152.0725">then</w>
+          <c c5="PUN">?</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="87" nbw="426" startTime="152.0725" endTime="153.5525">
+          <w c5="PNP" hw="i" pos="PRON" startTime="152.0725" endTime="152.1025">I </w>
+          <w c5="VVN" hw="get" pos="VERB" startTime="152.1025" endTime="152.2125">got</w>
+          <w c5="TO0" hw="ta" pos="PREP" startTime="152.7425" endTime="152.9225">ta </w>
+          <w c5="VVI" hw="clean" pos="VERB" startTime="152.9225" endTime="153.2225">clean </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="153.2425" endTime="153.4025">the </w>
+          <w c5="NN1" hw="kitchen" pos="SUBST" startTime="153.4025" endTime="153.5525">kitchen</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="88" nbw="432" startTime="154.5025" endTime="155.3425">
+          <pause/>
+          <w c5="VDB" hw="do" pos="VERB" startTime="154.5025" endTime="154.6325">Do </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="154.6325" endTime="154.6925">the </w>
+          <w c5="NN1" hw="rest" pos="SUBST" startTime="154.6925" endTime="154.9325">rest </w>
+          <w c5="PRF" hw="of" pos="PREP" startTime="154.9325" endTime="154.9925">of </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="154.9925" endTime="155.0625">the </w>
+          <w c5="NN1" hw="washing" pos="SUBST" startTime="155.0625" endTime="155.3425">washing</w>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="89" nbw="438" startTime="155.3425" endTime="157.2725">
+          <w c5="ITJ" hw="oh" pos="INTERJ" startTime="155.3425" endTime="155.4725">Oh </w>
+          <w c5="PNP" hw="i" pos="PRON" startTime="155.4725" endTime="155.5025">I </w>
+          <w c5="AV0" hw="well" pos="ADV" startTime="155.5025" endTime="155.7425">better </w>
+          <w c5="VVI" hw="start" pos="VERB" startTime="155.7425" endTime="156.0725">start </w>
+          <w c5="VVG" hw="get" pos="VERB" startTime="156.0725" endTime="156.2225">getting </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="156.2225" endTime="156.2925">the </w>
+          <w c5="NN1" hw="dinner" pos="SUBST" startTime="156.2925" endTime="156.5625">dinner </w>
+          <w c5="AJ0" hw="ready" pos="ADJ" startTime="156.5625" endTime="156.8225">ready </w>
+          <w c5="PRP" hw="for" pos="PREP" startTime="156.8225" endTime="156.8825">for </w>
+          <w c5="AV0" hw="tomorrow" pos="ADV" startTime="156.8825" endTime="157.2725">tomorrow</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="90" nbw="448" startTime="158.2925" endTime="161.5325">
+          <w c5="VVB-NN1" hw="hoover" pos="VERB" startTime="158.2925" endTime="158.4425">hoover </w>
+          <w c5="AVP-PRP" hw="through" pos="ADV" startTime="161.2725" endTime="161.5325">through</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="91" nbw="450" startTime="161.5325" endTime="163.2925">
+          <pause/>
+          <w c5="VDB" hw="do" pos="VERB" startTime="161.5325" endTime="161.6125">Do </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="161.7625" endTime="161.9325">the </w>
+          <w c5="NN1" hw="bathroom" pos="SUBST" startTime="163.0625" endTime="163.2925">bathroom</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <unclear/>
+      </u>
+      <u who="PS1CR">
+        <s n="92" nbw="453" startTime="164.3425" endTime="166.9325">
+          <w c5="VVB-NN1" hw="sort" pos="VERB" startTime="164.3425" endTime="164.5225">Sort </w>
+          <w c5="NP0" hw="hannah" pos="SUBST" startTime="164.5225" endTime="164.7425">Hannah</w>
+          <w c5="POS" hw="'s" pos="UNC" startTime="164.7425" endTime="164.8225">'s </w>
+          <w c5="NN2" hw="clothes" pos="SUBST" startTime="164.8225" endTime="164.9425">clothes </w>
+          <w c5="AVP" hw="out" pos="ADV" startTime="164.9425" endTime="165.0125">out </w>
+          <w c5="PRP" hw="in" pos="PREP" startTime="165.0125" endTime="165.1725">in </w>
+          <w c5="DPS" hw="she" pos="PRON" startTime="165.1725" endTime="165.2825">her </w>
+          <w c5="NN1" hw="wardrobe" pos="SUBST" startTime="165.2825" endTime="165.6625">wardrobe </w>
+          <w c5="CJC" hw="and" pos="CONJ" startTime="165.8625" endTime="166.0525">and </w>
+          <w c5="VVB" hw="get" pos="VERB" startTime="166.1625" endTime="166.3425">get </w>
+          <w c5="DT0" hw="all" pos="ADJ" startTime="166.3425" endTime="166.4825">all </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="166.4825" endTime="166.5925">them </w>
+          <w c5="VVN" hw="sort" pos="VERB" startTime="166.7725" endTime="166.9325">sorted</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="93" nbw="466" startTime="167.6225" endTime="174.4325">
+          <w c5="VVB" hw="see" pos="VERB" startTime="167.6225" endTime="167.6925">See </w>
+          <w c5="DTQ" hw="what" pos="PRON" startTime="167.6925" endTime="167.8425">what </w>
+          <w c5="PNP" hw="i" pos="PRON" startTime="167.8425" endTime="167.8725">I </w>
+          <w c5="VVB" hw="need" pos="VERB" startTime="167.8725" endTime="168.1625">need </w>
+          <w c5="TO0" hw="to" pos="PREP" startTime="168.2225" endTime="168.3425">to </w>
+          <w c5="VVI" hw="get" pos="VERB" startTime="172.0325" endTime="172.1425">get </w>
+          <w c5="PNP" hw="she" pos="PRON" startTime="174.3325" endTime="174.4325">her</w>
+          <c c5="PUN">.</c>
+          <pause/>
+          <event desc="singing"/>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="94" nbw="473" startTime="174.4325" endTime="175.3225">
+          <w c5="VBZ" hw="be" pos="VERB" startTime="174.4325" endTime="174.5525">Is </w>
+          <w c5="DT0" hw="this" pos="ADJ" startTime="174.5525" endTime="174.7125">this </w>
+          <w c5="AV0" hw="today" pos="ADV" startTime="175.0825" endTime="175.30249999999998">today</w>
+          <w c5="POS" hw="'s" pos="UNC" startTime="175.3125" endTime="175.3225">'s</w>
+          <c c5="PUN">?</c>
+        </s>
+        <s n="95" nbw="477" startTime="175.5025" endTime="177.6825">
+          <w c5="PNP" hw="i" pos="PRON" startTime="175.5025" endTime="175.7725">I </w>
+          <w c5="VVB" hw="wan" pos="VERB" startTime="175.7725" endTime="175.9325">wan</w>
+          <w c5="TO0" hw="na" pos="PREP" startTime="175.9325" endTime="176.0325">na </w>
+          <w c5="VVI" hw="see" pos="VERB" startTime="176.0325" endTime="176.1325">see </w>
+          <w c5="DTQ" hw="what" pos="PRON" startTime="176.1325" endTime="176.2925">what </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="176.2925" endTime="176.3525">they </w>
+          <w c5="VVB" hw="say" pos="VERB" startTime="176.3525" endTime="176.4825">say </w>
+          <w c5="PRP" hw="about" pos="PREP" startTime="176.4825" endTime="176.7025">about </w>
+          <w c5="NN2" hw="spurs" pos="SUBST" startTime="176.7025" endTime="177.0725">Spurs </w>
+          <w c5="PRP-CJS" hw="after" pos="PREP" startTime="177.0725" endTime="177.3425">after </w>
+          <w c5="AV0" hw="yesterday" pos="ADV" startTime="177.3425" endTime="177.6825">yesterday</w>
+          <c c5="PUN">.</c>
+          <pause dur="10"/>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="96" nbw="488" startTime="177.6825" endTime="193.2925">
+          <w c5="ITJ" hw="cor" pos="INTERJ" startTime="177.6825" endTime="177.7725">Cor </w>
+          <w c5="PNP" hw="i" pos="PRON" startTime="178.9825" endTime="179.0225">I </w>
+          <w c5="VVB" hw="bet" pos="VERB" startTime="186.5125" endTime="186.6325">bet </w>
+          <w c5="CJT-DT0" hw="that" pos="CONJ" startTime="190.2225" endTime="190.4025">that </w>
+          <w c5="AV0" hw="nearly" pos="ADV" startTime="190.4025" endTime="190.8525">nearly </w>
+          <w c5="VVZ" hw="deafen" pos="VERB" startTime="190.8525" endTime="191.1525">deafens </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="191.1525" endTime="191.2725">them </w>
+          <w c5="CJS" hw="when" pos="CONJ" startTime="191.2725" endTime="191.4425">when </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="191.4425" endTime="191.5325">they </w>
+          <w c5="VVB" hw="listen" pos="VERB" startTime="191.5325" endTime="191.7125">listen </w>
+          <w c5="PRP" hw="to" pos="PREP" startTime="191.8525" endTime="191.9125">to </w>
+          <w c5="DT0" hw="that" pos="ADJ" startTime="191.9125" endTime="192.0625">that </w>
+          <w c5="NN1" hw="tape" pos="SUBST" startTime="192.1225" endTime="192.2225">tape </w>
+          <w c5="CJC" hw="and" pos="CONJ" startTime="192.2225" endTime="192.2925">and </w>
+          <w c5="PNP" hw="he" pos="PRON" startTime="192.3525" endTime="192.5125">he</w>
+          <w c5="VBZ" hw="be" pos="VERB" startTime="192.5225" endTime="192.5325">'s </w>
+          <w c5="VVG" hw="squawk" pos="VERB" startTime="192.6625" endTime="193.0525">squawking </w>
+          <w c5="PRP" hw="on" pos="PREP" startTime="193.0525" endTime="193.1625">on </w>
+          <w c5="PNP" hw="it" pos="PRON" startTime="193.1625" endTime="193.2925">it</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="97" nbw="507" startTime="196.5425" endTime="196.9725">
+          <w c5="AJ0" hw="bloody" pos="ADJ" startTime="196.5425" endTime="196.8325">Bloody </w>
+          <w c5="NN1" hw="thing" pos="SUBST" startTime="196.8325" endTime="196.9725">thing</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="98" nbw="509" startTime="198.9625" endTime="200.7025">
+          <w c5="VVB-NN1" hw="wonder" pos="VERB" startTime="198.9625" endTime="199.2325">Wonder </w>
+          <w c5="CJS" hw="if" pos="CONJ" startTime="199.2325" endTime="199.3025">if </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="199.3025" endTime="199.46249999999998">they</w>
+          <w c5="VM0" hw="would" pos="VERB" startTime="199.4725" endTime="199.4825">'d </w>
+          <w c5="VVI" hw="accept" pos="VERB" startTime="199.4825" endTime="199.6925">accept </w>
+          <w c5="AT0" hw="a" pos="ART" startTime="199.6925" endTime="199.7625">a </w>
+          <w c5="NN1" hw="parrot" pos="SUBST" startTime="200.0225" endTime="200.3625">parrot </w>
+          <w c5="PRP" hw="with" pos="PREP" startTime="200.4225" endTime="200.5925">with </w>
+          <w c5="PNP" hw="it" pos="PRON" startTime="200.5925" endTime="200.7025">it</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="99" nbw="518" startTime="202.0525" endTime="202.2625">
+          <w c5="PNP" hw="i" pos="PRON" startTime="202.0525" endTime="202.0825">I </w>
+          <w c5="VVB" hw="doubt" pos="VERB" startTime="202.0825" endTime="202.1925">doubt </w>
+          <w c5="PNP" hw="it" pos="PRON" startTime="202.1925" endTime="202.2625">it</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="100" nbw="521" startTime="202.2625" endTime="202.4525">
+          <w c5="ITJ" hw="no" pos="INTERJ" startTime="202.2625" endTime="202.4525">No</w>
+          <c c5="PUN">?</c>
+        </s>
+        <s n="101" nbw="522" startTime="203.2725" endTime="203.9325">
+          <w c5="ITJ" hw="oh" pos="INTERJ" startTime="203.2725" endTime="203.5225">Oh </w>
+          <w c5="AV0" hw="well" pos="ADV" startTime="203.8225" endTime="203.9325">well</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="102" nbw="524" startTime="203.9325" endTime="205.5525">
+          <align with="KB4LC00B"/>
+          <w c5="XX0" hw="not" pos="ADV" startTime="203.9325" endTime="204.0225">Not </w>
+          <mw c5="CJS">
+            <w c5="AV0" hw="even" pos="ADV" startTime="204.0225" endTime="204.1525">even </w>
+            <w c5="CJS" hw="if" pos="CONJ" startTime="204.1525" endTime="204.2125">if </w>
+          </mw>
+          <w c5="PNP" hw="we" pos="PRON" startTime="204.2125" endTime="204.3725">we </w>
+          <w c5="VVD" hw="squash" pos="VERB" startTime="204.3725" endTime="204.7025">squashed </w>
+          <w c5="PNP" hw="it" pos="PRON" startTime="204.7025" endTime="204.7825">it </w>
+          <w c5="PRP" hw="into" pos="PREP" startTime="204.7825" endTime="205.0325">into </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="205.0325" endTime="205.1425">the </w>
+          <w c5="NN1" hw="cassette" pos="SUBST" startTime="205.1425" endTime="205.2925">cassette </w>
+          <w c5="NN1" hw="case" pos="SUBST" startTime="205.2925" endTime="205.5525">case</w>
+          <c c5="PUN">.</c>
+          <vocal desc="laugh"/>
+          <align with="KB4LC00C"/>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="103" nbw="534" startTime="205.6925" endTime="206.5225">
+          <align with="KB4LC00B"/>
+          <w c5="VM0" hw="would" pos="VERB" startTime="205.6925" endTime="205.8525">Would</w>
+          <w c5="XX0" hw="not" pos="ADV" startTime="205.8625" endTime="205.8725">n't </w>
+          <w c5="VBI" hw="be" pos="VERB" startTime="205.8725" endTime="205.9725">be </w>
+          <w c5="AV0" hw="that" pos="ADV" startTime="205.9725" endTime="206.2825">that </w>
+          <w c5="AJ0" hw="lucky" pos="ADJ" startTime="206.2825" endTime="206.5225">lucky</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="104" nbw="539" startTime="206.7325" endTime="208.9025">
+          <align with="KB4LC00C"/>
+          <w c5="VM0" hw="could" pos="VERB" startTime="206.7325" endTime="206.8725">Could</w>
+          <w c5="XX0" hw="not" pos="ADV" startTime="206.88250000000002" endTime="206.8925">n't </w>
+          <w c5="VBI" hw="be" pos="VERB" startTime="207.2925" endTime="207.3525">be </w>
+          <w c5="AV0" hw="that" pos="ADV" startTime="208.6425" endTime="208.7325">that </w>
+          <w c5="AJ0" hw="lucky" pos="ADJ" startTime="208.7825" endTime="208.9025">lucky</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="105" nbw="544" startTime="208.9025" endTime="210.0925">
+          <pause/>
+          <w c5="PNP" hw="you" pos="PRON" startTime="208.9025" endTime="208.9725">You</w>
+          <w c5="VM0" hw="would" pos="VERB" startTime="208.98250000000002" endTime="208.9925">'d </w>
+          <w c5="VHI" hw="have" pos="VERB" startTime="208.9925" endTime="209.0925">have </w>
+          <w c5="TO0" hw="to" pos="PREP" startTime="209.0925" endTime="209.1525">to </w>
+          <w c5="VBI" hw="be" pos="VERB" startTime="209.1525" endTime="209.2525">be </w>
+          <w c5="AV0" hw="really" pos="ADV" startTime="209.2525" endTime="209.5525">really </w>
+          <w c5="AJ0" hw="lucky" pos="ADJ" startTime="209.5525" endTime="209.8125">lucky </w>
+          <w c5="VM0" hw="would" pos="VERB" startTime="209.8125" endTime="209.9825">would</w>
+          <w c5="XX0" hw="not" pos="ADV" startTime="209.9925" endTime="210.0025">n't </w>
+          <w c5="PNP" hw="you" pos="PRON" startTime="210.0025" endTime="210.0925">you</w>
+          <c c5="PUN">?</c>
+          <pause dur="10"/>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="106" nbw="554" startTime="229.2925" endTime="230.7325">
+          <w c5="ITJ" hw="blimey" pos="INTERJ" startTime="229.2925" endTime="229.5625">Blimey</w>
+          <c c5="PUN">, </c>
+          <w c5="PNP" hw="they" pos="PRON" startTime="229.5625" endTime="229.6725">they </w>
+          <w c5="VVD" hw="say" pos="VERB" startTime="229.7725" endTime="229.9825">said </w>
+          <w c5="AT0" hw="a" pos="ART" startTime="229.9825" endTime="230.0225">a </w>
+          <w c5="NN1" hw="lot" pos="SUBST" startTime="230.0225" endTime="230.1125">lot </w>
+          <w c5="PRP" hw="about" pos="PREP" startTime="230.1125" endTime="230.4225">about </w>
+          <w c5="NN2" hw="spurs" pos="SUBST" startTime="230.4225" endTime="230.7325">Spurs</w>
+          <c c5="PUN">.</c>
+          <pause dur="20"/>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="107" nbw="561" startTime="251.5025" endTime="251.7225">
+          <w c5="DTQ" hw="what" pos="PRON" startTime="251.5025" endTime="251.7225">What</w>
+          <c c5="PUN">?</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="108" nbw="562" startTime="253.6925" endTime="258.3925">
+          <w c5="PNP" hw="they" pos="PRON" startTime="253.6925" endTime="253.7625">They</w>
+          <w c5="VBB" hw="be" pos="VERB" startTime="253.7725" endTime="253.7825">'re </w>
+          <w c5="AV0-AJ0" hw="only" pos="ADV" startTime="253.7825" endTime="253.9025">only </w>
+          <w c5="ORD" hw="seventh" pos="ADJ" startTime="256.9425" endTime="257.1825">seventh </w>
+          <w c5="PRP" hw="off" pos="PREP" startTime="257.1825" endTime="257.3225">off </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="257.3825" endTime="257.4925">the </w>
+          <w c5="NN1-AJ0" hw="bottom" pos="SUBST" startTime="258.1025" endTime="258.3925">bottom</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="109" nbw="569" startTime="258.6125" endTime="258.7925">
+          <w c5="PNQ" hw="who" pos="PRON" startTime="258.6125" endTime="258.7925">Who</w>
+          <c c5="PUN">?</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="110" nbw="570" startTime="259.5225" endTime="259.6625">
+          <w c5="NN2" hw="spurs" pos="SUBST" startTime="259.5225" endTime="259.6625">Spurs</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="111" nbw="571" startTime="259.9325" endTime="260.6125">
+          <w c5="AVQ" hw="where" pos="ADV" startTime="259.9325" endTime="260.14250000000004">Where</w>
+          <w c5="VBZ" hw="be" pos="VERB" startTime="260.15250000000003" endTime="260.1625">'s </w>
+          <w c5="NP0" hw="liverpool" pos="SUBST" startTime="260.1625" endTime="260.6125">Liverpool</w>
+          <c c5="PUN">?</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="112" nbw="574" startTime="262.1525" endTime="262.6725">
+          <w c5="AV0" hw="halfway" pos="ADV" startTime="262.1525" endTime="262.4025">Halfway </w>
+          <w c5="AVP" hw="down" pos="ADV" startTime="262.5825" endTime="262.6725">down</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="113" nbw="576" startTime="264.0025" endTime="264.5625">
+          <w c5="DTQ" hw="what" pos="PRON" startTime="264.0025" endTime="264.1125">What</w>
+          <w c5="VBZ" hw="be" pos="VERB" startTime="264.1225" endTime="264.1325">'s </w>
+          <w c5="NP0" hw="arsenal" pos="SUBST" startTime="264.1325" endTime="264.5625">Arsenal</w>
+          <c c5="PUN">?</c>
+        </s>
+        <s n="114" nbw="579" startTime="264.6425" endTime="265.0825">
+          <w c5="ORD" hw="fifth" pos="ADJ" startTime="264.6425" endTime="264.8825">Fifth </w>
+          <w c5="VBB" hw="be" pos="VERB" startTime="264.8825" endTime="264.9825">are</w>
+          <w c5="XX0" hw="not" pos="ADV" startTime="264.9925" endTime="265.0025">n't </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="265.0025" endTime="265.0825">they</w>
+          <c c5="PUN">?</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="115" nbw="583" startTime="265.9625" endTime="266.5725">
+          <w c5="ORD" hw="fourth" pos="ADJ" startTime="265.9625" endTime="266.1825">Fourth </w>
+          <w c5="AV0" hw="now" pos="ADV" startTime="266.3525" endTime="266.4125">now </w>
+          <align with="KB4LC00D"/>
+          <w c5="VBB" hw="be" pos="VERB" startTime="266.4125" endTime="266.4925">are</w>
+          <w c5="XX0" hw="not" pos="ADV" startTime="266.5025" endTime="266.5125">n't </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="266.5125" endTime="266.5725">they</w>
+          <c c5="PUN">?</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="116" nbw="588" startTime="266.7025" endTime="266.8125">
+          <align with="KB4LC00D"/>
+          <w c5="ORD" hw="fourth" pos="ADJ" startTime="266.7025" endTime="266.8125">Fourth</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="117" nbw="589" startTime="267.3625" endTime="267.7625">
+          <w c5="VBB" hw="be" pos="VERB" startTime="267.3625" endTime="267.4425">Are </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="267.4425" endTime="267.5025">they </w>
+          <w c5="ORD" hw="fourth" pos="ADJ" startTime="267.5725" endTime="267.7625">fourth</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="118" nbw="592" startTime="267.9625" endTime="268.0425">
+          <w c5="ITJ" hw="oh" pos="INTERJ" startTime="267.9625" endTime="268.0425">Oh</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="119" nbw="593" startTime="268.4625" endTime="269.2325">
+          <w c5="PRP" hw="after" pos="PREP" startTime="268.4625" endTime="268.7325">After </w>
+          <w c5="VVG" hw="win" pos="VERB" startTime="268.7325" endTime="268.9825">winning </w>
+          <align with="KB4LC00F"/>
+          <w c5="AV0" hw="yesterday" pos="ADV" startTime="268.9825" endTime="269.2325">yesterday</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="120" nbw="596" startTime="269.2325" endTime="270.9125">
+          <align with="KB4LC00F"/>
+          <w c5="AV0" hw="fucking" pos="ADV" startTime="269.2325" endTime="269.4025">Fucking </w>
+          <align with="KB4LC00G"/>
+          <w c5="CRD" hw="ten" pos="ADJ" startTime="269.4025" endTime="269.4925">ten </w>
+          <w c5="NN2" hw="point" pos="SUBST" startTime="269.4925" endTime="269.7525">points </w>
+          <w c5="PRP" hw="behind" pos="PREP" startTime="269.7525" endTime="270.3125">behind  </w>
+          <unclear/>
+          <w c5="AV0" hw="though" pos="ADV" startTime="270.7825" endTime="270.9125">though</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="121" nbw="601" startTime="271.7525" endTime="271.9725">
+          <w c5="ITJ" hw="mm" pos="INTERJ" startTime="271.7525" endTime="271.9725">Mm</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="122" nbw="602" startTime="273.0525" endTime="277.5125">
+          <w c5="DTQ" hw="what" pos="PRON" startTime="273.0525" endTime="273.2225">What </w>
+          <w c5="PNP" hw="you" pos="PRON" startTime="273.2225" endTime="273.4925">you </w>
+          <unclear/>
+          <c c5="PUN">, </c>
+          <w c5="DTQ" hw="what" pos="PRON" startTime="273.5425" endTime="273.7325">what </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="273.7325" endTime="273.7925">they </w>
+          <w c5="VDB" hw="do" pos="VERB" startTime="273.7925" endTime="274.01250000000005">do</w>
+          <w c5="XX0" hw="not" pos="ADV" startTime="274.02250000000004" endTime="274.0325">n't </w>
+          <w c5="VVI" hw="realize" pos="VERB" startTime="274.0325" endTime="274.5225">realize </w>
+          <w c5="PRP" hw="in" pos="PREP" startTime="274.5225" endTime="274.6125">in </w>
+          <w c5="DT0" hw="this" pos="ADJ" startTime="274.6125" endTime="274.7525">this </w>
+          <w c5="NN1" hw="paper" pos="SUBST" startTime="274.8425" endTime="275.2125">paper </w>
+          <w c5="VBZ" hw="be" pos="VERB" startTime="275.2125" endTime="275.4325">is </w>
+          <w c5="CJT" hw="that" pos="CONJ" startTime="275.5925" endTime="275.6925">that </w>
+          <w c5="NN2" hw="spurs" pos="SUBST" startTime="275.6925" endTime="275.9025">Spurs </w>
+          <w c5="VHB" hw="have" pos="VERB" startTime="275.9025" endTime="276.0225">have </w>
+          <w c5="VVN" hw="get" pos="VERB" startTime="276.0225" endTime="276.1925">got </w>
+          <w c5="AV0" hw="about" pos="ADV" startTime="276.1925" endTime="276.3425">about </w>
+          <w c5="CRD" hw="three" pos="ADJ" startTime="276.3425" endTime="276.5025">three </w>
+          <w c5="NN2" hw="game" pos="SUBST" startTime="276.5025" endTime="276.7225">games </w>
+          <w c5="AVP" hw="down" pos="ADV" startTime="276.7225" endTime="276.9525">down </w>
+          <w c5="PRP" hw="on" pos="PREP" startTime="276.9525" endTime="277.0225">on </w>
+          <w c5="PNI" hw="everyone" pos="PRON" startTime="277.0225" endTime="277.2725">everyone </w>
+          <w c5="AV0" hw="else" pos="ADV" startTime="277.2725" endTime="277.5125">else</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="123" nbw="624" startTime="277.8325" endTime="278.8825">
+          <w c5="ITJ" hw="oh" pos="INTERJ" startTime="277.8325" endTime="277.9525">Oh </w>
+          <w c5="AV0" hw="well" pos="ADV" startTime="277.9525" endTime="278.1825">well </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="278.1825" endTime="278.2725">they </w>
+          <w c5="VM0" hw="would" pos="VERB" startTime="278.2725" endTime="278.5725">would</w>
+          <w c5="XX0" hw="not" pos="ADV" startTime="278.5825" endTime="278.5925">n't </w>
+          <w c5="VM0" hw="would" pos="VERB" startTime="278.6825" endTime="278.7725">would </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="278.8125" endTime="278.8825">they</w>
+          <c c5="PUN">?</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="124" nbw="631" startTime="279.4725" endTime="279.8425">
+          <w c5="AV0" hw="well" pos="ADV" startTime="279.4725" endTime="279.6125">Well </w>
+          <w c5="ITJ" hw="no" pos="INTERJ" startTime="279.6125" endTime="279.8425">no</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="125" nbw="633" startTime="279.8425" endTime="283.0025">
+          <w c5="CJS" hw="if" pos="CONJ" startTime="279.8425" endTime="279.9125">If </w>
+          <w c5="PNP" hw="we" pos="PRON" startTime="279.9125" endTime="280.0025">we </w>
+          <w c5="VVB" hw="win" pos="VERB" startTime="280.0025" endTime="280.1525">win </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="280.1525" endTime="280.3125">them </w>
+          <w c5="CRD" hw="three" pos="ADJ" startTime="280.3125" endTime="280.5125">three </w>
+          <w c5="NN2" hw="game" pos="SUBST" startTime="280.5125" endTime="280.7225">games </w>
+          <w c5="CJT" hw="that" pos="CONJ" startTime="280.7225" endTime="280.8125">that </w>
+          <w c5="PNP" hw="we" pos="PRON" startTime="280.8125" endTime="280.8725">we </w>
+          <w c5="VVD" hw="get" pos="VERB" startTime="280.8725" endTime="281.0425">got </w>
+          <w c5="PRP" hw="in" pos="PREP" startTime="281.0425" endTime="281.1025">in </w>
+          <w c5="NN1" hw="hand" pos="SUBST" startTime="281.1025" endTime="281.4225">hand </w>
+          <w c5="AV0" hw="then" pos="ADV" startTime="281.4225" endTime="281.5125">then </w>
+          <w c5="PNP" hw="we" pos="PRON" startTime="281.5125" endTime="281.58250000000004">we</w>
+          <w c5="VM0" hw="will" pos="VERB" startTime="281.59250000000003" endTime="281.6025">'ll </w>
+          <w c5="VBI" hw="be" pos="VERB" startTime="281.6025" endTime="281.6825">be </w>
+          <mw c5="PRP">
+            <w c5="AVP" hw="up" pos="ADV" startTime="281.6825" endTime="281.8225">up </w>
+            <w c5="PRP" hw="to" pos="PREP" startTime="281.8225" endTime="281.8825">to </w>
+          </mw>
+          <w c5="PRP" hw="about" pos="PREP" startTime="281.8825" endTime="282.1725">about </w>
+          <w c5="ORD" hw="sixth" pos="ADJ" startTime="282.1725" endTime="282.4725">sixth </w>
+          <w c5="NN1" hw="place" pos="SUBST" startTime="282.6125" endTime="283.0025">place</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="126" nbw="653" startTime="283.1225" endTime="283.3425">
+          <w c5="CJS" hw="if" pos="CONJ" startTime="283.1225" endTime="283.3425">If</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="127" nbw="654" startTime="285.0925" endTime="285.7025">
+          <pause/>
+          <w c5="EX0" hw="there" pos="PRON" startTime="285.0925" endTime="285.20250000000004">There</w>
+          <w c5="VBZ" hw="be" pos="VERB" startTime="285.21250000000003" endTime="285.2225">'s </w>
+          <w c5="AT0" hw="a" pos="ART" startTime="285.2225" endTime="285.3725">a </w>
+          <w c5="AJ0" hw="big" pos="ADJ" startTime="285.3725" endTime="285.5025">big </w>
+          <w c5="CJS" hw="if" pos="CONJ" startTime="285.5025" endTime="285.7025">if</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="128" nbw="659" startTime="285.7925" endTime="287.4525">
+          <w c5="PNP" hw="they" pos="PRON" startTime="285.7925" endTime="285.89250000000004">They</w>
+          <w c5="VBB" hw="be" pos="VERB" startTime="285.90250000000003" endTime="285.9125">'re </w>
+          <w c5="UNC" hw="ai" pos="UNC" startTime="285.9125" endTime="286.09250000000003">ai</w>
+          <w c5="XX0" hw="not" pos="ADV" startTime="286.1025" endTime="286.1125">n't </w>
+          <w c5="VDG" hw="do" pos="VERB" startTime="286.1125" endTime="286.2925">doing </w>
+          <w c5="AV0" hw="so" pos="ADV" startTime="286.2925" endTime="286.4625">so </w>
+          <w c5="AV0-AJ0" hw="well" pos="ADV" startTime="286.4625" endTime="286.6525">well </w>
+          <w c5="PRP" hw="at" pos="PREP" startTime="286.6525" endTime="286.7125">at </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="286.7125" endTime="286.7725">the </w>
+          <w c5="NN1" hw="moment" pos="SUBST" startTime="286.7725" endTime="287.1625">moment </w>
+          <w c5="VBB" hw="be" pos="VERB" startTime="287.1625" endTime="287.3825">are </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="287.3825" endTime="287.4525">they</w>
+          <c c5="PUN">?</c>
+        </s>
+        <s n="129" nbw="671" startTime="287.6025" endTime="288.6325">
+          <w c5="PNP" hw="they" pos="PRON" startTime="287.6025" endTime="287.6825">They</w>
+          <w c5="VHB" hw="have" pos="VERB" startTime="287.6925" endTime="287.7025">'ve </w>
+          <w c5="VVN" hw="hit" pos="VERB" startTime="287.7025" endTime="287.7925">hit </w>
+          <w c5="AT0" hw="a" pos="ART" startTime="287.7925" endTime="287.8625">a </w>
+          <w c5="AJ0" hw="bad" pos="ADJ" startTime="287.8625" endTime="288.2025">bad </w>
+          <w c5="NN1" hw="patch" pos="SUBST" startTime="288.2025" endTime="288.6325">patch</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="130" nbw="677" startTime="290.7025" endTime="292.9025">
+          <w c5="VBZ" hw="be" pos="VERB" startTime="290.7025" endTime="290.7625">Is </w>
+          <w c5="EX0" hw="there" pos="PRON" startTime="290.7625" endTime="290.8825">there </w>
+          <w c5="PNI" hw="anything" pos="PRON" startTime="290.8825" endTime="291.1625">anything </w>
+          <w c5="PRP" hw="in" pos="PREP" startTime="291.1625" endTime="291.2725">in </w>
+          <w c5="AV0" hw="there" pos="ADV" startTime="291.2725" endTime="291.4025">there </w>
+          <w c5="PRP" hw="about" pos="PREP" startTime="291.4025" endTime="291.7125">about  </w>
+          <pause/>
+          <w c5="NP0" hw="gary" pos="SUBST" startTime="291.9025" endTime="292.1725">Gary </w>
+          <w c5="NP0" hw="lineker" pos="SUBST" startTime="292.1725" endTime="292.4725">Lineker</w>
+          <w c5="POS" hw="'s" pos="UNC" startTime="292.4725" endTime="292.5025">'s </w>
+          <w c5="NN1" hw="baby" pos="SUBST" startTime="292.5425" endTime="292.9025">baby</w>
+          <c c5="PUN">?</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="131" nbw="687" startTime="293.3225" endTime="294.0425">
+          <w c5="PNP" hw="i" pos="PRON" startTime="293.3225" endTime="293.3525">I </w>
+          <w c5="VDB" hw="do" pos="VERB" startTime="293.8525" endTime="293.95250000000004">do</w>
+          <w c5="XX0" hw="not" pos="ADV" startTime="293.96250000000003" endTime="293.9725">n't </w>
+          <w c5="VVI" hw="know" pos="VERB" startTime="293.9725" endTime="294.0425">know</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="132" nbw="691" startTime="294.0725" endTime="296.2125">
+          <w c5="PNP" hw="i" pos="PRON" startTime="294.0725" endTime="294.1025">I </w>
+          <w c5="VBD" hw="be" pos="VERB" startTime="294.6925" endTime="295.0625">was </w>
+          <w c5="AV0" hw="just" pos="ADV" startTime="295.1725" endTime="295.5325">just </w>
+          <w c5="VVG" hw="gon" pos="VERB" startTime="295.5325" endTime="295.6425">gon</w>
+          <w c5="TO0" hw="na" pos="PREP" startTime="295.6425" endTime="295.7225">na </w>
+          <w c5="VHI" hw="have" pos="VERB" startTime="295.7225" endTime="296.0425">have </w>
+          <w c5="AT0" hw="a" pos="ART" startTime="296.0425" endTime="296.1225">a </w>
+          <w c5="NN1" hw="look" pos="SUBST" startTime="296.1225" endTime="296.2125">look</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="133" nbw="699" startTime="296.8025" endTime="296.8625">
+          <w c5="ITJ" hw="no" pos="INTERJ" startTime="296.8025" endTime="296.8625">No</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="134" nbw="700" startTime="296.9225" endTime="299.2225">
+          <w c5="AV0" hw="just" pos="ADV" startTime="296.9225" endTime="297.0825">Just </w>
+          <w c5="PNP" hw="he" pos="PRON" startTime="297.5825" endTime="297.7925">he</w>
+          <w c5="VHZ" hw="have" pos="VERB" startTime="297.8025" endTime="297.8125">'s </w>
+          <w c5="UNC" hw="er" pos="UNC" startTime="297.8125" endTime="297.8425">er  </w>
+          <pause/>
+          <w c5="VVN" hw="say" pos="VERB" startTime="297.8425" endTime="297.9325">said </w>
+          <w c5="VVB" hw="thank" pos="VERB" startTime="297.9325" endTime="298.2125">thank </w>
+          <w c5="PNP" hw="you" pos="PRON" startTime="298.2125" endTime="298.3125">you </w>
+          <w c5="PRP-AVP" hw="over" pos="PREP" startTime="298.3125" endTime="298.7025">over </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="299.1525" endTime="299.2225">the</w>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="135" nbw="709" startTime="299.2225" endTime="299.4525">
+          <w c5="ITJ" hw="mm" pos="INTERJ" startTime="299.2225" endTime="299.4525">Mm</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="136" nbw="710" startTime="300.3125" endTime="300.9225">
+          <w c5="PRP" hw="on" pos="PREP" startTime="300.3125" endTime="300.4125">on </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="300.4125" endTime="300.4725">the </w>
+          <w c5="NN1" hw="telly" pos="SUBST" startTime="300.5225" endTime="300.9225">telly</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="137" nbw="713" startTime="302.6725" endTime="323.1925">
+          <w c5="PRP" hw="for" pos="PREP" startTime="302.6725" endTime="302.9125">For </w>
+          <w c5="DT0" hw="all" pos="ADJ" startTime="303.0125" endTime="303.2725">all </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="308.1425" endTime="308.3225">the </w>
+          <w c5="NN2" hw="card" pos="SUBST" startTime="308.5225" endTime="308.8825">cards </w>
+          <w c5="CJC" hw="and" pos="CONJ" startTime="321.7725" endTime="322.8925">and </w>
+          <w c5="DT0" hw="that" pos="ADJ" startTime="322.9925" endTime="323.1925">that</w>
+          <c c5="PUN">.</c>
+          <pause dur="10"/>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <vocal desc="yawn"/>
+      </u>
+      <u who="PS1CP">
+        <s n="138" nbw="719" startTime="329.6025" endTime="330.7825">
+          <w c5="PNP" hw="i" pos="PRON" startTime="329.6025" endTime="329.6925">I </w>
+          <w c5="VVB" hw="reckon" pos="VERB" startTime="329.6925" endTime="329.8525">reckon </w>
+          <w c5="DT0" hw="that" pos="ADJ" startTime="329.8525" endTime="330.01250000000005">that</w>
+          <w c5="VBZ" hw="be" pos="VERB" startTime="330.02250000000004" endTime="330.0325">'s  </w>
+          <pause/>
+          <w c5="AJ0" hw="wrong" pos="ADJ" startTime="330.3025" endTime="330.5325">wrong </w>
+          <w c5="VBZ" hw="in" pos="VERB" startTime="330.5325" endTime="330.5925">in</w>
+          <w c5="XX0" hw="n" pos="ADV" startTime="330.5925" endTime="330.6825">n</w>
+          <w c5="PNP" hw="it" pos="PRON" startTime="330.6825" endTime="330.7825">it</w>
+          <c c5="PUN">?</c>
+        </s>
+        <s n="139" nbw="727" startTime="330.7825" endTime="331.3525">
+          <w c5="DT0" hw="that" pos="ADJ" startTime="330.7825" endTime="330.9625">That </w>
+          <w c5="NN1" hw="bloke" pos="SUBST" startTime="330.9625" endTime="331.2025">bloke </w>
+          <w c5="AV0" hw="there" pos="ADV" startTime="331.2025" endTime="331.3525">there</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="140" nbw="730" startTime="331.3525" endTime="337.7525">
+          <pause/>
+          <w c5="DT0" hw="that" pos="ADJ" startTime="331.3525" endTime="331.5725">That </w>
+          <w c5="NN1" hw="bloke" pos="SUBST" startTime="335.4725" endTime="335.6025">bloke</w>
+          <c c5="PUN">, </c>
+          <w c5="AT0" hw="the" pos="ART" startTime="335.6025" endTime="335.9125">the </w>
+          <w c5="NN1" hw="council" pos="SUBST" startTime="335.9125" endTime="336.4425">council </w>
+          <w c5="VBB" hw="be" pos="VERB" startTime="336.4425" endTime="336.5225">are </w>
+          <w c5="VVG" hw="pay" pos="VERB" startTime="336.5225" endTime="336.6525">paying </w>
+          <w c5="DT0" hw="all" pos="ADJ" startTime="336.6525" endTime="336.8525">all </w>
+          <w c5="DT0" hw="that" pos="ADJ" startTime="336.8525" endTime="336.9825">that </w>
+          <w c5="PRP" hw="on" pos="PREP" startTime="336.9825" endTime="337.0825">on </w>
+          <w c5="DPS" hw="he" pos="PRON" startTime="337.0825" endTime="337.2325">his </w>
+          <w c5="NN1" hw="mortgage" pos="SUBST" startTime="337.2325" endTime="337.7525">mortgage</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="141" nbw="741" startTime="339.1925" endTime="340.4725">
+          <w c5="PNP" hw="he" pos="PRON" startTime="339.1925" endTime="339.3125">He</w>
+          <w c5="VHZ" hw="have" pos="VERB" startTime="339.3225" endTime="339.3325">'s </w>
+          <w c5="VVN" hw="move" pos="VERB" startTime="339.3325" endTime="339.5725">moved </w>
+          <w c5="PRP" hw="into" pos="PREP" startTime="339.5725" endTime="339.7925">into </w>
+          <w c5="AT0" hw="a" pos="ART" startTime="339.7925" endTime="339.8225">a </w>
+          <w c5="NN1" hw="council" pos="SUBST" startTime="339.8225" endTime="340.1425">council </w>
+          <w c5="NN1" hw="house" pos="SUBST" startTime="340.1425" endTime="340.3825">house </w>
+          <w c5="AV0" hw="now" pos="ADV" startTime="340.3825" endTime="340.4725">now</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="142" nbw="749" startTime="352.5225" endTime="352.7325">
+          <pause dur="6"/>
+          <unclear/>
+          <c c5="PUN">.</c>
+          <pause/>
+          <unclear/>
+          <w c5="NN1-AJ0" hw="perching" pos="SUBST" startTime="352.5225" endTime="352.7325">perching</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <vocal desc="laugh"/>
+      </u>
+      <u who="PS1CP">
+        <s n="143" nbw="750" startTime="352.7325" endTime="353.1825">
+          <w c5="VVB" hw="get" pos="VERB" startTime="352.7325" endTime="353.0725">Get </w>
+          <w c5="AVP" hw="out" pos="ADV" startTime="353.0725" endTime="353.1825">out</w>
+          <c c5="PUN">.</c>
+          <event desc="the parrot goes mad"/>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="144" nbw="752" startTime="358.8025" endTime="366.5225">
+          <w c5="DT0" hw="that" pos="ADJ" startTime="358.8025" endTime="358.8925">That </w>
+          <w c5="AJ0" hw="new" pos="ADJ" startTime="358.9525" endTime="359.1125">new </w>
+          <w c5="NN1" hw="tyre" pos="SUBST" startTime="359.1125" endTime="359.2825">tyre </w>
+          <w c5="NN1" hw="law" pos="SUBST" startTime="359.2825" endTime="359.3825">law </w>
+          <w c5="VVZ" hw="come" pos="VERB" startTime="359.3825" endTime="359.6425">comes </w>
+          <w c5="AVP-PRP" hw="in" pos="ADV" startTime="361.1325" endTime="361.2625">in </w>
+          <w c5="AV0" hw="soon" pos="ADV" startTime="361.2625" endTime="361.3525">soon </w>
+          <w c5="VDZ" hw="dun" pos="VERB" startTime="361.3525" endTime="361.6025">dun</w>
+          <w c5="XX0" hw="n" pos="ADV" startTime="361.6025" endTime="361.7025">n</w>
+          <w c5="PNP" hw="it" pos="PRON" startTime="366.1225" endTime="366.5225">it</w>
+          <c c5="PUN">?</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="145" nbw="762" startTime="366.5225" endTime="372.7725">
+          <w c5="DT0" hw="that" pos="ADJ" startTime="366.5225" endTime="366.7625">That </w>
+          <w c5="DTQ" hw="what" pos="PRON" startTime="367.0525" endTime="372.7725">what</w>
+          <c c5="PUN">?</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="146" nbw="764" startTime="373.4925" endTime="374.3825">
+          <align with="KB4LC00H"/>
+          <w c5="AJ0" hw="new" pos="ADJ" startTime="373.4925" endTime="373.7125">New </w>
+          <w c5="NN1" hw="tyre" pos="SUBST" startTime="373.7125" endTime="374.0325">tyre </w>
+          <w c5="NN1" hw="law" pos="SUBST" startTime="374.0325" endTime="374.3825">law</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="147" nbw="767" startTime="374.7125" endTime="381.8125">
+          <align with="KB4LC00H"/>
+          <w c5="ORD" hw="first" pos="ADJ" startTime="374.7125" endTime="375.1625">First </w>
+          <w c5="PRF" hw="of" pos="PREP" startTime="375.7825" endTime="375.9825">of </w>
+          <trunc>
+            <w c5="UNC" hw="feb" pos="UNC" startTime="376.0525" endTime="376.1525">Feb </w>
+          </trunc>
+          <align with="KB4LC00J"/>
+          <w c5="ORD" hw="first" pos="ADJ" startTime="376.0525" endTime="376.1525">First </w>
+          <w c5="PRF" hw="of" pos="PREP" startTime="376.2425" endTime="376.6125">of  </w>
+          <pause/>
+          <w c5="UNC" hw="erm" pos="UNC" startTime="376.6125" endTime="377.0625">erm  </w>
+          <pause/>
+          <w c5="ORD" hw="first" pos="ADJ" startTime="377.0625" endTime="377.2525">first </w>
+          <w c5="PRF" hw="of" pos="PREP" startTime="377.8525" endTime="378.1825">of </w>
+          <w c5="NP0" hw="november" pos="SUBST" startTime="380.7325" endTime="380.9425">November</w>
+          <c c5="PUN">, </c>
+          <w c5="PNP" hw="it" pos="PRON" startTime="380.9425" endTime="381.3825">it </w>
+          <w c5="VVD" hw="come" pos="VERB" startTime="381.3825" endTime="381.4825">came </w>
+          <w c5="AVP-PRP" hw="in" pos="ADV" startTime="381.7225" endTime="381.8125">in</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="148" nbw="779" startTime="382.4425" endTime="382.5425">
+          <w c5="ITJ" hw="oh" pos="INTERJ" startTime="382.4425" endTime="382.5425">Oh</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="149" nbw="780" startTime="383.0725" endTime="383.2725">
+          <w c5="AVQ" hw="why" pos="ADV" startTime="383.0725" endTime="383.2725">Why</w>
+          <c c5="PUN">?</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="150" nbw="781" startTime="384.4125" endTime="384.4825">
+          <w c5="ITJ" hw="mm" pos="INTERJ" startTime="384.4125" endTime="384.4825">Mm</w>
+          <c c5="PUN">?</c>
+        </s>
+        <s n="151" nbw="782" startTime="384.7025" endTime="385.9725">
+          <w c5="PNP" hw="i" pos="PRON" startTime="384.7025" endTime="384.7525">I</w>
+          <w c5="VHD" hw="have" pos="VERB" startTime="384.7625" endTime="384.7725">'d </w>
+          <w c5="AV0" hw="well" pos="ADV" startTime="384.7725" endTime="384.9425">better </w>
+          <w c5="VVI" hw="check" pos="VERB" startTime="384.9425" endTime="385.1525">check </w>
+          <w c5="DPS" hw="i" pos="PRON" startTime="385.1525" endTime="385.2525">my </w>
+          <w c5="CRD" hw="two" pos="ADJ" startTime="385.2525" endTime="385.4525">two </w>
+          <w c5="NN1-AJ0" hw="back" pos="SUBST" startTime="385.4525" endTime="385.6325">back </w>
+          <w c5="NN2" hw="one" pos="SUBST" startTime="385.6325" endTime="385.8325">ones </w>
+          <w c5="AV0" hw="then" pos="ADV" startTime="385.8325" endTime="385.9725">then</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="152" nbw="791" startTime="386.3425" endTime="386.7725">
+          <w c5="PNP" hw="they" pos="PRON" startTime="386.3425" endTime="386.4325">They</w>
+          <w c5="VBB" hw="be" pos="VERB" startTime="386.4425" endTime="386.4525">'re </w>
+          <w c5="AJ0" hw="alright" pos="ADJ" startTime="386.4525" endTime="386.7725">alright</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="153" nbw="794" startTime="387.0725" endTime="387.2925">
+          <w c5="VBB" hw="be" pos="VERB" startTime="387.0725" endTime="387.1625">Are </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="387.1625" endTime="387.2925">they</w>
+          <c c5="PUN">?</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="154" nbw="796" startTime="387.7625" endTime="388.1425">
+          <w c5="AV0" hw="well" pos="ADV" startTime="387.7625" endTime="387.9025">Well </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="387.9025" endTime="387.9625">they </w>
+          <w c5="VBD" hw="be" pos="VERB" startTime="387.9625" endTime="388.1425">were</w>
+          <c c5="PUN">.</c>
+          <event desc="parrot squawks"/>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="155" nbw="799" startTime="388.2225" endTime="388.3525">
+          <unclear/>
+          <w c5="NN1" hw="dad" pos="SUBST" startTime="388.2225" endTime="388.3525">dad</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="156" nbw="800" startTime="" endTime="">
+          <vocal desc="laugh"/>
+          <unclear/>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="157" nbw="800" startTime="389.0225" endTime="389.8625">
+          <w c5="AV0" hw="right" pos="ADV" startTime="389.0225" endTime="389.1525">Right </w>
+          <w c5="VVB" hw="come" pos="VERB" startTime="389.1525" endTime="389.2525">come </w>
+          <w c5="AVP-PRP" hw="on" pos="ADV" startTime="389.2525" endTime="389.3225">on </w>
+          <w c5="AV0" hw="then" pos="ADV" startTime="389.3225" endTime="389.4425">then </w>
+          <w c5="NN1" hw="shit" pos="SUBST" startTime="389.5525" endTime="389.7325">shit </w>
+          <w c5="NN1" hw="box" pos="SUBST" startTime="389.7325" endTime="389.8625">box</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="158" nbw="806" startTime="390.0525" endTime="410.2925">
+          <w c5="VDZ" hw="do" pos="VERB" startTime="390.0525" endTime="390.1525">Does </w>
+          <w c5="PNP" hw="he" pos="PRON" startTime="390.1525" endTime="404.0725">him </w>
+          <w c5="AJ0" hw="good" pos="ADJ" startTime="404.0725" endTime="404.2125">good </w>
+          <w c5="TO0" hw="to" pos="PREP" startTime="404.2125" endTime="404.2825">to </w>
+          <w c5="VVI" hw="stir" pos="VERB" startTime="404.2825" endTime="404.4025">stir </w>
+          <w c5="PNP" hw="he" pos="PRON" startTime="404.4025" endTime="409.7025">him </w>
+          <w c5="AVP" hw="up" pos="ADV" startTime="409.7025" endTime="409.7625">up </w>
+          <w c5="AV0" hw="now" pos="ADV" startTime="409.8025" endTime="409.8625">now </w>
+          <w c5="CJC" hw="and" pos="CONJ" startTime="409.8625" endTime="409.9425">and </w>
+          <w c5="AV0" hw="again" pos="ADV" startTime="409.9425" endTime="410.2925">again</w>
+          <c c5="PUN">.</c>
+          <pause/>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <s n="159" nbw="816" startTime="410.3625" endTime="414.4725">
+          <w c5="EX0" hw="there" pos="PRON" startTime="410.3625" endTime="410.7325">There</w>
+          <w c5="VBZ" hw="be" pos="VERB" startTime="410.7425" endTime="410.7525">'s </w>
+          <w c5="AT0" hw="a" pos="ART" startTime="410.7725" endTime="410.8425">a </w>
+          <w c5="NN1" hw="difference" pos="SUBST" startTime="410.9725" endTime="411.4425">difference </w>
+          <w c5="PRP" hw="between" pos="PREP" startTime="411.6925" endTime="412.0325">between </w>
+          <w c5="VVG" hw="stir" pos="VERB" startTime="412.0825" endTime="412.4325">stirring </w>
+          <w c5="PNP" hw="he" pos="PRON" startTime="412.4325" endTime="413.3225">him </w>
+          <w c5="AVP" hw="up" pos="ADV" startTime="413.3225" endTime="413.5025">up </w>
+          <w c5="CJC" hw="and" pos="CONJ" startTime="413.5025" endTime="413.5625">and </w>
+          <w c5="VVG" hw="aggravate" pos="VERB" startTime="413.5825" endTime="414.1625">aggravating </w>
+          <w c5="PNP" hw="he" pos="PRON" startTime="414.1625" endTime="414.2325">him </w>
+          <w c5="NN1" hw="dad" pos="SUBST" startTime="414.2325" endTime="414.4725">dad</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="160" nbw="828" startTime="415.0725" endTime="419.4825">
+          <w c5="AV0" hw="well" pos="ADV" startTime="415.0725" endTime="415.1625">Well </w>
+          <w c5="DT0" hw="that" pos="ADJ" startTime="417.5825" endTime="417.7125">that </w>
+          <w c5="VBZ" hw="be" pos="VERB" startTime="417.7125" endTime="417.7725">is </w>
+          <trunc>
+            <w c5="UNC" hw="agg" pos="UNC" startTime="417.7725" endTime="417.8325">agg </w>
+          </trunc>
+          <c c5="PUN">, </c>
+          <w c5="DT0" hw="that" pos="ADJ" startTime="417.7725" endTime="417.8325">that </w>
+          <w c5="VBZ" hw="be" pos="VERB" startTime="417.8325" endTime="417.9225">is </w>
+          <w c5="VVG" hw="stir" pos="VERB" startTime="417.9225" endTime="418.0725">stirring </w>
+          <w c5="PNP" hw="he" pos="PRON" startTime="418.0725" endTime="418.5825">him </w>
+          <w c5="AVP" hw="up" pos="ADV" startTime="418.5825" endTime="418.9925">up </w>
+          <w c5="VBZ" hw="in" pos="VERB" startTime="418.9925" endTime="419.2225">in</w>
+          <w c5="XX0" hw="n" pos="ADV" startTime="419.2225" endTime="419.3425">n</w>
+          <w c5="PNP" hw="it" pos="PRON" startTime="419.3425" endTime="419.4825">it</w>
+          <c c5="PUN">?</c>
+        </s>
+        <s n="161" nbw="840" startTime="419.5825" endTime="421.9025">
+          <pause/>
+          <w c5="PNP" hw="he" pos="PRON" startTime="419.5825" endTime="419.65250000000003">He</w>
+          <w c5="VBZ" hw="be" pos="VERB" startTime="419.6625" endTime="419.6725">'s </w>
+          <w c5="AV0" hw="well" pos="ADV" startTime="420.2025" endTime="421.0625">well </w>
+          <w c5="VVN-VVD" hw="stir" pos="VERB" startTime="421.0625" endTime="421.5325">stirred </w>
+          <w c5="AVP" hw="up" pos="ADV" startTime="421.5325" endTime="421.9025">up</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="162" nbw="845" startTime="421.9025" endTime="425.0125">
+          <pause/>
+          <w c5="VVB" hw="suppose" pos="VERB" startTime="421.9025" endTime="422.0525">Suppose </w>
+          <w c5="PNP" hw="i" pos="PRON" startTime="422.0525" endTime="422.3025">I</w>
+          <w c5="VHD" hw="have" pos="VERB" startTime="422.3125" endTime="422.3225">'d </w>
+          <w c5="AV0" hw="well" pos="ADV" startTime="424.3725" endTime="424.5725">better </w>
+          <w c5="VDI" hw="do" pos="VERB" startTime="424.5725" endTime="424.6625">do </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="424.6625" endTime="424.7825">the </w>
+          <w c5="NN1" hw="washing" pos="SUBST" startTime="424.7825" endTime="424.9325">washing </w>
+          <w c5="AVP" hw="up" pos="ADV" startTime="424.9325" endTime="425.0125">up</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="163" nbw="853" startTime="425.0125" endTime="436.3325">
+          <pause dur="10"/>
+          <w c5="VVB" hw="put" pos="VERB" startTime="425.0125" endTime="425.2625">Put </w>
+          <w c5="CRD" hw="two" pos="ADJ" startTime="425.8925" endTime="426.0425">two </w>
+          <w c5="DT0" hw="more" pos="ADJ" startTime="426.0425" endTime="426.2625">more </w>
+          <w c5="NN2" hw="tyre" pos="SUBST" startTime="426.3525" endTime="426.6225">tyres </w>
+          <w c5="PRP" hw="on" pos="PREP" startTime="426.6225" endTime="426.7825">on  </w>
+          <unclear/>
+          <w c5="NP0" hw="cambridge" pos="SUBST" startTime="433.0825" endTime="433.3625">Cambridge </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="435.8025" endTime="435.9025">the </w>
+          <w c5="AJ0" hw="other" pos="ADJ" startTime="435.9025" endTime="436.2325">other </w>
+          <w c5="NN1" hw="day" pos="SUBST" startTime="436.2325" endTime="436.3325">day</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="164" nbw="862" startTime="436.3325" endTime="436.4925">
+          <w c5="ITJ" hw="mm" pos="INTERJ" startTime="436.3325" endTime="436.4925">Mm</w>
+          <c c5="PUN">?</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="165" nbw="863" startTime="436.4925" endTime="437.8625">
+          <w c5="PRP" hw="on" pos="PREP" startTime="436.4925" endTime="436.7725">On </w>
+          <w c5="AT0" hw="the" pos="ART" startTime="436.7725" endTime="437.0525">the </w>
+          <w c5="NN1" hw="back" pos="SUBST" startTime="437.7625" endTime="437.8625">back</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="166" nbw="866" startTime="438.6125" endTime="450.7625">
+          <w c5="PNP" hw="i" pos="PRON" startTime="438.6125" endTime="438.6625">I </w>
+          <w c5="VHD" hw="have" pos="VERB" startTime="444.4125" endTime="444.5525">had </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="449.8525" endTime="449.9725">them  </w>
+          <pause/>
+          <w c5="UNC" hw="erm" pos="UNC" startTime="449.9725" endTime="450.0425">erm </w>
+          <w c5="CRD" hw="two" pos="ADJ" startTime="450.0425" endTime="450.1225">two </w>
+          <w c5="AJ0" hw="little" pos="ADJ" startTime="450.1225" endTime="450.3725">little </w>
+          <w c5="NN2" hw="one" pos="SUBST" startTime="450.3725" endTime="450.5125">ones </w>
+          <w c5="PRP-AVP" hw="on" pos="PREP" startTime="450.5125" endTime="450.6225">on </w>
+          <w c5="AV0" hw="there" pos="ADV" startTime="450.6225" endTime="450.7625">there</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="167" nbw="875" startTime="450.7625" endTime="453.3725">
+          <w c5="VVN-VVD" hw="get" pos="VERB" startTime="450.7625" endTime="450.9925">Got </w>
+          <w c5="CRD" hw="two" pos="ADJ" startTime="450.9925" endTime="451.2025">two </w>
+          <w c5="AJ0" hw="proper" pos="ADJ" startTime="451.4925" endTime="451.9325">proper </w>
+          <w c5="NN2" hw="one" pos="SUBST" startTime="452.7125" endTime="453.1325">ones </w>
+          <w c5="PRP-AVP" hw="on" pos="PREP" startTime="453.1325" endTime="453.1925">on </w>
+          <w c5="AV0" hw="there" pos="ADV" startTime="453.1925" endTime="453.3125">there </w>
+          <w c5="AV0" hw="now" pos="ADV" startTime="453.3125" endTime="453.3725">now</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="168" nbw="882" startTime="453.3725" endTime="453.4425">
+          <w c5="ITJ" hw="mm" pos="INTERJ" startTime="453.3725" endTime="453.4425">Mm</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="169" nbw="883" startTime="453.4425" endTime="456.9025">
+          <w c5="PNP" hw="i" pos="PRON" startTime="453.4425" endTime="453.4825">I </w>
+          <w c5="VHD" hw="have" pos="VERB" startTime="453.4825" endTime="453.5725">had </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="453.7025" endTime="453.8225">them </w>
+          <w c5="AVP" hw="down" pos="ADV" startTime="453.9025" endTime="454.0725">down </w>
+          <w c5="AV0" hw="there" pos="ADV" startTime="454.5525" endTime="454.6625">there </w>
+          <w c5="VVB" hw="look" pos="VERB" startTime="454.6625" endTime="454.8525">look</w>
+          <c c5="PUN">, </c>
+          <w c5="PNP" hw="they" pos="PRON" startTime="454.8525" endTime="454.9925">they </w>
+          <w c5="VBD" hw="be" pos="VERB" startTime="454.9925" endTime="455.2325">were </w>
+          <w c5="AVP-PRP" hw="on" pos="ADV" startTime="456.7525" endTime="456.9025">on</w>
+          <c c5="PUN">.</c>
+          <pause/>
+        </s>
+      </u>
+      <u who="PS1CR">
+        <s n="170" nbw="892" startTime="458.0325" endTime="462.2125">
+          <w c5="VVB" hw="see" pos="VERB" startTime="458.0325" endTime="458.0925">See </w>
+          <w c5="PNP" hw="you" pos="PRON" startTime="460.2025" endTime="460.2625">you </w>
+          <w c5="AV0" hw="later" pos="ADV" startTime="461.1325" endTime="462.2125">later </w>
+          <unclear/>
+        </s>
+      </u>
+      <u who="PS1CP">
+        <s n="171" nbw="895" startTime="470.3725" endTime="470.6025">
+          <w c5="ITJ" hw="yeah" pos="INTERJ" startTime="470.3725" endTime="470.6025">Yeah</w>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <unclear/>
+      </u>
+      <u who="PS1CP">
+        <s n="172" nbw="896" startTime="471.3425" endTime="476.1525">
+          <w c5="VVB" hw="go" pos="VERB" startTime="471.3425" endTime="471.5625">Go </w>
+          <w c5="AJ0" hw="careful" pos="ADJ" startTime="475.5825" endTime="476.1525">careful</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+      <u who="PS1CU">
+        <unclear/>
+      </u>
+      <u who="PS1CP">
+        <s n="173" nbw="898" startTime="476.1525" endTime="480.4425">
+          <w c5="ITJ" hw="yeah" pos="INTERJ" startTime="476.1525" endTime="476.2125">Yeah </w>
+          <w c5="PNP" hw="i" pos="PRON" startTime="479.7825" endTime="479.8725">I </w>
+          <w c5="VVB" hw="know" pos="VERB" startTime="479.8725" endTime="480.4425">know</w>
+          <c c5="PUN">.</c>
+        </s>
+        <s n="174" nbw="901" startTime="480.4425" endTime="480.8025">
+          <w c5="PNP" hw="i" pos="PRON" startTime="480.4425" endTime="480.4725">I </w>
+          <w c5="VVD" hw="see" pos="VERB" startTime="480.4725" endTime="480.5625">seen </w>
+          <w c5="PNP" hw="they" pos="PRON" startTime="480.5625" endTime="480.8025">them</w>
+          <c c5="PUN">.</c>
+        </s>
+      </u>
+    </div>
+  </stext>
+</bncDoc>

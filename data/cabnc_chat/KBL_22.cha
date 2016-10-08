@@ -3,13 +3,13 @@
 @Languages:     eng
 @Participants:	CHE Cherrilyn self, JES Jessica daughter, SOP Sophie daughter
 @Options:	CA
-@ID: eng|AudioBNC|CHE|~43;| |f|Ag3| |nursing auxiliary||PS06A|
-@ID: eng|AudioBNC|JES|~13;| |f|Ag0| |student (state secondary)|daughter|PS06B|
-@ID: eng|AudioBNC|SOP|~21;| |f|Ag1| |student|daughter|PS06D|
+@ID: eng|CABNC|CHE|~43;| |f|Ag3| |nursing auxiliary||PS06A|
+@ID: eng|CABNC|JES|~13;| |f|Ag0| |student (state secondary)|daughter|PS06B|
+@ID: eng|CABNC|SOP|~21;| |f|Ag1| |student|daughter|PS06D|
 @Media: 021A-C0897X0405XX-AAZZP0.wav, audio 		
 @Date:	1992-02-22:  
 @Situation:	 waiting for a train 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 station 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0405XX-AAZZP0.wav
 @Comment:	conversation #22 (Tape 040507)

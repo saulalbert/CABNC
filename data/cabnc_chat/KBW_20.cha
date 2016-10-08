@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , DOR Dorothy self, TIM Tim son, CHR Christopher son, UNK Unknown Unknown None acquaintance
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
-@ID: eng|AudioBNC|TIM|~3;| |m|Ag0| |student (private pre)|son|PS088|
-@ID: eng|AudioBNC|CHR|~5;| |m|Ag0| |student (state primary)|son|PS089|
-@ID: eng|AudioBNC|UNK|~40;| |f|Ag3| |secretary|acquaintance|PS08W|		
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
+@ID: eng|CABNC|TIM|~3;| |m|Ag0| |student (private pre)|son|PS088|
+@ID: eng|CABNC|CHR|~5;| |m|Ag0| |student (state primary)|son|PS089|
+@ID: eng|CABNC|UNK|~40;| |f|Ag3| |secretary|acquaintance|PS08W|		
 @Date:	1992-03-15:  
 @Situation:	  talking  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  library  
 @Comment:	conversation #20 (Tape 022404)File not found : 
 *DOR:	And what's fallen off? •_•

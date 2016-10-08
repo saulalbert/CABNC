@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , BRE Brenda self, LEE Lee son, CAR Carla daughter
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
-@ID: eng|AudioBNC|LEE|~15;| |m|Ag1| |student (state secondary)|son|PS04W|
-@ID: eng|AudioBNC|CAR|~11;| |f|Ag0| |student (state primary)|daughter|PS04X|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|BRE|~34;| |f|Ag2| |housewife||PS04U|
+@ID: eng|CABNC|LEE|~15;| |m|Ag1| |student (state secondary)|son|PS04W|
+@ID: eng|CABNC|CAR|~11;| |f|Ag0| |student (state primary)|daughter|PS04X|
 @Media: 021A-C0897X0159XX-AAZZP0.wav, audio 		
 @Date:	1991-12-04:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0159XX-AAZZP0.wav
 @Comment:	conversation #90 (Tape 015901)

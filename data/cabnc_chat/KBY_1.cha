@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	ELI Elizabeth self, UNK Unknown Unknown None stranger, ANN Anne mother, MIK Mike father
 @Options:	CA
-@ID: eng|AudioBNC|ELI|~19;| |f|Ag1| |student||PS08X|
-@ID: eng|AudioBNC|UNK|~18;| |m|Ag1| |student|stranger|PS10H|
-@ID: eng|AudioBNC|ANN|~48;| |f|Ag4| |clerk (pt)|mother|PS10L|
-@ID: eng|AudioBNC|MIK|~53;| |m|Ag4| |computer operator|father|PS10M|
+@ID: eng|CABNC|ELI|~19;| |f|Ag1| |student||PS08X|
+@ID: eng|CABNC|UNK|~18;| |m|Ag1| |student|stranger|PS10H|
+@ID: eng|CABNC|ANN|~48;| |f|Ag4| |clerk (pt)|mother|PS10L|
+@ID: eng|CABNC|MIK|~53;| |m|Ag4| |computer operator|father|PS10M|
 @Media: 021A-C0897X0575XX-AAZZP0.wav, audio 		
 @Date:	1992-01-11:  
 @Situation:	 Playing cards 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 College 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0575XX-AAZZP0.wav
 @Comment:	conversation #1 (Tape 057501)

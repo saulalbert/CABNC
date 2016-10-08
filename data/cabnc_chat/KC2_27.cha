@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , FRE Fred self, MAR Marjorie daughter, GEM Gemma granddaughter
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|FRE|~77;| |m|Ag5| |retired||PS09T|
-@ID: eng|AudioBNC|MAR|~36;| |f|Ag3| |housewife|daughter|PS09X|
-@ID: eng|AudioBNC|GEM|~11;| |f|Ag0| |student|granddaughter|PS09Y|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|FRE|~77;| |m|Ag5| |retired||PS09T|
+@ID: eng|CABNC|MAR|~36;| |f|Ag3| |housewife|daughter|PS09X|
+@ID: eng|CABNC|GEM|~11;| |f|Ag0| |student|granddaughter|PS09Y|
 @Media: 021A-C0897X0264XX-AAZZP0.wav, audio 		
 @Date:	1992-03-20:  
 @Situation:	  talking to daughter  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0264XX-AAZZP0.wav
 @Comment:	conversation #27 (Tape 026402)

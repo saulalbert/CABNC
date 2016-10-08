@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	CAR Carole self, JOE Joelle employee, ADA Adam husband, CHA Charlotte daughter, TOB Toby nephew
 @Options:	CA
-@ID: eng|AudioBNC|CAR|~36;| |f|Ag3| |administrator (pt)||PS05B|
-@ID: eng|AudioBNC|JOE|~18;| |f|Ag1| |au pair|employee|PS05C|
-@ID: eng|AudioBNC|ADA|~36;| |m|Ag3| |textile agent|husband|PS05D|
-@ID: eng|AudioBNC|CHA|~2;| |f|Ag0| |pre-school|daughter|PS05E|
-@ID: eng|AudioBNC|TOB|~5;| |m|Ag0| |nephew|PS05K|		
+@ID: eng|CABNC|CAR|~36;| |f|Ag3| |administrator (pt)||PS05B|
+@ID: eng|CABNC|JOE|~18;| |f|Ag1| |au pair|employee|PS05C|
+@ID: eng|CABNC|ADA|~36;| |m|Ag3| |textile agent|husband|PS05D|
+@ID: eng|CABNC|CHA|~2;| |f|Ag0| |pre-school|daughter|PS05E|
+@ID: eng|CABNC|TOB|~5;| |m|Ag0| |nephew|PS05K|		
 @Date:	1991-05-31:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  home  
 @Comment:	conversation #26 (Tape 004109)File not found : 
 *ADA:	That's not very nice you know. •_•

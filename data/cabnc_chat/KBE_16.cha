@@ -3,16 +3,16 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , BET Betty self, GOO Googie friend, ROS Rose friend, EDN Edna friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|BET|~57;| |f|Ag4| |housewife||PS04B|
-@ID: eng|AudioBNC|GOO|~76;| |f|Ag5| |housewife|friend|PS04C|
-@ID: eng|AudioBNC|ROS|~64;| |f|Ag5| |housewife|friend|PS04D|
-@ID: eng|AudioBNC|EDN|~76;| |f|Ag5| |housewife|friend|PS04K|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|BET|~57;| |f|Ag4| |housewife||PS04B|
+@ID: eng|CABNC|GOO|~76;| |f|Ag5| |housewife|friend|PS04C|
+@ID: eng|CABNC|ROS|~64;| |f|Ag5| |housewife|friend|PS04D|
+@ID: eng|CABNC|EDN|~76;| |f|Ag5| |housewife|friend|PS04K|
 @Media: 021A-C0897X0093XX-AAZZP0.wav, audio 		
 @Date:	1991-12:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  Home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0093XX-AAZZP0.wav
 @Comment:	conversation #16 (Tape 009302)

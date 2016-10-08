@@ -3,15 +3,15 @@
 @Languages:     eng
 @Participants:	ANN Ann self, JAM James friend, BRY Bryony friend, RIC Richard friend, TOM Tom neighbour
 @Options:	CA
-@ID: eng|AudioBNC|ANN|~53;| |f|Ag4| |registered childminder||PS14B|
-@ID: eng|AudioBNC|JAM|~2;| |m|Ag0| |pre-school|friend|PS14M|
-@ID: eng|AudioBNC|BRY|~2;| |f|Ag0| |pre-school|friend|PS14N|
-@ID: eng|AudioBNC|RIC|~2;| |m|Ag0| |pre-school|friend|PS14P|
-@ID: eng|AudioBNC|TOM|~70;| |m|Ag5| |retired|neighbour|PS17M|
+@ID: eng|CABNC|ANN|~53;| |f|Ag4| |registered childminder||PS14B|
+@ID: eng|CABNC|JAM|~2;| |m|Ag0| |pre-school|friend|PS14M|
+@ID: eng|CABNC|BRY|~2;| |f|Ag0| |pre-school|friend|PS14N|
+@ID: eng|CABNC|RIC|~2;| |m|Ag0| |pre-school|friend|PS14P|
+@ID: eng|CABNC|TOM|~70;| |m|Ag5| |retired|neighbour|PS17M|
 @Media: 021A-C0897X0708XX-AAZZP0.wav, audio 		
 @Date:	1992-04-03:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  at home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0708XX-AAZZP0.wav
 @Comment:	conversation #33 (Tape 070803)

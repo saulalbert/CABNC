@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , DON Donald self, BAR Barry friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|DON|~56;| |m|Ag4| |taxi driver||PS1DW|
-@ID: eng|AudioBNC|BAR|~50;| |m|Ag4| |friend|PS1E0|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|DON|~56;| |m|Ag4| |taxi driver||PS1DW|
+@ID: eng|CABNC|BAR|~50;| |m|Ag4| |friend|PS1E0|
 @Media: 021A-C0897X0586XX-AAZZP0.wav, audio 		
 @Date:	1992-01-12:  
 @Situation:	 listening to Jehovah's Witness sermon 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0586XX-AAZZP0.wav
 @Comment:	conversation #3 (Tape 058601)
 *BAR:	No one is allowed to go to sleep during this talk •1495_5275•

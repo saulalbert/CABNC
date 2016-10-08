@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	CAR Carole self, ADA Adam husband, CHA Charlotte daughter, PAU Pauline friend
 @Options:	CA
-@ID: eng|AudioBNC|CAR|~36;| |f|Ag3| |administrator (pt)||PS05B|
-@ID: eng|AudioBNC|ADA|~36;| |m|Ag3| |textile agent|husband|PS05D|
-@ID: eng|AudioBNC|CHA|~2;| |f|Ag0| |pre-school|daughter|PS05E|
-@ID: eng|AudioBNC|PAU|~30+;| |f|Ag2| |shop owner|friend|PS05F|
+@ID: eng|CABNC|CAR|~36;| |f|Ag3| |administrator (pt)||PS05B|
+@ID: eng|CABNC|ADA|~36;| |m|Ag3| |textile agent|husband|PS05D|
+@ID: eng|CABNC|CHA|~2;| |f|Ag0| |pre-school|daughter|PS05E|
+@ID: eng|CABNC|PAU|~30+;| |f|Ag2| |shop owner|friend|PS05F|
 @Media: 021A-C0897X0039XX-AAZZP0.wav, audio 		
 @Date:	1991-05-30:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0039XX-AAZZP0.wav
 @Comment:	conversation #4 (Tape 003904)

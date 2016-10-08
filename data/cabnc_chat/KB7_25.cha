@@ -3,16 +3,16 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , ANN Ann self, HEL Helen daughter, JON Jonathan son, RIC Richard grandson, ANN Anna_Marie granddaughter
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
-@ID: eng|AudioBNC|HEL|~22;| |f|Ag1| |housewife|daughter|PS02X|
-@ID: eng|AudioBNC|JON|~17;| |m|Ag1| |Youth Training Scheme trainee|son|PS02Y|
-@ID: eng|AudioBNC|RIC|~2;| |m|Ag0| |pre-school|grandson|PS031|
-@ID: eng|AudioBNC|ANN|~1;| |f|Ag0| |pre-school|granddaughter|PS032|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
+@ID: eng|CABNC|HEL|~22;| |f|Ag1| |housewife|daughter|PS02X|
+@ID: eng|CABNC|JON|~17;| |m|Ag1| |Youth Training Scheme trainee|son|PS02Y|
+@ID: eng|CABNC|RIC|~2;| |m|Ag0| |pre-school|grandson|PS031|
+@ID: eng|CABNC|ANN|~1;| |f|Ag0| |pre-school|granddaughter|PS032|
 @Media: 021A-C0897X0186XX-ABZZPO.wav, audio 		
 @Date:	1991-11-30:  
 @Situation:	  shopping  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0186XX-ABZZPO.wav
 @Comment:	conversation #25 (Tape 018604)
 *ANN:	How much is this? •194018_194142•

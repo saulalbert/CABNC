@@ -3,15 +3,15 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , COL Colin self, NEI Neil son, JOA Joanne daughter
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|COL|unknown |m|X| |British Rail employee||PS069|
-@ID: eng|AudioBNC|NEI|unknown |m|X| |unemployed|son|PS10F|
-@ID: eng|AudioBNC|JOA|unknown |f|X| |daughter|PS10G|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|COL|unknown |m|X| |British Rail employee||PS069|
+@ID: eng|CABNC|NEI|unknown |m|X| |unemployed|son|PS10F|
+@ID: eng|CABNC|JOA|unknown |f|X| |daughter|PS10G|
 @Media: 021A-C0897X0363XX-AAZZP0.wav, audio 		
 @Date:	1991-02:  
 @Situation:	 recorded at football match with a 30,000 crowd 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 football stadium 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0363XX-AAZZP0.wav
 @Comment:	conversation #24 (Tape 036301)

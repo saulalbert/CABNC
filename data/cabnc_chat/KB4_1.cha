@@ -3,17 +3,17 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , ALA Alan self, MAN Mandy ?, DAR Darren son, GAR Gary ?, TRA Tracey ?
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|ALA|~55;| |m|Ag4| |driver||PS1CP|
-@ID: eng|AudioBNC|MAN|unknown |f|X| |role unspecified|PS1CR|
-@ID: eng|AudioBNC|DAR|~24;| |m|Ag1| |unemployed|son|PS1CS|
-@ID: eng|AudioBNC|GAR|unknown |m|X| |role unspecified|PS1CU|
-@ID: eng|AudioBNC|TRA|unknown |f|X| |role unspecified|PS1CV|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|ALA|~55;| |m|Ag4| |driver||PS1CP|
+@ID: eng|CABNC|MAN|unknown |f|X| |role unspecified|PS1CR|
+@ID: eng|CABNC|DAR|~24;| |m|Ag1| |unemployed|son|PS1CS|
+@ID: eng|CABNC|GAR|unknown |m|X| |role unspecified|PS1CU|
+@ID: eng|CABNC|TRA|unknown |f|X| |role unspecified|PS1CV|
 @Media: 021A-C0897X0114XX-ABZZP0.wav, audio 		
 @Date:	unknown date:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0114XX-ABZZP0.wav
 @Comment:	conversation #1 (Tape 011402)

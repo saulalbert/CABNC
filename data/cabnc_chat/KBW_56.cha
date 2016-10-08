@@ -3,15 +3,15 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , DOR Dorothy self, GWE Gwen friend, LIL Lily acquaintance
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
-@ID: eng|AudioBNC|GWE|~50;| |f|Ag4| |teacher/nursery owner|friend|PS0XN|
-@ID: eng|AudioBNC|LIL|~40;| |f|Ag3| |nursery assistant|acquaintance|PS0XP|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
+@ID: eng|CABNC|GWE|~50;| |f|Ag4| |teacher/nursery owner|friend|PS0XN|
+@ID: eng|CABNC|LIL|~40;| |f|Ag3| |nursery assistant|acquaintance|PS0XP|
 @Media: 021A-C0897X0232XX-AAZZP0.wav, audio 		
 @Date:	1992-03-20:  
 @Situation:	  talking at nursery  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  nursery  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0232XX-AAZZP0.wav
 @Comment:	conversation #56 (Tape 023202)

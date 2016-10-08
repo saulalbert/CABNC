@@ -3,17 +3,17 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , ANN Ann self, STU Stuart partner, JEA Jean colleague, DEI Deidre colleague, VAL Val colleague, TRE Trevor colleague
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
-@ID: eng|AudioBNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
-@ID: eng|AudioBNC|JEA|~57;| |f|Ag4| |process worker|colleague|PS037|
-@ID: eng|AudioBNC|DEI|~44;| |f|Ag3| |senior team leader|colleague|PS039|
-@ID: eng|AudioBNC|VAL|~36;| |f|Ag3| |Queen's counsel|colleague|PS03D|
-@ID: eng|AudioBNC|TRE|~40;| |m|Ag3| |process worker|colleague|PS03F|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
+@ID: eng|CABNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
+@ID: eng|CABNC|JEA|~57;| |f|Ag4| |process worker|colleague|PS037|
+@ID: eng|CABNC|DEI|~44;| |f|Ag3| |senior team leader|colleague|PS039|
+@ID: eng|CABNC|VAL|~36;| |f|Ag3| |Queen's counsel|colleague|PS03D|
+@ID: eng|CABNC|TRE|~40;| |m|Ag3| |process worker|colleague|PS03F|
 @Media: 021A-C0897X0190XX-ABZZPO.wav, audio 		
 @Date:	1991-12-03:  
 @Situation:	  canteen  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  work  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0190XX-ABZZPO.wav
 @Comment:	conversation #45 (Tape 019002)

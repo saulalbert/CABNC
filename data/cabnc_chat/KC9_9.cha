@@ -3,15 +3,15 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , GIN Ginny self, DIN Dinda daughter, VIC Vicky friend, JAC Jackie acquaintance
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|GIN|~65;| |f|Ag5| |housewife||PS0CG|
-@ID: eng|AudioBNC|DIN|~25;| |f|Ag2| |customs controller|daughter|PS0CJ|
-@ID: eng|AudioBNC|VIC|~40+;| |f|Ag3| |shop assistant|friend|PS0CK|
-@ID: eng|AudioBNC|JAC|unknown |f|X| |shop assistant|acquaintance|PS0CM|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|GIN|~65;| |f|Ag5| |housewife||PS0CG|
+@ID: eng|CABNC|DIN|~25;| |f|Ag2| |customs controller|daughter|PS0CJ|
+@ID: eng|CABNC|VIC|~40+;| |f|Ag3| |shop assistant|friend|PS0CK|
+@ID: eng|CABNC|JAC|unknown |f|X| |shop assistant|acquaintance|PS0CM|
 @Media: 021A-C0897X0140XX-ABZZPO.wav, audio 		
 @Date:	1991-11-29:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 Shopping 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0140XX-ABZZPO.wav
 @Comment:	conversation #9 (Tape 014009)

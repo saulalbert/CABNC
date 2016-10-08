@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , AUD Audrey self, GOR Gordon husband, MAR Margaret friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|AUD|~61;| |f|Ag5| |housewife||PS1A9|
-@ID: eng|AudioBNC|GOR|~61;| |m|Ag5| |teacher|husband|PS1AA|
-@ID: eng|AudioBNC|MAR|~45;| |f|Ag4| |nurse|friend|PS1AB|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|AUD|~61;| |f|Ag5| |housewife||PS1A9|
+@ID: eng|CABNC|GOR|~61;| |m|Ag5| |teacher|husband|PS1AA|
+@ID: eng|CABNC|MAR|~45;| |f|Ag4| |nurse|friend|PS1AB|
 @Media: 021A-C0897X0719XX-AAZZP0.wav, audio 		
 @Date:	1992-04-02:  
 @Situation:	  working around the house  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  at home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0719XX-AAZZP0.wav
 @Comment:	conversation #2 (Tape 071902)

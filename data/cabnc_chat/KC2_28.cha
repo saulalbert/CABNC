@@ -3,18 +3,18 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , FRE Fred self, FLO Florence wife, DAV David son, CLI Clive son-in-law, MAR Marjorie daughter, GEM Gemma granddaughter
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|FRE|~77;| |m|Ag5| |retired||PS09T|
-@ID: eng|AudioBNC|FLO|~71;| |f|Ag5| |retired|wife|PS09U|
-@ID: eng|AudioBNC|DAV|~41;| |m|Ag3| |painter/decorator|son|PS09V|
-@ID: eng|AudioBNC|CLI|~32;| |m|Ag2| |unemployed|son-in-law|PS09W|
-@ID: eng|AudioBNC|MAR|~36;| |f|Ag3| |housewife|daughter|PS09X|
-@ID: eng|AudioBNC|GEM|~11;| |f|Ag0| |student|granddaughter|PS09Y|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|FRE|~77;| |m|Ag5| |retired||PS09T|
+@ID: eng|CABNC|FLO|~71;| |f|Ag5| |retired|wife|PS09U|
+@ID: eng|CABNC|DAV|~41;| |m|Ag3| |painter/decorator|son|PS09V|
+@ID: eng|CABNC|CLI|~32;| |m|Ag2| |unemployed|son-in-law|PS09W|
+@ID: eng|CABNC|MAR|~36;| |f|Ag3| |housewife|daughter|PS09X|
+@ID: eng|CABNC|GEM|~11;| |f|Ag0| |student|granddaughter|PS09Y|
 @Media: 021A-C0897X0264XX-ABZZPO.wav, audio 		
 @Date:	1992-03-20:  
 @Situation:	  talking and looking at photo's  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0264XX-ABZZPO.wav
 @Comment:	conversation #28 (Tape 026403)

@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , ENI Enid self, NOE Noel husband, IAN Ian friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|ENI|~70;| |f|Ag5| |housewife||PS08Y|
-@ID: eng|AudioBNC|NOE|~79;| |m|Ag5| |retired (master organ builder)|husband|PS090|
-@ID: eng|AudioBNC|IAN|~34;| |m|Ag2| |advertising executive|friend|PS097|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|ENI|~70;| |f|Ag5| |housewife||PS08Y|
+@ID: eng|CABNC|NOE|~79;| |m|Ag5| |retired (master organ builder)|husband|PS090|
+@ID: eng|CABNC|IAN|~34;| |m|Ag2| |advertising executive|friend|PS097|
 @Media: 021A-C0897X0334XX-ABZZPO.wav, audio 		
 @Date:	1992-02-22:  
 @Situation:	  sitting at leisure  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0334XX-ABZZPO.wav
 @Comment:	conversation #7 (Tape 033402)

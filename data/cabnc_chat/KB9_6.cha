@@ -3,15 +3,15 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , ANN Annette self, TER Teresa daughter, TRA Tracy daughter
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|ANN|~44;| |f|Ag3| |administrative assistant||PS1CX|
-@ID: eng|AudioBNC|TER|~19;| |f|Ag1| |stable hand|daughter|PS1CY|
-@ID: eng|AudioBNC|TRA|~24;| |f|Ag1| |housewife|daughter|PS1D1|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|ANN|~44;| |f|Ag3| |administrative assistant||PS1CX|
+@ID: eng|CABNC|TER|~19;| |f|Ag1| |stable hand|daughter|PS1CY|
+@ID: eng|CABNC|TRA|~24;| |f|Ag1| |housewife|daughter|PS1D1|
 @Media: 021A-C0897X0621XX-AAZZP0.wav, audio 		
 @Date:	1992-02-02:  
 @Situation:	  with family  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  at home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0621XX-AAZZP0.wav
 @Comment:	conversation #6 (Tape 062102)

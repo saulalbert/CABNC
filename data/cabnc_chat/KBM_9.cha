@@ -3,15 +3,15 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , CHR Chris self, DAV David friend, STE Steven friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|CHR|~15;| |m|Ag1| |student||PS1BL|
-@ID: eng|AudioBNC|DAV|~16;| |m|Ag1| |student|friend|PS1BN|
-@ID: eng|AudioBNC|STE|~16;| |m|Ag1| |student|friend|PS1BP|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|CHR|~15;| |m|Ag1| |student||PS1BL|
+@ID: eng|CABNC|DAV|~16;| |m|Ag1| |student|friend|PS1BN|
+@ID: eng|CABNC|STE|~16;| |m|Ag1| |student|friend|PS1BP|
 @Media: 021A-C0897X0728XX-AAZZP0.wav, audio 		
 @Date:	1992-04-10:  
 @Situation:	 in French lesson 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 at school 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0728XX-AAZZP0.wav
 @Comment:	conversation #9 (Tape 072801)

@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , ANN Ann self, PAT Pat husband's niece, CHR Chris husband's great-niece
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|ANN|~53;| |f|Ag4| |registered childminder||PS14B|
-@ID: eng|AudioBNC|PAT|~39;| |f|Ag3| |shop assistant|husband's niece|PS167|
-@ID: eng|AudioBNC|CHR|~9;| |f|Ag0| |student|husband's great-niece|PS168|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|ANN|~53;| |f|Ag4| |registered childminder||PS14B|
+@ID: eng|CABNC|PAT|~39;| |f|Ag3| |shop assistant|husband's niece|PS167|
+@ID: eng|CABNC|CHR|~9;| |f|Ag0| |student|husband's great-niece|PS168|
 @Media: 021A-C0897X0698XX-AAZZP0.wav, audio 		
 @Date:	1992-04-05:  
 @Situation:	  picked up niece to visit mother-in-law in hospital  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  at home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0698XX-AAZZP0.wav
 @Comment:	conversation #19 (Tape 069802)

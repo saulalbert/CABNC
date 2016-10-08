@@ -3,16 +3,16 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , GRA Graeme self, ANN Ann wife, JOY Joyce friend, HAZ Hazel friend, ZAR Zara friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|GRA|~62;| |m|Ag5| |company secretary||PS0DX|
-@ID: eng|AudioBNC|ANN|~58;| |f|Ag4| |housewife|wife|PS0DY|
-@ID: eng|AudioBNC|JOY|~60+;| |f|Ag5| |housewife|friend|PS0E4|
-@ID: eng|AudioBNC|HAZ|~53;| |f|Ag4| |coffee shop assistant|friend|PS0E5|
-@ID: eng|AudioBNC|ZAR|~57;| |f|Ag4| |coffee shop owner|friend|PS0E6|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|GRA|~62;| |m|Ag5| |company secretary||PS0DX|
+@ID: eng|CABNC|ANN|~58;| |f|Ag4| |housewife|wife|PS0DY|
+@ID: eng|CABNC|JOY|~60+;| |f|Ag5| |housewife|friend|PS0E4|
+@ID: eng|CABNC|HAZ|~53;| |f|Ag4| |coffee shop assistant|friend|PS0E5|
+@ID: eng|CABNC|ZAR|~57;| |f|Ag4| |coffee shop owner|friend|PS0E6|
 @Media: 021A-C0897X0431XX-ABZZPO.wav, audio 		
 @Date:	1992-02-24:  
 @Situation:	  talking to shop owner  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  in coffee shop  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0431XX-ABZZPO.wav
 @Comment:	conversation #12 (Tape 043102)

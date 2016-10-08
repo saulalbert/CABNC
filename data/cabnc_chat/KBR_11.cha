@@ -3,15 +3,15 @@
 @Languages:     eng
 @Participants:	COL Colin self, SHE Sheila wife, NIG Nigel friend, NEI Neil son, JOA Joanne daughter
 @Options:	CA
-@ID: eng|AudioBNC|COL|unknown |m|X| |British Rail employee||PS069|
-@ID: eng|AudioBNC|SHE|unknown |f|X| |housekeeper|wife|PS10D|
-@ID: eng|AudioBNC|NIG|unknown |m|X| |electrician|friend|PS10E|
-@ID: eng|AudioBNC|NEI|unknown |m|X| |unemployed|son|PS10F|
-@ID: eng|AudioBNC|JOA|unknown |f|X| |daughter|PS10G|
+@ID: eng|CABNC|COL|unknown |m|X| |British Rail employee||PS069|
+@ID: eng|CABNC|SHE|unknown |f|X| |housekeeper|wife|PS10D|
+@ID: eng|CABNC|NIG|unknown |m|X| |electrician|friend|PS10E|
+@ID: eng|CABNC|NEI|unknown |m|X| |unemployed|son|PS10F|
+@ID: eng|CABNC|JOA|unknown |f|X| |daughter|PS10G|
 @Media: 021A-C0897X0360XX-ABZZPO.wav, audio 		
 @Date:	1991-02:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0360XX-ABZZPO.wav
 @Comment:	conversation #17 (Tape 036008)
 *SHE:	So we're getting there. •0795_9635•

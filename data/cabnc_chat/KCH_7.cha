@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	JAN Jane self, PHI Phillip husband, CHR Christopher son, DAV David son
 @Options:	CA
-@ID: eng|AudioBNC|JAN|~40;| |f|Ag3| |optician/student||PS1BS|
-@ID: eng|AudioBNC|PHI|~46;| |m|Ag4| |chartered engineer|husband|PS1BT|
-@ID: eng|AudioBNC|CHR|~9;| |m|Ag0| |student (state primary)|son|PS1BU|
-@ID: eng|AudioBNC|DAV|~6;| |m|Ag0| |student (state primary)|son|PS1BV|
+@ID: eng|CABNC|JAN|~40;| |f|Ag3| |optician/student||PS1BS|
+@ID: eng|CABNC|PHI|~46;| |m|Ag4| |chartered engineer|husband|PS1BT|
+@ID: eng|CABNC|CHR|~9;| |m|Ag0| |student (state primary)|son|PS1BU|
+@ID: eng|CABNC|DAV|~6;| |m|Ag0| |student (state primary)|son|PS1BV|
 @Media: 021A-C0897X0762XX-ABZZPO.wav, audio 		
 @Date:	1992-04-05:  
 @Situation:	  having dinner watching television and bathing children  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  at home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0762XX-ABZZPO.wav
 @Comment:	conversation #7 (Tape 076203)

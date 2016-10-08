@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , GIN Ginny self, KEI Keith husband, DIN Dinda daughter
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|GIN|~65;| |f|Ag5| |housewife||PS0CG|
-@ID: eng|AudioBNC|KEI|~63;| |m|Ag5| |design engineer|husband|PS0CH|
-@ID: eng|AudioBNC|DIN|~25;| |f|Ag2| |customs controller|daughter|PS0CJ|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|GIN|~65;| |f|Ag5| |housewife||PS0CG|
+@ID: eng|CABNC|KEI|~63;| |m|Ag5| |design engineer|husband|PS0CH|
+@ID: eng|CABNC|DIN|~25;| |f|Ag2| |customs controller|daughter|PS0CJ|
 @Media: 021A-C0897X0140XX-AAZZP0.wav, audio 		
 @Date:	1991-11-28:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0140XX-AAZZP0.wav
 @Comment:	conversation #5 (Tape 014005)

@@ -3,20 +3,20 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , CAR Carl self, SUS Susan wife, CHR Christopher son, REB Rebecca daughter, AND Andrew son, ROB Robert son, PET Peter neighbour, ALA Alan neighbour
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|CAR|~34;| |m|Ag2| |teacher||PS051|
-@ID: eng|AudioBNC|SUS|~33;| |f|Ag2| |teacher (pt)|wife|PS052|
-@ID: eng|AudioBNC|CHR|~4;| |m|Ag0| |pre-school|son|PS053|
-@ID: eng|AudioBNC|REB|~1;| |f|Ag0| |pre-school|daughter|PS054|
-@ID: eng|AudioBNC|AND|~7;| |m|Ag0| |student (primary)|son|PS055|
-@ID: eng|AudioBNC|ROB|~9;| |m|Ag0| |student (secondary)|son|PS056|
-@ID: eng|AudioBNC|PET|~58;| |m|Ag4| |lorry driver|neighbour|PS057|
-@ID: eng|AudioBNC|ALA|~65;| |m|Ag5| |retired|neighbour|PS058|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|CAR|~34;| |m|Ag2| |teacher||PS051|
+@ID: eng|CABNC|SUS|~33;| |f|Ag2| |teacher (pt)|wife|PS052|
+@ID: eng|CABNC|CHR|~4;| |m|Ag0| |pre-school|son|PS053|
+@ID: eng|CABNC|REB|~1;| |f|Ag0| |pre-school|daughter|PS054|
+@ID: eng|CABNC|AND|~7;| |m|Ag0| |student (primary)|son|PS055|
+@ID: eng|CABNC|ROB|~9;| |m|Ag0| |student (secondary)|son|PS056|
+@ID: eng|CABNC|PET|~58;| |m|Ag4| |lorry driver|neighbour|PS057|
+@ID: eng|CABNC|ALA|~65;| |m|Ag5| |retired|neighbour|PS058|
 @Media: 021A-C0897X0337XX-AAZZP0.wav, audio 		
 @Date:	1992-02-23:  
 @Situation:	  getting ready to go swimming  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  home/car/swimming pool  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0337XX-AAZZP0.wav
 @Comment:	conversation #4 (Tape 033701)

@@ -3,13 +3,13 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , IRI Iris self, STU Stuart daughter's boyfriend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|IRI|~54;| |f|Ag4| |home care assistant||PS1EN|
-@ID: eng|AudioBNC|STU|~22;| |m|Ag1| |hairdresser|daughter's boyfriend|PS1ER|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|IRI|~54;| |f|Ag4| |home care assistant||PS1EN|
+@ID: eng|CABNC|STU|~22;| |m|Ag1| |hairdresser|daughter's boyfriend|PS1ER|
 @Media: 021A-C0897X0286XX-AAZZP0.wav, audio 		
 @Date:	1992-03-19:  
 @Situation:	 Visiting a patient 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 Mold Community Hospital 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0286XX-AAZZP0.wav
 @Comment:	conversation #26 (Tape 028602)

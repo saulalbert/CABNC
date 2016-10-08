@@ -3,15 +3,15 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , CAR Carole self, JOE Joelle employee, ADA Adam husband, CHA Charlotte daughter
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|CAR|~36;| |f|Ag3| |administrator (pt)||PS05B|
-@ID: eng|AudioBNC|JOE|~18;| |f|Ag1| |au pair|employee|PS05C|
-@ID: eng|AudioBNC|ADA|~36;| |m|Ag3| |textile agent|husband|PS05D|
-@ID: eng|AudioBNC|CHA|~2;| |f|Ag0| |pre-school|daughter|PS05E|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|CAR|~36;| |f|Ag3| |administrator (pt)||PS05B|
+@ID: eng|CABNC|JOE|~18;| |f|Ag1| |au pair|employee|PS05C|
+@ID: eng|CABNC|ADA|~36;| |m|Ag3| |textile agent|husband|PS05D|
+@ID: eng|CABNC|CHA|~2;| |f|Ag0| |pre-school|daughter|PS05E|
 @Media: 021A-C0897X0040XX-AAZZP0.wav, audio 		
 @Date:	1991-05-31:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  shops  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0040XX-AAZZP0.wav
 @Comment:	conversation #10 (Tape 004002)

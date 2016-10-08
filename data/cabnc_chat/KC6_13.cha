@@ -3,17 +3,17 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , GAV Gavin self, RIC Richard colleague, SAR Saranne colleague, ADR Adrian colleague, STE Steve colleague
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|GAV|~25;| |m|Ag2| |photographer||PS0BA|
-@ID: eng|AudioBNC|RIC|~24;| |m|Ag1| |journalist|colleague|PS0BC|
-@ID: eng|AudioBNC|SAR|~23;| |f|Ag1| |journalist|colleague|PS0BF|
-@ID: eng|AudioBNC|ADR|~25;| |m|Ag2| |journalist|colleague|PS0BG|
-@ID: eng|AudioBNC|STE|~25;| |m|Ag2| |journalist|colleague|PS0BH|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|GAV|~25;| |m|Ag2| |photographer||PS0BA|
+@ID: eng|CABNC|RIC|~24;| |m|Ag1| |journalist|colleague|PS0BC|
+@ID: eng|CABNC|SAR|~23;| |f|Ag1| |journalist|colleague|PS0BF|
+@ID: eng|CABNC|ADR|~25;| |m|Ag2| |journalist|colleague|PS0BG|
+@ID: eng|CABNC|STE|~25;| |m|Ag2| |journalist|colleague|PS0BH|
 @Media: 021A-C0897X0559XX-AAZZP0.wav, audio 		
 @Date:	1992-01-13:  
 @Situation:	 working 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 in office 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0559XX-AAZZP0.wav
 @Comment:	conversation #13 (Tape 055901)

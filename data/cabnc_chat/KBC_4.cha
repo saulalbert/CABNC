@@ -3,16 +3,16 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , AUD Audrey self, GOR Gordon husband, KEV Kevin son-in-law, CAR Carl son, ELA Elaine daughter
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|AUD|~61;| |f|Ag5| |housewife||PS1A9|
-@ID: eng|AudioBNC|GOR|~61;| |m|Ag5| |teacher|husband|PS1AA|
-@ID: eng|AudioBNC|KEV|~29;| |m|Ag2| |computer engineer|son-in-law|PS1AD|
-@ID: eng|AudioBNC|CAR|~31;| |m|Ag2| |pharmacist|son|PS1AE|
-@ID: eng|AudioBNC|ELA|~28;| |f|Ag2| |housewife|daughter|PS1AG|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|AUD|~61;| |f|Ag5| |housewife||PS1A9|
+@ID: eng|CABNC|GOR|~61;| |m|Ag5| |teacher|husband|PS1AA|
+@ID: eng|CABNC|KEV|~29;| |m|Ag2| |computer engineer|son-in-law|PS1AD|
+@ID: eng|CABNC|CAR|~31;| |m|Ag2| |pharmacist|son|PS1AE|
+@ID: eng|CABNC|ELA|~28;| |f|Ag2| |housewife|daughter|PS1AG|
 @Media: 021A-C0897X0719XX-AAZZP0.wav, audio 		
 @Date:	1992-04-02:  
 @Situation:	  drinking tea  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  at home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0719XX-AAZZP0.wav
 @Comment:	conversation #4 (Tape 071904)

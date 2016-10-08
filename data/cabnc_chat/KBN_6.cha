@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , CLA Clare self, HEL Helen sister, MAR Marilyn mother
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|CLA|~15;| |f|Ag1| |student||PS05Y|
-@ID: eng|AudioBNC|HEL|~29;| |f|Ag2| |housewife|sister|PS063|
-@ID: eng|AudioBNC|MAR|~50;| |f|Ag4| |housewife|mother|PS064|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|CLA|~15;| |f|Ag1| |student||PS05Y|
+@ID: eng|CABNC|HEL|~29;| |f|Ag2| |housewife|sister|PS063|
+@ID: eng|CABNC|MAR|~50;| |f|Ag4| |housewife|mother|PS064|
 @Media: 021A-C0897X0277XX-ABZZPO.wav, audio 		
 @Date:	1992-03-15:  
 @Situation:	 sitting in living room/kitchen-having tea-in bedroom 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0277XX-ABZZPO.wav
 @Comment:	conversation #6 (Tape 027706)

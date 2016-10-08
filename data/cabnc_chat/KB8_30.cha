@@ -3,23 +3,23 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , ANN Ann self, JAM James husband, MAR Martin friend, DOR Dorothy friend, JAM James friend, BRY Bryony friend, RIC Richard friend, SAL Sally friend, KAT Kathy friend, MAG Maggie friend, JEA Jean acquaintance
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|ANN|~53;| |f|Ag4| |registered childminder||PS14B|
-@ID: eng|AudioBNC|JAM|~57;| |m|Ag4| |charge nurse|husband|PS14C|
-@ID: eng|AudioBNC|MAR|~6;| |m|Ag0| |student|friend|PS14K|
-@ID: eng|AudioBNC|DOR|~36;| |f|Ag3| |probation officer|friend|PS14L|
-@ID: eng|AudioBNC|JAM|~2;| |m|Ag0| |pre-school|friend|PS14M|
-@ID: eng|AudioBNC|BRY|~2;| |f|Ag0| |pre-school|friend|PS14N|
-@ID: eng|AudioBNC|RIC|~2;| |m|Ag0| |pre-school|friend|PS14P|
-@ID: eng|AudioBNC|SAL|~10;| |f|Ag0| |student|friend|PS15B|
-@ID: eng|AudioBNC|KAT|~32;| |f|Ag2| |housewife|friend|PS16G|
-@ID: eng|AudioBNC|MAG|~30;| |f|Ag2| |childminder|friend|PS17G|
-@ID: eng|AudioBNC|JEA|~35;| |f|Ag3| |housewife|acquaintance|PS50S|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|ANN|~53;| |f|Ag4| |registered childminder||PS14B|
+@ID: eng|CABNC|JAM|~57;| |m|Ag4| |charge nurse|husband|PS14C|
+@ID: eng|CABNC|MAR|~6;| |m|Ag0| |student|friend|PS14K|
+@ID: eng|CABNC|DOR|~36;| |f|Ag3| |probation officer|friend|PS14L|
+@ID: eng|CABNC|JAM|~2;| |m|Ag0| |pre-school|friend|PS14M|
+@ID: eng|CABNC|BRY|~2;| |f|Ag0| |pre-school|friend|PS14N|
+@ID: eng|CABNC|RIC|~2;| |m|Ag0| |pre-school|friend|PS14P|
+@ID: eng|CABNC|SAL|~10;| |f|Ag0| |student|friend|PS15B|
+@ID: eng|CABNC|KAT|~32;| |f|Ag2| |housewife|friend|PS16G|
+@ID: eng|CABNC|MAG|~30;| |f|Ag2| |childminder|friend|PS17G|
+@ID: eng|CABNC|JEA|~35;| |f|Ag3| |housewife|acquaintance|PS50S|
 @Media: 021A-C0897X0707XX-AAZZP0.wav, audio 		
 @Date:	1992-04-07:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0707XX-AAZZP0.wav
 @Comment:	conversation #30 (Tape 070701)

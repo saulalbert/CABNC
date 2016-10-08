@@ -3,16 +3,16 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , ANN Ann self, HEL Helen daughter, JON Jonathan son, CHR Christian colleague, RIC Richard grandson
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
-@ID: eng|AudioBNC|HEL|~22;| |f|Ag1| |housewife|daughter|PS02X|
-@ID: eng|AudioBNC|JON|~17;| |m|Ag1| |Youth Training Scheme trainee|son|PS02Y|
-@ID: eng|AudioBNC|CHR|~19;| |m|Ag1| |process worker|colleague|PS030|
-@ID: eng|AudioBNC|RIC|~2;| |m|Ag0| |pre-school|grandson|PS031|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
+@ID: eng|CABNC|HEL|~22;| |f|Ag1| |housewife|daughter|PS02X|
+@ID: eng|CABNC|JON|~17;| |m|Ag1| |Youth Training Scheme trainee|son|PS02Y|
+@ID: eng|CABNC|CHR|~19;| |m|Ag1| |process worker|colleague|PS030|
+@ID: eng|CABNC|RIC|~2;| |m|Ag0| |pre-school|grandson|PS031|
 @Media: 021A-C0897X0186XX-AAZZP0.wav, audio 		
 @Date:	1991-11-30:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  coffee shop  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0186XX-AAZZP0.wav
 @Comment:	conversation #22 (Tape 018601)

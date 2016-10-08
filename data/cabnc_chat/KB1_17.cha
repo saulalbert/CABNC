@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , ALB Albert self, JUN June wife, COR Corrinne daughter
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|ALB|~53;| |m|Ag4| |unemployed||PS01A|
-@ID: eng|AudioBNC|JUN|~47;| |f|Ag4| |forecourt attendant|wife|PS01B|
-@ID: eng|AudioBNC|COR|~18;| |f|Ag1| |student|daughter|PS01D|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|ALB|~53;| |m|Ag4| |unemployed||PS01A|
+@ID: eng|CABNC|JUN|~47;| |f|Ag4| |forecourt attendant|wife|PS01B|
+@ID: eng|CABNC|COR|~18;| |f|Ag1| |student|daughter|PS01D|
 @Media: 021A-C0897X0601XX-ABZZP0.wav, audio 		
 @Date:	1992-02-06:  
 @Situation:	  visiting  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  daughter's home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0601XX-ABZZP0.wav
 @Comment:	conversation #17 (Tape 060102)

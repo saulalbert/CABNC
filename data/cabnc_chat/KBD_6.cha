@@ -3,15 +3,15 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , BAR Barry self, ALA Alan employee, UNK Unknown Unknown None ?, UNK Unknown Unknown None employee's wife
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|BAR|~41;| |m|Ag3| |entertainments consultant||PS03W|
-@ID: eng|AudioBNC|ALA|~38;| |m|Ag3| |security|employee|PS040|
-@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS041|
-@ID: eng|AudioBNC|UNK|~35;| |f|Ag3| |housewife|employee's wife|PS044|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|BAR|~41;| |m|Ag3| |entertainments consultant||PS03W|
+@ID: eng|CABNC|ALA|~38;| |m|Ag3| |security|employee|PS040|
+@ID: eng|CABNC|UNK|unknown |u|X| |role unspecified|PS041|
+@ID: eng|CABNC|UNK|~35;| |f|Ag3| |housewife|employee's wife|PS044|
 @Media: 021A-C0897X0639XX-ABZZPO.wav, audio 		
 @Date:	1992-02-01:  
 @Situation:	  at work  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  nightclub  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0639XX-ABZZPO.wav
 @Comment:	conversation #6 (Tape 063906)

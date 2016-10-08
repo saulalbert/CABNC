@@ -3,15 +3,15 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , FRE Fred self, CLI Clive son-in-law, MAR Marjorie daughter, GEM Gemma granddaughter
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|FRE|~77;| |m|Ag5| |retired||PS09T|
-@ID: eng|AudioBNC|CLI|~32;| |m|Ag2| |unemployed|son-in-law|PS09W|
-@ID: eng|AudioBNC|MAR|~36;| |f|Ag3| |housewife|daughter|PS09X|
-@ID: eng|AudioBNC|GEM|~11;| |f|Ag0| |student|granddaughter|PS09Y|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|FRE|~77;| |m|Ag5| |retired||PS09T|
+@ID: eng|CABNC|CLI|~32;| |m|Ag2| |unemployed|son-in-law|PS09W|
+@ID: eng|CABNC|MAR|~36;| |f|Ag3| |housewife|daughter|PS09X|
+@ID: eng|CABNC|GEM|~11;| |f|Ag0| |student|granddaughter|PS09Y|
 @Media: 021A-C0897X0262XX-ABZZPO.wav, audio 		
 @Date:	1992-03-18:  
 @Situation:	  visiting daughter  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0262XX-ABZZPO.wav
 @Comment:	conversation #8 (Tape 026201)
 *MAR:	Have you got any homework? •105222_106132•

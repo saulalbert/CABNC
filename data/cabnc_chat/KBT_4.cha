@@ -3,17 +3,17 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , DEA Dean self, JOH John friend, DAV David friend, MIC Michael friend, EDD Eddie friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|DEA|~32;| |m|Ag2| |miner chargehand||PS07E|
-@ID: eng|AudioBNC|JOH|~40;| |m|Ag3| |unemployed|friend|PS07F|
-@ID: eng|AudioBNC|DAV|~28;| |m|Ag2| |unemployed|friend|PS07G|
-@ID: eng|AudioBNC|MIC|~38;| |m|Ag3| |sales representative|friend|PS07H|
-@ID: eng|AudioBNC|EDD|~37;| |m|Ag3| |lorry driver|friend|PS07J|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|DEA|~32;| |m|Ag2| |miner chargehand||PS07E|
+@ID: eng|CABNC|JOH|~40;| |m|Ag3| |unemployed|friend|PS07F|
+@ID: eng|CABNC|DAV|~28;| |m|Ag2| |unemployed|friend|PS07G|
+@ID: eng|CABNC|MIC|~38;| |m|Ag3| |sales representative|friend|PS07H|
+@ID: eng|CABNC|EDD|~37;| |m|Ag3| |lorry driver|friend|PS07J|
 @Media: 021A-C0897X0603XX-AAZZP0.wav, audio 		
 @Date:	1992-02-01:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0603XX-AAZZP0.wav
 @Comment:	conversation #4 (Tape 060304)
 *DEA:	I got thirty quid when I finish  Leeds and er  twenty five quid when I finish  Leeds, and a fiver when I'm finishing   Liverpool  •112368_113084•

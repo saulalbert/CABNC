@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , COL Colin self, SHE Sheila wife, NIG Nigel friend, NEI Neil son
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|COL|unknown |m|X| |British Rail employee||PS069|
-@ID: eng|AudioBNC|SHE|unknown |f|X| |housekeeper|wife|PS10D|
-@ID: eng|AudioBNC|NIG|unknown |m|X| |electrician|friend|PS10E|
-@ID: eng|AudioBNC|NEI|unknown |m|X| |unemployed|son|PS10F|		
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|COL|unknown |m|X| |British Rail employee||PS069|
+@ID: eng|CABNC|SHE|unknown |f|X| |housekeeper|wife|PS10D|
+@ID: eng|CABNC|NIG|unknown |m|X| |electrician|friend|PS10E|
+@ID: eng|CABNC|NEI|unknown |m|X| |unemployed|son|PS10F|		
 @Date:	1991-02:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Comment:	conversation #21 (Tape 036012)File not found : 
 *NIG:	Eh? •_•
 *NEI:	Electric shower. •_•

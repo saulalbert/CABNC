@@ -3,13 +3,13 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , FRE Fred self, FLO Florence wife
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|FRE|~77;| |m|Ag5| |retired||PS09T|
-@ID: eng|AudioBNC|FLO|~71;| |f|Ag5| |retired|wife|PS09U|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|FRE|~77;| |m|Ag5| |retired||PS09T|
+@ID: eng|CABNC|FLO|~71;| |f|Ag5| |retired|wife|PS09U|
 @Media: 021A-C0897X0260XX-AAZZP0.wav, audio 		
 @Date:	1992-03-13:  
 @Situation:	  talking to wife  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0260XX-AAZZP0.wav
 @Comment:	conversation #1 (Tape 026001)

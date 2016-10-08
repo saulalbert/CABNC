@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , ANG Angela self, SUE Sue friend, BEN Ben son
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|ANG|~29;| |f|Ag2| |out work (pt)||PS029|
-@ID: eng|AudioBNC|SUE|~29;| |f|Ag2| |hairdresser|friend|PS02E|
-@ID: eng|AudioBNC|BEN|~3;| |m|Ag0| |student (state pre)|son|PS02F|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|ANG|~29;| |f|Ag2| |out work (pt)||PS029|
+@ID: eng|CABNC|SUE|~29;| |f|Ag2| |hairdresser|friend|PS02E|
+@ID: eng|CABNC|BEN|~3;| |m|Ag0| |student (state pre)|son|PS02F|
 @Media: 021A-C0897X0113XX-ABZZPO.wav, audio 		
 @Date:	1991-12-06:  
 @Situation:	 Having hair cut 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0113XX-ABZZPO.wav
 @Comment:	conversation #8 (Tape 011308)

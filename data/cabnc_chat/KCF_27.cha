@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , STU Stuart daughter's boyfriend, SAL Sally friend, EDD Eddie friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|STU|~22;| |m|Ag1| |hairdresser|daughter's boyfriend|PS1ER|
-@ID: eng|AudioBNC|SAL|~80;| |f|Ag5| |retired|friend|PS1EV|
-@ID: eng|AudioBNC|EDD|~72;| |m|Ag5| |retired|friend|PS1EW|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|STU|~22;| |m|Ag1| |hairdresser|daughter's boyfriend|PS1ER|
+@ID: eng|CABNC|SAL|~80;| |f|Ag5| |retired|friend|PS1EV|
+@ID: eng|CABNC|EDD|~72;| |m|Ag5| |retired|friend|PS1EW|
 @Media: 021A-C0897X0286XX-AAZZP0.wav, audio 		
 @Date:	1992-03-19:  
 @Situation:	 visiting a patient 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 Mold Community Hospital 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0286XX-AAZZP0.wav
 @Comment:	conversation #27 (Tape 028603)

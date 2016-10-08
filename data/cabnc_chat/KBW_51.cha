@@ -3,16 +3,16 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , DOR Dorothy self, AND Andrew husband, ROS Rosemary friend, MAR Mary friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
-@ID: eng|AudioBNC|AND|~36;| |m|Ag3| |purchasing manager|husband|PS08A|
-@ID: eng|AudioBNC|ROS|~50;| |f|Ag4| |housewife|friend|PS0XU|
-@ID: eng|AudioBNC|MAR|~45;| |f|Ag4| |drawing plans|friend|PS0XV|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
+@ID: eng|CABNC|AND|~36;| |m|Ag3| |purchasing manager|husband|PS08A|
+@ID: eng|CABNC|ROS|~50;| |f|Ag4| |housewife|friend|PS0XU|
+@ID: eng|CABNC|MAR|~45;| |f|Ag4| |drawing plans|friend|PS0XV|
 @Media: 021A-C0897X0230XX-ABZZPO.wav, audio 		
 @Date:	1992-03-18:  
 @Situation:	  having tea  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0230XX-ABZZPO.wav
 @Comment:	conversation #51 (Tape 023001)

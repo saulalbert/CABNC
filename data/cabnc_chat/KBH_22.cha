@@ -3,15 +3,15 @@
 @Languages:     eng
 @Participants:	CAR Carole self, JOE Joelle employee, ADA Adam husband, CHA Charlotte daughter, RON Ron father, PAT Pat mother
 @Options:	CA
-@ID: eng|AudioBNC|CAR|~36;| |f|Ag3| |administrator (pt)||PS05B|
-@ID: eng|AudioBNC|JOE|~18;| |f|Ag1| |au pair|employee|PS05C|
-@ID: eng|AudioBNC|ADA|~36;| |m|Ag3| |textile agent|husband|PS05D|
-@ID: eng|AudioBNC|CHA|~2;| |f|Ag0| |pre-school|daughter|PS05E|
-@ID: eng|AudioBNC|RON|~60+;| |m|Ag5| |retired|father|PS05H|
-@ID: eng|AudioBNC|PAT|~60+;| |f|Ag5| |retired|mother|PS05J|		
+@ID: eng|CABNC|CAR|~36;| |f|Ag3| |administrator (pt)||PS05B|
+@ID: eng|CABNC|JOE|~18;| |f|Ag1| |au pair|employee|PS05C|
+@ID: eng|CABNC|ADA|~36;| |m|Ag3| |textile agent|husband|PS05D|
+@ID: eng|CABNC|CHA|~2;| |f|Ag0| |pre-school|daughter|PS05E|
+@ID: eng|CABNC|RON|~60+;| |m|Ag5| |retired|father|PS05H|
+@ID: eng|CABNC|PAT|~60+;| |f|Ag5| |retired|mother|PS05J|		
 @Date:	1991-05-31:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  home  
 @Comment:	conversation #22 (Tape 004105)File not found : 
 *RON:	You know, roll over on her side. •_•

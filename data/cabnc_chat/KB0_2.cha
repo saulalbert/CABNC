@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , IDA Ida stranger, ALA Alan self
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|IDA|~40;| |f|Ag3| |shop assistant|stranger|PS005|
-@ID: eng|AudioBNC|ALA|~79;| |m|Ag5| |retired (lecturer and missionary)||PS007|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|IDA|~40;| |f|Ag3| |shop assistant|stranger|PS005|
+@ID: eng|CABNC|ALA|~79;| |m|Ag5| |retired (lecturer and missionary)||PS007|
 @Media: 021A-C0897X0288XX-AAZZP0.wav, audio 		
 @Date:	1992-03-13:  
 @Situation:	 buying 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 farm shop 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0288XX-AAZZP0.wav
 @Comment:	conversation #2 (Tape 028802)

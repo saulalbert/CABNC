@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , DOR Dorothy self, TIM Tim son, CHR Christopher son
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
-@ID: eng|AudioBNC|TIM|~3;| |m|Ag0| |student (private pre)|son|PS088|
-@ID: eng|AudioBNC|CHR|~5;| |m|Ag0| |student (state primary)|son|PS089|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
+@ID: eng|CABNC|TIM|~3;| |m|Ag0| |student (private pre)|son|PS088|
+@ID: eng|CABNC|CHR|~5;| |m|Ag0| |student (state primary)|son|PS089|
 @Media: 021A-C0897X0228XX-ABZZPO.wav, audio 		
 @Date:	1992-03-18:  
 @Situation:	  taking 3 to school  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  out  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0228XX-ABZZPO.wav
 @Comment:	conversation #43 (Tape 022803)

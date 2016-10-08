@@ -3,18 +3,18 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , STE Stephen self, UNK Unknown Unknown None ?, UNK Unknown Unknown None ?, UNK Unknown Unknown None ?, UNK Unknown Unknown None ?, UNK Unknown Unknown None ?
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|STE|~17;| |m|Ag1| |student||PS0TU|
-@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS0TV|
-@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS0TW|
-@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS0TX|
-@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS0TY|
-@ID: eng|AudioBNC|UNK|unknown |u|X| |role unspecified|PS0U0|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|STE|~17;| |m|Ag1| |student||PS0TU|
+@ID: eng|CABNC|UNK|unknown |u|X| |role unspecified|PS0TV|
+@ID: eng|CABNC|UNK|unknown |u|X| |role unspecified|PS0TW|
+@ID: eng|CABNC|UNK|unknown |u|X| |role unspecified|PS0TX|
+@ID: eng|CABNC|UNK|unknown |u|X| |role unspecified|PS0TY|
+@ID: eng|CABNC|UNK|unknown |u|X| |role unspecified|PS0U0|
 @Media: 021A-C0897X0467XX-AAZZP0.wav, audio 		
 @Date:	1992-04-10:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0467XX-AAZZP0.wav
 @Comment:	conversation #1 (Tape 046702)

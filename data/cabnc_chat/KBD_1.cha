@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , BAR Barry self, TER Terri employee, HUG Hugh employee
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|BAR|~41;| |m|Ag3| |entertainments consultant||PS03W|
-@ID: eng|AudioBNC|TER|~35;| |f|Ag3| |bar staff|employee|PS03X|
-@ID: eng|AudioBNC|HUG|~30;| |m|Ag2| |bar staff|employee|PS03Y|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|BAR|~41;| |m|Ag3| |entertainments consultant||PS03W|
+@ID: eng|CABNC|TER|~35;| |f|Ag3| |bar staff|employee|PS03X|
+@ID: eng|CABNC|HUG|~30;| |m|Ag2| |bar staff|employee|PS03Y|
 @Media: 021A-C0897X0639XX-AAZZP0.wav, audio 		
 @Date:	1992-02-01:  
 @Situation:	  at work  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  nightclub  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0639XX-AAZZP0.wav
 @Comment:	conversation #1 (Tape 063901)

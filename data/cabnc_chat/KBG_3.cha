@@ -3,17 +3,17 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , CAR Carl self, SUS Susan wife, CHR Christopher son, REB Rebecca daughter, AND Andrew son
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|CAR|~34;| |m|Ag2| |teacher||PS051|
-@ID: eng|AudioBNC|SUS|~33;| |f|Ag2| |teacher (pt)|wife|PS052|
-@ID: eng|AudioBNC|CHR|~4;| |m|Ag0| |pre-school|son|PS053|
-@ID: eng|AudioBNC|REB|~1;| |f|Ag0| |pre-school|daughter|PS054|
-@ID: eng|AudioBNC|AND|~7;| |m|Ag0| |student (primary)|son|PS055|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|CAR|~34;| |m|Ag2| |teacher||PS051|
+@ID: eng|CABNC|SUS|~33;| |f|Ag2| |teacher (pt)|wife|PS052|
+@ID: eng|CABNC|CHR|~4;| |m|Ag0| |pre-school|son|PS053|
+@ID: eng|CABNC|REB|~1;| |f|Ag0| |pre-school|daughter|PS054|
+@ID: eng|CABNC|AND|~7;| |m|Ag0| |student (primary)|son|PS055|
 @Media: 021A-C0897X0336XX-ABZZPO.wav, audio 		
 @Date:	1992-02-22:  
 @Situation:	  having breakfast  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0336XX-ABZZPO.wav
 @Comment:	conversation #3 (Tape 033604)

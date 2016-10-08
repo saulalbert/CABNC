@@ -3,15 +3,15 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , CHR Chris son, KEV Kevin son-in-law, DAV Dave friend, ACH Achmed friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|CHR|~26;| |m|Ag2| |warehouse op|son|PS1DC|
-@ID: eng|AudioBNC|KEV|~31;| |m|Ag2| |warehouse op|son-in-law|PS1DD|
-@ID: eng|AudioBNC|DAV|~20;| |m|Ag1| |warehouse op|friend|PS1DE|
-@ID: eng|AudioBNC|ACH|~30;| |m|Ag2| |warehouse op|friend|PS1DF|		
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|CHR|~26;| |m|Ag2| |warehouse op|son|PS1DC|
+@ID: eng|CABNC|KEV|~31;| |m|Ag2| |warehouse op|son-in-law|PS1DD|
+@ID: eng|CABNC|DAV|~20;| |m|Ag1| |warehouse op|friend|PS1DE|
+@ID: eng|CABNC|ACH|~30;| |m|Ag2| |warehouse op|friend|PS1DF|		
 @Date:	1991-11-30:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 Warehouse 
 @Comment:	conversation #6 (Tape 009906)File not found : 
 *CHR:	I'll be watching Jaws tonight  •_•

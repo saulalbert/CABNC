@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , TER Terence self, MAR Margaret wife, CHR Christine friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|TER|~70;| |m|Ag5| |retired (headteacher)||PS0W2|
-@ID: eng|AudioBNC|MAR|~70;| |f|Ag5| |retired|wife|PS0W4|
-@ID: eng|AudioBNC|CHR|~40;| |f|Ag3| |housewife|friend|PS0W9|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|TER|~70;| |m|Ag5| |retired (headteacher)||PS0W2|
+@ID: eng|CABNC|MAR|~70;| |f|Ag5| |retired|wife|PS0W4|
+@ID: eng|CABNC|CHR|~40;| |f|Ag3| |housewife|friend|PS0W9|
 @Media: 021A-C0897X0384XX-AAZZP0.wav, audio 		
 @Date:	1992-02-21:  
 @Situation:	 cooking and eating evening meal 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 at home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0384XX-AAZZP0.wav
 @Comment:	conversation #29 (Tape 038403)

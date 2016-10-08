@@ -3,16 +3,16 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , BET Betty self, GOO Googie friend, JUL Julie friend, SAL Sally daughter
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|BET|~57;| |f|Ag4| |housewife||PS04B|
-@ID: eng|AudioBNC|GOO|~76;| |f|Ag5| |housewife|friend|PS04C|
-@ID: eng|AudioBNC|JUL|~25;| |f|Ag2| |production worker|friend|PS04F|
-@ID: eng|AudioBNC|SAL|~23;| |f|Ag1| |production worker|daughter|PS04H|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|BET|~57;| |f|Ag4| |housewife||PS04B|
+@ID: eng|CABNC|GOO|~76;| |f|Ag5| |housewife|friend|PS04C|
+@ID: eng|CABNC|JUL|~25;| |f|Ag2| |production worker|friend|PS04F|
+@ID: eng|CABNC|SAL|~23;| |f|Ag1| |production worker|daughter|PS04H|
 @Media: 021A-C0897X0092XX-ABZZPO.wav, audio 		
 @Date:	unknown date:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0092XX-ABZZPO.wav
 @Comment:	conversation #14 (Tape 009204)
 *JUL:	Whose is it? •44395_45445•

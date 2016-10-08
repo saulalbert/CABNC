@@ -3,15 +3,15 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , GAV Gavin self, SUE Sue fiancÃ©e, TER Terry friend, LIN Lindsey friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|GAV|~25;| |m|Ag2| |photographer||PS0BA|
-@ID: eng|AudioBNC|SUE|~24;| |f|Ag1| |sales assistant|fiancÃ©e|PS0BB|
-@ID: eng|AudioBNC|TER|~26;| |m|Ag2| |hairdresser|friend|PS0BD|
-@ID: eng|AudioBNC|LIN|~24;| |f|Ag1| |hairdresser|friend|PS0BE|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|GAV|~25;| |m|Ag2| |photographer||PS0BA|
+@ID: eng|CABNC|SUE|~24;| |f|Ag1| |sales assistant|fiancÃ©e|PS0BB|
+@ID: eng|CABNC|TER|~26;| |m|Ag2| |hairdresser|friend|PS0BD|
+@ID: eng|CABNC|LIN|~24;| |f|Ag1| |hairdresser|friend|PS0BE|
 @Media: 021A-C0897X0556XX-ABZZPO.wav, audio 		
 @Date:	1992-01-11:  
 @Situation:	 relaxing in friends' house 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 at friends' house 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0556XX-ABZZPO.wav
 @Comment:	conversation #5 (Tape 055605)

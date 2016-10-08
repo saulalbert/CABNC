@@ -3,19 +3,19 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , DOR Dorothy self, SUE Sue friend, MAR Margaret stranger, ROG Roger friend, JUN June acquaintance, JEA Jean friend, PAT Pat friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
-@ID: eng|AudioBNC|SUE|~40;| |f|Ag3| |teacher|friend|PS08P|
-@ID: eng|AudioBNC|MAR|~60+;| |f|Ag5| |retired|stranger|PS08S|
-@ID: eng|AudioBNC|ROG|~45;| |m|Ag4| |teacher|friend|PS08T|
-@ID: eng|AudioBNC|JUN|~60;| |f|Ag5| |teacher|acquaintance|PS08U|
-@ID: eng|AudioBNC|JEA|~60;| |f|Ag5| |retired|friend|PS08V|
-@ID: eng|AudioBNC|PAT|~30+;| |f|Ag2| |teacher|friend|PS0XM|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
+@ID: eng|CABNC|SUE|~40;| |f|Ag3| |teacher|friend|PS08P|
+@ID: eng|CABNC|MAR|~60+;| |f|Ag5| |retired|stranger|PS08S|
+@ID: eng|CABNC|ROG|~45;| |m|Ag4| |teacher|friend|PS08T|
+@ID: eng|CABNC|JUN|~60;| |f|Ag5| |teacher|acquaintance|PS08U|
+@ID: eng|CABNC|JEA|~60;| |f|Ag5| |retired|friend|PS08V|
+@ID: eng|CABNC|PAT|~30+;| |f|Ag2| |teacher|friend|PS0XM|
 @Media: 021A-C0897X0224XX-AAZZP0.wav, audio 		
 @Date:	1992-03-15:  
 @Situation:	  chatting after evening service  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0224XX-AAZZP0.wav
 @Comment:	conversation #17 (Tape 022401)

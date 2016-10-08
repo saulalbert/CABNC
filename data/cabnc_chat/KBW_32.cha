@@ -3,16 +3,16 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , DOR Dorothy self, TIM Tim son, GWE Gwen friend, LIL Lily acquaintance
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
-@ID: eng|AudioBNC|TIM|~3;| |m|Ag0| |student (private pre)|son|PS088|
-@ID: eng|AudioBNC|GWE|~50;| |f|Ag4| |teacher/nursery owner|friend|PS0XN|
-@ID: eng|AudioBNC|LIL|~40;| |f|Ag3| |nursery assistant|acquaintance|PS0XP|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
+@ID: eng|CABNC|TIM|~3;| |m|Ag0| |student (private pre)|son|PS088|
+@ID: eng|CABNC|GWE|~50;| |f|Ag4| |teacher/nursery owner|friend|PS0XN|
+@ID: eng|CABNC|LIL|~40;| |f|Ag3| |nursery assistant|acquaintance|PS0XP|
 @Media: 021A-C0897X0226XX-ABZZPO.wav, audio 		
 @Date:	1992-03-17:  
 @Situation:	  settling 2 in at nursry  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  nursery school  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0226XX-ABZZPO.wav
 @Comment:	conversation #32 (Tape 022604)

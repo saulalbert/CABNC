@@ -3,19 +3,19 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , HEL Helena self, EMM Emma friend, DAV David brother, JOA Joanne friend, AND Andy friend, SCO Scott friend, MAR mark/shrimpy friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|HEL|~16;| |f|Ag1| |student||PS0EB|
-@ID: eng|AudioBNC|EMM|~16;| |f|Ag1| |student|friend|PS0EC|
-@ID: eng|AudioBNC|DAV|~17;| |m|Ag1| |student|brother|PS0EE|
-@ID: eng|AudioBNC|JOA|~13;| |f|Ag0| |student|friend|PS0EF|
-@ID: eng|AudioBNC|AND|~18;| |m|Ag1| |insurance clerk|friend|PS0EG|
-@ID: eng|AudioBNC|SCO|~19;| |m|Ag1| |student|friend|PS0EH|
-@ID: eng|AudioBNC|MAR|~18;| |m|Ag1| |spring inspector|friend|PS0EJ|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|HEL|~16;| |f|Ag1| |student||PS0EB|
+@ID: eng|CABNC|EMM|~16;| |f|Ag1| |student|friend|PS0EC|
+@ID: eng|CABNC|DAV|~17;| |m|Ag1| |student|brother|PS0EE|
+@ID: eng|CABNC|JOA|~13;| |f|Ag0| |student|friend|PS0EF|
+@ID: eng|CABNC|AND|~18;| |m|Ag1| |insurance clerk|friend|PS0EG|
+@ID: eng|CABNC|SCO|~19;| |m|Ag1| |student|friend|PS0EH|
+@ID: eng|CABNC|MAR|~18;| |m|Ag1| |spring inspector|friend|PS0EJ|
 @Media: 021A-C0897X0295XX-AAZZP0.wav, audio 		
 @Date:	1992-03-13:  
 @Situation:	  talking with friends  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  friends house  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0295XX-AAZZP0.wav
 @Comment:	conversation #7 (Tape 029501)

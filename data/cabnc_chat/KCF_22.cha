@@ -3,12 +3,12 @@
 @Languages:     eng
 @Participants:	IRI Iris self, MAR Mary mother
 @Options:	CA
-@ID: eng|AudioBNC|IRI|~54;| |f|Ag4| |home care assistant||PS1EN|
-@ID: eng|AudioBNC|MAR|~76;| |f|Ag5| |housewife|mother|PS1ET|
+@ID: eng|CABNC|IRI|~54;| |f|Ag4| |home care assistant||PS1EN|
+@ID: eng|CABNC|MAR|~76;| |f|Ag5| |housewife|mother|PS1ET|
 @Media: 021A-C0897X0285XX-AAZZP0.wav, audio 		
 @Date:	1992-03-19:  
 @Situation:	 talking 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0285XX-AAZZP0.wav
 @Comment:	conversation #22 (Tape 028501)

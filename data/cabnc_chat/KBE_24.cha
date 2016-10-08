@@ -3,17 +3,17 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , BET Betty self, ROS Rose friend, WEN Wendy friend, SAL Sally daughter, DAV David husband
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|BET|~57;| |f|Ag4| |housewife||PS04B|
-@ID: eng|AudioBNC|ROS|~64;| |f|Ag5| |housewife|friend|PS04D|
-@ID: eng|AudioBNC|WEN|~33;| |f|Ag2| |housewife|friend|PS04E|
-@ID: eng|AudioBNC|SAL|~23;| |f|Ag1| |production worker|daughter|PS04H|
-@ID: eng|AudioBNC|DAV|~55;| |m|Ag4| |disabled unemployed|husband|PS04J|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|BET|~57;| |f|Ag4| |housewife||PS04B|
+@ID: eng|CABNC|ROS|~64;| |f|Ag5| |housewife|friend|PS04D|
+@ID: eng|CABNC|WEN|~33;| |f|Ag2| |housewife|friend|PS04E|
+@ID: eng|CABNC|SAL|~23;| |f|Ag1| |production worker|daughter|PS04H|
+@ID: eng|CABNC|DAV|~55;| |m|Ag4| |disabled unemployed|husband|PS04J|
 @Media: 021A-C0897X0094XX-ABZZPO.wav, audio 		
 @Date:	1991-12:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  Home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0094XX-ABZZPO.wav
 @Comment:	conversation #24 (Tape 009406)

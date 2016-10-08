@@ -3,13 +3,13 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , DON Donald self, ANN Anna friend, MAR Mary friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|DON|~56;| |m|Ag4| |taxi driver||PS1DW|
-@ID: eng|AudioBNC|ANN|~60;| |f|Ag5| |housewife|friend|PS1DX|
-@ID: eng|AudioBNC|MAR|~60;| |f|Ag5| |housewife|friend|PS1DY|		
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|DON|~56;| |m|Ag4| |taxi driver||PS1DW|
+@ID: eng|CABNC|ANN|~60;| |f|Ag5| |housewife|friend|PS1DX|
+@ID: eng|CABNC|MAR|~60;| |f|Ag5| |housewife|friend|PS1DY|		
 @Date:	1992-01-11:  
 @Situation:	 talking to friends 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Comment:	conversation #5 (Tape 058603)File not found : 
 *DON:	We're plugged in •_•
 *ANN:	Oh we're plugged in  right •_•

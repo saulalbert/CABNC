@@ -3,13 +3,13 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , WEN Wendy self, BEV Bev daughter
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|WEN|~54;| |f|Ag4| |machine minder||PS0X8|
-@ID: eng|AudioBNC|BEV|~25;| |f|Ag2| |unemployed|daughter|PS0X9|		
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|WEN|~54;| |f|Ag4| |machine minder||PS0X8|
+@ID: eng|CABNC|BEV|~25;| |f|Ag2| |unemployed|daughter|PS0X9|		
 @Date:	1992-02-27:  
 @Situation:	 walking 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 out 
 @Comment:	conversation #48 (Tape 037602)File not found : 
 *WEN:	Hello mummy, where are you? •_•

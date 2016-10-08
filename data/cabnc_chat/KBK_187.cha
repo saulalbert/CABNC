@@ -3,13 +3,13 @@
 @Languages:     eng
 @Participants:	CHR Chris self, BIL Bill neighbour, DAV David neighbour, EVE Evelyn stranger
 @Options:	CA
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|BIL|~30+;| |m|Ag2| |plastics company director|neighbour|PS104|
-@ID: eng|AudioBNC|DAV|~45;| |m|Ag4| |property manager|neighbour|PS107|
-@ID: eng|AudioBNC|EVE|~60+;| |f|Ag5| |retired|stranger|PS108|		
+@ID: eng|CABNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|CABNC|BIL|~30+;| |m|Ag2| |plastics company director|neighbour|PS104|
+@ID: eng|CABNC|DAV|~45;| |m|Ag4| |property manager|neighbour|PS107|
+@ID: eng|CABNC|EVE|~60+;| |f|Ag5| |retired|stranger|PS108|		
 @Date:	1991-06-01:  
 @Situation:	 playing croquet 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 Croquet club 
 @Comment:	conversation #187 (Tape 002810)File not found : 
 *CHR:	I didn't show you this David. •_•

@@ -3,17 +3,17 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , BAR Barry self, TER Terri employee, HUG Hugh employee, ALA Alan employee, KEN Ken employee
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|BAR|~41;| |m|Ag3| |entertainments consultant||PS03W|
-@ID: eng|AudioBNC|TER|~35;| |f|Ag3| |bar staff|employee|PS03X|
-@ID: eng|AudioBNC|HUG|~30;| |m|Ag2| |bar staff|employee|PS03Y|
-@ID: eng|AudioBNC|ALA|~38;| |m|Ag3| |security|employee|PS040|
-@ID: eng|AudioBNC|KEN|~30;| |m|Ag2| |security|employee|PS043|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|BAR|~41;| |m|Ag3| |entertainments consultant||PS03W|
+@ID: eng|CABNC|TER|~35;| |f|Ag3| |bar staff|employee|PS03X|
+@ID: eng|CABNC|HUG|~30;| |m|Ag2| |bar staff|employee|PS03Y|
+@ID: eng|CABNC|ALA|~38;| |m|Ag3| |security|employee|PS040|
+@ID: eng|CABNC|KEN|~30;| |m|Ag2| |security|employee|PS043|
 @Media: 021A-C0897X0639XX-ABZZPO.wav, audio 		
 @Date:	1992-02-01:  
 @Situation:	  at work  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  nightclub  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0639XX-ABZZPO.wav
 @Comment:	conversation #5 (Tape 063905)

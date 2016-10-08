@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , HER Herbert husband, IRI Iris self, GOR Gordon friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|HER|~56;| |m|Ag4| |landscape gardener|husband|PS1EM|
-@ID: eng|AudioBNC|IRI|~54;| |f|Ag4| |home care assistant||PS1EN|
-@ID: eng|AudioBNC|GOR|~72;| |m|Ag5| |retired|friend|PS1ES|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|HER|~56;| |m|Ag4| |landscape gardener|husband|PS1EM|
+@ID: eng|CABNC|IRI|~54;| |f|Ag4| |home care assistant||PS1EN|
+@ID: eng|CABNC|GOR|~72;| |m|Ag5| |retired|friend|PS1ES|
 @Media: 021A-C0897X0284XX-ABZZPO.wav, audio 		
 @Date:	1992-03-18:  
 @Situation:	 talking 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0284XX-ABZZPO.wav
 @Comment:	conversation #21 (Tape 028405)

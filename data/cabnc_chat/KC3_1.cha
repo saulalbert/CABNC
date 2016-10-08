@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , FRE Frederick self, JAN Janet friend, PET Peter friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|FRE|~66;| |m|Ag5| |retired (social worker)||PS0A8|
-@ID: eng|AudioBNC|JAN|~49;| |f|Ag4| |health visitor|friend|PS0A9|
-@ID: eng|AudioBNC|PET|~49;| |m|Ag4| |chemist|friend|PS0AA|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|FRE|~66;| |m|Ag5| |retired (social worker)||PS0A8|
+@ID: eng|CABNC|JAN|~49;| |f|Ag4| |health visitor|friend|PS0A9|
+@ID: eng|CABNC|PET|~49;| |m|Ag4| |chemist|friend|PS0AA|
 @Media: 021A-C0897X0516XX-AAZZP0.wav, audio 		
 @Date:	1992-01-10:  
 @Situation:	  just chatting  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  at home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0516XX-AAZZP0.wav
 @Comment:	conversation #1 (Tape 051602)

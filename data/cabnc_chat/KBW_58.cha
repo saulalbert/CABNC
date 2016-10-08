@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , DOR Dorothy self, TIM Tim son, MAR Marjorie mother
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
-@ID: eng|AudioBNC|TIM|~3;| |m|Ag0| |student (private pre)|son|PS088|
-@ID: eng|AudioBNC|MAR|~70;| |f|Ag5| |retired|mother|PS0XR|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
+@ID: eng|CABNC|TIM|~3;| |m|Ag0| |student (private pre)|son|PS088|
+@ID: eng|CABNC|MAR|~70;| |f|Ag5| |retired|mother|PS0XR|
 @Media: 021A-C0897X0232XX-AAZZP0.wav, audio 		
 @Date:	1992-03-20:  
 @Situation:	  talking  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  grandma's  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0232XX-AAZZP0.wav
 @Comment:	conversation #58 (Tape 023204)

@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	CAR Carole self, JOE Joelle employee, CHA Charlotte daughter, PAT Pat mother
 @Options:	CA
-@ID: eng|AudioBNC|CAR|~36;| |f|Ag3| |administrator (pt)||PS05B|
-@ID: eng|AudioBNC|JOE|~18;| |f|Ag1| |au pair|employee|PS05C|
-@ID: eng|AudioBNC|CHA|~2;| |f|Ag0| |pre-school|daughter|PS05E|
-@ID: eng|AudioBNC|PAT|~60+;| |f|Ag5| |retired|mother|PS05J|
+@ID: eng|CABNC|CAR|~36;| |f|Ag3| |administrator (pt)||PS05B|
+@ID: eng|CABNC|JOE|~18;| |f|Ag1| |au pair|employee|PS05C|
+@ID: eng|CABNC|CHA|~2;| |f|Ag0| |pre-school|daughter|PS05E|
+@ID: eng|CABNC|PAT|~60+;| |f|Ag5| |retired|mother|PS05J|
 @Media: 021A-C0897X0040XX-AAZZP0.wav, audio 		
 @Date:	1991-05-31:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0040XX-AAZZP0.wav
 @Comment:	conversation #15 (Tape 004007)

@@ -3,13 +3,13 @@
 @Languages:     eng
 @Participants:	IRI Iris self, GOR Gordon friend, MAR Mary mother
 @Options:	CA
-@ID: eng|AudioBNC|IRI|~54;| |f|Ag4| |home care assistant||PS1EN|
-@ID: eng|AudioBNC|GOR|~72;| |m|Ag5| |retired|friend|PS1ES|
-@ID: eng|AudioBNC|MAR|~76;| |f|Ag5| |housewife|mother|PS1ET|
+@ID: eng|CABNC|IRI|~54;| |f|Ag4| |home care assistant||PS1EN|
+@ID: eng|CABNC|GOR|~72;| |m|Ag5| |retired|friend|PS1ES|
+@ID: eng|CABNC|MAR|~76;| |f|Ag5| |housewife|mother|PS1ET|
 @Media: 021A-C0897X0284XX-AAZZP0.wav, audio 		
 @Date:	1992-03-18:  
 @Situation:	 talking after lunch 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0284XX-AAZZP0.wav
 @Comment:	conversation #18 (Tape 028402)

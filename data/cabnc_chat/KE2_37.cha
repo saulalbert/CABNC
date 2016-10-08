@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , TER Terence self, MIM Mima friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|TER|~70;| |m|Ag5| |retired (headteacher)||PS0W2|
-@ID: eng|AudioBNC|MIM|~50;| |f|Ag4| |housewife|friend|PS0WA|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|TER|~70;| |m|Ag5| |retired (headteacher)||PS0W2|
+@ID: eng|CABNC|MIM|~50;| |f|Ag4| |housewife|friend|PS0WA|
 @Media: 021A-C0897X0385XX-AAZZP0.wav, audio 		
 @Date:	1992-02-22:  
 @Situation:	 walking to paper shop 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 out 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0385XX-AAZZP0.wav
 @Comment:	conversation #37 (Tape 038503)

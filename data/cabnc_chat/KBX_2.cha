@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , DON Donald self, ANN Anna friend, MAR Mary friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|DON|~56;| |m|Ag4| |taxi driver||PS1DW|
-@ID: eng|AudioBNC|ANN|~60;| |f|Ag5| |housewife|friend|PS1DX|
-@ID: eng|AudioBNC|MAR|~60;| |f|Ag5| |housewife|friend|PS1DY|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|DON|~56;| |m|Ag4| |taxi driver||PS1DW|
+@ID: eng|CABNC|ANN|~60;| |f|Ag5| |housewife|friend|PS1DX|
+@ID: eng|CABNC|MAR|~60;| |f|Ag5| |housewife|friend|PS1DY|
 @Media: 021A-C0897X0585XX-ABZZP0.wav, audio 		
 @Date:	1992-01-10:  
 @Situation:	 talking to friends 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0585XX-ABZZP0.wav
 @Comment:	conversation #2 (Tape 058501)
 *DON:	I'll tell you the reason why I like to record what we say, somebody came to our house Thursday, did I mention it to you on the phone? •0325_7915•

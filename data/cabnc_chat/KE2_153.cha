@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	TER Terence self, MAR Margaret wife, LUC Lucy friend, CHR Christine friend
 @Options:	CA
-@ID: eng|AudioBNC|TER|~70;| |m|Ag5| |retired (headteacher)||PS0W2|
-@ID: eng|AudioBNC|MAR|~70;| |f|Ag5| |retired|wife|PS0W4|
-@ID: eng|AudioBNC|LUC|~13;| |f|Ag0| |student|friend|PS0W5|
-@ID: eng|AudioBNC|CHR|~40;| |f|Ag3| |housewife|friend|PS0W9|
+@ID: eng|CABNC|TER|~70;| |m|Ag5| |retired (headteacher)||PS0W2|
+@ID: eng|CABNC|MAR|~70;| |f|Ag5| |retired|wife|PS0W4|
+@ID: eng|CABNC|LUC|~13;| |f|Ag0| |student|friend|PS0W5|
+@ID: eng|CABNC|CHR|~40;| |f|Ag3| |housewife|friend|PS0W9|
 @Media: 021A-C0897X0398XX-ABZZP0.wav, audio 		
 @Date:	1992-02-27:  
 @Situation:	 talking 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 at home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0398XX-ABZZP0.wav
 @Comment:	conversation #153 (Tape 039809)

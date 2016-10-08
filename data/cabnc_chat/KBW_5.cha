@@ -3,15 +3,15 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , DOR Dorothy self, AND Andrew husband, DIA Diane friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
-@ID: eng|AudioBNC|AND|~36;| |m|Ag3| |purchasing manager|husband|PS08A|
-@ID: eng|AudioBNC|DIA|~38;| |f|Ag3| |housewife|friend|PS08D|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|DOR|~34;| |f|Ag2| |teacher (pt)||PS087|
+@ID: eng|CABNC|AND|~36;| |m|Ag3| |purchasing manager|husband|PS08A|
+@ID: eng|CABNC|DIA|~38;| |f|Ag3| |housewife|friend|PS08D|
 @Media: 021A-C0897X0221XX-AAZZP0.wav, audio 		
 @Date:	1992-03-14:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  church  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0221XX-AAZZP0.wav
 @Comment:	conversation #5 (Tape 022103)

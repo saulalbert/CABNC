@@ -3,13 +3,13 @@
 @Languages:     eng
 @Participants:	VAL Valerie self, JAC Jackie daughter, DAV David son
 @Options:	CA
-@ID: eng|AudioBNC|VAL|~36;| |f|Ag3| |staff nurse (pt)||PS0WN|
-@ID: eng|AudioBNC|JAC|~8;| |f|Ag0| |student (state primary)|daughter|PS0WR|
-@ID: eng|AudioBNC|DAV|~10;| |m|Ag0| |student (state primary)|son|PS0WS|
+@ID: eng|CABNC|VAL|~36;| |f|Ag3| |staff nurse (pt)||PS0WN|
+@ID: eng|CABNC|JAC|~8;| |f|Ag0| |student (state primary)|daughter|PS0WR|
+@ID: eng|CABNC|DAV|~10;| |m|Ag0| |student (state primary)|son|PS0WS|
 @Media: 021A-C0897X0674XX-ABZZP0.wav, audio 		
 @Date:	1992-01-31:  
 @Situation:	 household chores 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 at home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0674XX-ABZZP0.wav
 @Comment:	conversation #11 (Tape 067403)

@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , IRI Iris self, ALI Alison daughter, STU Stuart daughter's boyfriend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|IRI|~54;| |f|Ag4| |home care assistant||PS1EN|
-@ID: eng|AudioBNC|ALI|~21;| |f|Ag1| |landscape gardener|daughter|PS1EP|
-@ID: eng|AudioBNC|STU|~22;| |m|Ag1| |hairdresser|daughter's boyfriend|PS1ER|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|IRI|~54;| |f|Ag4| |home care assistant||PS1EN|
+@ID: eng|CABNC|ALI|~21;| |f|Ag1| |landscape gardener|daughter|PS1EP|
+@ID: eng|CABNC|STU|~22;| |m|Ag1| |hairdresser|daughter's boyfriend|PS1ER|
 @Media: 021A-C0897X0285XX-AAZZP0.wav, audio 		
 @Date:	1992-03-19:  
 @Situation:	 having dinner conversation (for a lot of the time Stuart is putting on an upper class accent, and so not being very naural!) 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0285XX-AAZZP0.wav
 @Comment:	conversation #23 (Tape 028502)

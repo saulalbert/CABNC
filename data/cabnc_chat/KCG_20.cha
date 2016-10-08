@@ -3,13 +3,13 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , JAN Jane self, STA Stacey daughter
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|JAN|~33;| |f|Ag2| |housewife||PS19L|
-@ID: eng|AudioBNC|STA|~7;| |f|Ag0| |student (state primary)|daughter|PS19N|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|JAN|~33;| |f|Ag2| |housewife||PS19L|
+@ID: eng|CABNC|STA|~7;| |f|Ag0| |student (state primary)|daughter|PS19N|
 @Media: 021A-C0897X0740XX-ABZZPO.wav, audio 		
 @Date:	1992-04-09:  
 @Situation:	  talking while eating tea and washing up  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  at home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0740XX-ABZZPO.wav
 @Comment:	conversation #20 (Tape 074006)

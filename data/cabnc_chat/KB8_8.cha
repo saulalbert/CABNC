@@ -3,22 +3,22 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , ANN Ann self, REB Rebecca friend, AMY Amy friend, MAT Matthew friend, JAM James friend, BRY Bryony friend, RIC Richard friend, SAL Sally friend, AND Andrea friend, SID Sid friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|ANN|~53;| |f|Ag4| |registered childminder||PS14B|
-@ID: eng|AudioBNC|REB|~9;| |f|Ag0| |student|friend|PS14D|
-@ID: eng|AudioBNC|AMY|~8;| |f|Ag0| |student|friend|PS14E|
-@ID: eng|AudioBNC|MAT|~8;| |m|Ag0| |student|friend|PS14F|
-@ID: eng|AudioBNC|JAM|~2;| |m|Ag0| |pre-school|friend|PS14M|
-@ID: eng|AudioBNC|BRY|~2;| |f|Ag0| |pre-school|friend|PS14N|
-@ID: eng|AudioBNC|RIC|~2;| |m|Ag0| |pre-school|friend|PS14P|
-@ID: eng|AudioBNC|SAL|~10;| |f|Ag0| |student|friend|PS15B|
-@ID: eng|AudioBNC|AND|~37;| |f|Ag3| |teacher|friend|PS15C|
-@ID: eng|AudioBNC|SID|~35+;| |m|Ag3| |teacher|friend|PS15D|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|ANN|~53;| |f|Ag4| |registered childminder||PS14B|
+@ID: eng|CABNC|REB|~9;| |f|Ag0| |student|friend|PS14D|
+@ID: eng|CABNC|AMY|~8;| |f|Ag0| |student|friend|PS14E|
+@ID: eng|CABNC|MAT|~8;| |m|Ag0| |student|friend|PS14F|
+@ID: eng|CABNC|JAM|~2;| |m|Ag0| |pre-school|friend|PS14M|
+@ID: eng|CABNC|BRY|~2;| |f|Ag0| |pre-school|friend|PS14N|
+@ID: eng|CABNC|RIC|~2;| |m|Ag0| |pre-school|friend|PS14P|
+@ID: eng|CABNC|SAL|~10;| |f|Ag0| |student|friend|PS15B|
+@ID: eng|CABNC|AND|~37;| |f|Ag3| |teacher|friend|PS15C|
+@ID: eng|CABNC|SID|~35+;| |m|Ag3| |teacher|friend|PS15D|
 @Media: 021A-C0897X0693XX-AAZZP0.wav, audio 		
 @Date:	1992-04-03:  
 @Situation:	  with children  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  at home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0693XX-AAZZP0.wav
 @Comment:	conversation #8 (Tape 069302)

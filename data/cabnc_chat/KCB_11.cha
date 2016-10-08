@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	GRA Graeme self, ANN Ann wife, SAR Sarah daughter, ANT Antony son-in-law
 @Options:	CA
-@ID: eng|AudioBNC|GRA|~62;| |m|Ag5| |company secretary||PS0DX|
-@ID: eng|AudioBNC|ANN|~58;| |f|Ag4| |housewife|wife|PS0DY|
-@ID: eng|AudioBNC|SAR|~23;| |f|Ag1| |sales representative|daughter|PS0E2|
-@ID: eng|AudioBNC|ANT|~25;| |m|Ag2| |car salesman|son-in-law|PS0E3|
+@ID: eng|CABNC|GRA|~62;| |m|Ag5| |company secretary||PS0DX|
+@ID: eng|CABNC|ANN|~58;| |f|Ag4| |housewife|wife|PS0DY|
+@ID: eng|CABNC|SAR|~23;| |f|Ag1| |sales representative|daughter|PS0E2|
+@ID: eng|CABNC|ANT|~25;| |m|Ag2| |car salesman|son-in-law|PS0E3|
 @Media: 021A-C0897X0431XX-AAZZP0.wav, audio 		
 @Date:	1992-02-22:  
 @Situation:	  visiting daughter  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  daughter's home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0431XX-AAZZP0.wav
 @Comment:	conversation #11 (Tape 043101)

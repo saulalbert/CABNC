@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	JAN Jane self, PHI Phillip husband, DAV David son, JUL Julie babysitter
 @Options:	CA
-@ID: eng|AudioBNC|JAN|~40;| |f|Ag3| |optician/student||PS1BS|
-@ID: eng|AudioBNC|PHI|~46;| |m|Ag4| |chartered engineer|husband|PS1BT|
-@ID: eng|AudioBNC|DAV|~6;| |m|Ag0| |student (state primary)|son|PS1BV|
-@ID: eng|AudioBNC|JUL|~27;| |f|Ag2| |administrative officer|babysitter|PS1BW|
+@ID: eng|CABNC|JAN|~40;| |f|Ag3| |optician/student||PS1BS|
+@ID: eng|CABNC|PHI|~46;| |m|Ag4| |chartered engineer|husband|PS1BT|
+@ID: eng|CABNC|DAV|~6;| |m|Ag0| |student (state primary)|son|PS1BV|
+@ID: eng|CABNC|JUL|~27;| |f|Ag2| |administrative officer|babysitter|PS1BW|
 @Media: 021A-C0897X0763XX-AAZZP0.wav, audio 		
 @Date:	1992-04-06:  
 @Situation:	  baby-sitter arriving  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  at home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0763XX-AAZZP0.wav
 @Comment:	conversation #11 (Tape 076304)

@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , GAV Gavin self, ADR Adrian colleague, STE Steve colleague
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|GAV|~25;| |m|Ag2| |photographer||PS0BA|
-@ID: eng|AudioBNC|ADR|~25;| |m|Ag2| |journalist|colleague|PS0BG|
-@ID: eng|AudioBNC|STE|~25;| |m|Ag2| |journalist|colleague|PS0BH|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|GAV|~25;| |m|Ag2| |photographer||PS0BA|
+@ID: eng|CABNC|ADR|~25;| |m|Ag2| |journalist|colleague|PS0BG|
+@ID: eng|CABNC|STE|~25;| |m|Ag2| |journalist|colleague|PS0BH|
 @Media: 021A-C0897X0557XX-ABZZPO.wav, audio 		
 @Date:	1992-01-13:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 work 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0557XX-ABZZPO.wav
 @Comment:	conversation #11 (Tape 055706)

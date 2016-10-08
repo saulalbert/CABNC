@@ -3,17 +3,17 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , FRA Frank self, STE Steve colleague, GER Gerry customer, REX Rex customer, MAR Marge customer
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|FRA|~50;| |m|Ag4| |tv engineer||PS09E|
-@ID: eng|AudioBNC|STE|~44;| |m|Ag3| |salesman|colleague|PS09G|
-@ID: eng|AudioBNC|GER|~46;| |m|Ag4| |tv dealer|customer|PS09H|
-@ID: eng|AudioBNC|REX|~60;| |m|Ag5| |tv dealer|customer|PS09K|
-@ID: eng|AudioBNC|MAR|~58;| |f|Ag4| |tv dealer|customer|PS09L|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|FRA|~50;| |m|Ag4| |tv engineer||PS09E|
+@ID: eng|CABNC|STE|~44;| |m|Ag3| |salesman|colleague|PS09G|
+@ID: eng|CABNC|GER|~46;| |m|Ag4| |tv dealer|customer|PS09H|
+@ID: eng|CABNC|REX|~60;| |m|Ag5| |tv dealer|customer|PS09K|
+@ID: eng|CABNC|MAR|~58;| |f|Ag4| |tv dealer|customer|PS09L|
 @Media: 021A-C0897X0408XX-AAZZP0.wav, audio 		
 @Date:	1992-02-24:  
 @Situation:	 talking to customers 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 at work 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0408XX-AAZZP0.wav
 @Comment:	conversation #8 (Tape 040801)

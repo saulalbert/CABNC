@@ -3,17 +3,17 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , ANN Ann self, STU Stuart partner, BRE Brenda friend, LYN Lynda friend, NEV Neville friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
-@ID: eng|AudioBNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
-@ID: eng|AudioBNC|BRE|~44;| |f|Ag3| |friend|PS03H|
-@ID: eng|AudioBNC|LYN|~21;| |f|Ag1| |friend|PS03J|
-@ID: eng|AudioBNC|NEV|~50;| |m|Ag4| |friend|PS03K|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
+@ID: eng|CABNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
+@ID: eng|CABNC|BRE|~44;| |f|Ag3| |friend|PS03H|
+@ID: eng|CABNC|LYN|~21;| |f|Ag1| |friend|PS03J|
+@ID: eng|CABNC|NEV|~50;| |m|Ag4| |friend|PS03K|
 @Media: 021A-C0897X0192XX-AAZZP0.wav, audio 		
 @Date:	1991-12-04:  
 @Situation:	  relaxing after work  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  pub  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0192XX-AAZZP0.wav
 @Comment:	conversation #49 (Tape 019201)

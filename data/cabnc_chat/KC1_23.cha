@@ -3,13 +3,13 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , FRA Frank self, STE Steve colleague
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|FRA|~50;| |m|Ag4| |tv engineer||PS09E|
-@ID: eng|AudioBNC|STE|~44;| |m|Ag3| |salesman|colleague|PS09G|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|FRA|~50;| |m|Ag4| |tv engineer||PS09E|
+@ID: eng|CABNC|STE|~44;| |m|Ag3| |salesman|colleague|PS09G|
 @Media: 021A-C0897X0410XX-AAZZP0.wav, audio 		
 @Date:	1992-02-27:  
 @Situation:	 servicing televisions 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0410XX-AAZZP0.wav
 @Comment:	conversation #23 (Tape 041003)
 *FRA:	You don't know what's on channel one do you, at the moment? •129738_130046•

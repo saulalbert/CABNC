@@ -3,16 +3,16 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , JAN Jane self, CHR Chris sister-in-law, MAD Madge sister-in-law's mother, MAR Margaret friend, BIL Bill sister-in-law's father
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|JAN|~33;| |f|Ag2| |housewife||PS19L|
-@ID: eng|AudioBNC|CHR|~41;| |f|Ag3| |barmaid|sister-in-law|PS19P|
-@ID: eng|AudioBNC|MAD|~65+;| |f|Ag5| |housewife|sister-in-law's mother|PS19R|
-@ID: eng|AudioBNC|MAR|~65+;| |f|Ag5| |housewife|friend|PS19S|
-@ID: eng|AudioBNC|BIL|~65+;| |m|Ag5| |retired|sister-in-law's father|PS19T|		
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|JAN|~33;| |f|Ag2| |housewife||PS19L|
+@ID: eng|CABNC|CHR|~41;| |f|Ag3| |barmaid|sister-in-law|PS19P|
+@ID: eng|CABNC|MAD|~65+;| |f|Ag5| |housewife|sister-in-law's mother|PS19R|
+@ID: eng|CABNC|MAR|~65+;| |f|Ag5| |housewife|friend|PS19S|
+@ID: eng|CABNC|BIL|~65+;| |m|Ag5| |retired|sister-in-law's father|PS19T|		
 @Date:	1992-04-03:  
 @Situation:	  talking to friends and in-laws  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  brother's house  
 @Comment:	conversation #7 (Tape 073807)File not found : 
 *JAN:	Now don't mind me and don't mind it. •_•

@@ -3,15 +3,15 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , HEL Helena self, JOA Joanne friend, SUS Susan friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|HEL|~16;| |f|Ag1| |student||PS0EB|
-@ID: eng|AudioBNC|JOA|~13;| |f|Ag0| |student|friend|PS0EF|
-@ID: eng|AudioBNC|SUS|~16;| |f|Ag1| |student|friend|PS0EK|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|HEL|~16;| |f|Ag1| |student||PS0EB|
+@ID: eng|CABNC|JOA|~13;| |f|Ag0| |student|friend|PS0EF|
+@ID: eng|CABNC|SUS|~16;| |f|Ag1| |student|friend|PS0EK|
 @Media: 021A-C0897X0296XX-AAZZP0.wav, audio 		
 @Date:	1992-03-15:  
 @Situation:	  talking with friends  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  at school  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0296XX-AAZZP0.wav
 @Comment:	conversation #12 (Tape 029602)

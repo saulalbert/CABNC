@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , CHR Chris self, DAV David friend, SIM Simon friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|CHR|~15;| |m|Ag1| |student||PS1BL|
-@ID: eng|AudioBNC|DAV|~16;| |m|Ag1| |student|friend|PS1BN|
-@ID: eng|AudioBNC|SIM|~15;| |m|Ag1| |student|friend|PS1BR|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|CHR|~15;| |m|Ag1| |student||PS1BL|
+@ID: eng|CABNC|DAV|~16;| |m|Ag1| |student|friend|PS1BN|
+@ID: eng|CABNC|SIM|~15;| |m|Ag1| |student|friend|PS1BR|
 @Media: 021A-C0897X0725XX-AAZZP0.wav, audio 		
 @Date:	1992-04-07:  
 @Situation:	 in physics lesson and outside playing football 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 at school 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0725XX-AAZZP0.wav
 @Comment:	conversation #7 (Tape 072501)

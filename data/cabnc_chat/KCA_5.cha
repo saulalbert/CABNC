@@ -3,17 +3,17 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , GOR Gordon self, DEB Debbie wife, HAY Hayley cousin, LYN Lyn friend, TOM Tom friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|GOR|~32;| |m|Ag2| |unemployed||PS0DL|
-@ID: eng|AudioBNC|DEB|~29;| |f|Ag2| |housewife|wife|PS0DM|
-@ID: eng|AudioBNC|HAY|~29;| |f|Ag2| |housewife|cousin|PS0DN|
-@ID: eng|AudioBNC|LYN|~32;| |f|Ag2| |housewife|friend|PS0DP|
-@ID: eng|AudioBNC|TOM|~56;| |m|Ag4| |factory worker|friend|PS0DR|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|GOR|~32;| |m|Ag2| |unemployed||PS0DL|
+@ID: eng|CABNC|DEB|~29;| |f|Ag2| |housewife|wife|PS0DM|
+@ID: eng|CABNC|HAY|~29;| |f|Ag2| |housewife|cousin|PS0DN|
+@ID: eng|CABNC|LYN|~32;| |f|Ag2| |housewife|friend|PS0DP|
+@ID: eng|CABNC|TOM|~56;| |m|Ag4| |factory worker|friend|PS0DR|
 @Media: 021A-C0897X0541XX-ABZZPO.wav, audio 		
 @Date:	1992-01-11:  
 @Situation:	  with friends  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  in pub  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0541XX-ABZZPO.wav
 @Comment:	conversation #8 (Tape 054108)

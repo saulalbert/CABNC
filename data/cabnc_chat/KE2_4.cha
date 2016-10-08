@@ -3,14 +3,14 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , TER Terence self, LUC Lucy friend, HOL Holly friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|TER|~70;| |m|Ag5| |retired (headteacher)||PS0W2|
-@ID: eng|AudioBNC|LUC|~13;| |f|Ag0| |student|friend|PS0W5|
-@ID: eng|AudioBNC|HOL|~13;| |f|Ag0| |student|friend|PS0W6|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|TER|~70;| |m|Ag5| |retired (headteacher)||PS0W2|
+@ID: eng|CABNC|LUC|~13;| |f|Ag0| |student|friend|PS0W5|
+@ID: eng|CABNC|HOL|~13;| |f|Ag0| |student|friend|PS0W6|
 @Media: 021A-C0897X0379XX-ABZZP0.wav, audio 		
 @Date:	1992-02-20:  
 @Situation:	 teaching 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 at home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0379XX-ABZZP0.wav
 @Comment:	conversation #4 (Tape 037904)

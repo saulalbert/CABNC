@@ -3,15 +3,15 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , TON Tony self, JAC Jackie wife, CHR Christine daughter, MUM Mum mother
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|TON|~37;| |m|Ag3| |civil service||PS0V4|
-@ID: eng|AudioBNC|JAC|~35;| |f|Ag3| |civil servant (pt)|wife|PS0V5|
-@ID: eng|AudioBNC|CHR|~11;| |f|Ag0| |student (state secondary)|daughter|PS0V6|
-@ID: eng|AudioBNC|MUM|~59;| |f|Ag4| |shop assistant|mother|PS0V8|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|TON|~37;| |m|Ag3| |civil service||PS0V4|
+@ID: eng|CABNC|JAC|~35;| |f|Ag3| |civil servant (pt)|wife|PS0V5|
+@ID: eng|CABNC|CHR|~11;| |f|Ag0| |student (state secondary)|daughter|PS0V6|
+@ID: eng|CABNC|MUM|~59;| |f|Ag4| |shop assistant|mother|PS0V8|
 @Media: 021A-C0897X0107XX-ABZZP0.wav, audio 		
 @Date:	1991-12-01:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 Aunt's house 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0107XX-ABZZP0.wav
 @Comment:	conversation #86 (Tape 010708)

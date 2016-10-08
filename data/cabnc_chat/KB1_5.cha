@@ -3,15 +3,15 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , ALB Albert self, JUN June wife, KAR Karen sister-in-law, SAS Sasha niece
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|ALB|~53;| |m|Ag4| |unemployed||PS01A|
-@ID: eng|AudioBNC|JUN|~47;| |f|Ag4| |forecourt attendant|wife|PS01B|
-@ID: eng|AudioBNC|KAR|~38;| |f|Ag3| |housewife|sister-in-law|PS01F|
-@ID: eng|AudioBNC|SAS|~5;| |f|Ag0| |student|niece|PS01G|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|ALB|~53;| |m|Ag4| |unemployed||PS01A|
+@ID: eng|CABNC|JUN|~47;| |f|Ag4| |forecourt attendant|wife|PS01B|
+@ID: eng|CABNC|KAR|~38;| |f|Ag3| |housewife|sister-in-law|PS01F|
+@ID: eng|CABNC|SAS|~5;| |f|Ag0| |student|niece|PS01G|
 @Media: 021A-C0897X0599XX-AAZZP0.wav, audio 		
 @Date:	1992-02-01:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  home and car  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0599XX-AAZZP0.wav
 @Comment:	conversation #5 (Tape 059902)

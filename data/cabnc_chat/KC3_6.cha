@@ -3,16 +3,16 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , FRE Frederick self, JOA Joan friend, VIC Vicki friend, HEI Heidi friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|FRE|~66;| |m|Ag5| |retired (social worker)||PS0A8|
-@ID: eng|AudioBNC|JOA|~68;| |f|Ag5| |housewife|friend|PS0AB|
-@ID: eng|AudioBNC|VIC|~40;| |f|Ag3| |teacher|friend|PS0AC|
-@ID: eng|AudioBNC|HEI|~15;| |f|Ag1| |schoolgirl|friend|PS0AD|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|FRE|~66;| |m|Ag5| |retired (social worker)||PS0A8|
+@ID: eng|CABNC|JOA|~68;| |f|Ag5| |housewife|friend|PS0AB|
+@ID: eng|CABNC|VIC|~40;| |f|Ag3| |teacher|friend|PS0AC|
+@ID: eng|CABNC|HEI|~15;| |f|Ag1| |schoolgirl|friend|PS0AD|
 @Media: 021A-C0897X0517XX-ABZZPO.wav, audio 		
 @Date:	1992-01-12:  
 @Situation:	  visiting for lunch  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  friends' home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0517XX-ABZZPO.wav
 @Comment:	conversation #6 (Tape 051704)

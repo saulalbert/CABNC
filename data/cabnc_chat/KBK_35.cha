@@ -3,12 +3,12 @@
 @Languages:     eng
 @Participants:	CHR Chris self, BIL Bill neighbour
 @Options:	CA
-@ID: eng|AudioBNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
-@ID: eng|AudioBNC|BIL|~30+;| |m|Ag2| |plastics company director|neighbour|PS104|
+@ID: eng|CABNC|CHR|~51;| |m|Ag4| |export merchant||PS05X|
+@ID: eng|CABNC|BIL|~30+;| |m|Ag2| |plastics company director|neighbour|PS104|
 @Media: 021A-C0897X0022XX-AAZZP0.wav, audio 		
 @Date:	1991-05-31:  
 @Situation:	Unspecified		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 Home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0022XX-AAZZP0.wav
 @Comment:	conversation #35 (Tape 002202)

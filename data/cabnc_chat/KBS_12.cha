@@ -3,15 +3,15 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , DAD Dad self, MUM Mum wife, JAN Jane hairdresser, ADA Adam hairdresser's son
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|DAD|~79;| |m|Ag5| |retired||PS079|
-@ID: eng|AudioBNC|MUM|~81;| |f|Ag5| |retired|wife|PS07A|
-@ID: eng|AudioBNC|JAN|~30;| |f|Ag2| |hairdresser|hairdresser|PS07C|
-@ID: eng|AudioBNC|ADA|~8;| |m|Ag0| |student|hairdresser's son|PS07D|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|DAD|~79;| |m|Ag5| |retired||PS079|
+@ID: eng|CABNC|MUM|~81;| |f|Ag5| |retired|wife|PS07A|
+@ID: eng|CABNC|JAN|~30;| |f|Ag2| |hairdresser|hairdresser|PS07C|
+@ID: eng|CABNC|ADA|~8;| |m|Ag0| |student|hairdresser's son|PS07D|
 @Media: 021A-C0897X0549XX-ABZZPO.wav, audio 		
 @Date:	unknown date:  
 @Situation:	  playing cards while wife has hair done  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  at home  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0549XX-ABZZPO.wav
 @Comment:	conversation #12 (Tape 054906)

@@ -3,13 +3,13 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , FRA Frank self, GER Gerry customer
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|FRA|~50;| |m|Ag4| |tv engineer||PS09E|
-@ID: eng|AudioBNC|GER|~46;| |m|Ag4| |tv dealer|customer|PS09H|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|FRA|~50;| |m|Ag4| |tv engineer||PS09E|
+@ID: eng|CABNC|GER|~46;| |m|Ag4| |tv dealer|customer|PS09H|
 @Media: 021A-C0897X0407XX-ABZZPO.wav, audio 		
 @Date:	1992-02-24:  
 @Situation:	 servicing electrical goods 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 at work 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0407XX-ABZZPO.wav
 @Comment:	conversation #3 (Tape 040703)

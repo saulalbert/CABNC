@@ -3,17 +3,17 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , UNK Unknown Unknown  , ANN Ann self, STU Stuart partner, STE Steven colleague, MAX Maxine colleague, MER Mervin colleague
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS001|
-@ID: eng|AudioBNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
-@ID: eng|AudioBNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
-@ID: eng|AudioBNC|STE|~26;| |m|Ag2| |process worker|colleague|PS038|
-@ID: eng|AudioBNC|MAX|~25;| |f|Ag2| |process worker|colleague|PS03M|
-@ID: eng|AudioBNC|MER|~36;| |m|Ag3| |process worker|colleague|PS03N|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS001|
+@ID: eng|CABNC|ANN|~46;| |f|Ag4| |team leader||PS02G|
+@ID: eng|CABNC|STU|~33;| |m|Ag2| |factory operative|partner|PS02H|
+@ID: eng|CABNC|STE|~26;| |m|Ag2| |process worker|colleague|PS038|
+@ID: eng|CABNC|MAX|~25;| |f|Ag2| |process worker|colleague|PS03M|
+@ID: eng|CABNC|MER|~36;| |m|Ag3| |process worker|colleague|PS03N|
 @Media: 021A-C0897X0195XX-AAZZP0.wav, audio 		
 @Date:	1991-12-05:  
 @Situation:	  chatting before work  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  work  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0195XX-AAZZP0.wav
 @Comment:	conversation #60 (Tape 019504)

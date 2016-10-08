@@ -3,18 +3,18 @@
 @Languages:     eng
 @Participants:	UNK Unknown Unknown  , ANN Ann self, REB Rebecca friend, AMY Amy friend, MAT Matthew friend, ERI Erin friend, KAT Kathy friend, LOU Louise friend
 @Options:	CA
-@ID: eng|AudioBNC|UNK|unknown ||| |role unspecified|PS000|
-@ID: eng|AudioBNC|ANN|~53;| |f|Ag4| |registered childminder||PS14B|
-@ID: eng|AudioBNC|REB|~9;| |f|Ag0| |student|friend|PS14D|
-@ID: eng|AudioBNC|AMY|~8;| |f|Ag0| |student|friend|PS14E|
-@ID: eng|AudioBNC|MAT|~8;| |m|Ag0| |student|friend|PS14F|
-@ID: eng|AudioBNC|ERI|~7;| |f|Ag0| |student|friend|PS16F|
-@ID: eng|AudioBNC|KAT|~32;| |f|Ag2| |housewife|friend|PS16G|
-@ID: eng|AudioBNC|LOU|~29;| |f|Ag2| |housewife|friend|PS18D|
+@ID: eng|CABNC|UNK|unknown ||| |role unspecified|PS000|
+@ID: eng|CABNC|ANN|~53;| |f|Ag4| |registered childminder||PS14B|
+@ID: eng|CABNC|REB|~9;| |f|Ag0| |student|friend|PS14D|
+@ID: eng|CABNC|AMY|~8;| |f|Ag0| |student|friend|PS14E|
+@ID: eng|CABNC|MAT|~8;| |m|Ag0| |student|friend|PS14F|
+@ID: eng|CABNC|ERI|~7;| |f|Ag0| |student|friend|PS16F|
+@ID: eng|CABNC|KAT|~32;| |f|Ag2| |housewife|friend|PS16G|
+@ID: eng|CABNC|LOU|~29;| |f|Ag2| |housewife|friend|PS18D|
 @Media: 021A-C0897X0700XX-AAZZP0.wav, audio 		
 @Date:	1992-04-06:  
 @Situation:	  going to school  		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	  home and outside  
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0700XX-AAZZP0.wav
 @Comment:	conversation #21 (Tape 070001)

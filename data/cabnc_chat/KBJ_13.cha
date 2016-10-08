@@ -3,13 +3,13 @@
 @Languages:     eng
 @Participants:	CAR Carol self, EMM Emma daughter, ADE Adele daughter's friend
 @Options:	CA
-@ID: eng|AudioBNC|CAR|~44;| |f|Ag3| |courier||PS1DP|
-@ID: eng|AudioBNC|EMM|~11;| |f|Ag0| |student (state secondary)|daughter|PS1DR|
-@ID: eng|AudioBNC|ADE|~11;| |f|Ag0| |schoolgirl|daughter's friend|PS1DV|
+@ID: eng|CABNC|CAR|~44;| |f|Ag3| |courier||PS1DP|
+@ID: eng|CABNC|EMM|~11;| |f|Ag0| |student (state secondary)|daughter|PS1DR|
+@ID: eng|CABNC|ADE|~11;| |f|Ag0| |schoolgirl|daughter's friend|PS1DV|
 @Media: 021A-C0897X0520XX-ABZZPO.wav, audio 		
 @Date:	1992-01-12:  
 @Situation:	 daughter and friend playing 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 at home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0520XX-ABZZPO.wav
 @Comment:	conversation #13 (Tape 052013)

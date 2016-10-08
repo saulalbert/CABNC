@@ -3,13 +3,13 @@
 @Languages:     eng
 @Participants:	FRA Frank self, LYN Lyn wife, JON Jonny son
 @Options:	CA
-@ID: eng|AudioBNC|FRA|~50;| |m|Ag4| |tv engineer||PS09E|
-@ID: eng|AudioBNC|LYN|~48;| |f|Ag4| |housewife|wife|PS09F|
-@ID: eng|AudioBNC|JON|~4;| |m|Ag0| |pre-school|son|PS09M|
+@ID: eng|CABNC|FRA|~50;| |m|Ag4| |tv engineer||PS09E|
+@ID: eng|CABNC|LYN|~48;| |f|Ag4| |housewife|wife|PS09F|
+@ID: eng|CABNC|JON|~4;| |m|Ag0| |pre-school|son|PS09M|
 @Media: 021A-C0897X0410XX-ABZZPO.wav, audio 		
 @Date:	1992-02-27:  
 @Situation:	 evening at home 		
-@Transcriber:	AudioBNC project (https://saulalbert.github.io/CABNC/)
+@Transcriber:	CABNC project (https://saulalbert.github.io/CABNC/)
 @Location:	 home 
 @Comment:	audio available at: http://bnc.phon.ox.ac.uk/data/021A-C0897X0410XX-ABZZPO.wav
 @Comment:	conversation #26 (Tape 041006)

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd" Media="021A-C0897X0468XX-AAZZP0" Mediatypes="audio" PID="KE1RE009" Version="2.5.0" Lang="eng" Corpus="CABNC" Date="1992-04-16  "><Participants><participant custom-field="SES is AB" id="PS0TU" role="Unidentified" sex="male" language="eng" age="P17Y1M1D" name="Stephen" group="student"/><participant custom-field="SES is UU" id="PS0TV" role="Unidentified" sex="male" language="eng" age="P1Y1M1D" name="None" group="Unidentified"/></Participants><comment type="Transcriber">LongmanELT</comment><comment type="Location">Antrim:   Lisburn  </comment><comment type="Room Layout">atwork/friendshouse</comment><comment type="Situation">Unspecified</comment><comment type="Date">16-APR-1992</comment><comment type="New Episode"/><u who="PS0TV" uID="u1"><w>From</w><w>your</w><w>mum</w><w>and</w><w>dad</w><w>or</w><w>from</w><w>work</w>&#xD;
+<t type="p"/><postcode>dia</postcode><media start="2421.95250" end="2425.44251" unit="s"/></u><u who="PS0TU" uID="u2"><w>No</w><w>from</w><w>somewhere</w><w>else</w>&#xD;
+<t type="p"/><postcode>dia</postcode><media start="2425.51250" end="2427.90251" unit="s"/></u><u who="PS0TV" uID="u3"><w>Who</w>&#xD;
+<t type="p"/><postcode>dia</postcode><media start="2427.99250" end="2428.05251" unit="s"/></u><u who="PS0TU" uID="u4"><w>Another</w><w>source</w>&#xD;
+<t type="p"/><postcode>dia</postcode><media start="2428.10250" end="2428.66251" unit="s"/></u><u who="PS0TV" uID="u5"><w>Who</w>&#xD;
+<t type="p"/><postcode>dia</postcode><media start="2428.66250" end="2429.41251" unit="s"/></u><u who="PS0TU" uID="u6"><w>No</w><w>I</w><w>have</w><w>to</w><w>go</w>&#xD;
+<t type="p"/><postcode>dia</postcode><media start="2429.73250" end="2430.33251" unit="s"/></u><u who="PS0TV" uID="u7"><w>Tell</w><w>me</w><w>who</w><w>Your</w><w>granddad</w>&#xD;
+<t type="p"/><postcode>dia</postcode><media start="2430.65250" end="2432.03251" unit="s"/></u><u who="PS0TU" uID="u8"><w>No</w>&#xD;
+<t type="p"/><postcode>dia</postcode><media start="2432.33250" end="2432.66251" unit="s"/></u><u who="PS0TV" uID="u9"><w>Who</w>&#xD;
+<t type="p"/><postcode>dia</postcode><media start="2432.80250" end="2433.20251" unit="s"/></u><u who="PS0TU" uID="u10"><w>Look</w><w>I</w><w>just</w><w>have</w><w>to</w><w>go</w><w>Okay</w>&#xD;
+<t type="p"/><postcode>dia</postcode><media start="2433.37250" end="2434.67251" unit="s"/></u><u who="PS0TV" uID="u11"><w>Fine</w>&#xD;
+<t type="p"/><postcode>dia</postcode><media start="2435.59250" end="2435.92251" unit="s"/></u><u who="PS0TU" uID="u12"><e><action/></e><t type="p"/><postcode>dia</postcode></u><u who="PS0TV" uID="u13"><w>Cheerio</w>&#xD;
+<t type="p"/><postcode>dia</postcode><media start="2436.77250" end="2437.10251" unit="s"/></u><u who="PS0TU" uID="u14"><w>Right</w><w>see</w><w>you</w>&#xD;
+<t type="p"/><postcode>dia</postcode><media start="2437.50250" end="2438.06251" unit="s"/></u><u who="PS0TV" uID="u15"><w>Bye</w>&#xD;
+<t type="p"/><postcode>dia</postcode><media start="2438.06250" end="2438.24251" unit="s"/></u><u who="PS0TU" uID="u16"><w>Bye</w>&#xD;
+<t type="p"/><postcode>dia</postcode><media start="2438.47250" end="2438.72251" unit="s"/></u></CHAT>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd" Media="021A-C0897X0490XX-AAZZPO" Mediatypes="audio" PID="KBBRE000" Version="2.5.0" Lang="eng" Corpus="CABNC" Date="1992-01-13  "><Participants><participant custom-field="SES is C2" id="PS03S" role="Unidentified" sex="male" language="eng" age="P82Y1M1D" name="Arthur" group="retired (precision engineer)"/><participant custom-field="SES is C2" id="PS03T" role="Unidentified" sex="female" language="eng" age="P75Y1M1D" name="Evelyn" group="retired"/><participant custom-field="SES is UU" id="KBBPSUN" role="Unidentified" sex="male" language="eng" age="P1Y1M1D" name="Unknown_speaker" group="Unidentified"/></Participants><comment type="Transcriber">LongmanELT</comment><comment type="Location">Leicestershire:   Leicester  </comment><comment type="Room Layout">home</comment><comment type="Situation">Unspecified</comment><comment type="Date">13-JAN-1992</comment><comment type="New Episode"/><u who="KBBPSUN" uID="u1"><w>Well</w><w>you</w><w>can</w><w>do</w><w>I</w><w>'m</w><w>going</w><w>to</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS03S" uID="u2"><w>How</w><w>long</w><w>will</w><w>you</w><w>be</w><w>doing</w><w>your</w><w>cake</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS03T" uID="u3"><w>I</w><w>'m</w><w>not</w><w>making</w><w>a</w><w>cake</w><w>I</w><w>'m</w><w>making</w><w>marmalade</w><w>this</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS03S" uID="u4"><w>Oh</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS03T" uID="u5"><w>this</w><w>afternoon</w><w>Still</w><w>got</w><w>Christmas</w><w>cake</w><w>so</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS03S" uID="u6"><w>I</w><w>know</w><w>But</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS03T" uID="u7"><w>Anyway</w><w>what</w><w>'s</w><w>on</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS03S" uID="u8"><w>How</w><w>much</w><w>of</w><w>that</w><w>is</w><w>left</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS03T" uID="u9"><w>Not</w><w>much</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS03S" uID="u10"><w>Of</w><w>the</w><w>cake</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS03T" uID="u11"><w>Not</w><w>much</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u></CHAT>

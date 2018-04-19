@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank http://talkbank.org/software/talkbank.xsd" Media="021A-C0897X0049XX-ABZZPO" Mediatypes="audio" PID="KCDRE015" Version="2.5.0" Lang="eng" Corpus="CABNC" Date="1991-06-01 "><Participants><participant custom-field="SES is AB" id="PS0E8" role="Unidentified" sex="female" language="eng" age="P40Y1M1D" name="Helen" group="laboratory technician"/><participant custom-field="SES is AB" id="PS0E9" role="Unidentified" sex="female" language="eng" age="P11Y1M1D" name="Clare" group="student (state primary)"/></Participants><comment type="Transcriber">LongmanELT</comment><comment type="Location">Kent:  bickley </comment><comment type="Room Layout">shopping</comment><comment type="Situation">Unspecified</comment><comment type="Date">01-JUN-1991</comment><comment type="New Episode"/><u who="PS0E8" uID="u1"><w>No</w><w>I</w><w>should</w><w>put</w><w>your</w><w>anorak</w><w>on</w><w>cos</w><w>it</w><w>'s</w><w>getting</w><w>cooler</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS0E9" uID="u2"><w>Oh</w><w>alright</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS0E8" uID="u3"><w>I</w><w>would</w><w>n't</w><w>be</w><w>out</w><w>too</w><w>long</w><w>cos</w><w>it</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS0E9" uID="u4"><w>Do</w><w>what</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS0E8" uID="u5"><w>Well</w><w>you</w><w>tend</w><w>to</w><w>cough</w><w>do</w><w>n't</w><w>you</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS0E9" uID="u6"><w>Hm</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS0E8" uID="u7"><w>I</w><w>'d</w><w>really</w><w>rather</w><w>you</w><w>wo-</w><w>got</w><w>a</w><w>bit</w><w>better</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS0E9" uID="u8"><w>Is</w><w>that</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS0E8" uID="u9"><w>Pardon</w><w>Are</w><w>you</w><w>going</w><w>to</w><w>put</w><w>your</w><w>anorak</w><w>on</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS0E9" uID="u10"><w>No</w><w>I</w><w>'m</w><w>not</w><w>going</w><w>to</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS0E8" uID="u11"><w>What</w><w>you</w><w>going</w><w>oh</w><w>oh</w><w>I</w><w>see</w>&#xD;
+<t type="p"/><postcode>dia</postcode></u><u who="PS0E9" uID="u12"><e><action/></e><t type="p"/><postcode>dia</postcode></u></CHAT>

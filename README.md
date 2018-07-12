@@ -16,7 +16,7 @@ the corpus over time.
 
 ### Using transcripts
 
-* You can browse the latest versions of individual CABNC transcripts as [CHAT-CA files here](https://github.com/saulalbert/CABNC/tree/master/data/cabnc_chat), and the latest stable release of CABNC can be [downloaded as an archive here](https://github.com/saulalbert/CABNC/blob/master/packages/cabnc_subcorpus_chat.tar.gz?raw=true).
+* You can browse and listen to the latest versions of individual CABNC transcripts as [CHAT-CA files on TalkBank](https://ca.talkbank.org/browser/index.php?url=CABNC/), and the latest stable release of CABNC can be [downloaded as an archive from TalkBank](https://ca.talkbank.org/access/CABNC.html).
 * The corresponding audio files for each transcript can be downloaded from the [Audio BNC project’s list of urls](http://bnc.phon.ox.ac.uk/filelist-wav.txt).
 
 To edit transcripts in [CLAN](http://childes.psy.cmu.edu/clan/), place both the
